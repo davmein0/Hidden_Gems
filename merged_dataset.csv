@@ -1,0 +1,490 @@
+Ticker,Name,MarketCap,Sector,Industry,PE_Ratio,PB_Ratio,DE_Ratio,PEG_Ratio,FreeCashFlow
+OTEX,Open Text Corporation,9962884096,Technology,Software - Application,23.703032,2.4899726,169.087,,943804480.0
+TLT,iShares 20+ Year Treasury Bond ,9938271232,,,-4528.0,0.6083364,,,
+IUSV,iShares Core S&P U.S. Value ETF,9909702656,,,22.299932,1.4071629,,,
+LSCC,Lattice Semiconductor Corporati,9896180736,Technology,Semiconductors,314.08694,14.370399,3.187,,136467248.0
+BPYPP,Brookfield Property Partners L.,9869541376,Real Estate,Real Estate Services,6.789617,0.69855696,131.69,,953124992.0
+NVMI,Nova Ltd.,9851438080,Technology,Semiconductor Equipment & Materials,44.981686,8.965923,19.083,,140873632.0
+MDGL,"Madrigal Pharmaceuticals, Inc.",9658052608,Healthcare,Biotechnology,-30.835243,13.743495,17.809,,-219782000.0
+PEGA,Pegasystems Inc.,9456484352,Technology,Software - Application,45.21311,15.112329,12.652,,463842752.0
+MNDY,monday.com Ltd.,9392161792,Technology,Software - Application,242.76001,7.871596,10.585,,247737376.0
+FYBR,"Frontier Communications Parent,",9385523200,Communication Services,Telecom Services,-55.17647,1.9725567,249.317,,-727875008.0
+IDCC,"InterDigital, Inc.",9368321024,Technology,Software - Application,25.854403,8.665112,44.867,,202142880.0
+FIGR,"Figure Technology Solutions, In",9347440640,Financial Services,Capital Markets,148.54999,5.5768986,181.844,,
+TECH,Bio-Techne Corp,9307042816,Healthcare,Biotechnology,129.78261,4.821515,23.142,,313920256.0
+MORN,"Morningstar, Inc.",9296816128,Financial Services,Financial Data & Stock Exchanges,23.491491,5.7686987,64.045,,438262496.0
+ALGN,"Align Technology, Inc.",9283330048,Healthcare,Medical Instruments & Supplies,21.72804,2.3829198,3.144,,676427136.0
+RGC,Regencell Bioscience Holdings L,9241997312,Healthcare,Drug Manufacturers - Specialty & Generic,,1340.7142,0.0,,
+RVMD,"Revolution Medicines, Inc.",9219545088,Healthcare,Biotechnology,-12.162962,4.935377,7.119,,-396289984.0
+MKSI,MKS Inc.,9123214336,Technology,Scientific & Technical Instruments,34.3038,3.5666342,183.98,,590750016.0
+DOX,Amdocs Limited,9087539200,Technology,Software - Infrastructure,16.765182,2.6001508,23.654,,563537280.0
+PPC,Pilgrim's Pride Corporation,8991170560,Consumer Defensive,Packaged Foods,7.3066278,2.4083195,89.674,,976718720.0
+CPB,The Campbell's Company,8929602560,Consumer Defensive,Packaged Foods,15.047761,2.309913,184.734,,718875008.0
+LBRDA,Liberty Broadband Corporation,8831432704,Communication Services,Telecom Services,8.07124,0.8444211,32.802,,14500000.0
+LBRDK,Liberty Broadband Corporation,8830640128,Communication Services,Telecom Services,8.096306,0.8470435,32.802,,14500000.0
+UMBF,UMB Financial Corporation,8830456832,Financial Services,Banks - Regional,13.148357,1.2810893,,,
+AGNCM,AGNC Investment Corp. - Deposit,8819795968,Real Estate,REIT - Mortgage,,2.966272,669.943,,
+AGNCN,AGNC Investment Corp. - Deposit,8809999360,Real Estate,REIT - Mortgage,,3.0690937,669.943,,
+TTAN,"ServiceTitan, Inc.",8742757376,Technology,Software - Application,97.88867,5.860446,10.64,,99254128.0
+XP,XP Inc.,8736754688,Financial Services,Capital Markets,10.057575,0.3926695,774.535,,
+CAI,"Caris Life Sciences, Inc.",8726331392,Healthcare,Biotechnology,133.86737,19.39789,92.51,,
+NTSK,"Netskope, Inc.",8692164608,Technology,Software - Infrastructure,,-1.492866,,,
+TTEK,"Tetra Tech, Inc.",8650500096,Industrials,Engineering & Construction,41.1875,4.9698343,61.514,,464584256.0
+MMYT,MakeMyTrip Limited,8640333824,Consumer Cyclical,Travel Services,105.49418,184.77597,2202.765,,99894000.0
+WTFC,Wintrust Financial Corporation,8561523712,Financial Services,Banks - Regional,12.077505,1.3389218,,,
+SOUN,"SoundHound AI, Inc.",8530835456,Technology,Software - Application,-104.325,23.523111,1.22,,-4846250.0
+FSV,FirstService Corporation,8528809984,Real Estate,Real Estate Services,59.955128,6.7925487,90.421,,207091248.0
+RGEN,Repligen Corporation,8476897280,Healthcare,Medical Instruments & Supplies,84.49438,4.1035714,33.276,,155349376.0
+MARA,"MARA Holdings, Inc.",8468667392,Financial Services,Capital Markets,12.422043,1.747202,55.154,,201091376.0
+SFD,"Smithfield Foods, Inc.",8446026752,Consumer Defensive,Packaged Foods,10.233334,1.3407786,36.511,,
+AAON,"AAON, Inc.",8443316224,Industrials,Building Products & Equipment,70.90136,10.201136,8.581,,-207260256.0
+FIVE,"Five Below, Inc.",8420711936,Consumer Cyclical,Specialty Retail,30.608082,4.3808007,105.84,,273983264.0
+ONB,Old National Bancorp,8362185728,Financial Services,Banks - Regional,12.666668,1.0559746,,,
+GRFS,"Grifols, S.A.",8354627584,Healthcare,Drug Manufacturers - General,18.7451,1.2585572,126.869,,718491904.0
+DSGX,The Descartes Systems Group Inc,8320276992,Technology,Software - Application,57.121304,5.5308237,0.532,,219507872.0
+QRVO,"Qorvo, Inc.",8301821952,Technology,Semiconductors,105.31176,2.4168422,45.073,,690428096.0
+TSEM,Tower Semiconductor Ltd.,8296039936,Technology,Semiconductors,42.488506,2.9793665,6.347,,-89548128.0
+APA,APA Corporation,8277389824,Energy,Oil & Gas E&P,8.00173,1.4050064,67.565,,2051250048.0
+CORT,Corcept Therapeutics Incorporat,8271680512,Healthcare,Biotechnology,70.66965,13.106475,1.039,,166875872.0
+PCTY,Paylocity Holding Corporation,8262660096,Technology,Software - Application,37.19776,6.710721,14.09,,345396000.0
+LLYVA,Liberty Media Corporation - Ser,8244661760,Communication Services,Entertainment,47.05914,-15.739975,,,
+LLYVK,Liberty Media Corporation - Ser,8236458496,Communication Services,Entertainment,48.47312,-16.212912,,,
+BPOP,"Popular, Inc.",8168738816,Financial Services,Banks - Regional,11.723301,1.3829397,,,
+RIOT,"Riot Platforms, Inc.",8159431680,Financial Services,Capital Markets,-65.0147,2.436081,26.382,,-107555752.0
+AAL,"American Airlines Group, Inc.",8158782976,Industrials,Airlines,14.791073,-2.1184144,,,579500032.0
+NICE,NICE Ltd,8156118016,Technology,Software - Application,15.376491,2.146653,14.446,,532428128.0
+LYFT,"Lyft, Inc.",8151184384,Technology,Software - Application,86.652176,11.184063,110.448,,969000512.0
+JAZZ,Jazz Pharmaceuticals plc,8150723584,Healthcare,Biotechnology,6.2634506,2.2093878,146.588,,1356260480.0
+SRAD,Sportradar Group AG,8137190912,Technology,Software - Application,70.512825,29.60172,5.532,,200089744.0
+APPF,"AppFolio, Inc.",8105473024,Technology,Software - Application,41.066906,17.869228,8.701,,175103632.0
+STEP,StepStone Group Inc.,8062774272,Financial Services,Asset Management,29.375565,33.122448,22.509,,1390065536.0
+GH,"Guardant Health, Inc.",8057245184,Healthcare,Diagnostics & Research,-23.97417,-26.475143,,,-131174000.0
+CIFR,Cipher Mining Inc.,8030900224,Financial Services,Capital Markets,31.760302,10.827376,25.275,,-303886112.0
+HQY,"HealthEquity, Inc.",8028047360,Healthcare,Health Information Services,56.689392,3.7660546,49.153,,288232512.0
+MASI,Masimo Corporation,7989006848,Healthcare,Medical Devices,31.771553,7.679725,61.584,,92862496.0
+SAIA,"Saia, Inc.",7973899776,Industrials,Trucking,27.675602,3.2645433,18.237,,-273304000.0
+ZION,Zions Bancorporation N.A.,7934778880,Financial Services,Banks - Regional,9.813795,1.2156328,,,
+CIGI,Colliers International Group In,7919708672,Real Estate,Real Estate Services,69.9148,5.7187395,91.508,,284332640.0
+MTCH,"Match Group, Inc.",7863531520,Communication Services,Internet Content & Information,16.19307,-34.25131,,,823294272.0
+TIGO,Millicom International Cellular,7828236288,Communication Services,Telecom Services,8.307624,2.212751,227.387,,1617250048.0
+CFLT,"Confluent, Inc.",7813625856,Technology,Software - Infrastructure,64.85715,7.3391533,104.145,,174882128.0
+COLB,"Columbia Banking System, Inc.",7790419968,Financial Services,Banks - Regional,10.363095,1.0276641,,,
+DBX,"Dropbox, Inc.",7777396224,Technology,Software - Infrastructure,17.71779,-5.9156084,,,835337472.0
+IESC,"IES Holdings, Inc.",7764882432,Industrials,Engineering & Construction,30.221884,10.035824,8.836,,198331744.0
+OLLI,Ollie's Bargain Outlet Holdings,7763398144,Consumer Defensive,Discount Stores,36.662792,4.3310437,37.268,,76940872.0
+HALO,"Halozyme Therapeutics, Inc.",7715077120,Healthcare,Biotechnology,15.135012,23.379286,462.233,,429682880.0
+HSIC,"Henry Schein, Inc.",7675077120,Healthcare,Medical Distribution,20.379423,2.2425873,68.545,,333249984.0
+LKQ,LKQ Corporation,7664764416,Consumer Cyclical,Auto Parts,10.881387,1.1769699,90.494,,526124992.0
+CGNX,Cognex Corporation,7613380608,Technology,Scientific & Technical Instruments,62.861107,5.0457077,5.523,,166527632.0
+CBSH,"Commerce Bancshares, Inc.",7613102080,Financial Services,Banks - Regional,13.833334,2.1029634,,,
+VFS,VinFast Auto Ltd.,7607689728,Consumer Cyclical,Auto Manufacturers,-4.2246757,-4.2269567e-05,,,-65802942283776.0
+CVLT,"Commvault Systems, Inc.",7596822016,Technology,Software - Application,95.21667,20.913973,8.476,,265180496.0
+LIF,"Life360, Inc.",7586584576,Technology,Software - Application,255.71053,61.616993,84.504,,21341500.0
+PONY,Pony AI Inc.,7571283968,Technology,Information Technology Services,-36.275238,9.184996,1.938,,-6420500.0
+SITM,SiTime Corporation,7557534720,Technology,Semiconductors,200.72069,6.8761077,0.477,,15738375.0
+AMKR,"Amkor Technology, Inc.",7552691712,Technology,Semiconductor Equipment & Materials,25.19672,1.8099388,42.843,,344286240.0
+CYTK,"Cytokinetics, Incorporated",7549169664,Healthcare,Biotechnology,-11.581633,-20.248135,,,-292199616.0
+WIX,Wix.com Ltd.,7541585408,Technology,Software - Infrastructure,48.051422,-64.1292,,,484327616.0
+RNA,"Avidity Biosciences, Inc.",7441070592,Healthcare,Biotechnology,-16.765676,5.144304,0.431,,-259114752.0
+ABVX,Abivax SA,7421696000,Healthcare,Biotechnology,-31.589405,-125.361374,,,-88009752.0
+GTLB,GitLab Inc.,7384841216,Technology,Software - Infrastructure,68.765625,8.466718,0.044,,52223876.0
+SIRI,SiriusXM Holdings Inc.,7284470272,Communication Services,Entertainment,7.04886,0.6436645,92.162,,931124992.0
+CHYM,"Chime Financial, Inc.",7255799808,Technology,Software - Application,-68.97051,5.101168,6.153,,
+MRUS,Merus N.V.,7191943680,Healthcare,Biotechnology,-24.333334,8.519616,1.307,,-179212752.0
+RYTM,"Rhythm Pharmaceuticals, Inc.",7140160000,Healthcare,Biotechnology,-40.387638,-579.75806,85.327,,-33768376.0
+FCFS,"FirstCash Holdings, Inc.",7085021184,Financial Services,Credit Services,24.575123,3.311256,94.521,,576169856.0
+WING,Wingstop Inc.,7041811456,Consumer Cyclical,Restaurants,41.998333,-10.24016,,,59061876.0
+AEIS,"Advanced Energy Industries, Inc",7020830720,Industrials,Electrical Equipment & Parts,82.51102,5.6161923,54.681,,130742752.0
+BOKF,BOK Financial Corporation,6999447040,Financial Services,Banks - Regional,13.132775,1.1855347,,,
+WAY,Waystar Holding Corp.,6988076032,Healthcare,Health Information Services,66.44545,2.0056527,39.598,,299248864.0
+SANM,Sanmina Corporation,6944562176,Technology,Electronic Components,27.882229,3.024974,14.732,,260805248.0
+PNFP,"Pinnacle Financial Partners, In",6932309504,Financial Services,Banks - Regional,11.849734,1.0671345,,,
+QMMM,QMMM Holdings Limited,6830437376,Communication Services,Advertising Agencies,,525.9912,1.606,,-6274201.0
+VRNS,"Varonis Systems, Inc.",6813584896,Technology,Software - Infrastructure,196.29031,19.96391,220.691,,215856256.0
+HLNE,Hamilton Lane Incorporated,6808893440,Financial Services,Asset Management,23.24521,6.956372,37.92,,197093872.0
+OLED,Universal Display Corporation,6772435968,Technology,Electronic Components,27.801758,3.946245,1.274,,103100248.0
+MIDD,The Middleby Corporation,6749372928,Industrials,Specialty Industrial Machinery,16.930027,1.8880266,66.337,,414878112.0
+ROAD,"Construction Partners, Inc.",6685940736,Industrials,Engineering & Construction,86.67883,7.788928,176.006,,99696624.0
+LNW,"Light & Wonder, Inc.",6670815744,Consumer Cyclical,Gambling,20.060759,9.481871,698.718,,378124992.0
+LCID,"Lucid Group, Inc.",6648834560,Consumer Cyclical,Auto Manufacturers,-24.545456,2.7565086,64.158,,-2090154112.0
+LFUS,"Littelfuse, Inc.",6584707584,Technology,Electronic Components,61.633415,2.5334277,34.504,,308591360.0
+EXLS,"ExlService Holdings, Inc.",6557482496,Technology,Information Technology Services,28.062067,6.2065277,32.328,,229935504.0
+NUVL,"Nuvalent, Inc.",6465640960,Healthcare,Biotechnology,-21.137383,6.8681507,0.0,,-121000128.0
+GDS,GDS Holdings Limited,6463914496,Technology,Information Technology Services,154.56819,0.26144823,186.785,,-824753600.0
+CRSP,CRISPR Therapeutics AG,6451113472,Healthcare,Biotechnology,-14.373016,3.7413492,12.591,,-239332128.0
+WULF,TeraWulf Inc.,6406593536,Financial Services,Capital Markets,156.9,37.092197,287.313,,-205312496.0
+MKTX,"MarketAxess Holdings, Inc.",6401534976,Financial Services,Capital Markets,28.925926,4.6377673,4.944,,359472128.0
+AXSM,"Axsome Therapeutics, Inc.",6373417984,Healthcare,Biotechnology,-59.893513,88.186775,297.375,,-33846500.0
+CLSK,"CleanSpark, Inc.",6301889536,Financial Services,Capital Markets,26.918604,3.030898,38.215,,-334503008.0
+LEGN,Legend Biotech Corporation,6284632576,Healthcare,Biotechnology,-50.835823,6.0702195,37.46,,-259179872.0
+CRUS,"Cirrus Logic, Inc.",6269131776,Technology,Semiconductors,19.126959,3.2440119,7.323,,332173376.0
+CHDN,"Churchill Downs, Incorporated",6120450048,Consumer Cyclical,Gambling,15.116581,5.898706,478.733,,125600000.0
+URBN,"Urban Outfitters, Inc.",6083312128,Consumer Cyclical,Apparel Retail,13.292157,2.3564377,45.735,,311148736.0
+CCCS,CCC Intelligent Solutions Holdi,6079469568,Technology,Software - Application,inf,2.8508506,51.588,,255386624.0
+ITRI,"Itron, Inc.",6053053952,Technology,Scientific & Technical Instruments,22.67607,3.758571,77.851,,246806368.0
+SMTC,Semtech Corporation,6041205248,Technology,Semiconductors,110.04762,10.880414,98.744,,126297248.0
+LOPE,"Grand Canyon Education, Inc.",6021897728,Consumer Defensive,Education & Training Services,26.002424,7.689716,13.861,,205498368.0
+CORZ,"Core Scientific, Inc.",6021088256,Technology,Software - Infrastructure,63.967743,-5.646355,,,-73454624.0
+RRR,"Red Rock Resorts, Inc.",6003442176,Consumer Cyclical,Resorts & Casinos,19.993174,16.896452,1149.62,,159793504.0
+TTMI,"TTM Technologies, Inc.",5936380416,Technology,Electronic Components,64.51685,3.6238558,62.777,,-44177500.0
+NXST,"Nexstar Media Group, Inc.",5919760384,Communication Services,Broadcasting,10.187043,2.620065,295.789,,1474249984.0
+VLY,Valley National Bancorp,5859271680,Financial Services,Banks - Regional,13.423078,0.81238365,,,
+GGAL,Grupo Financiero Galicia S.A.,5843884032,Financial Services,Banks - Regional,4.87211,0.00781769,,,
+RDNT,"RadNet, Inc.",5843697664,Healthcare,Diagnostics & Research,101.42667,6.124799,156.119,,143317744.0
+PCVX,"Vaxcyte, Inc.",5775841280,Healthcare,Biotechnology,-9.41189,1.8737056,2.795,,-368423616.0
+PI,"Impinj, Inc.",5760195584,Technology,Semiconductors,inf,30.556416,155.79,,24460124.0
+MAT,"Mattel, Inc.",5748047872,Consumer Cyclical,Leisure,11.571428,2.6443093,123.473,,554698368.0
+GLBE,Global-E Online Ltd.,5743530496,Consumer Cyclical,Internet Retail,1691.0,6.3167725,2.711,,176374000.0
+GNTX,Gentex Corporation,5731964416,Consumer Cyclical,Auto Parts,14.771187,2.3617887,0.532,,190359936.0
+IRTC,"iRhythm Technologies, Inc.",5721312256,Healthcare,Medical Devices,-97.04891,55.301952,708.802,,47564876.0
+BULL,Webull Corporation,5691659264,Technology,Software - Application,77.5,7.4855123,15.015,,
+OZK,Bank OZK,5682193408,Financial Services,Banks - Regional,8.173701,1.0153257,,,
+CAMT,Camtek Ltd.,5650650112,Technology,Semiconductor Equipment & Materials,45.53125,9.034505,32.033,,44249248.0
+GSAT,"Globalstar, Inc.",5640737280,Communication Services,Telecom Services,4458.5,15.64935,150.441,,-303579872.0
+HUT,Hut 8 Corp.,5632025600,Financial Services,Capital Markets,38.19231,4.501731,26.073,,-25400250.0
+BRKR,Bruker Corporation,5566583296,Healthcare,Medical Devices,71.230774,3.114961,132.746,,223200000.0
+KRYS,"Krystal Biotech, Inc.",5564577280,Healthcare,Biotechnology,38.916756,5.333137,0.93,,119934872.0
+MTSR,"Metsera, Inc.",5562922496,Healthcare,Biotechnology,-15.392701,12.30913,0.237,,
+TGTX,"TG Therapeutics, Inc.",5559643136,Healthcare,Biotechnology,92.1579,18.402523,92.075,,-86542496.0
+OPEN,Opendoor Technologies Inc,5543633408,Real Estate,Real Estate Services,-27.667036,8.686163,346.117,,348500000.0
+CWST,"Casella Waste Systems, Inc.",5522400768,Industrials,Waste Management,461.3158,3.5806203,79.979,,80841752.0
+SLM,SLM Corporation,5518501888,Financial Services,Credit Services,12.833496,2.5949156,269.94,,
+CACC,Credit Acceptance Corporation,5516005888,Financial Services,Credit Services,14.261836,3.5708451,416.235,,
+FROG,JFrog Ltd.,5452424704,Technology,Software - Application,70.62121,6.5694156,1.675,,177626256.0
+PTCT,"PTC Therapeutics, Inc.",5439126528,Healthcare,Biotechnology,9.689361,-26.252882,,,517716736.0
+BTSG,"BrightSpring Health Services, I",5415435264,Healthcare,Health Information Services,123.76,3.6081634,155.462,,-368028864.0
+JSM,Navient Corporation - 6% Senior,5413581312,,,16.417374,1.4368933,,,
+BTDR,Bitdeer Technologies Group,5390918656,Technology,Software - Application,87.81035,7.6288195,88.534,,-421337888.0
+UFPI,"UFP Industries, Inc.",5369344512,Basic Materials,Lumber & Wood Production,15.914947,1.7068874,11.827,,150662624.0
+SNEX,StoneX Group Inc.,5356688384,Financial Services,Capital Markets,17.41908,2.533449,844.931,,
+CAR,"Avis Budget Group, Inc.",5349412864,Industrials,Rental & Leasing Services,13.313761,-1.9479886,,,226124992.0
+ALGM,"Allegro MicroSystems, Inc.",5325484032,Technology,Semiconductors,46.709675,5.8047705,36.254,,59261752.0
+ALKS,Alkermes plc,5277542912,Healthcare,Drug Manufacturers - Specialty & Generic,15.579711,3.27644,4.474,,345668736.0
+ACIW,"ACI Worldwide, Inc.",5271566848,Technology,Software - Infrastructure,21.584745,3.7803338,68.589,,285156000.0
+ACT,"Enact Holdings, Inc.",5271113216,Financial Services,Insurance - Specialty,8.095239,1.0142045,14.24,,592919232.0
+ARWR,"Arrowhead Pharmaceuticals, Inc.",5237196288,Healthcare,Biotechnology,-8.921802,9.957684,137.222,,-48370124.0
+SSRM,SSR Mining Inc.,5186918400,Basic Materials,Gold,32.73077,1.5880816,8.729,,149453744.0
+CHRD,Chord Energy Corporation,5158954496,Energy,Oil & Gas E&P,21.351898,0.6415907,11.814,,686644352.0
+UBSI,"United Bankshares, Inc.",5087968256,Financial Services,Banks - Regional,12.647887,0.94795734,,,
+ATAT,Atour Lifestyle Holdings Limite,5063133184,Consumer Cyclical,Lodging,26.539568,1.5524788,51.639,,1434805888.0
+ABTC,American Bitcoin Corp.,5024492544,Financial Services,Capital Markets,51.363636,1.0228095,14.52,,
+HWC,Hancock Whitney Corporation,5018341888,Financial Services,Banks - Regional,10.646319,1.1261989,,,
+TMC,TMC the metals company Inc.,5010854400,Basic Materials,Other Industrial Metals & Mining,-94.6,45.92233,3.027,,-6891500.0
+ACLX,"Arcellx, Inc.",5008771584,Healthcare,Biotechnology,-40.355556,12.817617,13.389,,-4536125.0
+RUN,Sunrun Inc.,5006897152,Technology,Solar,-28.893333,1.7053593,318.586,,-2981321216.0
+REYN,Reynolds Consumer Products Inc.,5000478720,Consumer Cyclical,Packaging & Containers,16.091217,2.3316038,80.959,,296624992.0
+SIGI,"Selective Insurance Group, Inc.",4999765504,Financial Services,Insurance - Property & Casualty,13.462356,1.5792454,26.793,,1042405760.0
+OMAB,Grupo Aeroportuario del Centro ,4948178944,Industrials,Airports & Air Services,17.701723,4.636889,155.962,,2175064320.0
+ENPH,"Enphase Energy, Inc.",4931919360,Technology,Solar,29.317831,5.614608,140.21,,307361248.0
+VSAT,"ViaSat, Inc.",4917377024,Technology,Communication Equipment,-23.0,1.0755882,153.967,,623358528.0
+DOOO,BRP Inc.,4905210368,Consumer Cyclical,Recreational Vehicles,34.670105,10.118851,614.972,,348150016.0
+SLMBP,SLM Corporation - Floating Rate,4894520832,Financial Services,Credit Services,34.94639,7.357676,269.94,,
+UPST,"Upstart Holdings, Inc.",4845092352,Financial Services,Credit Services,132.1579,6.683524,212.942,,-223471008.0
+FTDR,"frontdoor, inc.",4796404224,Consumer Cyclical,Personal Services,19.55193,18.96661,482.283,,278875008.0
+PTGX,"Protagonist Therapeutics, Inc.",4787161088,Healthcare,Biotechnology,105.38356,7.1522875,1.688,,26000000.0
+EOSE,"Eos Energy Enterprises, Inc.",4785768448,Industrials,Electrical Equipment & Parts,-15.797297,-4.0779066,,,-83960872.0
+STNE,StoneCo Ltd.,4777986048,Technology,Software - Infrastructure,12.760715,0.41319734,123.469,,-4030164480.0
+MMSI,"Merit Medical Systems, Inc.",4759736320,Healthcare,Medical Instruments & Supplies,40.85787,3.2031994,55.143,,190721120.0
+QUBT,Quantum Computing Inc.,4757486592,Technology,Computer Hardware,-68.741936,8.49681,0.548,,-15276250.0
+QLYS,"Qualys, Inc.",4713580544,Technology,Software - Infrastructure,25.957888,9.264742,10.891,,221283632.0
+CLBT,Cellebrite DI Ltd.,4699918848,Technology,Software - Infrastructure,48.387497,11.582884,5.468,,122917128.0
+CZR,"Caesars Entertainment, Inc.",4698507776,Consumer Cyclical,Resorts & Casinos,16.865671,1.206556,632.192,,186250000.0
+FFIN,"First Financial Bankshares, Inc",4680370688,Financial Services,Banks - Regional,19.201754,2.6865487,,,
+PECO,"Phillips Edison & Company, Inc.",4673193984,Real Estate,REIT - Retail,61.41818,1.8527862,92.248,,197524000.0
+IEP,Icahn Enterprises L.P. - Deposi,4665344000,Energy,Oil & Gas Refining & Marketing,10.037037,1.8397827,210.809,,838374976.0
+MRCY,Mercury Systems Inc,4644400128,Industrials,Aerospace & Defense,83.473114,3.1085572,18.294,,162487632.0
+BCPC,Balchem Corporation,4642065920,Basic Materials,Specialty Chemicals,32.81422,3.6622639,16.379,,126151624.0
+SHC,Sotera Health Company,4593033216,Healthcare,Diagnostics & Research,179.83331,8.991667,460.02,,218806880.0
+VCTR,"Victory Capital Holdings, Inc. ",4582675456,Financial Services,Asset Management,17.155,1.8631045,41.121,,273309120.0
+DLO,DLocal Limited,4578838016,Technology,Software - Infrastructure,32.583336,10.255738,13.545,,10224750.0
+MZTI,The Marzetti Company,4569542656,Consumer Defensive,Packaged Foods,27.381187,4.5754857,,,157678256.0
+DJT,Trump Media & Technology Group ,4545013760,Communication Services,Internet Content & Information,181.05554,1.9773085,41.51,,-1032224896.0
+NMRK,"Newmark Group, Inc.",4540588032,Real Estate,Real Estate Services,44.390247,2.4975984,180.515,,-38506124.0
+CROX,"Crocs, Inc.",4529964032,Consumer Cyclical,Footwear & Accessories,22.627716,3.2109666,124.8,,576841024.0
+ENLT,Enlight Renewable Energy Ltd.,4518951936,Utilities,Utilities - Renewable,201.65118,3.0498846,243.293,,-609407360.0
+NAMS,NewAmsterdam Pharma Company N.V,4517527552,Healthcare,Biotechnology,-21.07672,5.7573347,0.042,,-85028000.0
+WFRD,Weatherford International plc,4516625408,Energy,Oil & Gas Equipment & Services,9.681356,2.9875898,115.01,,342500000.0
+CALM,"Cal-Maine Foods, Inc.",4495671296,Consumer Defensive,Farm Products,3.5603614,1.6654677,0.0,,881137472.0
+SAIC,Science Applications Internatio,4487605248,Technology,Information Technology Services,11.849332,2.9571228,161.173,,221500000.0
+SLAB,"Silicon Laboratories, Inc.",4479289856,Technology,Semiconductors,117.51725,4.2158656,0.0,,104445128.0
+LAUR,"Laureate Education, Inc.",4438576128,Consumer Defensive,Education & Training Services,18.04491,4.223546,42.648,,287325760.0
+LSTR,"Landstar System, Inc.",4402732032,Industrials,Integrated Freight & Logistics,26.628931,4.775008,15.666,,182054000.0
+BGC,"BGC Group, Inc.",4380542976,Financial Services,Capital Markets,31.0,4.7546015,188.354,,
+PLUG,"Plug Power, Inc.",4373581312,Industrials,Electrical Equipment & Parts,-6.54386,2.546075,56.235,,-469599008.0
+KYMR,"Kymera Therapeutics, Inc.",4370648576,Healthcare,Biotechnology,-19.729904,4.4563875,8.823,,-153841376.0
+OPCH,"Option Care Health, Inc.",4355836928,Healthcare,Medical Care Facilities,21.353176,3.2106206,90.349,,194119632.0
+FLY,Firefly Aerospace Inc.,4312635904,Industrials,Aerospace & Defense,-65.8463,-0.45602286,302.579,,
+AKRO,"Akero Therapeutics, Inc.",4307255808,Healthcare,Biotechnology,-12.644707,4.1866627,3.543,,-161483376.0
+OSIS,"OSI Systems, Inc.",4289850368,Technology,Electronic Components,29.262342,4.500627,71.742,,41348248.0
+DORM,"Dorman Products, Inc.",4275863040,Consumer Cyclical,Auto Parts,19.098091,3.0568943,39.958,,98206496.0
+IJT,iShares S&P SmallCap 600 Growth,4272782592,,,21.136053,1.0915235,,,
+CRNX,"Crinetics Pharmaceuticals, Inc.",4231798272,Healthcare,Biotechnology,-11.540155,3.5790613,4.262,,-177600880.0
+MENS,Jyong Biotech Ltd.,4227138048,Healthcare,Biotechnology,,-106.60784,,,-1727875.0
+AVT,"Avnet, Inc.",4214335232,Technology,Electronics & Computer Distribution,18.898182,0.8695725,57.422,,555693120.0
+OS,"OneStream, Inc.",4213111808,Technology,Software - Infrastructure,157.27272,7.03252,3.431,,232938752.0
+FELE,"Franklin Electric Co., Inc.",4211360000,Industrials,Specialty Industrial Machinery,24.595856,3.3469648,27.344,,147005632.0
+SBRA,"Sabra Health Care REIT, Inc.",4207153664,Real Estate,REIT - Healthcare Facilities,23.072369,1.5506722,91.738,,286910496.0
+IBOC,International Bancshares Corpor,4193070592,Financial Services,Banks - Regional,10.201966,1.386838,,,
+CVCO,"Cavco Industries, Inc.",4163652864,Consumer Cyclical,Residential Construction,22.96658,3.9338791,3.552,,114097504.0
+SPSC,"SPS Commerce, Inc.",4155937280,Technology,Software - Application,50.38532,4.386231,1.137,,135221120.0
+BANF,BancFirst Corporation,4096711936,Financial Services,Banks - Regional,17.706858,2.3660967,,,
+VEON,VEON Ltd.,4089744640,Communication Services,Telecom Services,3.7750735,2.7106168,328.409,,623562496.0
+SKYW,"SkyWest, Inc.",4079819008,Industrials,Airlines,10.283383,1.5770385,99.769,,226931744.0
+RUSHB,"Rush Enterprises, Inc.",4070986496,Consumer Cyclical,Auto & Truck Dealerships,15.977208,2.0241103,80.639,,215367008.0
+RUSHA,"Rush Enterprises, Inc.",4057716224,Consumer Cyclical,Auto & Truck Dealerships,14.578347,1.8468924,80.639,,215367008.0
+WSC,WillScot Holdings Corporation,4049349888,Industrials,Rental & Leasing Services,37.694916,3.917562,383.344,,477300864.0
+DGNX,Diginex Limited,4031707136,Industrials,Consulting Services,,563.5028,5.215,,-9849145.0
+GLNG,Golar LNG Limited,4012206080,Energy,Oil & Gas Midstream,20.333334,2.1170218,85.567,,-799868352.0
+PLXS,Plexus Corp.,4002671360,Technology,Electronic Components,25.298634,2.8190842,12.864,,257200496.0
+VERX,"Vertex, Inc.",3980476160,Technology,Software - Application,36.65441,16.018637,141.868,,88519248.0
+PAGP,"Plains GP Holdings, L.P.",3977179392,Energy,Oil & Gas Midstream,10.230538,2.4952533,62.789,,1093374976.0
+SMH,VanEck Semiconductor ETF,3975225088,,,37.902786,,,,
+VKTX,"Viking Therapeutics, Inc.",3963684864,Healthcare,Biotechnology,-23.397352,4.9894085,0.11,,-102103128.0
+KC,Kingsoft Cloud Holdings Limited,3952936192,Technology,Software - Application,-32.280487,0.5262844,162.118,,-1533871872.0
+POWL,"Powell Industries, Inc.",3921614336,Industrials,Electrical Equipment & Parts,22.583334,6.597152,0.206,,46796876.0
+INTR,Inter & Co. Inc.,3907607552,Financial Services,Banks - Regional,19.304348,0.4206338,,,
+VRRM,Verra Mobility Corporation,3870460160,Technology,Information Technology Services,97.0,10.987766,298.957,,178601504.0
+TMDX,"TransMedics Group, Inc.",3834483456,Healthcare,Medical Devices,56.773872,12.089888,163.1,,-7754500.0
+PSMT,"PriceSmart, Inc.",3826399232,Consumer Defensive,Discount Stores,26.193684,3.0727057,20.748,,89246128.0
+NOVT,Novanta Inc.,3814464256,Technology,Scientific & Technical Instruments,62.76627,4.76121,64.157,,135185248.0
+TCBI,"Texas Capital Bancshares, Inc.",3799736064,Financial Services,Banks - Regional,32.90278,1.1816304,,,
+LNTH,"Lantheus Holdings, Inc.",3795433472,Healthcare,Drug Manufacturers - Specialty & Generic,14.861703,3.2560308,52.751,,295474368.0
+MIRM,"Mirum Pharmaceuticals, Inc.",3788923392,Healthcare,Biotechnology,-86.75287,14.80773,124.981,,3783500.0
+FLNC,"Fluence Energy, Inc.",3777458176,Utilities,Utilities - Renewable,31.907694,6.6623836,78.626,,-247292128.0
+LBTYK,Liberty Global Ltd.,3774926336,Communication Services,Telecom Services,-3.3383534,0.29387996,82.762,,-306024992.0
+LBTYA,Liberty Global Ltd.,3758079744,Communication Services,Telecom Services,-4.904444,0.2908463,82.762,,-306024992.0
+LBTYB,Liberty Global Ltd.,3739298048,Communication Services,Telecom Services,,0.2835982,82.762,,-306024992.0
+USAR,"USA Rare Earth, Inc.",3735998720,Basic Materials,Other Industrial Metals & Mining,-92.78571,-23.27957,,,-17649250.0
+TFSL,TFS Financial Corporation,3733150976,Financial Services,Banks - Regional,45.793102,1.9613055,,,
+CRVL,CorVel Corp.,3729923840,Financial Services,Insurance Brokers,37.43005,10.824094,8.005,,90354000.0
+QURE,uniQure N.V.,3699922688,Healthcare,Biotechnology,-19.61438,-822.1918,,,-111588128.0
+EBC,"Eastern Bankshares, Inc.",3695692032,Financial Services,Banks - Regional,14.3,1.0018324,,,
+USLM,"United States Lime & Minerals, ",3693927680,Basic Materials,Building Materials,29.582567,6.539573,0.795,,75423376.0
+GBDC,"Golub Capital BDC, Inc.",3681321984,Financial Services,Asset Management,9.735915,0.92172813,128.329,,543979648.0
+BHFAL,"Brighthouse Financial, Inc. - J",3678233600,,,,0.15994115,,,
+APGE,"Apogee Therapeutics, Inc.",3674825216,Healthcare,Biotechnology,-14.334211,5.1498537,1.751,,-138940496.0
+TLX,Telix Pharmaceuticals Limited,3656865024,Healthcare,Biotechnology,545.985,8.756776,99.126,,13731112.0
+TBBK,"The Bancorp, Inc.",3623503360,Financial Services,Banks - Regional,16.92258,4.231783,,,
+ADMA,ADMA Biologics Inc,3620028160,Healthcare,Biotechnology,17.8,9.05988,21.044,,43691500.0
+ACAD,ACADIA Pharmaceuticals Inc.,3617190144,Healthcare,Biotechnology,16.165339,4.4084277,6.845,,53147376.0
+NWE,"NorthWestern Energy Group, Inc.",3614360064,Utilities,Utilities - Regulated Electric,16.035421,1.25453,110.891,,-186404992.0
+MLCO,Melco Resorts & Entertainment L,3603820032,Consumer Cyclical,Resorts & Casinos,59.17857,-2.2648988,,,
+ASO,"Academy Sports and Outdoors, In",3603103488,Consumer Cyclical,Specialty Retail,10.203007,1.7427039,88.747,,103363000.0
+HWKN,"Hawkins, Inc.",3591492608,Basic Materials,Specialty Chemicals,42.52099,7.362863,63.698,,63020752.0
+LGND,Ligand Pharmaceuticals Incorpor,3586602752,Healthcare,Biotechnology,30.765886,4.3103814,0.693,,87922624.0
+IPGP,IPG Photonics Corporation,3578982400,Technology,Semiconductor Equipment & Materials,40.52381,1.7116537,0.801,,117052496.0
+TENB,"Tenable Holdings, Inc.",3571090432,Technology,Software - Infrastructure,20.303448,10.155227,119.526,,269683744.0
+SLNO,"Soleno Therapeutics, Inc.",3542912000,Healthcare,Biotechnology,-29.32599,13.982356,21.974,,-22920500.0
+WRD,WERIDE INC.,3532949248,Technology,Software - Application,-4.5739408,0.52727187,3.178,,
+HSAI,Hesai Group,3529068032,Consumer Cyclical,Auto Parts,208.81818,0.70079625,19.538,,-540569024.0
+QFIN,"Qfin Holdings, Inc.",3513822720,Financial Services,Credit Services,3.729078,0.14471295,28.405,,-4854964736.0
+AMBA,"Ambarella, Inc.",3508396032,Technology,Semiconductor Equipment & Materials,-458.74997,6.0107,0.597,,68888248.0
+LGN,Legence Corp.,3472365568,Industrials,Engineering & Construction,101.34848,,993.559,,
+WGS,GeneDx Holdings Corp.,3461369344,Healthcare,Diagnostics & Research,1337.7777,12.472807,41.274,,20209124.0
+CARG,"CarGurus, Inc.",3450284032,Consumer Cyclical,Auto & Truck Dealerships,27.944,7.9368324,44.827,,160119376.0
+EEFT,"Euronet Worldwide, Inc.",3437040384,Technology,Software - Infrastructure,11.911724,2.6192715,190.179,,431600000.0
+AAPG,Ascentage Pharma Group Internat,3429418496,Healthcare,Biotechnology,23.403053,19.035088,253.905,,36215124.0
+NSIT,"Insight Enterprises, Inc.",3426537984,Technology,Electronics & Computer Distribution,26.134293,2.1328063,96.282,,167130624.0
+ALHC,"Alignment Healthcare, Inc.",3422973184,Healthcare,Healthcare Plans,-33.960785,24.325842,233.853,,44121752.0
+INDB,Independent Bank Corp.,3418740992,Financial Services,Banks - Regional,15.396164,0.9455319,,,
+EXPO,"Exponent, Inc.",3408069120,Industrials,Engineering & Construction,33.98744,7.985242,18.777,,93405128.0
+COMM,"CommScope Holding Company, Inc.",3401338880,Technology,Communication Equipment,57.296295,-1.4036839,,,574800000.0
+MLYS,"Mineralys Therapeutics, Inc.",3388244224,Healthcare,Biotechnology,-12.551873,9.129113,0.0,,-122116248.0
+FIZZ,National Beverage Corp.,3372201472,Consumer Defensive,Beverages - Non-Alcoholic,18.212122,6.6311145,13.866,,120760000.0
+CATY,Cathay General Bancorp,3362776320,Financial Services,Banks - Regional,11.731884,1.1669029,,,
+CGON,"CG Oncology, Inc.",3359468544,Healthcare,Biotechnology,-24.623596,4.9840803,0.148,,
+VLYPO,Valley National Bancorp - 5.5% ,3339073536,Financial Services,Banks - Regional,22.550539,1.9422021,,,
+AUGO,Aura Minerals Inc.,3335233536,Basic Materials,Gold,7.9339995,21.157331,344.669,,55004500.0
+PATK,"Patrick Industries, Inc.",3312725760,Consumer Cyclical,"Furnishings, Fixtures & Appliances",26.996603,2.8922129,128.371,,217795248.0
+FIBK,"First Interstate BancSystem, In",3308230400,Financial Services,Banks - Regional,14.162162,0.9635896,,,
+ZLAB,Zai Lab Limited,3288875520,Healthcare,Biotechnology,-15.26178,4.0469246,24.175,,-217036992.0
+OTTR,Otter Tail Corporation,3284554496,Industrials,Conglomerates,11.546392,1.8514146,58.799,,-23654500.0
+ONDS,Ondas Holdings Inc.,3278366976,Technology,Communication Equipment,-37.34,21.264236,20.739,,-19208786.0
+VSEC,VSE Corporation,3278230528,Industrials,Aerospace & Defense,47.538807,3.361654,42.614,,124738496.0
+BITF,Bitfarms Ltd.,3276915712,Financial Services,Capital Markets,314.505,5.2946973,11.307,,-235312496.0
+GTM,ZoomInfo Technologies Inc.,3253220352,Technology,Software - Application,40.84,2.1086328,100.451,,272550016.0
+ETOR,eToro Group Ltd.,3235159040,Financial Services,Capital Markets,17.205357,2.3461375,3.886,,
+FULT,Fulton Financial Corporation,3234173440,Financial Services,Banks - Regional,10.411765,1.0292493,,,
+XENE,Xenon Pharmaceuticals Inc.,3233817088,Healthcare,Biotechnology,-11.764046,5.082525,1.375,,-149782000.0
+RELY,"Remitly Global, Inc.",3221768960,Technology,Software - Infrastructure,260.6667,4.213362,4.231,,305693632.0
+FRSH,Freshworks Inc.,3211544064,Technology,Software - Application,21.568628,3.2621589,3.658,,231342624.0
+FORM,"FormFactor, Inc.",3207951360,Technology,Semiconductor Equipment & Materials,72.77193,3.2307813,3.628,,-29579000.0
+MYRG,"MYR Group, Inc.",3201041152,Industrials,Engineering & Construction,43.322475,5.4883823,22.962,,116724752.0
+APLS,"Apellis Pharmaceuticals, Inc.",3192609024,Healthcare,Biotechnology,-30.07143,20.38741,300.545,,106216872.0
+PCH,PotlatchDeltic Corporation - Co,3186708480,Real Estate,REIT - Specialty,77.69812,1.6559434,54.971,,129852496.0
+RARE,Ultragenyx Pharmaceutical Inc.,3174481664,Healthcare,Biotechnology,-6.420744,20.858234,557.793,,-206266128.0
+PTON,"Peloton Interactive, Inc.",3164245248,Consumer Cyclical,Leisure,-24.92,-7.5886054,,,383987488.0
+WSBC,"WesBanco, Inc.",3160944896,Financial Services,Banks - Regional,18.676136,0.8585832,,,
+ARLP,"Alliance Resource Partners, L.P",3157043200,Energy,Thermal Coal,13.483517,1.757628,26.267,,146288256.0
+VC,Visteon Corporation,3148507904,Consumer Cyclical,Auto Parts,10.987619,2.2149055,29.506,,347249984.0
+PLMR,"Palomar Holdings, Inc.",3137950720,Financial Services,Insurance - Property & Casualty,20.666666,3.703657,0.0,,414625888.0
+SRRK,Scholar Rock Holding Corporatio,3136632832,Healthcare,Biotechnology,-15.188371,13.438271,26.374,,-142852992.0
+VLYPP,Valley National Bancorp - 6.25%,3132788736,Financial Services,Banks - Regional,22.738739,1.958411,,,
+IPAR,"Interparfums, Inc.",3114443776,Consumer Defensive,Household & Personal Products,19.164343,3.6812198,26.451,,82434496.0
+AGYS,"Agilysys, Inc.",3111067904,Technology,Software - Application,227.12245,10.9526615,11.972,,48248624.0
+TARS,"Tarsus Pharmaceuticals, Inc.",3106113792,Healthcare,Biotechnology,-34.023148,9.326141,21.781,,-57126624.0
+SIMO,Silicon Motion Technology Corpo,3102369536,Technology,Semiconductors,39.510822,3.8821776,0.0,,-5541375.0
+INTA,"Intapp, Inc.",3092166656,Technology,Software - Application,40.026596,5.9270635,4.346,,124575504.0
+IMVT,"Immunovant, Inc.",3088894464,Healthcare,Biotechnology,-5.867987,4.9985948,0.0,,-255923376.0
+BLKB,"Blackbaud, Inc.",3086629632,Technology,Software - Application,13.623126,34.501083,1328.191,,201228000.0
+PRVA,"Privia Health Group, Inc.",3086534912,Healthcare,Health Information Services,229.18181,4.529285,0.906,,92291376.0
+MGEE,MGE Energy Inc.,3086507008,Utilities,Utilities - Regulated Electric,23.490278,2.433245,60.799,,-19580376.0
+INDV,Indivior PLC,3084933888,Healthcare,Drug Manufacturers - Specialty & Generic,30.530863,-12.02821,,,255250000.0
+NVTS,Navitas Semiconductor Corporati,3075138048,Technology,Semiconductors,-69.4762,7.99452,1.912,,33036750.0
+CSQ,Calamos Strategic Total Return ,3044617472,Financial Services,Asset Management,10.913793,1.1570097,50.212,,1461029.0
+BL,"BlackLine, Inc.",3043643136,Technology,Software - Application,38.248062,7.3740845,205.193,,127767128.0
+AMRX,"Amneal Pharmaceuticals, Inc.",3041858048,Healthcare,Drug Manufacturers - Specialty & Generic,974.5,-27.296919,,,333750240.0
+AVPT,"AvePoint, Inc.",3041149952,Technology,Software - Infrastructure,62.603477,6.859838,4.241,,84578248.0
+CHA,Chagee Holdings Limited,3029715968,Consumer Cyclical,Restaurants,21.866667,0.34660578,9.144,,1005823872.0
+CNTA,Centessa Pharmaceuticals plc,3024696832,Healthcare,Biotechnology,-13.169591,8.742236,34.252,,-87925504.0
+HOVNP,Hovnanian Enterprises Inc - Dep,3007504128,,,,-4.7583117,,,
+MCHB,Mechanics Bancorp,3004969472,Financial Services,Banks - Regional,16.25,1.1976836,,,
+FHB,"First Hawaiian, Inc.",2996669184,Financial Services,Banks - Regional,12.453368,1.1121651,,,
+CENX,Century Aluminum Company,2995252480,Basic Materials,Aluminum,26.8625,4.1534595,71.431,,59800000.0
+SBCF,Seacoast Banking Corporation of,2994746112,Financial Services,Banks - Regional,18.723927,1.1403378,,,
+WSFS,WSFS Financial Corporation,2975599360,Financial Services,Banks - Regional,11.658992,1.1144301,,,
+KYIV,Kyivstar Group Ltd.,2964287744,Communication Services,Telecom Services,9.869231,0.1376019,33.825,,
+DAVE,Dave Inc.,2947075328,Technology,Software - Application,58.287037,13.699247,34.727,,5340000.0
+AMSC,American Superconductor Corpora,2939750656,Industrials,Specialty Industrial Machinery,164.625,8.927603,1.129,,-18359624.0
+PLBL,Polibeli Group Ltd,2938427648,Consumer Cyclical,Department Stores,,-163.67348,,,-3424499.0
+PPTA,Perpetua Resources Corp.,2935659520,Basic Materials,Other Precious Metals & Mining,-123.72727,5.5471773,0.013,,-49401396.0
+SBET,"SharpLink Gaming, Inc.",2931892736,Consumer Cyclical,Gambling,126.833336,2.2251463,0.0,,508860.0
+ODD,ODDITY Tech Ltd.,2930531328,Technology,Software - Infrastructure,28.247057,8.225966,6.506,,94449000.0
+JOYY,JOYY Inc.,2924091392,Communication Services,Internet Content & Information,10.690686,0.44406986,0.507,,
+ENVX,Enovix Corporation,2902529024,Industrials,Electrical Equipment & Parts,-20.249998,12.65625,94.397,,-94511624.0
+BRZE,"Braze, Inc.",2901849344,Technology,Software - Application,104.2,4.8027287,14.093,,126029000.0
+VIAV,Viavi Solutions Inc.,2899353088,Technology,Communication Equipment,86.63333,3.7171052,86.448,,145662496.0
+ICUI,"ICU Medical, Inc.",2894770176,Healthcare,Medical Instruments & Supplies,17.144949,1.366219,66.404,,247926752.0
+METCB,"Ramaco Resources, Inc.",2893963520,Basic Materials,Coking Coal,,2.9749444,38.662,,8906750.0
+LIVN,LivaNova PLC,2891672832,Healthcare,Medical Devices,14.318918,2.575846,42.996,,852396352.0
+MGRC,McGrath RentCorp,2889147648,Industrials,Rental & Leasing Services,11.448393,2.4878333,49.221,,173097872.0
+KNSA,"Kiniksa Pharmaceuticals, Ltd.",2870123008,Healthcare,Drug Manufacturers - Specialty & Generic,776.402,5.806177,1.973,,39422876.0
+HTFL,"Heartflow, Inc.",2833799680,Healthcare,Health Information Services,-66.20165,-0.2415222,,,
+COLM,Columbia Sportswear Company,2822301440,Consumer Cyclical,Apparel Manufacturing,13.264781,1.708779,29.095,,220759872.0
+WB,Weibo Corporation,2813473024,Communication Services,Internet Content & Information,8.081561,0.7559374,50.729,,
+METC,"Ramaco Resources, Inc.",2805601792,Basic Materials,Coking Coal,22.994196,7.4751186,38.662,,8906750.0
+RXRX,"Recursion Pharmaceuticals, Inc.",2796748288,Healthcare,Biotechnology,-3.6683815,2.9879003,9.582,,-186021744.0
+RNW,ReNew Energy Global plc,2795136256,Utilities,Utilities - Renewable,27.553572,0.023693917,539.019,,-54028500992.0
+NCNO,"nCino, Inc.",2781869568,Technology,Software - Application,27.597702,2.6228971,25.252,,120236496.0
+CNXC,Concentrix Corporation,2780728576,Technology,Information Technology Services,9.483051,0.640976,132.282,,792606656.0
+NMIH,NMI Holdings Inc,2776765440,Financial Services,Insurance - Specialty,7.5902333,1.1480411,17.582,,221230496.0
+ALVO,Alvotech,2776366336,Healthcare,Drug Manufacturers - Specialty & Generic,38.91304,-16.097122,,,-164666496.0
+SFNC,Simmons First National Corporat,2761617408,Financial Services,Banks - Regional,14.984253,0.67556536,,,
+SUPN,"Supernus Pharmaceuticals, Inc.",2761599488,Healthcare,Drug Manufacturers - Specialty & Generic,42.78261,2.5952106,2.987,,150124368.0
+PTRN,Pattern Group Inc. - Series A,2758224640,Technology,Software - Application,,0.34143832,6.604,,
+NTLA,"Intellia Therapeutics, Inc.",2751837440,Healthcare,Biotechnology,-4.644283,3.7682228,14.343,,-177757504.0
+VCYT,"Veracyte, Inc.",2744065024,Healthcare,Diagnostics & Research,102.382355,2.2407467,4.148,,75403872.0
+BHF,"Brighthouse Financial, Inc.",2742742528,Financial Services,Insurance - Life,5.4714284,0.48206174,160.021,,-1421500032.0
+MEOH,Methanex Corporation,2738592512,Basic Materials,Chemicals,10.172414,1.04314,128.808,,299904128.0
+RUM,Rumble Inc.,2731354368,Communication Services,Internet Content & Information,-25.935484,8.67314,0.769,,-27879058.0
+EXTR,"Extreme Networks, Inc.",2729185536,Technology,Communication Equipment,20.71212,41.25754,340.696,,149498624.0
+CDTX,"Cidara Therapeutics, Inc.",2719143936,Healthcare,Biotechnology,-13.670935,4.94993,0.466,,-100648248.0
+SYNA,Synaptics Incorporated,2710713344,Technology,Semiconductors,14.342975,1.9231515,63.295,,140500000.0
+CAKE,The Cheesecake Factory Incorpor,2710185472,Consumer Cyclical,Restaurants,16.867285,6.7854486,523.801,,114353504.0
+POWI,"Power Integrations, Inc.",2709697280,Technology,Semiconductors,81.82628,3.852338,0.0,,70245248.0
+HCM,HUTCHMED (China) Limited,2704322048,Healthcare,Drug Manufacturers - Specialty & Generic,5.7999997,10.748252,8.111,,-22782250.0
+DRVN,Driven Brands Holdings Inc.,2690905600,Consumer Cyclical,Auto & Truck Dealerships,13.136,3.628729,390.414,,115309752.0
+GRAL,"GRAIL, Inc.",2681235200,Healthcare,Diagnostics & Research,-6.372979,1.1655505,2.686,,-142499120.0
+BEAM,Beam Therapeutics Inc.,2679781888,Healthcare,Biotechnology,-5.631027,2.5112193,14.788,,-164037248.0
+SGRY,"Surgery Partners, Inc.",2677012224,Healthcare,Medical Care Facilities,16.563494,1.5199184,108.743,,162324992.0
+IRON,"Disc Medicine, Inc.",2675211264,Healthcare,Biotechnology,-14.580798,4.3325615,5.035,,-88617128.0
+IAC,IAC Inc.,2670840320,Communication Services,Internet Content & Information,-237.92857,0.541908,28.916,,87617000.0
+SEZL,Sezzle Inc.,2663016448,Financial Services,Credit Services,26.54374,20.354355,100.757,,35439780.0
+PCT,"PureCycle Technologies, Inc.",2654572032,Industrials,Pollution & Treatment Controls,-24.599998,26.836363,115.241,,-46893248.0
+TOWN,Towne Bank,2633377024,Financial Services,Banks - Regional,14.437229,1.1107041,,,
+MGNI,"Magnite, Inc.",2623707136,Communication Services,Advertising Agencies,61.33333,3.4093015,80.577,,158264368.0
+BLTE,"Belite Bio, Inc",2610255360,Healthcare,Biotechnology,-83.541664,17.442366,0.0,,
+HURN,Huron Consulting Group Inc.,2610224896,Industrials,Consulting Services,26.310644,5.091695,146.921,,139936992.0
+CVBF,CVB Financial Corporation,2604752640,Financial Services,Banks - Regional,12.89726,1.1584128,,,
+NNE,Nano Nuclear Energy Inc.,2593542144,Industrials,Specialty Industrial Machinery,-51.75,9.4988985,1.241,,-20214068.0
+GEMI,"Gemini Space Station, Inc.",2590779904,Financial Services,Capital Markets,,-1.411855,,,
+ACLS,"Axcelis Technologies, Inc.",2584986880,Technology,Semiconductor Equipment & Materials,16.742857,2.5211272,7.037,,67295128.0
+SHOO,"Steven Madden, Ltd.",2582066176,Consumer Cyclical,Footwear & Accessories,27.937008,3.0935566,62.439,,3526500.0
+WDFC,WD-40 Company,2579013120,Basic Materials,Specialty Chemicals,30.059843,10.053195,41.367,,62526124.0
+CPRX,"Catalyst Pharmaceuticals, Inc.",2577554688,Healthcare,Biotechnology,12.766667,3.011437,0.349,,226085632.0
+FOLD,"Amicus Therapeutics, Inc.",2576880896,Healthcare,Biotechnology,52.718754,12.722474,216.988,,-32741124.0
+XRAY,DENTSPLY SIRONA Inc.,2570349568,Healthcare,Medical Instruments & Supplies,6.4375,1.3092333,127.945,,245500000.0
+INOD,Innodata Inc.,2569941504,Technology,Information Technology Services,63.45349,30.060596,4.874,,20414876.0
+BATRA,"Atlanta Braves Holdings, Inc. -",2568967168,Communication Services,Entertainment,-94.78239,5.2334533,152.405,,-27625000.0
+ARQT,"Arcutis Biotherapeutics, Inc.",2568366848,Healthcare,Biotechnology,-21.969389,18.560347,79.269,,-53092124.0
+GTX,Garrett Motion Inc.,2565047808,Consumer Cyclical,Auto Parts,8.96831,-3.163975,,,274500000.0
+VNET,"VNET Group, Inc.",2563816704,Technology,Information Technology Services,-953.0,0.4146002,324.784,,-1242299008.0
+BATRK,"Atlanta Braves Holdings, Inc. -",2552758272,Communication Services,Entertainment,-38.85437,4.803745,152.405,,-27625000.0
+DIOD,Diodes Incorporated,2542043136,Technology,Semiconductors,40.043797,1.3505663,5.151,,158914624.0
+GSHD,"Goosehead Insurance, Inc.",2532916224,Financial Services,Insurance Brokers,59.20175,-21.770967,,,53387752.0
+VICR,Vicor Corporation,2532098816,Technology,Electronic Components,38.57534,4.153086,1.263,,38515752.0
+BHFAP,"Brighthouse Financial, Inc. - D",2531720192,Financial Services,Insurance - Life,1.2150052,0.15425976,160.021,,-1421500032.0
+ADPT,Adaptive Biotechnologies Corpor,2529270016,Healthcare,Biotechnology,-17.968084,14.301439,121.388,,-18756124.0
+ALRM,"Alarm.com Holdings, Inc.",2524695552,Technology,Software - Application,21.37815,3.18,124.793,,129947752.0
+NUKKW,Nukkleus Inc.,2523998720,Technology,Software - Application,,-0.02314116,,,
+PENN,"PENN Entertainment, Inc.",2516391424,Consumer Cyclical,Resorts & Casinos,22.064102,0.8082088,371.988,,-242137504.0
+IDYA,"IDEAYA Biosciences, Inc.",2511868160,Healthcare,Biotechnology,-10.492647,2.6063929,2.772,,-188326256.0
+FA,First Advantage Corporation,2503724288,Industrials,Specialty Business Services,13.860578,1.9289442,164.955,,57720376.0
+FRPT,"Freshpet, Inc.",2486066176,Consumer Defensive,Packaged Foods,77.181816,2.3186164,46.204,,-18491124.0
+ACMR,"ACM Research, Inc.",2466474496,Technology,Semiconductor Equipment & Materials,23.150602,2.4978876,24.115,,-75642872.0
+XMTR,"Xometry, Inc.",2461083136,Industrials,Industrial Distribution,173.28572,9.075944,123.35,,-6709750.0
+OCUL,"Ocular Therapeutix, Inc.",2445374976,Healthcare,Biotechnology,-11.421569,6.5856414,25.15,,-115412872.0
+SMPL,The Simply Good Foods Company,2441147648,Consumer Defensive,Packaged Foods,17.0,1.3274723,16.553,,133035624.0
+IBRX,"ImmunityBio, Inc.",2419851776,Healthcare,Biotechnology,-4.063492,-4.109149,,,-249235872.0
+SEDG,"SolarEdge Technologies, Inc.",2414179072,Technology,Solar,-16.571428,4.677958,147.999,,385188128.0
+FFBC,First Financial Bancorp.,2405297408,Financial Services,Banks - Regional,10.032,0.93883353,,,
+SPNS,Sapiens International Corporati,2405124864,Technology,Software - Application,35.27049,4.8266964,8.861,,51627124.0
+CHEF,"The Chefs' Warehouse, Inc.",2402143232,Consumer Defensive,Food Distribution,36.570988,4.3276114,166.758,,106234376.0
+CRML,Critical Metals Corp.,2397773824,Basic Materials,Other Industrial Metals & Mining,,24.626484,6.398,,10216527.0
+WBTN,WEBTOON Entertainment Inc.,2383600896,Communication Services,Internet Content & Information,121.533325,1.575899,1.734,,6008750.0
+DNLI,Denali Therapeutics Inc.,2383259904,Healthcare,Biotechnology,-5.943636,2.3184395,4.671,,-237644496.0
+ALKT,"Alkami Technology, Inc.",2380381440,Technology,Software - Application,44.666668,6.892587,117.234,,47769248.0
+AGIO,"Agios Pharmaceuticals, Inc.",2366475008,Healthcare,Biotechnology,3.663419,1.7527652,3.56,,-250385120.0
+TVTX,"Travere Therapeutics, Inc.",2355935232,Healthcare,Biotechnology,-21.639343,71.73913,1220.182,,-81794376.0
+PAX,Patria Investments Limited,2347354112,Financial Services,Asset Management,27.25,4.080699,31.713,,129748496.0
+TRMK,Trustmark Corporation,2342222848,Financial Services,Banks - Regional,10.876405,1.1293899,,,
+MRX,Marex Group plc,2342145536,Financial Services,Capital Markets,9.670694,2.264271,887.536,,
+MESO,Mesoblast Limited,2313984512,Healthcare,Biotechnology,-32.52727,38.30835,21.451,,-55124212.0
+DYN,"Dyne Therapeutics, Inc.",2302538496,Healthcare,Biotechnology,-5.140823,3.2503002,21.188,,-222398000.0
+PINC,"Premier, Inc.",2297790208,Healthcare,Health Information Services,40.875,1.4990293,19.037,,255678368.0
+PRDO,Perdoceo Education Corporation,2289281792,Consumer Defensive,Education & Training Services,15.291304,2.3200736,12.648,,153035120.0
+SRPT,"Sarepta Therapeutics, Inc.",2288651776,Healthcare,Biotechnology,1.9100437,1.5741742,100.509,,-257104000.0
+GLPG,Galapagos NV,2282518272,Healthcare,Biotechnology,-32.567307,0.84421736,0.319,,-33690752.0
+WAFD,"WaFd, Inc.",2268423424,Financial Services,Banks - Regional,10.946768,0.83930975,,,
+COGT,"Cogent Biosciences, Inc.",2263851520,Healthcare,Biotechnology,-7.095652,39.51574,39.125,,-126128624.0
+UPWK,Upwork Inc.,2250333440,Communication Services,Internet Content & Information,9.866279,3.6947527,60.929,,187839376.0
+ACHC,"Acadia Healthcare Company, Inc.",2244483840,Healthcare,Medical Care Facilities,16.072369,0.71745324,74.737,,-267134000.0
+DJTWW,Trump Media & Technology Group ,2235342848,Communication Services,Internet Content & Information,,0.8967358,41.51,,-1032224896.0
+PGY,Pagaya Technologies Ltd.,2232752640,Technology,Software - Infrastructure,57.96,6.0186915,140.847,,165111632.0
+FORTY,Formula Systems (1985) Ltd.,2215395072,Technology,Information Technology Services,28.514055,3.0069456,46.76,,
+COCO,"The Vita Coco Company, Inc.",2206436352,Consumer Defensive,Beverages - Non-Alcoholic,36.3271,7.434965,4.975,,898375.0
+ETNB,"89bio, Inc.",2194718208,Healthcare,Biotechnology,-5.151568,4.202672,7.21,,-257733632.0
+SOXX,iShares Semiconductor ETF,2191954432,,,36.087086,0.67480636,,,
+PTEN,"Patterson-UTI Energy, Inc.",2189677056,Energy,Oil & Gas Drilling,-71.0,0.6545286,38.429,,417284128.0
+CCOI,"Cogent Communications Holdings,",2183220480,Communication Services,Telecom Services,-12.869191,45.38981,5741.032,,-170508752.0
+BANR,Banner Corporation,2164989952,Financial Services,Banks - Regional,11.893333,1.1574538,,,
+MQ,"Marqeta, Inc.",2155999488,Technology,Software - Infrastructure,-26.666666,2.5572724,0.799,,30506376.0
+NBTB,NBT Bancorp Inc.,2155492608,Financial Services,Banks - Regional,14.712231,1.1867112,,,
+PSIX,"Power Solutions International, ",2153636096,Industrials,Specialty Industrial Machinery,19.324324,15.767599,109.37,,36061376.0
+GCMG,GCM Grosvenor Inc.,2152857600,Financial Services,Asset Management,63.91,-49.8,,,85766248.0
+FRME,First Merchants Corporation,2137431296,Financial Services,Banks - Regional,9.587013,0.91005474,,,
+CELC,Celcuity Inc.,2131518080,Healthcare,Biotechnology,-15.85653,44.50956,224.034,,-73714896.0
+PAYO,Payoneer Global Inc.,2131266432,Technology,Software - Infrastructure,23.5264,4.1101327,2.806,,617331904.0
+OUST,"Ouster, Inc.",2129193728,Technology,Electronic Components,-17.94853,9.575053,7.987,,19586500.0
+HUBG,"Hub Group, Inc.",2126768256,Industrials,Integrated Freight & Logistics,21.087877,1.2717005,26.8,,135511120.0
+EYE,"National Vision Holdings, Inc.",2116523392,Consumer Cyclical,Specialty Retail,51.413464,2.4885974,84.571,,104389000.0
+OSW,OneSpaWorld Holdings Limited,2106833664,Consumer Cyclical,Leisure,30.139708,3.838734,19.988,,51981876.0
+ADUS,Addus HomeCare Corporation,2106708608,Healthcare,Medical Care Facilities,25.292492,2.036527,21.75,,50854376.0
+EFSC,Enterprise Financial Services C,2091481600,Financial Services,Banks - Regional,10.693916,1.1229339,,,
+KLIC,"Kulicke and Soffa Industries, I",2089471232,Technology,Semiconductor Equipment & Materials,444.44443,2.501407,4.34,,138284752.0
+ATEC,"Alphatec Holdings, Inc.",2085091456,Healthcare,Medical Devices,-21.66154,86.91358,1238.293,,21168250.0
+BUSE,First Busey Corporation,2082360960,Financial Services,Banks - Regional,18.507936,0.86131114,,,
+AVDX,"AvidXchange Holdings, Inc.",2076987520,Technology,Software - Infrastructure,29.411764,3.0211482,10.879,,56475000.0
+IQ,"iQIYI, Inc.",2060732032,Communication Services,Entertainment,214.00002,0.15248682,106.911,,15148687360.0
+FBNC,First Bancorp,2058401664,Financial Services,Banks - Regional,21.183762,1.3209156,,,
+SYBT,"Stock Yards Bancorp, Inc.",2043975552,Financial Services,Banks - Regional,15.887357,2.02532,,,
+NWL,Newell Brands Inc.,2032635008,Consumer Defensive,Household & Personal Products,6.305195,0.7536479,219.948,,124250000.0
+APPN,Appian Corporation,2030696704,Technology,Software - Infrastructure,153.0,-37.933884,,,70981752.0
+FORD,"Forward Industries, Inc.",2030023552,Consumer Cyclical,Footwear & Accessories,337.71426,-16.801706,97.306,,-7115870.0
+IRDM,Iridium Communications Inc,2025184128,Communication Services,Telecom Services,19.11,4.292453,381.991,,284887872.0
+AVAH,Aveanna Healthcare Holdings Inc,2011672064,Healthcare,Medical Care Facilities,107.22221,-178.70369,,,68409248.0
+MVST,"Microvast Holdings, Inc.",2009061760,Consumer Cyclical,Auto Parts,-30.975,5.6012664,113.238,,2613875.0
+EVCM,EverCommerce Inc.,2003130240,Technology,Software - Infrastructure,16.757576,2.7081294,73.334,,77345752.0
+LFST,"LifeStance Health Group, Inc.",2003022464,Healthcare,Medical Care Facilities,-30.32353,1.3608764,32.176,,121321752.0
+SBLK,Star Bulk Carriers Corp.,2002754688,Industrials,Marine Shipping,17.872448,0.8354798,56.475,,230331120.0
+ANIP,"ANI Pharmaceuticals, Inc.",2001011968,Healthcare,Drug Manufacturers - Specialty & Generic,16.244123,4.1394405,136.102,,89393504.0
