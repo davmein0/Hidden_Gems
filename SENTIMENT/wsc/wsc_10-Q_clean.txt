@@ -1,0 +1,6235 @@
+wsc-20250930
+false
+2025
+Q3
+0001647088
+--12-31
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+wsc:temperature-controlledUnit
+wsc:company
+xbrli:pure
+wsc:derivativeAgreement
+wsc:segment
+0001647088
+2025-01-01
+2025-09-30
+0001647088
+dei:FormerAddressMember
+2025-01-01
+2025-09-30
+0001647088
+2025-10-30
+0001647088
+2025-09-30
+0001647088
+2024-12-31
+0001647088
+wsc:LeasingRevenueMember
+2025-07-01
+2025-09-30
+0001647088
+wsc:LeasingRevenueMember
+2024-07-01
+2024-09-30
+0001647088
+wsc:LeasingRevenueMember
+2025-01-01
+2025-09-30
+0001647088
+wsc:LeasingRevenueMember
+2024-01-01
+2024-09-30
+0001647088
+wsc:DeliveryAndInstallationMember
+2025-07-01
+2025-09-30
+0001647088
+wsc:DeliveryAndInstallationMember
+2024-07-01
+2024-09-30
+0001647088
+wsc:DeliveryAndInstallationMember
+2025-01-01
+2025-09-30
+0001647088
+wsc:DeliveryAndInstallationMember
+2024-01-01
+2024-09-30
+0001647088
+wsc:NewUnitsMember
+2025-07-01
+2025-09-30
+0001647088
+wsc:NewUnitsMember
+2024-07-01
+2024-09-30
+0001647088
+wsc:NewUnitsMember
+2025-01-01
+2025-09-30
+0001647088
+wsc:NewUnitsMember
+2024-01-01
+2024-09-30
+0001647088
+wsc:RentalUnitsMember
+2025-07-01
+2025-09-30
+0001647088
+wsc:RentalUnitsMember
+2024-07-01
+2024-09-30
+0001647088
+wsc:RentalUnitsMember
+2025-01-01
+2025-09-30
+0001647088
+wsc:RentalUnitsMember
+2024-01-01
+2024-09-30
+0001647088
+2025-07-01
+2025-09-30
+0001647088
+2024-07-01
+2024-09-30
+0001647088
+2024-01-01
+2024-09-30
+0001647088
+us-gaap:CommonStockMember
+2024-12-31
+0001647088
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0001647088
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-31
+0001647088
+us-gaap:RetainedEarningsMember
+2024-12-31
+0001647088
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-03-31
+0001647088
+2025-01-01
+2025-03-31
+0001647088
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-01-01
+2025-03-31
+0001647088
+us-gaap:AdditionalPaidInCapitalMember
+2025-01-01
+2025-03-31
+0001647088
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0001647088
+us-gaap:CommonStockMember
+2025-03-31
+0001647088
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-31
+0001647088
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-03-31
+0001647088
+us-gaap:RetainedEarningsMember
+2025-03-31
+0001647088
+2025-03-31
+0001647088
+us-gaap:RetainedEarningsMember
+2025-04-01
+2025-06-30
+0001647088
+2025-04-01
+2025-06-30
+0001647088
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-04-01
+2025-06-30
+0001647088
+us-gaap:AdditionalPaidInCapitalMember
+2025-04-01
+2025-06-30
+0001647088
+us-gaap:CommonStockMember
+2025-04-01
+2025-06-30
+0001647088
+us-gaap:CommonStockMember
+2025-06-30
+0001647088
+us-gaap:AdditionalPaidInCapitalMember
+2025-06-30
+0001647088
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-06-30
+0001647088
+us-gaap:RetainedEarningsMember
+2025-06-30
+0001647088
+2025-06-30
+0001647088
+us-gaap:RetainedEarningsMember
+2025-07-01
+2025-09-30
+0001647088
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-07-01
+2025-09-30
+0001647088
+us-gaap:AdditionalPaidInCapitalMember
+2025-07-01
+2025-09-30
+0001647088
+us-gaap:CommonStockMember
+2025-07-01
+2025-09-30
+0001647088
+us-gaap:CommonStockMember
+2025-09-30
+0001647088
+us-gaap:AdditionalPaidInCapitalMember
+2025-09-30
+0001647088
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-09-30
+0001647088
+us-gaap:RetainedEarningsMember
+2025-09-30
+0001647088
+us-gaap:CommonStockMember
+2023-12-31
+0001647088
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-31
+0001647088
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-12-31
+0001647088
+us-gaap:RetainedEarningsMember
+2023-12-31
+0001647088
+2023-12-31
+0001647088
+us-gaap:RetainedEarningsMember
+2024-01-01
+2024-03-31
+0001647088
+2024-01-01
+2024-03-31
+0001647088
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-01-01
+2024-03-31
+0001647088
+us-gaap:AdditionalPaidInCapitalMember
+2024-01-01
+2024-03-31
+0001647088
+us-gaap:CommonStockMember
+2024-01-01
+2024-03-31
+0001647088
+us-gaap:CommonStockMember
+2024-03-31
+0001647088
+us-gaap:AdditionalPaidInCapitalMember
+2024-03-31
+0001647088
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-03-31
+0001647088
+us-gaap:RetainedEarningsMember
+2024-03-31
+0001647088
+2024-03-31
+0001647088
+us-gaap:RetainedEarningsMember
+2024-04-01
+2024-06-30
+0001647088
+2024-04-01
+2024-06-30
+0001647088
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-04-01
+2024-06-30
+0001647088
+us-gaap:CommonStockMember
+2024-04-01
+2024-06-30
+0001647088
+us-gaap:AdditionalPaidInCapitalMember
+2024-04-01
+2024-06-30
+0001647088
+us-gaap:CommonStockMember
+2024-06-30
+0001647088
+us-gaap:AdditionalPaidInCapitalMember
+2024-06-30
+0001647088
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-06-30
+0001647088
+us-gaap:RetainedEarningsMember
+2024-06-30
+0001647088
+2024-06-30
+0001647088
+us-gaap:RetainedEarningsMember
+2024-07-01
+2024-09-30
+0001647088
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-07-01
+2024-09-30
+0001647088
+us-gaap:AdditionalPaidInCapitalMember
+2024-07-01
+2024-09-30
+0001647088
+us-gaap:CommonStockMember
+2024-07-01
+2024-09-30
+0001647088
+us-gaap:CommonStockMember
+2024-09-30
+0001647088
+us-gaap:AdditionalPaidInCapitalMember
+2024-09-30
+0001647088
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-09-30
+0001647088
+us-gaap:RetainedEarningsMember
+2024-09-30
+0001647088
+2024-09-30
+0001647088
+wsc:RegionalProviderOfClimateControlledContainersMember
+2025-01-01
+2025-09-30
+0001647088
+wsc:StorageUnitMember
+wsc:RegionalProviderOfClimateControlledContainersMember
+2025-09-30
+0001647088
+wsc:RegionalProviderOfClimateControlledContainersMember
+2025-09-30
+0001647088
+wsc:RentalFleetAssetsMember
+2025-09-30
+0001647088
+wsc:RentalFleetAssetsMember
+2025-01-01
+2025-09-30
+0001647088
+country:US
+2025-07-01
+2025-09-30
+0001647088
+country:US
+2024-07-01
+2024-09-30
+0001647088
+country:US
+2025-01-01
+2025-09-30
+0001647088
+country:US
+2024-01-01
+2024-09-30
+0001647088
+country:CA
+2025-07-01
+2025-09-30
+0001647088
+country:CA
+2024-07-01
+2024-09-30
+0001647088
+country:CA
+2025-01-01
+2025-09-30
+0001647088
+country:CA
+2024-01-01
+2024-09-30
+0001647088
+country:MX
+2025-07-01
+2025-09-30
+0001647088
+country:MX
+2024-07-01
+2024-09-30
+0001647088
+country:MX
+2025-01-01
+2025-09-30
+0001647088
+country:MX
+2024-01-01
+2024-09-30
+0001647088
+wsc:ModularSpaceLeasingMember
+2025-07-01
+2025-09-30
+0001647088
+wsc:ModularSpaceLeasingMember
+2024-07-01
+2024-09-30
+0001647088
+wsc:ModularSpaceLeasingMember
+2025-01-01
+2025-09-30
+0001647088
+wsc:ModularSpaceLeasingMember
+2024-01-01
+2024-09-30
+0001647088
+wsc:PortableStorageLeasingMember
+2025-07-01
+2025-09-30
+0001647088
+wsc:PortableStorageLeasingMember
+2024-07-01
+2024-09-30
+0001647088
+wsc:PortableStorageLeasingMember
+2025-01-01
+2025-09-30
+0001647088
+wsc:PortableStorageLeasingMember
+2024-01-01
+2024-09-30
+0001647088
+wsc:ValueAddedProductAndServicesMember
+2025-07-01
+2025-09-30
+0001647088
+wsc:ValueAddedProductAndServicesMember
+2024-07-01
+2024-09-30
+0001647088
+wsc:ValueAddedProductAndServicesMember
+2025-01-01
+2025-09-30
+0001647088
+wsc:ValueAddedProductAndServicesMember
+2024-01-01
+2024-09-30
+0001647088
+wsc:OtherLeasingRelatedProductsAndServicesMember
+2025-07-01
+2025-09-30
+0001647088
+wsc:OtherLeasingRelatedProductsAndServicesMember
+2024-07-01
+2024-09-30
+0001647088
+wsc:OtherLeasingRelatedProductsAndServicesMember
+2025-01-01
+2025-09-30
+0001647088
+wsc:OtherLeasingRelatedProductsAndServicesMember
+2024-01-01
+2024-09-30
+0001647088
+wsc:DeliveryAndInstallationRevenueMember
+2025-07-01
+2025-09-30
+0001647088
+wsc:DeliveryAndInstallationRevenueMember
+2024-07-01
+2024-09-30
+0001647088
+wsc:DeliveryAndInstallationRevenueMember
+2025-01-01
+2025-09-30
+0001647088
+wsc:DeliveryAndInstallationRevenueMember
+2024-01-01
+2024-09-30
+0001647088
+wsc:LeasingAndServicesMember
+2025-07-01
+2025-09-30
+0001647088
+wsc:LeasingAndServicesMember
+2024-07-01
+2024-09-30
+0001647088
+wsc:LeasingAndServicesMember
+2025-01-01
+2025-09-30
+0001647088
+wsc:LeasingAndServicesMember
+2024-01-01
+2024-09-30
+0001647088
+wsc:ValueAddedServicesMember
+2025-07-01
+2025-09-30
+0001647088
+wsc:ValueAddedServicesMember
+2024-07-01
+2024-09-30
+0001647088
+wsc:ValueAddedServicesMember
+2025-01-01
+2025-09-30
+0001647088
+wsc:ValueAddedServicesMember
+2024-01-01
+2024-09-30
+0001647088
+wsc:LeasingRevenueMember
+us-gaap:ProductConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2025-07-01
+2025-09-30
+0001647088
+wsc:LeasingRevenueMember
+us-gaap:ProductConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2024-07-01
+2024-09-30
+0001647088
+wsc:LeasingRevenueMember
+us-gaap:ProductConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2025-01-01
+2025-09-30
+0001647088
+wsc:LeasingRevenueMember
+us-gaap:ProductConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2024-01-01
+2024-09-30
+0001647088
+2025-09-30
+2025-09-30
+0001647088
+wsc:ModularSpaceUnitsMember
+2025-09-30
+0001647088
+wsc:ModularSpaceUnitsMember
+2024-12-31
+0001647088
+wsc:PortableStorageUnitsMember
+2025-09-30
+0001647088
+wsc:PortableStorageUnitsMember
+2024-12-31
+0001647088
+wsc:ValueAddedProductsMember
+2025-09-30
+0001647088
+wsc:ValueAddedProductsMember
+2024-12-31
+0001647088
+2024-01-01
+2024-12-31
+0001647088
+us-gaap:CustomerRelationshipsMember
+2025-09-30
+0001647088
+us-gaap:TechnologyBasedIntangibleAssetsMember
+2025-09-30
+0001647088
+us-gaap:TradeNamesMember
+2025-09-30
+0001647088
+wsc:WillScotTradeNamesMember
+2025-09-30
+0001647088
+us-gaap:CustomerRelationshipsMember
+2024-12-31
+0001647088
+us-gaap:TechnologyBasedIntangibleAssetsMember
+2024-12-31
+0001647088
+us-gaap:TradeNamesMember
+2024-12-31
+0001647088
+wsc:WillScotTradeNamesMember
+2024-12-31
+0001647088
+wsc:SeniorSecuredNotesDue2025Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0001647088
+wsc:SeniorSecuredNotesDue2025Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0001647088
+us-gaap:RevolvingCreditFacilityMember
+wsc:AssetBasedLiabilityFacilityDue2025MulticurrencyFacilityMember
+us-gaap:LineOfCreditMember
+2025-09-30
+0001647088
+us-gaap:RevolvingCreditFacilityMember
+wsc:AssetBasedLiabilityFacilityDue2025MulticurrencyFacilityMember
+us-gaap:LineOfCreditMember
+2024-12-31
+0001647088
+wsc:SeniorSecuredNotesDue2028Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0001647088
+wsc:SeniorSecuredNotesDue2028Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0001647088
+wsc:SeniorSecuredNotesDue2029Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0001647088
+wsc:SeniorSecuredNotesDue2029Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0001647088
+wsc:SeniorSecuredNotesDue2030Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0001647088
+wsc:SeniorSecuredNotesDue2030Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0001647088
+wsc:SeniorSecuredNotesDue2031Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0001647088
+wsc:SeniorSecuredNotesDue2031Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0001647088
+us-gaap:RevolvingCreditFacilityMember
+wsc:AssetBasedLiabilityFacilityDue2027Member
+us-gaap:LineOfCreditMember
+2022-06-30
+0001647088
+us-gaap:RevolvingCreditFacilityMember
+wsc:AssetBasedLiabilityFacilityDue2027USFacilityMember
+us-gaap:LineOfCreditMember
+2022-06-30
+0001647088
+us-gaap:RevolvingCreditFacilityMember
+wsc:AssetBasedLiabilityFacilityDue2027MulticurrencyFacilityMember
+us-gaap:LineOfCreditMember
+2022-06-30
+0001647088
+us-gaap:RevolvingCreditFacilityMember
+wsc:AssetBasedLiabilityFacilityDue2027Member
+us-gaap:LineOfCreditMember
+us-gaap:SubsequentEventMember
+2025-10-15
+0001647088
+wsc:TermSecuredOvernightFinancingRateSOFRAndTermCanadianOvernightRepoRateAverageCORRAMember
+wsc:AssetBasedLiabilityFacilityDue2027Member
+us-gaap:LineOfCreditMember
+2025-09-30
+2025-09-30
+0001647088
+wsc:AssetBasedLiabilityFacilityDue2027Member
+us-gaap:LineOfCreditMember
+2025-09-30
+2025-09-30
+0001647088
+wsc:BaseRateAndCanadianPrimeRateMember
+wsc:AssetBasedLiabilityFacilityDue2027Member
+us-gaap:LineOfCreditMember
+2025-09-30
+2025-09-30
+0001647088
+us-gaap:RevolvingCreditFacilityMember
+wsc:AssetBasedLiabilityFacilityDue2027Member
+us-gaap:LineOfCreditMember
+2025-09-30
+2025-09-30
+0001647088
+us-gaap:RevolvingCreditFacilityMember
+wsc:AssetBasedLiabilityFacilityDue2027Member
+us-gaap:LineOfCreditMember
+2025-09-30
+0001647088
+us-gaap:RevolvingCreditFacilityMember
+wsc:AssetBasedLiabilityFacilityDue2027USFacilityMember
+us-gaap:LineOfCreditMember
+2025-09-30
+0001647088
+us-gaap:RevolvingCreditFacilityMember
+wsc:AssetBasedLiabilityFacilityDue2027MulticurrencyFacilityMember
+us-gaap:LineOfCreditMember
+2025-09-30
+0001647088
+us-gaap:LetterOfCreditMember
+wsc:AssetBasedLiabilityFacilityDue2027Member
+us-gaap:LineOfCreditMember
+2025-09-30
+0001647088
+us-gaap:BridgeLoanMember
+wsc:AssetBasedLiabilityFacilityDue2027Member
+us-gaap:LineOfCreditMember
+2025-09-30
+0001647088
+us-gaap:StandbyLettersOfCreditMember
+wsc:AssetBasedLiabilityFacilityDue2027Member
+us-gaap:LineOfCreditMember
+2025-09-30
+0001647088
+wsc:AssetBasedLiabilityFacilityDue2027Member
+us-gaap:LineOfCreditMember
+2025-01-01
+2025-09-30
+0001647088
+us-gaap:RevolvingCreditFacilityMember
+wsc:AssetBasedLiabilityFacilityDue2027Member
+us-gaap:LineOfCreditMember
+2024-12-31
+0001647088
+wsc:SeniorSecuredNotesDue2030Member
+us-gaap:SeniorNotesMember
+2025-03-26
+0001647088
+wsc:SeniorSecuredNotesDue2025Member
+us-gaap:SeniorNotesMember
+2025-03-27
+0001647088
+wsc:SeniorSecuredNotesDue2025Member
+us-gaap:SeniorNotesMember
+2025-03-27
+2025-03-27
+0001647088
+2025-02-28
+0001647088
+2025-05-31
+0001647088
+2025-07-31
+0001647088
+2025-02-01
+2025-02-28
+0001647088
+2025-05-01
+2025-05-31
+0001647088
+2025-07-01
+2025-07-31
+0001647088
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-12-31
+0001647088
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2024-12-31
+0001647088
+us-gaap:AccumulatedTranslationAdjustmentMember
+2025-01-01
+2025-03-31
+0001647088
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2025-01-01
+2025-03-31
+0001647088
+us-gaap:AccumulatedTranslationAdjustmentMember
+2025-03-31
+0001647088
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2025-03-31
+0001647088
+us-gaap:AccumulatedTranslationAdjustmentMember
+2025-04-01
+2025-06-30
+0001647088
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2025-04-01
+2025-06-30
+0001647088
+us-gaap:AccumulatedTranslationAdjustmentMember
+2025-06-30
+0001647088
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2025-06-30
+0001647088
+us-gaap:AccumulatedTranslationAdjustmentMember
+2025-07-01
+2025-09-30
+0001647088
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2025-07-01
+2025-09-30
+0001647088
+us-gaap:AccumulatedTranslationAdjustmentMember
+2025-09-30
+0001647088
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2025-09-30
+0001647088
+us-gaap:AccumulatedTranslationAdjustmentMember
+2023-12-31
+0001647088
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2023-12-31
+0001647088
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-01-01
+2024-03-31
+0001647088
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2024-01-01
+2024-03-31
+0001647088
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-03-31
+0001647088
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2024-03-31
+0001647088
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-04-01
+2024-06-30
+0001647088
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2024-04-01
+2024-06-30
+0001647088
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-06-30
+0001647088
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2024-06-30
+0001647088
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-07-01
+2024-09-30
+0001647088
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2024-07-01
+2024-09-30
+0001647088
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-09-30
+0001647088
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2024-09-30
+0001647088
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+2025-07-01
+2025-09-30
+0001647088
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+2024-07-01
+2024-09-30
+0001647088
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+2025-01-01
+2025-09-30
+0001647088
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+2024-01-01
+2024-09-30
+0001647088
+us-gaap:InterestRateSwapMember
+2023-01-01
+2023-01-31
+0001647088
+us-gaap:InterestRateSwapMember
+2023-01-31
+0001647088
+us-gaap:InterestRateSwapMember
+2024-01-01
+2024-01-31
+0001647088
+us-gaap:InterestRateSwapMember
+2024-01-31
+0001647088
+wsc:InterestRateSwapsEnteredJanuary2023Member
+2025-09-30
+0001647088
+wsc:InterestRateSwapsEnteredJanuary2024Member
+2025-09-30
+0001647088
+us-gaap:InterestRateSwapMember
+2025-09-30
+0001647088
+us-gaap:InterestRateSwapMember
+2024-12-31
+0001647088
+us-gaap:InterestRateSwapMember
+2025-01-01
+2025-09-30
+0001647088
+us-gaap:InterestRateSwapMember
+2024-01-01
+2024-09-30
+0001647088
+us-gaap:InterestRateSwapMember
+us-gaap:InterestExpenseMember
+2025-01-01
+2025-09-30
+0001647088
+us-gaap:InterestRateSwapMember
+us-gaap:InterestExpenseMember
+2024-01-01
+2024-09-30
+0001647088
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+wsc:SeniorSecuredNotesDue2025Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0001647088
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueInputsLevel2Member
+wsc:SeniorSecuredNotesDue2025Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0001647088
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+wsc:SeniorSecuredNotesDue2025Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0001647088
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueInputsLevel2Member
+wsc:SeniorSecuredNotesDue2025Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0001647088
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+wsc:SeniorSecuredNotesDue2028Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0001647088
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueInputsLevel2Member
+wsc:SeniorSecuredNotesDue2028Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0001647088
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+wsc:SeniorSecuredNotesDue2028Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0001647088
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueInputsLevel2Member
+wsc:SeniorSecuredNotesDue2028Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0001647088
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+wsc:SeniorSecuredNotesDue2029Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0001647088
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueInputsLevel2Member
+wsc:SeniorSecuredNotesDue2029Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0001647088
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+wsc:SeniorSecuredNotesDue2029Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0001647088
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueInputsLevel2Member
+wsc:SeniorSecuredNotesDue2029Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0001647088
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+wsc:SeniorSecuredNotesDue2030Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0001647088
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueInputsLevel2Member
+wsc:SeniorSecuredNotesDue2030Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0001647088
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+wsc:SeniorSecuredNotesDue2030Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0001647088
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueInputsLevel2Member
+wsc:SeniorSecuredNotesDue2030Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0001647088
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+wsc:SeniorSecuredNotesDue2031Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0001647088
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueInputsLevel2Member
+wsc:SeniorSecuredNotesDue2031Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0001647088
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+wsc:SeniorSecuredNotesDue2031Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0001647088
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueInputsLevel2Member
+wsc:SeniorSecuredNotesDue2031Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0001647088
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2025-09-30
+0001647088
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001647088
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2024-12-31
+0001647088
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0001647088
+us-gaap:RestrictedStockMember
+2024-12-31
+0001647088
+us-gaap:RestrictedStockMember
+2023-12-31
+0001647088
+us-gaap:RestrictedStockMember
+2025-01-01
+2025-09-30
+0001647088
+us-gaap:RestrictedStockMember
+2024-01-01
+2024-09-30
+0001647088
+us-gaap:RestrictedStockMember
+2025-09-30
+0001647088
+us-gaap:RestrictedStockMember
+2024-09-30
+0001647088
+us-gaap:RestrictedStockMember
+2025-07-01
+2025-09-30
+0001647088
+us-gaap:RestrictedStockMember
+2024-07-01
+2024-09-30
+0001647088
+wsc:TimeBasedRestrictedStockUnitsRSUsMember
+2024-12-31
+0001647088
+wsc:TimeBasedRestrictedStockUnitsRSUsMember
+2023-12-31
+0001647088
+wsc:TimeBasedRestrictedStockUnitsRSUsMember
+2025-01-01
+2025-09-30
+0001647088
+wsc:TimeBasedRestrictedStockUnitsRSUsMember
+2024-01-01
+2024-09-30
+0001647088
+wsc:TimeBasedRestrictedStockUnitsRSUsMember
+2025-09-30
+0001647088
+wsc:TimeBasedRestrictedStockUnitsRSUsMember
+2024-09-30
+0001647088
+wsc:TimeBasedRestrictedStockUnitsRSUsMember
+2025-07-01
+2025-09-30
+0001647088
+wsc:TimeBasedRestrictedStockUnitsRSUsMember
+2024-07-01
+2024-09-30
+0001647088
+wsc:PerformanceBasedRestrictedStockUnitsRSUsMember
+2024-12-31
+0001647088
+wsc:PerformanceBasedRestrictedStockUnitsRSUsMember
+2023-12-31
+0001647088
+wsc:PerformanceBasedRestrictedStockUnitsRSUsMember
+2025-01-01
+2025-09-30
+0001647088
+wsc:PerformanceBasedRestrictedStockUnitsRSUsMember
+2024-01-01
+2024-09-30
+0001647088
+wsc:PerformanceBasedRestrictedStockUnitsRSUsMember
+2025-09-30
+0001647088
+wsc:PerformanceBasedRestrictedStockUnitsRSUsMember
+2024-09-30
+0001647088
+wsc:PerformanceBasedRestrictedStockUnitsRSUsMember
+2025-07-01
+2025-09-30
+0001647088
+wsc:PerformanceBasedRestrictedStockUnitsRSUsMember
+2024-07-01
+2024-09-30
+0001647088
+wsc:PerformanceBasedRestrictedStockUnitsRSUsMember
+2021-01-01
+2021-12-31
+0001647088
+srt:MinimumMember
+wsc:PerformanceBasedRestrictedStockUnitsRSUsMember
+2021-01-01
+2021-12-31
+0001647088
+srt:MaximumMember
+wsc:PerformanceBasedRestrictedStockUnitsRSUsMember
+2021-01-01
+2021-12-31
+0001647088
+srt:MinimumMember
+wsc:PerformanceBasedRestrictedStockUnitsRSUsMember
+2021-12-31
+0001647088
+srt:MaximumMember
+wsc:PerformanceBasedRestrictedStockUnitsRSUsMember
+2021-12-31
+0001647088
+wsc:PerformanceBasedRestrictedStockUnitsRSUsMember
+2021-12-31
+0001647088
+wsc:ShareBasedPaymentArrangementOptionWillScotMember
+2024-12-31
+0001647088
+wsc:ShareBasedPaymentArrangementOptionMobileMiniMember
+2024-12-31
+0001647088
+wsc:ShareBasedPaymentArrangementOptionWillScotMember
+2025-01-01
+2025-09-30
+0001647088
+wsc:ShareBasedPaymentArrangementOptionMobileMiniMember
+2025-01-01
+2025-09-30
+0001647088
+wsc:ShareBasedPaymentArrangementOptionWillScotMember
+2025-09-30
+0001647088
+wsc:ShareBasedPaymentArrangementOptionMobileMiniMember
+2025-09-30
+0001647088
+wsc:ShareBasedPaymentArrangementOptionWillScotMember
+2023-12-31
+0001647088
+wsc:ShareBasedPaymentArrangementOptionMobileMiniMember
+2023-12-31
+0001647088
+wsc:ShareBasedPaymentArrangementOptionWillScotMember
+2024-01-01
+2024-09-30
+0001647088
+wsc:ShareBasedPaymentArrangementOptionMobileMiniMember
+2024-01-01
+2024-09-30
+0001647088
+wsc:ShareBasedPaymentArrangementOptionWillScotMember
+2024-09-30
+0001647088
+wsc:ShareBasedPaymentArrangementOptionMobileMiniMember
+2024-09-30
+0001647088
+us-gaap:EmployeeStockOptionMember
+2025-01-01
+2025-09-30
+0001647088
+us-gaap:EmployeeStockOptionMember
+2025-07-01
+2025-09-30
+0001647088
+us-gaap:EmployeeStockOptionMember
+2025-09-30
+0001647088
+srt:MinimumMember
+us-gaap:EmployeeStockOptionMember
+2025-01-01
+2025-09-30
+0001647088
+srt:MaximumMember
+us-gaap:EmployeeStockOptionMember
+2025-01-01
+2025-09-30
+0001647088
+wsc:UnitLeasingAndOtherRentalRelatedMember
+wsc:ReportableSegmentMember
+2025-07-01
+2025-09-30
+0001647088
+wsc:UnitLeasingAndOtherRentalRelatedMember
+wsc:ReportableSegmentMember
+2024-07-01
+2024-09-30
+0001647088
+wsc:UnitLeasingAndOtherRentalRelatedMember
+wsc:ReportableSegmentMember
+2025-01-01
+2025-09-30
+0001647088
+wsc:UnitLeasingAndOtherRentalRelatedMember
+wsc:ReportableSegmentMember
+2024-01-01
+2024-09-30
+0001647088
+wsc:ValueAddedProductAndServicesMember
+wsc:ReportableSegmentMember
+2025-07-01
+2025-09-30
+0001647088
+wsc:ValueAddedProductAndServicesMember
+wsc:ReportableSegmentMember
+2024-07-01
+2024-09-30
+0001647088
+wsc:ValueAddedProductAndServicesMember
+wsc:ReportableSegmentMember
+2025-01-01
+2025-09-30
+0001647088
+wsc:ValueAddedProductAndServicesMember
+wsc:ReportableSegmentMember
+2024-01-01
+2024-09-30
+0001647088
+wsc:DeliveryRevenueMember
+wsc:ReportableSegmentMember
+2025-07-01
+2025-09-30
+0001647088
+wsc:DeliveryRevenueMember
+wsc:ReportableSegmentMember
+2024-07-01
+2024-09-30
+0001647088
+wsc:DeliveryRevenueMember
+wsc:ReportableSegmentMember
+2025-01-01
+2025-09-30
+0001647088
+wsc:DeliveryRevenueMember
+wsc:ReportableSegmentMember
+2024-01-01
+2024-09-30
+0001647088
+wsc:InstallationRevenueMember
+wsc:ReportableSegmentMember
+2025-07-01
+2025-09-30
+0001647088
+wsc:InstallationRevenueMember
+wsc:ReportableSegmentMember
+2024-07-01
+2024-09-30
+0001647088
+wsc:InstallationRevenueMember
+wsc:ReportableSegmentMember
+2025-01-01
+2025-09-30
+0001647088
+wsc:InstallationRevenueMember
+wsc:ReportableSegmentMember
+2024-01-01
+2024-09-30
+0001647088
+wsc:NewUnitsMember
+wsc:ReportableSegmentMember
+2025-07-01
+2025-09-30
+0001647088
+wsc:NewUnitsMember
+wsc:ReportableSegmentMember
+2024-07-01
+2024-09-30
+0001647088
+wsc:NewUnitsMember
+wsc:ReportableSegmentMember
+2025-01-01
+2025-09-30
+0001647088
+wsc:NewUnitsMember
+wsc:ReportableSegmentMember
+2024-01-01
+2024-09-30
+0001647088
+wsc:RentalUnitsMember
+wsc:ReportableSegmentMember
+2025-07-01
+2025-09-30
+0001647088
+wsc:RentalUnitsMember
+wsc:ReportableSegmentMember
+2024-07-01
+2024-09-30
+0001647088
+wsc:RentalUnitsMember
+wsc:ReportableSegmentMember
+2025-01-01
+2025-09-30
+0001647088
+wsc:RentalUnitsMember
+wsc:ReportableSegmentMember
+2024-01-01
+2024-09-30
+0001647088
+wsc:ReportableSegmentMember
+2025-07-01
+2025-09-30
+0001647088
+wsc:ReportableSegmentMember
+2024-07-01
+2024-09-30
+0001647088
+wsc:ReportableSegmentMember
+2025-01-01
+2025-09-30
+0001647088
+wsc:ReportableSegmentMember
+2024-01-01
+2024-09-30
+0001647088
+wsc:UnitLeasingMember
+wsc:ReportableSegmentMember
+2025-07-01
+2025-09-30
+0001647088
+wsc:UnitLeasingMember
+wsc:ReportableSegmentMember
+2024-07-01
+2024-09-30
+0001647088
+wsc:UnitLeasingMember
+wsc:ReportableSegmentMember
+2025-01-01
+2025-09-30
+0001647088
+wsc:UnitLeasingMember
+wsc:ReportableSegmentMember
+2024-01-01
+2024-09-30
+0001647088
+us-gaap:EmployeeStockOptionMember
+2024-07-01
+2024-09-30
+0001647088
+us-gaap:EmployeeStockOptionMember
+2024-01-01
+2024-09-30
+0001647088
+us-gaap:RestrictedStockMember
+2025-07-01
+2025-09-30
+0001647088
+us-gaap:RestrictedStockMember
+2024-07-01
+2024-09-30
+0001647088
+us-gaap:RestrictedStockMember
+2025-01-01
+2025-09-30
+0001647088
+us-gaap:RestrictedStockMember
+2024-01-01
+2024-09-30
+0001647088
+wsc:TimeBasedRestrictedStockUnitsRSUsMember
+2025-07-01
+2025-09-30
+0001647088
+wsc:TimeBasedRestrictedStockUnitsRSUsMember
+2024-07-01
+2024-09-30
+0001647088
+wsc:TimeBasedRestrictedStockUnitsRSUsMember
+2025-01-01
+2025-09-30
+0001647088
+wsc:TimeBasedRestrictedStockUnitsRSUsMember
+2024-01-01
+2024-09-30
+0001647088
+wsc:PerformanceBasedRestrictedStockUnitsRSUsMember
+2025-07-01
+2025-09-30
+0001647088
+wsc:PerformanceBasedRestrictedStockUnitsRSUsMember
+2024-07-01
+2024-09-30
+0001647088
+wsc:PerformanceBasedRestrictedStockUnitsRSUsMember
+2025-01-01
+2025-09-30
+0001647088
+wsc:PerformanceBasedRestrictedStockUnitsRSUsMember
+2024-01-01
+2024-09-30
+0001647088
+us-gaap:EmployeeStockOptionMember
+2025-07-01
+2025-09-30
+0001647088
+us-gaap:EmployeeStockOptionMember
+2024-07-01
+2024-09-30
+0001647088
+us-gaap:EmployeeStockOptionMember
+2025-01-01
+2025-09-30
+0001647088
+us-gaap:EmployeeStockOptionMember
+2024-01-01
+2024-09-30
+0001647088
+us-gaap:RevolvingCreditFacilityMember
+wsc:TermSecuredOvernightFinancingRateSOFRAndTermCanadianOvernightRepoRateAverageCORRAMember
+wsc:AssetBasedLiabilityFacilityDue2027Member
+us-gaap:SubsequentEventMember
+us-gaap:LineOfCreditMember
+2025-10-16
+2025-10-16
+0001647088
+us-gaap:RevolvingCreditFacilityMember
+wsc:BaseRateAndCanadianPrimeRateMember
+wsc:AssetBasedLiabilityFacilityDue2027Member
+us-gaap:SubsequentEventMember
+us-gaap:LineOfCreditMember
+2025-10-16
+2025-10-16
+0001647088
+us-gaap:RevolvingCreditFacilityMember
+wsc:AssetBasedLiabilityFacilityDue2027Member
+us-gaap:LineOfCreditMember
+us-gaap:SubsequentEventMember
+2025-10-16
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 
+10-Q
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended 
+September 30, 2025
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from ________  to  ________
+Commission File Number:
+001-37552
+WILLSCOT HOLDINGS CORPORATION
+(Exact name of registrant as specified in its charter)
+Delaware
+82-3430194
+(State or other jurisdiction of incorporation)
+(I.R.S. Employer Identification No.)
+6400 East McDowell Road
+, 
+Suite 300
+Scottsdale
+, 
+Arizona
+
+85257
+(Address, including zip code, of principal executive offices)
+(
+480
+) 
+894-6311
+(Registrant’s telephone number, including area code)
+(Former Name or Former Address, if Changed Since Last Report) 
+4646 E Van Buren St.
+, 
+Suite 400
+Phoenix
+, 
+Arizona
+
+85008
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.0001 per share
+WSC
+The 
+Nasdaq
+ Capital Market
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+Yes
+
+☒
+  No 
+☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulations S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+Yes
+
+☒
+  No 
+☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+
+☒
+Accelerated filer 
+☐
+Non-accelerated filer 
+☐
+Smaller reporting company 
+☐
+Emerging growth company 
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+☐
+Indicate by check mark whether the registrant is a shell compan
+y (as defined in Rule 12b-2 of the Act). Yes 
+☐
+ No 
+☒
+Shares of Common Stock, par value $0.0001 per share, outstandi
+ng: 
+181,945,689
+ shares at October 30, 2025.
+WILLSCOT HOLDINGS CORPORATION
+Quarterly Report on Form 10-Q
+Table of Contents
+PART I
+  Financial Information
+Item 1
+Financial Statements
+Condensed Consolidated Balance Sheets as of 
+September 30, 2025
+ and 
+December 31, 2024
+Condensed Consolidated Statements of Operations for the 
+Three and Nine Months Ended September 30,
+
+2025 and 2024
+Condensed Consolidated Statements of Comprehensive Income (Loss) for the Three and Nine Months Ended September 30, 2025 and 2024
+Condensed Consolidated Statements of Changes in Equity for the 
+Three and Nine Months Ended September 30, 2025 and 2024
+Condensed Consolidated Statements of Cash Flows for the 
+Nine Months Ended September 30, 2025
+ and 
+2024
+Notes to the Condensed Consolidated Financial Statements
+Item 2
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Item 3
+Quantitative and Qualitative Disclosures About Market Risk
+Item 4
+Controls and Procedures
+PART II  Other Information
+Item 1
+Legal Proceedings
+Item 1A
+Risk Factors
+Item 2
+Unregistered Sales of Equity Securities and Use of Proceeds
+Item 3
+Defaults Upon Senior Securities
+Item 4
+Mine Safety Disclosures
+Item 5
+Other Information
+Item 6
+Exhibits
+SIGNATURE
+2
+PART I - Financial Information
+ITEM 1.    Financial Statements
+WillScot Holdings Corporation
+Condensed Consolidated Balance Sheets
+(in thousands, except share amounts)
+September 30, 2025 (unaudited)
+December 31, 2024
+Assets
+Cash and cash equivalents
+$
+14,757
+
+$
+9,001
+
+Trade receivables, net of allowances for credit losses at September 30, 2025 and December 31, 2024 of $
+74,325
+ and $
+101,693
+, respectively
+403,679
+
+430,381
+
+Inventories
+43,452
+
+47,473
+
+Prepaid expenses and other current assets
+57,298
+
+67,751
+
+Assets held for sale
+1,159
+
+2,904
+
+Total current assets
+520,345
+
+557,510
+
+Rental equipment, net
+3,412,440
+
+3,377,939
+
+Property, plant and equipment, net
+374,052
+
+363,073
+
+Operating lease assets
+292,557
+
+266,761
+
+Goodwill
+1,257,006
+
+1,201,353
+
+Intangible assets, net
+235,261
+
+251,164
+
+Other non-current assets
+13,008
+
+17,111
+
+Total long-term assets
+5,584,324
+
+5,477,401
+
+Total assets
+$
+6,104,669
+
+$
+6,034,911
+
+Liabilities and equity
+Accounts payable
+$
+108,800
+
+$
+96,597
+
+Accrued expenses
+171,082
+
+121,583
+
+Accrued employee benefits
+32,865
+
+25,062
+
+Deferred revenue and customer deposits
+248,302
+
+250,790
+
+Operating lease liabilities – current
+71,333
+
+66,378
+
+Current portion of long-term debt
+27,437
+
+24,598
+
+Total current liabilities
+659,819
+
+585,008
+
+Long-term debt
+3,590,015
+
+3,683,502
+
+Deferred tax liabilities
+526,884
+
+505,913
+
+Operating lease liabilities - non-current
+221,409
+
+200,875
+
+Other non-current liabilities
+46,472
+
+41,020
+
+Long-term liabilities
+4,384,780
+
+4,431,310
+
+Total liabilities
+5,044,599
+
+5,016,318
+
+Preferred Stock: $
+0.0001
+ par, 
+1,000,000
+ shares authorized and 
+zero
+ shares issued and outstanding at September 30, 2025 and December 31, 2024
+—
+
+—
+
+Common Stock: $
+0.0001
+ par, 
+500,000,000
+ shares authorized and 
+181,941,675
+ and 
+183,564,899
+ shares issued and outstanding at September 30, 2025 and December 31, 2024, respectively
+19
+
+19
+
+Additional paid-in-capital
+1,745,472
+
+1,836,165
+
+Accumulated other comprehensive loss
+(
+72,783
+)
+(
+70,627
+)
+Accumulated deficit
+(
+612,638
+)
+(
+746,964
+)
+Total shareholders' equity
+1,060,070
+
+1,018,593
+
+Total liabilities and shareholders' equity
+$
+6,104,669
+
+$
+6,034,911
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+3
+WillScot Holdings Corporation
+Condensed Consolidated Statements of Operations (Unaudited)
+Three Months Ended
+September 30,
+Nine Months Ended
+September 30,
+(in thousands, except share and per share amounts)
+2025
+2024
+2025
+2024
+Revenues:
+Leasing and services revenue:
+Leasing
+$
+434,224
+
+$
+455,578
+
+$
+1,311,530
+
+$
+1,374,771
+
+Delivery and installation
+98,517
+
+114,765
+
+295,630
+
+323,274
+
+Sales revenue:
+New units
+18,370
+
+17,850
+
+62,427
+
+52,727
+
+Rental units
+15,730
+
+13,239
+
+45,888
+
+42,431
+
+Total revenues
+566,841
+
+601,432
+
+1,715,475
+
+1,793,203
+
+Costs:
+Costs of leasing and services:
+Leasing
+97,551
+
+96,050
+
+280,959
+
+296,692
+
+Delivery and installation
+82,058
+
+91,775
+
+244,008
+
+250,787
+
+Costs of sales:
+New units
+13,806
+
+9,665
+
+42,556
+
+31,296
+
+Rental units
+8,174
+
+6,246
+
+23,868
+
+22,207
+
+Depreciation of rental equipment
+83,634
+
+76,212
+
+246,030
+
+226,731
+
+Gross profit
+281,618
+
+321,484
+
+878,054
+
+965,490
+
+Other operating expenses:
+Selling, general and administrative
+137,699
+
+153,343
+
+439,868
+
+502,450
+
+Other depreciation and amortization
+24,424
+
+23,108
+
+71,752
+
+59,163
+
+Termination fee
+—
+
+180,000
+
+—
+
+180,000
+
+Impairment loss on intangible asset
+—
+
+—
+
+—
+
+132,540
+
+Currency losses (gains), net
+100
+
+(
+129
+)
+244
+
+(
+94
+)
+Other expense, net
+589
+
+380
+
+1,050
+
+1,935
+
+Operating income (loss)
+118,806
+
+(
+35,218
+)
+365,140
+
+89,496
+
+Interest expense, net
+58,466
+
+55,823
+
+175,912
+
+167,959
+
+Income (loss) before income tax
+60,340
+
+(
+91,041
+)
+189,228
+
+(
+78,463
+)
+Income tax expense (benefit)
+17,008
+
+(
+20,566
+)
+54,902
+
+(
+17,377
+)
+Net income (loss)
+$
+43,332
+
+$
+(
+70,475
+)
+$
+134,326
+
+$
+(
+61,086
+)
+Earnings (loss) per share:
+Basic
+$
+0.24
+
+$
+(
+0.37
+)
+$
+0.74
+
+$
+(
+0.32
+)
+Diluted
+$
+0.24
+
+$
+(
+0.37
+)
+$
+0.73
+
+$
+(
+0.32
+)
+Weighted average shares outstanding:
+Basic
+182,003,961
+
+188,281,346
+
+182,711,448
+
+189,362,364
+
+Diluted
+182,772,186
+
+188,281,346
+
+183,831,571
+
+189,362,364
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+4
+WillScot Holdings Corporation
+Condensed Consolidated Statements of Comprehensive Income (Loss) (Unaudited)
+Three Months Ended
+September 30,
+Nine Months Ended
+September 30,
+(in thousands)
+2025
+2024
+2025
+2024
+Net income (loss)
+$
+43,332
+
+$
+(
+70,475
+)
+$
+134,326
+
+$
+(
+61,086
+)
+Other comprehensive (loss) income:
+Foreign currency translation adjustments, net of income tax expense of $
+0
+(
+5,820
+)
+1,952
+
+10,619
+
+(
+7,750
+)
+Net loss on derivatives, net of income tax benefit of $
+236
+ and $
+8,183
+ for the three months ended September 30, 2025 and 2024, respectively, and $
+4,227
+ and $
+3,134
+ for the nine months ended September 30, 2025 and 2024, respectively
+(
+712
+)
+(
+24,570
+)
+(
+12,775
+)
+(
+9,406
+)
+Total other comprehensive loss
+(
+6,532
+)
+(
+22,618
+)
+(
+2,156
+)
+(
+17,156
+)
+Total comprehensive income (loss)
+$
+36,800
+
+$
+(
+93,093
+)
+$
+132,170
+
+$
+(
+78,242
+)
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+5
+WillScot Holdings Corporation
+Condensed Consolidated Statements of Changes in Equity (Unaudited)
+Nine Months Ended September 30, 2025
+ Common Stock
+Additional Paid-in-Capital
+Accumulated Other Comprehensive Loss
+Accumulated Deficit
+Total Shareholders' Equity
+(in thousands)
+Shares
+Amount
+Balance at December 31, 2024
+183,565
+
+$
+19
+
+$
+1,836,165
+
+$
+(
+70,627
+)
+$
+(
+746,964
+)
+$
+1,018,593
+
+Net income
+— 
+— 
+— 
+— 
+43,055
+
+43,055
+
+Other comprehensive loss
+— 
+— 
+— 
+(
+7,980
+)
+— 
+(
+7,980
+)
+Withholding taxes on net share settlement of stock-based compensation
+— 
+— 
+(
+7,718
+)
+— 
+— 
+(
+7,718
+)
+Common Stock-based award activity
+451
+
+— 
+8,341
+
+— 
+— 
+8,341
+
+Repurchase and cancellation of Common Stock
+(
+1,095
+)
+— 
+(
+32,117
+)
+— 
+— 
+(
+32,117
+)
+Cash dividends declared
+— 
+— 
+(
+13,044
+)
+— 
+— 
+(
+13,044
+)
+Issuance of Common Stock from the exercise of options
+188
+
+— 
+2,232
+
+— 
+— 
+2,232
+
+Balance at March 31, 2025
+183,109
+
+19
+
+1,793,859
+
+(
+78,607
+)
+(
+703,909
+)
+1,011,362
+
+Net income
+— 
+— 
+— 
+— 
+47,939
+
+47,939
+
+Other comprehensive income
+— 
+— 
+— 
+12,356
+
+— 
+12,356
+
+Withholding taxes on net share settlement of stock-based compensation
+— 
+— 
+(
+265
+)
+— 
+— 
+(
+265
+)
+Common Stock-based award activity
+63
+
+— 
+8,373
+
+— 
+— 
+8,373
+
+Repurchase and cancellation of Common Stock
+(
+1,533
+)
+— 
+(
+40,079
+)
+— 
+— 
+(
+40,079
+)
+Cash dividends declared
+— 
+— 
+(
+12,899
+)
+— 
+— 
+(
+12,899
+)
+Issuance of Common Stock from the exercise of options
+598
+
+— 
+7,808
+
+— 
+— 
+7,808
+
+Balance at June 30, 2025
+182,237
+
+19
+
+1,756,797
+
+(
+66,251
+)
+(
+655,970
+)
+1,034,595
+
+Net income
+— 
+— 
+— 
+— 
+43,332
+
+43,332
+
+Other comprehensive loss
+— 
+— 
+— 
+(
+6,532
+)
+— 
+(
+6,532
+)
+Withholding taxes on net share settlement of stock-based compensation
+— 
+— 
+(
+26
+)
+— 
+— 
+(
+26
+)
+Common Stock-based award activity
+2
+
+— 
+9,964
+
+— 
+— 
+9,964
+
+Repurchase and cancellation of Common Stock
+(
+297
+)
+— 
+(
+8,356
+)
+— 
+— 
+(
+8,356
+)
+Cash dividends declared
+— 
+— 
+(
+12,907
+)
+— 
+— 
+(
+12,907
+)
+Balance at September 30, 2025
+181,942
+
+$
+19
+
+$
+1,745,472
+
+$
+(
+72,783
+)
+$
+(
+612,638
+)
+$
+1,060,070
+
+6
+Nine Months Ended September 30, 2024
+Common Stock
+Additional Paid-in-Capital
+Accumulated Other Comprehensive Loss
+Accumulated Deficit
+Total Shareholders' Equity
+(in thousands)
+Shares
+Amount
+Balance at December 31, 2023
+189,967
+
+$
+20
+
+$
+2,089,091
+
+$
+(
+52,768
+)
+$
+(
+775,093
+)
+$
+1,261,250
+
+Net income
+— 
+— 
+— 
+— 
+56,240
+
+56,240
+
+Other comprehensive income
+— 
+— 
+— 
+7,992
+
+— 
+7,992
+
+Withholding taxes on net share settlement of stock-based compensation
+— 
+— 
+(
+14,524
+)
+— 
+— 
+(
+14,524
+)
+Common Stock-based award activity
+628
+
+— 
+9,099
+
+— 
+— 
+9,099
+
+Issuance of Common Stock from the exercise of options
+3
+
+— 
+69
+
+— 
+— 
+69
+
+Balance at March 31, 2024
+190,598
+
+20
+
+2,083,735
+
+(
+44,776
+)
+(
+718,853
+)
+1,320,126
+
+Net loss
+— 
+— 
+— 
+— 
+(
+46,851
+)
+(
+46,851
+)
+Other comprehensive loss
+— 
+— 
+— 
+(
+2,530
+)
+— 
+(
+2,530
+)
+Common Stock-based award activity
+26
+
+— 
+9,614
+
+— 
+— 
+9,614
+
+Repurchase and cancellation of Common Stock
+(
+2,036
+)
+(
+1
+)
+(
+79,074
+)
+— 
+— 
+(
+79,075
+)
+Issuance of Common Stock from the exercise of options
+4
+
+— 
+52
+
+— 
+— 
+52
+
+Balance at June 30, 2024
+188,592
+
+19
+
+2,014,327
+
+(
+47,306
+)
+(
+765,704
+)
+1,201,336
+
+Net loss
+— 
+— 
+— 
+— 
+(
+70,475
+)
+(
+70,475
+)
+Other comprehensive loss
+— 
+— 
+— 
+(
+22,618
+)
+— 
+(
+22,618
+)
+Withholding taxes on net share settlement of stock-based compensation
+— 
+— 
+(
+1,429
+)
+— 
+— 
+(
+1,429
+)
+Common Stock-based award activity
+45
+
+— 
+9,534
+
+— 
+— 
+9,534
+
+Repurchase and cancellation of Common Stock
+(
+1,588
+)
+— 
+(
+62,269
+)
+— 
+— 
+(
+62,269
+)
+Issuance of Common Stock from the exercise of options
+— 
+— 
+— 
+— 
+— 
+—
+
+Balance at September 30, 2024
+187,049
+
+$
+19
+
+$
+1,960,163
+
+$
+(
+69,924
+)
+$
+(
+836,179
+)
+$
+1,054,079
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+7
+WillScot Holdings Corporation
+Condensed Consolidated Statements of Cash Flows (Unaudited)
+Nine Months Ended September 30,
+(in thousands)
+2025
+2024
+Operating activities:
+Net income (loss)
+$
+134,326
+
+$
+(
+61,086
+)
+Adjustments to reconcile net income (loss) to net cash provided by operating activities:
+Depreciation and amortization
+317,782
+
+285,894
+
+Provision for credit losses
+37,579
+
+45,317
+
+Impairment loss on intangible asset
+—
+
+132,540
+
+Gain on sale of rental equipment and other property, plant and equipment
+(
+21,183
+)
+(
+19,103
+)
+Amortization of debt discounts and debt issuance costs
+10,011
+
+9,192
+
+Stock-based compensation expense
+26,678
+
+28,247
+
+Deferred income tax expense (benefit)
+30,282
+
+(
+47,789
+)
+Unrealized currency losses (gains), net
+178
+
+(
+157
+)
+Other
+2,559
+
+3,129
+
+Changes in operating assets and liabilities
+Trade receivables
+(
+7,738
+)
+(
+38,501
+)
+Inventories
+3,703
+
+(
+5,398
+)
+Prepaid expenses and other assets
+2,463
+
+(
+12,583
+)
+Operating lease assets and liabilities
+(
+418
+)
+1,073
+
+Accounts payable and other accrued expenses
+72,647
+
+35,879
+
+Deferred revenue and customer deposits
+(
+5,780
+)
+26,071
+
+Net cash provided by operating activities
+603,089
+
+382,725
+
+Investing activities:
+Acquisitions, net of cash acquired 
+(
+144,387
+)
+(
+84,462
+)
+Purchase of rental equipment and refurbishments
+(
+238,839
+)
+(
+206,989
+)
+Proceeds from sale of rental equipment
+46,045
+
+43,906
+
+Purchase of property, plant and equipment
+(
+15,164
+)
+(
+16,119
+)
+Proceeds from sale of property, plant and equipment
+2,203
+
+1,133
+
+Purchases of investments
+(
+614
+)
+(
+6,137
+)
+Maturities of marketable securities
+1,090
+
+—
+
+Net cash used in investing activities
+(
+349,666
+)
+(
+268,668
+)
+Financing activities:
+Receipts from borrowings
+977,756
+
+1,101,484
+
+Repayment of borrowings
+(
+1,082,693
+)
+(
+1,046,793
+)
+Payment of financing costs
+(
+7,328
+)
+(
+6,932
+)
+Payments on finance lease obligations
+(
+17,740
+)
+(
+14,815
+)
+Receipts from issuance of Common Stock from the exercise of options
+10,040
+
+121
+
+Repurchase and cancellation of Common Stock
+(
+82,499
+)
+(
+130,346
+)
+Taxes paid on employee stock awards
+(
+8,009
+)
+(
+15,953
+)
+Dividends paid
+(
+38,368
+)
+—
+
+Net cash used in financing activities
+(
+248,841
+)
+(
+113,234
+)
+Effect of exchange rate changes on cash and cash equivalents 
+1,174
+
+(
+735
+)
+Net change in cash and cash equivalents 
+5,756
+
+88
+
+Cash and cash equivalents at the beginning of the period
+9,001
+
+10,958
+
+Cash and cash equivalents at the end of the period
+$
+14,757
+
+$
+11,046
+
+Supplemental cash flow information:
+Interest paid, net
+$
+139,551
+
+$
+141,702
+
+Income taxes paid, net
+$
+14,529
+
+$
+42,693
+
+Capital expenditures accrued or payable
+$
+16,376
+
+$
+13,326
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+8
+WillScot Holdings Corporation
+Notes to the Condensed Consolidated Financial Statements (Unaudited)
+NOTE 1 - 
+Summary of Significant Accounting Policies
+Organization and Nature of Operations
+WillScot Holdings Corporation (“WillScot” and, together with its subsidiaries, the “Company”) is a leading business services provider specializing in innovative and flexible turnkey space solutions in the United States (“US”), Canada, and Mexico. The Company leases, sells, delivers and installs modular space solutions (modular office complexes, mobile offices, classrooms, blast-resistant modules, clearspan structures and sanitation solutions) and portable storage products (portable storage containers and climate-controlled containers and trailers) through an integrated network of branch locations. WillScot also offers its customers a thoughtfully curated selection of solutions with Value-Added Products ("VAPS"), such as workstations, furniture, appliances, media packages, power and solar solutions, telematics, connectivity and data solutions, security and protection products, entrance packages, electrical and lighting products, organization and space optimization assets, perimeter solutions and other items that improve the overall customer experience. The Company operates a hybrid in-house and outsourced logistics and service infrastructure that provides delivery, site work, installation, disassembly, removal and other services to customers for an additional fee as part of leasing and sales operations. 
+Basis of Presentation and Principles of Consolidation
+The accompanying unaudited condensed consolidated financial statements have been prepared in accordance with the instructions to Form 10-Q and do not include all the information and notes required by accounting principles generally accepted in the US ("GAAP") for complete financial statements. The accompanying unaudited condensed consolidated financial statements comprise the financial statements of WillScot and its subsidiaries, that it controls due to ownership of a 
+majority voting interest, and contain all adjustments, which are of a normal and recurring nature, considered necessary by management to present fairly the financial position, results of operations and cash flows for the interim periods presented.
+
+Subsidiaries are fully consolidated from the dat
+e of acquisition, being the date on which the Company obtains control, and continue to be consolidated until the date when such control ceases. The financial statements of the subsidiaries are prepared for the same reporting period as WillScot. All intercompany balances and transactions are eliminated in consolidation.
+
+The results of operations for the three and nine months ended September 30, 2025 
+are not necessarily indicative of the results to be expected for the full year. For further information, refer to the consolidated financial statements and notes included in the Company's Annual Report on Form 10-K for the year ended December 31, 2024.  
+Recently Issued Accounting Standards
+In December 2023, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU") No. 2023-09 
+Income Taxes (Topic 740): Improvements to Income Tax Disclosures
+ ("ASU 2023-09"), which requires entities to disclose more detailed information in the reconciliation of their statutory tax rate to their effective tax rate and their income taxes paid. ASU 2023-09 is effective for annual reporting periods beginning after December 15, 2024. The Company is evaluating the impact of ASU 2023-09 on its income tax disclosures.
+In November 2024, the FASB issued ASU No. 2024-03 
+Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses
+ ("ASU 2024-03"), which requires incremental disclosures about specific expense categories, including but not limited to, purchases of inventory, employee compensation, depreciation, amortization, and selling expenses. The amendments are effective for annual reporting periods beginning after December 15, 2026, and interim reporting periods within annual reporting periods beginning after December 15, 2027. The Company is evaluating the impact of ASU 2024-03 on its disclosures.
+In September 2025, the FASB issued ASU No. 2025-06 
+Intangibles - Goodwill and Other Internal-Use Software (Subtopic 350-40): Targeted Improvements to the Accounting for Internal-Use Software 
+("ASU 2025-06") to modernize the accounting guidance for costs incurred to develop internal-use software, including which costs are required to be recognized as an asset. ASU 2025-06 is effective for annual and interim reporting periods beginning after December 15, 2027. The Company is evaluating the impact of ASU 2025-06 on its accounting and disclosures.
+Recently Adopted Accounting Standard
+In July 2025, the FASB issued ASU No. 2025-05 
+Financial Instruments - Credit Losses (Topic 326): Measurement of Credit Losses for Accounts Receivable and Contract Assets 
+("ASU 2025-05"), which provides a practical expedient and, if applicable, an accounting policy election to simplify the measurement of credit losses for certain receivables and contract assets. ASU 2025-05 is effective for annual and interim reporting periods beginning after December 15, 2025 and may be early adopted. Effective July 1, 2025, the Company early adopted ASU 2025-05, electing the practical expedient permitting an entity to assume that current conditions as of the balance sheet date remain unchanged over the life of the asset when estimating expected credit losses for current accounts receivable and current contract assets. The adoption of ASU 2025-05 did not have a material impact on the Company's financial statements or disclosures.
+9
+NOTE 2 - 
+Business Combination and Acquisition
+Business Combination
+During the nine months ended September 30, 2025, the Company acquired a regional provider of climate-controlled containers and trailers for $
+115.6
+ million, net of cash acquired, the tangible assets of which consisted primarily of approximately 
+2,100
+ temperature-controlled units. As of the acquisition date, the fair value of the goodwill recognized was $
+54.5
+ million, the fair value of the intangible assets acquired was $
+18.7
+ million, and the fair value of rental equipment acquired was $
+36.6
+ million. The preliminary accounting for the transaction, including the valuation of acquired rental equipment and intangible assets, was based on the best estimates of management and is subject to revision based on the final valuations. Goodwill recognized is attributable to expected operating synergies, assembled workforce, and the going concern value of the acquired business. Goodwill recorded for this acquisition is deductible for tax purposes. Revenue and earnings from the business combination following the acquisition date are not available, as the business was integrated into the Company's centralized financial and operational processes following the acquisition.
+Asset Acquisitions
+During the nine months ended September 30, 2025, the Company acquired $
+23.2
+ million in rental fleet assets from 
+two
+ companies for $
+25.8
+ million in cash.
+NOTE 3 - 
+Revenue
+Revenue Disaggregation
+Geographic Areas
+The Company had total revenue in the following geographic areas for the three and nine months ended September 30, 2025 and 2024 as follows:
+Three Months Ended
+September 30,
+Nine Months Ended
+September 30,
+(in thousands)
+2025
+2024
+2025
+2024
+US
+$
+533,085
+
+$
+565,021
+
+$
+1,614,847
+
+$
+1,683,434
+
+Canada
+28,453
+
+29,657
+
+84,771
+
+88,495
+
+Mexico
+5,303
+
+6,754
+
+15,857
+
+21,274
+
+Total revenues
+$
+566,841
+
+$
+601,432
+
+$
+1,715,475
+
+$
+1,793,203
+
+Major Product and Service Lines
+Equipment leasing is the Company's core business and the primary driver of the Company's revenue and cash flows. This includes turnkey space solutions along with VAPS. Leasing is complemented by new unit sales and sales of rental units. In connection with its leasing and sales activities, the Company provides services including delivery and installation, maintenance, removal, and other ad hoc services. 
+10
+The Company’s revenue by major product and service line for the three and nine months ended September 30, 2025 and 2024 was as follows:
+Three Months Ended
+September 30,
+Nine Months Ended
+September 30,
+(in thousands)
+2025
+2024
+2025
+2024
+Modular space leasing revenue
+(a)
+$
+250,754
+
+$
+254,531
+
+$
+747,993
+
+$
+760,404
+
+Portable storage leasing revenue
+79,756
+
+85,746
+
+236,354
+
+263,628
+
+VAPS and third party leasing revenues
+(b)
+100,217
+
+100,176
+
+296,587
+
+296,602
+
+Other leasing-related revenue
+(b)(c)
+3,497
+
+15,125
+
+30,596
+
+54,137
+
+Leasing revenue
+434,224
+
+455,578
+
+1,311,530
+
+1,374,771
+
+Delivery and installation revenue
+98,517
+
+114,765
+
+295,630
+
+323,274
+
+Total leasing and services revenue
+532,741
+
+570,343
+
+1,607,160
+
+1,698,045
+
+New unit sales revenue
+18,370
+
+17,850
+
+62,427
+
+52,727
+
+Rental unit sales revenue
+15,730
+
+13,239
+
+45,888
+
+42,431
+
+Total revenues
+$
+566,841
+
+$
+601,432
+
+$
+1,715,475
+
+$
+1,793,203
+
+(a) Includes revenue from clearspan structures. 
+(b) Includes $
+9.6
+ million and $
+10.3
+ million of service revenue for the three months ended September 30, 2025 and 2024, respectively, and $
+28.3
+ million and $
+30.4
+ million of service revenue for the nine months ended September 30, 2025 and 2024, respectively.
+(c) Includes primarily damage billings, delinquent payment charges, service revenue, and other processing fees associated with leasing arrangements, and is partially offset by write-offs of specific uncollectible lease receivables recorded as a reduction to revenue of $
+24.5
+ million
+
+and $
+9.0
+ million, for the three months ended September 30, 2025 and 2024, respectively, and $
+50.2
+ million and $
+21.0
+ million for the nine months ended September 30, 2025 and 2024, respectively.
+
+Leasing and Services Revenue
+The majority of revenue (
+75
+% and 
+74
+% for the three months ended September 30, 2025 and 2024, and 
+75
+% for both the nine months ended September 30, 2025 and 2024) was generated by lease income subject to the guidance of Accounting Standards Update No. 2016-02, 
+Leases (Topic 842)
+ ("ASC 842"). The remaining revenue was generated by performance obligations in contracts with customers for services or the sale of units subject to the guidance in Accounting Standards Update No. 2014-09, 
+Revenue from Contracts with Customers (Topic 606)
+ ("ASC 606").
+Receivables
+The Company manages credit risk associated with its accounts receivable at the customer level. Because the same customers generate the revenues that are accounted for under both ASC 842 and ASC 606, the discussions below on credit risk and the Company's allowance for credit losses address the Company's total revenues. 
+Concentration of credit risk with respect to the Company's receivables is limited because of a large number of geographically diverse customers who operate in a variety of end markets. The Company manages credit risk through credit approvals, credit limits, and other monitoring procedures. 
+The Company's allowance for credit losses reflects its estimate of the amount of receivables that the Company will be unable to collect. T
+he estimated losses are calculated using the l
+oss rate method based upon a review of outstanding receivables, related aging, and historical collection experience. The Company's estimate is sensitive to changing circumstances, and the Company may be required to increase or decrease its allowance in future periods in response to changing circumstances, including changes in the economy or in the particular circumstances of individual customers. The Company has elected the practical expedient to assume that current conditions as of the balance sheet date do not change for the remaining life of the asset. Specifically identifiable lease revenue receivables and sales receivables not deemed probable of collection are recorded as a reduction of revenue. The remaining provision for credit losses is recorded as selling, general and administrative expense. 
+11
+Activity in the allowance for credit losses for the three and nine months ended September 30, 2025 and 2024 was as follows: 
+Three Months Ended
+September 30,
+Nine Months Ended
+September 30,
+(in thousands)
+2025
+2024
+2025
+2024
+Balance at beginning of period
+$
+88,360
+
+$
+89,070
+
+$
+101,693
+
+$
+81,656
+
+Provision for credit losses, net of recoveries
+17,823
+
+22,121
+
+37,579
+
+45,317
+
+Write-offs to leasing revenue
+(
+24,510
+)
+(
+9,048
+)
+(
+50,172
+)
+(
+20,991
+)
+Write-offs to delivery and installation revenue
+(
+5,730
+)
+(
+2,331
+)
+(
+11,737
+)
+(
+5,401
+)
+Write-offs to new units sales revenue
+(
+955
+)
+(
+245
+)
+(
+1,956
+)
+(
+568
+)
+Write-offs to rental units sales revenue
+(
+637
+)
+(
+245
+)
+(
+1,303
+)
+(
+568
+)
+Total write-offs recorded as a reduction to revenue
+(
+31,832
+)
+(
+11,869
+)
+(
+65,168
+)
+(
+27,528
+)
+Foreign currency translation and other
+(
+26
+)
+(
+81
+)
+221
+
+(
+204
+)
+Balance at end of period
+$
+74,325
+
+$
+99,241
+
+$
+74,325
+
+$
+99,241
+
+The Company had an increase to write-offs of accounts receivable due to the age of the receivables and a conclusion that collectibility was no longer probable. The majority of balances written off were previously fully reserved.
+Contract Assets and Liabilities 
+When customers are billed in advance for services, the Company defers recognition of revenue until the related services are performed, which generally occurs at the end of the contract. The balance sheet classification of deferred revenue is determined based on the contractual lease term. For contracts that continue beyond their initial contractual lease term, revenue continues to be deferred until the services are performed. As of September 30, 2025 and December 31, 2024, the Company recorded deferred revenue related to service revenue billed in advance of 
+$
+136.2
+ million
+ and 
+$
+139.4
+ million
+, respectively. During the 
+three and nine months ended September 30,
+ 2025, respectively, the Company recognized revenue of 
+$
+21.0
+ million and $
+78.8
+ million 
+for service revenue billed in advance that was recorded as deferred revenue as of December 31, 2024.
+The Company does not have material contract assets, and it did not recognize any material impairments of any contract assets. The Company's uncompleted contracts with customers have unsatisfied (or partially satisfied) performance obligations. For the future services revenues that are expected to be recognized within twelve months, the Compa
+ny has elected to utilize the optional disclosure exemption made available regarding transaction price allocated to unsatisfied (or partially unsatisfied) performance obligations. The transaction price for performance obligations that will be completed in greater than twelve months is variable based on the market rate in place at the time those services are provided, and therefore, the Company is applying the optional exemption to omit disclosure of such amounts.
+The primary costs to obtain contracts fo
+r new and rental unit sales with the Company's customers are commissions. The Company pays its sales force commissions on the sale of new and rental units. For new and rental unit sales, the period benefited by each commission is less than one year. As a result, the Company has applied the practical expedient for incremental costs of obtaining a sales contract and expenses commissions as incurred.
+NOTE 4 - 
+Inventories
+Inventories at the respective balance sheet dates consisted of the following:
+(in thousands)
+September 30, 2025
+December 31, 2024
+Raw materials
+$
+40,275
+
+$
+39,823
+
+Finished units
+3,177
+
+7,650
+
+Inventories
+$
+43,452
+
+$
+47,473
+
+NOTE 5 - 
+Leases
+On September 30, 2025, a lease for office space commenced with an initial lease term of 
+12
+ years. The Company recognized an operating lease right-of-use asset of $
+32.0
+ million and a lease liability of $
+30.4
+ million.
+12
+NOTE 6 - 
+Rental Equipment
+Rental equipment, net at the respective balance sheet dates consisted of the following:
+(in thousands)
+September 30, 2025
+December 31, 2024
+Modular space units
+$
+3,803,179
+
+$
+3,658,086
+
+Portable storage units
+1,102,386
+
+1,070,025
+
+Value added products
+230,058
+
+220,205
+
+Total rental equipment
+5,135,623
+
+4,948,316
+
+Less: accumulated depreciation
+(
+1,723,183
+)
+(
+1,570,377
+)
+Rental equipment, net
+$
+3,412,440
+
+$
+3,377,939
+
+NOTE 7 - 
+Goodwill and Intangible Assets
+Goodwill
+Changes in the carrying amount of goodwill were as follows:
+(in thousands)
+Balance at December 31, 2023
+$
+1,176,635
+
+Additions from acquisitions
+26,948
+
+Effects of movements in foreign exchange rates
+(
+2,230
+)
+Balance at December 31, 2024
+1,201,353
+
+Additions from acquisitions
+54,844
+
+Effects of movements in foreign exchange rates
+809
+
+Balance at September 30, 2025
+$
+1,257,006
+
+Intangible Assets
+Intangible assets other than goodwill at the respective balance sheet dates consisted of the following:
+September 30, 2025
+(in thousands)
+Weighted average remaining life (in years)
+Gross carrying amount
+Accumulated impairment loss
+Accumulated amortization
+Net book value
+Intangible assets subject to amortization:
+Customer relationships
+3.2
+$
+234,108
+
+$
+—
+
+$
+(
+136,878
+)
+$
+97,230
+
+Technology
+0.8
+1,500
+
+—
+
+(
+1,313
+)
+187
+
+Trade names
+2.0
+165,500
+
+(
+132,540
+)
+(
+20,116
+)
+12,844
+
+Indefinite-lived intangible assets:
+Trade name – WillScot
+125,000
+
+— 
+— 
+125,000
+
+Total intangible assets other than goodwill
+$
+526,108
+
+$
+(
+132,540
+)
+$
+(
+158,307
+)
+$
+235,261
+
+December 31, 2024
+(in thousands)
+Weighted average remaining life (in years)
+Gross carrying amount
+Accumulated impairment loss
+Accumulated amortization
+Net book value
+Intangible assets subject to amortization:
+Customer relationships
+3.5
+$
+215,408
+
+$
+—
+
+$
+(
+113,415
+)
+$
+101,993
+
+Technology
+1.5
+1,500
+
+—
+
+(
+1,125
+)
+375
+
+Trade names
+2.7
+165,500
+
+(
+132,540
+)
+(
+9,164
+)
+23,796
+
+Indefinite-lived intangible assets:
+Trade name – WillScot
+125,000
+
+— 
+— 
+125,000
+
+Total intangible assets other than goodwill
+$
+507,408
+
+$
+(
+132,540
+)
+$
+(
+123,704
+)
+$
+251,164
+
+13
+Amortization expense related to intangible assets was $
+11.5
+ million and $
+11.9
+ million for the three months ended September 30, 2025 and 2024, respectively, and $
+34.6
+ million and $
+26.6
+ million 
+for 
+the nine months ended September 30, 2025 and 2024, respectively. 
+As of September 30, 2025, the expected future amortization expense for intangible assets was as follows for the years ended December 31:
+(in thousands)
+2025 (remaining)
+$
+11,171
+
+2026
+40,210
+
+2027
+33,581
+
+2028
+18,037
+
+2029
+3,367
+
+Thereafter
+3,895
+
+Total
+$
+110,261
+
+NOTE 8 - 
+Debt
+The carrying value of debt outstanding at the respective balance sheet dates consisted of the following:
+(in thousands, except rates)
+Interest rate
+Year of maturity
+September 30, 2025
+December 31, 2024
+2025 Secured Notes
+6.125
+%
+2025
+$
+—
+
+$
+525,283
+
+ABL Facility
+Varies
+2027
+1,484,139
+
+1,556,651
+
+2028 Secured Notes
+4.625
+%
+2028
+496,429
+
+495,582
+
+2029 Secured Notes
+6.625
+%
+2029
+493,411
+
+492,467
+
+2030 Secured Notes
+6.625
+%
+2030
+493,891
+
+—
+
+2031 Secured Notes
+7.375
+%
+2031
+494,635
+
+494,329
+
+Finance Leases
+Varies
+Varies
+154,947
+
+143,788
+
+Total debt
+3,617,452
+
+3,708,100
+
+Less: current portion of long-term debt
+27,437
+
+24,598
+
+Total long-term debt
+$
+3,590,015
+
+$
+3,683,502
+
+Maturities of debt, including finance leases, during the periods subsequent to September 30, 2025 are as follows: 
+(in thousands)
+2025 (remaining)
+$
+18,004
+
+2026
+34,130
+
+2027
+1,528,354
+
+2028
+533,370
+
+2029
+525,491
+
+Thereafter
+1,034,619
+
+Total
+$
+3,673,968
+
+Asset Backed Lending Facility
+On July 1, 2020, certain subsidiaries of the Company, including Williams Scotsman, Inc. ("WSI"), entered into an asset-based credit agreement. As amended on June 30, 2022, the agreement provided for revolving credit facilities in the aggregate principal amount of up to $
+3.7
+ billion, consisting of: (i) a senior secured asset-based US dollar revolving credit facility in the aggregate principal amount of $
+3.3
+ billion (the “US Facility”), (ii) a $
+400.0
+ million senior secured asset-based multicurrency revolving credit facility (the "Multicurrency Facility," and together with the US Facility, the "ABL Facility"), available to be drawn in US Dollars, Canadian Dollars, British Pounds Sterling or Euros, and (iii) an accordion feature that permitted the Company to increase the lenders' commitments in an aggregate amount not to exceed the greater of $
+750.0
+ million and the amount of suppressed availability (as defined in the ABL Facility), plus any voluntary prepayments that are accompanied by permanent commitment reductions under the ABL Facility, subject to the satisfaction of customary conditions including lender approval. The ABL Facility was scheduled to mature on June 30, 2027. 
+At September 30, 2025, the applicable margin for Term Canadian Overnight Repo Rate Average ("CORRA"), Term Secured Overnight Financing Rate ("SOFR"), British Pounds Sterling and Euro loans was 
+1.50
+%. In addition to the applicable margin, the facility included a credit spread adjustment of 
+0.10
+%. The applicable margin for base rate and Canadian Prime 
+14
+Rate loans was 
+0.50
+%. The applicable margins were subject to one step down of 
+0.25
+% or one step up of 
+0.25
+% based on the Company's leverage ratio and excess availability from the prior quarter. The ABL Facility required the payment of a commitment fee on the unused available borrowings of 
+0.20
+% annually. As of September 30, 2025, the weighted average interest rate for borrowings under the ABL Facility, as adjusted for the effects of the interest rate swap agreements, was 
+5.25
+%. Refer to Note 11 for a more detailed discussion on interest rate management.
+Borrowing availability under the US Facility and the Multicurrency Facility is equal to the lesser of (i) the aggregate revolver commitments and (ii) the borrowing base ("Line Cap"). At September 30, 2025, the Line Cap was $
+3.2
+ billion and the Company had $
+1.7
+ billion of available borrowing capacity under the ABL Facility, including $
+1.5
+ billion under the US Facility and $
+190.0
+ million under the Multicurrency Facility. Borrowing capacity under the ABL Facility was made available for up to $
+220.0
+ million of letters of credit and $
+220.0
+ million of swingline loans. At September 30, 2025, the available capacity was $
+193.5
+ million of letters of credit and $
+219.3
+ million of swingline loans. The Company had issued $
+26.5
+ million of standby letters of credit under the ABL Facility at September 30, 2025. At September 30, 2025, letters of credit and bank guarantees carried fees of 
+1.625
+%. 
+The Company had approximately $
+1.5
+ billion of outstanding borrowings under the ABL Facility at September 30, 2025. Debt issuance costs of $
+13.3
+ million and $
+19.0
+ million were included in the carrying value of the ABL Facility at September 30, 2025 and December 31, 2024, respectively. 
+The ABL Facility and related guarantees are secured by a first priority security interest in substantially all of the assets of WSI and the Company’s other subsidiaries that are borrowers or guarantors under the ABL Facility, subject to customary exclusions. Refer to Note 17 for details on financing activities completed subsequent to September 30, 2025 whereby the Company amended its ABL Facility to reduce borrowing costs and extend the maturity date to October 16, 2030. After giving effect to the extension, the Company has no maturities of debt until 2028 other than for finance leases.
+Senior Secured Notes
+On March 26, 2025, WSI completed a private offering of $
+500.0
+ million in aggregate principal amount of its 
+6.625
+% senior secured notes due 2030 (the "2030 Secured Notes") to qualified institutional buyers pursuant to Rule 144A under the Securities Act of 1933, as amended, and to non-U.S. persons outside the U.S. in accordance with Regulation S under the Securities Act. The 2030 Secured Notes mature on April 15, 2030 and bear interest at a rate of 
+6.625
+% per annum. Interest is payable semi-annually on April 15 and October 15 of each year, beginning October 15, 2025. Unamortized deferred financing costs pertaining to the 2030 Secured Notes were $
+6.1
+ million as of September 30, 2025.
+On March 27, 2025, net proceeds from the offering of the 2030 Secured Notes, together with $
+33.0
+ million of additional borrowings under the ABL Facility, were used to (i) redeem all of WSI's outstanding 
+6.125
+% senior secured notes due 2025 (the "2025 Secured Notes") at a redemption price equal to 
+100.00
+% of the principal amount of the 2025 Notes outstanding, totaling $
+526.5
+ million, plus accrued and unpaid interest to, but excluding, the redemption date and (ii) pay related fees and expenses.
+The 2028 Secured Notes, 2029 Secured Notes, 2030 Secured Notes, and 2031 Secured Notes (collectively, “the Secured Notes”) are unconditionally guaranteed by certain subsidiaries of the Company (collectively, “the Note Guarantors”). WillScot is not a guarantor of the Secured Notes. The Note Guarantors are guarantors or borrowers under the ABL Facility. To the extent lenders under the ABL Facility release the guarantee of any Note Guarantor, such Note Guarantor will also be released from obligations under the Secured Notes. The Secured Notes and related guarantees are secured by a second priority security interest in substantially the same assets of WSI and the Note Guarantors securing the ABL Facility. Upon the repayment of the 2028 Secured Notes, if the lien associated with the ABL Facility represents the only lien outstanding on the collateral under the 2029 Secured Notes, 2030 Secured Notes, and the 2031 Secured Notes (other than certain permitted liens), the collateral securing the 2029 Secured Notes, 2030 Secured Notes, and the 2031 Secured Notes will be released and the 2029 Secured Notes, 2030 Secured Notes, and the 2031 Secured Notes will become unsecured subject to satisfaction of customary conditions.
+Finance Leases
+The Company maintains finance leases primarily for transportation and branch operations-related equipment. At September 30, 2025 and December 31, 2024, obligations under the finance leases were $
+154.9
+ million and $
+143.8
+ million, respectively. 
+Covenant Compliance
+The Company was in compliance with all debt covenants and restrictions associated with its debt instruments as of September 30, 2025.
+NOTE 9 – 
+Equity
+Common Stock
+In connection with the stock compensation vesting and stock option exercises described in Note 13, the Company issued 
+1,301,622
+ shares of Common Stock during the 
+nine months ended September 30, 2025
+.
+15
+Dividends
+On February 18, 2025, the Company's Board of Directors approved a quarterly dividend program. Dividends are subject to declaration by the Board of Directors and requirements of the ABL Facility, Secured Notes, and Delaware law. Under the program, dividends will be payable on the third Wednesday of the third month of each calendar quarter to stockholders of record as of the first Wednesday of that same month. In February, May, and July 2025, the Board of Directors declared quarterly dividends of $
+0.07
+ per share, totaling $
+13.0
+ million, $
+12.9
+ million, and $
+12.9
+ million, respectively. Dividends paid were $
+38.4
+ million for the 
+nine months ended September 30, 2025.
+Stock Repurchase Program
+In September 2024, the Board of Directors approved a reset of the share repurchase program authorizing the Company to repurchase up to $
+1.0
+ billion of its outstanding shares of Common Stock. The stock repurchase program does not obligate the Company to purchase any particular number of shares, and the timing and exact amount of any repurchases will depend on various factors, including market pricing, business, legal, accounting, and other considerations.
+During the 
+nine months ended September 30, 2025
+, the Company repurchased 
+2,924,846
+ shares of Common Stock for $
+80.2
+ million, excluding excise tax. As of September 30, 2025, $
+741.7
+ million of the authorization for future repurchases of Common Stock remained available. 
+Accumulated Other Comprehensive Income (Loss)
+The changes in accumulated other comprehensive income (loss) ("AOCI"), net of tax, for the 
+nine months ended September 30, 2025 and 2024 were as follows:
+Nine Months Ended September 30, 2025
+(in thousands)
+Foreign currency translation
+Unrealized gains (losses) on hedging activities
+Total
+Balance at December 31, 2024
+$
+(
+80,720
+)
+$
+10,093
+
+$
+(
+70,627
+)
+Other comprehensive income (loss) before reclassifications
+161
+
+(
+5,710
+)
+(
+5,549
+)
+Reclassifications from AOCI to income
+—
+
+(
+2,431
+)
+(
+2,431
+)
+Balance at March 31, 2025
+(
+80,559
+)
+1,952
+
+(
+78,607
+)
+Other comprehensive income (loss) before reclassifications
+16,278
+
+(
+1,469
+)
+14,809
+
+Reclassifications from AOCI to income
+—
+
+(
+2,453
+)
+(
+2,453
+)
+Balance at June 30, 2025
+(
+64,281
+)
+(
+1,970
+)
+(
+66,251
+)
+Other comprehensive (loss) income before reclassifications
+(
+5,820
+)
+1,770
+
+(
+4,050
+)
+Reclassifications from AOCI to income
+—
+
+(
+2,482
+)
+(
+2,482
+)
+Balance at September 30, 2025
+$
+(
+70,101
+)
+$
+(
+2,682
+)
+$
+(
+72,783
+)
+Nine Months Ended September 30, 2024
+(in thousands)
+Foreign currency translation
+Unrealized gains (losses) on hedging activities
+Total
+Balance at December 31, 2023
+$
+(
+56,031
+)
+$
+3,263
+
+$
+(
+52,768
+)
+Other comprehensive (loss) income before reclassifications
+(
+5,548
+)
+18,807
+
+13,259
+
+Reclassifications from AOCI to income
+—
+
+(
+5,267
+)
+(
+5,267
+)
+Balance at March 31, 2024
+(
+61,579
+)
+16,803
+
+(
+44,776
+)
+Other comprehensive (loss) income before reclassifications
+(
+4,154
+)
+7,247
+
+3,093
+
+Reclassifications from AOCI to income
+—
+
+(
+5,623
+)
+(
+5,623
+)
+Balance at June 30, 2024
+(
+65,733
+)
+18,427
+
+(
+47,306
+)
+Other comprehensive income (loss) before reclassifications
+1,952
+
+(
+18,973
+)
+(
+17,021
+)
+Reclassifications from AOCI to income
+—
+
+(
+5,597
+)
+(
+5,597
+)
+Balance at September 30, 2024
+$
+(
+63,781
+)
+$
+(
+6,143
+)
+$
+(
+69,924
+)
+The Company reclassified amounts from AOCI into the condensed consolidated statements of operations within interest expense related to the interest rate swaps. 
+Associated with these reclassifications, t
+he Company recorded tax expense of $
+0.7
+ million and $
+1.5
+ million for the three months ended September 30, 2025 and 2024, respectively, and tax expense of $
+2.1
+ million and $
+4.5
+ million for the nine months ended September 30, 2025 and 2024, respectively. Th
+e interest rate swaps are discussed in Note 11.
+
+16
+NOTE 10 – 
+Income Taxes
+The Company recorded $
+17.0
+ million and $
+54.9
+ million of income tax expense for the three and nine months ended September 30, 2025, respectively, and $
+20.6
+ million and $
+17.4
+ million of income tax benefit for the three and nine months ended September 30, 2024, respectively. The Company’s effective tax rate was 
+28.2
+% and 
+29.0
+% for the three and nine months ended September 30, 2025, respectively. The Company's effective tax rate for the three and nine months ended September 30, 2024 was 
+22.6
+% and 
+22.2
+%, respectively.
+The effective tax rate for the three and nine months ended September 30, 2025 differed from the US federal statutory rate of 21% primarily due to state and provincial taxes, non-deductible executive compensation, and discrete tax expense related to equity compensation. The effective tax rate for the three and nine months ended September 30, 2024 differed from the US federal statutory rate of 21% primarily due to state and provincial taxes and non-deductible executive compensation, partially offset by a discrete tax benefit related to equity compensation. 
+On July 4, 2025, the United States Congress passed the budget reconciliation bill H.R. 1 referred to as the One Big Beautiful Bill (“OBBB”). The OBBB contains several changes to corporate taxation including modifications to capitalization of research and development expenses, limitations on deductions for interest expense and accelerated fixed asset depreciation.  The Company has evaluated the legislation and does not expect a material impact to its annual effective rate or financial statements.
+NOTE 11 - 
+Derivatives
+In January 2023, the Company entered into 
+two
+ interest rate swap agreements with financial counterparties relating to $
+750.0
+ million in aggregate notional amount of variable-rate debt under the ABL Facility. Under the terms of the agreements, the Company receives a floating rate equal to one-month term SOFR and makes payments based on a fixed interest rate of 
+3.44
+% on the notional amount. In January 2024, the Company entered into 
+two
+ interest rate swap agreements with financial counterparties relating to $
+500.0
+ million in aggregate notional amount of variable-rate debt under the ABL Facility. Under the terms of the agreements, the Company receives a floating rate equal to one-month term SOFR and makes payments based on a fixed interest rate of 
+3.70
+% on the notional amount. 
+The swap agreements were designated and qualified as hedges of the Company's exposure to changes in interest payment cash flows created by fluctuations in variable interest rates on the ABL Facility. The swap agreements terminate on June 30, 2027. At September 30, 2025, the floating rate that the Company received under the terms of these swap agreements was 
+4.17
+% for the swap agreements entered in January 2023 and 
+4.14
+% for the swap agreements entered in January 2024.
+The location and the fair value of derivative instruments designated as hedges were as follows:
+(in thousands)
+Balance Sheet Location
+September 30, 2025
+December 31, 2024
+Cash Flow Hedges:
+Interest rate swaps
+Prepaid expenses and other current assets
+$
+1,154
+
+$
+6,990
+
+Interest rate swaps
+Other non-current assets
+$
+—
+
+$
+6,666
+
+Interest rate swaps
+Accrued expenses
+$
+(
+530
+)
+$
+—
+
+Interest rate swaps
+Other non-current liabilities
+$
+(
+4,086
+)
+$
+—
+
+The fair value of the interest rate swaps was based on dealer quotes of market forward rates, a Level 2 input on the fair value hierarchy (see Note 12), and reflected the amount that the Company would receive or pay for contracts involving the same attributes and maturity dates.
+The following table discloses the impact of the interest rate swaps, excluding the impact of income taxes, on other comprehensive income (“OCI”), AOCI and the Company’s condensed consolidated statements of operations for the nine months ended September 30, 
+2025 and 2024
+:
+Nine Months Ended September 30,
+(in thousands)
+2025
+2024
+(Loss) gain recognized in OCI
+$
+(
+9,636
+)
+$
+3,947
+
+Location of gain recognized in income
+Interest expense, net
+Interest expense, net
+Gain reclassified from AOCI into income
+$
+(
+7,366
+)
+$
+(
+16,487
+)
+17
+NOTE 12 - 
+Fair Value Measures
+The fair value of financial assets and liabilities are included at the amount at which the instrument could be exchanged in a current transaction between willing parties, other than in a forced or liquidation sale. 
+The Company utilizes the following accounting guidance for the three levels of inputs that may be used to measure fair value:
+Level 1 -
+Observable inputs such as quoted prices in active markets for identical assets or liabilities;
+Level 2 -
+Observable inputs, other than Level 1 inputs in active markets, that are observable either directly or indirectly; and
+Level 3 -
+Unobservable inputs for which there is little or no market data, which require the reporting entity to develop its own assumptions.
+The Company has assessed that the fair values of cash and short-term deposits, marketable securities, trade receivables, trade payables, and other current liabilities approximate their carrying amounts. The Company's nonfinancial assets, which are measured at fair value on a nonrecurring basis, include rental equipment, property, plant and equipment, goodwill, intangible assets, and certain other assets. Based on the borrowing rates currently available for bank loans with similar terms and average maturities, the fair values of finance leases at 
+September 30, 2025
+ and December 31, 2024 approximate their respective book values. The carrying value of the ABL Facility, excluding debt issuance costs, approximates fair value as the interest rates are variable and reflective of current market rates. 
+The fair values of the Secured Notes are based on their last trading price at the end of each period obtained from a third party. 
+The following table shows the carrying amounts and fair values of these financial liabilities measured using Level 2 inputs:
+September 30, 2025
+December 31, 2024
+(in thousands)
+Carrying Amount
+Fair Value
+Carrying Amount
+Fair Value
+2025 Secured Notes
+$
+—
+
+$
+—
+
+$
+525,283
+
+$
+527,269
+
+2028 Secured Notes
+496,429
+
+492,105
+
+495,582
+
+477,170
+
+2029 Secured Notes
+493,411
+
+511,840
+
+492,467
+
+506,235
+
+2030 Secured Notes
+493,891
+
+514,885
+
+—
+
+—
+
+2031 Secured Notes
+494,635
+
+521,940
+
+494,329
+
+514,310
+
+Total
+$
+1,978,366
+
+$
+2,040,770
+
+$
+2,007,661
+
+$
+2,024,984
+
+As of September 30, 2025, the carrying values of the 2028 Secured Notes, the 2029 Secured Notes, the 2030 Secured Notes, and the 2031 Secured Notes included $
+3.6
+ million, $
+6.6
+ million, $
+6.1
+ million, and $
+5.4
+ million, respectively, of unamortized debt issuance costs, which were presented as direct reductions of the corresponding liabilities. As of December 31, 2024, the carrying values of the 2025 Secured Notes, the 2028 Secured Notes, the 2029 Secured Notes, and the 2031 Secured Notes included $
+1.2
+ million, $
+4.4
+ million, $
+7.5
+ million, and $
+5.7
+ million, respectively, of unamortized debt issuance costs, which were presented as direct reductions of the corresponding liabilities. 
+The location and the fair value of derivative assets and liabilities in the condensed consolidated balance sheets are disclosed in Note 11.
+NOTE 13 - 
+Stock-Based Compensation
+Stock-based compensation expense includes grants of stock options, time-based restricted stock units ("Time-Based RSUs"), performance-based restricted stock units ("Performance-Based RSUs," together with Time-Based RSUs, the "RSUs"), and restricted stock awards ("RSAs"). Stock options are valued based on the Black-Scholes option-pricing model. Time-Based RSUs and RSAs are valued based on the intrinsic value of the difference between the exercise price of the award, if any, and the fair market value of WillScot's common stock on the grant date. Performance-Based RSUs are valued based on a Monte Carlo simulation model to reflect the impact of the Performance-Based RSU's market condition. The probability of satisfying a market condition is considered in the estimation of the grant-date fair value for Performance-Based RSUs and the compensation cost is not reversed if the market condition is not achieved, provided the requisite service has been provided.
+18
+Restricted Stock Awards
+The following table summarizes the Company's RSA activity for the nine months ended September 30, 2025 and 2024
+:
+2025
+2024
+Number of Shares
+Weighted-Average Grant Date Fair Value
+Number of Shares
+Weighted-Average Grant Date Fair Value
+Outstanding at beginning of period
+36,346
+
+$
+38.11
+
+28,946
+
+$
+44.44
+
+Granted
+64,070
+
+$
+27.86
+
+32,332
+
+$
+38.20
+
+Vested
+(
+32,332
+)
+$
+38.20
+
+(
+28,946
+)
+$
+44.44
+
+Outstanding at end of period
+68,084
+
+$
+28.42
+
+32,332
+
+$
+38.20
+
+Compensation expense for RSAs recognized in selling, general and administrative ("SG&A") expense on the condensed consolidated statements of operations was $
+0.5
+ million and $
+0.3
+ million for the three months ended September 30, 2025 and 2024, respectively. Compensation expense for RSAs recognized in SG&A expense was $
+1.2
+ million and $
+1.0
+ million for the nine months ended September 30, 2025 and 2024, respectively. At September 30, 2025, unrecognized compensation cost related to RSAs totaled $
+1.2
+ million and was expected to be recognized over the remaining weighted average vesting period of 
+0.6
+ years.
+Time-Based RSUs
+The following table summarizes the Company's Time-Based RSU activity for the nine months ended September 30, 2025 and 2024
+:
+2025
+2024
+Number of Shares
+Weighted-Average Grant Date Fair Value
+Number of Shares
+Weighted-Average Grant Date Fair Value
+Outstanding at beginning of period
+576,652
+
+$
+43.87
+
+618,836
+
+$
+36.07
+
+Granted
+677,853
+
+$
+31.08
+
+273,524
+
+$
+48.68
+
+Forfeited
+(
+53,320
+)
+$
+40.92
+
+(
+35,254
+)
+$
+45.91
+
+Vested
+(
+242,578
+)
+$
+39.79
+
+(
+264,907
+)
+$
+30.36
+
+Outstanding at end of period
+958,607
+
+$
+35.92
+
+592,199
+
+$
+43.87
+
+Compensation expense for Time-Based RSUs recognized in SG&A expense was $
+3.3
+ million and $
+2.8
+ million for the three months ended September 30, 2025 and 2024, respectively. Compensation expense for Time-Based RSUs recognized in SG&A expense was $
+8.4
+ million and $
+7.8
+ million for the nine months ended September 30, 2025 and 2024, respectively. At September 30, 2025, unrecognized compensation cost related to Time-Based RSUs totaled $
+24.8
+ million and was expected to be recognized over the remaining weighted average vesting period of 
+2.7
+ years.
+Performance-Based RSUs
+The following table summarizes the Company's Performance-Based RSU activity for the nine months ended September 30, 2025 and 2024
+:
+2025
+2024
+Number of Shares
+Weighted-Average Grant Date Fair Value
+Number of Shares
+Weighted-Average Grant Date Fair Value
+Outstanding at beginning of period
+1,768,460
+
+$
+47.02
+
+1,939,691
+
+$
+42.95
+
+Granted
+406,265
+
+$
+44.16
+
+295,833
+
+$
+66.60
+
+Forfeited
+(
+46,356
+)
+$
+54.88
+
+(
+26,325
+)
+$
+56.58
+
+Vested
+(a)
+(
+620,326
+)
+$
+43.18
+
+(
+377,197
+)
+$
+39.08
+
+Outstanding at end of period
+1,508,043
+
+$
+47.59
+
+1,832,002
+
+$
+47.37
+
+(a) The Performance-Based RSUs vested at a weighted average of 
+78
+% of target, or 
+482,083
+ shares, and 
+198
+% of target, or 
+745,323
+ shares, during the nine months ended September 30, 2025 and 2024, respectively.
+Compensation expense for Performance-Based RSUs recognized in SG&A expense 
+was
+ $
+5.6
+ million 
+and $
+6.4
+ million for the three months ended September 30, 2025 and 2024, respectively. Compensation expense for Performance-Based RSUs recognized in SG&A expense 
+was $
+16.6
+ million and $
+19.5
+ million for the nine months ended September 30, 2025 and 
+19
+2024, respectively. At September 30, 2025, unrecognized compensation cost related to Performance-Based RSUs totaled $
+21.7
+ million and was expected to be recognized over the remaining weighted average vesting period of 
+1.1
+ years.
+Certain Performance-Based RSUs cliff vest based on achievement of the relative total stockholder return ("TSR") of the Company's Common Stock as compared to the TSR of the constituents in the S&P MidCap 400 Index at the grant date over the performance period of 
+three years
+. The target number of RSUs may be adjusted from 
+0
+% to 
+200
+% based on the TSR attainment levels defined by the Company's Compensation Committee. The 
+100
+% target payout is tied to performance at the 
+50
+% percentile, with a payout curve ranging from 
+0
+% (for performance less than the 
+25
+% percentile) to 
+200
+% (for performance above the 
+85
+% percentile).
+For 
+555,790
+ Performance-Based RSUs granted in 2021, the awards cliff vest based on achievement of specified share prices of the Company's Common Stock at annual measurement dates over performance periods of 
+4.5
+ years to 
+4.8
+ years. The target number of RSUs may be adjusted from 
+0
+ to 
+1,333,334
+ based on the stock price attainment levels defined by the Company's Compensation Committee. The target payout is tied to a stock price of $
+47.50
+, with a payout ranging from 
+0
+ RSUs (for achieving a stock price less than $
+42.50
+) to 
+1,333,334
+ RSUs (for a stock price of $
+60.00
+ or greater.
+Stock Options
+The following table summarizes the Company's stock option activity for the nine months ended September 30, 2025
+:
+WillScot Options
+Weighted-Average Exercise Price per Share
+Converted
+Mobile Mini Options
+Weighted-Average Exercise Price per Share
+Outstanding at beginning of period
+534,188
+
+$
+13.60
+
+814,889
+
+$
+12.77
+
+Granted
+220,000
+
+$
+23.39
+
+—
+
+$
+—
+
+Exercised
+—
+
+$
+—
+
+(
+786,204
+)
+$
+12.77
+
+Outstanding at end of period
+754,188
+
+$
+16.46
+
+28,685
+
+$
+12.86
+
+Fully vested and exercisable at end of period
+534,188
+
+$
+13.60
+
+28,685
+
+$
+12.86
+
+The following table summarizes the Company's stock option activity for the nine months ended September 30, 
+2024:
+WillScot Options
+Weighted-Average Exercise Price per Share
+Converted Mobile Mini Options
+Weighted-Average Exercise Price per Share
+Outstanding at beginning of period
+534,188
+
+$
+13.60
+
+829,246
+
+$
+12.86
+
+Exercised
+—
+
+$
+—
+
+(
+7,093
+)
+$
+17.04
+
+Outstanding at end of period
+534,188
+
+$
+13.60
+
+822,153
+
+$
+12.82
+
+Fully vested and exercisable at end of period
+534,188
+
+$
+13.60
+
+822,153
+
+$
+12.82
+
+At September 30, 2025, the intrinsic value of stock options outstanding was $
+3.7
+ million, and the intrinsic value of stock options fully vested and exercisable was $
+4.2
+ million. At September 30, 2025, the weighted-average remaining contractual term of options fully vested and exercisable was 
+2.5
+ years for WillScot options and 
+2.3
+ years for converted Mobile Mini options. The weighted-average remaining contractual term of all outstanding Willscot options was 
+5.5
+ years. The total pre-tax intrinsic value of stock options exercised during the nine months ended September 30, 2025 and 2024 was $
+11.8
+ million and $
+0.2
+ million, respectively.
+Compensation expense for stock options recognized in SG&A expense was $
+0.5
+ million for both the three and nine months ended September 30, 2025. At September 30, 2025, unrecognized compensation cost related to stock options totaled $
+2.2
+ million and was expected to be recognized over the remaining weighted average vesting period of 
+2.4
+ years.
+20
+The fair value of each stock option award granted during the nine months ended September 30, 2025 was estimated on the grant date using the Black-Scholes option-pricing model. The assumptions are listed in the table below.
+Assumptions
+Expected volatility
+45
+% - 
+46
+%
+Expected dividend
+1.20
+
+%
+Risk-free rate
+3.69
+% - 
+3.76
+%
+Expected term (in years)
+5.75
+ - 
+6.00
+Exercise price
+$
+23.39
+
+Weighted-average grant date fair value
+$
+10.28
+
+NOTE 14 - 
+Commitments and Contingencies
+
+The Company is involved in various lawsuits, claims and legal proceedings that arise in the ordinary course of business. The Company assesses these matters on a case-by-case basis as they arise and establishes reserves as required. As of September 30, 2025, with respect to these outstanding matters, the Company believes that the amount or range of reasonably possible loss will not, either individually or in the aggregate, have a material adverse effect on the Company's consolidated financial position, results of operations, or cash flows. However, the outcome of such matters is inherently unpredictable and subject to significant uncertainties.
+
+NOTE 15 - 
+Segment Reporting
+The Company has 
+one
+ reportable segment. Refer to Note 3 for revenue by geographic area and revenue by major product and service lines. Refer to the Condensed Consolidated Balance Sheets for total assets. Refer to the Condensed Consolidated Statements of Cash Flows for total expenditures for additions to long-lived assets. 
+The Company defines EBITDA as net income (loss) plus interest (income) expense, income tax (benefit) expense, depreciation and amortization. The Company reflects further adjustments to EBITDA (“Adjusted EBITDA”) to exclude certain non-cash items and the effect of what the Company considers transactions or events not related to its core and ongoing business operations. The measure of profit or loss used by the Chief Operating Decision Maker ("CODM") to evaluate operating segment performance and allocate resources is Adjusted EBITDA. Management believes that evaluating operating segment performance excluding such items is meaningful because it provides insight with respect to the intrinsic and ongoing operating results of the Company. The Company considers Adjusted EBITDA to be an important metric because it reflects the business performance of the segment, inclusive of indirect costs.
+21
+The following table sets forth certain information regarding significant expense categories fo
+r the 
+three and nine months ended September 30,
+ 2025 and 2024:
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(in thousands)
+2025
+2024
+2025
+2024
+Revenues:
+Leasing and services revenue:
+Unit leasing and other rental-related
+$
+334,007
+
+$
+355,402
+
+$
+1,014,943
+
+$
+1,078,169
+
+VAPS and third party leasing
+100,217
+
+100,176
+
+296,587
+
+296,602
+
+Delivery revenue
+53,009
+
+56,985
+
+157,428
+
+173,394
+
+Installation revenue
+45,508
+
+57,780
+
+138,202
+
+149,880
+
+Sales revenue:
+New units
+18,370
+
+17,850
+
+62,427
+
+52,727
+
+Rental units
+15,730
+
+13,239
+
+45,888
+
+42,431
+
+Total revenues
+566,841
+
+601,432
+
+1,715,475
+
+1,793,203
+
+Less:
+(a)
+Costs of leasing and services:
+Unit leasing
+78,444
+
+78,328
+
+227,285
+
+245,586
+
+VAPS and third party leasing
+19,107
+
+17,722
+
+53,674
+
+51,106
+
+Delivery
+43,717
+
+44,896
+
+129,353
+
+135,051
+
+Installation
+38,341
+
+46,879
+
+114,655
+
+115,736
+
+Costs of sales:
+New units
+13,806
+
+9,665
+
+42,556
+
+31,296
+
+Rental units
+8,174
+
+6,246
+
+23,868
+
+22,207
+
+Employee SG&A expense
+(b)
+67,279
+
+53,547
+
+203,015
+
+191,417
+
+Other segment items
+(c)
+54,666
+
+77,286
+
+200,064
+
+222,356
+
+Adjusted EBITDA
+$
+243,307
+
+$
+266,863
+
+$
+721,005
+
+$
+778,448
+
+(a) The significant expense categories and amounts align with the segment-level information that is regularly provided to the CODM.
+(b) Employee SG&A expense consists of salaries and wages, bonuses, commissions, payroll taxes, and employee benefits.
+(c) Other segment items consist of service agreements, professional fees, real estate and occupancy costs, travel, provision for credit losses, marketing and advertising, taxes, and other miscellaneous expenses.
+The following table presents reconciliations of the Company’s net income (loss) to Adjusted EBITDA for the three and nine months ended September 30, 
+2025
+ and 2024:
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(in thousands)
+2025
+2024
+2025
+2024
+Net income (loss)
+$
+43,332
+
+$
+(
+70,475
+)
+$
+134,326
+
+$
+(
+61,086
+)
+Income tax expense (benefit)
+17,008
+
+(
+20,566
+)
+54,902
+
+(
+17,377
+)
+Interest expense, net
+58,466
+
+55,823
+
+175,912
+
+167,959
+
+Depreciation and amortization
+108,058
+
+99,320
+
+317,782
+
+285,894
+
+Currency losses (gains), net
+100
+
+(
+129
+)
+244
+
+(
+94
+)
+Restructuring costs, lease impairment expense and other related charges
+(
+21
+)
+2,478
+
+886
+
+9,407
+
+Termination fee
+—
+
+180,000
+
+—
+
+180,000
+
+Impairment loss on intangible asset
+—
+
+—
+
+—
+
+132,540
+
+Integration and transaction costs
+1,149
+
+1,692
+
+2,921
+
+7,675
+
+Stock compensation expense
+9,964
+
+9,534
+
+26,678
+
+28,247
+
+Other
+(a)
+5,251
+
+9,186
+
+7,354
+
+45,283
+
+Adjusted EBITDA
+$
+243,307
+
+$
+266,863
+
+$
+721,005
+
+$
+778,448
+
+(a) For the three and nine months ended September 30, 2024, respectively, Other included $
+8.8
+ million and $
+41.3
+ million of legal and professional fees related to a terminated transaction.
+22
+NOTE 16 - 
+Earnings (Loss) Per Share
+The following table reconciles the weighted average shares outstanding for the basic earnings per share calculation to the weighted average shares outstanding for the diluted earnings per share calculation:
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(in thousands)
+2025
+2024
+2025
+2024
+Numerator:
+Net income (loss)
+$
+43,332
+
+$
+(
+70,475
+)
+$
+134,326
+
+$
+(
+61,086
+)
+Denominator:
+Weighted average Common Shares outstanding – basic
+182,004
+
+188,281
+
+182,711
+
+189,362
+
+Dilutive effect of outstanding securities:
+RSAs
+11
+
+—
+
+18
+
+—
+
+Time-based RSUs
+50
+
+—
+
+50
+
+—
+
+Performance-based RSUs
+443
+
+—
+
+519
+
+—
+
+Stock options
+264
+
+—
+
+534
+
+—
+
+Weighted average Common Shares outstanding – dilutive
+182,772
+
+188,281
+
+183,832
+
+189,362
+
+The following potential common shares were excluded from the computation of dilutive EPS because their effect would have been anti-dilutive:
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(in thousands)
+2025
+2024
+2025
+2024
+RSAs
+—
+
+32
+
+—
+
+32
+
+Time-based RSUs
+850
+
+592
+
+684
+
+592
+
+Performance-based RSUs
+952
+
+1,832
+
+977
+
+1,832
+
+Stock Options
+220
+
+1,356
+
+73
+
+1,356
+
+Total anti-dilutive shares
+2,022
+
+3,812
+
+1,734
+
+3,812
+
+NOTE 17 - 
+Subsequent Event
+On October 16, 2025, certain subsidiaries of the Company entered into an amendment to the ABL Facility to, among other things, (i) extend the expiration date of the revolving credit facilities to October 16, 2030; (ii) reduce the interest rate spreads above (x) the Term SOFR- and Term CORRA-based rates to no more than 
+137.5
+ basis points and (y) the base rate and Canadian Prime Rate to no more than 
+37.5
+ basis points; (iii) remove interest rate adjustments to the reference rates, (iv) remove Daily Simple CORRA, which was operative solely prior to the phase-in of Term CORRA, from the available interest rates; (v) reduce the aggregate principal amount of revolving credit facilities from $
+3.7
+ billion to $
+3.0
+ billion to reduce undrawn line fees; (vi) increase capacity available under the accordion feature from $
+750.0
+ million to $
+1.0
+ billion; and (vii) remove United Kingdom commitments and other United Kingdom-related provisions. After giving effect to the reduction to the principal amount of the revolving credit facility to $
+3.0
+ billion, the Company would have had $
+1.5
+ billion of available borrowing capacity under the ABL Facility as of September 30, 2025.
+23
+ITEM 2.    Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+The following Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) is intended to help the reader understand the operations and present business environment of WillScot Holdings Corporation (“WillScot”) and its subsidiaries (collectively with WillScot, the “Company,” “we,” “us” or “our”). MD&A is provided as a supplement to, and should be read in conjunction with, our financial statements and the accompanying notes thereto, contained in Part I, Item 1 of this report. The discussion of results of operations in this MD&A is presented on a historical basis, as of or for the three and nine months ended September 30, 2025 or prior periods. 
+The financial statements were prepared in conformity with accounting principles generally accepted in the United States (“GAAP”). We use certain non-GAAP financial metrics to supplement the GAAP reported results to highlight key metrics that are used by management to evaluate Company performance. Reconciliations of GAAP financial information to the disclosed non-GAAP measures are provided in the Reconciliation of Non-GAAP Financial Measures section of MD&A.
+Executive Summary
+We are a leading business services provider specializing in innovative and flexible turnkey space solutions. We offer our customers an extensive selection of space solutions with approximately 150,000 modular space units and 210,000 portable storage units in our fleet. Our diverse product offering includes:
+•
+Modular Space Solutions
+: modular office complexes, mobile offices, classrooms, blast-resistant modules, clearspan structures and sanitation solutions.
+•
+Portable Storage Solutions
+: portable storage containers and climate-controlled containers and trailers. 
+•
+Value-Added Products ("VAPS")
+: a thoughtfully curated selection of solutions that supports our Right from the Start value proposition, including workstations, furniture, appliances, media packages, power and solar solutions, telematics, connectivity and data solutions, security and protection products, entrance packages, electrical and lighting products, organization and space optimization assets, perimeter solutions, and other items that improve the customer experience. 
+We operate a hybrid in-house and outsourced logistics and service infrastructure that provides delivery, site work, installation, disassembly, removal and other services to our customers for an additional fee as part of our leasing and sales operations. We service diverse end markets across all sectors of the economy throughout the United States ("US"), Canada, and Mexico. As of September 30, 2025, our branch network included approximately 260 branch locations and additional drop lots to service our over 85,000 customers. 
+We primarily lease, rather than sell, our space solutions to customers, which results in a diversified and predictable recurring revenue stream. Over 90% of new lease orders are on our standard lease agreement, pre-negotiated master lease, or enterprise account agreements. Rental contracts with customers are generally based on a 28-day or monthly rate and billing cycle. Initial lease periods vary, and our leases are customarily renewable on a month-to-month basis after their initial term and continue until cancelled by the customer or us. Given that our customers value flexibility, they consistently extend their leases or renew on a month-to-month basis such that the average effective duration of our consolidated lease portfolio, excluding seasonal portable storage units, is approximately 41 months. We believe our lease revenue is predictable due to its recurring nature and the underlying stability and diversification of our lease portfolio. We complement our core leasing business by selling both new and used units, allowing us to leverage scale, achieve purchasing benefits, and redeploy capital employed in our lease fleet. 
+Our customers operate in a diversified set of end markets, including construction and infrastructure, commercial and industrial, energy and natural resources, and government and institutions. Core to our operating model is the ability to redeploy standardized assets across end markets. We track several leading market indicators to predict demand, including Gross Domestic Product in North America, the Architecture Billings Index, and non-residential construction square foot starts. These indicators, among others, support our demand forecast for our two largest end markets, the commercial and industrial sector and the construction and infrastructure market, which collectively accounted for approximately 85% of our revenues for the nine months ended September 30, 2025. 
+Significant Developments
+Leadership Updates
+On September 3, 2025, we announced that our Board of Directors had unanimously elected Tim Boswell to succeed Brad Soultz as Chief Executive Officer, effective January 1, 2026, and that Mr. Boswell would also join the Board at that time. We also announced that effective immediately, Worthing Jackman, current non-Executive Chairman of the Board, would now serve as Executive Chairman of the Board, both to continue to lead the Board and to assist the CEO and senior management team in achieving the Company’s strategic plan. In addition, Jeff Sagansky was appointed Lead Independent Director, also effective immediately.
+24
+Network Optimization Initiative
+As of September 30, 2025, our branch network consisted of approximately 400 physical properties, of which 260 locations were considered branch locations. Real estate leases for branch locations are typically under long-term contracts that may include initial terms of five to ten years with one or two five-year extensions, whereas non-branch locations used for unit storage often have shorter contractual terms. Our real estate footprint has increased over the years through the combination of the legacy WillScot and Mobile Mini respective branch networks, locations acquired through acquisitions, and additional non-branch locations added to store incremental idle fleet. Without intervention, we expect real estate costs to continue to increase 10 to 15 percent per year as they have for the past several years. 
+In 2024, we consolidated the WillScot and Mobile Mini field sales and operations teams into a single leadership structure. In the beginning of 2025, we began evaluating our real estate footprint on a property-by-property basis to reduce our overall real estate costs opportunistically while maintaining market coverage. To exit certain real estate positions, we disposed of certain rental fleet units, with a primary focus on long idle, non-standard or higher repair cost units, while maintaining adequate idle fleet to meet projected demand. During the three and nine months ended September 30, 2025, rental equipment identified for disposal was depreciated to its salvage value, resulting in incremental depreciation of rental equipment of $7.3 million and $26.6 million, respectively. 
+Management is considering expanding this program to evaluate all real estate leases maturing in the next four or five years for consolidation opportunities, and we estimate the net book value of rental fleet units that could be disposed of as part of this optimization to be in the range of $250 million to $350 million, which would be recognized as incremental depreciation expense as properties and rental fleet units are identified for exit. We believe this initiative could reduce leased acreage by more than 20% and reduce annual real estate costs by $20 million to $30 million. To the extent we finalize a multi-year network optimization plan by the end of 2025, and the plan is approved by the Board of Directors, we may accelerate the recognition of the $250 million to $350 million of incremental depreciation expense on identified rental equipment into 2025 as a non-cash restructuring charge. 
+Financing Activities
+On March 26, 2025, Williams Scotsman, Inc. ("WSI") completed a private offering of $500.0 million in aggregate principal amount of its 6.625% senior secured notes due 2030 (the "2030 Secured Notes") to qualified institutional buyers pursuant to Rule 144A of the Securities Act of 1933, as amended. 
+On March 27, 2025, net proceeds of the offering of the 2030 Secured Notes, together with $33.0 million of additional borrowings under the ABL Facility were used to (i) redeem all of WSI's outstanding 6.125% senior secured notes due 2025 (the "2025 Secured Notes") at a redemption price equal to 100.00% of the principal amount of the 2025 Notes outstanding, totaling $526.5 million, plus accrued and unpaid interest to, but excluding, the redemption date and (ii) pay related fees and expenses. We redeemed the 2025 Secured Notes to extend the Company's debt maturity profile, consistent with our capital structure optimization strategy. The redemption did not result in a material gain or loss on extinguishment, as the notes were redeemed at par and related fees were expensed as incurred.
+On October 16, 2025, we amended our ABL Facility ("Amended ABL Facility") to reduce borrowing costs and extend the maturity date to October 16, 2030. The aggregate principal amount of the Amended ABL Facility was reduced from $3.7 billion to $3.0 billion to reduce undrawn line fees, and the accordion feature was increased from $750 million to $1.0 billion. We anticipate meaningful annual cash interest expense savings of approximately $5.0 million at current borrowing levels with opportunities to further reduce our interest costs in the future based on availability in the Amended ABL Facility and net debt to EBITDA leverage levels. After giving effect to the extension, we have no maturities of debt until 2028 other than for finance leases.
+Dividends
+On February 18, 2025, our Board of Directors approved a quarterly dividend program. Under the program, subject to declaration by the Board of Directors, dividends will be payable on the third Wednesday of the third month of each calendar quarter to stockholders of record as of the first Wednesday of that same month. In February, May, and July 2025, our Board of Directors declared quarterly dividends of $0.07 per share, totaling $13.0 million, $12.9 million, and $12.9, respectively. Dividends paid were $38.4 million for the 
+nine months ended September 30, 2025. The Company intends to continue its quarterly dividend program, subject to Board approval and based on available cash flow, capital allocation priorities, and market conditions.
+Share Repurchases
+During the nine months ended September 30, 2025, we repurchased 2,924,846 shares of Common Stock for $80.2 million, excluding excise tax. As of September 30, 2025, $741.7 million of the authorization for future repurchases of the Common Stock remained available. We executed share repurchases as part of our capital allocation strategy to enhance shareholder value and optimize capital deployment in light of current market valuations.
+Business Combination and Asset Acquisitions
+During the nine months ended September 30, 2025, we acquired a regional provider of climate-controlled containers and trailers for $115.6 million, net of cash acquired, which consisted primarily of approximately 2,100 temperature-controlled units. We expect this acquisition to expand our climate-controlled product offering and enhance our regional market presence, 
+25
+with anticipated operational synergies and customer cross-sell opportunities. As of the acquisition date, the fair value of the goodwill recorded was $54.5 million, the fair value of the intangible assets acquired was $18.7 million, and the fair value of rental equipment acquired was $36.6 million. The purchase price allocation is preliminary, based on the best estimates of management, and subject to revision as management obtains additional information regarding the valuation of acquired rental equipment and intangible assets. Revenue and earnings from the business combination following the acquisition date are not available, as the business was integrated into the Company's centralized financial and operational processes following acquisition.
+During the nine months ended September 30, 2025, we acquired $23.2 million in rental fleet assets from two companies for $25.8 million in cash. 
+Third Quarter Summary
+For the three months ended September 30, 2025, as compared to the three months ended September 30, 2024, results and key drivers of our financial performance included the following:
+•
+Total revenues
+ decreased $34.6 million, or 5.8%, to $566.8 million. The decline in revenue was driven by a decrease in units on rent, a large project in the prior year representing approximately $18.0 million, and a $20.0 million increase in accounts receivable write-offs recorded as a reduction to revenue compared to the same period in 2024. The increased write-offs were primarily driven by aged receivables that we deemed uncollectible as our central operations team progresses our initiative to improve our order-to-cash process and reduce our days sales outstanding. However, write-offs to receivables recorded as a reduction to revenue result in a corresponding reduction to the provision for credit losses recorded in selling, general, and administrative expense ("SG&A") to the extent that the related receivables are already reserved. See further discussion within our Consolidated Results of Operations.
+•
+Leasing revenue
+ decreased $21.4 million, or 4.7%, driven by an increase of $15.5 million of write-offs of aged receivables deemed uncollectible recorded as a reduction to revenue, a decrease in total average units on rent of 22,461, or 10.3%, partially offset by a 8.8% increase in average monthly rates. Reductions in non-residential construction project start activity as a result of higher interest rates reduced demand for our services, which resulted in fewer deliveries. Seasonal retail demand, primarily for storage containers, was down $2.6 million year-over-year. 
+•
+Delivery and installation revenue
+ decreased $16.2 million, or 14.2%, driven by fewer deliveries and a large project in the prior year representing approximately $18.0 million.
+•
+Sales revenue: 
+new unit sales revenue increased $0.5 million, or 2.9%, and rental unit sales revenue increased $2.5 million, or 18.8%. 
+•
+Generated 
+net income
+ of $43.3 million for the three months ended September 30, 2025, representing an increase of $113.8 million, or 161.5%, as compared to the same period in 2024. For the three months ended September 30, 2024
+, we recorded a 
+$180.0 million
+ termination fee and 
+$8.8 million
+ in legal and professional fees related to the termination of a merger agreement with McGrath RentC
+orp ("McGrath"). In 2024, we recorded a tax benefit of $20.6 million, as compared to an income tax expense of $17.0 million for the three months ended September 30, 2025. 
+•
+Generated 
+Adjusted EBITDA
+ of $243.3 million for the three months ended September 30, 2025, representing a decrease of $23.6 million, or 8.8%, as compared to the same period in 2024. 
+•
+Net cash provided by operating activities
+ increased $192.7 million to $191.2 million cash provided by operating activities for the three months ended September 30, 2025 from $1.6 million net cash used in operating activities for the three months ended September 30, 2024. The increase in net cash provided by operating activities was primarily due to the payment of $203.3 million for the McGrath termination fee and transaction costs from terminated acquisitions during the three months ended September 30, 2024.
+•
+Net cash used in investing activities
+, excluding cash used for acquisitions, increased by $7.5 million. Capital expenditures for rental equipment increased $11.6 million for the three months ended September 30, 2025. Net CAPEX increased $10.4 million for the three months ended September 30, 2025.
+•
+Generated 
+Adjusted Free Cash Flow
+ of $122.2 million for the three months ended September 30, 2025 as compared to $143.1 million for the three months ended September 30, 2024. During the three months ended September 30, 2025, we deployed Adjusted Free Cash Flow to: 
+•
+Reduce outstanding borrowings under the ABL Facility by $84.4 million.
+•
+Acquire assets from a local provider of storage solutions for $7.6 million.
+•
+Repurchase $8.3 million of our Common Stock, reducing outstanding Common Stock by 296,805 shares. 
+•
+Pay a $0.07 per share dividend, returning $12.8 million to our shareholders.
+•
+We believe that the predictability of our Adjusted Free Cash Flow allows us to pursue multiple capital allocation priorities opportunistically, including investing in organic opportunities that we see in the market, maintaining appropriate leverage, opportunistically executing accretive acquisitions, and returning capital to shareholders via share repurchases and dividend distributions. We also believe our strong operating cash flow generation, countercyclical Net CAPEX profile, and $1.5 billion of available borrowing capacity under our Amended ABL Facility, provide ample liquidity to execute our strategy.
+26
+In addition to using GAAP financial measurements to evaluate our operating results, we use Adjusted EBITDA, Net CAPEX, and Adjusted Free Cash Flow, which are non-GAAP financial measures. As such, we include in this Form 10-Q reconciliations to their most directly comparable GAAP financial measures. These reconciliations and descriptions of why we believe these measures provide useful information to investors, as well as a description of the limitations of these measures are included in "Reconciliation of non-GAAP Financial Measures."
+Consolidated Results of Operations
+Three Months Ended September 30, 2025 Compared to the Three Months Ended September 30, 2024 
+Certain consolidated results of operations for the three months ended September 30, 2025 and 2024 are presented below. 
+Three Months Ended September 30,
+2025 vs. 2024 
+$ Change
+(in thousands)
+2025
+2024
+Revenues:
+Leasing and services revenue:
+Leasing
+$
+434,224 
+$
+455,578 
+$
+(21,354)
+Delivery and installation
+98,517 
+114,765 
+(16,248)
+Sales revenue:
+New units
+18,370 
+17,850 
+520 
+Rental units
+15,730 
+13,239 
+2,491 
+Total revenues
+566,841 
+601,432 
+(34,591)
+Costs:
+Costs of leasing and services:
+Leasing
+97,551 
+96,050 
+1,501 
+Delivery and installation
+82,058 
+91,775 
+(9,717)
+Costs of sales:
+New units
+13,806 
+9,665 
+4,141 
+Rental units
+8,174 
+6,246 
+1,928 
+Depreciation of rental equipment
+83,634 
+76,212 
+7,422 
+Gross profit
+281,618 
+321,484 
+(39,866)
+Other operating expenses:
+Selling, general and administrative
+137,699 
+153,343 
+(15,644)
+Other depreciation and amortization
+24,424 
+23,108 
+1,316 
+Termination fee
+— 
+180,000 
+(180,000)
+Currency gains, net
+100 
+(129)
+229 
+Other expense, net
+589 
+380 
+209 
+Operating income (loss)
+118,806 
+(35,218)
+154,024 
+Interest expense, net
+58,466 
+55,823 
+2,643 
+Income (loss) before income tax
+60,340 
+(91,041)
+151,381 
+Income tax expense (benefit)
+17,008 
+(20,566)
+37,574 
+Net income (loss)
+$
+43,332 
+$
+(70,475)
+$
+113,807 
+27
+Three Months Ended September 30,
+2025 vs. 2024 Change
+(in thousands, except units on rent and monthly rental rate)
+2025
+2024
+Adjusted EBITDA
+$
+243,307 
+$
+266,863 
+$
+(23,556)
+Capital expenditures for rental equipment
+$
+81,018 
+$
+69,398 
+$
+11,620 
+Net CAPEX
+$
+68,939 
+$
+58,560 
+$
+10,379 
+Average modular space units on rent
+89,390 
+94,911 
+(5,521)
+Average modular space utilization rate
+59.3 
+%
+62.1 
+%
+(280)
+ bps
+Average modular space monthly rental rate
+$
+1,254 
+$
+1,199 
+$
+55 
+Average portable storage units on rent
+105,792 
+122,732 
+(16,940)
+Average portable storage utilization rate
+50.3 
+%
+58.1 
+%
+(780)
+ bps
+Average portable storage monthly rental rate
+$
+290 
+$
+265 
+$
+25 
+Comparison of Three Months Ended September 30, 2025 and 2024
+Revenue:
+ Total revenue decreased $34.6 million, or 5.8%, to $566.8 million for the three months ended September 30, 2025 from $601.4 million for the three months ended September 30, 2024. The decline in revenue was driven by a decrease in units on rent and a $20.0 million increase in accounts receivable write-offs recorded as a reduction to revenue compared to the same period in 2024. The increased write-offs were primarily driven by accounts receivables that we deemed uncollectible as our central operations team progresses our initiative to improve our order-to-cash process and reduce our days sales outstanding. However, write-offs to receivables recorded as a reduction to revenue result in a corresponding reduction to the provision for credit losses recorded in SG&A to the extent that the related receivables are already reserved. See further discussion below of the net impact to Adjusted EBITDA. 
+Leasing revenue decreased $21.4 million, or 4.7%, as compared to the same period in 2024, driven by a decrease of 22,461 total average units on rent and the increase in accounts receivable write-offs, which drove $15.5 million of the decrease. Increases in average monthly rental rates offset some of these decreases. Delivery and installation revenue decreased $16.2 million, or 14.2%, due to the decline in activations and returns, as well as a large project in the prior year of approximately $18.0 million. Rental unit sales increased $2.5 million, or 18.8%, and new unit sales increased $0.5 million, or 2.9%.
+Total average units on rent for the three months ended September 30, 2025 and 2024 were 195,182 and 217,643, respectively, representing a decrease of 22,461 units, or 10.3%. Lower demand was driven by reduced non-residential construction project starts due to higher interest rates and increased economic uncertainty. 
+Modular space average units on rent decreased 5,521 units, or 5.8%, for the three months ended September 30, 2025 as compared to the three months ended September 30, 2024. The average modular space utilization rate during the three months ended September 30, 2025 was 59.3% as compared to 62.1% during the same period in 2024. The decline in modular space units on rent was primarily driven by weaker non-residential construction starts.
+Portable storage average units on rent decreased by 16,940 units, or 13.8%, for the three months ended September 30, 2025 driven by lower demand in 2025, as well as lower orders related to seasonal retail business that typically occurs in the third and fourth quarters. The average portable storage unit utilization rate during the three months ended September 30, 2025 was 50.3% as compared to 58.1% during the same period in 2024. 
+Modular space average monthly rental rates increased 4.6% year over year to $1,254 for the three months ended September 30, 2025, driven by our long-term price optimization strategies and VAPS penetration opportunities. Average portable storage monthly rental rates increased 9.6% year over year to $290 for the three months ended September 30, 2025 as a result of the mix effects from higher rates on climate-controlled containers and trailers. Total VAPS revenues, which were included in leasing revenue, were $100.2 million for both the three months ended September 30, 2025 and 2024.
+Gross profit:
+ Gross profit decreased $39.9 million, or 12.4%, to $281.6 million for the three months ended September 30, 2025 from $321.5 million for the three months ended September 30, 2024. The decrease in gross profit was a result of a $22.9 million decrease in leasing gross profit, decreased delivery and installation gross profit of $6.5 million, a $3.1 million decrease in new and rental unit sales gross profit, and a $7.4 million increase in depreciation of rental equipment. The decrease in leasing gross profit was primarily driven by lower demand in 2025 and the increased accounts receivable write-offs. A $7.3 million increase in depreciation of rental equipment was driven by incremental depreciation recorded for rental equipment identified for disposal as part of the Company's network optimization initiative.
+Cost of leasing and services decreased by $8.2 million, or 4.4%, for the three months ended September 30, 2025 as compared to the three months ended September 30, 2024, driven primarily by a decrease in subcontractor costs of $17.0 million, or 22.8%, as we continued our insourcing initiatives and reduced variable costs to match demand, partially offset by an increase in materials costs of $1.3 million, or 5.9%, and an increase in labor costs of $4.2 million, or 6.3%. Increased material costs and labor costs were driven by increased sitework expense associated with an increased mix of large, complex projects. We expect to continue adjusting variable costs where appropriate to match demand in the fourth quarter of 2025.
+28
+Cost of sales increased by $6.1 million, or 38.1%, driven by an increased mix of sales of higher value new units. Our resulting gross profit percentage was 49.7% and 53.5% for the three months ended September 30, 2025 and 2024, respectively. 
+Selling, general and administrative expense:
+ SG&A decreased $15.6 million, or 10.2%, to $137.7 million for the three months ended September 30, 2025, as compared to $153.3 million for the three months ended September 30, 2024. The decrease was driven by a $6.8 million decrease in legal and professional fees primarily related to our terminated acquisition of McGrath in 2024, a $23.1 million decrease in the provision for credit losses, and a $2.5 million decrease in restructuring costs. These decreased costs were partially offset by a $13.7 million increase in employee SG&A excluding stock compensation, which was primarily related to variable compensation and higher employee insurance costs, as well as an increase of approximately 100 incremental sales headcount, a $2.3 million increase in real estate and occupancy costs, and a $1.3 million increase in service agreements and professional fees
+Adjusted EBITDA:
+  Adjusted EBITDA decreased $23.6 million, or 9%, to $243.3 million for the three months ended September 30, 2025 from $266.9 million for the three months ended September 30, 2024. The decrease was driven by a $22.9 million decrease in leasing gross profit, decreased delivery and installation gross profit of $6.5 million, and a $3.1 million decrease in new and used sales gross profit. The decrease was partially offset by decreased SG&A, excluding discrete costs, of $7.5 million. The net impact to Adjusted EBITDA of accounts receivable write-offs recorded as a reduction to revenue and the provision for credit losses recorded in SG&A was a $17.8 million and $22.1 million reduction to Adjusted EBITDA for the three months ended September 30, 2025 and the three months ended September 30, 2024, respectively, thus resulting in a $4.3 million positive impact to Adjusted EBITDA year over year.
+Other depreciation and amortization:
+ Other depreciation and amortization increased $1.3 million to $24.4 million for the three months ended September 30, 2025 as compared to $23.1 million for the three months ended September 30, 2024.
+Termination fee:
+ We paid a termination fee of $180.0 million to McGrath related to the termination of a merger agreement during the three months ended September 30, 2024. This charge did not occur in the third quarter of 2025. 
+Interest expense, net:
+ Interest expense, net increased $2.6 million, or 4.7%, to $58.5 million for the three months ended September 30, 2025 from $55.8 million for the three months ended September 30, 2024. The increase in net interest expense was driven by a decrease in amounts received from the Company’s interest rate swap agreements as a result of decreased benchmark rates. 
+Income tax expense (benefit):
+ Income tax expense was $17.0 million for the three months ended September 30, 2025 compared to income tax benefit of $20.6 million for the three months ended September 30, 2024, an increase in expense of $37.6 million. The increase in expense was primarily driven by an increase in income before income tax for the three months ended September 30, 2025.
+Capital expenditures for rental equipment:
+ Capital expenditures for rental equipment increased $11.6 million, to $81.0 million for the three months ended September 30, 2025 from $69.4 million for the three months ended September 30, 2024. Net CAPEX increased $10.4 million, or 18%, to $68.9 million for the three months ended September 30, 2025 from $58.6 million for the three months ended September 30, 2024.
+29
+Nine Months Ended September 30, 2025 Compared to the Nine Months Ended September 30, 2024
+Certain consolidated results of operations for the nine months ended September 30, 2025 and 2024 are presented below. 
+Nine Months Ended September 30,
+2025 vs. 2024 $ Change
+(in thousands)
+2025
+2024
+Revenues:
+Leasing and services revenue:
+Leasing
+$
+1,311,530 
+$
+1,374,771 
+$
+(63,241)
+Delivery and installation
+295,630 
+323,274 
+(27,644)
+Sales revenue:
+New units
+62,427 
+52,727 
+9,700 
+Rental units
+45,888 
+42,431 
+3,457 
+Total revenues
+1,715,475 
+1,793,203 
+(77,728)
+Costs:
+Costs of leasing and services:
+Leasing
+280,959 
+296,692 
+(15,733)
+Delivery and installation
+244,008 
+250,787 
+(6,779)
+Costs of sales:
+New units
+42,556 
+31,296 
+11,260 
+Rental units
+23,868 
+22,207 
+1,661 
+Depreciation of rental equipment
+246,030 
+226,731 
+19,299 
+Gross profit
+878,054 
+965,490 
+(87,436)
+Other operating expenses:
+Selling, general and administrative
+439,868 
+502,450 
+(62,582)
+Other depreciation and amortization
+71,752 
+59,163 
+12,589 
+Termination fee
+— 
+180,000 
+(180,000)
+Impairment loss on intangible asset
+— 
+132,540 
+(132,540)
+Currency losses (gains), net
+244 
+(94)
+338 
+Other expense, net
+1,050 
+1,935 
+(885)
+Operating income
+365,140 
+89,496 
+275,644 
+Interest expense, net
+175,912 
+167,959 
+7,953 
+Income before income tax
+189,228 
+(78,463)
+267,691 
+Income tax expense
+54,902 
+(17,377)
+72,279 
+Net income
+$
+134,326 
+$
+(61,086)
+$
+195,412 
+Nine Months Ended September 30,
+2025 vs. 2024 Change
+(in thousands, except units on rent and monthly rental rate)
+2025
+2024
+Adjusted EBITDA
+$
+721,005 
+$
+778,448 
+$
+(57,443)
+Capital expenditures for rental equipment
+$
+238,839 
+$
+206,989 
+$
+31,850 
+Net CAPEX
+$
+205,755 
+$
+178,069 
+$
+27,686 
+Average modular space units on rent
+90,063 
+95,458 
+(5,395)
+Average modular space utilization rate
+59.4 
+%
+62.3 
+%
+(290)
+ bps
+Average modular space monthly rental rate
+$
+1,232 
+$
+1,175 
+$
+57 
+Average portable storage units on rent
+107,842 
+126,316 
+(18,474)
+Average portable storage utilization rate
+52.9 
+%
+61.0 
+%
+(810)
+ bps
+Average portable storage monthly rental rate
+$
+279 
+$
+263 
+$
+16 
+30
+Comparison of Nine Months Ended September 30, 2025 and 2024
+Revenue:
+ Total revenue decreased $77.7 million, or 4.3%, to $1,715.5 million for the nine months ended September 30, 2025 from $1,793.2 million for the nine months ended September 30, 2024. The decline in revenue was driven by a decrease in units on rent and a $37.6 million increase in accounts receivable write-offs recorded as a reduction to revenue compared to the same period in 2024. The increased write-offs were primarily driven by accounts receivables that we deemed uncollectible as our central operations team progresses our initiative to improve our order-to-cash process and reduce our days sales outstanding. However, write-offs to receivables recorded as a reduction to revenue result in a corresponding reduction to the provision for credit losses recorded in SG&A to the extent that the related receivables are already reserved. See further discussion below of the net impact to Adjusted EBITDA. 
+Leasing revenue decreased $63.2 million, or 4.6%, as compared to the same period in 2024, driven by a decrease of 23,869 total average units on rent and the increase in accounts receivable write-offs, which drove $29.2 million of the decrease. Increases in average monthly rental rates offset some of these decreases. Delivery and installation revenues decreased $27.6 million, or 8.6%, due to the decline in activations and returns. Rental unit sales increased $3.5 million, or 8.1%, and new unit sales increased $9.7 million, or 18.4%. 
+Total average units on rent for the nine months ended September 30, 2025 and 2024 were 197,905 and 221,774, respectively. Lower demand was driven by reduced non-residential construction project starts due to higher interest rates and increased economic uncertainty. 
+Modular space average units on rent decreased 5,395 units, or 5.7%, for the nine months ended September 30, 2025 as compared to the nine months ended September 30, 2024. The average modular space utilization rate during the nine months ended September 30, 2025 was 59.4% as compared to 62.3% during the same period in 2024. 
+Portable storage average units on rent decreased by 18,474 units, or 14.6%, for the nine months ended September 30, 2025 driven by lower demand in 2025, as well as lower orders related to seasonal retail business that typically occurs in the third and fourth quarters. The average portable storage utilization rate during the nine months ended September 30, 2025 was 52.9% as compared to 61.0% during the same period in 2024. 
+Modular space average monthly rental rates increased 4.9% to $1,232 for the nine months ended September 30, 2025, driven by our long-term price optimization strategies and VAPS penetration opportunities. Average portable storage monthly rental rates increased 6.1% to $279 for the nine months ended September 30, 2025 as a result of the mix effects from higher rates on climate-controlled containers and trailers. Total VAPS revenues, which are included in leasing revenues, were $296.6 million for both the nine months ended September 30, 2025 and 2024.
+Gross profit:
+ Gross profit decreased $87.4 million, or 9.1%, to $878.1 million for the nine months ended September 30, 2025 from $965.5 million for the nine months ended September 30, 2024. The decrease in gross profit was a result of a $47.5 million decrease in leasing gross profit, decreased delivery and installation gross profit of $20.9 million, and a $19.3 million increase in depreciation of rental equipment. The decrease was partially offset by a $0.2 million increase in new and rental unit sales gross profit. The decrease in leasing gross profit was primarily driven by lower demand in 2025 and the increased accounts receivable write-offs. The increase in depreciation of rental equipment was driven by incremental depreciation of $26.6 million recorded for rental equipment identified for disposal as part of the network optimization initiative.
+Cost of leasing and services decreased by $22.5 million, or 4.1%, for the nine months ended September 30, 2025 as compared to the nine months ended September 30, 2024, driven primarily by a decrease in subcontractor costs of $16.7 million, or 8.8%, as we continued our insourcing initiatives and reduced variable costs to match demand, a decrease in labor cost of $4.3 million, or 2.0%, and a decrease in material costs of $2.4 million, or 3.4%, as we reduced variable costs to match demand. 
+Cost of sales increased by $12.9 million, or 24.2%, driven by an increased mix of sales of higher value new units. Our resulting gross profit percentage was 51.2% and 53.8% for the nine months ended September 30, 2025 and 2024, respectively.
+SG&A:
+ SG&A decreased $62.6 million, or 12.5%, to $439.9 million for the nine months ended September 30, 2025, as compared to $502.5 million for the nine months ended September 30, 2024. The decrease was primarily driven by a $40.2 million decrease in legal and professional fees primarily related to our terminated acquisition of McGrath in 2024, a $8.5 million decrease in restructuring costs, and a $39.7 million, or 243.6%, decrease in the provision for credit losses. These decreased costs were partially offset by an increase of employee SG&A excluding stock compensation of $11.6 million, or 6.1%, primarily relating to variable compensation and higher employee insurance costs, as well as an increase of approximately 100 incremental sales headcount, $5.7 million increase in travel costs associated with our bi-annual Company meeting, a $5.4 million, or 9.9%, increase in service agreements and professional fees, excluding discrete expenses for certain one-time projects, a $5.9 million increase in real estate and occupancy costs, and a $2.3 million increase in marketing and advertising expense. 
+31
+Adjusted EBITDA:
+ Adjusted EBITDA decreased $57.4 million, or 7%, to $721.0 million for the nine months ended September 30, 2025 from $778.4 million for the nine months ended September 30, 2024. The decrease was driven by a $47.5 million decrease in leasing gross profit and decreased delivery and installation gross profit of $20.9 million for the nine months ended September 30, 2025 as compared to the nine months ended September 30, 2024. The decrease was partially offset by decreased SG&A, excluding discrete costs, of $8.8 million. The net impact to Adjusted EBITDA of write-offs recorded as a reduction to revenue and the provision for credit losses recorded in SG&A was a $37.6 million and $45.3 million reduction to Adjusted EBITDA for the nine months ended September 30, 2025 and the nine months ended September 30, 2024, respectively, thus resulting in a $7.7 million positive impact to Adjusted EBITDA year over year.
+Other depreciation and amortization:
+ Other depreciation and amortization increased $12.6 million to $71.8 million for the nine months ended September 30, 2025 as compared to $59.2 million for the nine months ended September 30, 2024, primarily related to the amortization of the Mobile Mini trade name beginning in the third quarter of 2024.
+Termination fee: 
+We paid a termination fee of $180.0 million to McGrath related to the termination of a merger agreement during the nine months ended September 30, 2024. This charge did not occur in 2025.
+Impairment loss on intangible asset:
+ Impairment loss on intangible asset was $132.5 million for the nine months ended September 30, 2024 related to the impairment of the Mobile Mini trade name based on the Company's plan to rebrand under a single WillScot brand name and discontinue the use of the Mobile Mini trade name. 
+Interest expense, net:
+ Interest expense increased $8.0 million to $175.9 million for the nine months ended September 30, 2025 from $168.0 million for the nine months ended September 30, 2024. The increase in net interest expense was driven by a decrease in amounts received from the Company’s interest rate swap agreements as a result of decreased benchmark rates. 
+Income tax expense (benefit):
+ Income tax expense increased $72.3 million to expense of $54.9 million for the nine months ended September 30, 2025 as compared to a benefit of $17.4 million for the nine months ended September 30, 2024. The increase in expense was driven by an increase in income before income tax for the nine months ended September 30, 2025 as compared to the nine months ended September 30, 2024.
+Capital expenditures for rental equipment:
+ Capital expenditures for rental equipment increased $31.9 million, or 15%, to $238.8 million for the nine months ended September 30, 2025 from $207.0 million for the nine months ended September 30, 2024. Net CAPEX increased $27.7 million, or 16%, to $205.8 million for the nine months ended September 30, 2025 from $178.1 million for the nine months ended September 30, 2024 primarily driven by the increase in capital expenditures for rental equipment.
+32
+Reconciliation of Non-GAAP Financial Measures
+In addition to using GAAP financial measurements, we use certain non-GAAP financial measures to evaluate our operating results. As such, we include in this Quarterly Report on Form 10-Q reconciliations of non-GAAP financial measures to their most directly comparable GAAP financial measures. Set forth below are definitions and reconciliations to the nearest comparable GAAP measure of certain non-GAAP financial measures used in this Quarterly Report on Form 10-Q along with descriptions of why we believe these measures provide useful information to investors as well as a description of the limitations of these measures. Each of these non-GAAP financial measures has limitations as an analytical tool and should not be considered in isolation from, or as a substitute for analysis of, results reported under GAAP. Our measurements of these metrics may not be comparable to similarly titled measures of other companies.
+Adjusted EBITDA
+We define EBITDA as net income (loss) plus net interest (income) expense, income tax expense (benefit), depreciation and amortization. Our adjusted EBITDA ("Adjusted EBITDA") reflects the following further adjustments to EBITDA to exclude certain non-cash items and the effect of what we consider transactions or events not related to our core business operations:
+•
+Currency (gains) losses, net on monetary assets and liabilities denominated in foreign currencies other than the subsidiaries’ functional currency. 
+•
+Restructuring costs, lease impairment expense, and other related charges associated with restructuring plans designed to streamline operations and reduce costs including employee and lease termination costs.
+•
+Goodwill and other impairment charges related to non-cash costs associated with impairment charges to goodwill, other intangibles, rental fleet and property, plant and equipment.
+•
+Costs to integrate acquired companies, including outside professional fees, non-capitalized costs associated with system integrations, non-lease branch and fleet relocation expenses, employee relocation and training costs, and other costs required to realize cost or revenue synergies. 
+•
+Transaction costs including legal and professional fees and other transaction specific related costs.
+•
+Non-cash charges for stock compensation plans.
+•
+Other expense, including consulting expenses related to certain one-time projects, financing costs not classified as interest expense, gains and losses on disposals of property, plant, and equipment, costs to implement a network optimization initiative, non-equity executive transition costs, and unrealized gains and losses on investments. 
+Our Chief Operating Decision Maker evaluates business performance utilizing Adjusted EBITDA as shown in the reconciliation of the Company’s consolidated net income to Adjusted EBITDA below. Management believes that evaluating performance excluding such items is meaningful because it provides insight with respect to the intrinsic and ongoing operating results of the Company and captures the business performance inclusive of indirect costs.
+Adjusted EBITDA has limitations as an analytical tool, and you should not consider the measure in isolation or as a substitute for net income (loss), cash flow from operations or other methods of analyzing WillScot’s results as reported under GAAP. Some of these limitations are:
+•
+Adjusted EBITDA does not reflect changes in, or cash requirements for, our working capital needs;
+•
+Adjusted EBITDA does not reflect our interest expense, or the cash requirements necessary to service interest or principal payments, on our indebtedness;
+•
+Adjusted EBITDA does not reflect our tax expense or the cash requirements to pay our taxes;
+•
+Adjusted EBITDA does not reflect historical cash expenditures or future requirements for capital expenditures or contractual commitments;
+•
+Adjusted EBITDA does not reflect the impact on earnings or changes resulting from matters that we consider not to be indicative of our future operations;
+•
+Although depreciation and amortization are non-cash charges, the assets being depreciated and amortized will often have to be replaced in the future and Adjusted EBITDA does not reflect any cash requirements for such replacements; and
+•
+Other companies in our industry may calculate Adjusted EBITDA differently, limiting its usefulness as a comparative measure.
+Because of these limitations, Adjusted EBITDA should not be considered as discretionary cash available to reinvest in the growth of our business or as a measure of cash that will be available to meet our obligations. 
+33
+The following table provides reconciliations of net income (loss) to Adjusted EBITDA:
+Three Months Ended
+September 30,
+Nine Months Ended
+September 30,
+(in thousands)
+2025
+2024
+2025
+2024
+Net income (loss)
+$
+43,332 
+$
+(70,475)
+$
+134,326 
+$
+(61,086)
+Income tax expense (benefit)
+17,008 
+(20,566)
+54,902 
+(17,377)
+Interest expense, net
+58,466 
+55,823 
+175,912 
+167,959 
+Depreciation and amortization
+108,058 
+99,320 
+317,782 
+285,894 
+Currency losses (gains), net
+100 
+(129)
+244 
+(94)
+Restructuring costs, lease impairment expense and other related charges
+(21)
+2,478 
+886 
+9,407 
+Termination fee
+— 
+180,000 
+— 
+180,000 
+Impairment loss on intangible asset
+— 
+— 
+— 
+132,540 
+Integration and transaction costs
+1,149 
+1,692 
+2,921 
+7,675 
+Stock compensation expense
+9,964 
+9,534 
+26,678 
+28,247 
+Other
+(a)
+5,251 
+9,186 
+7,354 
+45,283 
+Adjusted EBITDA
+$
+243,307 
+$
+266,863 
+$
+721,005 
+$
+778,448 
+(a) For the three and nine months ended September 30, 2024, respectively, other included $8.8 million and $41.3 million in legal and professional fees related to a terminated transaction.
+For the three and nine months ended September 30, 2025, other included $1.5 million in costs to implement the Company's network optimization initiative and $1.3 million in non-equity executive transition costs. 
+Net CAPEX
+We define N
+et CAPEX as purchases of rental equipment and refurbishments and purchases of property, plant and equipment (collectively, "Total Capital Expenditures"), less proceeds from the sale of rental equipment and proceeds from the sale of property, plant and equipment (collectively, "Total Proceeds"), which are all included in cash flows from investing activities. Management believes that the presentation of Net CAPEX provides useful information regarding the net capital invested in our rental fleet and property, plant and equipment each year to assist in analyzing the performance of our business. 
+The following table provides reconciliations of Net CAPEX:
+Three Months Ended
+September 30,
+Nine Months Ended
+September 30,
+(in thousands)
+2025
+2024
+2025
+2024
+Purchase of rental equipment and refurbishments
+$
+(81,018)
+$
+(69,398)
+$
+(238,839)
+$
+(206,989)
+Proceeds from sale of rental equipment  
+15,713 
+13,238 
+46,045 
+43,906 
+Net CAPEX for Rental Equipment
+(65,305)
+(56,160)
+(192,794)
+(163,083)
+Purchase of property, plant and equipment 
+(4,244)
+(3,318)
+(15,164)
+(16,119)
+Proceeds from sale of property, plant and equipment
+610 
+918 
+2,203 
+1,133 
+Net CAPEX
+$
+(68,939)
+$
+(58,560)
+$
+(205,755)
+$
+(178,069)
+34
+Adjusted Free Cash Flow
+We define Adjusted Free Cash Flow as net cash provided by operating activities; less purchases of rental equipment and property, plant and equipment and plus proceeds from sale of rental equipment and property, plant and equipment, which are all included in cash flows from investing activitie
+s; excluding one-time, nonrecurring payments for transaction costs from terminated acquisitions. Man
+agement believes that the presentation of Adjusted Free Cash Flow provides useful additional information concerning cash flow available to fund our capital allocation alternatives. 
+The following table provides a reconciliation of net cash provided by operating activities to Adjusted Free Cash Flow.
+Three Months Ended
+September 30,
+Nine Months Ended
+September 30,
+(in thousands)
+2025
+2024
+2025
+2024
+Net cash provided by (used in) operating activities
+$
+191,151 
+$
+(1,562)
+$
+603,089 
+$
+382,725 
+Purchase of rental equipment and refurbishments
+(81,018)
+(69,398)
+(238,839)
+(206,989)
+Proceeds from sale of rental equipment
+15,713 
+13,238 
+46,045 
+43,906 
+Purchase of property, plant and equipment
+(4,244)
+(3,318)
+(15,164)
+(16,119)
+Proceeds from sale of property, plant and equipment
+610 
+918 
+2,203 
+1,133 
+Cash paid for termination fee
+— 
+180,000 
+— 
+180,000 
+Cash paid for transaction costs from terminated acquisitions
+— 
+23,266 
+— 
+32,451 
+Adjusted Free Cash Flow
+$
+122,212 
+$
+143,144 
+$
+397,334 
+$
+417,107 
+Liquidity and Capital Resources
+Overview
+WillScot is a holding company that derives its operating cash flow from its operating subsidiaries. Our principal sources of liquidity include cash flows generated from operating activities of our subsidiaries, borrowings under our ABL Facility, and issuance of debt securities. We have consistently accessed the debt and equity capital markets both opportunistically and as necessary to support the growth of our business, desired leverage levels, and other capital allocation priorities. We believe we have ample liquidity in the ABL Facility and are generating substantial Adjusted Free Cash Flow, which together support both organic operations and other capital allocation priorities. We believe that our liquidity sources are sufficient to satisfy our anticipated operating, debt service, and capital cash requirements over the next twelve months and thereafter for the foreseeable future. 
+We continuously review available acquisition opportunities with the awareness that any such acquisition may require us to incur additional debt to finance the acquisition and/or to issue shares of our Common Stock or other equity securities as acquisition consideration or as part of an overall financing plan. In addition, we continue to evaluate alternatives to optimize our capital structure, which could include the issuance or repurchase of additional unsecured and secured debt, equity securities and/or equity-linked securities. There can be no assurance as to the timing of any such issuance or repurchase. If we obtain additional capital by issuing equity, the interests of our existing stockholders will be diluted. If we incur additional indebtedness, that indebtedness may contain significant financial and other covenants that may significantly restrict our operations. Availability of financing and the associated terms are inherently dependent on the debt and equity capital markets and subject to change. From time to time, we may also seek to streamline our capital structure and improve our financial position through refinancing or restructuring our existing debt or retiring certain of our securities for cash or other consideration. 
+Borrowing availability under our Amended ABL Facility is equal to the lesser of $3.0 billion and the applicable borrowing bases. The borrowing bases are a function of, among other considerations, the value of the assets in the relevant collateral pool, of which our rental equipment represents the largest component. At September 30, 2025, we had $1.5 billion of available borrowing capacity under the Amended ABL Facility. 
+35
+Cash Flows 
+The following summarizes our change in cash and cash equivalents for the periods presented:
+Nine Months Ended
+September 30,
+(in thousands)
+2025
+2024
+Net cash provided by operating activities
+$
+603,089 
+$
+382,725 
+Net cash used in investing activities
+(349,666)
+(268,668)
+Net cash used in financing activities
+(248,841)
+(113,234)
+Effect of exchange rate changes on cash and cash equivalents
+1,174 
+(735)
+Net change in cash and cash equivalents
+$
+5,756 
+$
+88 
+Comparison of the Nine Months Ended September 30, 2025 and 2024
+Cash flows from operating activities
+Net cash provided by operating activities for the nine months ended September 30, 2025 was $603.1 million as compared to $382.7 million for the nine months ended September 30, 2024, an increase of $220.4 million. The increase in net cash provided by operating activities was primarily due to the payment of $212.5 million for the McGrath termination fee and transaction costs from terminated acquisitions during the nine months ended September 30, 2024.
+Cash flows from investing activities
+Net cash used in investing activities for the nine months ended September 30, 2025 was $349.7 million as compared to $268.7 million for the nine months ended September 30, 2024, an $81.0 million increase in net cash used in investing activities. The increase in net cash used in investing activities resulted from a $59.9 million increase in cash used in acquisitions, net of cash acquired, and a $31.9 million increase in the purchase of rental equipment and refurbishments during the nine months ended September 30, 2025. 
+Cash flows from financing activities
+Net cash used in financing activities for the nine months ended September 30, 2025 was $248.8 million as compared to $113.2 million for the nine months ended September 30, 2024, an increase of $135.6 million. The increase was primarily due to a $159.6 million increase in repayments of borrowings, net of receipts from borrowings, and a $38.4 million increase in cash used to pay dividends during the nine months ended September 30, 2025. The increase was partially offset by a $47.8 million decrease in cash used for the repurchase and cancellation of common stock and a $9.9 million increase in receipts from issuance of common stock from the exercise of options in the nine months ended September 30, 2025.
+Material cash requirements
+The Company’s material cash requirements include the following contractual and other obligations:
+Debt
+The Company has outstanding debt related to its ABL Facility, 2028 Secured Notes, 2029 Secured Notes, 2030 Secured Notes, 2031 Secured Notes, and finance leases totaling $3.6 billion as of September 30, 2025, $27.4 million of which is obligated to be repaid within the next twelve months. Refer to Note 8 for further information regarding outstanding debt and Note 17 for details on financing activities completed subsequent to September 30, 2025 whereby the Company amended its ABL Facility to reduce borrowing costs and extend the maturity date to October 16, 2030. After giving effect to the extension, the Company has no maturities of debt until 2028 other than for finance leases.
+Operating leases
+The Company has commitments for future minimum rental payments relating to operating leases, which are primarily for real estate. As of September 30, 2025, the Company had lease obligations of $332.8 million, with $88.5 million payable within the next twelve months.
+Other
+In addition to the cash requirements described above, the Company has a dividend program subject to quarterly approval and declaration by the Board of Directors as well as a share repurchase program authorized by the Board of Directors, which allows the Company to repurchase up to $1.0 billion of outstanding shares of Common Stock. As of September 30, 2025, $741.7 million of the authorization for future repurchases of our common stock remained available. These programs do not obligate the Company to issue dividends or repurchase shares. 
+36
+Critical Accounting Estimates
+Our discussion and analysis of our financial condition, results of operations, liquidity and capital resources is based on our condensed consolidated financial statements, which have been prepared in accordance with GAAP. GAAP requires that we make estimates and judgments that affect the reported amount of assets, liabilities, revenue, expenses, and the related disclosure of contingent assets and liabilities. We base these estimates on historical experience and on various other assumptions that we consider reasonable under the circumstances and reevaluate our estimates and judgments as appropriate. Our actual results may differ materially and adversely from our estimates. 
+For a 
+complete discussion of our significant critical accounting estimates, see the “Critical Accounting Estimates” section in Part II, Item 7 of our Annual Report on Form 10-K for the year ended December 31, 2024 (the "2024 Annual Report on Form 10-K"). There were no significant changes to our critical accounting estimates during the nine months ended September 30, 2025.
+Recently Issued Accounting Standards
+Refer to Part I, Item 1, Note 1 of the notes to our condensed consolidated financial statements included in this Quarterly Report on Form 10-Q for our assessment of recently issued accounting standards.
+Cautionary Note Regarding Forward-Looking Statements
+This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of the US Private Securities Litigation Reform Act of 1995 and Section 21E of the Securities Act of 1934, as amended. The words “estimates,” “expects,” “anticipates,” “believes,” “forecasts,” “plans,” “intends,” “may,” “will,” “should,” “shall,” “outlook,” “guidance” and variations of these words and similar expressions identify forward-looking statements, which are generally not historical in nature and relate to expectations for future financial performance or business strategies or objectives. Forward-looking statements are subject to a number of risks, uncertainties, assumptions and other important factors, many of which are outside our control, which could cause actual results or outcomes to differ materially from those discussed in the forward-looking statements. Although WillScot believes that these forward-looking statements are based on reasonable assumptions, the Company can give no assurance that any such forward-looking statement will materialize. Important factors that may affect actual results or outcomes include, among others:
+•
+economic conditions and changes therein, including financial market conditions and levels of end market demand;
+•
+our ability to effectively compete in the modular space and portable storage industries;
+•
+our ability to effectively manage our credit risk, collect on our accounts receivable, or recover our rental equipment;
+•
+laws and regulations governing antitrust, climate related disclosures, cybersecurity and information technology, privacy, government contracts, anti-corruption, and the environment; 
+•
+the actions of activist shareholders;
+•
+our ability to successfully acquire and integrate new operations;
+•
+risks associated with cybersecurity threats and IT systems disruptions, including our ability to manage the business in the event a cybersecurity incident or a disaster shuts down or materially impacts our management information systems;
+•
+trade policies and changes in trade policies, including the imposition and enforcement of tariffs, trade restrictions, and broader economic measures and their consequences;
+•
+fluctuations in interest rates and commodity prices; 
+•
+risks associated with labor relations, labor costs and labor disruptions;
+•
+changes in the competitive environment of our customers as a result of the economic climate in which they operate and/or economic or financial disruptions to their industry; 
+•
+our ability to adequately protect our intellectual property and other proprietary rights that are material to our business; 
+•
+natural disasters and other business disruptions such as pandemics; 
+•
+our ability to establish and maintain the appropriate physical presence in our markets;
+•
+property, casualty or other losses not covered by our insurance; 
+•
+our ability to close our unit sales transactions; 
+•
+our ability to maintain an effective system of internal controls and accurately report our financial results; 
+•
+evolving public disclosure, financial reporting, internal controls, and corporate governance expectations;
+•
+our ability to achieve our environmental, social, and governance goals;
+•
+operational, economic, political, and regulatory risks; 
+•
+effective management of our rental equipment;
+•
+the effect of changes in state building codes on our ability to remarket our buildings;
+•
+foreign currency exchange rate exposure;
+•
+significant increases in the costs and restrictions on the availability of raw materials and labor;
+•
+fluctuations in fuel costs or a reduction in fuel supplies; 
+37
+•
+our reliance on third party manufacturers and suppliers; 
+•
+impairment of our goodwill, intangible assets and indefinite-life intangible assets; 
+•
+our ability to use our net operating loss carryforwards and other tax attributes; 
+•
+our ability to recognize deferred tax assets, such as those related to tax loss carryforwards, and utilize future tax savings; 
+•
+unanticipated changes in tax obligations, adoption of a new tax legislation, or exposure to additional income tax liabilities;
+•
+our ability to access the capital and credit markets or the ability of key counterparties to perform their obligations to us;
+•
+our ability to service our debt and operate our business;
+•
+our ability to incur significant additional amounts of debt and avoid risks associated with substantial indebtedness;
+•
+covenants that limit our operating and financial flexibility;
+•
+our stock price volatility; and
+•
+such other risks and uncertainties described in the periodic reports we file with the SEC from time to time (including our 2024 Annual Report on Form 10-K), which are available through the SEC’s EDGAR system at www.sec.gov and on our website.
+Any forward-looking statement speaks only at the date which it is made, and WillScot undertakes no obligation, and disclaims any obligation, to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law.
+ITEM 3.    Quantitative and Qualitative Disclosures about Market Risk
+We are exposed to certain market risks from changes in foreign currency exchange rates and interest rates. Changes in these factors cause fluctuations in our earnings and cash flows. We evaluate and manage exposure to these market risks as follows:
+Interest Rate Risk
+We are primarily exposed to interest rate risk through our ABL Facility, which bears interest at variable rates. We had $1.5 billion in outstanding principal under the ABL Facility at September 30, 2025. To manage interest rate risk, in January 2024 and January 2023, respectively, we executed interest rate swap agreements relating to an aggregate of $500.0 million and $750.0 million in notional amount of variable-rate debt under our ABL Facility. The January 2024 and January 2023 swap agreements provide for us to pay effective fixed interest rates of 3.70% and 3.44% per annum, respectively, and receive a variable interest rate equal to one-month term SOFR, with maturity dates of June 30, 2027. After taking into account the impact of the swaps, an increase in interest rates by 100 basis points on our ABL Facility would have increased quarter to date interest expense by approximately $0.6 million based on outstanding borrowings at September 30, 2025.
+Foreign Currency Risk
+We currently generate approximately 94% of our consolidated net revenues in the US, and the reporting currency for our consolidated financial statements is the US dollar. However, we are exposed to currency risk through our operations in Canada and Mexico. For the operations outside the US, we bill customers primarily in their local currency, which is subject to foreign currency rate changes. As our net revenues and expenses generated outside of the US increase, our results of operations could be adversely impacted by changes in foreign currency exchange rates. Since we recognize foreign revenues in local foreign currencies, if the US dollar strengthens, it could have a negative impact on our foreign revenues upon translation of those results into the US dollar for consolidation into our financial statements. 
+In addition, we are exposed to gains and losses resulting from fluctuations in foreign currency exchange rates on transactions generated by our foreign subsidiaries in currencies other than their local currencies. These gains and losses are primarily driven by intercompany transactions and rental equipment purchases denominated in currencies other than the functional currency of the purchasing entity. These exposures are included in currency (gains) losses, net, on the consolidated statements of operations.
+38
+ITEM 4.    Controls and Procedures
+Evaluation of Disclosure Controls and Procedures
+Our management, with participation of our Chief Executive Officer and Chief Financial Officer, has evaluated the effectiveness of our disclosure controls and procedures as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934 as amended (the "Exchange Act") as of September 30, 2025. Based upon that evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective as of September 30, 2025. 
+Changes in Internal Controls
+There were no changes in our internal control over financial reporting that occurred during the quarter ended September 30, 2025 that materially affected or are reasonably likely to materially affect, our internal control over financial reporting.
+39
+PART II - Other Information
+ITEM 1.  Legal Proceedings
+The Company is involved in various lawsuits, claims and legal proceedings that arise in the ordinary course of business. The Company assesses these matters on a case-by-case basis as they arise and establishes reserves as required. As of September 30, 2025, with respect to these outstanding matters, the Company believes that the amount or range of reasonably possible loss will not, either individually or in the aggregate, have a material adverse effect on the consolidated financial position, results of operations, or cash flows of the Company. However, the outcome of such matters is inherently unpredictable and subject to significant uncertainties. 
+ITEM 1A.  Risk Factors 
+The Company’s financial position, results of operations and cash flows are subject to various risks, many of which are not exclusively within the Company’s control, which may cause actual performance to differ materially from historical or projected future performance. In addition to the other information set forth in this report, you should carefully consider the risk factors discussed in Item 1A. of our 
+2024
+ Annual Report on Form 10-K, which have not materially changed, except as set forth below:
+Trade policies and changes in trade policies, including the imposition of or increases in tariffs, their enforcement, downstream consequences, including any resulting changes in international trade relations, may materially adversely affect our business, results of operations, and outlook. 
+Tariffs and/or other developments with respect to trade policies, trade agreements and government regulations may materially adversely affect our business, financial condition and results of operations. From time to time, the US government has historically imposed and may in the future impose tariffs on steel, aluminum, lumber, and other imports from certain countries or countries generally, which could result in increased costs to us for these materials. Without limitation, (i) tariffs currently in place and (ii) the imposition by the federal government of new tariffs on imports to the US could materially increase (a) the cost of our products that we are offering for sale or lease, (b) the cost of certain products that we source from foreign manufacturers, and (c) the cost of certain raw materials or products that we utilize. We may not be able to pass such increased costs on to our customers, and we may not be able to secure sources of certain products and materials that are not subject to tariffs on a timely basis. The current US administration has implemented or increased, or announced plans to implement or increase tariffs, including on products manufactured in China, Canada, and Mexico, though it remains unclear what specific actions will be implemented or be maintained. The implementation or maintenance of tariffs announced to date or announced in the future, or any escalation of trade tensions, additional tariffs, retaliatory measures by foreign governments or shifts in US or international trade policies could increase uncertainty and adversely impact our supply chain, increase costs, and reduce demand for our products, directly or indirectly due to negative effects on our customers, the US economy, the economies of other countries in which we operate or the global economy, any or all of which developments may materially adversely affect our business, financial condition, and results of operations. Further, the duration and scope of these potential effects are unknown. Although we actively monitor our procurement policies and practices to avoid undue reliance on foreign goods subject to tariffs, when practicable, there is no assurance that any actions we implement as a result will allow us to avoid these potential effects.
+40
+ITEM 2.    Unregistered Sales of Equity Securities and Use of Proceeds
+The following table summarizes our purchase of Common Stock during the third quarter of 2025. 
+Period
+Total Number of Shares and Equivalents  Purchased (in thousands)
+Average Price Paid 
+per Share
+Total Number of Shares and Equivalents Purchased as part of Publicly Announced Plan (in thousands)
+Maximum Dollar Value of Shares and Equivalents that May Yet Be Purchased Under the Plans (in millions)
+July 1, 2025 to July 31, 2025
+195.5 
+$
+29.18 
+195.5 
+$
+744.2 
+August 1, 2025 to August 31, 2025
+101.3 
+$
+25.31 
+101.3 
+$
+741.7 
+September 1, 2025 to September 30, 2025
+— 
+$
+— 
+— 
+$
+741.7 
+Total
+296.8 
+296.8 
+A share repurchase program authorizes the Company to repurchase its outstanding shares of Common Stock. In September 2024, the Board of Directors approved a reset of the share repurchase program authorizing the Company to repurchase up to $1.0 billion of its outstanding shares of Common Stock. As of September 30, 2025, $741.7 million of the $1.0 billion share repurchase authorization remained available for use.
+ITEM 3.    Defaults Upon Senior Securities 
+None.
+ITEM 4.    Mine Safety Disclosures
+Not applicable.
+ITEM 5.    Other Information
+During the three months ended September 30, 2025, no director or Section 16 officer of the Company 
+adopted
+ or 
+terminated
+ a "Rule 10b5-1 trading arrangement" or "non-Rule 10b5-1 trading arrangement," as each term is defined in Item 408(a) of Regulation S-K. 
+41
+ITEM 6.     Exhibits
+Exhibit No.
+Exhibit Description
+10.1
+Amended and Restated Employment Agreement, dated as of September 3, 2025, by and between WillScot Holdings Corporation and Timothy D. Boswell
+
+(incorporated by reference to Exhibit 
+10
+.1 of the Company's Current Report on Form 8-K, filed 
+September
+
+3
+, 2025).
+10.2
+Separation Agreement, dated as of September 3, 2025, by and between WillScot Holdings Corporation and Bradley L. Soultz
+
+(incorporated by reference to Exhibit 10.
+2
+ of the Company's Current Report on Form 8-K, filed September 3, 2025).
+10.3
+Form of Nonqualified Stock Option Award Agreement
+
+(incorporated by reference to Exhibit 10.
+3
+ of the Company's Current Report on Form 8-K, filed September 3, 2025).
+10.4
+Offer Letter, dated as of September 3, 2025, by and between WillScot Holdings Corporation and Worthing Jackman 
+(incorporated by reference to Exhibit 10.
+4
+ of the Company's Current Report on Form 8-K, filed September 3, 2025).
+10.5
+Seventh Amendment to the ABL Credit Agreement, dated as of October 16, 2025, by and among Williams Scotsman, Inc., Williams Scotsman Holdings Corp., the other Loan Parties party thereto, the Lenders party thereto and Bank of America, N.A., as administrative agent and collateral agent.
+31.1
+*
+Certification of Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+31.2
+*
+Certification of Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+32.1
+**
+Certification of Chief Executive Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+32.2
+**
+Certification of Chief Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+101.INS
+XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document
+101.SCH
+XBRL Taxonomy Extension Schema Document
+101.CAL
+XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF
+XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB
+XBRL Taxonomy Extension Label Linkbase Document
+101.PRE
+XBRL Taxonomy Extension Presentation Linkbase Document
+104*
+Inline XBRL for the cover page of this Quarterly Report on Form 10-Q, included in the Exhibit 101 Inline XBRL Document Set.
+* Filed herewith
+** Furnished (and not filed) herewith pursuant to Item 601(b)(32)(ii) of Regulation S-K under the Exchange Act
+42
+Signature
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+WillScot Holdings Corporation
+By:
+/s/ MATTHEW T. JACOBSEN
+Dated:
+November 6, 2025
+Matthew T. Jacobsen
+Chief Financial Officer 
+(Principal Financial Officer and Duly Authorized Signing Officer)
+43

@@ -1,0 +1,254 @@
+Item 1. Business.
+Overview
+Appian Corporation (together with its subsidiaries, “Appian,” “the Company,” “we,” or “our”) is The Process Company. We deliver a software platform that helps organizations run better processes that reduce costs, improve customer experiences, and gain a strategic edge. Committed to client success, we serve many of the world’s largest companies across industries.
+We believe processes define each organization. Processes are how they operate, deliver value, and interact with their customers. Nothing is more transformative for an organization than improving their processes. Appian has both the platform and the expertise to enable enterprise transformation. 
+The Appian Platform
+Appian is a leading platform for process orchestration, automation, and intelligence. Our unified platform provides everything an organization needs to design, automate, and optimize critical processes. It enables continuous adaptation, allowing organizations to thrive in changing environments.
+Core Capabilities 
+Appian provides capabilities to tackle any process challenge. Appian tightly integrates data fabric; robotic process automation, or RPA; intelligent document processing, or IDP; generative artificial intelligence, or generative AI; artificial intelligence agents, or AI agents; low-code design; application programming interfaces, or APIs; business rules; and process intelligence capabilities in a single platform. These capabilities are unified and scalable, meeting enterprise demands and easy to change as requirements evolve. 
+•
+Process Orchestration: 
+The Appian platform coordinates tasks between AI, automation, and humans to ensure processes run efficiently and intelligently. RPA enables customers to build bots with low-code to automate repetitive manual tasks. Appian AI agents extract data, process documents, and initiate processes at scale. API integration easily connects systems with low-code design tools and hundreds of prebuilt connections.
+•
+Data Fabric: 
+Appian’s data fabric is an integrated data layer that unifies data across systems without requiring companies to migrate their data. Appian empowers users to explore data in real-time, build reports, and get AI-powered insights for smarter decision-making. Our patented data fabric technology supports both analytical and transactional workloads, which allows users to build applications that create and update enterprise data. It also includes row-level security rules to enforce access controls at every level. Our data fabric functionality powers and secures our AI offering.
+•
+Process Intelligence: 
+Process intelligence allows users to gain deep insights into process performance through Appian’s Process HQ. It also preps data for process mining with just a few clicks, even across multiple sources. Companies can use AI to monitor processes, identify issues, and get intelligent recommendations for optimization. 
+•
+Artificial Intelligence: 
+We believe the key to unlocking AI’s full potential is embedding it inside a business process. Process is where business happens. It’s where companies make decisions, save and spend money, serve customers, and scale business operations. When AI operates within processes, it gains purpose, governance, and accountability—all essential to delivering value from AI. Appian can embed AI into every process, which gives AI the context and actions it needs to accelerate outcomes for the enterprise.
+4
+Appian delivers six key benefits with our “AI in process” approach:
+1.
+Process makes AI easy. Deploying AI in isolated projects is complex and costly. By embedding AI within a process, enterprises can easily access valuable AI capabilities when and where they need them. 
+2.
+Process gives AI structure. AI is only as useful as the structure surrounding it. A process gives AI defined goals in a structured flow of work. AI can work alongside humans and automation tools, escalating issues so humans always maintain oversight and control. 
+3.
+Process gives AI data. AI is nothing without data. But most enterprises struggle to feed AI complete data from across systems, while still ensuring privacy and maintaining access privileges. By integrating AI into processes, enterprises ensure AI receives quality, real-time data from all systems. Organizations can enforce privacy controls to prevent unauthorized access and optimize data governance to comply with regulations (such as GDPR, HIPAA, etc.).  
+4.
+Process makes AI safe. AI is powerful, but no one wants to give AI free reign over their enterprises. Processes provide crucial safety mechanisms, including human approval steps for high-risk actions and escalation paths to ensure AI errors don’t cause harm. Additionally, activity logs make auditing and compliance simple for organizations with strict regulatory requirements.
+5.
+Process makes AI measurable. For many enterprises, AI is a black box, which can’t be measured for impact. Appian processes track every AI action, allowing organizations to measure performance, identify bottlenecks, and optimize outcomes. 
+6.
+Process makes AI enterprise-grade. A process provides the necessary infrastructure to scale AI use. The right tooling puts AI to work with security certifications, enterprise scalability, and other capabilities such as process orchestration, automation, and intelligence. Processes take AI from a collection of disconnected pilots to an enterprise-wide capability.  
+Appian’s unified approach delivers all the capabilities leading organizations need to orchestrate their     business processes in one place. It empowers enterprises to transform their processes and improve business outcomes. 
+Committed to Customer Success
+At Appian, we do more than deliver a platform; we are invested in our customers’ success. Our Customer Success team partners with enterprises every step of the way. From strategic guidance to hands-on support, we strive to ensure their process transformation delivers measurable, lasting value. The world’s most innovative organizations trust Appian to solve their critical process challenges, achieve operational excellence, and drive sustainable growth. With Appian, we believe businesses are equipped to thrive in a world where process is everything.
+Go-to-Market Strategy
+Our go-to-market strategy consists of both direct sales and sales through strategic partners. We sell our software almost exclusively as subscriptions. We grow our revenue by adding new customers, increasing the product usage of existing customers, and expanding product usage across new business processes and applications. Our strategic partners work with organizations undergoing digital transformation projects, and when they recognize an opportunity for our platform, they often introduce us to potential customers. 
+Many of our customers begin by building a single application and grow to create dozens of applications on our platform, which implicitly increases their return on investment. Generally, the development of new applications results in the expansion of our product usage within an organization and a corresponding increase in our revenue due to subscription fees. Every additional application an organization creates on our platform increases the value of our platform for that organization because it further integrates people, processes, and data and facilitates knowledge sharing. Applications built on our platform may be used only on our platform and only while customers have active subscriptions, creating a substantial incentive for customers to avoid the difficulties and costs 
+5
+associated with moving to a different software platform. At the same time, our industry-leading Customer Success team helps customers build and deploy applications on our platform to achieve their digital transformation goals more quickly. 
+Our Growth Strategy
+Key elements of our growth strategy include:
+•
+Expand our customer base.
+ We continue to grow our customer base in various industries, including financial services, government, life sciences, insurance, manufacturing, energy, healthcare, telecommunications, and transportation. We believe the market for our platform is still in its early stages, and we have a significant opportunity to add additional large enterprise and government customers globally. We also have a strong ecosystem of strategic partners that help identify new customer opportunities for us.
+•
+Grow revenue from key industry verticals. 
+While our platform is industry-agnostic, we continue to make investments to enhance the expertise of our sales and marketing organization within our key industry verticals of financial services, government, life sciences, and insurance. In 2024, we generated over 77% of our subscriptions revenue from customers in these verticals. We believe focusing on the digital transformation needs of organizations within these industry verticals helps drive adoption of our platform.
+•
+Continue to innovate and enhance our platform
+.
+
+We continue to invest in research and development to strengthen our platform and expand the number of features available to our customers. We offer multiple upgrades each year that allow our customers to benefit from ongoing innovation. As we continue to increase the functionality of our platform and further reduce the amount of developer skill required to quickly deliver value for our customers, we believe we have the potential to expand the use of our platform.
+•
+Offer industry solutions to accelerate customer usage
+.
+
+Our platform enables our customers to build applications quickly. We, along with our partners, offer pre-built solutions in certain of our key industries such as financial services, government, and insurance to give our customers an even faster start. Every Appian solution is built on our platform and designed to be standardized, upgradeable, and compatible with each other.
+•
+Expand our international footprint. 
+Our platform is designed to be natively multilingual to facilitate collaboration and address challenges in multinational organizations. Appian Cloud meets the data residency requirements of our global customers by operating in 16 countries across 36 regions and 114 availability zones. In 2024, 37% of our total revenue was
+
+generated from customers outside of the United States. We believe we have a significant opportunity to continue to grow our international footprint. We are investing in new geographies through direct and indirect sales channels, professional services and customer support, and implementation partners.
+•
+Leverage our partner base. 
+We have a number of strategic partnerships with companies, including Accenture, Capgemini, Deloitte, EY, KPMG, PwC, and TCS. These partners work with organizations undergoing digital transformation projects. When they recognize an opportunity for our platform, they introduce us to potential customers. Additionally, they often go to market with their own pre-built solutions using our platform, delivering software license revenue to Appian. We intend to further leverage our base of partners to provide broader customer coverage and solution delivery capabilities.
+Human Capital Resources and Management
+Employees, Culture, and Labor Relations
+Our distinct culture of innovation is an important contributor to our success as a company. We promote an inclusive environment where our employees can contribute their unique perspectives to help create transformative solutions for our customers. Our culture was purposefully cultivated by our four founders, who are still heavily involved in operating our business, including recruiting, interviewing, and educating new employees at Appian. Led by Matt Calkins, Founder and Chief Executive Officer, we have grown our business organically by employing a unified team to maximize the cohesion and simplicity of our platform and our company.
+6
+As of December 31, 2024, we had a total global workforce of 2,033 employees, 1,339 of which were based in the United States. None of our U.S. employees are covered by collective bargaining agreements. We believe our employee relations are good, and we have not experienced any work stoppages. Additionally, we are subject to, and comply with, local labor law requirements in all countries in which we operate.
+Excellence and Intensity
+We have two foundational values, the most important qualities that an Appian person must have: Excellence and Intensity. Every hiring decision, every promotion, and every public commendation is based on these values. Excellence means we have high standards, and we live up to them. Everything Appian does is done well. Intensity means we’re all-in. We’re ambitious. We bring our full self to work and our full commitment. We care about the outcome. We take the results of our work personally. We assert ourselves. We hold people to account, even if it’s uncomfortable, because we take pride in our team’s work. Raising the bar is part of being a leader at Appian.     
+
+Belonging
+We respect all people. We believe diverse ideas and an inclusive environment are paramount to our continued success. We also believe our individual experiences and knowledge enable us to learn from one another and discover creative solutions. We sponsor a number of affinity groups, initiated by employees, that aim to build stronger internal and external networks and partnerships, create a positive lasting impact through social and educational outreach, and create development opportunities for future leaders.
+Talent Acquisition and Development
+We have a robust talent acquisition program to attract, recruit, and retain new talent. We utilize an extensive campus recruiting program, provide an employee referral program, and offer opportunities for internal transfers, as well as competitive compensation and benefits programs. We also provide resources to help our employees grow in their current roles and build new skills, including access to Appian University, a system that houses Appian's in-house learning and development solutions.
+Sales and Marketing 
+Our sales and marketing teams work together closely to market and sell our software platform and services. We sell to enterprises across a range of industries, including government, financial services, insurance, and life sciences. Our sales organization includes enterprise account executives, solution consultants, and customer success representatives and is supported by a robust partner ecosystem of global systems integrators, technology partners, and resellers. We are dedicated to the success of Appian customers, investing in robust post-sales customer success initiatives to ensure adoption, satisfaction, and expanded use over time. 
+To drive awareness and adoption of our platform, we execute a comprehensive marketing strategy that includes digital marketing, customer advocacy programs, industry analyst and press relations, thought leadership initiatives, digital events, industry conferences, tradeshows, and regional events. Our flagship annual event, Appian World, brings together customers, partners, and industry leaders to showcase innovations, share best practices, and highlight the business impact of Appian. Additionally, we engage with our developer community through our Appian Community as well as hackathons, user groups, and technical education programs designed to accelerate application development and foster platform expertise.
+Facilities
+As of December 31, 2024, we lease our headquarters office in McLean, Virginia, and we also have five leased offices in cities outside the United States. In addition to our leased offices, we occupied nine flexible workspaces. Our use of flexible workspaces is dependent upon our current business needs. We believe our facilities are adequate to meet our ongoing needs, including substantial rights to expand within certain properties we lease. If 
+7
+we require additional space in the future, we believe we will be able to obtain additional facilities on commercially reasonable terms. 
+Seasonality
+We have historically experienced seasonality in terms of when we enter into agreements with customers. See “Seasonality - Management Discussion and Analysis Financial Condition and Results of Operations” for a discussion of the seasonality of our business.
+Our Customers 
+Our customers operate in various industries, including financial services, government, life sciences, insurance, manufacturing, energy, healthcare, telecommunications, and transportation. As of December 31, 2024, we had over 1,000 customers. Generally, our sales team targets its efforts to organizations with over 2,000 employees and $2 billion in annual revenue. The number of customers paying us in excess of $1 million of annual recurring revenue has grown from 110 at the end of 2023 to 126 at the end of 2024. No single end customer accounted for more than 10% of our total revenue in 2024, 2023, or 2022.
+Our Competition
+Our main competitors fall into four categories: (1) providers of custom software solutions that address, or are developed to address, some of the use cases that applications developed on our platform target; (2) providers of low-code development platforms; (3) providers of one or more automation technologies, including business process management, case management, process mining, and robotic process automation; and (4) potential customers using their own internal technology departments to develop, build, and modify their own proprietary systems. 
+As our market grows, we expect it will attract more highly specialized vendors as well as larger vendors that may continue to acquire or bundle their products more effectively. The principal competitive factors in our market include: 
+•
+Platform features, reliability, performance, and effectiveness; 
+•
+Ease of use and speed; 
+•
+Data Fabric;
+•
+AI;
+•
+Platform extensibility and ability to integrate with other technology infrastructures;
+•
+Deployment flexibility; 
+•
+Robustness of professional services and customer support; 
+•
+Price and total cost of ownership; 
+•
+Strength of platform security and adherence to industry standards and certifications; 
+•
+Strength of sales and marketing efforts; and 
+•
+Brand awareness and reputation. 
+We believe we generally compete favorably with our peer group with respect to the features, security, and performance of our platform, the ease of integration of our applications, and the relatively low total cost of ownership of our applications. We feel this is validated by the fact Gartner ranked Appian #1 for the use case of Complex Internal Applications in the 2024 Gartner
+®
+ Critical Capabilities for Enterprise Low-Code Application 
+8
+Platforms (LCAP) as well as positioned Appian as a Leader in the 2024 Gartner Magic Quadrant™ for Enterprise LCAP.
+1
+Intellectual Property 
+Our success depends in part upon our ability to protect our core technology and intellectual property. We rely on patents, trademarks, copyrights, trade secret laws, confidentiality procedures, and employee disclosure and invention assignment agreements to protect our intellectual property rights.
+As of December 31, 2024, we had 21 granted patents and 20 patents pending related to our platform and its technology. None of our issued patents expire before 2034. We cannot provide complete assurance that any of our patent applications will result in the issuance of a patent or that the examination process will not require us to narrow our claims. Any patents we may be issued may be contested, circumvented, found unenforceable, or invalidated, and we may not be able to prevent third parties from infringing them. We also license software from third parties for integration into our products, including open source software and other software available on commercially reasonable terms. We control access to and use of our proprietary software and other confidential information through the use of internal and external controls, including contractual protections with employees, contractors, end customers, and partners, and our software is protected by U.S. and international copyright and trade secret laws.
+Corporate Information
+Our Class A common stock is listed on the Nasdaq Global Market under the symbol “APPN.”
+Our corporate headquarters is located at 7950 Jones Branch Drive, McLean, Virginia 22102, and our telephone number is (703) 442-8844.
+“Appian,” the Appian logo, and other trademarks or service marks of Appian Corporation appearing in this Annual Report on Form 10-K are the property of Appian Corporation. This Annual Report on Form 10-K contains additional trade names, trademarks, and service marks of others, which are the property of their respective owners. Solely for convenience, trademarks and trade names referred to in this Annual Report on Form 10-K exclude the ® or TM symbols.
+Available Information
+Our website address is 
+www.appian.com
+. Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments to reports filed pursuant to Sections 13(a) and 15(d) of the Exchange Act are made available free of charge on or through our website at
+ investors.appian.com
+ as soon as reasonably practicable after such reports are filed with, or furnished to, the United States Securities and Exchange Commission, or SEC. The information contained on, or that can be accessed through, our website is not incorporated by reference into this Annual Report on Form 10-K or in any other report or document we file with the SEC, and any references to our website are intended to be inactive textual references only.
+1
+ Gartner, Magic Quadrant for Enterprise Low-Code Application Platforms 16 October 2024, Oleksandr Matvitskyy, Kyle Davis, Akash Jain
+Gartner, Critical Capabilities for Enterprise Low-Code Application Platforms 21 October 2024, Akash Jain, Kyle Davis, Oleksandr Matvitskyy
+Gartner does not endorse any vendor, product or service depicted in its research publications and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner’s research organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose. 
+GARTNER is a registered trademark and service mark of Gartner, Inc. and/or its affiliates in the U.S. and internationally, and MAGIC QUADRANT is a registered trademark of Gartner, Inc. and/or its affiliates and are used herein with permission. All rights reserved.
+The Gartner content described herein (the “Gartner Content”) represents research opinion or viewpoints published, as part of a syndicated subscription service, by Gartner, Inc. ("Gartner"), and is not a representation of fact. Gartner Content speaks as of its original publication date (and not as of the date of this 10-K), and the opinions expressed in the Gartner Content are subject to change without notice.
+9
+Forward-Looking Statements
+This Annual Report on Form 10-K, including the sections entitled “Business,” “Risk Factors,” and “Management's Discussion and Analysis of Financial Condition and Results of Operations,” contains forward-looking statements that involve known and unknown risks, uncertainties, and other factors that may cause our actual results, levels of activity, performance, or achievements to be materially different from the information expressed or implied by these forward-looking statements. Statements that are not purely historical are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, or the Securities Act, and Section 21E of the Securities Exchange Act of 1934, as amended, or the Exchange Act. In some cases, forward-looking statements can be identified by the words “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “intend,” “may,” “might,” “objective,” “ongoing,” “plan,” “predict,” “project,” “potential,” “should,” “will,” or “would,” or the negative of these terms, or other comparable terminology intended to identify statements about the future. These forward-looking statements include, but are not limited to, statements concerning the following: 
+•
+Our market opportunity and the expansion of our core software markets in general;
+•
+The opportunity and competitive impact of AI;
+•
+The effects of increased competition as well as innovations by new and existing competitors in our market;
+•
+Our ability to adapt to technological change and effectively enhance, innovate, and scale our platform and professional services;
+•
+Our ability to effectively manage or sustain our growth and to achieve profitability;
+•
+Potential acquisitions and integration of complementary businesses and technologies; 
+•
+Our ability to maintain, or strengthen awareness of, our brand; 
+•
+Perceived or actual problems with the integrity, reliability, quality, or compatibility of our platform, including unscheduled downtime or outages; 
+•
+The anticipated expansion of the usage of partners to perform professional services;
+•
+General macroeconomic conditions, including rising interest rates and inflation, slower growth or recession, and geopolitical turmoil;
+•
+Future revenue, hiring plans, expenses, capital expenditures, capital requirements, and stock performance; 
+•
+Our ability to attract and retain qualified employees and key personnel and manage our overall headcount; 
+•
+The expected benefits to our clients and potential clients of our product and service offerings;
+•
+The timing of revenue recognition under license and cloud arrangements; 
+•
+Our expectation that subscriptions revenue as a percentage of total revenue will continue to increase; 
+•
+Our expectation that professional services as a percentage of total revenue will continue to decrease;
+•
+Our backlog of license, maintenance, cloud, and services agreements and the timing of future cash receipts from committed license and cloud arrangements; 
+•
+Our expectation that cost of revenue, sales and marketing expenses, research and development expenses, and general and administrative expenses will continue to increase in absolute dollar values;
+•
+The fluctuation of subscriptions gross margin and professional services gross margin over time;
+•
+Our ability to stay abreast of new or modified laws and regulations that currently apply or become applicable to our business both in the United States and internationally; 
+•
+Our ability to collect on the judgment against Pegasystems or the judgment preservation insurance;
+•
+Our ability to maintain, protect, and enhance our intellectual property; and 
+•
+Costs associated with defending intellectual property infringement and other claims. 
+10
+These statements represent the beliefs and assumptions of our management based on information currently available to us. Such forward-looking statements are subject to risks, uncertainties, and other important factors that could cause actual results and the timing of certain events to differ materially from future results expressed or implied by such forward-looking statements. Factors that could cause or contribute to such differences include, but are not limited to, those discussed in the section titled “Risk Factors” included under Part I, Item 1A. Furthermore, such forward-looking statements speak only as of the date of this report. Except as required by law, we undertake no obligation to update any forward-looking statements to reflect events or circumstances that occur after the date of this report.
+Risk Factors Summary
+The risk factors summarized below could materially harm our business, operating results, and/or financial condition, impair our future prospects, and/or cause the price of our common stock to decline. These risks are discussed more fully in the section titled “Risk Factors.” Material risks that may affect our business, financial condition, results of operations, and trading price of our Class A common stock include, but are not necessarily limited to, the following:
+•
+If we are unable to sustain our revenue growth rate, we may not achieve or maintain profitability in the future.
+•
+We may not be able to scale our business quickly enough to meet our customers’ growing needs, and if we are not able to grow efficiently, our operating results could be harmed.
+•
+We are dependent on a single product, and the lack of continued market acceptance of our platform could cause our operating results to suffer.
+•
+We currently face significant competition.
+•
+Our recent corporate growth may not be indicative of our future growth and, if we continue to grow, we may not be able to manage our growth effectively.
+•
+If our security measures are actually or perceived to have been breached, or if unauthorized access to our platform or customer data occurs, our platform may be perceived as not being secure, and customers may reduce the use of or stop using our platform, and we may incur significant liabilities. 
+•
+We derive a material portion of our revenue from a limited number of customers, and the loss of one or more of these customers could materially and adversely impact our business, results of operations, and financial condition.
+•
+A portion of our revenue is generated from subscriptions sold to governmental entities and heavily regulated organizations, which are subject to a number of challenges and risks.
+•
+We have experienced losses in the past, and we may not achieve or sustain profitability in the future.
+•
+AI is a disruptive set of technologies that may affect the markets for our software dramatically and in unpredictable ways.
+•
+We rely on the performance of highly skilled personnel, including senior management and our engineering, professional services, sales, and technology professionals, and if we are unable to retain or motivate key personnel or hire, retain, and motivate qualified personnel, our business would be harmed.
+•
+If we do not continue to innovate and provide a platform that is useful to our customers, we may not remain competitive, and our revenue and operating results could suffer.
+•
+We are substantially dependent upon customer renewals, the addition of new customers, and the continued growth of our subscriptions revenue.
+•
+Because we generally recognize revenue from cloud subscriptions ratably over the term of the subscription agreement, near term changes in sales may not be reflected immediately in our operating results.
+•
+We may not achieve market acceptance of our pre-built solutions, which may adversely affect our financial results.
+11
+•
+If our platform fails to perform properly or there are defects or disruptions in the rollout of our platform updates or enhancements, our reputation could be adversely affected, our market share could decline, and we could be subject to liability claims.
+•
+We rely upon Amazon Web Services, or AWS, to operate our cloud offering; any disruption of or interference with our use of AWS would adversely affect our business, results of operations, and financial condition.
+•
+Our growth depends in part on the success of our strategic relationships with third parties.
+•
+We employ third-party licensed software for use in or with our software, and the inability to maintain these licenses or errors in the software we license could result in increased costs or reduced service levels, which would adversely affect our business.
+•
+If we do not or cannot maintain the compatibility of our platform with third-party applications that our customers use in their businesses, our revenue will decline.
+•
+Because we collect and store personal information, domestic and international privacy concerns could result in additional costs and liabilities to us or inhibit sales of our software, and subject us to complex and evolving federal, state, and foreign laws and regulations regarding privacy, data protection, and other related matters.
+•
+If our platform fails to function in a manner that allows our customers to operate in compliance with regulations and/or industry standards, our revenue and operating results could be harmed.
+•
+We are subject to governmental export and import controls and economic and trade sanctions that could impair our ability to conduct business in international markets and subject us to liability if we are not in compliance with applicable laws and regulations.
+•
+Any failure to protect our proprietary technology and intellectual property rights could substantially harm our business and operating results.
+•
+Portions of our platform utilize open source software, and any failure to comply with the terms of one or more of these open source licenses could negatively affect our business.
+•
+Our ability to use net operating losses to offset future taxable income may be subject to certain limitations.
+•
+The dual class structure of our common stock and the existing ownership of capital stock by Matt Calkins, our founder and Chief Executive Officer, have the effect of concentrating voting control with Mr. Calkins for the foreseeable future, which will limit the ability of others to influence corporate matters.
+•
+Anti-takeover provisions in our charter documents and under Delaware law could make an acquisition of us more difficult, limit attempts by our stockholders to replace or remove our current management, and limit the market price of our Class A common stock.
+•
+Our stock price has been volatile and may be volatile in the future.
+12

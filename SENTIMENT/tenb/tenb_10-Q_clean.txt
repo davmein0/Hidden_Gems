@@ -1,0 +1,5446 @@
+tenb-20250930
+0001660280
+12/31
+2025
+Q3
+FALSE
+Terminated
+Terminated
+Adopted
+Adopted
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+xbrli:pure
+iso4217:EUR
+tenb:segment
+0001660280
+2025-01-01
+2025-09-30
+0001660280
+2025-10-31
+0001660280
+2025-07-01
+2025-09-30
+0001660280
+2025-09-30
+0001660280
+2024-12-31
+0001660280
+2024-07-01
+2024-09-30
+0001660280
+2024-01-01
+2024-09-30
+0001660280
+us-gaap:CommonStockMember
+2025-06-30
+0001660280
+us-gaap:AdditionalPaidInCapitalMember
+2025-06-30
+0001660280
+us-gaap:TreasuryStockCommonMember
+2025-06-30
+0001660280
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-06-30
+0001660280
+us-gaap:RetainedEarningsMember
+2025-06-30
+0001660280
+2025-06-30
+0001660280
+us-gaap:CommonStockMember
+2025-07-01
+2025-09-30
+0001660280
+us-gaap:AdditionalPaidInCapitalMember
+2025-07-01
+2025-09-30
+0001660280
+us-gaap:TreasuryStockCommonMember
+2025-07-01
+2025-09-30
+0001660280
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-07-01
+2025-09-30
+0001660280
+us-gaap:RetainedEarningsMember
+2025-07-01
+2025-09-30
+0001660280
+us-gaap:CommonStockMember
+2025-09-30
+0001660280
+us-gaap:AdditionalPaidInCapitalMember
+2025-09-30
+0001660280
+us-gaap:TreasuryStockCommonMember
+2025-09-30
+0001660280
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-09-30
+0001660280
+us-gaap:RetainedEarningsMember
+2025-09-30
+0001660280
+us-gaap:CommonStockMember
+2024-12-31
+0001660280
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0001660280
+us-gaap:TreasuryStockCommonMember
+2024-12-31
+0001660280
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-31
+0001660280
+us-gaap:RetainedEarningsMember
+2024-12-31
+0001660280
+us-gaap:CommonStockMember
+2025-01-01
+2025-09-30
+0001660280
+us-gaap:AdditionalPaidInCapitalMember
+2025-01-01
+2025-09-30
+0001660280
+us-gaap:TreasuryStockCommonMember
+2025-01-01
+2025-09-30
+0001660280
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-01-01
+2025-09-30
+0001660280
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-09-30
+0001660280
+us-gaap:CommonStockMember
+2024-06-30
+0001660280
+us-gaap:AdditionalPaidInCapitalMember
+2024-06-30
+0001660280
+us-gaap:TreasuryStockCommonMember
+2024-06-30
+0001660280
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-06-30
+0001660280
+us-gaap:RetainedEarningsMember
+2024-06-30
+0001660280
+2024-06-30
+0001660280
+us-gaap:CommonStockMember
+2024-07-01
+2024-09-30
+0001660280
+us-gaap:AdditionalPaidInCapitalMember
+2024-07-01
+2024-09-30
+0001660280
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-07-01
+2024-09-30
+0001660280
+us-gaap:RetainedEarningsMember
+2024-07-01
+2024-09-30
+0001660280
+us-gaap:CommonStockMember
+2024-09-30
+0001660280
+us-gaap:AdditionalPaidInCapitalMember
+2024-09-30
+0001660280
+us-gaap:TreasuryStockCommonMember
+2024-09-30
+0001660280
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-09-30
+0001660280
+us-gaap:RetainedEarningsMember
+2024-09-30
+0001660280
+2024-09-30
+0001660280
+us-gaap:CommonStockMember
+2023-12-31
+0001660280
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-31
+0001660280
+us-gaap:TreasuryStockCommonMember
+2023-12-31
+0001660280
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-12-31
+0001660280
+us-gaap:RetainedEarningsMember
+2023-12-31
+0001660280
+2023-12-31
+0001660280
+us-gaap:CommonStockMember
+2024-01-01
+2024-09-30
+0001660280
+us-gaap:AdditionalPaidInCapitalMember
+2024-01-01
+2024-09-30
+0001660280
+us-gaap:TreasuryStockCommonMember
+2024-01-01
+2024-09-30
+0001660280
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-01-01
+2024-09-30
+0001660280
+us-gaap:RetainedEarningsMember
+2024-01-01
+2024-09-30
+0001660280
+us-gaap:SubscriptionAndCirculationMember
+2025-07-01
+2025-09-30
+0001660280
+us-gaap:SubscriptionAndCirculationMember
+2024-07-01
+2024-09-30
+0001660280
+us-gaap:SubscriptionAndCirculationMember
+2025-01-01
+2025-09-30
+0001660280
+us-gaap:SubscriptionAndCirculationMember
+2024-01-01
+2024-09-30
+0001660280
+us-gaap:LicenseAndMaintenanceMember
+2025-07-01
+2025-09-30
+0001660280
+us-gaap:LicenseAndMaintenanceMember
+2024-07-01
+2024-09-30
+0001660280
+us-gaap:LicenseAndMaintenanceMember
+2025-01-01
+2025-09-30
+0001660280
+us-gaap:LicenseAndMaintenanceMember
+2024-01-01
+2024-09-30
+0001660280
+us-gaap:ServiceOtherMember
+2025-07-01
+2025-09-30
+0001660280
+us-gaap:ServiceOtherMember
+2024-07-01
+2024-09-30
+0001660280
+us-gaap:ServiceOtherMember
+2025-01-01
+2025-09-30
+0001660280
+us-gaap:ServiceOtherMember
+2024-01-01
+2024-09-30
+0001660280
+us-gaap:SalesChannelThroughIntermediaryMember
+tenb:SalesMethodRiskMember
+us-gaap:SalesRevenueNetMember
+2024-07-01
+2024-09-30
+0001660280
+us-gaap:SalesChannelThroughIntermediaryMember
+tenb:SalesMethodRiskMember
+us-gaap:SalesRevenueNetMember
+2025-01-01
+2025-09-30
+0001660280
+us-gaap:SalesChannelThroughIntermediaryMember
+tenb:SalesMethodRiskMember
+us-gaap:SalesRevenueNetMember
+2025-07-01
+2025-09-30
+0001660280
+us-gaap:SalesChannelThroughIntermediaryMember
+tenb:SalesMethodRiskMember
+us-gaap:SalesRevenueNetMember
+2024-01-01
+2024-09-30
+0001660280
+tenb:OneDistributorMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2025-01-01
+2025-09-30
+0001660280
+tenb:OneDistributorMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2025-07-01
+2025-09-30
+0001660280
+tenb:OneDistributorMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2024-07-01
+2024-09-30
+0001660280
+tenb:OneDistributorMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2024-01-01
+2024-09-30
+0001660280
+tenb:OneDistributorMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:AccountsReceivableMember
+2025-01-01
+2025-09-30
+0001660280
+tenb:OneDistributorMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:AccountsReceivableMember
+2024-01-01
+2024-12-31
+0001660280
+us-gaap:MoneyMarketFundsMember
+2025-09-30
+0001660280
+us-gaap:CashEquivalentsMember
+2025-09-30
+0001660280
+us-gaap:CommercialPaperMember
+2025-09-30
+0001660280
+us-gaap:CorporateBondSecuritiesMember
+2025-09-30
+0001660280
+us-gaap:AssetBackedSecuritiesMember
+2025-09-30
+0001660280
+tenb:YankeeBondMember
+2025-09-30
+0001660280
+us-gaap:USTreasuryAndGovernmentMember
+2025-09-30
+0001660280
+us-gaap:MoneyMarketFundsMember
+2024-12-31
+0001660280
+us-gaap:CashEquivalentsMember
+2024-12-31
+0001660280
+us-gaap:CommercialPaperMember
+2024-12-31
+0001660280
+us-gaap:CorporateBondSecuritiesMember
+2024-12-31
+0001660280
+us-gaap:AssetBackedSecuritiesMember
+2024-12-31
+0001660280
+tenb:YankeeBondMember
+2024-12-31
+0001660280
+us-gaap:USTreasuryAndGovernmentMember
+2024-12-31
+0001660280
+tenb:CollateralForLettersOfCreditMember
+2025-09-30
+0001660280
+tenb:CollateralForLettersOfCreditMember
+2024-12-31
+0001660280
+us-gaap:MoneyMarketFundsMember
+us-gaap:FairValueInputsLevel1Member
+2025-09-30
+0001660280
+us-gaap:MoneyMarketFundsMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001660280
+us-gaap:MoneyMarketFundsMember
+us-gaap:FairValueInputsLevel3Member
+2025-09-30
+0001660280
+us-gaap:FairValueInputsLevel1Member
+2025-09-30
+0001660280
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001660280
+us-gaap:FairValueInputsLevel3Member
+2025-09-30
+0001660280
+us-gaap:CommercialPaperMember
+us-gaap:FairValueInputsLevel1Member
+2025-09-30
+0001660280
+us-gaap:CommercialPaperMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001660280
+us-gaap:CommercialPaperMember
+us-gaap:FairValueInputsLevel3Member
+2025-09-30
+0001660280
+us-gaap:CorporateDebtSecuritiesMember
+us-gaap:FairValueInputsLevel1Member
+2025-09-30
+0001660280
+us-gaap:CorporateDebtSecuritiesMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001660280
+us-gaap:CorporateDebtSecuritiesMember
+us-gaap:FairValueInputsLevel3Member
+2025-09-30
+0001660280
+us-gaap:CorporateDebtSecuritiesMember
+2025-09-30
+0001660280
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FairValueInputsLevel1Member
+2025-09-30
+0001660280
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001660280
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FairValueInputsLevel3Member
+2025-09-30
+0001660280
+tenb:YankeeBondMember
+us-gaap:FairValueInputsLevel1Member
+2025-09-30
+0001660280
+tenb:YankeeBondMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001660280
+tenb:YankeeBondMember
+us-gaap:FairValueInputsLevel3Member
+2025-09-30
+0001660280
+us-gaap:USTreasurySecuritiesMember
+us-gaap:FairValueInputsLevel1Member
+2025-09-30
+0001660280
+us-gaap:USTreasurySecuritiesMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001660280
+us-gaap:USTreasurySecuritiesMember
+us-gaap:FairValueInputsLevel3Member
+2025-09-30
+0001660280
+us-gaap:USTreasurySecuritiesMember
+2025-09-30
+0001660280
+us-gaap:MoneyMarketFundsMember
+us-gaap:FairValueInputsLevel1Member
+2024-12-31
+0001660280
+us-gaap:MoneyMarketFundsMember
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0001660280
+us-gaap:MoneyMarketFundsMember
+us-gaap:FairValueInputsLevel3Member
+2024-12-31
+0001660280
+us-gaap:FairValueInputsLevel1Member
+2024-12-31
+0001660280
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0001660280
+us-gaap:FairValueInputsLevel3Member
+2024-12-31
+0001660280
+us-gaap:CommercialPaperMember
+us-gaap:FairValueInputsLevel1Member
+2024-12-31
+0001660280
+us-gaap:CommercialPaperMember
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0001660280
+us-gaap:CommercialPaperMember
+us-gaap:FairValueInputsLevel3Member
+2024-12-31
+0001660280
+us-gaap:CorporateDebtSecuritiesMember
+us-gaap:FairValueInputsLevel1Member
+2024-12-31
+0001660280
+us-gaap:CorporateDebtSecuritiesMember
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0001660280
+us-gaap:CorporateDebtSecuritiesMember
+us-gaap:FairValueInputsLevel3Member
+2024-12-31
+0001660280
+us-gaap:CorporateDebtSecuritiesMember
+2024-12-31
+0001660280
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FairValueInputsLevel1Member
+2024-12-31
+0001660280
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0001660280
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FairValueInputsLevel3Member
+2024-12-31
+0001660280
+tenb:YankeeBondMember
+us-gaap:FairValueInputsLevel1Member
+2024-12-31
+0001660280
+tenb:YankeeBondMember
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0001660280
+tenb:YankeeBondMember
+us-gaap:FairValueInputsLevel3Member
+2024-12-31
+0001660280
+us-gaap:USTreasurySecuritiesMember
+us-gaap:FairValueInputsLevel1Member
+2024-12-31
+0001660280
+us-gaap:USTreasurySecuritiesMember
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0001660280
+us-gaap:USTreasurySecuritiesMember
+us-gaap:FairValueInputsLevel3Member
+2024-12-31
+0001660280
+us-gaap:USTreasurySecuritiesMember
+2024-12-31
+0001660280
+us-gaap:EquitySecuritiesMember
+us-gaap:FairValueInputsLevel3Member
+2025-09-30
+0001660280
+us-gaap:EquitySecuritiesMember
+us-gaap:FairValueInputsLevel3Member
+2024-12-31
+0001660280
+us-gaap:DebtSecuritiesMember
+us-gaap:FairValueInputsLevel3Member
+2025-09-30
+0001660280
+us-gaap:DebtSecuritiesMember
+us-gaap:FairValueInputsLevel3Member
+2024-12-31
+0001660280
+us-gaap:ComputerEquipmentMember
+2025-09-30
+0001660280
+us-gaap:ComputerEquipmentMember
+2024-12-31
+0001660280
+us-gaap:SoftwareDevelopmentMember
+2025-09-30
+0001660280
+us-gaap:SoftwareDevelopmentMember
+2024-12-31
+0001660280
+us-gaap:FurnitureAndFixturesMember
+2025-09-30
+0001660280
+us-gaap:FurnitureAndFixturesMember
+2024-12-31
+0001660280
+us-gaap:LeaseholdsAndLeaseholdImprovementsMember
+2025-09-30
+0001660280
+us-gaap:LeaseholdsAndLeaseholdImprovementsMember
+2024-12-31
+0001660280
+tenb:LeaseholdImprovementsAndFurnitureAndFixturesImpairmentMember
+2024-01-01
+2024-09-30
+0001660280
+tenb:ApexSecurityIncMember
+2025-06-30
+0001660280
+tenb:ApexSecurityIncMember
+2025-06-01
+2025-06-30
+0001660280
+tenb:VulcanCyberLtdMember
+2025-02-28
+0001660280
+tenb:VulcanCyberLtdMember
+2025-02-01
+2025-02-28
+0001660280
+tenb:ApexSecurityIncMember
+2025-09-30
+0001660280
+tenb:ApexSecurityIncMember
+us-gaap:TechnologyBasedIntangibleAssetsMember
+2025-06-01
+2025-06-30
+0001660280
+tenb:VulcanCyberLtdMember
+us-gaap:TechnologyBasedIntangibleAssetsMember
+2025-02-01
+2025-02-28
+0001660280
+us-gaap:SellingAndMarketingExpenseMember
+2025-07-01
+2025-09-30
+0001660280
+us-gaap:SellingAndMarketingExpenseMember
+2024-07-01
+2024-09-30
+0001660280
+us-gaap:SellingAndMarketingExpenseMember
+2025-01-01
+2025-09-30
+0001660280
+us-gaap:SellingAndMarketingExpenseMember
+2024-01-01
+2024-09-30
+0001660280
+us-gaap:ResearchAndDevelopmentExpenseMember
+2025-07-01
+2025-09-30
+0001660280
+us-gaap:ResearchAndDevelopmentExpenseMember
+2024-07-01
+2024-09-30
+0001660280
+us-gaap:ResearchAndDevelopmentExpenseMember
+2025-01-01
+2025-09-30
+0001660280
+us-gaap:ResearchAndDevelopmentExpenseMember
+2024-01-01
+2024-09-30
+0001660280
+us-gaap:GeneralAndAdministrativeExpenseMember
+2025-07-01
+2025-09-30
+0001660280
+us-gaap:GeneralAndAdministrativeExpenseMember
+2024-07-01
+2024-09-30
+0001660280
+us-gaap:GeneralAndAdministrativeExpenseMember
+2025-01-01
+2025-09-30
+0001660280
+us-gaap:GeneralAndAdministrativeExpenseMember
+2024-01-01
+2024-09-30
+0001660280
+us-gaap:TechnologyBasedIntangibleAssetsMember
+2025-09-30
+0001660280
+us-gaap:TechnologyBasedIntangibleAssetsMember
+2024-12-31
+0001660280
+us-gaap:TradeNamesMember
+2025-09-30
+0001660280
+us-gaap:TradeNamesMember
+2024-12-31
+0001660280
+tenb:LeaseholdImprovementsAndFurnitureAndFixturesImpairmentMember
+2024-06-01
+2024-06-30
+0001660280
+us-gaap:SecuredDebtMember
+2021-07-31
+0001660280
+us-gaap:RevolvingCreditFacilityMember
+2021-07-31
+0001660280
+us-gaap:SecuredDebtMember
+2025-09-30
+0001660280
+us-gaap:SecuredDebtMember
+2021-07-01
+2021-07-31
+0001660280
+us-gaap:SecuredDebtMember
+tenb:CreditAgreementMember
+2025-09-30
+0001660280
+us-gaap:RevolvingCreditFacilityMember
+2025-09-30
+0001660280
+tenb:MicrosoftMember
+2023-12-31
+0001660280
+tenb:AmazonWebServicesAWSMember
+2024-07-31
+0001660280
+us-gaap:LetterOfCreditMember
+us-gaap:LineOfCreditMember
+2025-09-30
+0001660280
+us-gaap:CostOfSalesMember
+2025-07-01
+2025-09-30
+0001660280
+us-gaap:CostOfSalesMember
+2024-07-01
+2024-09-30
+0001660280
+us-gaap:CostOfSalesMember
+2025-01-01
+2025-09-30
+0001660280
+us-gaap:CostOfSalesMember
+2024-01-01
+2024-09-30
+0001660280
+srt:ChiefExecutiveOfficerMember
+2025-01-01
+2025-09-30
+0001660280
+us-gaap:RestrictedStockUnitsRSUMember
+2025-09-30
+0001660280
+us-gaap:RestrictedStockUnitsRSUMember
+2025-01-01
+2025-09-30
+0001660280
+us-gaap:PerformanceSharesMember
+2025-09-30
+0001660280
+us-gaap:PerformanceSharesMember
+2025-01-01
+2025-09-30
+0001660280
+us-gaap:RestrictedStockMember
+2025-09-30
+0001660280
+us-gaap:RestrictedStockMember
+2025-01-01
+2025-09-30
+0001660280
+us-gaap:EmployeeStockMember
+2025-09-30
+0001660280
+us-gaap:EmployeeStockMember
+2025-01-01
+2025-09-30
+0001660280
+us-gaap:RestrictedStockMember
+2024-12-31
+0001660280
+us-gaap:RestrictedStockUnitsRSUMember
+2024-12-31
+0001660280
+us-gaap:PerformanceSharesMember
+2024-12-31
+0001660280
+tenb:EquityIncentivePlan2018Member
+2025-01-01
+2025-01-31
+0001660280
+tenb:EquityIncentivePlan2018Member
+2025-09-30
+0001660280
+2024-01-01
+2024-12-31
+0001660280
+srt:MinimumMember
+us-gaap:EmployeeStockMember
+2025-01-01
+2025-09-30
+0001660280
+srt:MaximumMember
+us-gaap:EmployeeStockMember
+2025-01-01
+2025-09-30
+0001660280
+srt:MinimumMember
+us-gaap:EmployeeStockMember
+2024-01-01
+2024-09-30
+0001660280
+srt:MaximumMember
+us-gaap:EmployeeStockMember
+2024-01-01
+2024-09-30
+0001660280
+us-gaap:EmployeeStockMember
+2024-01-01
+2024-09-30
+0001660280
+us-gaap:EmployeeStockMember
+2025-01-01
+2025-01-31
+0001660280
+us-gaap:RestrictedStockUnitsRSUMember
+2025-01-01
+2025-09-30
+0001660280
+us-gaap:RestrictedStockUnitsRSUMember
+2024-01-01
+2024-09-30
+0001660280
+us-gaap:EmployeeStockOptionMember
+2025-01-01
+2025-09-30
+0001660280
+us-gaap:EmployeeStockOptionMember
+2024-01-01
+2024-09-30
+0001660280
+us-gaap:EmployeeStockMember
+2025-01-01
+2025-09-30
+0001660280
+us-gaap:EmployeeStockMember
+2024-01-01
+2024-09-30
+0001660280
+us-gaap:PerformanceSharesMember
+2025-01-01
+2025-09-30
+0001660280
+us-gaap:PerformanceSharesMember
+2024-01-01
+2024-09-30
+0001660280
+us-gaap:RestrictedStockMember
+2025-01-01
+2025-09-30
+0001660280
+us-gaap:RestrictedStockMember
+2024-01-01
+2024-09-30
+0001660280
+srt:AmericasMember
+2025-07-01
+2025-09-30
+0001660280
+srt:AmericasMember
+2024-07-01
+2024-09-30
+0001660280
+srt:AmericasMember
+2025-01-01
+2025-09-30
+0001660280
+srt:AmericasMember
+2024-01-01
+2024-09-30
+0001660280
+us-gaap:EMEAMember
+2025-07-01
+2025-09-30
+0001660280
+us-gaap:EMEAMember
+2024-07-01
+2024-09-30
+0001660280
+us-gaap:EMEAMember
+2025-01-01
+2025-09-30
+0001660280
+us-gaap:EMEAMember
+2024-01-01
+2024-09-30
+0001660280
+srt:AsiaPacificMember
+2025-07-01
+2025-09-30
+0001660280
+srt:AsiaPacificMember
+2024-07-01
+2024-09-30
+0001660280
+srt:AsiaPacificMember
+2025-01-01
+2025-09-30
+0001660280
+srt:AsiaPacificMember
+2024-01-01
+2024-09-30
+0001660280
+country:US
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2025-07-01
+2025-09-30
+0001660280
+country:US
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2025-01-01
+2025-09-30
+0001660280
+country:US
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2024-07-01
+2024-09-30
+0001660280
+country:US
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2024-01-01
+2024-09-30
+0001660280
+country:US
+2025-09-30
+0001660280
+country:US
+2024-12-31
+0001660280
+us-gaap:NonUsMember
+2025-09-30
+0001660280
+us-gaap:NonUsMember
+2024-12-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+__________________
+FORM 
+10-Q
+
+__________________
+☒
+Quarterly Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+For the Quarterly Period Ended 
+September 30, 2025
+
+or
+☐
+Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+For the transition period from _____ to _____
+Commission file number 
+001-38600
+
+__________________
+TENABLE HOLDINGS, INC.
+
+(Exact name of registrant as specified in its charter)
+__________________
+Delaware
+
+47-5580846
+(State or other jurisdiction of incorporation or organization)
+
+(I.R.S. Employer Identification Number)
+6100 Merriweather Drive
+, 
+Columbia
+, 
+Maryland
+
+21044
+
+(Address of principal executive offices, including zip code)
+(
+410
+) 
+872-0555
+
+(Registrant’s telephone number, including area code)
+__________________
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.01 per share
+TENB
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    
+Yes
+
+☒
+      No      
+☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).    
+Yes
+
+☒
+     No  
+☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☒
+
+Accelerated filer
+☐
+Non-accelerated filer
+☐
+
+Emerging growth company
+☐
+
+Smaller reporting company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes    
+☐
+      No    
+☒
+The number of shares of the Registrant's common stock outstanding as of October 31, 2025 was 
+119,344,266
+.
+TENABLE HOLDINGS, INC.
+TABLE OF CONTENTS
+Page
+PART I – FINANCIAL INFORMATION
+Item 1.
+Financial Statements
+Consolidated Balance Sheets
+3
+Consolidated Statements of Operations
+4
+Consolidated Statements of Comprehensive Income (Loss)
+5
+Consolidated Statements of Stockholders' Equity
+6
+Consolidated Statements of Cash Flows
+7
+Notes to Consolidated Financial Statements
+8
+1. Business and Summary of Significant Accounting Policies
+8
+2. Revenue
+9
+3. Cash Equivalents and Short-Term Investments
+10
+4. Fair Value Measurements
+11
+5. Property and Equipment, Net
+13
+6. Acquisitions, Goodwill and Intangible Assets
+13
+7. Leases
+15
+8. Debt
+16
+9. Commitments and Contingencies
+17
+10. Stock-Based Compensation
+17
+11. Income Taxes
+19
+12. Net Earnings (Loss) Per Share
+19
+13. Segment and Geographic Information
+20
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+21
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+37
+Item 4.
+Controls and Procedures
+37
+PART II – OTHER INFORMATION
+Item 1.
+Legal Proceedings
+39
+Item 1A.
+Risk Factors
+39
+Item 2.
+Unregistered Sales of Equity Securities and Issuer Purchases of Equity Securities
+43
+Item 6.
+Exhibits
+44
+
+Signatures
+46
+Where You Can Find More Information
+Investors and others should note that we may announce material business and financial information to our investors using our investor relations website (https://investors.tenable.com), our filings with the Securities and Exchange Commission (SEC), our website, webcasts, press releases, and conference calls. We use these mediums, including our website, to communicate with investors and the general public about our company, our products, and other issues, and for complying with our disclosure obligations under Regulation FD. It is possible that the information that we make available on our website may be deemed to be material information. We therefore encourage investors and others interested in our company to review the information that we make available on our website, in addition to following our SEC filings, our webcasts, press releases, and conference calls. The information we post through these channels is not a part of this Quarterly Report on Form 10-Q. These channels may be updated from time to time on our investor relations website.
+2
+Table of Contents
+PART I. FINANCIAL INFORMATION
+
+Item 1.        Financial Statements
+TENABLE HOLDINGS, INC.
+CONSOLIDATED BALANCE SHEETS
+September 30, 2025
+December 31, 2024
+(in thousands, except per share data)
+(unaudited)
+Assets 
+Current assets:
+Cash and cash equivalents
+$
+171,852
+
+$
+328,647
+
+Short-term investments
+211,719
+
+248,547
+
+Accounts receivable (net of allowance for doubtful accounts of $
+845
+ and $
+525
+ at September 30, 2025 and December 31, 2024, respectively)
+200,993
+
+258,734
+
+Deferred commissions
+50,582
+
+51,791
+
+Prepaid expenses and other current assets
+44,186
+
+53,026
+
+Total current assets 
+679,332
+
+940,745
+
+Property and equipment, net 
+40,471
+
+39,265
+
+Deferred commissions (net of current portion)
+64,518
+
+67,914
+
+Operating lease right-of-use assets
+35,488
+
+45,139
+
+Acquired intangible assets, net
+122,078
+
+94,461
+
+Goodwill
+697,886
+
+541,292
+
+Other assets 
+12,849
+
+13,303
+
+Total assets 
+$
+1,652,622
+
+$
+1,742,119
+
+Liabilities and Stockholders’ Equity
+Current liabilities: 
+Accounts payable and accrued expenses
+$
+20,089
+
+$
+19,981
+
+Accrued compensation
+48,429
+
+55,784
+
+Deferred revenue
+639,614
+
+650,372
+
+Operating lease liabilities
+8,327
+
+6,801
+
+Other current liabilities
+3,852
+
+5,154
+
+Total current liabilities 
+720,311
+
+738,092
+
+Deferred revenue (net of current portion) 
+170,889
+
+182,815
+
+Term loan, net of issuance costs (net of current portion)
+354,820
+
+356,705
+
+Operating lease liabilities (net of current portion)
+52,053
+
+56,224
+
+Other liabilities 
+10,173
+
+8,329
+
+Total liabilities 
+1,308,246
+
+1,342,165
+
+Stockholders’ equity:
+Common stock (par value: $
+0.01
+; 
+500,000
+ shares authorized; 
+128,348
+ and 
+122,371
+ shares issued at September 30, 2025 and December 31, 2024, respectively)
+1,283
+
+1,224
+
+Additional paid-in capital
+1,540,611
+
+1,374,659
+
+Treasury stock (at cost: 
+8,314
+ and 
+2,673
+ shares at September 30, 2025 and December 31, 2024, respectively)
+(
+301,208
+)
+(
+114,911
+)
+Accumulated other comprehensive income
+407
+
+318
+
+Accumulated deficit
+(
+896,717
+)
+(
+861,336
+)
+Total stockholders’ equity
+344,376
+
+399,954
+
+Total liabilities and stockholders’ equity
+$
+1,652,622
+
+$
+1,742,119
+
+The accompanying notes are an integral part of these consolidated financial statements.
+3
+Table of Contents
+TENABLE HOLDINGS, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(Unaudited)
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(in thousands, except per share data)
+2025
+2024
+2025
+2024
+Revenue
+$
+252,440
+
+$
+227,088
+
+$
+738,872
+
+$
+664,290
+
+Cost of revenue
+56,753
+
+50,499
+
+163,647
+
+148,229
+
+Gross profit
+195,687
+
+176,589
+
+575,225
+
+516,061
+
+Operating expenses:
+Sales and marketing
+99,949
+
+99,083
+
+310,222
+
+300,037
+
+Research and development
+56,265
+
+48,020
+
+168,724
+
+136,896
+
+General and administrative
+32,337
+
+31,569
+
+114,302
+
+92,889
+
+Restructuring
+—
+
+—
+
+—
+
+6,070
+
+Total operating expenses
+188,551
+
+178,672
+
+593,248
+
+535,892
+
+Income (loss) from operations
+7,136
+
+(
+2,083
+)
+(
+18,023
+)
+(
+19,831
+)
+Interest income
+3,590
+
+5,989
+
+12,597
+
+17,587
+
+Interest expense
+(
+7,213
+)
+(
+8,148
+)
+(
+21,363
+)
+(
+24,333
+)
+Other (expense) income, net
+(
+703
+)
+359
+
+(
+204
+)
+(
+858
+)
+Income (loss) before income taxes
+2,810
+
+(
+3,883
+)
+(
+26,993
+)
+(
+27,435
+)
+Provision for income taxes
+550
+
+5,328
+
+8,388
+
+10,734
+
+Net income (loss)
+$
+2,260
+
+$
+(
+9,211
+)
+$
+(
+35,381
+)
+$
+(
+38,169
+)
+Net earnings (loss) per share:
+Basic
+$
+0.02
+
+$
+(
+0.08
+)
+$
+(
+0.29
+)
+$
+(
+0.32
+)
+Diluted
+0.02
+
+(
+0.08
+)
+(
+0.29
+)
+(
+0.32
+)
+Weighted-average shares used to compute net earnings (loss) per share:
+Basic
+120,483
+
+119,169
+
+120,516
+
+118,466
+
+Diluted
+121,953
+
+119,169
+
+120,516
+
+118,466
+
+The accompanying notes are an integral part of these consolidated financial statements.
+4
+Table of Contents
+TENABLE HOLDINGS, INC.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS)
+(Unaudited)
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(in thousands)
+2025
+2024
+2025
+2024
+Net income (loss)
+$
+2,260
+
+$
+(
+9,211
+)
+$
+(
+35,381
+)
+$
+(
+38,169
+)
+Other comprehensive income, net of tax:
+Unrealized gains on available-for-sale securities, net 
+145
+
+1,225
+
+89
+
+916
+
+Other comprehensive income
+145
+
+1,225
+
+89
+
+916
+
+Comprehensive income (loss)
+$
+2,405
+
+$
+(
+7,986
+)
+$
+(
+35,292
+)
+$
+(
+37,253
+)
+The accompanying notes are an integral part of these consolidated financial statements.
+5
+Table of Contents
+TENABLE HOLDINGS, INC.
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+(Unaudited)
+Additional
+Paid-in
+Capital
+Accumulated
+Other
+Comprehensive Income (Loss)
+Total
+Stockholders’
+Equity
+Common Stock
+Treasury Stock
+Accumulated Deficit
+(in thousands)
+Shares
+Amount
+Balance at June 30, 2025
+127,352
+
+$
+1,274
+
+$
+1,489,379
+
+$
+(
+241,239
+)
+$
+262
+
+$
+(
+898,977
+)
+$
+350,699
+
+Exercise of stock options
+17
+
+—
+
+233
+
+— 
+— 
+— 
+233
+
+Vesting of restricted stock units
+792
+
+8
+
+(
+8
+)
+— 
+— 
+— 
+—
+
+Vesting of performance stock units
+17
+
+— 
+— 
+— 
+— 
+— 
+— 
+Forfeiture of restricted stock awards
+(
+50
+)
+(
+1
+)
+1
+
+— 
+— 
+— 
+—
+
+Issuance of common stock under employee stock purchase plan
+220
+
+2
+
+5,768
+
+— 
+— 
+— 
+5,770
+
+Purchase of treasury stock
+— 
+— 
+— 
+(
+59,969
+)
+— 
+— 
+(
+59,969
+)
+Stock-based compensation
+— 
+— 
+45,238
+
+— 
+— 
+— 
+45,238
+
+Other comprehensive income
+— 
+— 
+— 
+— 
+145
+
+— 
+145
+
+Net income
+— 
+— 
+— 
+— 
+— 
+2,260
+
+2,260
+
+Balance at September 30, 2025
+128,348
+
+$
+1,283
+
+$
+1,540,611
+
+$
+(
+301,208
+)
+$
+407
+
+$
+(
+896,717
+)
+$
+344,376
+
+Balance at December 31, 2024
+122,371
+
+$
+1,224
+
+$
+1,374,659
+
+$
+(
+114,911
+)
+$
+318
+
+$
+(
+861,336
+)
+$
+399,954
+
+Exercise of stock options
+2,034
+
+20
+
+2,400
+
+— 
+— 
+— 
+2,420
+
+Vesting of restricted stock units
+3,089
+
+31
+
+(
+31
+)
+— 
+— 
+— 
+—
+
+Vesting of performance stock units
+198
+
+2
+
+(
+2
+)
+— 
+— 
+— 
+—
+
+Issuance of restricted stock awards, net
+137
+
+1
+
+(
+1
+)
+— 
+— 
+— 
+—
+
+Issuance of common stock under employee stock purchase plan
+519
+
+5
+
+15,477
+
+— 
+— 
+— 
+15,482
+
+Taxes paid related to net share settlement of equity awards
+— 
+— 
+— 
+(
+1,329
+)
+— 
+— 
+(
+1,329
+)
+Purchase of treasury stock
+— 
+— 
+— 
+(
+184,968
+)
+— 
+— 
+(
+184,968
+)
+Fair value of replacement equity attributable to pre-acquisition service
+— 
+— 
+146
+
+— 
+— 
+— 
+146
+
+Stock-based compensation
+— 
+— 
+147,963
+
+— 
+— 
+— 
+147,963
+
+Other comprehensive loss
+— 
+— 
+— 
+— 
+89
+
+— 
+89
+
+Net loss
+— 
+— 
+— 
+— 
+— 
+(
+35,381
+)
+(
+35,381
+)
+Balance at September 30, 2025
+128,348
+
+$
+1,283
+
+$
+1,540,611
+
+$
+(
+301,208
+)
+$
+407
+
+$
+(
+896,717
+)
+$
+344,376
+
+Balance at June 30, 2024
+120,461
+
+$
+1,205
+
+$
+1,281,545
+
+$
+(
+64,925
+)
+$
+(
+271
+)
+$
+(
+853,993
+)
+$
+363,561
+
+Exercise of stock options
+109
+
+1
+
+662
+
+— 
+— 
+— 
+663
+
+Vesting of restricted stock units
+561
+
+5
+
+(
+5
+)
+— 
+— 
+— 
+—
+
+Vesting of performance stock units
+19
+
+— 
+— 
+— 
+— 
+— 
+— 
+Issuance of common stock under employee stock purchase plan
+194
+
+2
+
+6,382
+
+— 
+— 
+— 
+6,384
+
+Stock-based compensation
+— 
+— 
+41,933
+
+— 
+— 
+— 
+41,933
+
+Other comprehensive loss
+— 
+— 
+— 
+— 
+1,225
+
+— 
+1,225
+
+Net loss
+— 
+— 
+— 
+— 
+— 
+(
+9,211
+)
+(
+9,211
+)
+Balance at September 30, 2024
+121,344
+
+$
+1,213
+
+$
+1,330,517
+
+$
+(
+64,925
+)
+$
+954
+
+$
+(
+863,204
+)
+$
+404,555
+
+Balance at December 31, 2023
+117,504
+
+$
+1,175
+
+$
+1,185,100
+
+$
+(
+14,934
+)
+$
+38
+
+$
+(
+825,035
+)
+$
+346,344
+
+Exercise of stock options
+756
+
+7
+
+4,791
+
+— 
+— 
+— 
+4,798
+
+Vesting of restricted stock units
+2,497
+
+25
+
+(
+25
+)
+— 
+— 
+— 
+—
+
+Vesting of performance stock units
+88
+
+1
+
+(
+1
+)
+— 
+— 
+— 
+—
+
+Issuance of common stock under employee stock purchase plan
+499
+
+5
+
+16,257
+
+— 
+— 
+— 
+16,262
+
+Purchase of treasury stock
+— 
+— 
+— 
+(
+49,991
+)
+— 
+— 
+(
+49,991
+)
+Fair value of replacement equity attributable to pre-acquisition service
+— 
+— 
+42
+
+— 
+— 
+— 
+42
+
+Stock-based compensation
+— 
+— 
+124,353
+
+— 
+— 
+— 
+124,353
+
+Other comprehensive loss
+— 
+— 
+— 
+— 
+916
+
+— 
+916
+
+Net loss
+— 
+— 
+— 
+— 
+— 
+(
+38,169
+)
+(
+38,169
+)
+Balance at September 30, 2024
+121,344
+
+$
+1,213
+
+$
+1,330,517
+
+$
+(
+64,925
+)
+$
+954
+
+$
+(
+863,204
+)
+$
+404,555
+
+The accompanying notes are an integral part of these consolidated financial statements.
+6
+Table of Contents
+TENABLE HOLDINGS, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited)
+Nine Months Ended September 30,
+(in thousands)
+2025
+2024
+Cash flows from operating activities:
+Net loss
+$
+(
+35,381
+)
+$
+(
+38,169
+)
+Adjustments to reconcile net loss to net cash provided by operating activities:
+Depreciation and amortization
+31,817
+
+24,434
+
+Stock-based compensation
+147,311
+
+122,801
+
+Net accretion of discounts and amortization of premiums on short-term investments
+(
+2,568
+)
+(
+6,141
+)
+Amortization of debt issuance costs
+1,071
+
+1,003
+
+Loss (gain) on other investments
+18
+
+(
+1,452
+)
+Restructuring
+—
+
+4,528
+
+Other
+2,791
+
+4,128
+
+Changes in operating assets and liabilities:
+Accounts receivable
+59,733
+
+26,911
+
+Prepaid expenses and other assets
+16,877
+
+29,868
+
+Accounts payable, accrued expenses and accrued compensation
+(
+9,795
+)
+(
+22,921
+)
+Deferred revenue
+(
+30,413
+)
+(
+3,153
+)
+Other current and noncurrent liabilities
+2,259
+
+(
+5,480
+)
+Net cash provided by operating activities
+183,720
+
+136,357
+
+Cash flows from investing activities:
+Purchases of property and equipment
+(
+11,768
+)
+(
+1,924
+)
+Capitalized software development costs
+(
+2,676
+)
+(
+5,930
+)
+Purchases of short-term investments
+(
+116,687
+)
+(
+227,210
+)
+Sales and maturities of short-term investments
+156,171
+
+234,865
+
+Proceeds from other investments
+852
+
+3,512
+
+Purchases of other investments
+—
+
+(
+1,250
+)
+Business combinations, net of cash acquired
+(
+196,182
+)
+(
+29,162
+)
+Net cash used in investing activities
+(
+170,290
+)
+(
+27,099
+)
+Cash flows from financing activities:
+Payments on term loan
+(
+2,813
+)
+(
+2,813
+)
+Proceeds from stock issued in connection with the employee stock purchase plan
+15,482
+
+16,262
+
+Proceeds from the exercise of stock options
+2,420
+
+4,798
+
+Payments for taxes related to net share settlement of equity awards
+(
+1,329
+)
+—
+
+Purchase of treasury stock
+(
+184,968
+)
+(
+49,991
+)
+Net cash used in financing activities
+(
+171,208
+)
+(
+31,744
+)
+Effect of exchange rate changes on cash and cash equivalents and restricted cash
+983
+
+(
+2,439
+)
+Net (decrease) increase in cash and cash equivalents and restricted cash
+(
+156,795
+)
+75,075
+
+Cash and cash equivalents and restricted cash at beginning of period
+328,647
+
+237,132
+
+Cash and cash equivalents and restricted cash at end of period
+$
+171,852
+
+$
+312,207
+
+Supplemental disclosure of cash flow information:
+Cash paid for interest
+$
+20,287
+
+$
+23,505
+
+Cash paid for income taxes, net of refunds
+9,132
+
+10,073
+
+Supplemental cash flow information related to leases:
+Cash payments for operating leases
+$
+7,348
+
+$
+7,409
+
+The accompanying notes are an integral part of these consolidated financial statements.
+7
+Table of Contents
+TENABLE HOLDINGS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+1. 
+Business and Summary of Significant Accounting Policies 
+Business Description
+Tenable Holdings, Inc. (the “Company,” “we,” "us," or “our”) is a provider of exposure management solutions. Exposure management 
+i
+s the evolution of vulnerability management, advancing risk assessment and prioritization across the entire attack surface – from IT infrastructure to cloud environments to critical infrastructure. We unify security visibility, insight and action across this attack surface, equipping modern organizations to expose and close the cybersecurity gaps that erode business value, reputation and trust.
+Basis of Presentation
+The accompanying consolidated financial statements include the accounts of Tenable Holdings, Inc. and our wholly owned subsidiaries and have been prepared in conformity with United States generally accepted accounting principles (“GAAP”) for interim financial information.
+
+All intercompany accounts and transactions have been eliminated in consolidation.
+The consolidated statements are unaudited and should be read in conjunction with the consolidated financial statements and related notes included in our 2024 Annual Report on Form 10-K ("10-K") filed with the Securities and Exchange Commission on February 24, 2025. The consolidated financial statements have been prepared on a basis consistent with the audited annual consolidated financial statements included in the 10-K and, in the opinion of management, include all adjustments of a normal recurring nature necessary to fairly state our financial position, our results of operations, and cash flows. 
+The results for the three and nine months ended September 30, 2025 are not necessarily indicative of the operating results expected for the year ending December 31, 2025 or any other future period.
+Use of Estimates
+The preparation of consolidated financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the amounts reported in the consolidated financial statements and accompanying notes. These estimates include, but are not limited to, the determination of the estimated economic life of perpetual licenses for revenue recognition, the estimated period of benefit for deferred commissions, the useful lives of long-lived assets, the fair value of acquired intangible assets, the valuation of stock-based compensation, the incremental borrowing rate for operating leases, and the valuation of deferred tax assets and investments. We base these estimates on historical experience and on various other assumptions that we believe to be reasonable. Actual results could differ significantly from these estimates.
+Significant Accounting Policies
+Our significant accounting policies are described in our 10-K. During the nine months ended September 30, 2025, there were no material changes to our significant accounting policies from those described in our 10-K. 
+Recently Issued Accounting Pronouncements
+In December 2023, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU") 2023-09 - Income Taxes (Topic 740): Improvements to Income Tax Disclosures, which requires public entities to provide greater disaggregation within their annual rate reconciliation, including new requirements to present reconciling items on a gross basis in specified categories, disclose both percentages and dollar amounts, and disaggregate individual reconciling items by jurisdiction and nature when the effect of the items meet a quantitative threshold. The guidance also requires disaggregating the annual disclosure of income taxes paid, net of refunds received, by federal (national), state, and 
+8
+Table of Contents
+foreign taxes, with separate presentation of individual jurisdictions that meet a quantitative threshold. The guidance is effective for our annual periods beginning January 1, 2025 on a prospective basis, with a retrospective option. Adopting this guidance will result in additional annual tax disclosures but will not impact our provision for income taxes, deferred tax assets or deferred tax liabilities.
+In November 2024, the FASB issued ASU 2024-03 - Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses, which requires public entities to disclose, on an annual and interim basis, disaggregated information about certain income statement expense line items. The ASU also requires disclosure of the total amount of selling expenses recognized in continuing operations on an annual and interim basis and disclosure of a public business entity’s definition of selling expenses on an annual basis (or in interim reporting periods if the definition is changed). The guidance is effective for our annual periods beginning on January 1, 2027 on a prospective basis, with a retrospective option, and interim reporting periods beginning on January 1, 2028. Early adoption is permitted. We are currently evaluating the impact of adopting this standard on our consolidated financial statements and disclosures.
+In July 2025, the FASB issued ASU 2025-05 - Measurement of Credit Loss for Accounts Receivable and Contract Assets, which provides a practical expedient for the calculation of current expected credit losses for accounts receivable and contract assets, allowing entities to assume that current conditions as of the balance sheet date will persist through the forecast period. The guidance is effective for our interim and annual reporting periods beginning January 1, 2026. We are currently evaluating the impact of adopting this standard on our consolidated financial statements and disclosures.
+In September 2025, the FASB issued ASU 2025-06 - Targeted Improvements to the Accounting for Internal-Use Software, which updates the requirements for capitalization of internal-use software, removing all references to project stages and clarifies the threshold entities apply to begin capitalizing costs. The guidance is effective for our interim and annual reporting periods beginning January 1, 2028. We are currently evaluating the impact of adopting this standard on our consolidated financial statements and disclosures.
+ 2. 
+Revenue
+Disaggregation of Revenue
+The following table presents a summary of revenue:
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(in thousands)
+2025
+2024
+2025
+2024
+Subscription revenue
+$
+232,211
+
+$
+208,554
+
+$
+680,685
+
+$
+608,727
+
+Perpetual license and maintenance revenue
+11,088
+
+11,769
+
+34,051
+
+35,941
+
+Professional services and other revenue
+9,141
+
+6,765
+
+24,136
+
+19,622
+
+Revenue
+$
+252,440
+
+$
+227,088
+
+$
+738,872
+
+$
+664,290
+
+Concentrations 
+We sell and market our products and services through our field sales force that works closely with our channel partners, which includes a network of distributors and resellers, in developing sales opportunities. We use a two-tiered channel model whereby we sell our products and services to our distributors, which in turn sell to resellers, which then sell to end users. Revenue derived through our channel network comprised 
+94
+% of revenue in the three and nine months ended September 30, 2025 and 2024. One of our distributors accounted for 
+32
+% of revenue in the three and nine months ended September 30, 2025 and 
+33
+% and 
+34
+% of revenue in the three and nine months ended September 30, 2024, respectively. That same distributor accounted for 
+28
+% and 
+29
+% of accounts receivable at September 30, 2025 and December 31, 2024, respectively.
+9
+Table of Contents
+Contract Balances
+We generally bill our customers in advance and accounts receivable are recorded when we have the right to invoice the customer. Contract liabilities consist of deferred revenue and include customer billings and payments received in advance of performance under the contract. In the three months ended September 30, 2025 and 2024 and the nine months ended September 30, 2025 and 2024, we recognized revenue of $
+235.8
+ million, $
+209.6
+ million, $
+556.4
+ million and $
+497.3
+ million, respectively, that was included in the deferred revenue balance at the beginning of each respective period.
+Remaining Performance Obligations
+The following summarizes the future estimated revenue related to unsatisfied performance obligations:
+September 30,
+(in thousands)
+2025
+2024
+Remaining performance obligations, short-term
+$
+669,015
+
+$
+592,351
+
+Remaining performance obligations, long-term
+259,849
+
+179,210
+
+Remaining performance obligations
+$
+928,864
+
+$
+771,561
+
+Deferred Commissions
+The following summarizes the activity of deferred incremental costs of obtaining a contract:
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(in thousands)
+2025
+2024
+2025
+2024
+Beginning balance
+$
+115,059
+
+$
+115,529
+
+$
+119,705
+
+$
+121,953
+
+Capitalization of contract acquisition costs
+14,556
+
+12,420
+
+38,294
+
+32,921
+
+Amortization of deferred contract acquisition costs
+(
+14,515
+)
+(
+13,686
+)
+(
+42,899
+)
+(
+40,611
+)
+Ending balance
+$
+115,100
+
+$
+114,263
+
+$
+115,100
+
+$
+114,263
+
+3. 
+Cash Equivalents and Short-Term Investments
+The following tables summarize the amortized cost, unrealized gain and loss and estimated fair value of cash equivalents and short-term investments:
+September 30, 2025
+(in thousands)
+Amortized Cost
+Unrealized Gain
+Unrealized Loss
+Estimated Fair Value
+Cash equivalents
+Money market funds
+$
+60,224
+
+$
+— 
+$
+— 
+$
+60,224
+
+Total cash equivalents
+$
+60,224
+
+$
+— 
+$
+— 
+$
+60,224
+
+Short-term investments
+Commercial paper
+$
+7,207
+
+$
+3
+
+$
+—
+
+$
+7,210
+
+Corporate bonds
+95,894
+
+221
+
+(
+13
+)
+96,102
+
+Asset backed securities
+14,979
+
+34
+
+—
+
+15,013
+
+Yankee bonds
+9,699
+
+18
+
+—
+
+9,717
+
+U.S. Treasury and agency obligations
+83,533
+
+154
+
+(
+10
+)
+83,677
+
+Total short-term investments
+$
+211,312
+
+$
+430
+
+$
+(
+23
+)
+$
+211,719
+
+10
+Table of Contents
+December 31, 2024
+(in thousands)
+Amortized Cost
+Unrealized Gain
+Unrealized Loss
+Estimated Fair Value
+Cash equivalents
+Money market funds
+$
+190,750
+
+$
+— 
+$
+— 
+$
+190,750
+
+Total cash equivalents
+$
+190,750
+
+$
+— 
+$
+— 
+$
+190,750
+
+Short-term investments
+Commercial paper
+$
+41,610
+
+$
+—
+
+$
+(
+6
+)
+$
+41,604
+
+Corporate bonds
+95,267
+
+208
+
+(
+65
+)
+95,410
+
+Asset backed securities
+30,740
+
+63
+
+(
+7
+)
+30,796
+
+Yankee bonds
+13,998
+
+16
+
+(
+7
+)
+14,007
+
+U.S. Treasury and agency obligations
+66,614
+
+155
+
+(
+39
+)
+66,730
+
+Total short-term investments
+$
+248,229
+
+$
+442
+
+$
+(
+124
+)
+$
+248,547
+
+We considered the extent to which any unrealized losses on our short-term investments were driven by credit risk and other factors, including market risk, and if it is more-likely-than-not that we would have to sell the security before the recovery of the amortized cost basis. At September 30, 2025 and December 31, 2024, our unrealized losses were due to changes in market interest rates compared to when the investments were initiated. We do not believe any unrealized losses represent credit losses, and it is unlikely we would sell the investments before we would recover their amortized cost basis.
+The contractual maturities of our short-term investments are as follows:
+September 30, 2025
+December 31, 2024
+(in thousands)
+Amortized Cost
+Estimated Fair Value
+Amortized Cost
+Estimated Fair Value
+Due within one year
+$
+174,388
+
+$
+174,744
+
+$
+204,156
+
+$
+204,532
+
+Due between one and two years
+36,924
+
+36,975
+
+44,073
+
+44,015
+
+Total short-term investments
+$
+211,312
+
+$
+211,719
+
+$
+248,229
+
+$
+248,547
+
+At September 30, 2025 and December 31, 2024, cash and cash equivalents included $
+8.5
+ million and $
+8.2
+ million, respectively, of restricted cash related to collateral for outstanding letters of credit and an operating lease.
+4. 
+Fair Value Measurements
+We measure certain financial instruments at fair value using a fair value hierarchy. In the hierarchy, assets are classified based on the lowest level inputs used in valuation into the following categories:
+•
+Level 1
+ — Quoted prices in active markets for identical assets and liabilities;
+•
+Level 2
+ — Observable inputs including quoted market prices for similar assets and liabilities in active markets, quoted prices for identical assets and liabilities in inactive markets, or inputs that are corroborated by observable market data; and
+•
+Level 3
+ — Unobservable inputs.
+11
+Table of Contents
+The following tables summarize assets that are measured at fair value on a recurring basis:
+September 30, 2025
+(in thousands)
+Level 1
+Level 2
+Level 3
+Total
+Cash equivalents
+Money market funds
+$
+60,224
+
+$
+—
+
+$
+—
+
+$
+60,224
+
+Total cash equivalents
+$
+60,224
+
+$
+—
+
+$
+—
+
+$
+60,224
+
+Short-term investments
+Commercial paper
+$
+—
+
+$
+7,210
+
+$
+—
+
+$
+7,210
+
+Corporate bonds
+—
+
+96,102
+
+—
+
+96,102
+
+Asset backed securities
+—
+
+15,013
+
+—
+
+15,013
+
+Yankee bonds
+—
+
+9,717
+
+—
+
+9,717
+
+U.S. Treasury and agency obligations
+—
+
+83,677
+
+—
+
+83,677
+
+Total short-term investments
+$
+—
+
+$
+211,719
+
+$
+—
+
+$
+211,719
+
+December 31, 2024
+(in thousands)
+Level 1
+Level 2
+Level 3
+Total
+Cash equivalents
+Money market funds
+$
+190,750
+
+$
+—
+
+$
+—
+
+$
+190,750
+
+Total cash equivalents
+$
+190,750
+
+$
+—
+
+$
+—
+
+$
+190,750
+
+Short-term investments
+Commercial paper
+$
+—
+
+$
+41,604
+
+$
+—
+
+$
+41,604
+
+Corporate bonds
+—
+
+95,410
+
+—
+
+95,410
+
+Asset backed securities
+—
+
+30,796
+
+—
+
+30,796
+
+Yankee bonds
+—
+
+14,007
+
+—
+
+14,007
+
+U.S. Treasury and agency obligations
+—
+
+66,730
+
+—
+
+66,730
+
+Total short-term investments
+$
+—
+
+$
+248,547
+
+$
+—
+
+$
+248,547
+
+Other Investments
+Our investments in privately held securities were as follows:
+(in thousands)
+September 30, 2025
+December 31, 2024
+Equity securities
+$
+6,702
+
+$
+6,701
+
+Debt and other securities
+1,000
+
+1,871
+
+Total other investments
+$
+7,702
+
+$
+8,572
+
+Other investments are classified as Level 3 as they do not have readily determinable market values.
+In the nine months ended September 30, 2025, we received $
+0.9
+ million in proceeds from one of our SAFE investments.
+We did not have any liabilities measured and recorded at fair value on a recurring basis at September 30, 2025 and December 31, 2024.
+12
+Table of Contents
+5. 
+Property and Equipment, Net
+Property and equipment, net consisted of the following:
+(in thousands)
+September 30, 2025
+December 31, 2024
+Computer software and equipment
+$
+21,862
+$
+21,051
+Internally developed software
+42,184
+39,944
+Furniture and fixtures
+5,801
+5,140
+Leasehold improvements
+32,756
+24,524
+Total
+102,603
+90,659
+Less: accumulated depreciation and amortization
+(
+62,132
+)
+(
+51,394
+)
+Property and equipment, net
+$
+40,471
+$
+39,265
+Depreciation and amortization related to property and equipment was $
+4.3
+ million, $
+3.6
+ million, $
+12.6
+ million and $
+10.0
+ million in the three months ended September 30, 2025 and 2024 and the nine months ended September 30, 2025 and 2024, respectively.
+In the nine months ended September 30, 2024, we recorded a $
+4.5
+ million impairment for furniture and fixtures and leasehold improvements. See Note 7 for additional information.
+6. 
+Acquisitions, Goodwill and Intangible Assets
+Acquisitions
+In June 2025, we acquired Apex Security, Inc. ("Apex"), an innovator in securing the rapidly expanding AI attack surface. This acquisition is expected to strengthen our ability to help organizations identify and reduce cyber risk, adding the ability to govern usage, enforce policy, and control exposure across both the AI that organizations use and the AI they build. We acquired 
+100
+% of Apex's equity through a share purchase agreement for total consideration of $
+47.8
+ million, including $
+47.7
+ million in cash, net of $
+2.0
+ million cash acquired, and $
+0.1
+ million fair value of replacement equity.
+In February 2025, we acquired Vulcan Cyber Ltd. ("Vulcan"), an innovator in cyber risk management. This acquisition is expected to add enhanced visibility, extended third-party data flows, risk prioritization and optimized remediation to strengthen our Tenable One Exposure Management platform. We acquired 
+100
+% of Vulcan's equity through a share purchase agreement for total cash consideration of $
+148.5
+ million, net of $
+2.3
+ million cash acquired.
+Cash consideration, net of cash acquired, was preliminarily allocated as follows:
+(in thousands)
+Apex
+Vulcan
+Accounts receivable
+$
+62
+
+$
+2,158
+
+Intangible assets
+6,800
+
+40,000
+
+Goodwill
+41,288
+
+115,306
+
+Deferred revenue
+(
+34
+)
+(
+7,695
+)
+Other liabilities, net
+(
+333
+)
+(
+1,224
+)
+Total purchase price
+$
+47,783
+
+$
+148,545
+
+Intangible assets acquired during the nine months ended September 30, 2025 included Apex's proprietary technology for $
+6.8
+ million with an estimated useful life of 
+5
+ years and Vulcan's proprietary technology for $
+40.0
+ million with an estimated useful life of 
+7
+ years.
+We are still finalizing the allocation of the purchase price for Vulcan and Apex, which may change as additional information becomes available. 
+13
+Table of Contents
+The results of operations of Vulcan and Apex are included in our consolidated statements of operations from the acquisition date and were not material. Pro forma results of operations are not presented as they are not material to the consolidated statement of operations.
+Acquisition-related expenses are included in our consolidated statements of operations as follows:
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(in thousands)
+2025
+2024
+2025
+2024
+Sales and marketing
+$
+8
+
+$
+3
+
+$
+1,320
+
+$
+52
+
+Research and development
+3
+
+—
+
+1,774
+
+(
+20
+)
+General and administrative
+102
+
+357
+
+3,721
+
+1,252
+
+Total acquisition-related expenses
+$
+113
+
+$
+360
+
+$
+6,815
+
+$
+1,284
+
+Goodwill and Acquired Intangible Assets
+The changes in the carrying amount of goodwill are as follows:
+(in thousands)
+Balance at December 31, 2024
+$
+541,292
+Acquired goodwill
+156,594
+Balance at September 30, 2025
+$
+697,886
+The excess purchase consideration over the fair value of acquired assets and liabilities is recorded as goodwill. The acquired goodwill reflects the synergies we expect from marketing and selling new capabilities from Vulcan and Apex to our customers. Acquired goodwill is generally not tax deductible. 
+Acquired intangible assets subject to amortization are as follows:
+September 30, 2025
+December 31, 2024
+(in thousands)
+Gross Carrying Amount
+Accumulated Amortization
+Net Carrying Amount
+Gross Carrying Amount
+Accumulated Amortization
+Net Carrying Amount
+Acquired technology
+$
+196,237
+
+$
+(
+74,159
+)
+$
+122,078
+
+$
+149,437
+
+$
+(
+54,976
+)
+$
+94,461
+
+Trade name
+490
+
+(
+490
+)
+—
+
+490
+
+(
+490
+)
+—
+
+$
+196,727
+
+$
+(
+74,649
+)
+$
+122,078
+
+$
+149,927
+
+$
+(
+55,466
+)
+$
+94,461
+
+Amortization of acquired intangible assets was $
+6.8
+ million, $
+5.0
+ million, $
+19.2
+ million and $
+14.4
+ million in the three months ended September 30, 2025 and 2024, and the nine months ended September 30, 2025 and 2024, respectively. At September 30, 2025, our acquired intangible assets are expected to be amortized over an estimated remaining weighted average period of 
+5.1
+ years.
+14
+Table of Contents
+At September 30, 2025, estimated future amortization of acquired intangible assets is as follows:
+(in thousands)
+Year ending December 31,
+2025
+$
+6,783
+
+2026
+26,944
+
+2027
+24,915
+
+2028
+21,872
+
+2029
+18,252
+
+Thereafter
+23,312
+
+Total
+$
+122,078
+
+7. 
+Leases
+The components of lease expense were as follows:
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(in thousands)
+2025
+2024
+2025
+2024
+Operating lease cost
+(1)
+$
+2,231
+
+$
+1,906
+
+$
+7,464
+
+$
+5,691
+
+_______________
+(1)
+
+Excludes sublease income.
+In June 2024, we executed a sublease of a portion of our corporate headquarters through February 2032 and recognized $
+4.5
+ million of restructuring expense related to the associated impairment of leasehold improvements and furniture and fixtures. 
+Sublease income, which is recorded as a reduction of rent expense, was $
+0.4
+ million, $
+0.4
+ million, $
+1.2
+ million and $
+0.4
+ million in the three months ended September 30, 2025 and 2024 and the nine months ended September 30, 2025 and 2024, respectively.
+Rent expense for short-term leases in the three and nine months ended September 30, 2025 and 2024 was not material.
+Supplemental information related to leases was as follows:
+September 30, 2025
+December 31, 2024
+Operating leases
+Weighted average remaining lease term
+5.9
+ years
+6.5
+ years
+Weighted average discount rate
+6.2
+%
+6.1
+%
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(in thousands)
+2025
+2024
+2025
+2024
+ROU assets obtained in exchange for lease obligations
+Operating leases
+$
+—
+
+$
+—
+
+$
+359
+
+$
+806
+
+15
+Table of Contents
+Maturities of operating lease liabilities at September 30, 2025 were as follows:
+(in thousands)
+Year ending December 31,
+2025
+$
+2,191
+
+2026
+12,752
+
+2027
+12,181
+
+2028
+11,531
+
+2029
+11,172
+
+Thereafter
+22,703
+
+Total lease payments
+72,530
+
+Less: Imputed interest
+(
+12,150
+)
+Total
+$
+60,380
+
+Operating lease payments in the table above do not include $
+0.4
+ million, $
+1.7
+ million, $
+1.8
+ million, $
+1.9
+ million, $
+1.9
+ million and $
+4.5
+ million of sublease payments we expect to receive in 2025, 2026, 2027, 2028, 2029 and thereafter, respectively.
+8. 
+Debt 
+Credit Agreement
+In July 2021, we entered into a credit agreement ("Credit Agreement") which is comprised of:
+•
+a $
+375.0
+ million senior secured term loan facility ("Term Loan"); and 
+•
+a $
+50.0
+ million senior secured revolving credit facility ("Revolving Credit Facility").
+The table below summarizes the carrying value of the Term Loan:
+(in thousands)
+September 30, 2025
+Term loan
+$
+360,937
+
+Less: Unamortized debt discount and issuance costs
+(
+3,596
+)
+Term loan, net of issuance costs
+357,341
+
+Less: Term loan, net, current 
+(1)
+(
+2,521
+)
+Term loan, net of issuance costs (net of current portion)
+$
+354,820
+
+_______________
+(1)
+    Term loan, net current is included in other current liabilities 
+on our consolidated balance sheets.
+The Term Loan bears interest at a rate of 
+2.75
+% per annum over the Secured Overnight Financing Rate ("SOFR"), subject to a 
+0.50
+% floor, plus a credit spread adjustment depending on the interest period. The Term Loan is being amortized at 
+1
+% per annum in equal quarterly installments until the final payment of $
+350.6
+ million on the July 7, 2028 maturity date. 
+Our Term Loan is recorded at its carrying value. At September 30, 2025, the fair value of our Term Loan was approximately $
+362.7
+ million. In the fair value hierarchy, our Term Loan is classified as Level 2 as it is traded in less active markets.
+16
+Table of Contents
+The maturities of the Term Loan at September 30, 2025 were as follows:
+(in thousands)
+Year ending December 31,
+2025
+$
+937
+
+2026
+3,750
+
+2027
+3,750
+
+2028
+352,500
+
+Total
+$
+360,937
+
+We may be subject to mandatory Term Loan prepayments related to the excess cash flow provisions. These prepayments would only be required if our first lien net leverage ratio (as defined in our Credit Agreement) exceeds 
+3.5
+ at the end of each year. At September 30, 2025, our first lien net leverage ratio was 
+0.87
+.
+At September 30, 2025, we had $
+0.2
+ million of standby letters of credit outstanding under our Revolving Credit Facility related to one of our operating leases. At September 30, 2025, we were in compliance with the covenants under the Credit Agreement.
+9. 
+Commitments and Contingencies
+Commitments
+In December 2023, we entered into a contract with Microsoft for cloud services from February 2024 through January 2027. Under the terms of the contract we committed to spend €
+28.5
+ million. If we do not meet our commitment by the end of the term, we may be required to pay the difference. As of September 30, 2025, we have spent €
+13.0
+ million of our commitment.
+In July 2024, we entered into a new contract with Amazon Web Services, Inc. ("AWS") for cloud services, in which we committed to spend $
+59.7
+ million, $
+77.6
+ million and $
+93.0
+ million in years one, two and three, respectively, for a total commitment of $
+230.3
+ million from August 2024 to July 2027. As of September 30, 2025, we have met our first year commitment and we have spent $
+11.2
+ million of our second year commitment.
+Letters of Credit
+At September 30, 2025, we had $
+5.7
+ million of standby letters of credit related to our grant agreements with the State of Maryland and our operating leases. Collateral for $
+5.5
+ million of our letters of credit was classified as restricted cash in cash and cash equivalents.
+10. 
+Stock-Based Compensation
+Stock-based compensation expense included in the consolidated statements of operations was as follows: 
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(in thousands)
+2025
+2024
+2025
+2024
+Cost of revenue
+$
+3,495
+$
+3,216
+$
+10,270
+$
+9,486
+Sales and marketing
+17,051
+15,941
+51,499
+47,517
+Research and development
+14,174
+12,435
+42,441
+35,395
+General and administrative
+(1)
+10,162
+10,092
+43,101
+30,403
+Total stock-based compensation expense
+$
+44,882
+$
+41,684
+$
+147,311
+$
+122,801
+_______________
+(1)
+
+Stock-based compensation in the nine months ended September 30, 2025 includes $
+14.6
+ million of expense related to the accelerated vesting of equity awards for our late CEO.
+17
+Table of Contents
+A summary of the unrecognized stock-based compensation expense related to unvested stock at September 30, 2025 is presented below:
+Unrecognized Stock-Based Compensation Expense 
+(in thousands)
+Estimated Weighted Average Period 
+(in years)
+Restricted stock units ("RSUs")
+$
+325,334
+
+2.7
+Performance stock units ("PSUs")
+6,121
+3.1
+Restricted stock
+6,831
+2.3
+2018 Employee Stock Purchase Plan ("2018 ESPP")
+16,262
+0.9
+Restricted Stock, RSUs and PSUs
+A summary of our restricted stock, RSU and PSU activity is presented below:
+Restricted Stock
+RSUs
+PSUs
+(in thousands, except for per share data)
+Number of Shares
+Weighted
+Average
+Grant Date Fair Value
+Number of Shares
+Weighted
+Average
+Grant Date Fair Value
+Number of Shares
+Weighted
+Average
+Grant Date Fair Value
+Unvested balance at December 31, 2024
+187
+$
+45.67
+
+7,209
+$
+45.01
+
+300
+$
+45.78
+
+Granted
+187
+
+32.83
+
+5,986
+
+36.77
+
+200
+
+38.37
+
+Performance adjustment
+(1)
+—
+
+—
+
+—
+
+—
+
+(
+6
+)
+47.20
+
+Vested
+(
+109
+)
+43.83
+
+(
+3,089
+)
+44.86
+
+(
+198
+)
+45.92
+
+Forfeited
+(
+50
+)
+45.67
+
+(
+891
+)
+42.65
+
+—
+
+—
+
+Unvested balance at September 30, 2025
+215
+35.41
+9,215
+39.94
+
+296
+40.64
+
+_______________
+(1)
+    Represents adjustments due to the achievement of predefined financial performance targets.
+In January 2025, under the evergreen provision in our 2018 Equity Incentive Plan we reserved an additional 
+6.0
+ million shares of our common stock. At September 30, 2025, there were 
+27.3
+ million shares available for grant under the plan.
+Stock Options
+A summary of our stock option activity is presented below:
+(in thousands, except for exercise prices and years)
+Number
+of Shares
+Weighted
+Average
+Exercise Price
+Weighted-Average Remaining Contractual Term (in years)
+Aggregate Intrinsic Value
+Outstanding at December 31, 2024
+4,051
+$
+9.26
+
+2.6
+$
+122,024
+Exercised
+(1)
+(
+2,519
+)
+7.34
+
+65,167
+Forfeited/canceled
+(
+2
+)
+6.16
+
+— 
+Outstanding and exercisable at September 30, 2025
+1,530
+12.43
+
+2.2
+25,604
+_______________
+(1)
+    Includes 
+485
+ options netted for option costs and 
+40
+ shares repurchased to cover taxes.
+2018 Employee Stock Purchase Plan
+In the nine months ended September 30, 2025, employees purchased 
+0.5
+ million shares of our common stock at a weighted average price of $
+29.82
+ per share, resulting in $
+15.5
+ million of cash proceeds. At September 30, 2025, there was $
+1.6
+ million of employee contributions to the 2018 ESPP included in accrued compensation.
+18
+Table of Contents
+The fair value of the 2018 ESPP purchase rights was estimated on the offering or modification dates using a Black-Scholes option-pricing model and the following assumptions:
+Nine Months Ended September 30,
+2025
+2024
+Expected term (in years)
+0.5
+ — 
+2.0
+0.5
+ — 
+2.0
+Expected volatility
+32.8
+% — 
+35.7
+%
+31.9
+% — 
+51.4
+%
+Risk-free interest rate
+3.6
+% — 
+3.9
+%
+3.8
+% — 
+5.1
+%
+Expected dividend yield
+—
+—
+Under the evergreen provision in our 2018 ESPP, in January 2025 we reserved an additional 
+1.8
+ million shares of our common stock. At September 30, 2025, there were 
+11.2
+ million shares reserved for issuance under our 2018 ESPP.
+11. 
+Income Taxes
+In the nine months ended September 30, 2025, the provision for income taxes included $
+3.5
+ million of income taxes in foreign jurisdictions in which we conduct business and $
+4.9
+ million of discrete items primarily related to withholding taxes on sales to customers. Income tax expense in the three months ended September 30, 2025 related to foreign jurisdictions, was reduced by a $
+3.2
+ million interim intraperiod allocation, which we expect to reverse in the three months ended December 31, 2025.
+In the nine months ended September 30, 2024, the provision for income taxes included $
+5.6
+ million of income taxes in foreign jurisdictions in which we conduct business, $
+2.6
+ million of discrete items primarily related to withholding taxes on sales to customers and $
+2.5
+ million of Base Erosion and Anti-Abuse Tax.
+Recent legislation enacted in the United States includes significant provisions, such as the permanent extension of certain expiring provisions of the Tax Cuts and Jobs Act, modifications to the international tax framework and the restoration of favorable tax treatment for certain business provisions. The legislation has multiple effective dates, with certain provisions effective in 2025 and others implemented through 2027. We are currently assessing the impact of this legislation on our consolidated financial statements and disclosures.
+12. 
+Net Earnings (Loss) Per Share
+The following table sets forth the computation of basic and diluted net earnings (loss) per share:
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(in thousands, except per share data)
+2025
+2024
+2025
+2024
+Net income (loss)
+$
+2,260
+
+$
+(
+9,211
+)
+$
+(
+35,381
+)
+$
+(
+38,169
+)
+Weighted-average shares used to compute net earnings (loss) per share:
+Basic
+120,483
+
+119,169
+
+120,516
+
+118,466
+
+Diluted
+121,953
+
+119,169
+
+120,516
+
+118,466
+
+Net earnings (loss) per share
+Basic
+$
+0.02
+
+$
+(
+0.08
+)
+$
+(
+0.29
+)
+$
+(
+0.32
+)
+Diluted
+$
+0.02
+
+$
+(
+0.08
+)
+$
+(
+0.29
+)
+$
+(
+0.32
+)
+19
+Table of Contents
+The following potentially dilutive securities have been excluded from the diluted per share calculations because they would have been antidilutive:
+September 30,
+(in thousands)
+2025
+2024
+RSUs
+7,864
+
+7,935
+
+Stock options
+—
+
+4,339
+
+Shares to be issued under the 2018 ESPP
+60
+
+44
+
+PSUs
+—
+
+149
+
+Restricted stock
+215
+
+218
+
+Total
+8,139
+
+12,685
+
+13. 
+Segment and Geographic Information
+Segment Information
+We operate as 
+one
+ operating segment. Our chief operating decision makers ("CODMs") are our Co-Chief Executive Officers. Our CODMs review GAAP and non-GAAP financial information on a consolidated basis for purposes of making operating decisions, allocating resources and evaluating financial performance, including cost of sales expense, sales and marketing expense, research and development expense, general and administrative expense, income (loss) from operations and net income (loss) to assess our operating performance. Significant segment expenses are inherently reflected in the consolidated financial statements.
+Geographic Information
+Revenue by region, based on the address of the end user as specified in our subscription, license or service agreements, was as follows:
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(in thousands)
+2025
+2024
+2025
+2024
+The Americas
+$
+154,918
+
+$
+141,583
+
+$
+454,865
+
+$
+412,820
+
+Europe, Middle East and Africa
+68,261
+
+59,688
+
+199,289
+
+176,046
+
+Asia Pacific
+29,261
+
+25,817
+
+84,718
+
+75,424
+
+Revenue
+$
+252,440
+
+$
+227,088
+
+$
+738,872
+
+$
+664,290
+
+Customers located in the United States accounted for 
+53
+% of revenue in the three and nine months ended September 30, 2025 and 
+54
+% of revenue in the three and nine months ended September 30, 2024. No other country accounted for 10% or more of revenue in the periods presented.
+Our property and equipment, net by geographic area is summarized as follows:
+(in thousands)
+September 30, 2025
+December 31, 2024
+United States
+$
+26,282
+
+$
+33,101
+
+International
+14,189
+
+6,164
+
+Property and equipment, net
+$
+40,471
+
+$
+39,265
+
+20
+Table of Contents
+Item 2.        Management's Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with (1) our consolidated financial statements and related notes included elsewhere in this Quarterly Report on Form 10-Q, or this Form 10-Q, and (2) our consolidated financial statements, related notes and management's discussion and analysis of financial condition and results of operations in our Annual Report on Form 10-K for the year ended December 31, 2024, or the 10-K, filed with the Securities and Exchange Commission, or the SEC, on February 24, 2025. This Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, or the Securities Act, and Section 21E of the Securities Exchange Act of 1934, as amended, or the Exchange Act. These statements are often identified by the use of words such as “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “intend,” “may,” “plan,” “project,” “will,” “would” or the negative or plural of these words or similar expressions or variations. Such forward-looking statements are subject to a number of risks, uncertainties, assumptions and other factors that could cause actual results and the timing of certain events to differ materially from future results expressed or implied by the forward-looking statements. Factors that could cause or contribute to such differences include, but are not limited to, those identified herein, and those discussed in the section titled “Risk Factors,” set forth in Part I, Item IA of the 10-K, in Part II, Item 1A of this Form 10-Q and in our other filings with the SEC. You should not rely upon forward-looking statements as predictions of future events. Furthermore, such forward-looking statements speak only as of the date of this report. Except as required by law, we undertake no obligation to update any forward-looking statements to reflect events or circumstances after the date of such statements.
+Overview
+We are a leading provider of exposure management solutions. Exposure management 
+i
+s the evolution of vulnerability management, advancing risk assessment and prioritization across the entire attack surface – from IT infrastructure to cloud environments to critical infrastructure. Tenable unifies security visibility, insight and action across this attack surface, equipping modern organizations to expose and close the cybersecurity gaps that erode business value, reputation and trust.
+Tenable One is an AI-powered exposure management platform that gives enterprises a single, unified view of risk across all types of assets and attack pathways. The platform combines broad, industry-leading vulnerability coverage, spanning IT assets, cloud resources, containers, web apps, identity systems and third-party data connectors. Tenable One builds on the speed and breadth of vulnerability coverage from our research team of cybersecurity and data science experts, or Tenable Research, and adds aggregated exposure view analytics, guidance on mitigating attack pathways and a centralized asset inventory. It leverages AI, and machine learning, or ML, rapidly analyzing and interpreting vast data sets to pinpoint priority weaknesses and high-risk attack paths, deliver recommendations and automate routine tasks. 
+Tenable One integrates Tenable Vulnerability Management, Tenable Web App Scanning, Tenable Cloud Security, Tenable Identity Exposure, Tenable OT Security, Tenable Attack Surface Management, Tenable One Connectors and Tenable Security Center. Our products, including Nessus are also offered on a standalone basis.
+Our platform offerings are primarily sold on a subscription basis with a one-year term, but are increasingly being sold with longer contractual durations. Our subscription terms are generally not longer than three years. These subscriptions are typically invoiced in advance at the beginning of the term, however multi-year subscriptions are increasingly being invoiced annually in installments.
+We sell and market our products and services through our field sales force that works closely with our channel network of distributors, resellers and managed security service providers (MSSPs), in developing sales opportunities. We typically use a two-tiered channel model whereby we sell our enterprise platform offerings to our distributors, who in turn sell to our resellers, who then sell to end users, who we call customers.
+21
+Table of Contents
+Financial Highlights
+Below are our key financial results:
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(in thousands, except per share data)
+2025
+2024
+2025
+2024
+Revenue
+$
+252,440 
+$
+227,088 
+$
+738,872 
+$
+664,290 
+Income (loss) from operations
+7,136 
+(2,083)
+(18,023)
+(19,831)
+Net income (loss)
+2,260 
+(9,211)
+(35,381)
+(38,169)
+Net earnings (loss) per share, basic and diluted
+0.02 
+(0.08)
+(0.29)
+(0.32)
+Net cash provided by operating activities
+53,850 
+54,607 
+183,720 
+136,357 
+Purchases of property and equipment
+(867)
+(733)
+(11,768)
+(1,924)
+Capitalized software development costs
+(1,353)
+(1,163)
+(2,676)
+(5,930)
+Recurring revenue, which includes revenue from subscription arrangements for software (both recognized ratably over the subscription term and upon delivery) and cloud-based solutions and maintenance associated with perpetual licenses, represented 95% and 96%, respectively of revenue in the three and nine months ended September 30, 2025 and 96% in the three and nine months ended September 30, 2024.
+Key Operating and Financial Metrics
+To supplement our consolidated financial statements, which are prepared and presented in accordance with GAAP, we use and monitor the following operating and financial metrics, which include non-GAAP financial measures, to understand and evaluate our core operating and financial performance. 
+Calculated Current Billings
+We use the non-GAAP measure of calculated current billings, which we believe is a key metric to measure our periodic performance. Given that most of our customers pay in advance, we typically recognize a majority of the related revenue ratably over time. We use calculated current billings to measure and monitor our ability to provide our business with the working capital generated by upfront payments from our customers. 
+Calculated current billings consists of revenue recognized in a period plus the change in current deferred revenue in the corresponding period. We believe that calculated current billings, which excludes deferred revenue for periods beyond twelve months in a customer’s contractual term, more closely correlates with annual contract value. Variability in total billings, depending on the timing of large multi-year contracts and the preference for annual billing versus multi-year upfront billing, may distort growth in one period over another.
+Calculated current billings may vary from period-to-period for a number of reasons, and therefore has a number of limitations as a quarter-to-quarter or year-over-year comparative measure. Calculated current billings in any one period may be impacted by the timing and amount of new sales transactions, the timing and amount of renewal transactions, including early renewals, the mix of the amount of subscriptions and perpetual licenses and the timing of billing professional services, as well as the timing and amount of multi-year prepaid contracts, all of which could favorably or unfavorably impact quarter-to-quarter and year-over-year comparisons. For example, an increasing number of large sales transactions, for which the timing has and will continue to vary, may occur in quarters subsequent to or in advance of those that we anticipate. Additionally, our calculation of calculated current billings may be different from other companies that report similar financial measures. Because of these and other limitations, you should consider calculated current billings along with revenue and our other GAAP financial results.
+22
+Table of Contents
+The following table presents a reconciliation of revenue, the most directly comparable financial measure calculated in accordance with GAAP, to calculated current billings:
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(in thousands)
+2025
+2024
+2025
+2024
+Revenue
+$
+252,440 
+$
+227,088 
+$
+738,872 
+$
+664,290 
+Deferred revenue (current), end of period
+639,614 
+583,940 
+639,614 
+583,940 
+Deferred revenue (current), beginning of period
+(1)
+(624,548)
+(562,587)
+(657,035)
+(580,887)
+Calculated current billings
+$
+267,506 
+$
+248,441 
+$
+721,451 
+$
+667,343 
+_______________
+(1)    
+Deferred revenue (current), beginning of period for the nine months ended September 30, 2025 and 2024 includes $6.7 million and $0.1 million, respectively, related to acquired deferred revenue.
+Free Cash Flow
+We use the non-GAAP measure of free cash flow, which we define as GAAP net cash flows from operating activities reduced by purchases of property and equipment and capitalized software development costs. We believe free cash flow is an important liquidity measure of the cash (if any) that is available, after purchases of property and equipment and capitalized software development costs, for investment in our business and to make acquisitions. We believe that free cash flow is useful as a liquidity measure because it measures our ability to generate cash. 
+Our use of free cash flow has limitations as an analytical tool and you should not consider it in isolation or as a substitute for an analysis of our results under GAAP. First, free cash flow is not a substitute for net cash flows from operating activities. Second, other companies may calculate free cash flow or similarly titled non-GAAP financial measures differently or may use other measures to evaluate their performance, all of which could reduce the usefulness of free cash flow as a tool for comparison. Additionally, the utility of free cash flow is further limited as it does not reflect our future contractual commitments and does not represent the total increase or decrease in our cash balance for a given period. Because of these and other limitations, you should consider free cash flow along with net cash provided by operating activities and our other GAAP financial measures.
+The following table presents a reconciliation of net cash provided by operating activities, the most directly comparable financial measure calculated in accordance with GAAP, to free cash flow: 
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(in thousands)
+2025
+2024
+2025
+2024
+Net cash provided by operating activities
+$
+53,850 
+$
+54,607 
+$
+183,720 
+$
+136,357 
+Purchases of property and equipment
+(867)
+(733)
+(11,768)
+(1,924)
+Capitalized software development costs
+(1,353)
+(1,163)
+(2,676)
+(5,930)
+Free cash flow
+(1)
+$
+51,630 
+$
+52,711 
+$
+169,276 
+$
+128,503 
+_______________
+(1)
+    Free cash flow for the periods presented was impacted by:
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(in thousands)
+2025
+2024
+2025
+2024
+Cash paid for interest and other financing costs
+$
+(6,854)
+$
+(8,055)
+$
+(20,287)
+$
+(23,505)
+Employee stock purchase plan activity
+(4,824)
+(3,653)
+(5,314)
+(6,283)
+Acquisition-related expenses
+(311)
+(663)
+(5,130)
+(1,326)
+Restructuring
+— 
+(492)
+— 
+(5,911)
+23
+Table of Contents
+Customer Metrics
+We believe that our customer base provides a significant opportunity to expand sales of our enterprise platform offerings. We define an enterprise platform customer as a customer that has licensed Tenable One, Tenable Vulnerability Management, Tenable Cloud Security, Tenable Identity Exposure, Tenable OT Security or Tenable Security Center for an annual amount of $5,000 or greater. New enterprise platform customers represent new customer logos during the periods presented and do not include customer conversions from Tenable Nessus Expert to enterprise platforms. The following tables summarize key components of our customer base:
+Three Months Ended September 30,
+2025
+2024
+Change (%)
+Number of new enterprise platform customers added in period
+437
+386
+13%
+September 30,
+2025
+2024
+Change (%)
+Number of customers with $100,000 and greater in annual contract value at end of period
+2,156
+1,853
+16%
+Dollar-Based Net Expansion Rate
+Our dollar-based net expansion rate reflects both our customer retention and ability to drive additional sales to our existing customers. Our dollar-based net expansion rate has historically fluctuated and is expected to continue to fluctuate on a quarterly basis as a result of a number of factors, including existing customers' satisfaction with our solutions, existing customer retention, the pricing of our solutions, the availability of competing solutions and the pricing thereof, and the timing of customer renewals. In addition, our sales pipeline opportunities vary from quarter to quarter between new customers and expansion from existing customers, and we do not prioritize one over the other to maximize the dollar-based net expansion rate. 
+Our dollar-based net expansion rate is evaluated on a last twelve months, or LTM, basis, and is calculated as follows:
+•
+Denominator: To calculate our dollar-based net expansion rate as of the end of a reporting period, we first determine the annual recurring revenue, or ARR, from all active subscriptions (both revenue recognized ratably over the subscription term and upon delivery) and maintenance from perpetual licenses as of the last day of the same reporting period in the prior year. This represents recurring payments that we expect to receive in the next 12-month period from the cohort of customers that existed on the last day of the same reporting period in the prior year.
+•
+Numerator: We measure the ARR for that same cohort of customers representing all subscriptions and maintenance from perpetual licenses based on customer orders as of the end of the reporting period.
+We calculate dollar-based net expansion rate by dividing the numerator by the denominator. 
+The following table presents our dollar-based net expansion rate:
+September 30,
+2025
+2024
+Dollar-based net expansion rate
+106 
+%
+108 
+%
+Non-GAAP Income from Operations and Non-GAAP Operating Margin
+
+We use non-GAAP income from operations along with non-GAAP operating margin as key indicators of our financial performance. We define these non-GAAP financial measures as their respective GAAP measures, excluding the effects of stock-based compensation, acquisition-related expenses, restructuring expenses, costs related to the intra-entity asset transfers resulting from the internal restructuring of legal entities and amortization of acquired intangible assets. Acquisition-related expenses include transaction and integration expenses, as well as costs related to the intercompany 
+24
+Table of Contents
+transfer of acquired intellectual property. Restructuring expenses include non-ordinary course severance, employee related benefits and other charges to reorganize business operations.
+We believe that these non-GAAP financial measures provide useful information about our core operating results over multiple periods. There are a number of limitations related to the use of the non-GAAP financial measures as compared to GAAP income (loss) from operations and operating margin, including that non-GAAP income from operations and non-GAAP operating margin exclude stock-based compensation expense, which has been, and will continue to be, a significant recurring expense in our business and an important part of our compensation strategy. 
+The following table presents a reconciliation of income (loss) from operations, the most directly comparable financial measure calculated in accordance with GAAP, to non-GAAP income from operations, and operating margin, the most directly comparable financial measure calculated in accordance with GAAP, to non-GAAP operating margin:
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(dollars in thousands)
+2025
+2024
+2025
+2024
+Income (loss) from operations
+$
+7,136 
+$
+(2,083)
+(18,023)
+(19,831)
+Stock-based compensation
+44,882 
+41,684 
+147,311 
+122,801 
+Acquisition-related expenses
+113 
+360 
+6,815 
+1,284 
+Restructuring
+— 
+— 
+— 
+6,070 
+Amortization of acquired intangible assets
+6,782 
+5,014 
+19,183 
+14,443 
+Non-GAAP income from operations
+$
+58,913 
+$
+44,975 
+$
+155,286 
+$
+124,767 
+Operating margin
+2.8 
+%
+(0.9)
+%
+(2.4)
+%
+(3.0)
+%
+Non-GAAP operating margin
+23.3 
+%
+19.8 
+%
+21.0 
+%
+18.8 
+%
+Non-GAAP Net Income and Non-GAAP Earnings Per Share
+We use non-GAAP net income, which excludes stock-based compensation, acquisition-related expenses, restructuring expenses and amortization of acquired intangible assets, as well as the related tax impacts, and the tax impact and related costs of intra-entity asset transfers resulting from the internal restructuring of legal entities as well as deferred income tax benefits recognized in connection with acquisitions, to calculate non-GAAP earnings per share.
+25
+Table of Contents
+The following table presents a reconciliation of net income (loss) and net earnings (loss) per share, the most comparable financial measures calculated in accordance with GAAP, to non-GAAP net income and non-GAAP earnings per share:
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(in thousands, except for per share amounts)
+2025
+2024
+2025
+2024
+Net income (loss)
+$
+2,260 
+$
+(9,211)
+$
+(35,381)
+$
+(38,169)
+Stock-based compensation
+44,882 
+41,684 
+147,311 
+122,801 
+Tax impact of stock-based compensation
+(1)
+(2,552)
+1,528 
+(656)
+1,626 
+Acquisition-related expenses
+(2)
+113 
+360 
+6,815 
+1,284 
+Restructuring
+(2)
+— 
+— 
+— 
+6,070 
+Amortization of acquired intangible assets
+(2)
+6,782 
+5,014 
+19,183 
+14,443 
+Tax impact of acquisitions
+(47)
+(52)
+(147)
+(130)
+Non-GAAP net income
+$
+51,438 
+$
+39,323 
+$
+137,125 
+$
+107,925 
+Net earnings (loss) per share, diluted
+$
+0.02 
+$
+(0.08)
+$
+(0.29)
+$
+(0.32)
+Stock-based compensation
+0.37 
+0.35 
+1.22 
+1.04 
+Tax impact of stock-based compensation
+(1)
+(0.02)
+0.01 
+(0.01)
+0.01 
+Acquisition-related expenses
+(2)
+— 
+0.01 
+0.06 
+0.01 
+Restructuring
+(2)
+— 
+— 
+— 
+0.05 
+Amortization of acquired intangible assets
+(2)
+0.05 
+0.04 
+0.16 
+0.12 
+Tax impact of acquisitions
+— 
+— 
+— 
+— 
+Adjustment to diluted earnings per share
+(3)
+— 
+(0.01)
+(0.03)
+(0.03)
+Non-GAAP earnings per share, diluted
+$
+0.42 
+$
+0.32 
+$
+1.11 
+$
+0.88 
+Weighted-average shares used to compute GAAP net earnings (loss) per share, diluted
+121,953
+119,169
+120,516 
+118,466 
+Weighted-average shares used to compute non-GAAP earnings per share, diluted
+121,953
+123,288
+122,995
+123,206
+________________
+(1)    
+The tax impact of stock-based compensation is based on the tax treatment for the applicable tax jurisdictions.
+(2)    The tax impact of acquisition-related expenses, restructuring and the amortization of acquired intangible assets are not material.
+(3)    An adjustment to reconcile GAAP net earnings (loss) per share, which excludes potentially dilutive shares, to non-GAAP earnings per share, which includes potentially dilutive shares.
+Components of Our Results of Operations
+Revenue 
+We generate revenue from subscription arrangements for our software and cloud-based solutions, perpetual licenses, maintenance associated with perpetual licenses and professional services. We begin to recognize revenue when control of our software or services is transferred to the customer, which for sales made through our channel network is typically concurrent with the transfer to the end user.
+Our subscription arrangements generally have annual or multi-year contractual terms to use our software or cloud-based solutions, including ongoing software updates during the contractual period. For software subscriptions that are dependent on ongoing software updates and the ability to identify the latest cybersecurity vulnerabilities, revenue is recognized ratably over the subscription term given the critical utility provided by the ongoing updates that are released 
+26
+Table of Contents
+through the contract period. When the critical utility of our software does not depend on ongoing updates, we recognize revenue attributable to the license at the time of delivery and the revenue attributable to the maintenance and support ratably over the contract period.
+Our perpetual licenses are generally sold with one or more years of maintenance that include ongoing software updates to identify the latest cybersecurity vulnerabilities, which provide critical utility to the software. We recognize perpetual license revenue over a five-year estimated economic life of the expected customer contract. 
+Professional services and other revenue is primarily comprised of advisory services and training related to the deployment and optimization of our products. These services do not result in significant customization of our products. Professional services and other revenue is recognized as the services are performed.
+We have historically experienced, and expect in the future to experience, seasonality in entering into agreements with customers. We typically enter into a significantly higher percentage of agreements with new customers, as well as renewal agreements with existing customers, in the third and fourth quarters of the year. The increase in customer agreements in the third quarter is primarily attributable to U.S. government and related agencies, and the increase in the fourth quarter is primarily attributable to large enterprise account buying patterns typical in the software industry. We anticipate that these historical trends will be impacted by current macroeconomic conditions and U.S. policy decisions related to the funding of government agencies and the imposition of tariffs, which may lengthen purchasing and approval phases of our sales cycle in 2025. The ratable nature of our subscription revenue makes this seasonality less apparent in our overall financial results.
+Cost of Revenue, Gross Profit and Gross Margin
+
+Cost of revenue includes personnel costs related to our technical support group that provides assistance to customers, including salaries, benefits, bonuses, payroll taxes, stock-based compensation and any ordinary course severance. Cost of revenue also includes cloud infrastructure costs, the costs related to professional services and training, depreciation, amortization of acquired and developed technology, hardware costs and allocated overhead costs, which consist of information technology, facilities and insurance. 
+We intend to continue to invest additional resources in our cloud-based platform and customer support team as we grow our business. The level and timing of investment in these areas could affect our cost of revenue in the future.
+Gross profit, or revenue less cost of revenue, and gross margin, or gross profit as a percentage of revenue, have been and will continue to be affected by various factors, including the timing of our acquisition of new customers and our renewals of and follow-on sales to existing customers, the costs associated with operating our cloud-based platform, the extent to which we expand our customer support team and the extent to which we can increase the efficiency of our technology and infrastructure through technological improvements. 
+We expect our gross profit to increase in absolute dollars but our gross margin may fluctuate from period to period depending on the interplay of all of these factors, particularly as it relates to cloud infrastructure costs, as we expect revenue from our cloud-based subscriptions to increase as a percentage of revenue.
+Operating Expenses 
+Our operating expenses consist of sales and marketing, research and development, general and administrative and restructuring expenses. Personnel costs are the most significant component of operating expenses and consist of salaries, benefits, bonuses, payroll taxes, stock-based compensation and ordinary course severance. Operating expenses also include depreciation and amortization, allocated overhead costs, including IT and facilities costs, as well as acquisition-related expenses.
+Sales and Marketing 
+Sales and marketing expense consists of personnel costs, sales commissions, marketing programs, travel and entertainment, expenses for conferences, meetings and events, allocated overhead costs and acquisition-related 
+27
+Table of Contents
+expenses. We capitalize sales commissions, including related fringe benefit costs, and recognize the expense over an estimated period of benefit, which ranges between three and four years for subscription arrangements and five years for perpetual license arrangements. Sales commissions on contract renewals are capitalized and amortized ratably over the contract term, with the exception of contracts with renewal periods that are one year or less, in which case the incremental costs are expensed as incurred. Sales commissions on professional services arrangements are expensed as incurred as the contractual periods of these arrangements are generally less than one year.
+We intend to continue to make investments in our sales and marketing teams to increase revenue, further penetrate the market and expand our global customer base. We expect our sales and marketing expense to increase in absolute dollars annually and to be our largest operating expense category for the foreseeable future. However, as our revenue increases, we expect our sales and marketing expense to decrease as a percentage of our revenue in the second half of 2025 and over the long term. Our sales and marketing expense may fluctuate from period to period due to the timing and extent of these expenses, including sales commissions, which may fluctuate depending on the mix of sales and related expense recognition.
+Research and Development 
+Research and development expense consists of personnel costs, software used to develop our products, travel and entertainment, consulting and professional fees for third-party development resources, allocated overhead and acquisition-related expenses. Our research and development expense supports our efforts to continue to add capabilities to our existing products and enable the continued detection of new network vulnerabilities. 
+We expect our research and development expense to continue to increase annually in absolute dollars for the foreseeable future as we continue to invest in research and development efforts to enhance the functionality of our cloud-based platform. However, we expect our research and development expense to decrease as a percentage of our revenue over the long term, although our research and development expense may fluctuate from period to period due to the timing and extent of these expenses.
+General and Administrative 
+General and administrative expense consists of personnel costs for our executive, finance, legal, human resources and administrative departments. Additional expenses include travel and entertainment, professional fees, insurance, allocated overhead and acquisition-related expenses. 
+We expect our general and administrative expense to continue to increase in absolute dollars and decrease as a percentage of our revenue over the long term, although our general and administrative expense may fluctuate from period to period due to the timing and extent of these expenses. In the nine months ended September 30, 2025 our general and administrative expense included $15.5 million of termination benefits, including cash compensation and accelerated equity award vesting, related to the passing of our Chairman and Chief Executive Officer.
+Restructuring
+Restructuring expenses consist of non-ordinary course severance, employee related benefits and other charges to reorganize business operations.
+Interest Income, Interest Expense and Other Income (Expense), Net
+Interest income consists of income earned on cash and cash equivalents and short-term investments. Interest expense consists primarily of interest expense in connection with our Term Loan, unused commitment fees on our Revolving Credit Facility, and letter of credit fees. Other income (expense), net consists primarily of foreign currency remeasurement and transaction gains and losses and any realized and unrealized gains and losses, including impairment losses and gains related to our non-marketable investments.
+28
+Table of Contents
+Provision for Income Taxes
+Provision for income taxes consists of income taxes in all jurisdictions in which we conduct business and the related withholding taxes on sales with customers. We have recorded deferred tax assets for which a full valuation allowance has been provided, including net operating loss carryforwards and tax credits. We expect to maintain this full valuation allowance for the foreseeable future as it is more likely than not that some or all of those deferred tax assets may not be realized based on our history of losses. 
+Results of Operations
+The following tables set forth our consolidated results of operations for the periods presented: 
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(in thousands)
+2025
+2024
+2025
+2024
+Revenue
+$
+252,440 
+$
+227,088 
+$
+738,872 
+$
+664,290 
+Cost of revenue
+(1)
+56,753 
+50,499 
+163,647 
+148,229 
+Gross profit
+195,687 
+176,589 
+575,225 
+516,061 
+Operating expenses:
+Sales and marketing
+(1)
+99,949 
+99,083 
+310,222 
+300,037 
+Research and development
+(1)
+56,265 
+48,020 
+168,724 
+136,896 
+General and administrative
+(1)
+32,337 
+31,569 
+114,302 
+92,889 
+Restructuring
+— 
+— 
+— 
+6,070 
+Total operating expenses
+188,551 
+178,672 
+593,248 
+535,892 
+Income (loss) from operations
+7,136 
+(2,083)
+(18,023)
+(19,831)
+Interest income
+3,590 
+5,989 
+12,597 
+17,587 
+Interest expense
+(7,213)
+(8,148)
+(21,363)
+(24,333)
+Other (expense) income, net
+(703)
+359 
+(204)
+(858)
+Income (loss) before income taxes
+2,810 
+(3,883)
+(26,993)
+(27,435)
+Provision for income taxes
+550 
+5,328 
+8,388 
+10,734 
+Net income (loss)
+$
+2,260 
+$
+(9,211)
+$
+(35,381)
+$
+(38,169)
+_______________
+(1)
+    Includes stock-based compensation expense as follows:
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(in thousands)
+2025
+2024
+2025
+2024
+Cost of revenue
+$
+3,495
+$
+3,216
+$
+10,270
+$
+9,486
+Sales and marketing
+17,051
+15,941
+51,499
+47,517
+Research and development
+14,174
+12,435
+42,441
+35,395
+General and administrative
+(2)
+10,162
+10,092
+43,101
+30,403
+Total stock-based compensation expense
+$
+44,882
+$
+41,684
+$
+147,311
+$
+122,801
+_______________
+(2)
+
+Stock-based compensation in the nine months ended September 30, 2025 includes $14.6 million of expense related to the accelerated equity award vesting of our late CEO.
+29
+Table of Contents
+Comparison of the Three Months Ended September 30, 2025 and 2024
+Revenue
+The following table presents the increase in revenue:
+Three Months Ended September 30,
+Change
+(dollars in thousands)
+2025
+2024
+($)
+(%)
+Subscription revenue
+$
+232,211 
+$
+208,554 
+$
+23,657 
+11 
+%
+Perpetual license and maintenance revenue
+11,088 
+11,769 
+(681)
+(6)
+%
+Professional services and other revenue
+9,141 
+6,765 
+2,376 
+35 
+%
+Revenue
+$
+252,440 
+$
+227,088 
+$
+25,352 
+11 
+%
+The increase in revenue of $25.4 million included $24.5 million from existing customers as of October 1, 2024 and $0.9 million from new customers. U.S. revenue increased $10.5 million, or 9%. International revenue increased $14.9 million, or 14%.
+Cost of Revenue, Gross Profit and Gross Margin
+Three Months Ended September 30,
+Change
+(dollars in thousands)
+2025
+2024
+($)
+(%)
+Cost of revenue
+$
+56,753 
+$
+50,499 
+$
+6,254 
+12 
+%
+Gross profit
+195,687 
+176,589 
+19,098 
+11 
+%
+Gross margin
+78 
+%
+78 
+%
+The increase in cost of revenue of $6.3 million was primarily due to:
+•
+a $2.2 million increase in third-party cloud costs;
+•
+a $1.8 million increase in amortization of acquired intangible assets;
+•
+a $1.0 million increase in personnel costs, including $0.3 million in stock-based compensation;
+•
+a $0.5 million increase in depreciation and amortization expense;
+•
+a $0.2 million increase in professional services;
+•
+a $0.2 million increase in cost of goods; and
+•
+a $0.2 million increase in allocated overhead.
+Operating Expenses
+Sales and Marketing
+Three Months Ended September 30,
+Change
+(dollars in thousands)
+2025
+2024
+($)
+(%)
+Sales and marketing
+$
+99,949 
+$
+99,083 
+$
+866 
+1 
+%
+The increase in sales and marketing expense of $0.9 million was primarily due to:
+•
+a $0.7 million increase in professional fees;
+•
+a $0.3 million increase in sales commissions; and
+•
+a $0.2 million increase in allocated overhead; partially offset by
+•
+a $0.3 million decrease in expenses for demand generation programs, including advertising, sponsorships and brand awareness efforts.
+30
+Table of Contents
+Research and Development
+Three Months Ended September 30,
+Change
+(dollars in thousands)
+2025
+2024
+($)
+(%)
+Research and development
+$
+56,265 
+$
+48,020 
+$
+8,245 
+17 
+%
+The increase in research and development expense of $8.2 million was primarily due to:
+•
+a $7.3 million increase in personnel costs, including a $1.7 million increase in stock-based compensation; and
+•
+a $0.9 million increase in allocated overhead.
+General and Administrative
+Three Months Ended September 30,
+Change
+(dollars in thousands)
+2025
+2024
+($)
+(%)
+General and administrative
+$
+32,337 
+$
+31,569 
+$
+768 
+2 
+%
+The increase in general and administrative expense of $0.8 million was primarily due to:
+•
+a $0.7 million increase in personnel costs;
+•
+a $0.3 million increase in indirect taxes such as VAT;
+•
+a $0.3 million increase in bank fees;
+•
+a $0.3 million increase in travel and meeting costs; and
+•
+a $0.2 million increase in allocated overhead; partially offset by
+•
+a $1.0 million decrease in professional fees.
+Interest Income, Interest Expense and Other (Expense) Income, Net
+Three Months Ended September 30,
+Change
+(dollars in thousands)
+2025
+2024
+($)
+(%)
+Interest income
+$
+3,590 
+$
+5,989 
+$
+(2,399)
+(40)
+%
+Interest expense
+(7,213)
+(8,148)
+(935)
+(11)
+%
+Other (expense) income, net
+(703)
+359 
+(1,062)
+(296)
+%
+The $2.4 million decrease in interest income was due to a decrease in short-term investments and reduced rates of return. Interest expense decreased $0.9 million due to a decrease in the interest rate on our Term Loan. The $1.1 million decrease in Other income, net was primarily due to increased foreign exchange losses.
+Provision for Income Taxes
+Three Months Ended September 30,
+Change
+(dollars in thousands)
+2025
+2024
+($)
+(%)
+Provision for income taxes
+$
+550 
+$
+5,328 
+$
+(4,778)
+(90)
+%
+In the three months ended September 30, 2025, the provision for income taxes included:
+•
+$2.2 million of discrete items primarily related to withholding taxes on sales to customers; partially offset by
+31
+Table of Contents
+•
+$1.6 million of net tax benefits in foreign jurisdictions in which we conduct business. Income tax expense in the three months ended September 30, 2025 related to foreign jurisdictions, was reduced by a $3.2 million interim intraperiod allocation, which we expect to reverse in the three months ended December 31, 2025.
+In the three months ended September 30, 2024, the provision for income taxes included:
+•
+$3.5 million of income taxes in foreign jurisdictions in which we conduct business;
+•
+$1.0 million of discrete items primarily related to withholding taxes on sales to customers; and
+•
+$0.8 million related to Base Erosion and Anti-Abuse Tax.
+Comparison of the Nine Months Ended September 30, 2025 and 2024
+Revenue
+The following table presents the increase in revenue:
+Nine Months Ended September 30,
+Change
+(dollars in thousands)
+2025
+2024
+($)
+(%)
+Subscription revenue
+$
+680,685 
+$
+608,727 
+$
+71,958 
+12 
+%
+Perpetual license and maintenance revenue
+34,051 
+35,941 
+(1,890)
+(5)
+%
+Professional services and other revenue
+24,136 
+19,622 
+4,514 
+23 
+%
+Revenue
+$
+738,872 
+$
+664,290 
+$
+74,582 
+11 
+%
+The increase in revenue of $74.6 million included $73.1 million from existing customers as of October 1, 2024, and $1.5 million from new customers. U.S. revenue increased $33.0 million, or 9%. International revenue increased $41.4 million, or 14%.
+Cost of Revenue, Gross Profit and Gross Margin
+Nine Months Ended September 30,
+Change
+(dollars in thousands)
+2025
+2024
+($)
+(%)
+Cost of revenue
+$
+163,647 
+$
+148,229 
+$
+15,418 
+10 
+%
+Gross profit
+575,225 
+516,061 
+59,164 
+11 
+%
+Gross margin
+78 
+%
+78 
+%
+The increase in cost of revenue of $15.4 million was primarily due to:
+•
+a $4.7 million increase in amortization of acquired intangible assets;
+•
+a $3.3 million increase in third-party cloud infrastructure costs;
+•
+a $2.9 million increase in depreciation and amortization expenses;
+•
+a $2.6 million increase in personnel costs, including a $0.8 million increase in stock-based compensation;
+•
+a $0.6 million increase in software subscription costs;
+•
+a $0.5 million increase in professional fees;
+•
+a $0.4 million increase in allocated overhead; and
+•
+a $0.3 million increase in the cost of goods.
+32
+Table of Contents
+Operating Expenses
+Sales and Marketing
+Nine Months Ended September 30,
+Change
+(dollars in thousands)
+2025
+2024
+($)
+(%)
+Sales and marketing
+$
+310,222 
+$
+300,037 
+$
+10,185 
+3 
+%
+The increase in sales and marketing expense of $10.2 million was primarily due to:
+•
+a $2.5 million increase in personnel costs, including a $4.0 million increase in stock-based compensation;
+•
+a $2.4 million increase in expenses for demand generation programs, including advertising, sponsorships and brand awareness efforts;
+•
+a $2.4 million increase in sales commissions;
+•
+a $2.2 million increase in selling expenses; and
+•
+a $1.3 million increase in acquisition-related expenses; partially offset by
+•
+a $0.5 million decrease in depreciation expense.
+Research and Development
+Nine Months Ended September 30,
+Change
+(dollars in thousands)
+2025
+2024
+($)
+(%)
+Research and development
+$
+168,724 
+$
+136,896 
+$
+31,828 
+23 
+%
+The increase in research and development expense of $31.8 million was primarily due to:
+•
+a $27.8 million increase in personnel costs, largely due to an increase in headcount from recent acquisitions, and including a $7.0 million increase in stock-based compensation;
+•
+a $2.3 million increase in allocated overhead; and
+•
+a $1.8 million increase in acquisition-related expenses.
+General and Administrative
+Nine Months Ended September 30,
+Change
+(dollars in thousands)
+2025
+2024
+($)
+(%)
+General and administrative
+$
+114,302 
+$
+92,889 
+$
+21,413 
+23 
+%
+The increase in general and administrative expense of $21.4 million was primarily due to:
+•
+a $16.5 million increase in personnel costs, including $15.5 million in termination benefits including cash compensation and accelerated equity award vesting related to the passing of our Chairman and Chief Executive Officer;
+•
+a $2.5 million increase in acquisition-related expenses;
+•
+a $0.7 million increase in travel and meeting costs;
+•
+a $0.5 million increase in indirect taxes such as VAT;
+•
+a $0.3 million increase in bank fees; 
+•
+a $0.3 million increase in telecom and internet costs; and
+•
+a $0.2 million increase in professional fees.
+33
+Table of Contents
+Restructuring
+Nine Months Ended September 30,
+Change
+(dollars in thousands)
+2025
+2024
+($)
+(%)
+Restructuring
+$
+— 
+$
+6,070 
+$
+(6,070)
+(100)
+%
+Restructuring in the prior year included a $4.5 million non-cash impairment of leasehold improvements and furniture and fixtures that was recorded in connection with the sublease of a portion of our headquarters and $1.6 million in non-ordinary course severance and employee related benefits.
+Interest Income, Interest Expense and Other Expense, Net
+Nine Months Ended September 30,
+Change
+(dollars in thousands)
+2025
+2024
+($)
+(%)
+Interest income
+$
+12,597 
+$
+17,587 
+$
+(4,990)
+(28)
+%
+Interest expense
+(21,363)
+(24,333)
+(2,970)
+(12)
+%
+Other expense, net
+(204)
+(858)
+654 
+(76)
+%
+The $5.0 million decrease in interest income was due to a decrease in short-term investments and reduced rates of return. Interest expense decreased $3.0 million due to a decrease in the interest rate on our Term Loan. Other expense decreased $0.7 million primarily due to an increase in foreign exchange gains partially offset by a $1.5 million gain on conversion of one of our SAFE investments in the prior year.
+Provision for Income Taxes
+Nine Months Ended September 30,
+Change
+(dollars in thousands)
+2025
+2024
+($)
+(%)
+Provision for income taxes
+$
+8,388 
+$
+10,734 
+$
+(2,346)
+(22)
+%
+In the nine months ended September 30, 2025, the provision for income taxes included:
+•
+$4.9 million of discrete items primarily related to withholding taxes on sales to customers; and
+•
+$3.5 million of income taxes in foreign jurisdictions in which we conduct business. Income tax expense in the three months ended September 30, 2025 related to foreign jurisdictions, was reduced by a $3.2 million interim intraperiod allocation, which we expect to reverse in the three months ended December 31, 2025.
+In the nine months ended September 30, 2024, the provision for income taxes included:
+•
+$5.6 million of income taxes in foreign jurisdictions in which we conduct business;
+•
+$2.6 million of discrete items primarily related to withholding taxes on sales to customers; and
+•
+$2.5 million related to Base Erosion and Anti-Abuse Tax.
+Liquidity and Capital Resources
+At September 30, 2025, we had $171.9 million of cash and cash equivalents, which consisted of cash deposits and money market funds, and $211.7 million of short-term investments, which consisted of commercial paper, asset backed securities, U.S. Treasury and agency obligations and corporate and Yankee bonds. 
+Since our inception, we have primarily financed our operations through cash provided by operations, including payments received from customers using our software products and services. Prior to our IPO, we did not raise any 
+34
+Table of Contents
+primary institutional capital, and the proceeds of our Series A and Series B redeemable convertible preferred stock financings were used to repurchase shares of capital stock from former stockholders. We have generated significant operating losses as reflected by our accumulated deficit of $896.7 million at September 30, 2025. 
+We typically invoice our customers annually in advance and, to a lesser extent, multi-years in advance. Therefore, a substantial source of our cash is from such prepayments, which are included in deferred revenue on our consolidated balance sheets. Deferred revenue consists primarily of the unearned portion of billed fees for our subscriptions and perpetual licenses, which is subsequently recognized as revenue in accordance with our revenue recognition policy. At September 30, 2025, we had deferred revenue of $810.5 million, of which $639.6 million was recorded as a current liability and is expected to be recognized as revenue in the next 12 months, provided all other revenue recognition criteria are met.
+Our principal uses of cash in recent periods have been funding our operations, expansion of our sales and marketing and research and development activities, investments in infrastructure, acquiring complementary businesses and technology, and repurchasing shares of our common stock. In 2025, we acquired both Vulcan and Apex for a combined $196.2 million in cash. We expect to enter into arrangements to acquire or invest in other complementary businesses, services and technologies, including intellectual property rights, in the future.
+We expect to continue incurring operating losses in the near term. Even though we generated positive cash flows from operations and free cash flow in the nine months ended September 30, 2025, we may not be able to sustain these cash flows. We believe that our existing cash and cash equivalents and short-term investments will be sufficient to fund our operating and capital needs for at least the next 12 months and for the foreseeable future. Our future capital requirements will depend on many factors, including our revenue growth rate, subscription renewal activity, the timing and extent of spending to support further infrastructure and research and development efforts, the timing and extent of additional capital expenditures to invest in new and existing office spaces, the expansion of sales and marketing and international operating activities, any acquisitions of complementary businesses and technologies, the timing of our introduction of new product capabilities and enhancements of our platform and the continuing market acceptance of our platform. It may be necessary to seek additional equity or debt financing to fund our operating and capital needs. In the event that financing is required from outside sources, we may not be able to raise it on terms acceptable to us or at all. If we are unable to raise additional capital when desired, or if we cannot expand our operations or otherwise capitalize on our business opportunities because we lack sufficient capital, our business, operating results and financial condition would be adversely affected. 
+Stock Repurchase Plan
+In November 2023, our Board of Directors authorized the repurchase of up to $100 million of our common stock. In October 2024, our Board of Directors increased the repurchase authorization by $200 million. In July 2025, our Board of Directors increased the repurchase authorization by $250 million. Since the inception of the repurchase program and through September 30, 2025, we have purchased a total of 8.3 million shares for $299.9 million.
+Term Loan and Revolving Credit Facility
+
+In July 2021, we entered into a credit agreement, or the Credit Agreement, which is comprised of a $375.0 million Term Loan and a $50.0 million Revolving Credit Facility, with a $15.0 million letter of credit sublimit. The Term Loan bears interest at a rate of 2.75% per annum over SOFR, subject to a 0.50% floor, plus a credit spread adjustment depending on the interest period.
+From January to September 2025, interest rates on our Term Loan were between 7.18% and 7.22%. The Term Loan is being amortized at 1% per annum in equal quarterly installments until the final payment of $350.6 million on the July 7, 2028 maturity date. We may be subject to mandatory Term Loan prepayments related to the excess cash provisions in the Credit Agreement if our first lien net leverage ratio (as defined in the Credit Agreement) exceeds 3.5. At September 30, 2025, our first lien net leverage ratio was 0.87.
+The Revolving Credit Facility bears interest at a rate, depending on first lien net leverage, ranging from 2.00% to 2.50% over SOFR and matures on July 7, 2026. We pay a commitment fee during the term ranging from 0.25% to 0.375% per annum of the average daily undrawn portion of our Revolving Credit Facility. At September 30, 2025, we were in 
+35
+Table of Contents
+compliance with the covenants and had $0.2 million of standby letters of credit outstanding under the Revolving Credit Facility. 
+Cash Flows
+
+The following table summarizes our cash flows for the periods presented:
+Nine Months Ended September 30,
+(in thousands)
+2025
+2024
+Net cash provided by operating activities
+$
+183,720 
+$
+136,357 
+Net cash used in investing activities
+(170,290)
+(27,099)
+Net cash used in financing activities
+(171,208)
+(31,744)
+Effect of exchange rate changes on cash and cash equivalents and restricted cash
+983 
+(2,439)
+Net (decrease) increase in cash and cash equivalents and restricted cash
+$
+(156,795)
+$
+75,075 
+Operating Activities 
+Our largest source of cash provided by operating activities is cash collections from sales of our products and services, as we typically invoice our customers in advance. Our primary uses of cash are employee compensation costs, third-party cloud infrastructure and other software subscription costs, demand generation expenditures and general corporate costs.
+Investing Activities 
+Net cash used in investing activities increased by $143.2 million, primarily due to a $167.0 million increase in cash paid for acquisitions, a $9.8 million net increase in purchases of property and equipment and a $1.4 million net decrease in proceeds from other investments, partially offset by a $31.8 million net decrease in purchases of short-term investments and a $3.3 million decrease in capitalized software development costs in the nine months ended September 30, 2025.
+Financing Activities
+
+Net cash used in financing activities increased by $139.5 million, primarily due to a $135.0 million increase in repurchases of our common stock under our repurchase program, a $2.4 million decrease in proceeds from the exercise of stock options, a $1.3 million increase in cash paid for taxes related to net share settlement of equity awards and a $0.8 million decrease in proceeds from stock issued in connection with our employee stock purchase program.
+Contractual Obligations
+We have certain contractual obligations for future payments. Refer to Note 7 to our consolidated financial statements for our required operating lease payments and Note 9 for our required payments to Microsoft and AWS for cloud services.
+At September 30, 2025, there were no other material changes in our contractual obligations and commitments from those disclosed in our 10-K. 
+Critical Accounting Policies and Estimates
+Our financial statements are prepared in accordance with GAAP. The preparation of these financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue and expenses, as well as related disclosures. We evaluate our estimates and assumptions on an ongoing basis. Our estimates are based on historical experience and various other assumptions that we believe to be reasonable under the circumstances. Our actual results could differ from these estimates. 
+There have been no material changes to our critical accounting policies and estimates as described in our 10-K.
+36
+Table of Contents
+Item 3.        Quantitative and Qualitative Disclosures about Market Risk
+We are exposed to market risks in the ordinary course of our business, including interest rate, foreign currency exchange and inflation risks. 
+Interest Rate Risk
+
+At September 30, 2025, we had $171.9 million of cash and cash equivalents, which consisted of cash deposits and money market funds. We also had $211.7 million of short-term investments, which consisted of commercial paper, asset backed securities, U.S. treasury and agency securities and corporate and Yankee bonds. Our investments are carried at their fair market values with cumulative unrealized gains or losses recorded as a component of accumulated other comprehensive income (loss) within stockholders' equity. The primary objectives of our investment activities are the preservation of capital, the fulfillment of liquidity needs and the fiduciary control of cash and investments. We do not enter into investments for trading or speculative purposes. Interest-earning instruments carry a degree of interest rate risk; however, a hypothetical 10% change in interest rates during any of the periods presented would not have had a material impact on our financial statements. 
+In July 2021, we entered into the Credit Agreement comprised of a $375.0 million Term Loan and a $50.0 million Revolving Credit Facility. From January to September 2025, interest rates on our Term Loan have been between 7.18% and 7.22%. In October and November 2025, the Term Loan has an interest rate of 7.03% and 6.83%, respectively. A one percentage point increase in the rate would not have a material impact on our financial statements.
+Foreign Currency Exchange Risk
+Substantially all of our sales contracts are denominated in U.S. dollars, with a limited number of contracts denominated in foreign currencies, including foreign denominated leases. A portion of our operating expenses are incurred outside the United States, denominated in foreign currencies and subject to fluctuations due to changes in foreign currency exchange rates, particularly changes in the Euro, British Pound, Australian dollar, Israeli New Shekel, Indian Rupee and Brazilian Real. Strengthening of the U.S. dollar compared to other currencies could result in lower international sales as our products would seem more expensive and could result in lower international operating costs as the U.S. dollar is the functional currency for all of our international subsidiaries. Additionally, fluctuations in foreign currency exchange rates may cause us to recognize remeasurement and transaction gains (losses) in our consolidated statements of operations. As the impact of foreign currency exchange rates has not been material to our historical operating results, we have not entered into derivative or hedging transactions, but we may do so in the future if our exposure to foreign currencies becomes more significant. 
+Inflation Risk
+
+While we do not believe that inflation has had a material effect on our business, results of operations, or financial condition through September 30, 2025, our costs, specifically employee-related and third-party cloud infrastructure costs, may become subject to significant inflationary pressures, and our inability or failure to fully offset such higher costs could harm our business, results of operations, or financial condition. 
+Item 4.        Controls and Procedures
+Evaluation of Disclosure Controls and Procedures
+We maintain “disclosure controls and procedures,” as defined in Rule 13a-15(e) and Rule 15d-15(e) under the Exchange Act, that are designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the SEC’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is accumulated and communicated to our management, including our principal executive and principal financial officers, as appropriate to allow timely decisions regarding required disclosure.
+37
+Table of Contents
+Our management, with the participation of our Co-Chief Executive Officers and Chief Financial Officer, have evaluated the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act), as of the end of the period covered by this Form 10-Q. Based on such evaluation, our Co-Chief Executive Officers and Chief Financial Officer have concluded that at September 30, 2025, our disclosure controls and procedures were effective to provide reasonable assurance that the information required to be disclosed by us in this Form 10-Q was (a) reported within the time periods specified by SEC rules and regulations, and (b) communicated to our management, including our Co-Chief Executive Officers and Chief Financial Officer, to allow timely decisions regarding any required disclosure.
+Changes in Internal Control Over Financial Reporting
+There were no changes in our internal control over financial reporting identified in management’s evaluation pursuant to Rules 13a-15(d) or 15d-15(d) of the Exchange Act during the period covered by this Form 10-Q that materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+Inherent Limitations on Effectiveness of Internal Controls
+In designing and evaluating the disclosure controls and procedures, management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable, not absolute, assurance of achieving the desired control objectives. In addition, the design of disclosure controls and procedures must reflect the fact that there are resource constraints and that management is required to apply judgment in evaluating the benefits of possible controls and procedures relative to their costs. Our management, including our Co-Chief Executive Officers and Chief Financial Officer, believes that our disclosure controls and procedures and internal control over financial reporting are designed to provide reasonable assurance of achieving their objectives and are effective at the reasonable assurance level. However, our management does not expect that our disclosure controls and procedures or our internal control over financial reporting will prevent all errors and all fraud.
+38
+Table of Contents
+PART II. OTHER INFORMATION
+Item 1.        Legal Proceedings
+From time to time, we may be subject to legal proceedings and claims in the ordinary course of business. We are not presently a party to any legal proceedings that, if determined adversely to us, would individually or taken together have a material adverse effect on our business, results of operations, financial condition or cash flows. We have received, and may in the future continue to receive, claims from third parties asserting, among other things, infringement of their intellectual property rights. Future litigation may be necessary to defend ourselves, our partners and our customers by determining the scope, enforceability and validity of third-party proprietary rights, or to establish our proprietary rights. The results of any current or future litigation cannot be predicted with certainty, and regardless of the outcome, litigation can have an adverse impact on us because of defense and settlement costs, diversion of management resources and other factors.
+Item 1A.    Risk Factors
+Except for the risk factors disclosed below, there have been no material changes to the risk factors disclosed in Part 1, Item 1A. "Risk Factors" of our Form 10-K for the year ended December 31, 2024 filed with the United States Securities and Exchange Commission ("SEC") on February 24, 2025. Our business is subject to risks and events that, if they occur, could adversely affect our financial condition and results of operations and trading price of our securities. In addition to the other information set forth in this Form 10-Q, you should carefully consider the factors described in Part I, Item 1A. “Risk Factors” of our Form 10-K for the year ended December 31, 2024. We may disclose additional changes to risk factors or disclose additional factors from time to time in our future filings with the SEC. Additional risks and uncertainties not presently known to us or that we currently deem immaterial also may impair our business operations.
+We have incorporated and may in the future further incorporate generative and other types of AI processes, algorithms, and technologies into certain of our products and services. This technology is new and developing, and may generate output that is inaccurate or flawed or may not achieve market acceptance, which could result in operational, financial, regulatory, and reputational harm and other adverse consequences to our business.
+We have incorporated and may in the future further incorporate AI features in certain of our products and services, including ExposureAI and Tenable AI Assistant. The use of generative AI processes at scale is relatively new, and may lead to challenges, concerns and risks, including various privacy and security risks that are significant or that we may not be able to predict, especially if our use of these technologies in our products and services becomes more important to our operations over time. The technologies underpinning these features are in the early stages of commercial use and exist in an emerging regulatory environment, which presents regulatory, litigation, ethical, reputational, operational and financial risks. AI in our products and services may be difficult to deploy successfully due to operational issues inherent to the nature of such technologies, including the development, maintenance and operation of deep learning datasets.
+Additionally, if we do not have adequate rights to utilize the data or other materials and content that our AI technologies depend on, we may face legal consequences for violating applicable laws, third-party intellectual property, privacy or other rights, or contracts to which we are a party.
+Uncertainty in the legal regulatory regime relating to AI and emerging ethical issues surrounding the use of AI may require significant resources to modify and maintain business practices to comply with U.S. and non-U.S. laws, the nature of which cannot be determined at this time. Existing laws and regulations may apply to us or our suppliers, vendors, partners and customers in new ways, and new laws and regulations may be instituted. Many U.S. and international governmental bodies and regulators have proposed, enacted or are in the process of developing new regulations related to the use of AI and machine learning technologies. For example, the European Union authorities recently adopted a legal framework on AI regulation, the Artificial Intelligence Act, which applies beyond the European Union’s borders and establishes obligations for AI providers and those deploying AI systems. Other jurisdictions may adopt similar or potentially more restrictive laws, which may render the use of such technologies challenging. The final form of these may impose obligations related to our development, offering and use of AI technologies and expose us to increased risk of regulatory enforcement and litigation.
+39
+Table of Contents
+Any sensitive information (including confidential, competitive, proprietary, or personal data) that we input into a third-party generative AI platform could be leaked or disclosed to others, including if sensitive information is used to train the third party’s AI model. Additionally, where an AI model ingests personal data and makes connections using such data, those technologies may reveal other personal or sensitive information generated by the model.
+Our AI technology features may also generate output that is misleading, insecure, inaccurate, harmful or otherwise flawed. Agentic AI solutions may compound those risks by taking or implementing actions or outputs, which themselves may be based on flawed outputs, that further increase the risk of misleading, insecure, inaccurate, harmful or otherwise flawed outcomes. This risk extends to our enterprise operations, as employee use of unvetted third-party agentic AI solutions, such as browser plug-ins or other automated applications, could result in actions being taken without adequate human review. Such unauthorized automated actions could lead to the inadvertent disclosure or modification of corporate data, flawed communications to customers or partners, or the creation of unintended legal or financial obligations on behalf of the company. Our customers or others may rely on or use such misleading, insecure, harmful or otherwise flawed content to their detriment, which may harm our brand, reputation, business or customers, cause competitive harm or expose us to legal liability. For example, AI algorithms use machine learning and predictive analytics, which may be insufficient or of poor quality and reflect inherent biases and could lead to flawed, biased, and inaccurate results. Deficient or inaccurate recommendations, forecasts, or analyses that generative AI applications assist in producing could lead to customer rejection or skepticism of our products, affect our reputation or brand, and negatively affect our financial results. Further, unauthorized use or misuse of AI by our employees or others may result in disclosure of confidential company and customer data, reputational harm, privacy law violations and legal liability. Our use of generative AI may also lead to novel and urgent cybersecurity risks, including those related to personal data, which may adversely affect our operations and reputation.
+We rely on our third-party channel partner network of distributors and resellers to generate a substantial amount of our revenue.
+Our success is dependent in part upon establishing and maintaining relationships with a variety of channel partners that we utilize to extend our geographic reach and market penetration. We typically use a two-tiered channel model whereby we sell our products and services to our distributors, who in turn sell to our resellers, who then sell to our end users, who we call customers. We anticipate that we will continue to rely on this two-tiered sales model in order to help facilitate sales of our offerings as part of larger purchases in the United States and to grow our business internationally. Revenue derived through our channel network comprised 94% of revenue in the nine months ended September 30, 2025 and 2024, respectively, and the percentage of revenue derived from channel partners may continue to increase in future periods. Ingram Micro, one of our distributors, accounted for 32% and 34% of revenue in the nine months ended September 30, 2025 and 2024, respectively, and 28% and 29% of accounts receivable at September 30, 2025 and December 31, 2024, respectively. Our reliance on these channel partners also means that any significant interruption to their systems could harm our business. For example, a major distributor experiencing a significant operational failure or cybersecurity incident, such as the recent ransomware attack that impacted Ingram Micro, could disrupt their ability to take orders and distribute products. Any such interruption could negatively affect our ability to sell and distribute our products through that partner, which could materially and adversely impact our business, financial position, and results of operations. 
+Our agreements with our channel partners, including our agreement with Ingram Micro, are non-exclusive and do not prohibit them from working with our competitors or offering competing solutions, and some of our channel partners may have more established relationships with our competitors. Similarly, our channel partners have no obligations to renew their agreements with us on commercially reasonable terms or at all, and certain of the agreements governing these relationships may be terminated by either party at any time, with no or limited notice. For example, our agreement with Ingram Micro allows Ingram Micro to terminate the agreement at their discretion upon 30 days’ written notice to us. If our channel partners choose to place greater emphasis on products of their own or those offered by our competitors, or as a result of an acquisition, competitive factors or other reasons do not continue to market and sell our solutions in an effective manner or at all, our ability to grow our business and sell our solutions, particularly in key international markets, may be adversely affected. In addition, our failure to recruit additional channel partners, or any reduction or delay in their sales of our solutions and professional services, including as a result of economic uncertainty, legal or regulatory actions, such as government investigations or law enforcement activities, impacting their business, or conflicts between channel sales and our direct sales and marketing activities may harm our results of operations. Finally, even if we are successful, 
+40
+Table of Contents
+our relationships with channel partners may not result in greater customer usage of our solutions and professional services or increased revenue.
+A portion of our revenue is generated from subscriptions and perpetual licenses sold to domestic governmental entities, foreign governmental entities and other heavily regulated organizations, which are subject to a number of challenges and risks.
+A portion of our revenue is generated from subscriptions and perpetual licenses sold to governmental entities in the United States. Additionally, many of our current and prospective customers, such as those in the financial services, energy, insurance and healthcare industries, are highly regulated and may be required to comply with more stringent regulations in connection with subscribing to and implementing our enterprise platform. Selling licenses to these entities can be highly competitive, expensive and time-consuming, often requiring significant upfront time and expense without any assurance that we will successfully complete a sale. Governmental demand and payment for our enterprise platform may also be impacted by public sector budgetary cycles and funding authorizations, the operational stability of federal agencies, and the prioritization of cybersecurity and digital infrastructure initiatives. Funding reductions or delays, including those resulting from a U.S. government shutdown, removal of agency operating budgets or deprioritization of cybersecurity digital infrastructure related initiatives would adversely affect public sector demand for our enterprise platform. For example, the new U.S. presidential administration’s commitment and actions to reduce government spending, including, but not limited to, those driven by the Department of Government Efficiency (DOGE), may impact the availability of funding for U.S. government customers as a result of the elimination of departments and personnel. These actions may lead to elongated sales cycles and procurement decisions in the second half of 2025 and could result in fewer contract opportunities or reduced funding for existing initiatives, all of which would adversely affect our business and financial performance. In addition, governmental entities have the authority to terminate contracts at any time for the convenience of the government, which creates risk regarding revenue anticipated under our existing government contracts.
+Further, governmental and highly regulated entities often require contract terms that differ from our standard customer arrangements, including terms that can lead to those customers obtaining broader rights in our solutions than would be expected under a standard commercial contract and terms that can allow for early termination. The U.S. government will be able to terminate any of its contracts with us either for its convenience or if we default by failing to perform in accordance with the contract schedule and terms. Termination for convenience provisions would generally enable us to recover only our costs incurred or committed, settlement expenses, and profit on the work completed prior to termination. Termination for default provisions do not permit these recoveries and would make us liable for excess costs incurred by the U.S. government in procuring undelivered items from another source. Contracts with governmental and highly regulated entities may also include preferential pricing terms. In the United States, federal government agencies may promulgate regulations, and the President may issue executive orders, requiring federal contractors to adhere to different or additional requirements after a contract is signed. If we do not meet applicable requirements of law or contract, we could be subject to significant liability from our customers or regulators. Even if we do meet these requirements, the additional costs associated with providing our enterprise platform to government and highly regulated customers could harm our operating results. Moreover, changes in the underlying statutory and regulatory conditions that affect these types of customers could harm our ability to efficiently provide them access to our enterprise platform and to grow or maintain our customer base. In addition, engaging in sales activities to foreign governments introduces additional compliance risks, including risks specific to anti-bribery regulations, including the U.S. Foreign Corrupt Practices Act of 1977, as amended, or the FCPA, the U.K. Bribery Act 2010 and other similar statutory requirements prohibiting bribery and corruption in the jurisdictions in which we operate. Further, in some jurisdictions we may be required to obtain government certifications, which may be costly to maintain and, if we lost such certifications in the future or if such certification requirements changed, would restrict our ability to sell to government entities until we have attained such certifications.
+Some of our revenue is derived from contracts with U.S. government entities, as well as subcontracts with higher-tier contractors and customers who receive government funding. As a result, we are subject to federal contracting regulations, including the Federal Acquisition Regulation, or the FAR. Under the FAR, certain types of contracts require pricing that is based on estimated direct and indirect costs, which are subject to change. 
+In connection with our U.S. government contracts, we may be subject to government audits and review of our policies, procedures, and internal controls for compliance with contract terms, procurement regulations, and applicable laws. In 
+41
+Table of Contents
+certain circumstances, if we do not comply with the terms of a contract or with regulations or statutes, we could be subject to contract termination or downward contract price adjustments or refund obligations, could be assessed civil or criminal penalties, or could be debarred or suspended from obtaining future government contracts for a specified period of time. Any such termination, adjustment, sanction, debarment or suspension could have an adverse effect on our business. Moreover, as a U.S. government contractor, we maintain plans to ensure compliance with nondiscrimination and regulatory requirements for qualified employees on the basis of gender, race, disability and veteran status. Consequently, we may be subject to executive orders and regulatory changes affecting various aspects of our operations, including compliance with nondiscrimination plans. Any required elimination or modification of such plans in response to new executive orders could pose challenges in hiring or retaining employees and may lead to other adverse operational impacts. Failure to comply with these requirements could expose us to administrative, civil, or criminal liabilities, including fines, penalties, repayments or suspension or debarment from eligibility for future U.S. government contracts. Further, as a U.S. government contractor, we are subject to an increased risk of investigations, criminal prosecution, civil fraud, whistleblower lawsuits and other legal actions and liabilities as compared to solely private sector commercial companies.
+In the course of providing our solutions and professional services to governmental entities, our employees and those of our channel partners may be exposed to sensitive government information. Any failure by us or our channel partners to safeguard and maintain the confidentiality of such information could subject us to liability and reputational harm, which could materially and adversely affect our results of operations and financial performance.
+Unstable market and economic conditions may have material adverse consequences on our business, financial condition and share price.
+The global economy, including credit and financial markets, recently experienced extreme volatility and disruptions, including severely diminished liquidity and credit availability, declines in consumer confidence, declines in economic growth, increases in unemployment rates, inflation, interest rate fluctuations, increased global trade barriers, and uncertainty about economic stability. For example, in recent years the high rates of inflation, high interest rates and concerns about an economic recession in the United States or other major markets resulted in widespread unemployment, economic slowdown and extreme volatility in the capital markets. In 2022 and 2023, the Federal Reserve raised interest rates multiple times in response to concerns about inflation. While the Federal Reserve decreased interest rates in 2024, interest rates remain high and the Federal Reserve is not expected to significantly decrease interest rates in the immediate future. Higher interest rates, coupled with reduced government spending and volatility in financial markets, including with respect to foreign exchange, may increase economic uncertainty and affect consumer spending. For example, during periods with a relatively strong U.S. dollar, our products are more expensive for existing and prospective international customers, which has impacted, and in the future could impact the budgets and purchasing decisions of certain of our existing and prospective international customers.
+Increased inflation rates can adversely affect us by increasing our costs, including labor and employee benefit costs. In addition, higher inflation could also increase our customers’ operating costs, which could result in reduced budgets for our customers, longer sales cycles and potentially less demand for our products. Any significant increases in inflation and related increases in interest rates could have a material adverse effect on our business, results of operations and financial condition.
+In addition, recent tariff actions and escalating trade tensions have contributed to heightened market uncertainty and increased operating costs for certain customers, which may cause private-sector customers to defer or reprioritize purchasing decisions as they assess potential impacts from ongoing trade negotiations and regulatory developments, which could extend enterprise procurement cycles and would adversely impact our business.
+In addition, retaliatory trade policies or anti-U.S. sentiment in certain regions whether driven by trade tensions, political disagreements, or regulatory concerns may make customers more hesitant to adopt solutions offered by U.S.-based providers. This may lead to increased preference for local competitors, changes to government procurement policies, heightened regulatory scrutiny, decreased intellectual property protections, delays in regulatory approvals or other retaliatory regulatory non-tariff policies, the introduction of trade barriers applicable to digital services, which may result in heightened international legal and operational risks and difficulties in attracting and retaining non-U.S. customers, suppliers, employees, partners and investors.
+42
+Table of Contents
+Trade disputes, trade restrictions, tariffs, and other political tensions between the U.S. and other countries may also exacerbate unfavorable macroeconomic conditions including inflationary pressures, foreign exchange volatility, financial market instability, and economic recessions or downturns, which may also negatively impact customer demand for our services, delay renewals or limit expansion opportunities with existing customers, limit our access to capital, or otherwise negatively impact our business and operations. Ongoing tariff and macroeconomic uncertainty has and may continue to contribute to volatility in the price of our common stock. Furthermore, if the equity and credit markets deteriorate, including as a result of political unrest or war, it may make any necessary debt or equity financing more difficult to obtain in a timely manner or on favorable terms, more costly or more dilutive.
+While we continue to monitor trade developments, the ultimate impact of these risks remains uncertain and any prolonged economic downturn, escalation in trade tensions, or deterioration in international perception of U.S.-based companies could materially and adversely affect our business, results of operations, financial condition and prospects. In addition, tariffs and other trade developments have and may continue to heighten the risks related to the other risk factors described elsewhere in this report and in our Form 10-K for the year ended December 31, 2024.
+Item 2.        Unregistered Sales of Equity Securities and Issuer Purchases of Equity Securities
+Unregistered Sales of Equity Securities
+None.
+Use of Proceeds 
+None.
+Issuer Purchases of Equity Securities
+A summary of stock repurchases during the three months ended September 30, 2025 is presented below:
+(in thousands, except for per share data)
+Shares Purchased
+Average Price Paid Per Share
+Total Number of Shares Purchased as Part of Publicly Announced Plan
+(1)
+Approximate Dollar Value of Shares that May Yet Be Purchased Under Plan
+(1)
+Shares purchased July 1, 2025 to July 31, 2025
+— 
+$
+— 
+— 
+$
+310,090 
+Shares purchased August 1, 2025 to August 31, 2025
+1,148 
+30.04 
+1,148 
+275,587 
+Shares purchased September 1, 2025 to September 30, 2025
+841 
+30.29 
+841 
+250,121 
+1,989 
+30.15 
+_______________
+(1)
+    In November 2023, our Board of Directors authorized the repurchase of up to $100 million of our common stock. In October 2024 and July 2025, our Board of Directors increased the repurchase authorization by $200 million and $250 million, respectively, bringing the total authorized amount to $550 million. The authorization has no expiration date. Repurchases under the share repurchase program may be made in the open market, in privately negotiated transactions, or in such other manner as determined by us, including through repurchase plans complying with the rules and regulations of the Securities and Exchange Commission. The authorization has no expiration date.
+Items 3, 4 and 5 are not applicable and have been omitted.
+43
+Table of Contents
+Item 6.        Exhibits
+The following is a list of Exhibits filed as part of this Quarterly Report on Form 10-Q:
+Exhibit Number
+Description
+Location
+3.1
+Amended and Restated Certificate of Incorporation of Tenable Holdings, Inc.
+Previously filed as Exhibit 3.1 to the Company's Current Report on Form 8-K (File No. 001-38600) on July 30, 2018
+3.2
+Second Amended and Restated Bylaws of Tenable Holdings, Inc.
+Previously filed as Exhibit 3.1 to the Company's Current Report on Form 8-K (File No. 001-38600) on November 15, 2023
+4.1
+Common Stock Certificate of Tenable Holdings, Inc.
+Previously filed as Exhibit 4.1 to the Company's Registration Statement on Form S-1 (File No. 333-226002) on July 16, 2018
+10.1
+Amendment No. 1 to Amended and Restated Employment Agreement, dated August 5, 2025, by and between Tenable, Inc. and Stephen A. Vintz
+Previously filed as Exhibit 10.2 to the Company's Quarterly Report on Form 10-Q (File No. 001-38600) on August 8, 2025
+10.2
+Amendment No. 1 to Employment Agreement, dated August 5, 2025, by and between Tenable, Inc. and Mark Thurmond
+Previously filed as Exhibit 10.3 to the Company's Quarterly Report on Form 10-Q (File No. 001-38600) on August 8, 2025
+10.3
+Employment Agreement, dated August 19, 2025, by and between Tenable, Inc. and Matthew Brown
+Previously filed as Exhibit 10.1 to the Company's Current Report on Form 8-K (File No. 001-38600) on August 21, 2025
+31.1
+Certification of the Principal Executive Officer
+
+pursuant to Rules 13a-14(a)
+
+and 
+15d-14(a) under the Exchange Act, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+Filed herewith
+31.2
+Certification 
+of the 
+Principal Financial Officer pursuant to Rules 13a-14(a)
+ and 
+15d-14(a) under the Exchange Act, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+Filed herewith
+32.1*
+Certification of the Principal Executive Officer and the Principal Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+Furnished herewith
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+104
+Cover Page Interactive Data File (formatted as Inline XBRL with applicable taxonomy extension information contained in Exhibits 101.SCH, 101.CAL, 101.DEF, 101.LAB and 101.PRE)
+________________
+(*)    This certification is deemed not filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liability of that section, nor shall it be deemed incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended.
+(+)    Pursuant to Item 601(a)(5) of Regulation S-K, certain schedules and similar attachments have been omitted. The registrant hereby agrees to furnish a copy of any omitted schedule or similar attachment to the SEC upon request; provided, however, that Tenable may request confidential treatment pursuant to Rule 24b-2 of the Exchange Act for any schedule or exhibit so furnished.
+44
+Table of Contents
+(#)    Pursuant to Item 601(b)(10)(iv) of Regulation S-K promulgated by the SEC, certain portions of this exhibit have been redacted because the registrant customarily and actually treats such omitted information as private or confidential and because such omitted information is not material.
+45
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+TENABLE HOLDINGS, INC.
+Date:
+November 4, 2025
+By:
+/s/ Stephen A. Vintz
+Stephen A. Vintz
+Co-Chief Executive Officer
+(Principal Executive Officer)
+Date:
+November 4, 2025
+By:
+/s/ Mark C. Thurmond
+Mark C. Thurmond
+Co-Chief Executive Officer
+Date:
+November 4, 2025
+By:
+/s/ Matthew Brown
+Matthew Brown
+Chief Financial Officer
+(Principal Financial Officer)
+46

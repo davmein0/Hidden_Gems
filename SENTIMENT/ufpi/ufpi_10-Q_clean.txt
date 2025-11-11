@@ -1,0 +1,13634 @@
+UFP INDUSTRIES, INC._September 27, 2025
+0000912767
+--12-27
+2025
+Q3
+false
+0000912767
+us-gaap:SubsequentEventMember
+2025-09-28
+2025-09-28
+0000912767
+ufpi:StockPurchasePlanMember
+2024-12-29
+2025-09-27
+0000912767
+ufpi:StockGiftProgramMember
+2024-12-29
+2025-09-27
+0000912767
+ufpi:LtsipMember
+2024-12-29
+2025-09-27
+0000912767
+ufpi:ExecutiveStockMatchGrantsMember
+2024-12-29
+2025-09-27
+0000912767
+ufpi:DirectorCompensationPlanMember
+2024-12-29
+2025-09-27
+0000912767
+ufpi:DeferredCompensationPlansMember
+2024-12-29
+2025-09-27
+0000912767
+ufpi:StockRetainerPlanMember
+2023-12-31
+2024-09-28
+0000912767
+ufpi:StockPurchasePlanMember
+2023-12-31
+2024-09-28
+0000912767
+ufpi:StockGiftProgramMember
+2023-12-31
+2024-09-28
+0000912767
+ufpi:LtsipMember
+2023-12-31
+2024-09-28
+0000912767
+ufpi:ExecutiveStockMatchGrantsMember
+2023-12-31
+2024-09-28
+0000912767
+ufpi:DeferredCompensationPlansMember
+2023-12-31
+2024-09-28
+0000912767
+us-gaap:StockCompensationPlanMember
+2024-12-29
+2025-09-27
+0000912767
+us-gaap:StockCompensationPlanMember
+2023-12-31
+2024-09-28
+0000912767
+us-gaap:RetainedEarningsMember
+2025-09-27
+0000912767
+us-gaap:NoncontrollingInterestMember
+2025-09-27
+0000912767
+us-gaap:CommonStockMember
+2025-09-27
+0000912767
+us-gaap:AdditionalPaidInCapitalMember
+2025-09-27
+0000912767
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-09-27
+0000912767
+us-gaap:RetainedEarningsMember
+2025-06-28
+0000912767
+us-gaap:NoncontrollingInterestMember
+2025-06-28
+0000912767
+us-gaap:CommonStockMember
+2025-06-28
+0000912767
+us-gaap:AdditionalPaidInCapitalMember
+2025-06-28
+0000912767
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-06-28
+0000912767
+us-gaap:RetainedEarningsMember
+2025-03-29
+0000912767
+us-gaap:NoncontrollingInterestMember
+2025-03-29
+0000912767
+us-gaap:CommonStockMember
+2025-03-29
+0000912767
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-29
+0000912767
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-03-29
+0000912767
+us-gaap:RetainedEarningsMember
+2024-12-28
+0000912767
+us-gaap:NoncontrollingInterestMember
+2024-12-28
+0000912767
+us-gaap:CommonStockMember
+2024-12-28
+0000912767
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-28
+0000912767
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-28
+0000912767
+us-gaap:RetainedEarningsMember
+2024-09-28
+0000912767
+us-gaap:NoncontrollingInterestMember
+2024-09-28
+0000912767
+us-gaap:CommonStockMember
+2024-09-28
+0000912767
+us-gaap:AdditionalPaidInCapitalMember
+2024-09-28
+0000912767
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-09-28
+0000912767
+us-gaap:RetainedEarningsMember
+2024-06-29
+0000912767
+us-gaap:NoncontrollingInterestMember
+2024-06-29
+0000912767
+us-gaap:CommonStockMember
+2024-06-29
+0000912767
+us-gaap:AdditionalPaidInCapitalMember
+2024-06-29
+0000912767
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-06-29
+0000912767
+us-gaap:RetainedEarningsMember
+2024-03-30
+0000912767
+us-gaap:NoncontrollingInterestMember
+2024-03-30
+0000912767
+us-gaap:CommonStockMember
+2024-03-30
+0000912767
+us-gaap:AdditionalPaidInCapitalMember
+2024-03-30
+0000912767
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-03-30
+0000912767
+us-gaap:RetainedEarningsMember
+2023-12-30
+0000912767
+us-gaap:NoncontrollingInterestMember
+2023-12-30
+0000912767
+us-gaap:CommonStockMember
+2023-12-30
+0000912767
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-30
+0000912767
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-12-30
+0000912767
+us-gaap:StockCompensationPlanMember
+2025-09-27
+0000912767
+ufpi:StockPurchasePlanMember
+2025-09-27
+0000912767
+ufpi:StockGiftProgramMember
+2025-09-27
+0000912767
+ufpi:LtsipMember
+2025-09-27
+0000912767
+ufpi:ExecutiveStockMatchGrantsMember
+2025-09-27
+0000912767
+ufpi:DirectorCompensationPlanMember
+2025-09-27
+0000912767
+ufpi:DeferredCompensationPlansMember
+2025-09-27
+0000912767
+us-gaap:StockCompensationPlanMember
+2024-09-28
+0000912767
+ufpi:StockRetainerPlanMember
+2024-09-28
+0000912767
+ufpi:StockPurchasePlanMember
+2024-09-28
+0000912767
+ufpi:StockGiftProgramMember
+2024-09-28
+0000912767
+ufpi:LtsipMember
+2024-09-28
+0000912767
+ufpi:ExecutiveStockMatchGrantsMember
+2024-09-28
+0000912767
+ufpi:DeferredCompensationPlansMember
+2024-09-28
+0000912767
+srt:MinimumMember
+2025-09-27
+0000912767
+srt:MaximumMember
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:RetailSegmentMember
+ufpi:ProwoodMember
+2025-06-29
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:RetailSegmentMember
+ufpi:DeckoratorsMember
+2025-06-29
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:PackagingMember
+ufpi:StructuralPackagingMember
+2025-06-29
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:PackagingMember
+ufpi:ProtectivePackagingMember
+2025-06-29
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:PackagingMember
+ufpi:PalletoneIncMember
+2025-06-29
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:ConstructionSegmentMember
+ufpi:SiteBuiltMember
+2025-06-29
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:ConstructionSegmentMember
+ufpi:FactoryBuiltMember
+2025-06-29
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:ConstructionSegmentMember
+ufpi:ConcreteFormingMember
+2025-06-29
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:ConstructionSegmentMember
+ufpi:CommercialMember
+2025-06-29
+2025-09-27
+0000912767
+us-gaap:IntersegmentEliminationMember
+us-gaap:AllOtherSegmentsMember
+2025-06-29
+2025-09-27
+0000912767
+us-gaap:IntersegmentEliminationMember
+ufpi:RetailSegmentMember
+2025-06-29
+2025-09-27
+0000912767
+us-gaap:IntersegmentEliminationMember
+ufpi:PackagingMember
+2025-06-29
+2025-09-27
+0000912767
+us-gaap:IntersegmentEliminationMember
+ufpi:ConstructionSegmentMember
+2025-06-29
+2025-09-27
+0000912767
+us-gaap:IntersegmentEliminationMember
+2025-06-29
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:RetailSegmentMember
+ufpi:ProwoodMember
+2024-12-29
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:RetailSegmentMember
+ufpi:OtherRetailMember
+2024-12-29
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:RetailSegmentMember
+ufpi:DeckoratorsMember
+2024-12-29
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:PackagingMember
+ufpi:StructuralPackagingMember
+2024-12-29
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:PackagingMember
+ufpi:ProtectivePackagingMember
+2024-12-29
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:PackagingMember
+ufpi:PalletoneIncMember
+2024-12-29
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:ConstructionSegmentMember
+ufpi:SiteBuiltMember
+2024-12-29
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:ConstructionSegmentMember
+ufpi:FactoryBuiltMember
+2024-12-29
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:ConstructionSegmentMember
+ufpi:ConcreteFormingMember
+2024-12-29
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:ConstructionSegmentMember
+ufpi:CommercialMember
+2024-12-29
+2025-09-27
+0000912767
+us-gaap:IntersegmentEliminationMember
+us-gaap:AllOtherSegmentsMember
+2024-12-29
+2025-09-27
+0000912767
+us-gaap:IntersegmentEliminationMember
+ufpi:RetailSegmentMember
+2024-12-29
+2025-09-27
+0000912767
+us-gaap:IntersegmentEliminationMember
+ufpi:PackagingMember
+2024-12-29
+2025-09-27
+0000912767
+us-gaap:IntersegmentEliminationMember
+ufpi:ConstructionSegmentMember
+2024-12-29
+2025-09-27
+0000912767
+us-gaap:IntersegmentEliminationMember
+2024-12-29
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:RetailSegmentMember
+ufpi:ProwoodMember
+2024-06-30
+2024-09-28
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:RetailSegmentMember
+ufpi:OtherRetailMember
+2024-06-30
+2024-09-28
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:RetailSegmentMember
+ufpi:DeckoratorsMember
+2024-06-30
+2024-09-28
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:PackagingMember
+ufpi:StructuralPackagingMember
+2024-06-30
+2024-09-28
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:PackagingMember
+ufpi:ProtectivePackagingMember
+2024-06-30
+2024-09-28
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:PackagingMember
+ufpi:PalletoneIncMember
+2024-06-30
+2024-09-28
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:ConstructionSegmentMember
+ufpi:SiteBuiltMember
+2024-06-30
+2024-09-28
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:ConstructionSegmentMember
+ufpi:FactoryBuiltMember
+2024-06-30
+2024-09-28
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:ConstructionSegmentMember
+ufpi:ConcreteFormingMember
+2024-06-30
+2024-09-28
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:ConstructionSegmentMember
+ufpi:CommercialMember
+2024-06-30
+2024-09-28
+0000912767
+us-gaap:IntersegmentEliminationMember
+us-gaap:AllOtherSegmentsMember
+2024-06-30
+2024-09-28
+0000912767
+us-gaap:IntersegmentEliminationMember
+ufpi:RetailSegmentMember
+2024-06-30
+2024-09-28
+0000912767
+us-gaap:IntersegmentEliminationMember
+ufpi:PackagingMember
+2024-06-30
+2024-09-28
+0000912767
+us-gaap:IntersegmentEliminationMember
+ufpi:ConstructionSegmentMember
+2024-06-30
+2024-09-28
+0000912767
+us-gaap:TransferredOverTimeMember
+2024-06-30
+2024-09-28
+0000912767
+us-gaap:TransferredAtPointInTimeMember
+2024-06-30
+2024-09-28
+0000912767
+us-gaap:IntersegmentEliminationMember
+2024-06-30
+2024-09-28
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:RetailSegmentMember
+ufpi:ProwoodMember
+2023-12-31
+2024-09-28
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:RetailSegmentMember
+ufpi:OtherRetailMember
+2023-12-31
+2024-09-28
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:RetailSegmentMember
+ufpi:DeckoratorsMember
+2023-12-31
+2024-09-28
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:PackagingMember
+ufpi:StructuralPackagingMember
+2023-12-31
+2024-09-28
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:PackagingMember
+ufpi:ProtectivePackagingMember
+2023-12-31
+2024-09-28
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:PackagingMember
+ufpi:PalletoneIncMember
+2023-12-31
+2024-09-28
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:ConstructionSegmentMember
+ufpi:SiteBuiltMember
+2023-12-31
+2024-09-28
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:ConstructionSegmentMember
+ufpi:FactoryBuiltMember
+2023-12-31
+2024-09-28
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:ConstructionSegmentMember
+ufpi:ConcreteFormingMember
+2023-12-31
+2024-09-28
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:ConstructionSegmentMember
+ufpi:CommercialMember
+2023-12-31
+2024-09-28
+0000912767
+us-gaap:IntersegmentEliminationMember
+us-gaap:AllOtherSegmentsMember
+2023-12-31
+2024-09-28
+0000912767
+us-gaap:IntersegmentEliminationMember
+ufpi:RetailSegmentMember
+2023-12-31
+2024-09-28
+0000912767
+us-gaap:IntersegmentEliminationMember
+ufpi:PackagingMember
+2023-12-31
+2024-09-28
+0000912767
+us-gaap:IntersegmentEliminationMember
+ufpi:ConstructionSegmentMember
+2023-12-31
+2024-09-28
+0000912767
+us-gaap:TransferredOverTimeMember
+2023-12-31
+2024-09-28
+0000912767
+us-gaap:TransferredAtPointInTimeMember
+2023-12-31
+2024-09-28
+0000912767
+us-gaap:IntersegmentEliminationMember
+2023-12-31
+2024-09-28
+0000912767
+2025-03-29
+0000912767
+2024-03-30
+0000912767
+2025-06-28
+0000912767
+2024-06-29
+0000912767
+ufpi:NationalSupplyMember
+ufpi:ConstructionSegmentMember
+2025-07-14
+2025-07-14
+0000912767
+ufpi:RwpWestLlcMember
+ufpi:ConstructionSegmentMember
+2025-06-16
+2025-06-16
+0000912767
+ufpi:CLWoodProductsMember
+ufpi:PackagingMember
+2024-12-23
+2024-12-23
+0000912767
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-06-29
+2025-09-27
+0000912767
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-03-30
+2025-06-28
+0000912767
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-29
+2025-03-29
+0000912767
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-06-30
+2024-09-28
+0000912767
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-03-31
+2024-06-29
+0000912767
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-12-31
+2024-03-30
+0000912767
+us-gaap:NoncontrollingInterestMember
+2024-12-29
+2025-03-29
+0000912767
+ufpi:PreviousOwnersOfDempseyWoodProductsIncMember
+ufpi:DempseyWoodProductsLlcMember
+2022-06-27
+0000912767
+ufpi:DempseyWoodProductsLlcMember
+2022-06-27
+0000912767
+us-gaap:NoncontrollingInterestMember
+2025-06-29
+2025-09-27
+0000912767
+us-gaap:NoncontrollingInterestMember
+2025-03-30
+2025-06-28
+0000912767
+us-gaap:NoncontrollingInterestMember
+2024-06-30
+2024-09-28
+0000912767
+us-gaap:NoncontrollingInterestMember
+2024-03-31
+2024-06-29
+0000912767
+us-gaap:NoncontrollingInterestMember
+2023-12-31
+2024-03-30
+0000912767
+us-gaap:GuaranteeOfIndebtednessOfOthersMember
+2025-09-27
+0000912767
+ufpi:InsuranceContractsAndOtherLegalAgreementsMember
+2025-09-27
+0000912767
+us-gaap:FairValueInputsLevel3Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:EquitySecuritiesMember
+2025-09-27
+0000912767
+us-gaap:FairValueInputsLevel3Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+ufpi:AlternativeInvestmentsMember
+2025-09-27
+0000912767
+us-gaap:FairValueInputsLevel2Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:MoneyMarketFundsMember
+2025-09-27
+0000912767
+us-gaap:FairValueInputsLevel2Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FixedIncomeSecuritiesMember
+2025-09-27
+0000912767
+us-gaap:FairValueInputsLevel1Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USTreasurySecuritiesMember
+2025-09-27
+0000912767
+us-gaap:FairValueInputsLevel1Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:MutualFundMember
+2025-09-27
+0000912767
+us-gaap:FairValueInputsLevel1Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:MoneyMarketFundsMember
+2025-09-27
+0000912767
+us-gaap:FairValueInputsLevel1Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FixedIncomeSecuritiesMember
+2025-09-27
+0000912767
+us-gaap:FairValueInputsLevel1Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:EquitySecuritiesMember
+2025-09-27
+0000912767
+us-gaap:FairValueInputsLevel1Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+ufpi:TargetFundsMember
+2025-09-27
+0000912767
+us-gaap:FairValueInputsLevel1Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+ufpi:InternationalStockFundsMember
+2025-09-27
+0000912767
+us-gaap:FairValueInputsLevel1Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+ufpi:DomesticStockFundsMember
+2025-09-27
+0000912767
+us-gaap:FairValueInputsLevel1Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+ufpi:BondFundsMember
+2025-09-27
+0000912767
+us-gaap:FairValueInputsLevel1Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+ufpi:AlternativeFundsMember
+2025-09-27
+0000912767
+us-gaap:OtherNoncurrentAssetsMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:EquitySecuritiesMember
+2025-09-27
+0000912767
+us-gaap:FairValueInputsLevel3Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-27
+0000912767
+us-gaap:FairValueInputsLevel2Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-27
+0000912767
+us-gaap:FairValueInputsLevel1Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-27
+0000912767
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USTreasurySecuritiesMember
+2025-09-27
+0000912767
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:MutualFundMember
+2025-09-27
+0000912767
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:MoneyMarketFundsMember
+2025-09-27
+0000912767
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FixedIncomeSecuritiesMember
+2025-09-27
+0000912767
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:EquitySecuritiesMember
+2025-09-27
+0000912767
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+ufpi:TargetFundsMember
+2025-09-27
+0000912767
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+ufpi:InternationalStockFundsMember
+2025-09-27
+0000912767
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+ufpi:DomesticStockFundsMember
+2025-09-27
+0000912767
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+ufpi:BondFundsMember
+2025-09-27
+0000912767
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+ufpi:AlternativeInvestmentsMember
+2025-09-27
+0000912767
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+ufpi:AlternativeFundsMember
+2025-09-27
+0000912767
+us-gaap:OtherNoncurrentAssetsMember
+us-gaap:EquitySecuritiesMember
+2025-09-27
+0000912767
+us-gaap:OtherNoncurrentAssetsMember
+ufpi:MoneyMarketAndMutualFundsMember
+2025-09-27
+0000912767
+us-gaap:InvestmentsMember
+ufpi:MutualFundsEquityAndAlternativeInvestmentsMember
+2025-09-27
+0000912767
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-27
+0000912767
+us-gaap:CashAndCashEquivalentsMember
+us-gaap:MoneyMarketFundsMember
+2025-09-27
+0000912767
+ufpi:RestrictedInvestmentsMember
+us-gaap:MoneyMarketFundsMember
+2025-09-27
+0000912767
+ufpi:RestrictedInvestmentsMember
+us-gaap:FixedIncomeSecuritiesMember
+2025-09-27
+0000912767
+us-gaap:FairValueInputsLevel3Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:EquitySecuritiesMember
+2024-12-28
+0000912767
+us-gaap:FairValueInputsLevel3Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+ufpi:AlternativeInvestmentsMember
+2024-12-28
+0000912767
+us-gaap:FairValueInputsLevel2Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:MoneyMarketFundsMember
+2024-12-28
+0000912767
+us-gaap:FairValueInputsLevel2Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FixedIncomeSecuritiesMember
+2024-12-28
+0000912767
+us-gaap:FairValueInputsLevel1Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USTreasurySecuritiesMember
+2024-12-28
+0000912767
+us-gaap:FairValueInputsLevel1Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:MutualFundMember
+2024-12-28
+0000912767
+us-gaap:FairValueInputsLevel1Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:MoneyMarketFundsMember
+2024-12-28
+0000912767
+us-gaap:FairValueInputsLevel1Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FixedIncomeSecuritiesMember
+2024-12-28
+0000912767
+us-gaap:FairValueInputsLevel1Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:EquitySecuritiesMember
+2024-12-28
+0000912767
+us-gaap:FairValueInputsLevel1Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+ufpi:TargetFundsMember
+2024-12-28
+0000912767
+us-gaap:FairValueInputsLevel1Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+ufpi:InternationalStockFundsMember
+2024-12-28
+0000912767
+us-gaap:FairValueInputsLevel1Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+ufpi:DomesticStockFundsMember
+2024-12-28
+0000912767
+us-gaap:FairValueInputsLevel1Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+ufpi:BondFundsMember
+2024-12-28
+0000912767
+us-gaap:FairValueInputsLevel1Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+ufpi:AlternativeFundsMember
+2024-12-28
+0000912767
+us-gaap:FairValueInputsLevel3Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-28
+0000912767
+us-gaap:FairValueInputsLevel2Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-28
+0000912767
+us-gaap:FairValueInputsLevel1Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-28
+0000912767
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USTreasurySecuritiesMember
+2024-12-28
+0000912767
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:MutualFundMember
+2024-12-28
+0000912767
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:MoneyMarketFundsMember
+2024-12-28
+0000912767
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FixedIncomeSecuritiesMember
+2024-12-28
+0000912767
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:EquitySecuritiesMember
+2024-12-28
+0000912767
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+ufpi:TargetFundsMember
+2024-12-28
+0000912767
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+ufpi:InternationalStockFundsMember
+2024-12-28
+0000912767
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+ufpi:DomesticStockFundsMember
+2024-12-28
+0000912767
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+ufpi:BondFundsMember
+2024-12-28
+0000912767
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+ufpi:AlternativeInvestmentsMember
+2024-12-28
+0000912767
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+ufpi:AlternativeFundsMember
+2024-12-28
+0000912767
+us-gaap:OtherNoncurrentAssetsMember
+us-gaap:EquitySecuritiesMember
+2024-12-28
+0000912767
+us-gaap:OtherNoncurrentAssetsMember
+ufpi:MoneyMarketAndMutualFundsMember
+2024-12-28
+0000912767
+us-gaap:InvestmentsMember
+ufpi:MutualFundsEquityAndAlternativeInvestmentsMember
+2024-12-28
+0000912767
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-28
+0000912767
+us-gaap:CashAndCashEquivalentsMember
+us-gaap:MoneyMarketFundsMember
+2024-12-28
+0000912767
+ufpi:RestrictedInvestmentsMember
+us-gaap:MoneyMarketFundsMember
+2024-12-28
+0000912767
+ufpi:RestrictedInvestmentsMember
+us-gaap:FixedIncomeSecuritiesMember
+2024-12-28
+0000912767
+ufpi:PackagingMember
+2024-12-29
+2025-09-27
+0000912767
+us-gaap:AllOtherSegmentsMember
+2024-12-29
+2025-09-27
+0000912767
+ufpi:RetailSegmentMember
+2024-12-29
+2025-09-27
+0000912767
+ufpi:ConstructionSegmentMember
+2024-12-29
+2025-09-27
+0000912767
+us-gaap:AllOtherSegmentsMember
+2025-09-27
+0000912767
+ufpi:RetailSegmentMember
+2025-09-27
+0000912767
+ufpi:PackagingMember
+2025-09-27
+0000912767
+ufpi:ConstructionSegmentMember
+2025-09-27
+0000912767
+us-gaap:AllOtherSegmentsMember
+2024-12-28
+0000912767
+ufpi:RetailSegmentMember
+2024-12-28
+0000912767
+ufpi:PackagingMember
+2024-12-28
+0000912767
+ufpi:ConstructionSegmentMember
+2024-12-28
+0000912767
+ufpi:DempseyWoodProductsLlcMember
+2025-09-27
+0000912767
+us-gaap:RetainedEarningsMember
+2023-12-31
+2024-03-30
+0000912767
+2023-12-30
+0000912767
+ufpi:ArdellisInsuranceLtd.Member
+us-gaap:USTreasurySecuritiesMember
+2025-09-27
+0000912767
+ufpi:ArdellisInsuranceLtd.Member
+us-gaap:USTreasurySecuritiesMember
+2024-12-28
+0000912767
+ufpi:ArdellisInsuranceLtd.Member
+us-gaap:FixedIncomeSecuritiesMember
+2025-09-27
+0000912767
+ufpi:ArdellisInsuranceLtd.Member
+us-gaap:FixedIncomeSecuritiesMember
+2024-12-28
+0000912767
+ufpi:ArdellisInsuranceLtd.Member
+us-gaap:MutualFundMember
+2025-09-27
+0000912767
+ufpi:ArdellisInsuranceLtd.Member
+ufpi:AlternativeInvestmentsMember
+2025-09-27
+0000912767
+ufpi:ArdellisInsuranceLtd.Member
+us-gaap:MutualFundMember
+2024-12-28
+0000912767
+ufpi:ArdellisInsuranceLtd.Member
+ufpi:AlternativeInvestmentsMember
+2024-12-28
+0000912767
+us-gaap:OperatingSegmentsMember
+us-gaap:AllOtherSegmentsMember
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:RetailSegmentMember
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:PackagingMember
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:ConstructionSegmentMember
+2025-09-27
+0000912767
+us-gaap:CorporateNonSegmentMember
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+us-gaap:AllOtherSegmentsMember
+2024-09-28
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:RetailSegmentMember
+2024-09-28
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:PackagingMember
+2024-09-28
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:ConstructionSegmentMember
+2024-09-28
+0000912767
+us-gaap:CorporateNonSegmentMember
+2024-09-28
+0000912767
+2024-12-28
+0000912767
+2024-09-28
+0000912767
+us-gaap:RetainedEarningsMember
+2025-06-29
+2025-09-27
+0000912767
+us-gaap:CommonStockMember
+2025-06-29
+2025-09-27
+0000912767
+us-gaap:RetainedEarningsMember
+2025-03-30
+2025-06-28
+0000912767
+us-gaap:CommonStockMember
+2025-03-30
+2025-06-28
+0000912767
+us-gaap:RetainedEarningsMember
+2024-12-29
+2025-03-29
+0000912767
+us-gaap:CommonStockMember
+2024-12-29
+2025-03-29
+0000912767
+us-gaap:RetainedEarningsMember
+2024-06-30
+2024-09-28
+0000912767
+us-gaap:CommonStockMember
+2024-06-30
+2024-09-28
+0000912767
+us-gaap:RetainedEarningsMember
+2024-03-31
+2024-06-29
+0000912767
+us-gaap:CommonStockMember
+2024-03-31
+2024-06-29
+0000912767
+us-gaap:CommonStockMember
+2023-12-31
+2024-03-30
+0000912767
+ufpi:OpenProjectsMember
+2025-09-27
+0000912767
+ufpi:CompletedProjectsMember
+2025-09-27
+0000912767
+us-gaap:TransferredOverTimeMember
+2025-06-29
+2025-09-27
+0000912767
+us-gaap:TransferredAtPointInTimeMember
+2025-06-29
+2025-09-27
+0000912767
+us-gaap:TransferredOverTimeMember
+2024-12-29
+2025-09-27
+0000912767
+us-gaap:TransferredAtPointInTimeMember
+2024-12-29
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+us-gaap:AllOtherSegmentsMember
+2025-06-29
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:RetailSegmentMember
+2025-06-29
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:PackagingMember
+2025-06-29
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:ConstructionSegmentMember
+2025-06-29
+2025-09-27
+0000912767
+us-gaap:CorporateNonSegmentMember
+2025-06-29
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+us-gaap:AllOtherSegmentsMember
+2024-12-29
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:RetailSegmentMember
+2024-12-29
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:PackagingMember
+2024-12-29
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:ConstructionSegmentMember
+2024-12-29
+2025-09-27
+0000912767
+us-gaap:CorporateNonSegmentMember
+2024-12-29
+2025-09-27
+0000912767
+us-gaap:OperatingSegmentsMember
+us-gaap:AllOtherSegmentsMember
+2024-06-30
+2024-09-28
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:RetailSegmentMember
+2024-06-30
+2024-09-28
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:PackagingMember
+2024-06-30
+2024-09-28
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:ConstructionSegmentMember
+2024-06-30
+2024-09-28
+0000912767
+us-gaap:CorporateNonSegmentMember
+2024-06-30
+2024-09-28
+0000912767
+us-gaap:OperatingSegmentsMember
+us-gaap:AllOtherSegmentsMember
+2023-12-31
+2024-09-28
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:RetailSegmentMember
+2023-12-31
+2024-09-28
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:PackagingMember
+2023-12-31
+2024-09-28
+0000912767
+us-gaap:OperatingSegmentsMember
+ufpi:ConstructionSegmentMember
+2023-12-31
+2024-09-28
+0000912767
+us-gaap:CorporateNonSegmentMember
+2023-12-31
+2024-09-28
+0000912767
+2023-12-31
+2024-09-28
+0000912767
+ufpi:ArdellisInsuranceLtd.Member
+us-gaap:EquitySecuritiesMember
+2025-09-27
+0000912767
+ufpi:ArdellisInsuranceLtd.Member
+us-gaap:EquitySecuritiesMember
+2024-12-28
+0000912767
+ufpi:DempseyWoodProductsLlcMember
+2022-06-27
+0000912767
+ufpi:NationalSupplyMember
+ufpi:ConstructionSegmentMember
+2025-07-14
+0000912767
+ufpi:RwpWestLlcMember
+ufpi:ConstructionSegmentMember
+2025-06-16
+0000912767
+ufpi:CLWoodProductsMember
+ufpi:PackagingMember
+2024-12-23
+0000912767
+us-gaap:AdditionalPaidInCapitalMember
+2025-06-29
+2025-09-27
+0000912767
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-30
+2025-06-28
+0000912767
+2025-03-30
+2025-06-28
+0000912767
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-29
+2025-03-29
+0000912767
+2024-12-29
+2025-03-29
+0000912767
+us-gaap:AdditionalPaidInCapitalMember
+2024-06-30
+2024-09-28
+0000912767
+2024-06-30
+2024-09-28
+0000912767
+us-gaap:AdditionalPaidInCapitalMember
+2024-03-31
+2024-06-29
+0000912767
+2024-03-31
+2024-06-29
+0000912767
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-31
+2024-03-30
+0000912767
+2023-12-31
+2024-03-30
+0000912767
+ufpi:ArdellisInsuranceLtd.Member
+2025-09-27
+0000912767
+ufpi:ArdellisInsuranceLtd.Member
+2024-12-28
+0000912767
+2025-06-29
+2025-09-27
+0000912767
+2025-09-27
+0000912767
+2024-12-29
+2025-09-27
+xbrli:shares
+iso4217:USD
+xbrli:pure
+ufpi:item
+iso4217:USD
+xbrli:shares
+Table of Contents
+
+​
+​
+​
+​
+​
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 
+10-Q
+​
+​
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended 
+September 27, 2025
+OR
+​
+​
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+Commission File Number 
+0-22684
+UFP INDUSTRIES, INC.
+(Exact name of registrant as specified in its charter)
+​
+​
+​
+​
+​
+​
+Michigan
+
+38-1465835
+​
+​
+(State or other jurisdiction of incorporation or 
+​
+(I.R.S. Employer Identification Number)
+​
+​
+organization)
+​
+​
+​
+​
+​
+​
+​
+​
+​
+2801 East Beltline NE
+, 
+Grand Rapids
+, 
+Michigan
+​
+49525
+​
+​
+(Address of principal executive offices)
+​
+(Zip Code)
+​
+​
+Registrant’s telephone number, including area code 
+(
+616
+) 
+364-6161
+​
+​
+​
+​
+NONE
+​
+​
+(Former name or former address, if changed since last report.)
+​
+​
+​
+​
+​
+​
+​
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol
+Name of Each Exchange On Which Registered
+Common Stock, $1 par value
+UFPI
+The Nasdaq Stock Market, LLC
+​
+Indicate by checkmark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+Yes
+
+⌧
+ No 
+◻
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+Yes
+
+⌧
+ No 
+◻
+Indicate by checkmark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer”, “smaller reporting company”, and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+​
+​
+​
+​
+Large Accelerated Filer
+
+⌧
+Accelerated Filer 
+◻
+Non-Accelerated Filer 
+◻
+Smaller Reporting Company 
+☐
+​
+​
+​
+Emerging Growth Company 
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with a new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+☐
+Indicate by checkmark whether the registrant is a shell company (as defined by Rule 12b-2 of the Exchange Act). Yes 
+☐
+   No 
+⌧
+Indicate the number of shares outstanding of each of the issuer’s classes of common stock, as of the latest practicable date:
+​
+​
+​
+​
+​
+​
+Class
+
+Outstanding as of September 27, 2025
+​
+​
+Common stock, $1 par value
+​
+58,257,224
+​
+​
+=
+
+​
+​
+​
+​
+​
+​
+
+Table of Contents
+UFP INDUSTRIES, INC.
+TABLE OF CONTENTS
+PART I.
+​
+FINANCIAL INFORMATION.
+Page No.
+​
+​
+​
+​
+​
+Item 1.
+Financial Statements
+3
+​
+​
+​
+​
+​
+​
+Condensed Consolidated Balance Sheets at September 27, 2025, December 28, 2024 and September 28, 2024
+3
+​
+​
+​
+​
+​
+​
+Condensed Consolidated Statements of Earnings and Comprehensive Income for the 
+Three and Nine
+ Months Ended September 27, 2025 and September 28, 2024
+4
+​
+​
+​
+​
+​
+​
+Condensed Consolidated Statements of Shareholders’ Equity for the 
+Three and Nine
+ Months Ended September 27, 2025 and September 28, 2024
+5
+​
+​
+​
+​
+​
+​
+Condensed Consolidated Statements of Cash Flows for the Nine Months Ended September 27, 2025 and September 28, 2024
+7
+​
+​
+​
+​
+​
+​
+Notes to Unaudited Condensed Consolidated Financial Statements
+8
+​
+​
+​
+​
+​
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+22
+​
+​
+​
+​
+​
+Item 3.
+Quantitative and Qualitative Disclosures about Market Risk
+40
+​
+​
+​
+​
+​
+Item 4.
+Controls and Procedures
+41
+​
+​
+​
+​
+PART II.
+​
+OTHER INFORMATION
+​
+​
+​
+​
+​
+​
+Item 1.
+Legal Proceedings – NONE
+​
+​
+​
+​
+​
+​
+Item 1A.
+Risk Factors 
+41
+​
+​
+​
+​
+​
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+41
+​
+​
+​
+​
+​
+Item 3.
+Defaults upon Senior Securities – NONE
+​
+​
+​
+​
+​
+​
+Item 4.
+Mine Safety Disclosures – NONE
+​
+​
+​
+​
+​
+​
+Item 5.
+Other Information
+42
+​
+​
+​
+​
+​
+Item 6.
+Exhibits
+43
+​
+​
+​
+2
+
+Table of Contents
+UFP INDUSTRIES, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(Unaudited)
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+(in thousands of United States dollars, except share data)
+​
+September 27,
+​
+December 28,
+​
+September 28,
+​
+​
+
+2025
+
+2024
+
+2024
+​
+ASSETS
+​
+​
+​
+
+​
+​
+
+​
+​
+​
+CURRENT ASSETS:
+​
+​
+​
+
+​
+​
+
+​
+​
+​
+Cash and cash equivalents
+​
+$
+
+1,008,632
+
+$
+
+1,171,828
+
+$
+
+1,190,807
+​
+Restricted cash
+​
+
+3,062
+​
+
+7,766
+
+761
+​
+Investments
+​
+
+33,926
+​
+
+31,087
+
+38,935
+​
+Accounts receivable, net
+​
+
+607,537
+​
+
+500,920
+
+650,869
+​
+Inventories:
+​
+​
+​
+
+​
+​
+
+​
+​
+​
+Raw materials
+​
+
+354,021
+​
+
+388,435
+
+337,180
+​
+Finished goods
+​
+
+313,397
+​
+
+332,389
+
+308,249
+​
+Total inventories
+​
+
+667,418
+​
+
+720,824
+
+645,429
+​
+Income taxes receivable
+​
+
+2,571
+​
+
+20,588
+
+40,883
+​
+Assets held for sale
+​
+
+7,230
+​
+
+ —
+
+ —
+​
+Other current assets
+​
+
+56,708
+​
+
+50,012
+
+45,841
+​
+TOTAL CURRENT ASSETS
+​
+
+2,387,084
+​
+
+2,503,025
+​
+
+2,613,525
+​
+DEFERRED INCOME TAXES
+​
+
+5,231
+​
+
+5,263
+
+4,118
+​
+RESTRICTED INVESTMENTS
+​
+​
+
+48,488
+​
+
+39,140
+
+32,695
+​
+RIGHT OF USE ASSETS
+​
+​
+
+123,369
+​
+​
+
+114,721
+​
+​
+
+124,065
+​
+OTHER ASSETS
+​
+
+106,708
+​
+
+98,409
+
+98,759
+​
+GOODWILL
+​
+
+342,145
+​
+
+339,839
+
+336,092
+​
+INDEFINITE-LIVED INTANGIBLE ASSETS
+​
+
+7,324
+​
+
+7,300
+
+7,350
+​
+OTHER INTANGIBLE ASSETS, NET
+​
+
+139,305
+​
+
+152,498
+
+158,199
+​
+PROPERTY, PLANT AND EQUIPMENT:
+​
+​
+​
+
+​
+​
+
+​
+​
+​
+   Property, plant and equipment
+​
+​
+
+1,900,849
+​
+​
+
+1,750,211
+​
+​
+
+1,684,177
+​
+Less accumulated depreciation and amortization
+​
+
+ (
+924,952
+)
+​
+
+ (
+859,468
+)
+
+ (
+841,095
+)
+​
+        PROPERTY, PLANT AND EQUIPMENT, NET
+​
+​
+
+975,897
+​
+​
+
+890,743
+​
+​
+
+843,082
+​
+TOTAL ASSETS
+​
+​
+
+4,135,551
+​
+​
+
+4,150,938
+​
+​
+
+4,217,885
+​
+LIABILITIES AND SHAREHOLDERS’ EQUITY
+​
+​
+​
+
+​
+​
+
+​
+​
+​
+CURRENT LIABILITIES:
+​
+​
+​
+
+​
+​
+
+​
+​
+​
+Accounts payable
+​
+$
+
+231,905
+​
+$
+
+224,659
+
+$
+
+239,897
+​
+Accrued liabilities:
+​
+​
+​
+
+​
+​
+
+​
+​
+​
+Compensation and benefits
+​
+
+183,619
+​
+
+193,438
+
+216,798
+​
+Other
+​
+
+82,537
+​
+
+62,356
+
+76,791
+​
+Current portion of lease liability
+​
+​
+
+28,767
+​
+​
+
+27,870
+​
+​
+
+28,442
+​
+Current portion of long-term debt
+​
+
+5,386
+​
+
+4,125
+
+44,103
+​
+TOTAL CURRENT LIABILITIES
+​
+
+532,214
+​
+
+512,448
+
+606,031
+​
+LONG-TERM DEBT
+​
+
+229,007
+​
+
+229,830
+
+232,043
+​
+LEASE LIABILITY
+​
+​
+
+106,100
+​
+​
+
+95,095
+​
+​
+
+101,741
+​
+DEFERRED INCOME TAXES
+​
+
+30,270
+​
+
+31,244
+
+44,695
+​
+OTHER LIABILITIES
+​
+
+29,687
+​
+
+32,330
+
+34,029
+​
+TOTAL LIABILITIES
+​
+
+927,278
+​
+
+900,947
+
+1,018,539
+​
+TEMPORARY EQUITY:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Redeemable noncontrolling interest
+​
+$
+
+5,018
+​
+$
+
+5,366
+​
+$
+
+5,527
+​
+SHAREHOLDERS’ EQUITY:
+​
+​
+​
+
+​
+​
+
+​
+​
+​
+Controlling interest shareholders’ equity:
+​
+​
+​
+
+​
+​
+
+​
+​
+​
+Preferred stock, 
+no
+ par value; shares authorized 
+1,000,000
+; issued and outstanding, 
+none
+​
+$
+ —
+​
+$
+ —
+
+$
+ —
+​
+Common stock, $
+1
+ par value; shares authorized
+
+160,000,000
+; issued and outstanding, 
+58,257,224
+, 
+60,724,308
+ and 
+60,724,664
+​
+
+58,257
+​
+
+60,724
+
+60,725
+​
+Additional paid-in capital
+​
+
+434,441
+​
+
+403,379
+
+389,814
+​
+Retained earnings
+​
+
+2,689,507
+​
+
+2,775,280
+
+2,728,281
+​
+Accumulated other comprehensive loss
+​
+
+ (
+1,760
+)
+​
+
+ (
+15,311
+)
+
+ (
+4,386
+)
+​
+Total controlling interest shareholders’ equity
+​
+
+3,180,445
+​
+
+3,224,072
+
+3,174,434
+​
+Noncontrolling interest
+​
+
+22,810
+​
+
+20,553
+
+19,385
+​
+TOTAL SHAREHOLDERS’ EQUITY
+​
+
+3,203,255
+​
+
+3,244,625
+
+3,193,819
+​
+TOTAL LIABILITIES, TEMPORARY EQUITY AND SHAREHOLDERS’ EQUITY
+​
+$
+
+4,135,551
+​
+$
+
+4,150,938
+
+$
+
+4,217,885
+​
+See notes to consolidated condensed financial statements
+.
+​
+3
+
+Table of Contents
+UFP INDUSTRIES, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF EARNINGS
+AND COMPREHENSIVE INCOME
+(Unaudited)
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+(in thousands of United States dollars, except per share data)
+​
+Three Months Ended
+​
+Nine Months Ended
+​
+​
+​
+September 27,
+​
+September 28,
+​
+September 27,
+​
+September 28,
+​
+​
+
+2025
+
+2024
+
+2025
+
+2024
+
+NET SALES
+​
+$
+
+1,559,627
+
+$
+
+1,649,383
+
+$
+
+4,990,520
+
+$
+
+5,190,308
+
+COST OF GOODS SOLD
+​
+
+1,296,946
+​
+
+1,350,971
+
+4,146,909
+​
+
+4,203,075
+​
+GROSS PROFIT
+​
+
+262,681
+​
+
+298,412
+
+843,611
+​
+
+987,233
+​
+SELLING, GENERAL AND ADMINISTRATIVE EXPENSES
+​
+
+170,030
+​
+
+183,341
+
+531,279
+​
+
+578,555
+​
+NET LOSS (GAIN) ON DISPOSITION AND IMPAIRMENT OF ASSETS
+​
+​
+
+2,458
+​
+​
+ (
+453
+)
+​
+​
+
+6,212
+​
+​
+
+1,538
+​
+OTHER LOSSES (GAINS), NET
+​
+​
+
+722
+​
+​
+ (
+4,402
+)
+​
+​
+
+1,306
+​
+​
+ (
+5,643
+)
+​
+EARNINGS FROM OPERATIONS
+​
+
+89,471
+​
+
+119,926
+
+304,814
+​
+
+412,783
+​
+INTEREST EXPENSE
+​
+
+2,757
+​
+
+2,956
+
+8,142
+​
+
+9,259
+​
+INTEREST AND INVESTMENT INCOME
+​
+
+ (
+12,142
+)
+​
+
+ (
+17,217
+)
+
+ (
+34,016
+)
+​
+
+ (
+46,925
+)
+​
+EQUITY IN (EARNINGS) LOSS OF INVESTEE
+​
+​
+ (
+278
+)
+​
+​
+
+77
+​
+​
+ (
+1,072
+)
+​
+​
+
+1,313
+​
+INTEREST AND OTHER
+​
+
+ (
+9,663
+)
+​
+
+ (
+14,184
+)
+
+ (
+26,946
+)
+​
+
+ (
+36,353
+)
+​
+EARNINGS BEFORE INCOME TAXES
+​
+
+99,134
+​
+
+134,110
+
+331,760
+​
+
+449,136
+​
+INCOME TAXES
+​
+
+23,592
+​
+
+32,491
+
+75,924
+​
+
+100,186
+​
+NET EARNINGS
+​
+
+75,542
+​
+
+101,619
+
+255,836
+​
+
+348,950
+​
+NET EARNINGS ATTRIBUTABLE TO NONCONTROLLING INTEREST
+​
+
+ (
+196
+)
+​
+
+ (
+1,819
+)
+
+ (
+1,003
+)
+​
+
+ (
+2,429
+)
+​
+NET EARNINGS ATTRIBUTABLE TO CONTROLLING INTEREST
+​
+$
+
+75,346
+​
+$
+
+99,800
+
+$
+
+254,833
+​
+$
+
+346,521
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+EARNINGS PER SHARE – BASIC
+​
+$
+
+1.29
+​
+$
+
+1.64
+
+$
+
+4.29
+​
+$
+
+5.66
+​
+EARNINGS PER SHARE – DILUTED
+​
+$
+
+1.29
+​
+$
+
+1.64
+
+$
+
+4.28
+​
+$
+
+5.65
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+OTHER COMPREHENSIVE INCOME:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+NET EARNINGS
+​
+
+75,542
+​
+
+101,619
+
+255,836
+​
+
+348,950
+​
+OTHER COMPREHENSIVE INCOME (LOSS)
+​
+
+507
+​
+
+792
+
+15,426
+​
+
+ (
+8,318
+)
+​
+COMPREHENSIVE INCOME
+​
+
+76,049
+​
+
+102,411
+
+271,262
+​
+
+340,632
+​
+COMPREHENSIVE (INCOME) LOSS ATTRIBUTABLE TO NONCONTROLLING INTEREST
+​
+
+ (
+487
+)
+​
+
+ (
+1,032
+)
+
+ (
+2,878
+)
+​
+
+397
+​
+COMPREHENSIVE INCOME ATTRIBUTABLE TO CONTROLLING INTEREST
+​
+$
+
+75,562
+​
+$
+
+101,379
+
+$
+
+268,384
+​
+$
+
+341,029
+​
+​
+See notes to consolidated condensed financial statements.
+​
+4
+
+Table of Contents
+UFP INDUSTRIES, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY
+(Unaudited)
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+(in thousands of United States dollars, 
+​
+Controlling Interest Shareholders’ Equity
+​
+​
+​
+except share and per share data)
+​
+​
+​
+​
+Additional
+​
+​
+​
+​
+Accumulated Other
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Common
+​
+Paid-In
+​
+Retained
+​
+Comprehensive
+​
+Noncontrolling
+​
+​
+​
+​
+Temporary
+​
+
+Stock
+
+Capital
+
+Earnings
+
+Loss
+
+Interest (NCI)
+
+Total
+
+Equity
+Balance on December 28, 2024
+​
+$
+
+60,724
+​
+$
+
+403,379
+
+$
+
+2,775,280
+​
+$
+ (
+15,311
+)
+
+$
+
+20,553
+
+$
+
+3,244,625
+​
+$
+
+5,366
+Net earnings (loss)
+​
+​
+​
+​
+​
+​
+​
+​
+
+78,753
+​
+​
+​
+​
+​
+
+853
+​
+​
+
+79,606
+​
+
+ (
+183
+)
+Foreign currency translation adjustment
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+2,744
+​
+​
+ (
+31
+)
+​
+​
+
+2,713
+​
+
+ (
+2
+)
+Unrealized gain on debt securities
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+470
+​
+​
+​
+​
+​
+
+470
+​
+
+​
+Other
+​
+​
+​
+​
+​
+ (
+355
+)
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+ (
+355
+)
+​
+​
+
+99
+Cash dividends - $
+0.35
+ per share - quarterly
+​
+​
+​
+​
+​
+​
+​
+​
+ (
+21,322
+)
+​
+​
+​
+​
+​
+​
+​
+​
+ (
+21,322
+)
+​
+
+​
+Issuance of 
+7,197
+ shares under employee stock purchase plan
+​
+
+7
+​
+​
+
+643
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+650
+​
+
+​
+Issuance of 
+232,101
+ shares under stock grant programs
+​
+
+232
+​
+​
+
+3,055
+​
+​
+101
+​
+​
+​
+​
+​
+​
+​
+​
+
+3,388
+​
+
+​
+Issuance of 
+80,341
+ shares under deferred compensation plans
+​
+
+81
+​
+​
+ (
+81
+)
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+ —
+​
+
+​
+Repurchase of 
+649,060
+ shares
+​
+
+ (
+649
+)
+​
+​
+ (
+9,460
+)
+​
+​
+ (
+59,991
+)
+​
+​
+​
+​
+​
+​
+​
+​
+ (
+70,100
+)
+​
+
+​
+Expense associated with share-based compensation arrangements
+​
+​
+​
+​
+​
+
+11,493
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+11,493
+​
+
+​
+Accrued expense under deferred compensation plans
+​
+​
+​
+​
+​
+
+7,888
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+7,888
+​
+
+​
+Balance on March 29, 2025
+​
+$
+
+60,395
+​
+$
+
+416,562
+
+$
+
+2,772,821
+​
+$
+ (
+12,097
+)
+
+$
+
+21,375
+
+$
+
+3,259,056
+​
+$
+
+5,280
+Net earnings (loss)
+​
+​
+​
+​
+​
+​
+​
+​
+
+100,734
+​
+​
+​
+​
+​
+
+376
+​
+
+101,110
+​
+
+ (
+239
+)
+Foreign currency translation adjustment
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+10,239
+​
+​
+
+1,615
+​
+
+11,854
+​
+
+2
+Unrealized loss on debt securities
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+ (
+118
+)
+​
+​
+​
+​
+
+ (
+118
+)
+​
+
+​
+Other
+​
+​
+​
+​
+​
+ (
+1,818
+)
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+ (
+1,818
+)
+​
+​
+
+210
+Distributions to NCI
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+ (
+285
+)
+​
+
+ (
+285
+)
+​
+
+​
+Cash dividends - $
+0.35
+ per share - quarterly
+​
+​
+​
+​
+​
+​
+​
+​
+ (
+20,656
+)
+​
+​
+​
+​
+​
+​
+​
+
+ (
+20,656
+)
+​
+
+​
+Issuance of 
+7,593
+ shares under employee stock purchase plan
+​
+
+8
+​
+​
+
+636
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+644
+​
+
+​
+Issuance of 
+26,949
+ shares under stock grant programs
+​
+
+27
+​
+​
+
+17
+​
+​
+1
+​
+​
+​
+​
+​
+​
+​
+
+45
+​
+
+​
+Issuance of 
+10,998
+ shares under deferred compensation plans
+​
+
+10
+​
+​
+ (
+10
+)
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+ —
+​
+
+​
+Repurchase of 
+1,874,279
+ shares
+​
+​
+ (
+1,874
+)
+​
+​
+ (
+13
+)
+​
+​
+ (
+189,506
+)
+​
+​
+​
+​
+​
+​
+​
+​
+ (
+191,393
+)
+​
+​
+​
+Expense associated with share-based compensation arrangements
+​
+​
+​
+​
+​
+
+8,755
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+8,755
+​
+
+​
+Accrued expense under deferred compensation plans
+​
+​
+​
+​
+​
+
+1,269
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+1,269
+​
+
+​
+Balance on June 28, 2025
+​
+$
+
+58,566
+​
+$
+
+425,398
+
+$
+
+2,663,394
+​
+$
+ (
+1,976
+)
+
+$
+
+23,081
+
+$
+
+3,168,463
+​
+$
+
+5,253
+Net earnings (loss)
+​
+​
+​
+​
+​
+​
+​
+​
+
+75,346
+​
+​
+​
+​
+​
+
+253
+​
+​
+
+75,599
+​
+​
+ (
+55
+)
+Foreign currency translation adjustment
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+ (
+354
+)
+​
+​
+
+471
+​
+​
+
+117
+​
+​
+ (
+180
+)
+Unrealized loss on debt securities
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+570
+​
+​
+​
+​
+​
+
+570
+​
+​
+​
+Other
+​
+​
+​
+​
+​
+ (
+177
+)
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+ (
+177
+)
+​
+​
+​
+Distributions to NCI
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+ (
+995
+)
+​
+​
+ (
+995
+)
+​
+​
+​
+Purchase of remaining NCI of subsidiary
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+ —
+​
+​
+​
+Redeemable NCI
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+ —
+​
+​
+​
+Cash dividends - $
+0.35
+ per share - quarterly
+​
+​
+​
+​
+​
+​
+​
+​
+ (
+20,512
+)
+​
+​
+​
+​
+​
+​
+​
+​
+ (
+20,512
+)
+​
+​
+​
+Issuance of 
+7,299
+ shares under employee stock purchase plan
+​
+​
+
+7
+​
+​
+
+565
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+572
+​
+​
+​
+Net forfeitures of  
+30,601
+ shares under stock grant programs
+​
+​
+ (
+30
+)
+​
+​
+
+37
+​
+​
+
+37
+​
+​
+​
+​
+​
+​
+​
+​
+
+44
+​
+​
+​
+Issuance of 
+10,940
+ shares under deferred compensation plans
+​
+​
+
+11
+​
+​
+ (
+11
+)
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+ —
+​
+​
+​
+Repurchase of 
+296,562
+ shares
+​
+​
+ (
+297
+)
+​
+​
+ (
+22
+)
+​
+​
+ (
+28,758
+)
+​
+​
+​
+​
+​
+​
+​
+​
+ (
+29,077
+)
+​
+​
+​
+Expense associated with share-based compensation arrangements
+​
+​
+​
+​
+​
+
+7,497
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+7,497
+​
+​
+​
+Accrued expense under deferred compensation plans
+​
+​
+​
+​
+​
+
+1,154
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+1,154
+​
+​
+​
+Balance on September 27, 2025
+​
+$
+
+58,257
+​
+$
+
+434,441
+​
+$
+
+2,689,507
+​
+$
+ (
+1,760
+)
+​
+$
+
+22,810
+​
+$
+
+3,203,255
+​
+$
+
+5,018
+​
+​
+5
+
+Table of Contents
+UFP INDUSTRIES, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY, CONTINUED
+(Unaudited)
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+(in thousands of United States dollars, 
+​
+Controlling Interest Shareholders’ Equity
+​
+​
+​
+except share and per share data)
+​
+​
+​
+​
+Additional
+​
+​
+​
+​
+Accumulated Other
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Common
+​
+Paid-In
+​
+Retained
+​
+Comprehensive
+​
+Noncontrolling
+​
+​
+​
+​
+Temporary
+​
+
+Stock
+
+Capital
+
+Earnings
+
+Earnings (Loss)
+
+Interest (NCI)
+
+Total
+
+Equity
+Balance on December 30, 2023
+​
+$
+
+61,621
+​
+$
+
+354,702
+​
+$
+
+2,582,332
+​
+$
+
+1,106
+​
+$
+
+30,429
+
+$
+
+3,030,190
+​
+$
+
+20,030
+Net earnings (loss)
+​
+​
+​
+​
+​
+​
+​
+​
+
+120,791
+​
+​
+​
+​
+​
+
+622
+
+121,413
+​
+​
+ (
+314
+)
+Foreign currency translation adjustment
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+ (
+1,419
+)
+​
+​
+
+616
+
+ (
+803
+)
+​
+​
+ (
+333
+)
+Unrealized gain on debt securities
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+6
+​
+​
+​
+​
+
+6
+​
+​
+​
+Distributions to NCI
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+ (
+3,331
+)
+​
+
+ (
+3,331
+)
+​
+​
+​
+Cash dividends - $
+0.33
+ per share - quarterly
+​
+​
+​
+​
+​
+​
+​
+​
+ (
+20,411
+)
+​
+​
+​
+​
+​
+​
+
+ (
+20,411
+)
+​
+​
+​
+Issuance of 
+6,251
+ shares under employee stock purchase plan
+​
+
+6
+​
+​
+
+648
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+654
+​
+​
+​
+Issuance of 
+369,012
+ shares under stock grant programs
+​
+
+369
+​
+​
+
+5,829
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+6,198
+​
+​
+​
+Issuance of 
+76,927
+ shares under deferred compensation plans
+​
+
+77
+​
+​
+ (
+77
+)
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+ —
+​
+​
+​
+Repurchase of 
+319,295
+ shares
+​
+
+ (
+319
+)
+​
+​
+ (
+17,686
+)
+​
+​
+ (
+18,631
+)
+​
+​
+​
+​
+​
+​
+​
+
+ (
+36,636
+)
+​
+​
+​
+Expense associated with share-based compensation arrangements
+​
+​
+​
+​
+​
+
+11,194
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+11,194
+​
+​
+​
+Accrued expense under deferred compensation plans
+​
+​
+​
+​
+​
+
+7,621
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+7,621
+​
+​
+​
+Balance on March 30, 2024
+​
+$
+
+61,754
+​
+$
+
+362,231
+
+$
+
+2,664,081
+​
+$
+ (
+307
+)
+
+$
+
+28,336
+
+$
+
+3,116,095
+​
+$
+
+19,383
+Net earnings (loss)
+​
+​
+​
+​
+​
+​
+​
+​
+
+125,930
+​
+​
+​
+​
+​
+
+652
+
+126,582
+​
+​
+ (
+350
+)
+Foreign currency translation adjustment
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+ (
+5,594
+)
+​
+​
+ (
+2,220
+)
+
+ (
+7,814
+)
+​
+​
+ (
+102
+)
+Unrealized loss on debt securities
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+ (
+64
+)
+​
+​
+​
+​
+
+ (
+64
+)
+​
+​
+​
+Other
+​
+​
+​
+​
+​
+ (
+607
+)
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+ (
+607
+)
+​
+​
+​
+Distributions to NCI
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+ (
+6,069
+)
+​
+
+ (
+6,069
+)
+​
+​
+​
+Cash dividends - $
+0.33
+ per share - quarterly
+​
+​
+​
+​
+​
+​
+​
+​
+ (
+20,249
+)
+​
+​
+​
+​
+​
+​
+​
+​
+ (
+20,249
+)
+​
+​
+​
+Issuance of 
+8,573
+ shares under employee stock purchase plan
+​
+
+9
+​
+​
+
+807
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+816
+​
+​
+​
+Issuance of 
+29,460
+ shares under stock grant programs
+​
+
+29
+​
+​
+
+1
+​
+​
+5
+​
+​
+​
+​
+​
+​
+​
+​
+
+35
+​
+​
+​
+Issuance of 
+9,841
+ shares under deferred compensation plans
+​
+
+10
+​
+​
+ (
+10
+)
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+ —
+​
+​
+​
+Repurchase of 
+883,232
+ shares
+​
+​
+ (
+883
+)
+​
+​
+​
+​
+​
+ (
+99,681
+)
+​
+​
+​
+​
+​
+​
+
+ (
+100,564
+)
+​
+​
+​
+Expense associated with share-based compensation arrangements
+​
+​
+​
+​
+​
+
+7,954
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+7,954
+​
+​
+​
+Accrued expense under deferred compensation plans
+​
+​
+​
+​
+​
+
+1,395
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+1,395
+​
+​
+​
+Balance on June 29, 2024
+​
+$
+
+60,919
+​
+$
+
+371,771
+
+$
+
+2,670,086
+​
+$
+ (
+5,965
+)
+
+$
+
+20,699
+
+$
+
+3,117,510
+​
+$
+
+18,931
+Net earnings (loss)
+​
+​
+​
+​
+​
+​
+​
+​
+
+99,800
+​
+​
+​
+​
+​
+
+2,370
+​
+​
+
+102,170
+​
+​
+ (
+551
+)
+Foreign currency translation adjustment
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+1,029
+​
+​
+ (
+1,236
+)
+​
+​
+ (
+207
+)
+​
+​
+
+449
+Unrealized gain on debt securities
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+550
+​
+​
+​
+​
+​
+
+550
+​
+​
+​
+Other
+​
+​
+​
+​
+​
+ (
+390
+)
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+ (
+390
+)
+​
+​
+​
+Distributions to NCI
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+ (
+2,448
+)
+​
+​
+ (
+2,448
+)
+​
+​
+​
+Purchase of remaining NCI of subsidiary
+​
+​
+​
+​
+​
+
+8,400
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+8,400
+​
+​
+ (
+13,302
+)
+Cash dividends - $
+0.33
+ per share - quarterly
+​
+​
+​
+​
+​
+​
+​
+​
+ (
+20,061
+)
+​
+​
+​
+​
+​
+​
+​
+​
+ (
+20,061
+)
+​
+​
+​
+Issuance of 
+5,843
+ shares under employee stock purchase plan
+​
+​
+
+6
+​
+​
+
+646
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+652
+​
+​
+​
+Net forfeitures of 
+10,964
+ shares under stock grant programs
+​
+​
+ (
+10
+)
+​
+​
+
+45
+​
+​
+
+18
+​
+​
+​
+​
+​
+​
+​
+​
+
+53
+​
+​
+​
+Issuance of 
+8,661
+ shares under deferred compensation plans
+​
+​
+
+8
+​
+​
+ (
+8
+)
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+ —
+​
+​
+​
+Repurchase of 
+197,417
+ shares
+​
+​
+ (
+198
+)
+​
+​
+​
+​
+​
+ (
+21,562
+)
+​
+​
+​
+​
+​
+​
+​
+​
+ (
+21,760
+)
+​
+​
+​
+Expense associated with share-based compensation arrangements
+​
+​
+​
+​
+​
+
+8,021
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+8,021
+​
+​
+​
+Accrued expense under deferred compensation plans
+​
+​
+​
+​
+​
+
+1,329
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+1,329
+​
+​
+​
+Balance on September 28, 2024
+​
+$
+
+60,725
+​
+$
+
+389,814
+
+$
+
+2,728,281
+​
+$
+ (
+4,386
+)
+
+$
+
+19,385
+
+$
+
+3,193,819
+​
+$
+
+5,527
+See notes to consolidated condensed financial statements.
+6
+
+Table of Contents
+UFP INDUSTRIES, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited)
+​
+​
+​
+​
+​
+​
+​
+​
+(in thousands of United States dollars)
+​
+Nine Months Ended
+​
+​
+​
+September 27,
+​
+September 28,
+​
+​
+
+2025
+
+2024
+
+CASH FLOWS FROM OPERATING ACTIVITIES:
+​
+​
+​
+
+​
+​
+​
+Net earnings
+​
+$
+
+255,836
+
+$
+
+348,950
+​
+Adjustments to reconcile net earnings to net cash from operating activities:
+​
+​
+​
+
+​
+​
+​
+Depreciation
+​
+
+101,574
+​
+​
+
+92,130
+​
+Amortization of intangibles
+​
+
+17,666
+​
+​
+
+17,621
+​
+Expense associated with share-based and grant compensation arrangements
+​
+
+27,906
+​
+​
+
+27,345
+​
+Deferred income taxes
+​
+
+ (
+393
+)
+​
+​
+ (
+674
+)
+​
+Unrealized gain on investments and other
+​
+
+ (
+2,195
+)
+​
+​
+ (
+3,201
+)
+​
+Equity in (earnings) loss of investee
+​
+​
+ (
+1,072
+)
+​
+​
+
+1,313
+​
+Net loss on sale, disposition and impairment of assets
+​
+
+3,812
+​
+​
+
+1,538
+​
+Impairment of goodwill and other intangibles
+​
+​
+
+2,400
+​
+​
+ —
+​
+Gain from reduction of estimated earnout liability
+​
+​
+ (
+1,855
+)
+​
+​
+ (
+1,855
+)
+​
+Changes in:
+​
+​
+​
+​
+​
+​
+​
+Accounts receivable
+​
+
+ (
+104,813
+)
+​
+​
+ (
+102,355
+)
+​
+Inventories
+​
+
+61,025
+​
+​
+
+81,238
+​
+Accounts payable and cash overdraft
+​
+
+6,243
+​
+​
+
+37,391
+​
+Accrued liabilities and other
+​
+
+32,988
+​
+​
+ (
+1,779
+)
+​
+NET CASH FROM OPERATING ACTIVITIES
+​
+
+399,122
+​
+
+497,662
+​
+CASH FLOWS USED IN INVESTING ACTIVITIES:
+​
+​
+​
+
+​
+​
+​
+Purchases of property, plant and equipment
+​
+
+ (
+205,504
+)
+​
+​
+ (
+165,493
+)
+​
+Proceeds from sale of property, plant and equipment
+​
+
+17,308
+​
+​
+
+3,795
+​
+Acquisitions and purchases of non-controlling interest, net of cash received
+​
+
+ (
+17,626
+)
+​
+​
+ —
+​
+Purchases of investments
+​
+
+ (
+27,388
+)
+​
+​
+ (
+34,284
+)
+​
+Proceeds from sale of investments
+​
+
+14,464
+​
+​
+
+13,782
+​
+Other
+​
+
+1,535
+​
+​
+
+4,712
+​
+NET CASH USED IN INVESTING ACTIVITIES
+​
+
+ (
+217,211
+)
+​
+
+ (
+177,488
+)
+​
+CASH FLOWS USED IN FINANCING ACTIVITIES:
+​
+​
+​
+
+​
+​
+​
+Borrowings under revolving credit facilities
+​
+
+23,299
+​
+​
+
+20,130
+​
+Repayments under revolving credit facilities
+​
+
+ (
+22,469
+)
+​
+​
+ (
+20,477
+)
+​
+Repayment of debt on behalf of investee
+​
+​
+ —
+​
+​
+ (
+6,303
+)
+​
+Contingent consideration payments and other
+​
+​
+ (
+221
+)
+​
+​
+ (
+4,779
+)
+​
+Proceeds from issuance of common stock
+​
+
+1,867
+​
+​
+
+2,122
+​
+Dividends paid to shareholders
+​
+
+ (
+62,490
+)
+​
+​
+ (
+60,721
+)
+​
+Distributions to noncontrolling interest
+​
+​
+ (
+1,280
+)
+​
+​
+ (
+11,848
+)
+​
+Purchase of remaining noncontrolling interest of subsidiary
+​
+​
+ —
+​
+​
+ (
+4,902
+)
+​
+Payments to taxing authorities in connection with shares directly withheld from employees
+​
+​
+ (
+9,582
+)
+​
+​
+ (
+17,838
+)
+​
+Repurchase of common stock
+​
+
+ (
+280,987
+)
+​
+​
+ (
+141,122
+)
+​
+Other
+​
+
+ (
+182
+)
+​
+​
+
+55
+​
+NET CASH USED IN FINANCING ACTIVITIES
+​
+
+ (
+352,045
+)
+​
+
+ (
+245,683
+)
+​
+Effect of exchange rate changes on cash
+​
+
+2,234
+​
+​
+ (
+5,179
+)
+​
+NET CHANGE IN CASH AND CASH EQUIVALENTS
+​
+
+ (
+167,900
+)
+​
+
+69,312
+​
+CASH, CASH EQUIVALENTS, AND RESTRICTED CASH, BEGINNING OF YEAR
+​
+
+1,179,594
+​
+
+1,122,256
+​
+CASH, CASH EQUIVALENTS, AND RESTRICTED CASH, END OF PERIOD
+​
+$
+
+1,011,694
+​
+$
+
+1,191,568
+​
+RECONCILIATION OF CASH AND CASH EQUIVALENTS AND RESTRICTED CASH:
+​
+​
+​
+​
+​
+​
+​
+Cash and cash equivalents, beginning of period
+​
+$
+
+1,171,828
+​
+$
+
+1,118,329
+​
+Restricted cash, beginning of period
+​
+​
+
+7,766
+​
+​
+
+3,927
+​
+Cash, cash equivalents, and restricted cash, beginning of period
+​
+$
+
+1,179,594
+​
+$
+
+1,122,256
+​
+Cash and cash equivalents, end of period
+​
+$
+
+1,008,632
+​
+$
+
+1,190,807
+​
+Restricted cash, end of period
+​
+​
+
+3,062
+​
+​
+
+761
+​
+Cash, cash equivalents, and restricted cash, end of period
+​
+$
+
+1,011,694
+​
+$
+
+1,191,568
+​
+SUPPLEMENTAL INFORMATION:
+​
+​
+​
+
+​
+​
+​
+Interest paid
+​
+$
+
+8,501
+​
+$
+
+9,241
+​
+Income taxes paid
+​
+
+58,023
+​
+
+112,271
+​
+NON-CASH INVESTING ACTIVITIES:
+​
+​
+​
+
+​
+​
+​
+Capital expenditures included in accounts payable
+​
+$
+
+1,523
+​
+$
+
+1,559
+​
+NON-CASH FINANCING ACTIVITIES:
+​
+​
+​
+​
+​
+​
+​
+Common stock issued under deferred compensation plans
+​
+$
+
+10,973
+​
+$
+
+10,853
+​
+See notes to consolidated condensed financial statements
+.
+7
+
+Table of Contents
+UFP INDUSTRIES, INC.
+NOTES TO UNAUDITED INTERIM
+CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+A.       BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES
+Presentation Currency
+The accompanying unaudited interim condensed consolidated financial statements are presented in United States dollars (“US dollars” or “USD”), unless otherwise indicated.
+Principles of Consolidation
+The accompanying unaudited interim condensed consolidated condensed financial statements (the “Financial Statements”) include our accounts and those of our wholly-owned and majority-owned subsidiaries and partnerships, and have been prepared pursuant to the rules and regulations of the Securities and Exchange Commission. Accordingly, the Financial Statements do not include all the information and footnotes normally included in the annual consolidated financial statements prepared in accordance with accounting principles generally accepted in the United States of America. All significant intercompany balances and transactions have been eliminated in consolidation. 
+We consolidate entities in which we have a controlling financial interest. In determining whether we have a controlling financial interest in a partially owned entity and the requirement to consolidate the accounts of that entity, we consider factors such as ownership interest, board representation, management representation, authority to make decisions, and contractual and substantive participating rights of the partners/members as well as whether the entity is a variable interest entity (“VIE”) and whether we are the primary beneficiary. The primary beneficiary of a VIE is the entity that has (i) the power to direct the activities that most significantly impact the entity's economic performance and (ii) the obligation to absorb losses of the VIE or the right to receive benefits from the VIE that could be significant to the VIE. The primary beneficiary is required to consolidate the VIE. We account for unconsolidated VIEs using the equity method of accounting.
+As a result of the investment in Dempsey on June 27, 2022, we own 
+50
+% of the issued equity of that entity, and the remaining 
+50
+% of the issued equity is owned by the previous owners (“Sellers”). The investment in Dempsey is an unconsolidated variable interest entity and we have accounted for it using the equity method of accounting because we do not have a controlling financial interest in the entity. The Sellers have a put right to sell their equity interest to us for $
+50
+ million and we have a call right to purchase the Seller’s equity interest for $
+70
+ million, which were both first exercisable in June 2025 and expire in June 2030. As of September 27, 2025, both the put and call rights remain unexercised and the carrying value of our investment in Dempsey is $
+53.4
+ million which is recorded in Other Assets on our condensed consolidated balance sheets. Our maximum exposure to loss consists of our investment amount and any contingent loss that may occur in the future as a result of a change in the fair value of Dempsey relative to the strike price of the put option.
+In our opinion, the Financial Statements contain all material adjustments necessary to present fairly our consolidated financial position, results of operations and cash flows for the interim periods presented. All such adjustments are of a normal recurring nature. These Financial Statements should be read in conjunction with the annual consolidated financial statements, and footnotes thereto, included in our Annual Report to Shareholders on Form 10-K for the fiscal year ended December 28, 2024.
+Seasonality has a significant impact on our working capital from March to August, which historically results in negative or modest cash flows from operations in our first and second quarters. Conversely, we experience a substantial decrease in working capital from September to February which typically results in significant cash flow from operations in our third and fourth quarters. For comparative purposes, we have included the September 28, 2024 balances in the accompanying unaudited condensed consolidated balance sheets. 
+8
+
+Table of Contents
+UFP INDUSTRIES, INC.
+Assets and Liabilities Held for Sale
+We classify assets and related liabilities as held for sale when the following conditions are met: (i) management has committed to a plan to sell the net assets, (ii) the net assets are available for immediate sale, (iii) there is an active program to locate a buyer, (iv) the sale and transfer of the net assets is probable within one year, (v) the net assets are being actively marketed for sale at a price that is reasonable in relation to the current fair value, and (vi) it is unlikely that significant changes will be made to the plan to sell the net assets. Upon designation as held for sale, we record the assets and related liabilities at the lower of their carrying value or their estimated fair value, reduced for the costs to dispose of the assets and related liabilities, which we determined using the estimated proceeds from the sale. 
+During the third quarter of 2025, we determined several real estate properties and machinery and equipment within our Retail and Corporate segments met the criteria as held for sale, and therefore we have classified the related assets as held for sale on the condensed consolidated balance sheet. The fair value measurements for the assets held for sale are generally based on Level 3 inputs, which include information obtained from third-party appraisals. The assets had a carrying value of $
+7.2
+ million as of September 27, 2025, with $
+3.3
+ million of impairment charges recorded in fiscal 2025.  
+Recently Issued Accounting Guidance
+In September 2025, the FASB issued ASU 2025-06, Intangible - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Targeted Improvements to the Accounting for Internal-Use Software. The ASU removes all references to prescriptive and sequential software development stages. The ASU requires entities to begin capitalizing software costs when management authorizes and commits to funding the software project, and it is probable that the project will be completed, and the software will be used for its intended purpose. The amendments in this ASU are effective for fiscal years beginning after December 15, 2027, and interim reporting periods within those annual reporting periods, using a prospective, retrospective or modified transition approach, with early adoption permitted. We are currently evaluating the impact of adopting this guidance on the consolidated financial statements and related disclosures.
+In November 2024, the FASB issued ASU 2024-03, Income Statement - Reporting Comprehensive Income (Topic 220): Expense Disaggregation Disclosures. Additionally, in January 2025, the FASB issued ASU 2025-01 to clarify the effective date of ASU 2024-03. This ASU provides guidance to expand disclosures related to the disaggregation of income statement expenses. Also, this ASU requires, in the notes to the financial statements, disclosure of specified information about certain costs and expenses which includes purchases of inventory, employee compensation, depreciation, and intangible asset amortization included in each relevant expense caption. ASU 2025-01 is effective for fiscal years beginning after December 15, 2026, and interim periods within annual reporting periods beginning after December 15, 2027, on a retrospective or prospective basis, with early adoption permitted. We are currently evaluating the impact of adopting this guidance on the financial statement disclosures. 
+In December 2023, the FASB issued ASU 2023-09, "Income Taxes (Topic 740): Improvements to Income Tax Disclosures," which is intended to enhance the transparency, decision usefulness and effectiveness of income tax disclosures. The amendments in this ASU require a public entity to disclose a tabular tax rate reconciliation, using both percentages and currency, with specific categories. A public entity is also required to provide a qualitative description of the states and local jurisdictions that make up the majority of the effect of the state and local income tax category and the net amount of income taxes paid, disaggregated by federal, state and foreign taxes and also disaggregated by individual jurisdictions. The amendments also remove certain disclosures that are no longer considered cost beneficial. The amendments are effective prospectively for annual periods beginning after December 15, 2024, and early adoption and retrospective application are permitted. Although the ASU only modifies our required income tax disclosures, we are currently evaluating the impact of adopting this guidance on the consolidated financial statements.
+9
+
+Table of Contents
+UFP INDUSTRIES, INC.
+In November 2023, the FASB issued ASU 2023-07, "Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures," which is intended to improve reportable segment disclosure requirements, primarily through enhanced disclosures about significant segment expenses, allowing financial statement users to better understand the components of a segment's profit or loss to assess potential future cash flows for each reportable segment and the entity as a whole. The amendments expand a public entity's segment disclosures by requiring disclosure of significant segment expenses that are regularly provided to the chief operating decision maker ("CODM"), clarifying when an entity may report one or more additional measures to assess segment performance, requiring enhanced interim disclosures, providing new disclosure requirements for entities with a single reportable segment, and requiring other new disclosures. The amendments are effective for fiscal years beginning after December 15, 2023, and interim periods within fiscal years beginning after December 15, 2024. We adopted this new standard in 2024. Our disclosures required by the new standard have been provided and updated retrospectively for all periods presented. Refer to Note G — Segment Reporting.
+B.       FAIR VALUE
+We apply the provisions of ASC 820, 
+Fair Value Measurements and Disclosures
+, to assets and liabilities measured at fair value. 
+Assets measured at fair value are as follows (in thousands):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+September 27, 2025
+​
+December 28, 2024
+​
+​
+Quoted
+​
+Prices with
+​
+​
+​
+​
+​
+​
+​
+Quoted
+​
+Prices with
+​
+​
+​
+​
+​
+​
+​
+​
+Prices in
+​
+Other
+​
+​
+Prices with
+​
+​
+​
+​
+Prices in
+​
+Other
+​
+​
+Prices with
+​
+​
+​
+​
+​
+Active
+​
+Observable
+​
+​
+Unobservable
+​
+​
+​
+​
+Active
+​
+Observable
+​
+​
+Unobservable
+​
+​
+​
+​
+​
+Markets
+​
+Inputs
+​
+​
+Inputs
+​
+​
+​
+​
+Markets
+​
+Inputs
+​
+​
+Inputs
+​
+​
+​
+​
+
+(Level 1)
+
+(Level 2)
+
+​
+(Level 3)
+​
+Total
+
+(Level 1)
+
+(Level 2)
+
+​
+(Level 3)
+
+Total
+Money market funds
+​
+$
+
+268,544
+​
+​
+
+27,514
+​
+​
+​
+
+$
+
+296,058
+
+$
+
+356,700
+​
+$
+
+21,150
+​
+$
+ —
+
+$
+
+377,850
+Fixed income funds
+​
+
+5,343
+​
+​
+
+40,859
+​
+​
+​
+
+46,202
+​
+
+5,272
+​
+​
+
+33,076
+​
+​
+ —
+
+38,348
+Treasury securities
+​
+​
+
+345
+​
+​
+​
+​
+​
+​
+​
+​
+
+345
+​
+​
+
+344
+​
+​
+ —
+​
+​
+ —
+​
+​
+
+344
+Equity securities
+​
+
+17,988
+​
+​
+​
+​
+​
+
+30,500
+
+48,488
+​
+
+16,431
+​
+​
+ —
+​
+​
+
+26,000
+
+42,431
+Alternative investments
+​
+​
+​
+​
+​
+​
+​
+​
+
+4,102
+​
+​
+
+4,102
+​
+​
+ —
+​
+​
+ —
+​
+​
+
+4,044
+​
+​
+
+4,044
+Mutual funds:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+​
+​
+
+​
+​
+​
+​
+​
+​
+​
+​
+
+​
+​
+Domestic stock funds
+​
+
+10,592
+​
+​
+​
+​
+​
+​
+
+10,592
+​
+
+9,534
+​
+​
+ —
+​
+​
+ —
+
+9,534
+International stock funds
+​
+
+796
+​
+​
+​
+​
+​
+​
+
+796
+​
+
+641
+​
+​
+ —
+​
+​
+ —
+
+641
+Target funds
+​
+
+11
+​
+​
+​
+​
+​
+​
+
+11
+​
+
+10
+​
+​
+ —
+​
+​
+ —
+
+10
+Bond funds
+​
+
+6
+​
+​
+​
+​
+​
+​
+
+6
+​
+
+6
+​
+​
+ —
+​
+​
+ —
+
+6
+Alternative funds
+​
+​
+
+492
+​
+​
+​
+​
+​
+​
+​
+​
+
+492
+​
+​
+
+477
+​
+​
+ —
+​
+​
+ —
+​
+​
+
+477
+Total mutual funds
+​
+
+11,897
+​
+
+ —
+​
+​
+ —
+
+11,897
+​
+
+10,668
+​
+
+ —
+​
+​
+ —
+
+10,668
+Total
+​
+$
+
+304,117
+​
+$
+
+68,373
+​
+$
+
+34,602
+​
+$
+
+407,092
+​
+$
+
+389,415
+​
+$
+
+54,226
+​
+$
+
+30,044
+​
+$
+
+473,685
+​
+From the assets measured at fair value as of September 27, 2025, listed in the table above, $
+294.1
+ million of money market funds are held in Cash and Cash Equivalents, $
+33.8
+ million of mutual funds, equity securities, and alternative investments are held in Investments, $
+30.5
+ million of equity securities are held in Other Assets, $
+0.2
+ million of mutual funds are held in Other Assets for our deferred compensation plan, and $
+46.5
+ million of fixed income funds and $
+2.0
+ million of money market funds are held in Restricted Investments. As of December 28, 2024, $
+377.4
+ million of money market funds were held in Cash and Cash Equivalents, $
+31.0
+ million of mutual funds, equity securities, and alternative investments were held in Investments, $
+26.0
+ million of equity securities were held in Other Assets, $
+0.2
+ million of mutual funds were held in Other Assets for our deferred compensation plan, and $
+38.7
+ million of fixed income funds and $
+0.4
+ million of money market funds were held in Restricted Investments.
+10
+
+Table of Contents
+UFP INDUSTRIES, INC.
+We maintain money market, mutual funds, bonds, and/or equity securities in our non-qualified deferred compensation plan, our wholly owned licensed captive insurance company, and assets held in financial institutions. These funds are valued at prices quoted in an active exchange market and are included in “Cash and Cash Equivalents”, “Investments”, “Other Assets”, and “Restricted Investments”. We have elected not to apply the fair value option under ASC 825, 
+Financial Instruments,
+ to any of our financial instruments except for those expressly required by U.S. GAAP.
+We have $
+30.5
+ million of investments through our Innov8 Fund, which is designed to invest in emerging projects, services, and technologies. These investments are valued as Level 3 assets and are categorized as “Equity securities.”
+In accordance with our investment policy, our wholly-owned captive, Ardellis Insurance Ltd. (“Ardellis”), maintains an investment portfolio, totaling $
+80.5
+ million and $
+69.8
+ million as of September 27, 2025 and December 28, 2024, respectively, which has been included in the aforementioned table of total investments. This portfolio consists of domestic and international equity securities, alternative investments, and fixed income bonds.
+Ardellis’ available for sale investment portfolio, including funds held with the State of Michigan, consists of the following (in thousands):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+September 27, 2025
+​
+December 28, 2024
+​
+​
+​
+​
+Unrealized
+​
+​
+​
+​
+​
+Unrealized
+​
+​
+​
+
+Cost
+
+Gain (Loss)
+
+Fair Value
+
+Cost
+
+Gain (Loss)
+
+Fair Value
+Fixed income
+​
+$
+
+46,320
+​
+$
+ (
+118
+)
+
+$
+
+46,202
+​
+$
+
+39,645
+
+$
+ (
+1,297
+)
+
+$
+
+38,348
+Treasury securities
+​
+​
+
+345
+​
+​
+ —
+​
+​
+
+345
+​
+​
+
+344
+​
+​
+ —
+​
+​
+
+344
+Equity
+​
+
+13,563
+​
+​
+
+4,425
+
+17,988
+​
+
+13,161
+​
+​
+
+3,270
+
+16,431
+Mutual funds
+​
+​
+
+8,714
+​
+​
+
+3,123
+​
+​
+
+11,837
+​
+​
+
+8,549
+​
+​
+
+2,064
+​
+​
+
+10,613
+Alternative investments
+​
+​
+
+3,407
+​
+​
+
+695
+​
+​
+
+4,102
+​
+​
+
+3,321
+​
+​
+
+723
+​
+​
+
+4,044
+Total
+​
+$
+
+72,349
+​
+$
+
+8,125
+
+$
+
+80,474
+​
+$
+
+65,020
+​
+$
+
+4,760
+
+$
+
+69,780
+​
+Our fixed income investments consist of a blend of US Government and Agency bonds and investment grade corporate bonds with varying maturities. Our equity investments consist of small, mid, and large cap growth and value funds, as well as international equity. Our mutual fund investments consist of domestic and international stock. Our alternative investments consist of a private real estate income trust which is valued as a Level 3 asset. The net pre-tax unrealized gain of the portfolio was $
+8.1
+ million and $
+4.8
+ million as of September 27, 2025 and December 28, 2024, respectively. Carrying amounts above are recorded in the Investments and Restricted Investments line items within the balance sheet as of September 27, 2025 and December 28, 2024.
+C.       REVENUE RECOGNITION
+Within the 
+three
+ primary segments, UFP Retail Solutions (“Retail”), UFP Packaging (“Packaging”) and UFP Construction (“Construction”), that the Company operates, there are a variety of written agreements governing the sale of our products and services. The transaction price is stated at the purchase order level, which includes shipping and/or freight costs and any applicable governmental authority taxes. The majority of our contracts have a single performance obligation concentrated around the delivery of goods to the carrier, Free On Board (FOB) shipping point. Therefore, revenue is recognized when this performance obligation is satisfied. Generally, title and control passes at the time of shipment. In certain circumstances, the customer takes title when the shipment arrives at the destination. However, our shipping process is typically completed the same day.
+Certain customer products that we provide require installation by the Company or a third party. Installation revenue is recognized upon completion. If we use a third party for installation, the party will act as an agent to us until completion of the installation. Installation revenue represents an immaterial share of our total net sales.
+11
+
+Table of Contents
+UFP INDUSTRIES, INC.
+We utilize rebates, credits, discounts and/or cash-based incentives with certain customers which are accounted for as variable consideration. We estimate these amounts based on the expected amount to be provided to customers and reduce revenues recognized. We believe that there will not be significant changes to our estimates of variable consideration. The allocation of these costs are applied at the invoice level and recognized in conjunction with revenue. Additionally, returns and refunds are estimated on a historical and expected basis which is a reduction of revenue recognized. 
+Earnings on construction contracts are reflected in operations using over time accounting, under either cost to cost or units of delivery methods, depending on the nature of the business at individual operations, which is in accordance with ASC 606 as revenue is recognized when certain performance obligations are performed. Under over time accounting using the cost to cost method, revenues and related earnings on construction contracts are measured by the relationships of actual costs incurred relative to the total estimated costs. Under over time accounting using the units of delivery method, revenues and related earnings on construction contracts are measured by the relationships of actual units produced relative to the total number of units. Revisions in earnings estimates on the construction contracts are recorded in the accounting period in which the basis for such revisions becomes known. Projected losses on individual contracts are charged to operations in their entirety when such losses become apparent.
+Our construction contracts are generally entered into with a fixed price, and completion of the projects can range from 
+6
+ to 
+18 months
+ in duration. Therefore, our operating results are impacted by, among many other things, labor rates and commodity costs. During the year, we update our estimated costs to complete our projects using current labor and commodity costs and recognize losses to the extent that they exist.
+The following table presents our net sales disaggregated by revenue source (in thousands):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Three Months Ended
+​
+Nine Months Ended
+​
+
+September 27,
+
+September 28,
+
+​
+​
+September 27,
+
+September 28,
+​
+​
+​
+​
+2025
+​
+2024
+​
+% Change
+​
+2025
+​
+2024
+​
+% Change
+Point in Time Revenue
+​
+$
+
+1,528,506
+​
+$
+
+1,607,411
+
+(
+4.9
+)%
+​
+$
+
+4,911,049
+​
+$
+
+5,069,509
+​
+(
+3.1
+)%
+Over Time Revenue
+​
+
+31,121
+​
+​
+
+41,972
+
+(
+25.9
+)%
+​
+
+79,471
+​
+​
+
+120,799
+​
+(
+34.2
+)%
+Total Net Sales
+​
+
+1,559,627
+​
+​
+
+1,649,383
+
+(
+5.4
+)%
+​
+$
+
+4,990,520
+​
+$
+
+5,190,308
+​
+(
+3.8
+)%
+​
+The Construction segment comprises the construction contract revenue shown above. Construction contract revenue is primarily made up of site-built and framing customers. 
+The following table presents the balances of over time accounting accounts which are included in “Other current assets” and “Accrued liabilities: Other”, respectively (in thousands):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+September 27,
+​
+December 28,
+​
+September 28,
+​
+​
+
+2025
+
+2024
+
+2024
+
+Cost and Earnings in Excess of Billings
+​
+$
+
+4,730
+
+$
+
+7,478
+
+$
+
+8,097
+
+Billings in Excess of Cost and Earnings
+​
+
+5,214
+​
+
+6,483
+
+8,692
+​
+​
+​
+12
+
+Table of Contents
+UFP INDUSTRIES, INC.
+D.       EARNINGS PER SHARE
+The computation of earnings per share (“EPS”) is as follows (in thousands):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Three Months Ended
+​
+Nine Months Ended
+​
+​
+
+September 27,
+
+September 28,
+
+September 27,
+
+September 28,
+
+​
+​
+2025
+​
+2024
+​
+2025
+​
+2024
+​
+Numerator:
+
+​
+
+​
+
+​
+
+​
+
+Net earnings attributable to controlling interest
+​
+$
+
+75,346
+​
+$
+
+99,800
+​
+$
+
+254,833
+​
+$
+
+346,521
+​
+Adjustment for earnings allocated to non-vested restricted common stock equivalents
+​
+
+ (
+2,830
+)
+​
+
+ (
+3,825
+)
+​
+
+ (
+9,521
+)
+​
+
+ (
+13,489
+)
+​
+Net earnings for calculating EPS
+​
+$
+
+72,516
+​
+$
+
+95,975
+​
+$
+
+245,312
+​
+$
+
+333,032
+​
+Denominator:
+​
+
+​
+
+​
+
+​
+
+​
+Weighted average shares outstanding
+​
+
+58,642
+​
+
+61,023
+​
+
+59,668
+​
+
+61,540
+​
+Adjustment for non-vested restricted common stock equivalents
+​
+
+ (
+2,414
+)
+​
+
+ (
+2,610
+)
+​
+
+ (
+2,447
+)
+​
+
+ (
+2,669
+)
+​
+Shares for calculating basic EPS
+​
+
+56,228
+​
+
+58,413
+​
+
+57,221
+​
+
+58,871
+​
+Effect of dilutive restricted common stock equivalents
+​
+
+122
+​
+
+134
+​
+
+106
+​
+
+109
+​
+Shares for calculating diluted EPS
+​
+
+56,350
+​
+
+58,547
+​
+
+57,327
+​
+
+58,980
+​
+Net earnings per share:
+​
+
+​
+
+​
+
+​
+
+​
+Basic
+​
+$
+
+1.29
+​
+$
+
+1.64
+​
+$
+
+4.29
+​
+$
+
+5.66
+​
+Diluted
+​
+$
+
+1.29
+​
+$
+
+1.64
+​
+$
+
+4.28
+​
+$
+
+5.65
+​
+​
+​
+E.       COMMITMENTS, CONTINGENCIES, AND GUARANTEES
+We are self-insured for environmental impairment liability, including certain liabilities which are insured through a wholly owned subsidiary, Ardellis Insurance Ltd., a licensed captive insurance company.
+In addition, on September 27, 2025, we were parties either as plaintiff or defendant to a number of lawsuits and claims arising through the normal course of our business. In the opinion of management, our consolidated financial statements will not be materially affected by the outcome of these contingencies and claims.
+On September 27, 2025, we had outstanding purchase commitments on commenced capital projects of approximately $
+109
+ million.
+We provide a variety of warranties for products we manufacture. Historically, warranty claims have not been material. We also distribute products manufactured by other companies. While we do not warrant these products, we have received claims as a distributor of these products when the manufacturer no longer exists or has the ability to pay. Historically, these costs have not had a material effect on our consolidated financial statements.
+As part of our operations, we supply building materials and labor to site-built construction projects or we jointly bid on contracts with framing companies for such projects. In some instances, we are required to post payment and performance bonds to ensure the products and installation services are completed in accordance with our contractual obligations. We have agreed to indemnify the surety for claims properly made against these bonds. As of September 27, 2025, we had approximately $
+24.9
+ million in outstanding payment and performance bonds for open projects. We had approximately $
+11.2
+ million in payment and performance bonds outstanding for completed projects which are still under warranty.
+On September 27, 2025, we had outstanding letters of credit totaling $
+40.4
+ million, primarily related to certain insurance contracts, industrial development revenue bonds, and other debt agreements described further below.
+13
+
+Table of Contents
+UFP INDUSTRIES, INC.
+In lieu of cash deposits, we provide irrevocable letters of credit in favor of our insurers and other third parties to guarantee our performance under certain insurance contracts and other legal agreements. As of September 27, 2025, we have irrevocable letters of credit outstanding totaling approximately $
+37.1
+ million for these types of arrangements. We have reserves recorded on our balance sheet, in accrued liabilities, that reflect our expected future liabilities under those insurance arrangements.
+We are required to provide irrevocable letters of credit in favor of the bond trustees for all industrial development revenue bonds that have been issued. These letters of credit guarantee principal and interest payments to the bondholders. We currently have irrevocable letters of credit outstanding totaling approximately $
+3.3
+ million related to our outstanding industrial development revenue bonds. These letters of credit have varying terms but may be renewed at the option of the issuing banks.
+Certain wholly owned domestic subsidiaries have guaranteed the indebtedness of UFP Industries, Inc. in certain debt agreements, including the Series 2018 and 2020 Senior Notes and our revolving credit facility. The maximum exposure of these guarantees is limited to the indebtedness outstanding under these debt arrangements and this exposure will expire concurrent with the expiration of the debt agreements.
+We did not enter into any new guarantee arrangements during the third quarter of 2025 which would require us to recognize a liability on our balance sheet.
+​
+F.       BUSINESS COMBINATIONS
+We completed the following acquisitions since the end of September 2024, which were accounted for using the purchase method. Dollars below are in thousands unless otherwise noted:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Net 
+​
+Company
+Acquisition 
+​
+Intangible 
+Tangible 
+Operating
+Name
+Date
+Purchase Price
+Assets
+Assets
+Segment
+National Supply, LLC (NS)
+July 14, 2025
+$
+6,531
+consideration for 
+100
+% asset purchase
+$
+
+3,045
+$
+
+3,486
+Construction
+​
+Located in Elkhart, IN, NS is a material supplier in the RV industry.
+RWP West, LLC (RWP)
+June 16, 2025
+$
+7,360
+consideration for 
+100
+% asset purchase
+$
+
+77
+$
+
+7,283
+Construction
+​
+Located in Twin Falls, ID and established in 2007, RWP serves the western portion of the US and is a manufacturer and distributor for the manufactured housing, RV, and cargo markets.
+C&L Wood Products (C&L)
+December 23, 2024
+$
+29,901
+consideration for 
+100
+% asset purchase
+$
+
+12,662
+$
+
+17,239
+Packaging
+​
+Located in Hartselle, AL and founded in 1975, C&L is a manufacturer of machine-built pallets, mulch, and other wood products.
+​
+The estimated fair values of assets acquired and liabilities assumed are based on available information at the acquisition date and assumptions deemed reasonable by management, supplemented by the expertise of third-party valuation specialists engaged to assist in determining fair value for intangible assets, including goodwill. As of September 27, 2025, the fair value determination of the intangible assets for the above business combinations has not been finalized. Therefore, changes in facts and circumstances may result in adjustments to the initial fair value estimates during the measurement period, which may not exceed one year from the acquisition date. 
+​
+The business combinations mentioned above contributed approximately $
+23.8
+ million to net sales and a $
+1.2
+ million operating loss during the first nine months of 2025. They are not significant to our operating results and thus proforma results for 2025 and 2024 are not presented.
+14
+
+Table of Contents
+UFP INDUSTRIES, INC.
+G.       SEGMENT REPORTING
+ASC 280, Segment Reporting (“ASC 280”), defines 
+operating
+ segments as components of an enterprise about which separate financial information is available that is evaluated regularly by the chief operating decision maker (“CODM”) in deciding how to allocate resources and in assessing performance. Our CODM is the chief executive officer, as he has the ultimate decision-making authority related to assessing the Company’s performance and allocating resources. The CODM assesses performance for our segments and decides how to allocate resources based on net sales, cost of goods sold, earnings from operations and net earnings. These metrics are also reported on the Consolidated Statement of Earnings and Comprehensive Income. The measure of segment assets is reported on the Consolidated Balance Sheet as total consolidated assets. The CODM uses earnings from operations and net earnings to evaluate income generated from segment assets (return on investment) in determining wage increase allocations and bonus pools, and in deciding whether to reinvest profits into the business, such as for acquisitions, or to pay dividends. 
+We operate manufacturing, treating and distribution facilities internationally, but primarily in the United States. Our business segments consist of UFP Retail Solutions, UFP Packaging and UFP Construction and align with the end markets we serve. This segment structure allows for a specialized and consistent sales approach among Company operations, efficient use of resources and capital, and quicker introduction of new products and services. We manage the operations of our individual locations primarily through a market-centered reporting structure under which each location is included in a business unit and business units are included in our Retail, Packaging, and Construction segments. In the case of locations that serve multiple segments, results are allocated and accounted for by segment. 
+The exception to this market-centered reporting and management structure is our International segment, which comprises our packaging operations in Mexico, Canada, Spain, India, United Arab Emirates and Australia and sales and buying offices in other parts of the world, and our Ardellis segment, which represents our wholly owned fully licensed captive insurance company based in Bermuda. Our International and Ardellis segments do not meet the quantitative thresholds in order to be separately reported and accordingly, the International and Ardellis segments have been aggregated in the “All Other” segment for reporting purposes. 
+“Corporate” includes purchasing, transportation, corporate ventures, and administrative functions that serve our operating segments. Operating results of Corporate primarily consist of net sales to external customers initiated by UFP Transportation, Inc., which owns, leases and operates transportation equipment, UFP Purchasing, Inc. and over (under) allocated costs. The operating results of UFP Real Estate, Inc., which owns and leases real estate, are also included in the Corporate column. Inter-company lease and service charges are assessed to our operating segments for the use of these assets and services at fair market value rates. Total assets in the Corporate column include unallocated cash and cash equivalents, certain prepaid assets, and certain property, equipment and other assets pertaining to the centralized activities of Corporate, UFP Real Estate, Inc., UFP Transportation, Inc., and UFP Purchasing, Inc. Real estate activities are conducted by the real estate company on behalf of the segments, and capital expenditures associated with real estate are allocated to the segments. 
+15
+
+Table of Contents
+UFP INDUSTRIES, INC.
+The tables below are presented in thousands:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Three Months Ended September 27, 2025
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+All
+​
+​
+​
+​
+​
+​
+​
+
+Retail
+
+Packaging
+
+Construction
+
+Other
+
+Corporate
+
+Total
+Net sales to outside customers
+​
+$
+
+593,985
+​
+$
+
+394,949
+​
+$
+
+496,465
+​
+$
+
+72,482
+​
+$
+
+1,746
+​
+$
+
+1,559,627
+Intersegment net sales
+​
+
+59,118
+​
+​
+
+27,472
+​
+​
+
+20,622
+​
+​
+
+82,334
+​
+​
+ (
+189,546
+)
+​
+
+ —
+Cost of goods sold
+​
+
+513,763
+​
+
+327,528
+​
+
+405,262
+​
+​
+
+59,251
+​
+​
+ (
+8,858
+)
+​
+
+1,296,946
+Gross Profit
+​
+
+80,222
+​
+​
+
+67,421
+​
+​
+
+91,203
+​
+​
+
+13,231
+​
+​
+
+10,604
+​
+​
+
+262,681
+Selling, general, administrative expenses
+​
+
+49,032
+​
+​
+
+45,831
+​
+​
+
+58,943
+​
+​
+
+9,226
+​
+​
+
+6,998
+​
+
+170,030
+Net loss (gain) on disposition and impairment of assets
+​
+​
+
+9,983
+​
+​
+ (
+5,970
+)
+​
+​
+ (
+59
+)
+​
+​
+
+63
+​
+​
+ (
+1,559
+)
+​
+​
+
+2,458
+Other losses (gains), net
+​
+
+462
+​
+​
+ —
+​
+​
+ (
+3
+)
+​
+​
+
+203
+​
+​
+
+60
+​
+
+722
+Earnings from operations
+​
+
+20,745
+​
+​
+
+27,560
+​
+​
+
+32,322
+​
+​
+
+3,739
+​
+​
+
+5,105
+​
+​
+
+89,471
+Interest expense
+​
+
+30
+​
+​
+
+3
+​
+​
+ —
+​
+​
+ (
+212
+)
+​
+​
+
+2,936
+​
+
+2,757
+Interest and investment income
+​
+​
+ (
+100
+)
+​
+​
+ (
+4
+)
+​
+​
+ (
+7
+)
+​
+​
+ (
+2,735
+)
+​
+​
+ (
+9,296
+)
+​
+​
+ (
+12,142
+)
+Equity in (earnings) loss of investee
+​
+​
+ —
+​
+​
+ (
+380
+)
+​
+​
+ —
+​
+​
+
+102
+​
+​
+ —
+​
+​
+ (
+278
+)
+Interest and other
+​
+​
+ (
+70
+)
+​
+​
+ (
+381
+)
+​
+​
+ (
+7
+)
+​
+​
+ (
+2,845
+)
+​
+​
+ (
+6,360
+)
+​
+​
+ (
+9,663
+)
+Earnings before income taxes
+​
+​
+
+20,815
+​
+​
+
+27,941
+​
+​
+
+32,329
+​
+​
+
+6,584
+​
+​
+
+11,465
+​
+​
+
+99,134
+Income taxes
+​
+​
+
+5,074
+​
+​
+
+6,583
+​
+​
+
+7,647
+​
+​
+
+1,691
+​
+​
+
+2,597
+​
+​
+
+23,592
+Net earnings
+​
+$
+
+15,741
+​
+$
+
+21,358
+​
+$
+
+24,682
+​
+$
+
+4,893
+​
+$
+
+8,868
+​
+$
+
+75,542
+Other significant items:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Amortization expense
+​
+$
+
+879
+​
+​
+
+2,139
+​
+​
+
+775
+​
+​
+
+1,701
+​
+​
+
+427
+​
+$
+
+5,921
+Depreciation expense
+​
+​
+
+7,523
+​
+​
+
+8,946
+​
+​
+
+6,667
+​
+​
+
+1,027
+​
+​
+
+10,470
+​
+​
+
+34,633
+Segment assets
+​
+​
+
+881,513
+​
+​
+
+772,184
+​
+​
+
+630,054
+​
+​
+
+338,211
+​
+​
+
+1,513,589
+​
+​
+
+4,135,551
+Capital expenditures
+​
+​
+
+37,278
+​
+​
+
+11,155
+​
+​
+
+6,149
+​
+​
+
+744
+​
+​
+
+20,426
+​
+​
+
+75,752
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Three Months Ended September 28, 2024
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+All
+​
+​
+​
+​
+​
+​
+​
+
+Retail
+
+Packaging
+
+Construction
+
+Other
+
+Corporate
+
+Total
+Net sales to outside customers
+​
+$
+
+635,571
+​
+$
+
+401,626
+​
+$
+
+534,625
+​
+$
+
+75,802
+​
+$
+
+1,759
+​
+$
+
+1,649,383
+Intersegment net sales
+​
+
+60,393
+​
+​
+
+23,791
+​
+​
+
+18,293
+​
+​
+
+67,906
+​
+​
+ (
+170,383
+)
+​
+
+ —
+Cost of goods sold
+​
+​
+
+542,516
+​
+
+330,381
+​
+
+422,967
+​
+
+61,350
+​
+​
+ (
+6,243
+)
+​
+​
+
+1,350,971
+Gross Profit
+​
+​
+
+93,055
+​
+​
+
+71,245
+​
+​
+
+111,658
+​
+​
+
+14,452
+​
+​
+
+8,002
+​
+​
+
+298,412
+Selling, general, administrative expenses
+​
+​
+
+54,113
+​
+​
+
+49,352
+​
+​
+
+69,046
+​
+​
+
+13,696
+​
+​
+ (
+2,866
+)
+​
+​
+
+183,341
+Net (gain) loss on disposition and impairment of assets
+​
+​
+ (
+9
+)
+​
+​
+
+28
+​
+​
+ (
+64
+)
+​
+​
+ (
+4
+)
+​
+​
+ (
+404
+)
+​
+​
+ (
+453
+)
+Other (gains) losses, net
+​
+​
+ (
+2,861
+)
+​
+​
+ —
+​
+​
+
+276
+​
+​
+ (
+1,787
+)
+​
+​
+ (
+30
+)
+​
+​
+ (
+4,402
+)
+Earnings from operations
+​
+​
+
+41,812
+​
+​
+
+21,865
+​
+​
+
+42,400
+​
+​
+
+2,547
+​
+​
+
+11,302
+​
+​
+
+119,926
+Interest expense
+​
+​
+
+29
+​
+​
+
+4
+​
+​
+ —
+​
+​
+ (
+886
+)
+​
+​
+
+3,809
+​
+
+2,956
+Interest and investment income
+​
+​
+ (
+143
+)
+​
+​
+ —
+​
+​
+ —
+​
+​
+ (
+3,147
+)
+​
+​
+ (
+13,927
+)
+​
+​
+ (
+17,217
+)
+Equity in loss of investee
+​
+​
+ —
+​
+​
+
+77
+​
+​
+ —
+​
+​
+ —
+​
+​
+ —
+​
+​
+
+77
+Interest and other
+​
+​
+ (
+114
+)
+​
+​
+
+81
+​
+​
+ —
+​
+​
+ (
+4,033
+)
+​
+​
+ (
+10,118
+)
+​
+​
+ (
+14,184
+)
+Earnings before income taxes
+​
+​
+
+41,926
+​
+​
+
+21,784
+​
+​
+
+42,400
+​
+​
+
+6,580
+​
+​
+
+21,420
+​
+​
+
+134,110
+Income taxes
+​
+​
+
+10,157
+​
+​
+
+5,277
+​
+​
+
+10,273
+​
+​
+
+1,594
+​
+​
+
+5,190
+​
+​
+
+32,491
+Net earnings
+​
+$
+
+31,769
+​
+$
+
+16,507
+​
+$
+
+32,127
+​
+$
+
+4,986
+​
+$
+
+16,230
+​
+$
+
+101,619
+Other significant items:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Amortization expense
+​
+$
+
+998
+​
+​
+
+2,216
+​
+​
+
+703
+​
+​
+
+1,536
+​
+​
+
+433
+​
+$
+
+5,886
+Depreciation expense
+​
+
+7,238
+​
+​
+
+8,664
+​
+​
+
+6,027
+​
+​
+
+832
+​
+​
+
+8,726
+​
+
+31,487
+Segment assets
+​
+
+843,299
+​
+​
+
+786,988
+​
+​
+
+660,815
+​
+​
+
+341,860
+​
+​
+
+1,584,923
+​
+
+4,217,885
+Capital expenditures
+​
+
+15,155
+​
+​
+
+17,332
+​
+​
+
+15,358
+​
+​
+
+2,973
+​
+​
+
+8,090
+​
+
+58,908
+16
+
+Table of Contents
+UFP INDUSTRIES, INC.
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Nine Months Ended September 27, 2025
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+All
+​
+​
+​
+​
+​
+​
+​
+
+Retail
+
+Packaging
+
+Construction
+
+Other
+
+Corporate
+
+Total
+Net sales to outside customers
+​
+$
+
+1,989,592
+​
+​
+
+1,233,626
+​
+​
+
+1,563,995
+​
+​
+
+197,806
+​
+​
+
+5,501
+​
+$
+
+4,990,520
+Intersegment net sales
+​
+
+199,760
+​
+​
+
+77,016
+​
+​
+
+71,860
+​
+​
+
+273,361
+​
+​
+ (
+621,997
+)
+​
+
+ —
+Cost of goods sold
+​
+
+1,714,335
+​
+​
+
+1,026,049
+​
+​
+
+1,281,803
+​
+​
+
+160,706
+​
+​
+ (
+35,984
+)
+​
+
+4,146,909
+Gross Profit
+​
+
+275,257
+​
+​
+
+207,577
+​
+​
+
+282,192
+​
+​
+
+37,100
+​
+​
+
+41,485
+​
+​
+
+843,611
+Selling, general, administrative expenses
+​
+
+163,029
+​
+​
+
+136,748
+​
+​
+
+185,454
+​
+​
+
+28,086
+​
+​
+
+17,962
+​
+
+531,279
+Net loss (gain) on disposition and impairment of assets
+​
+​
+
+11,090
+​
+​
+ (
+4,713
+)
+​
+​
+
+272
+​
+​
+
+2,679
+​
+​
+ (
+3,116
+)
+​
+​
+
+6,212
+Other losses (gains), net
+​
+
+780
+​
+​
+ —
+​
+​
+
+268
+​
+​
+
+451
+​
+​
+ (
+193
+)
+​
+
+1,306
+Earnings from operations
+​
+
+100,358
+​
+​
+
+75,542
+​
+​
+
+96,198
+​
+​
+
+5,884
+​
+​
+
+26,832
+​
+​
+
+304,814
+Interest expense
+​
+
+89
+​
+​
+
+9
+​
+​
+ —
+​
+​
+ (
+742
+)
+​
+​
+
+8,786
+​
+
+8,142
+Interest and investment income
+​
+​
+ (
+273
+)
+​
+​
+ (
+4
+)
+​
+​
+ (
+8
+)
+​
+​
+ (
+5,343
+)
+​
+​
+ (
+28,388
+)
+​
+​
+ (
+34,016
+)
+Equity in earnings of investee
+​
+​
+ —
+​
+​
+ (
+853
+)
+​
+​
+ —
+​
+​
+ (
+219
+)
+​
+​
+ —
+​
+​
+ (
+1,072
+)
+Interest and other
+​
+​
+ (
+184
+)
+​
+​
+ (
+848
+)
+​
+​
+ (
+8
+)
+​
+​
+ (
+6,304
+)
+​
+​
+ (
+19,602
+)
+​
+​
+ (
+26,946
+)
+Earnings before income taxes
+​
+​
+
+100,542
+​
+​
+
+76,390
+​
+​
+
+96,206
+​
+​
+
+12,188
+​
+​
+
+46,434
+​
+​
+
+331,760
+Income taxes
+​
+​
+
+23,010
+​
+​
+
+17,482
+​
+​
+
+22,017
+​
+​
+
+2,779
+​
+​
+
+10,636
+​
+​
+
+75,924
+Net earnings
+​
+$
+
+77,532
+​
+$
+
+58,908
+​
+$
+
+74,189
+​
+$
+
+9,409
+​
+$
+
+35,798
+​
+$
+
+255,836
+Other significant items:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Amortization expense
+​
+$
+
+2,793
+​
+​
+
+6,484
+​
+​
+
+2,181
+​
+​
+
+4,973
+​
+​
+
+1,235
+​
+$
+
+17,666
+Depreciation expense
+​
+​
+
+22,425
+​
+​
+
+26,933
+​
+​
+
+19,188
+​
+​
+
+3,080
+​
+​
+
+29,948
+​
+​
+
+101,574
+Segment assets
+​
+​
+
+881,513
+​
+​
+
+772,184
+​
+​
+
+630,054
+​
+​
+
+338,211
+​
+​
+
+1,513,589
+​
+​
+
+4,135,551
+Capital expenditures
+​
+​
+
+91,804
+​
+​
+
+57,704
+​
+​
+
+22,813
+​
+​
+
+2,168
+​
+​
+
+31,015
+​
+​
+
+205,504
+17
+
+Table of Contents
+UFP INDUSTRIES, INC.
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Nine Months Ended September 28, 2024
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+All
+​
+​
+​
+​
+​
+​
+​
+
+Retail
+
+Packaging
+
+Construction
+
+Other
+
+Corporate
+
+Total
+Net sales to outside customers
+​
+$
+
+2,073,403
+​
+$
+
+1,261,248
+​
+$
+
+1,627,068
+​
+$
+
+224,219
+​
+$
+
+4,370
+​
+$
+
+5,190,308
+Intersegment net sales
+​
+
+189,841
+​
+​
+
+70,992
+​
+​
+
+57,125
+​
+​
+
+219,218
+​
+​
+ (
+537,176
+)
+​
+
+ —
+Cost of goods sold
+​
+​
+
+1,752,464
+​
+
+1,020,877
+​
+
+1,275,520
+​
+
+171,916
+​
+​
+ (
+17,702
+)
+​
+​
+
+4,203,075
+Gross Profit
+​
+​
+
+320,939
+​
+​
+
+240,371
+​
+​
+
+351,548
+​
+​
+
+52,303
+​
+​
+
+22,072
+​
+​
+
+987,233
+Selling, general, administrative expenses
+​
+​
+
+175,014
+​
+​
+
+156,289
+​
+​
+
+211,503
+​
+​
+
+41,663
+​
+​
+ (
+5,914
+)
+​
+​
+
+578,555
+Net loss (gain) on disposition and impairment of assets
+​
+​
+
+877
+​
+​
+
+1,455
+​
+​
+
+222
+​
+​
+
+10
+​
+​
+ (
+1,026
+)
+​
+​
+
+1,538
+Other (gains) losses, net
+​
+​
+ (
+2,527
+)
+​
+​
+ —
+​
+​
+
+70
+​
+​
+ (
+3,286
+)
+​
+​
+
+100
+​
+​
+ (
+5,643
+)
+Earnings from operations
+​
+​
+
+147,575
+​
+​
+
+82,627
+​
+​
+
+139,753
+​
+​
+
+13,916
+​
+​
+
+28,912
+​
+​
+
+412,783
+Interest expense
+​
+​
+
+87
+​
+​
+
+12
+​
+​
+ —
+​
+​
+ (
+2,552
+)
+​
+​
+
+11,712
+​
+
+9,259
+Interest and investment income
+​
+​
+ (
+473
+)
+​
+​
+ (
+11
+)
+​
+​
+ (
+25
+)
+​
+​
+ (
+6,274
+)
+​
+​
+ (
+40,142
+)
+​
+​
+ (
+46,925
+)
+Equity in loss of investee
+​
+​
+ —
+​
+​
+
+1,313
+​
+​
+ —
+​
+​
+ —
+​
+​
+ —
+​
+​
+
+1,313
+Interest and other
+​
+​
+ (
+386
+)
+​
+​
+
+1,314
+​
+​
+ (
+25
+)
+​
+​
+ (
+8,826
+)
+​
+​
+ (
+28,430
+)
+​
+​
+ (
+36,353
+)
+Earnings before income taxes
+​
+​
+
+147,961
+​
+​
+
+81,313
+​
+​
+
+139,778
+​
+​
+
+22,742
+​
+​
+
+57,342
+​
+​
+
+449,136
+Income taxes
+​
+​
+
+33,193
+​
+​
+
+17,841
+​
+​
+
+31,194
+​
+​
+
+5,072
+​
+​
+
+12,886
+​
+​
+
+100,186
+Net earnings
+​
+$
+
+114,768
+​
+$
+
+63,472
+​
+$
+
+108,584
+​
+$
+
+17,670
+​
+$
+
+44,456
+​
+$
+
+348,950
+Other significant items:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Amortization expense
+​
+$
+
+2,994
+​
+​
+
+6,624
+​
+​
+
+2,108
+​
+​
+
+4,573
+​
+​
+
+1,322
+​
+$
+
+17,621
+Depreciation expense
+​
+
+21,327
+​
+​
+
+25,600
+​
+​
+
+17,032
+​
+​
+
+2,449
+​
+​
+
+25,722
+​
+
+92,130
+Segment assets
+​
+
+843,299
+​
+​
+
+786,988
+​
+​
+
+660,815
+​
+​
+
+341,860
+​
+​
+
+1,584,923
+​
+
+4,217,885
+Capital expenditures
+​
+
+43,289
+​
+​
+
+45,602
+​
+​
+
+48,718
+​
+​
+
+4,836
+​
+​
+
+23,048
+​
+
+165,493
+​
+The following table presents goodwill by segment as of September 27, 2025, and December 28, 2024 (in thousands):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+Retail
+
+Packaging
+
+Construction
+
+All Other
+
+Corporate
+
+Total
+Balance as of December 28, 2024
+
+$
+
+84,116
+
+$
+
+146,747
+
+$
+
+87,401
+
+$
+
+21,575
+​
+$
+ —
+
+$
+
+339,839
+2025 Purchase Accounting Adjustments
+​
+​
+ —
+​
+​
+
+12
+​
+​
+
+761
+​
+​
+ —
+​
+​
+ —
+​
+​
+
+773
+Foreign Exchange, Net
+
+​
+
+42
+​
+​
+ —
+​
+​
+
+153
+​
+​
+
+1,338
+​
+​
+ —
+
+​
+
+1,533
+Balance as of September 27, 2025
+​
+$
+
+84,158
+
+$
+
+146,759
+​
+$
+
+88,315
+​
+$
+
+22,913
+​
+$
+ —
+​
+$
+
+342,145
+​
+18
+
+Table of Contents
+UFP INDUSTRIES, INC.
+The following table presents our disaggregated net sales (in thousands) by business unit for each segment for the three and nine months ended September 27, 2025, and September 28, 2024 (in thousands).
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Three Months Ended
+​
+Nine Months Ended
+​
+​
+​
+September 27,
+​
+September 28,
+​
+September 27,
+​
+September 28,
+​
+​
+​
+2025
+
+2024
+
+2025
+
+2024
+​
+Retail
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+ProWood
+​
+$
+
+512,822
+​
+$
+
+556,638
+​
+$
+
+1,743,521
+​
+$
+
+1,816,167
+​
+Deckorators
+​
+
+81,163
+​
+​
+
+76,572
+​
+​
+
+244,769
+​
+​
+
+250,413
+​
+Other
+​
+
+ —
+​
+
+2,361
+​
+
+1,302
+​
+
+6,823
+​
+Total Retail
+​
+$
+
+593,985
+​
+$
+
+635,571
+​
+$
+
+1,989,592
+​
+$
+
+2,073,403
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Packaging
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Structural Packaging
+
+​
+$
+
+245,868
+​
+$
+
+256,959
+​
+$
+
+769,151
+​
+$
+
+811,211
+​
+PalletOne
+​
+​
+
+126,573
+​
+​
+
+126,007
+​
+​
+
+402,706
+​
+​
+
+395,408
+​
+Protective Packaging
+​
+​
+
+22,508
+​
+​
+
+18,660
+​
+​
+
+61,769
+​
+​
+
+54,629
+​
+Total Packaging
+​
+$
+
+394,949
+​
+$
+
+401,626
+​
+$
+
+1,233,626
+​
+$
+
+1,261,248
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Construction
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Factory Built
+​
+$
+
+201,596
+​
+$
+
+201,831
+​
+$
+
+648,484
+​
+$
+
+618,907
+​
+Site Built
+​
+
+168,069
+​
+
+219,626
+​
+
+561,099
+​
+
+679,732
+​
+Commercial
+​
+​
+
+78,227
+​
+​
+
+69,528
+​
+​
+
+212,462
+​
+​
+
+197,259
+​
+Concrete Forming
+​
+
+48,573
+​
+
+43,640
+​
+
+141,950
+​
+
+131,170
+​
+Total Construction
+​
+$
+
+496,465
+​
+$
+
+534,625
+​
+$
+
+1,563,995
+​
+$
+
+1,627,068
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+All Other
+​
+$
+
+72,482
+​
+$
+
+75,802
+​
+$
+
+197,806
+​
+$
+
+224,219
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Corporate
+​
+$
+
+1,746
+​
+$
+
+1,759
+​
+$
+
+5,501
+​
+$
+
+4,370
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Total Net Sales
+​
+$
+
+1,559,627
+​
+$
+
+1,649,383
+​
+$
+
+4,990,520
+​
+$
+
+5,190,308
+​
+​
+​
+H.       INCOME TAXES
+Effective tax rates differ from statutory federal income tax rates, primarily due to provisions for foreign, state and local income taxes and permanent tax differences. Our effective tax rate was 
+23.8
+% in the third quarter of 2025 compared to 
+24.2
+% in the same period of 2024 and was 
+22.9
+% in the first nine months of 2025 compared to 
+22.3
+% for the same period in 2024.
+
+The decrease in our effective tax rate for the third quarter was primarily due to an increase in our tax deduction from stock-based compensation accounted for as a permanent difference. The increase in our effective tax rate for the first nine months of 2025 was primarily due to an increase in foreign subsidiary income taxed in the US and a decrease in our tax deduction from stock-based compensation for the year. A significant amount of stock-based compensation vested in the first quarter of 2024, which decreased the prior year effective tax rate in comparison to 2025.
+​
+On July 4, 2025, the One Big Beautiful Bill Act (“OBBBA”) was enacted in the U.S. The OBBBA includes significant provisions, such as the permanent extension of certain expiring provisions of the Tax Cuts and Jobs Act, modifications to the international tax framework and the restoration of favorable tax treatment for certain business provisions. The legislation has multiple effective dates, with certain provisions effective in 2025 and others implemented through 2027. We are continuing to evaluate the impact of OBBBA beyond 2025; however, any effects are expected to relate primarily to deferred tax items and are not anticipated to materially impact our effective tax rate.
+​
+​
+19
+
+Table of Contents
+UFP INDUSTRIES, INC.
+I.       COMMON STOCK
+Below is a summary of common stock issuances for the first nine months of 2025 and 2024 (in thousands, except average share price):
+​
+​
+​
+​
+​
+​
+​
+​
+
+September 27, 2025
+Share Issuance Activity
+
+Common Stock
+​
+​
+Average Share Price
+Shares issued under the employee stock purchase plan
+​
+
+22
+​
+$
+
+99.41
+​
+​
+​
+​
+​
+​
+    Shares issued under the employee stock gift program
+​
+
+2
+​
+​
+
+106.38
+    Shares issued under the director compensation plan
+​
+
+40
+​
+​
+
+56.22
+    Shares issued under the LTSIP
+​
+
+179
+​
+​
+
+106.65
+    Shares issued under the executive stock match plan
+​
+
+60
+​
+​
+
+109.84
+    Forfeitures
+​
+ (
+52
+)
+​
+​
+​
+Total shares issued under stock grant programs
+​
+
+229
+​
+$
+
+100.21
+​
+​
+​
+​
+​
+​
+Shares issued under the deferred compensation plans
+​
+
+102
+​
+$
+
+107.29
+​
+During the first nine months of 2025, we repurchased 
+2,819,901
+ shares of our common stock at an average share price of $
+103.04
+.
+​
+​
+​
+​
+​
+​
+​
+​
+
+September 28, 2024
+Share Issuance Activity
+
+Common Stock
+​
+​
+Average Share Price
+Shares issued under the employee stock purchase plan
+​
+
+21
+​
+$
+
+120.78
+​
+​
+​
+​
+​
+​
+    Shares issued under the employee stock gift program
+​
+
+1
+​
+​
+
+118.48
+    Shares issued under the director retainer stock program
+​
+
+2
+​
+​
+
+118.24
+    Shares issued under the LTSIP
+​
+
+352
+​
+​
+
+113.49
+    Shares issued under the executive stock grants plan
+​
+
+64
+​
+​
+
+111.35
+    Forfeitures
+​
+ (
+31
+)
+​
+​
+​
+Total shares issued under stock grant programs
+​
+
+388
+​
+$
+
+113.17
+​
+​
+​
+​
+​
+​
+Shares issued under the deferred compensation plans
+​
+
+95
+​
+$
+
+113.73
+​
+During the first nine months of 2024, we repurchased approximately 
+1,399,944
+ shares of our common stock at an average share price of $
+113.55
+. 
+​
+J.       INVENTORIES
+Inventories are stated at the lower of cost or net realizable value. The cost of inventories includes raw materials, direct labor, and manufacturing overhead and is determined using the weighted average cost method. Raw materials consist primarily of unfinished wood products and other materials expected to be manufactured or treated prior to sale, while finished goods represent various manufactured and treated wood products ready for sale. 
+We write down the value of inventory, the impact of which is reflected in cost of goods sold in the Condensed Consolidated Statements of Earnings and Comprehensive Income, if the cost of specific inventory items on hand exceeds the amount we expect to realize from the ultimate sale or disposal of the inventory. These estimates are based on management's judgment regarding future demand and market conditions and analysis of historical experience.
+20
+
+Table of Contents
+UFP INDUSTRIES, INC.
+K.       SUBSEQUENT EVENTS
+Subsequent to our reporting date, we repurchased 
+894,428
+ shares for 
+$
+81.6
+ million, resulting in an average share price of 
+$
+91.22
+.
+
+​
+21
+
+Table of Contents
+UFP INDUSTRIES, INC.
+Item 2.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+UFP Industries, Inc. is a holding company with subsidiaries in North America, Europe, Asia, and Australia that design, manufacture, and supply products made from wood, wood and non-wood composites, and other materials to three segments: retail, packaging, and construction. Our business segments are functionally interdependent and are supported by common corporate services, such as accounting and finance, information technology, human resources, marketing, purchasing, transportation, legal and compliance, among others. We regularly invest in automation and implement best practices to improve the efficiency of our manufacturing facilities across each of the segments. The results and improvements from these investments are shared among the segments. This exchange of ideas drives faster innovation for new products, processes, and product improvements. While the majority of our facilities serve only one business segment, many of our larger facilities serve two or more segments. 
+We believe that our operating structure allows us to better evaluate market conditions and opportunities and more effectively allocate capital and resources to the appropriate segments and business units. Also, we believe our diversification and manner in which we operate our business provide an inherent hedge against the business cycles our end markets experience and over which we have limited control. Accordingly, we have the ability to provide more stable earnings and cash flows to our shareholders. Our diversification and operating practices also mitigate the impact that more volatile lumber market conditions have on traditional lumber companies. We are headquartered in Grand Rapids, Michigan. 
+This report contains forward-looking statements within the meaning of Section 21E of the Securities Exchange Act, as amended, that are based on management’s beliefs, assumptions, current expectations, estimates and projections about the markets we serve, the economy and the Company itself. Words like “anticipates,” “believes,” “confident,” “estimates,” “expects,” “forecasts,” “likely,” “plans,” “projects,” “should,” variations of such words, and similar expressions identify such forward-looking statements. These statements do not guarantee future performance and involve certain risks, uncertainties and assumptions that are difficult to predict with regard to timing, extent, likelihood and degree of occurrence. We do not undertake to update forward-looking statements to reflect facts, circumstances, events, or assumptions that occur after the date the forward-looking statements are made. Actual results could differ materially from those included in such forward-looking statements. Investors are cautioned that all forward-looking statements involve risks and uncertainty. Among the factors that could cause actual results to differ materially from forward-looking statements are the following: fluctuations in currency and inflation; fluctuations in the price of lumber; adverse economic conditions in the markets we serve; changes in tariffs, import/export regulations, and other trade policies; concentration of sales to customers; the success of vertical integration strategies; excess capacity or supply chain challenges; our ability to make successful business acquisitions; government regulations, particularly involving environmental and safety regulations; adverse or unusual weather conditions;  inbound and outbound transportation costs; alternatives to replace treated wood products; cybersecurity breaches; and potential pandemics. Certain of these risk factors as well as other risk factors and additional information are included in our reports on Form 10-K and 10-Q on file with the Securities and Exchange Commission. 
+OVERVIEW
+Our results for the third quarter of 2025 include the following highlights:
+●
+Our net sales decreased 5% compared to the third quarter of 2024, which was comprised of a 1% decrease in selling prices and a 4% decrease in unit sales. The overall decrease in our selling prices is primarily due to more competitive pricing in our Site Built business unit and lower commodity lumber costs which were passed to customers in our selling prices. Organic unit sales declined due to a 6% decrease in our retail segment, a 2% decrease in our construction segment, and a 3% decrease in our packaging segment. An acquired business contributed a 1% unit increase in our packaging segment.
+22
+
+Table of Contents
+UFP INDUSTRIES, INC.
+●
+Our gross profits decreased by $36 million, or 12%, compared to the same period of the prior year. By segment, gross profits decreased by $21 million in Construction, $13 million in Retail, $4 million in Packaging, and $1 million in All Other, partially offset by a $3 million increase in Corporate. The overall decrease in our gross profits is primarily due to weaker demand impacting volumes in our Site-Built, ProWood, and Structural Packaging business units, competitive pricing in our Site Built and PalletOne business units, and cost increases in our Deckorators business unit.  
+●
+Our operating profits decreased $31 million, or 25%, compared to the third quarter of 2024. The overall decrease is a result of the decrease in gross profits mentioned above and an $8 million increase in our net loss from the impairment and disposition of certain assets and other net losses, partially offset by a $13 million decrease in selling, general, and administrative (“SG&A”) expenses. The decrease in SG&A is due to our cost reduction efforts and incentive compensation tied to profitability and return on investment totaling $19 million, partially offset by a $6 million increase in advertising costs to build brand awareness of our Deckorators’ Surestone composite decking. 
+●
+Our cash flows from operations was $399 million in the first nine months of 2025 compared to $498 million during the first nine months of 2024. The $99 million decline resulted from a decrease in net earnings and non-cash expenses of $79 million and an increase in our investment in net working capital since year end that was $19 million higher in the first nine months of 2025 than it was in 2024. We anticipate that this increase in net working capital will convert to cash by the end of the fourth quarter as we move to the slower seasonal time for our business.
+●
+Our Cash and cash equivalents at the end of September 2025 was $1.0 billion compared to $1.2 billion at the end of September 2024. The decline in our cash is primarily due to our elevated level of share repurchases this year. Our unused borrowing capacity under our revolving credit facility and a shelf agreement with certain lenders along with our cash resulted in total liquidity of approximately $2.3 billion at the end of the third quarter of 2025.
+HISTORICAL LUMBER PRICES
+We experience significant fluctuations in the cost of commodity lumber products from primary producers (“Lumber Market”). The following table presents the Random Lengths framing lumber composite price:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Random Lengths Composite
+​
+​
+​
+Average $/MBF
+​
+​
+
+2025
+
+2024
+
+January
+​
+$
+ 434
+​
+$
+ 398
+​
+February
+​
+
+ 442
+​
+
+ 389
+​
+March
+​
+
+ 479
+​
+
+ 416
+​
+April
+​
+
+ 485
+​
+
+ 403
+​
+May
+​
+
+ 453
+​
+
+ 377
+​
+June
+​
+
+ 431
+​
+
+ 382
+​
+July
+​
+
+ 426
+​
+
+ 363
+​
+August
+​
+
+ 433
+​
+
+ 386
+​
+September
+​
+
+ 384
+​
+
+ 398
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Third quarter average
+​
+$
+ 414
+​
+$
+ 382
+​
+Year-to-date average
+​
+$
+ 441
+​
+$
+ 390
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Third quarter percentage change
+​
+
+ 8.4
+%  
+
+​
+​
+Year-to-date percentage change
+​
+
+ 13.1
+%  
+
+​
+​
+​
+23
+
+Table of Contents
+UFP INDUSTRIES, INC.
+In addition, a Southern Yellow Pine (“SYP”) composite price, which we prepare and use, is presented below. Our purchases of this species comprise almost two-thirds of our total lumber purchases.
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Random Lengths SYP
+​
+​
+​
+Average $/MBF
+​
+​
+
+2025
+
+2024
+
+January
+​
+$
+ 386
+​
+$
+ 380
+​
+February
+​
+
+ 401
+​
+
+ 371
+​
+March
+​
+
+ 424
+​
+
+ 394
+​
+April
+​
+
+ 446
+​
+
+ 371
+​
+May
+​
+
+ 445
+​
+
+ 353
+​
+June
+​
+
+ 381
+​
+
+ 355
+​
+July
+​
+
+ 351
+​
+
+ 333
+​
+August
+​
+
+ 347
+​
+
+ 345
+​
+September
+​
+
+ 320
+​
+
+ 337
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Third quarter average
+​
+$
+ 339
+​
+$
+ 338
+​
+Year-to-date average
+​
+$
+ 389
+​
+$
+ 360
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Third quarter percentage change
+​
+​
+ 0.3
+%
+​
+​
+​
+Year-to-date percentage change
+​
+​
+ 8.1
+%
+​
+​
+​
+​
+Lumber prices in 2025 have declined since the Spring peak and September prices are lower year over year. The decline in overall lumber prices, in spite of higher duties on Canadian lumber imported to the United States, reflects the overall weak demand environment in the end markets that primarily consume softwood lumber – new housing, housing repair and remodel activity, and industrial (including packaging).
+
+A change in lumber prices impacts profitability of products sold with fixed and variable prices, as discussed below.
+IMPACT OF THE LUMBER MARKET ON OUR OPERATING RESULTS
+We generally price our products to pass lumber costs through to our customers so that our profitability is based on the value-added manufacturing, distribution, engineering, and other services we provide. As a result, our dollar sales levels (and working capital requirements) are impacted by the lumber costs of our products. Lumber costs were 41.4% and 38.6% of our sales in the first nine months of 2025 and 2024, respectively.
+Our gross margins are impacted by (1) the relative level of the Lumber Market (i.e. whether prices are higher or lower from comparative periods), and (2) the trend in the market price of lumber (i.e. whether the price of lumber is increasing or decreasing within a period or from period to period). Additionally, as explained below, product categories can be priced differently. Some of our products have fixed selling prices, while the selling prices of other products are indexed to the reported Lumber Market with a fixed dollar adder to cover conversion costs and profits. Consequently, the level and trend of the Lumber Market impact our products differently.
+Below is a general description of the primary ways in which our products are priced.
+●
+Products with fixed selling prices.
+ These products include value-added products, such as manufactured items, sold within all segments. Prices for these products are generally fixed at the time of the sales quotation for a specified period of time. In order to 
+reduce any exposure to adverse trends in the price of component lumber products, we attempt to lock in costs with our suppliers or purchase necessary inventory for these sales commitments. The time period limitation eventually allows us to periodically re-price our products for changes in lumber costs from our suppliers.
+24
+
+Table of Contents
+UFP INDUSTRIES, INC.
+●
+Products with selling prices indexed to the reported Lumber Market with a fixed dollar “adder” to cover conversion costs and profit.
+ These products primarily include treated lumber, panel goods, other commodity-type items, and trusses sold to the manufactured housing industry. For these products, we estimate customers’ needs and carry appropriate levels of inventory. Because lumber costs are incurred in advance of final sale prices, subsequent increases or decreases in the market price of lumber impact our gross margins. We believe our sales of these products are at their highest relative level in our second quarter, primarily due to pressure-treated lumber sold in our retail segment.
+For each of the product pricing categories above, our margins are exposed to changes in the trend of lumber prices. As a result of the balance in our net sales to each of our end markets, we believe our gross profits are more stable than those of our competitors who are less diversified.
+The greatest risk associated with changes in the 
+trend
+ of lumber prices is on the following products: 
+●
+Products with significant inventory levels with low turnover rates, whose selling prices are indexed to the Lumber Market.
+ In other words, the longer the period of time these products remain in inventory, the greater the exposure to changes in the price of lumber. This includes treated lumber, which comprised approximately 22% of our total net sales in the first nine months of 2025. This exposure is less significant with remanufactured lumber, panel goods, other commodity-type items, and trusses sold to the manufactured housing market due to the higher rate of inventory turnover. We attempt to mitigate the risk associated with treated lumber through managed inventory programs with our vendors. We estimate that 18% of our total purchases for the first nine months of 2025 were transacted under these programs. (
+Please refer to the “Risk Factors” section of our annual report on form 10-K, filed with the United States Securities and Exchange Commission.
+)
+●
+Products with fixed selling prices sold under long-term supply arrangements, particularly those involving multi-family construction projects.
+ We attempt to mitigate this risk through our purchasing practices and longer vendor commitments.
+In addition to the impact of Lumber Market trends on gross margins, changes in the level of the market cause fluctuations in gross margins when comparing operating results from period to period. This is explained in the following example, which assumes the price of lumber has increased from period one to period two, with no changes in the trend within each period.
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+Period 1
+
+Period 2
+
+Lumber cost
+​
+$
+ 300
+​
+$
+ 400
+​
+Conversion cost
+​
+
+ 50
+​
+
+ 50
+​
+ = Product cost
+​
+
+ 350
+​
+
+ 450
+​
+Adder
+​
+
+ 50
+​
+
+ 50
+​
+ = Sell price
+​
+$
+ 400
+​
+$
+ 500
+​
+Gross margin
+​
+
+ 12.5
+%  
+
+ 10.0
+%
+​
+As is apparent from the preceding example, the level of lumber prices does not impact our overall profits but does impact our margins. Gross margins and operating margins are negatively impacted during periods of high lumber prices; conversely, we experience margin improvement when lumber prices are relatively low. 
+​
+25
+
+Table of Contents
+UFP INDUSTRIES, INC.
+IMPACT OF TARIFFS ON OUR OPERATING RESULTS
+The proposed tariffs in Canada continue to be paused. If they are activated, the demand for domestic lumber products may  increase, which will likely result in higher costs if capacity gets challenged. Although the trade landscape continues to evolve, since we do not own any foreign sawmills and have excellent relationships with our mill partners, we believe we are currently in a strong position to adapt quickly to tariffs without material adverse financial impact after a short adjustment period. We will continue to monitor the market and intend to make decisions quickly to minimize disruption. As of September 27, 2025, 77% of our lumber purchases are from domestic suppliers and 16% are imported from Canada,  and 7% are imported from other international suppliers.
+BUSINESS COMBINATIONS AND ASSET PURCHASES
+We completed two business acquisitions in fiscal 2025 and one in fiscal 2024. The annual historical sales attributable to these acquisitions are approximately $49 million. These business combinations are not significant to our quarterly results and thus proforma results for 2025 and 2024 are not presented.
+See Notes to the Unaudited Interim Condensed Consolidated Financial Statements, Note F, “Business Combinations” for additional information.
+RESULTS OF OPERATIONS
+The following table presents, for the periods indicated, the components of our Unaudited Condensed Consolidated Statements of Earnings as a percentage of net sales.
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Three Months Ended
+​
+Nine Months Ended
+​
+September 27,
+
+September 28,
+
+​
+September 27,
+
+September 28,
+
+​
+2025
+
+2024
+
+​
+2025
+
+2024
+
+Net sales
+ 100.0
+%  
+ 100.0
+%  
+​
+ 100.0
+%  
+ 100.0
+%  
+Cost of goods sold
+ 83.2
+
+ 81.9
+
+​
+ 83.1
+
+ 81.0
+
+Gross profit
+ 16.8
+
+ 18.1
+
+​
+ 16.9
+
+ 19.0
+
+Selling, general, and administrative expenses
+ 10.9
+
+ 11.1
+
+​
+ 10.6
+
+ 11.1
+
+Net loss (gain) on disposition and impairment of assets
+ 0.2
+​
+ —
+​
+​
+ 0.1
+​
+ —
+​
+Other losses (gains), net
+ —
+
+ (0.3)
+
+​
+ —
+
+ (0.1)
+
+Earnings from operations
+ 5.7
+
+ 7.3
+
+​
+ 6.1
+
+ 8.0
+
+Interest and other
+ (0.6)
+
+ (0.9)
+
+​
+ (0.5)
+
+ (0.7)
+
+Earnings before income taxes
+ 6.4
+
+ 8.1
+
+​
+ 6.6
+
+ 8.7
+
+Income taxes
+ 1.5
+
+ 2.0
+
+​
+ 1.5
+
+ 1.9
+
+Net earnings
+ 4.8
+
+ 6.2
+
+​
+ 5.1
+
+ 6.7
+
+Less net earnings attributable to noncontrolling interest
+ —
+
+ (0.1)
+
+​
+ —
+
+ —
+
+Net earnings attributable to controlling interest
+ 4.8
+%  
+ 6.1
+%  
+​
+ 5.1
+%  
+ 6.7
+%  
+Note: Actual percentages are calculated and may not sum to total due to rounding.
+As a result of the impact of the level of lumber prices on the percentages displayed in the table above (see Impact of the Lumber Market on Our Operating Results), we believe it is useful to compare our change in units sold with our change in gross profits, selling, general, and administrative expenses, and operating profits as presented in the following table.
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Percentage Change
+​
+Percentage Change
+​
+​
+Three Months Ended
+​
+Nine Months Ended
+​
+
+September 27,
+​
+September 28,
+​
+September 27,
+​
+September 28,
+​
+
+2025
+
+2024
+
+2025
+
+2024
+Units sold
+
+ (4.0)
+%  
+​
+ (3.0)
+%  
+​
+ (3.0)
+%  
+​
+ (2.0)
+%  
+Gross profit
+​
+ (12.0)
+​
+​
+ (18.1)
+​
+​
+ (14.5)
+​
+​
+ (12.1)
+​
+Selling, general, and administrative expenses
+​
+ (7.3)
+​
+​
+ (6.3)
+​
+​
+ (8.2)
+​
+​
+ (2.8)
+​
+Earnings from operations
+​
+ (25.4)
+​
+​
+ (28.3)
+​
+​
+ (26.2)
+​
+​
+ (21.0)
+​
+26
+
+Table of Contents
+UFP INDUSTRIES, INC.
+The following table presents, for the periods indicated, our selling, general, and administrative (SG&A) costs as a percentage of gross profit. Over time, we believe this ratio provides an enhanced view of our effectiveness in managing these costs given our strategies to enhance our capabilities and improve our value-added product offering and recognizing the higher relative level of SG&A these strategies require. This ratio also mitigates the impact of changing lumber prices. The increase in the ratio of SG&A as a percentage of gross profit from the prior year is primarily due to the impact of competitive pricing and higher material costs for most of the year, which has reduced our gross profits.
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Three Months Ended
+​
+Nine Months Ended
+​
+
+September 27,
+​
+
+September 28,
+​
+
+September 27,
+​
+
+September 28,
+​
+
+2025
+​
+
+2024
+​
+
+2025
+​
+
+2024
+Gross profit
+$
+ 262,681
+​
+$
+ 298,412
+​
+$
+ 843,611
+​
+$
+ 987,233
+Selling, general, and administrative expenses
+$
+ 170,030
+​
+$
+ 183,341
+​
+$
+ 531,279
+​
+$
+ 578,555
+SG&A as percentage of gross profit
+
+64.7%
+​
+
+61.4%
+​
+
+63.0%
+​
+
+58.6%
+​
+Operating Results by Segment:
+Our business segments consist of UFP Retail Solutions (“Retail”), UFP Packaging (“Packaging”) and UFP Construction (“Construction”), and align with the end markets we serve. Among other advantages, this structure allows for a more specialized and consistent sales approach, more efficient use of resources and capital, and quicker introduction of new products and services. We manage the operations of our individual locations primarily through a market-centered reporting structure under which each location is included in a business unit, and business units are included in our Retail, Packaging, and Construction segments. The exception to this market-centered reporting and management structure is our International segment, which comprises our packaging operations in Mexico, Canada, Spain, India, and Australia and sales and buying offices in other parts of the world. Our International segment and Ardellis (our insurance captive) are included in the “All Other” column of the table below. The “Corporate” column includes purchasing, transportation, corporate ventures, and administrative functions that serve our operating segments. Operating results of Corporate primarily consists of over (under) allocated costs. The operating results of UFP Real Estate, Inc., which owns and leases real estate, and UFP Transportation Ltd., which owns, leases, and operates transportation equipment, are also included in the Corporate column. Inter-company lease and services charges are assessed to our operating segments for the use of these assets and services at fair market value rates.
+The following tables present our operating results, for the periods indicated, by segment (in thousands). 
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Three Months Ended September 27, 2025
+​
+
+​
+
+​
+
+​
+​
+​
+​
+​
+​
+
+​
+​
+​
+Retail
+​
+Packaging
+​
+Construction
+​
+All Other
+​
+Corporate
+​
+Total
+Net sales
+​
+$
+ 593,985
+​
+$
+ 394,949
+​
+$
+ 496,465
+​
+$
+ 72,482
+​
+$
+ 1,746
+​
+$
+ 1,559,627
+Cost of goods sold
+​
+
+ 513,763
+​
+
+ 327,528
+​
+
+ 405,262
+​
+
+ 59,251
+​
+​
+ (8,858)
+​
+​
+ 1,296,946
+Gross profit
+​
+​
+ 80,222
+​
+​
+ 67,421
+​
+​
+ 91,203
+​
+​
+ 13,231
+​
+​
+ 10,604
+​
+​
+ 262,681
+Selling, general, administrative expenses
+​
+​
+ 49,032
+​
+​
+ 45,831
+​
+​
+ 58,943
+​
+​
+ 9,226
+​
+​
+ 6,998
+​
+​
+ 170,030
+Net loss (gain) on disposition and impairment of assets
+​
+​
+ 9,983
+​
+​
+ (5,970)
+​
+​
+ (59)
+​
+​
+ 63
+​
+​
+ (1,559)
+​
+​
+ 2,458
+Other losses (gains), net
+​
+
+ 462
+​
+​
+ —
+​
+​
+ (3)
+​
+​
+ 203
+​
+​
+ 60
+​
+​
+ 722
+Earnings from operations
+​
+$
+ 20,745
+​
+$
+ 27,560
+​
+$
+ 32,322
+​
+$
+ 3,739
+​
+$
+ 5,105
+​
+$
+ 89,471
+​
+27
+
+Table of Contents
+UFP INDUSTRIES, INC.
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Three Months Ended September 28, 2024
+​
+
+​
+
+​
+
+​
+​
+​
+​
+​
+​
+​
+
+​
+​
+​
+Retail
+​
+Packaging
+​
+Construction
+​
+All Other
+​
+Corporate
+​
+Total
+Net sales
+​
+$
+ 635,571
+​
+$
+ 401,626
+​
+$
+ 534,625
+​
+$
+ 75,802
+​
+$
+ 1,759
+​
+$
+ 1,649,383
+Cost of goods sold
+​
+
+ 542,516
+​
+
+ 330,381
+​
+
+ 422,967
+​
+
+ 61,350
+​
+​
+ (6,243)
+​
+​
+ 1,350,971
+Gross profit
+​
+​
+ 93,055
+​
+​
+ 71,245
+​
+​
+ 111,658
+​
+​
+ 14,452
+​
+​
+ 8,002
+​
+​
+ 298,412
+Selling, general, administrative expenses
+​
+​
+ 54,113
+​
+​
+ 49,352
+​
+​
+ 69,046
+​
+​
+ 13,696
+​
+​
+ (2,866)
+​
+​
+ 183,341
+Net (gain) loss on disposition and impairment of assets
+​
+​
+ (9)
+​
+​
+ 28
+​
+​
+ (64)
+​
+​
+ (4)
+​
+​
+ (404)
+​
+​
+ (453)
+Other (gains) losses, net
+​
+
+ (2,861)
+​
+​
+ —
+​
+​
+ 276
+​
+​
+ (1,787)
+​
+​
+ (30)
+​
+​
+ (4,402)
+Earnings from operations
+​
+$
+ 41,812
+​
+$
+ 21,865
+​
+$
+ 42,400
+​
+$
+ 2,547
+​
+$
+ 11,302
+​
+$
+ 119,926
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Nine Months Ended September 27, 2025
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Retail
+​
+Packaging
+​
+Construction
+​
+All Other
+​
+Corporate
+​
+Total
+Net sales
+​
+$
+ 1,989,592
+​
+$
+ 1,233,626
+​
+$
+ 1,563,995
+​
+$
+ 197,806
+​
+$
+ 5,501
+​
+$
+ 4,990,520
+Cost of goods sold
+​
+
+ 1,714,335
+​
+
+ 1,026,049
+​
+
+ 1,281,803
+​
+
+ 160,706
+​
+​
+ (35,984)
+​
+​
+ 4,146,909
+Gross profit
+​
+​
+ 275,257
+​
+​
+ 207,577
+​
+​
+ 282,192
+​
+​
+ 37,100
+​
+​
+ 41,485
+​
+​
+ 843,611
+Selling, general, administrative expenses
+​
+​
+ 163,029
+​
+​
+ 136,748
+​
+​
+ 185,454
+​
+​
+ 28,086
+​
+​
+ 17,962
+​
+​
+ 531,279
+Net loss (gain) on disposition and impairment of assets
+​
+​
+ 11,090
+​
+​
+ (4,713)
+​
+​
+ 272
+​
+​
+ 2,679
+​
+​
+ (3,116)
+​
+​
+ 6,212
+Other losses (gains), net
+​
+​
+ 780
+​
+​
+ —
+​
+​
+ 268
+​
+​
+ 451
+​
+​
+ (193)
+​
+​
+ 1,306
+Earnings from operations
+​
+$
+ 100,358
+​
+$
+ 75,542
+​
+$
+ 96,198
+​
+$
+ 5,884
+​
+$
+ 26,832
+​
+$
+ 304,814
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Nine Months Ended September 28, 2024
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Retail
+​
+Packaging
+​
+Construction
+​
+All Other
+​
+Corporate
+​
+Total
+Net sales
+​
+$
+ 2,073,403
+​
+$
+ 1,261,248
+​
+$
+ 1,627,068
+​
+$
+ 224,219
+​
+$
+ 4,370
+​
+$
+ 5,190,308
+Cost of goods sold
+​
+
+ 1,752,464
+​
+
+ 1,020,877
+​
+
+ 1,275,520
+​
+
+ 171,916
+​
+​
+ (17,702)
+​
+​
+ 4,203,075
+Gross profit
+​
+​
+ 320,939
+​
+​
+ 240,371
+​
+​
+ 351,548
+​
+​
+ 52,303
+​
+​
+ 22,072
+​
+​
+ 987,233
+Selling, general, administrative expenses
+​
+​
+ 175,014
+​
+​
+ 156,289
+​
+​
+ 211,503
+​
+​
+ 41,663
+​
+​
+ (5,914)
+​
+​
+ 578,555
+Net loss (gain) on disposition and impairment of assets
+​
+​
+ 877
+​
+​
+ 1,455
+​
+​
+ 222
+​
+​
+ 10
+​
+​
+ (1,026)
+​
+​
+ 1,538
+Other (gains) losses, net
+​
+​
+ (2,527)
+​
+​
+ —
+​
+​
+ 70
+​
+​
+ (3,286)
+​
+​
+ 100
+​
+​
+ (5,643)
+Earnings from operations
+​
+$
+ 147,575
+​
+$
+ 82,627
+​
+$
+ 139,753
+​
+$
+ 13,916
+​
+$
+ 28,912
+​
+$
+ 412,783
+28
+
+Table of Contents
+UFP INDUSTRIES, INC.
+The following tables present the components of our operating results, for the periods indicated, as a percentage of net sales by segment.
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Three Months Ended September 27, 2025
+​
+​
+
+​
+
+​
+
+​
+​
+​
+​
+​
+​
+​
+
+​
+​
+Retail
+​
+Packaging
+​
+Construction
+​
+All Other
+​
+Corporate
+​
+Total
+​
+Net sales
+​
+100.0 
+%
+100.0 
+%
+100.0 
+%
+100.0 
+%
+N/A
+​
+100.0 
+%
+Cost of goods sold
+​
+86.5 
+​
+82.9 
+​
+81.6 
+​
+81.7 
+​
+ —
+​
+83.2 
+​
+Gross profit
+​
+13.5 
+​
+17.1 
+​
+18.4 
+​
+18.3 
+​
+ —
+​
+16.8 
+​
+Selling, general, administrative expenses
+​
+8.3 
+​
+11.6 
+​
+11.9 
+​
+12.7 
+​
+ —
+​
+10.9 
+​
+Net loss (gain) on disposition and impairment of assets
+​
+1.7 
+​
+(1.5)
+​
+ —
+​
+0.1 
+​
+ —
+​
+0.2 
+​
+Other losses (gains), net
+​
+0.1 
+​
+ —
+​
+ —
+​
+0.3 
+​
+ —
+​
+ —
+​
+Earnings from operations
+​
+3.5 
+%
+7.0 
+%
+6.5 
+%
+5.2 
+%
+ —
+​
+5.7 
+%
+Note: Actual percentages are calculated and may not sum to total due to rounding.
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Three Months Ended September 28, 2024
+​
+​
+
+​
+
+​
+
+​
+​
+​
+​
+​
+​
+​
+
+​
+​
+Retail
+​
+Packaging
+​
+Construction
+​
+All Other
+​
+Corporate
+​
+Total
+​
+Net sales
+​
+100.0 
+%
+100.0 
+%
+100.0 
+%
+100.0 
+%
+N/A
+​
+100.0 
+%
+Cost of goods sold
+​
+85.4 
+​
+82.3 
+​
+79.1 
+​
+80.9 
+​
+ —
+​
+81.9 
+​
+Gross profit
+​
+14.6 
+​
+17.7 
+​
+20.9 
+​
+19.1 
+​
+ —
+​
+18.1 
+​
+Selling, general, administrative expenses
+​
+8.5 
+​
+12.3 
+​
+12.9 
+​
+18.1 
+​
+ —
+​
+11.1 
+​
+Net (gain) loss on disposition and impairment of assets
+​
+ —
+​
+ —
+​
+ —
+​
+ —
+​
+ —
+​
+ —
+​
+Other (gains) losses, net
+​
+(0.5)
+​
+ —
+​
+0.1 
+​
+(2.4)
+​
+ —
+​
+(0.3)
+​
+Earnings from operations
+​
+6.6 
+%
+5.4 
+%
+7.9 
+%
+3.4 
+%
+ —
+​
+7.3 
+%
+Note: Actual percentages are calculated and may not sum to total due to rounding.
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Nine Months Ended September 27, 2025
+​
+​
+
+​
+
+​
+
+​
+​
+​
+​
+​
+​
+​
+
+​
+​
+Retail
+​
+Packaging
+​
+Construction
+​
+All Other
+​
+Corporate
+​
+Total
+​
+Net sales
+​
+100.0 
+%
+100.0 
+%
+100.0 
+%
+100.0 
+%
+N/A
+​
+100.0 
+%
+Cost of goods sold
+​
+86.2 
+​
+83.2 
+​
+82.0 
+​
+81.2 
+​
+ —
+​
+83.1 
+​
+Gross profit
+​
+13.8 
+​
+16.8 
+​
+18.0 
+​
+18.8 
+​
+ —
+​
+16.9 
+​
+Selling, general, administrative expenses
+​
+8.2 
+​
+11.1 
+​
+11.9 
+​
+14.2 
+​
+ —
+​
+10.6 
+​
+Net loss (gain) on disposition and impairment of assets
+​
+0.6 
+​
+(0.4)
+​
+ —
+​
+ 1
+​
+ —
+​
+0.1 
+​
+Other losses (gains), net
+​
+ —
+​
+ —
+​
+ —
+​
+0.2 
+​
+ —
+​
+ —
+​
+Earnings from operations
+​
+5.0 
+%
+6.1 
+%
+6.2 
+%
+3.0 
+%
+ —
+​
+6.1 
+%
+Note: Actual percentages are calculated and may not sum to total due to rounding.
+29
+
+Table of Contents
+UFP INDUSTRIES, INC.
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Nine Months Ended September 28, 2024
+​
+​
+
+​
+
+​
+
+​
+​
+​
+​
+​
+​
+​
+
+​
+​
+Retail
+​
+Packaging
+​
+Construction
+​
+All Other
+​
+Corporate
+​
+Total
+​
+Net sales
+​
+100.0 
+%
+100.0 
+%
+100.0 
+%
+100.0 
+%
+N/A
+​
+100.0 
+%
+Cost of goods sold
+​
+84.5 
+​
+80.9 
+​
+78.4 
+​
+76.7 
+​
+ —
+​
+81.0 
+​
+Gross profit
+​
+15.5 
+​
+19.1 
+​
+21.6 
+​
+23.3 
+​
+ —
+​
+19.0 
+​
+Selling, general, administrative expenses
+​
+8.4 
+​
+12.4 
+​
+13.0 
+​
+18.6 
+​
+ —
+​
+11.1 
+​
+Net loss (gain) on disposition and impairment of assets
+​
+ —
+​
+ 0.1
+​
+ —
+​
+ —
+​
+ —
+​
+ —
+​
+Other (gains) losses, net
+​
+(0.1)
+​
+ —
+​
+ —
+​
+(1.5)
+​
+ —
+​
+(0.1)
+​
+Earnings from operations
+​
+7.1 
+%
+6.6 
+%
+8.6 
+%
+6.2 
+%
+ —
+​
+8.0 
+%
+Note: Actual percentages are calculated and may not sum to total due to rounding.
+​
+NET SALES 
+We design, manufacture and market wood and wood-alternative products, primarily used to enhance outdoor living environments; for national home centers and other retailers; for engineered wood components, structural lumber, and other products for factory-built and site-built residential and commercial construction; customized interior fixtures used in a variety of retail stores, commercial, and other structures; and structural wood packaging, components and packing materials for various industries. Our strategic long-term sales objectives include:
+●
+Maximizing unit sales growth while achieving return on investment goals.
+ The following table presents estimates, for the periods indicated, of our percentage change in net sales attributable to changes in overall selling prices versus changes in units shipped by segment.
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+% Change
+​
+​
+Third Quarter 2025 versus Third Quarter 2024
+​
+
+in Sales
+
+in Selling 
+Prices
+
+in Units
+
+Acquisition Unit Change
+
+Organic Unit Change
+
+Retail
+​
+ (6.5)
+%  
+ (0.5)
+%  
+ (6.0)
+%  
+ —
+%  
+ (6.0)
+%  
+Packaging
+​
+ (1.7)
+%  
+ 0.3
+%  
+ (2.0)
+%  
+ 1.0
+%  
+ (3.0)
+%  
+Construction
+​
+ (7.1)
+%  
+ (5.1)
+%  
+ (2.0)
+%  
+ —
+%  
+ (2.0)
+%  
+All Other
+​
+ (4.4)
+%  
+ (2.4)
+%  
+ (2.0)
+%  
+ —
+%  
+ (2.0)
+%  
+Corporate
+​
+ (0.7)
+%  
+ 0.3
+%  
+ (1.0)
+%  
+ —
+%  
+ (1.0)
+%  
+Total Sales
+​
+ (5.4)
+%  
+ (1.4)
+%  
+ (4.0)
+%  
+ —
+%  
+ (4.0)
+%  
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+% Change
+​
+​
+Year-to-Date 2025 versus Year-to-Date 2024
+​
+​
+in Sales
+
+in Selling 
+Prices
+
+in Units
+
+Acquisition Unit Change
+
+Organic Unit Change
+
+Retail
+​
+ (4.0)
+%  
+ 1.0
+%  
+ (5.0)
+%  
+ —
+%  
+ (5.0)
+%  
+Packaging
+​
+ (2.2)
+%  
+ (2.2)
+%  
+ —
+%  
+ 1.0
+%  
+ (1.0)
+%  
+Construction
+​
+ (3.9)
+%  
+ (4.9)
+%  
+ 1.0
+%  
+ —
+%  
+ 1.0
+%  
+All Other
+​
+ (11.8)
+%  
+ 1.2
+%  
+ (13.0)
+%  
+ —
+%  
+ (13.0)
+%  
+Corporate
+​
+ 25.9
+%  
+ (0.1)
+%  
+ 26.0
+%  
+ —
+%  
+ 26.0
+%  
+Total Sales
+​
+ (3.8)
+%  
+ (0.8)
+%  
+ (3.0)
+%  
+ —
+%  
+ (3.0)
+%  
+​
+●
+Expanding geographically in our higher margin core businesses
+.
+30
+
+Table of Contents
+UFP INDUSTRIES, INC.
+●
+Increasing our sales of “value-added” products and enhancing our product offering with new or improved products.
+ Value-added products generally consist of fencing, decking, lattice, and other specialty products sold in the Retail segment; structural and protective packaging and machine-built pallets sold in the Packaging segment; engineered wood components, customized interior fixtures, manufactured and assembled concrete forms sold in the Construction segment; and “wood alternative” products. Engineered wood components include roof trusses, wall panels, and floor systems. Wood-alternative products consist of products manufactured with wood and non-wood composites, metals and plastics sold in each of our segments. Although we consider the treatment of dimensional lumber and panels with certain chemical preservatives a value-added process, treated lumber is not presently included in the value-added sales totals. Remanufactured lumber and panels that are components of finished goods are also generally categorized as “commodity-based” products. We estimate that approximately 81% of our sales consist of products we manufacture at our locations, while 19% of our sales consist of products manufactured by suppliers that we inventory and distribute to customers.
+The following table presents, for the periods indicated, our percentage of value-added and commodity-based sales to total sales by our segments:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Three Months Ended September 27, 2025
+​
+Three Months Ended September 28, 2024
+​
+​
+
+Value-Added
+
+Commodity-Based
+
+Value-Added
+
+Commodity-Based
+​
+Retail
+
+ 52.6
+%
+​
+ 47.4
+%
+
+ 53.4
+%
+​
+ 46.6
+%
+​
+Packaging
+​
+ 75.4
+%
+​
+ 24.6
+%
+​
+ 76.1
+%
+​
+ 23.9
+%
+​
+Construction
+​
+ 81.8
+%
+​
+ 18.2
+%
+​
+ 81.2
+%
+​
+ 18.8
+%
+​
+All Other
+​
+ 73.3
+%
+​
+ 26.7
+%
+​
+ 74.6
+%
+​
+ 25.4
+%
+​
+Corporate
+​
+ 82.4
+%
+​
+ 17.6
+%
+​
+ 49.3
+%
+​
+ 50.7
+%
+​
+Total Sales
+​
+ 68.5
+%
+​
+ 31.5
+%
+​
+ 68.8
+%
+​
+ 31.2
+%
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Nine Months Ended September 27, 2025
+​
+Nine Months Ended September 28, 2024
+​
+​
+
+Value-Added
+
+Commodity-Based
+
+Value-Added
+
+Commodity-Based
+
+Retail
+
+ 52.2
+%
+​
+ 47.8
+%
+
+ 53.1
+%
+​
+ 46.9
+%
+​
+Packaging
+​
+ 75.1
+%
+​
+ 24.9
+%
+​
+ 75.6
+%
+​
+ 24.4
+%
+​
+Construction
+​
+ 80.8
+%
+​
+ 19.2
+%
+​
+ 80.4
+%
+​
+ 19.6
+%
+​
+All Other
+​
+ 75.3
+%
+​
+ 24.7
+%
+​
+ 75.9
+%
+​
+ 24.1
+%
+​
+Corporate
+​
+ 68.3
+%
+​
+ 31.7
+%
+​
+ 55.9
+%
+​
+ 44.1
+%
+​
+Total Sales
+​
+ 67.6
+%
+​
+ 32.4
+%
+​
+ 68.0
+%
+​
+ 32.0
+%
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Note: Certain prior year product reclassifications and the change in designation of certain products as "value-added" resulted in a change in prior year's sales. 
+​
+Our overall unit sales of value-added products were down 6% in the third quarter and 3% in the first nine months of 2025 compared to the prior year. Our overall unit sales of commodity-based products decreased approximately 5% in the third quarter and 4% in the first nine months of 2025 compared to the prior year. 
+​
+●
+Developing new products.
+ We define new products as those that will generate sales of at least $1 million per year within 4 years of launch and are still growing and gaining market penetration and meet our internal definition of value-added products. New product sales in the third quarter and first nine months of 2025 increased 12% and 3%, respectively. Approximately $58.5 million of new product sales for the first nine months of 2024, while they continue to be sold, were sunset in 2025 and excluded from the table below because they no longer meet the definition above. Our short-term goal is to achieve annual new product sales of at least $550 million in 2025. For the first nine months of 2025, new product sales totaled $360 million. Our long-term goal is for new products to comprise at least 10% of our total net sales.
+31
+
+Table of Contents
+UFP INDUSTRIES, INC.
+The table below presents new product sales in thousands:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+New Product Sales by Segment
+​
+​
+​
+​
+Three Months Ended
+​
+​
+​
+
+September 27,
+​
+% of Segment
+
+September 28,
+​
+% of Segment
+
+% Change
+
+​
+​
+2025
+​
+Net Sales
+​
+2024
+​
+Net Sales
+​
+in Sales
+​
+Retail
+​
+$
+ 55,277
+​
+ 9.3
+%
+​
+​
+ 43,638
+​
+ 6.9
+%
+
+ 26.7
+%
+​
+Packaging
+​
+
+ 43,523
+​
+ 11.0
+%
+​
+​
+ 45,497
+​
+ 11.3
+%
+
+ (4.3)
+%
+​
+Construction
+​
+​
+ 18,592
+​
+ 3.7
+%
+​
+​
+ 15,128
+​
+ 2.8
+%
+​
+ 22.9
+%
+​
+All Other
+​
+​
+ 50
+​
+ 0.1
+%
+​
+​
+ 164
+​
+ 0.2
+%
+​
+ (69.5)
+%
+​
+Corporate
+​
+
+ 766
+​
+43.9
+%
+​
+​
+ 704
+​
+ 40.0
+%
+
+ 8.8
+%
+​
+Total New Product Sales
+​
+
+ 118,208
+​
+ 7.6
+%
+​
+​
+ 105,131
+​
+ 6.4
+%
+
+ 12.4
+%
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Note:  Certain prior year product reclassifications and the change in designation of certain products as "new" resulted in a change in prior year's sales.
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+New Product Sales by Segment
+​
+​
+​
+​
+Nine Months Ended
+​
+​
+​
+
+September 27,
+​
+% of Segment
+
+September 28,
+​
+% of Segment
+
+% Change
+​
+​
+​
+2025
+​
+Net Sales
+​
+2024
+​
+Net Sales
+​
+in Sales
+​
+Retail
+​
+$
+ 170,487
+​
+8.6
+%
+​
+$
+ 148,153
+​
+ 7.1
+%
+
+ 15.1
+%
+​
+Packaging
+​
+
+ 133,555
+​
+10.8
+%
+​
+​
+ 142,841
+​
+ 11.3
+%
+
+ (6.5)
+%
+​
+Construction
+​
+​
+ 53,845
+​
+3.4
+%
+​
+​
+ 56,844
+​
+ 3.5
+%
+​
+ (5.3)
+%
+​
+All Other
+​
+​
+ 296
+​
+0.1
+%
+​
+​
+ 573
+​
+ 0.3
+%
+​
+ (48.3)
+%
+​
+Corporate
+​
+
+ 2,091
+​
+38.0
+%
+​
+​
+ 1,875
+​
+ 42.9
+%
+
+ 11.5
+%
+​
+Total New Product Sales
+​
+
+ 360,274
+​
+7.2
+%
+​
+​
+ 350,286
+​
+ 6.7
+%
+
+ 2.9
+%
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Note: Certain prior year product reclassifications and the change in designation of certain products as "new" resulted in a change in prior year's sales.
+Retail Segment
+Net sales in the third quarter of 2025 decreased by 7% compared to the same period of 2024 due to a 6% decrease in units and a 1% decrease in selling prices. Unit changes within this segment consisted of a 5% decrease in ProWood and 31% decrease in Edge as we complete the closure of our Bonner, Montana plants and transition production to other facilities, partially offset by a 5% increase in Deckorators. Our unit sales to big box customers, which we believe are more closely correlated with repair and remodel activity, decreased approximately 6%, while unit sales to independent retailers, which we believe are more closely correlated to new housing starts, also decreased approximately 6%. Of the 6% increase in net sales for our Deckorators business unit compared to the same period of 2024, wood-plastic composite decking and mineral-based-composite decking (sold under our new Surestone tradename) increased 9% and 31% from the prior year, respectively, partially offset by railings which declined 13% from the prior year. The decline in our railing sales is due to lost market share with a big box customer which began impacting sales at the beginning of the year. However, we gained market share with another big box customer which began to more favorably impact our sales beginning in July as initial stocking orders were received for one of our mineral-based composite decking products. Overall, for the remainder of this year, we believe our Deckorators business unit will benefit from a modest net gain in market share as we continue stocking additional stores and as the new capacity we’ve added to produce our mineral-based composite decking reaches our throughput targets. We expect to realize the full benefit of our net market share gain in 2026. Our long-term goal is to double our market share of composite decking and railing over the next 5 years. The decline in ProWood volume is primarily due to higher interest rates and weaker consumer sentiment resulting in a softening of demand to complete repair and remodel projects.
+​
+32
+
+Table of Contents
+UFP INDUSTRIES, INC.
+Gross profits decreased by $13 million, or 14% to $80 million for the third quarter of 2025 compared to the same period last year. The change in gross profit was attributable to the following:
+●
+The gross profit of our ProWood pressure-treated products decreased by $4 million, primarily due to falling lumber prices. Additionally, gross profits associated with our Edge products declined by $4 million due to inefficiencies associated with the closure of our Edge manufacturing facilities in Bonner, MT and shift of volume to other locations. 
+●
+The gross profit of our Deckorators business unit decreased by $4 million primarily due to lower railing sales and inefficiencies associated with adding new capacity to produce our mineral-based composite decking. We believe this new, more efficient technology will allow us to achieve our target cost per unit. In addition, our wood plastic composite plant experienced an unfavorable change in product mix. 
+SG&A decreased by $5 million, or 9%, in the third quarter of 2025 compared to the same period of 2024. Accrued bonus expense, which varies with overall profitability and return on investment of the segment, decreased $4 million from the third quarter of 2024 and totaled $8 million for the quarter. This decrease, along with a decrease in wages and benefits of $2 million and many other small decreases totaling $6 million, was partially offset by an increase in advertising of $7 million related to our efforts to build brand awareness of our Deckorators Surestone decking. 
+Earnings from operations decreased in the third quarter of 2025 compared to 2024 by $21 million, or 50%, as a result of the factors mentioned above, as well as a foreign exchange loss totaling $1 million in 2025 compared to a gain of $3 million in 2024, and an increase in the net loss on disposition and impairment of assets, which was comprised of machinery and equipment impairment charges of $11 million, lease impairment charges of $2 million and intangible asset impairment charges of $2 million, partially offset by a gain on the sale of machinery and equipment totaling $5 million.
+Net sales in the first nine months of 2025 decreased by 4% compared to the same period of 2024, due to a 5% decrease in units, partially offset by a 1% increase in selling prices. Unit changes within this segment consisted of decreases of 3% in Deckorators, 5% in ProWood, and 15% in Edge as we complete the closure of our Bonner, Montana plants and transition production to other facilities. Unit sales to big box customers decreased approximately 5%, while unit sales to independent retailers decreased approximately 6%. Within our Deckorators business unit, our sales of railings decreased by 26% due to the lost market share described above. These decreases were partially offset by a 34% increase in our mineral-based-composite decking as consumers continue to see the benefits of its superior product attributes and a 1% increase in wood-plastic composite decking.
+Gross profits decreased by $46 million, or 14% to $275 million for the first nine months of 2025 compared to the same period in 2024. The change in gross profit was attributable to the following:
+●
+The gross profits of our ProWood business unit decreased $22 million, primarily due to a decline in unit sales as a result of softer demand and the impact of declining lumber prices on our selling prices. The products sold by this business unit are primarily at a variable selling price determined at the time of shipment. Additionally, gross profits associated with our Edge products declined by $9 million due to the closure of our Edge manufacturing facilities in Bonner, MT and transition of this production to other facilities.
+●
+The gross profit of our Deckorators business unit decreased by $12 million due to the decline in railing sales mentioned above and a temporary increase in our cost per unit of composite decking as we’ve experienced inefficiencies while adding new capacity in our mineral based composite plant and our wood plastic composite plant has experienced an unfavorable change in sales mix.
+SG&A decreased by approximately $12 million, or 7%, in the first nine months of 2025 compared to the same period of 2024. The overall decrease was due to a decline in accrued bonus expense of $13 million, which totaled $32 million for the first nine months of 2025, as well as a $4 million decrease in wages and benefits, and many smaller decreases in several accounts totaling $12 million. These decreases were partially offset by an increase in advertising of $17 million primarily related to Deckorators.
+33
+
+Table of Contents
+UFP INDUSTRIES, INC.
+Earnings from operations decreased in the first nine months of 2025 compared to 2024 by $47 million, or 32%, as a result of the factors mentioned above as well as a foreign exchange loss totaling $1 million in 2025 compared to a gain of $3 million in 2024, and an increase in the net loss on disposition and impairment of assets, which was comprised of machinery and equipment impairment charges of $11 million, lease impairment charges of $2 million and intangible asset impairment charges of $2 million, partially offset by a gain on the sale of machinery and equipment totaling $5 million.
+Packaging Segment 
+Net sales in the third quarter of 2025 decreased 2% compared to the same period of 2024, due to a 3% decrease in organic unit sales, partially offset by an acquired business which contributed 1% to unit growth. Organic unit changes consist of a 5% decrease in Structural Packaging and 4% in PalletOne, partially offset by a 15% increase in Protective Packaging due to geographic expansion and market share gains. 
+​
+Gross profits decreased by $4 million, or 5%, for the third quarter of 2025 compared to the same period last year. The change in gross profit was attributable to the following:
+​
+●
+The gross profit of our structural packaging business unit increased by $1 million. 
+●
+The gross profit of our PalletOne business unit decreased by $5 million primarily due to competitive price pressure which more than offset the favorable impact of unit sales growth as we continue to execute our strategy to gain market share. 
+●
+The gross profit of our protective packaging business unit remained flat compared to last year. 
+SG&A decreased by approximately $4 million, or 7%, in the third quarter of 2025 compared to the same period of 2024. The decrease is attributable to a decrease in wages and benefits of $1 million and many smaller decreases in several accounts totaling $4 million. Accrued bonus expense increased approximately $1 million relative to the same period of 2024 and totaled $9 million for the quarter.
+​
+Earnings from operations increased in the third quarter of 2025 compared to 2024 by $6 million, or 26%, due to the factors discussed above, as well as an increase in the net gain on disposition and impairment of assets, which was comprised of a gain on the sale of machinery and equipment totaling $6 million.
+​
+Net sales in the first nine months of 2025 decreased 2% compared to the same period of 2024, due to a 2% decrease in selling prices, due to competitive price pressure, and a 1% decrease in organic unit sales, partially offset by an acquired business which contributed 1% to unit growth. Organic unit changes consist of a 4% decrease in structural packaging, primarily due to a decline in demand, partially offset by 12% unit growth in Protective Packaging due to geographic expansion and market share gains. Unit sales at PalletOne increased 5% due to acquisitions; there was no change in organic unit sales.
+​
+Gross profits decreased by $33 million, or 14%, for the first nine months of 2025 compared to the same period in 2024. The change in gross profits was attributable to the following. 
+​
+●
+The gross profit of our structural packaging business unit decreased by a total of $17 million. The decline in gross profit is primarily due to lower unit sales and competitive price pressure due to lower demand.
+●
+The gross profit of our PalletOne business unit decreased by $15 million primarily due to competitive price pressure as we continue to execute our strategy to increase market share.
+●
+The gross profit of our protective packaging business unit decreased by $1 million. 
+34
+
+Table of Contents
+UFP INDUSTRIES, INC.
+SG&A decreased by approximately $20 million, or 13%, in the first nine months of 2025 compared to the same period of 2024. Accrued bonus expense decreased $5 million, and totaled $25 million for the nine months of 2025. The remaining decrease is attributable to a $3 million decrease in insurance costs, a $2 million decrease in sales incentive compensation, a $2 million decrease in travel and entertainment expenses, $1 million decrease in wages and benefits, and many smaller decreases in several accounts totaling $7 million.
+​
+Earnings from operations decreased in the first nine months of 2025 compared to 2024 by $7 million, or 9%, due to the factors discussed above, partially offset by an increase in the net gain on disposition and impairment of assets, which comprised of a gain on the sale of machinery and equipment totaling $5 million in 2025 compared to a $1 million loss in 2024.
+​
+Construction Segment
+Net sales in the third quarter of 2025 decreased 7% compared to the same period of 2024 due to a 5% decrease in selling prices, due to competitive price pressure in our site-built business unit, and a 2% decrease in unit sales. We experienced a unit sales decrease in site-built of 15% due to weaker demand for housing, which was partially offset by increases of 4% in factory-built, 13% in commercial construction, and 12% in concrete forming. Our growth in factory-built is primarily due to an increase in industry production. As of September 27, 2025 and September 28, 2024, we estimate that our backlog of orders in our site-built housing business unit were $53 million and $80 million, respectively.
+​
+Gross profits decreased by $21 million, or 18%, in the third quarter of 2025 compared to the same period of 2024. The change in our gross profit was comprised of the following:
+●
+The gross profit of our site-built housing business unit decreased by $27 million, primarily due to a decline in unit sales and competitive price pressure due to weaker demand. 
+●
+The gross profit of our commercial construction business unit increased by $3 million due the favorable impact from unit sales growth.
+●
+The gross profit of our factory-built business unit increased by $2 million due to an increase in unit sales.
+●
+The gross profit of our concrete-forming business unit increased by $2 million due to an increase in unit sales.
+SG&A decreased by approximately $10 million, or 15%, in the third quarter of 2025 compared to the same period of 2024. Accrued bonus expense decreased by $3 million and totaled $10 million for the quarter. The decrease in SG&A was also attributable to a decrease in wages and benefits of $2 million, bad debts of $2 million, and many smaller decreases in several accounts totaling $3 million.
+Earnings from operations decreased in the third quarter of 2025 compared to 2024 by $10 million, or 24%, due to the factors mentioned above. 
+Net sales in the first nine months of 2025 decreased 4% compared to the same period of 2024 and consisted of a 5% decrease in selling prices, partially offset by a 1% increase in unit sales. Unit changes within this segment consist of increases of 8% in factory-built, primarily due to an increase in industry production, 8% in concrete forming, and 8% in commercial construction. These increases were offset by a unit decline of 9% in site-built housing due to lower demand. 
+Gross profits decreased by $69 million, or 20% for the first nine months of 2025 compared to the same period of 2024. The change in our gross profit was comprised of the following:
+●
+The gross profit of our site-built housing business unit decreased by $77 million primarily due to a decline in unit sales and competitive price pressure. 
+35
+
+Table of Contents
+UFP INDUSTRIES, INC.
+●
+The gross profit of our commercial construction business unit remained flat as a result of increased material costs, which was offset by a favorable impact from unit sales growth.
+●
+The gross profit of our concrete forming business unit increased by $4 million due to higher unit sales.
+●
+The gross profit of our factory-built business unit increased $4 million as a result of increased unit sales.
+SG&A decreased by approximately $26 million, or 12%, in the first nine months of 2025 compared to the same period of 2024. Accrued bonus expenses decreased $13 million and totaled $30 million for the first nine months of 2025. The decrease in SG&A was also attributable to a decrease in our sales incentive compensation totaling $4 million, wages and benefits totaling $3 million, travel expense totaling $2 million, and many smaller decreases in several accounts totaling $4 million.
+Earnings from operations decreased in the first nine months of 2025 compared to 2024 by $44 million, or 31%, due to the factors mentioned above.
+​
+All Other Segment
+​
+Our All Other reportable segment consists of our International and Ardellis (our insurance captive) segments that are not significant. 
+​
+Corporate
+The corporate segment consists of over (under) allocated costs that are not significant. 
+INCOME TAXES
+Effective tax rates differ from statutory federal income tax rates, primarily due to provisions for foreign, state and local income taxes and permanent tax differences. Our effective tax rate was 23.8% in the third quarter of 2025
+
+compared to 24.2% in the same period of 2024 and was 22.9% in the first nine months of 2025 compared to 22.3% for the same period in 2024. The decrease in our effective tax rate for the third
+
+quarter was primarily due to an increase in our tax deduction from stock-based compensation accounted for as a permanent difference.
+ The increase in our effective tax rate for the first nine months of 2025 was primarily due to an increase in foreign subsidiary income taxed in the US and a decrease in our tax deduction from stock-based compensation for the year. A significant amount of stock-based compensation vested in the first quarter of 2024, which decreased the prior year effective tax rate in comparison to 2025.
+OFF-BALANCE SHEET TRANSACTIONS
+We have no significant off-balance sheet transactions.
+36
+
+Table of Contents
+UFP INDUSTRIES, INC.
+LIQUIDITY AND CAPITAL RESOURCES
+The table below presents, for the periods indicated, a summary of our cash flow statement (in thousands):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Nine Months Ended
+​
+
+September 27,
+
+September 28,
+​
+​
+2025
+​
+2024
+Cash from operating activities
+​
+$
+ 399,122
+​
+$
+ 497,662
+Cash used in investing activities
+​
+
+ (217,211)
+​
+
+ (177,488)
+Cash used in financing activities
+​
+
+ (352,045)
+​
+
+ (245,683)
+Effect of exchange rate changes on cash
+​
+
+ 2,234
+​
+
+ (5,179)
+Net change in all cash and cash equivalents
+​
+
+ (167,900)
+​
+
+ 69,312
+Cash, cash equivalents, and restricted cash, beginning of period
+​
+
+ 1,179,594
+​
+
+ 1,122,256
+Cash, cash equivalents, and restricted cash, end of period
+​
+$
+ 1,011,694
+​
+$
+ 1,191,568
+In general, we fund our growth through a combination of operating cash flows, our revolving credit facility, and issuance of long-term notes payable at times when interest rates are favorable. We have not issued equity to finance growth except in the case of a large acquisition that occurred many years ago. We manage our capital structure by attempting to maintain a targeted ratio of debt to equity and debt to earnings before interest, taxes, depreciation and amortization. We believe this is one of many important factors to maintaining a strong credit profile, which in turn helps ensure timely access to capital when needed.
+Seasonality has a significant impact on our working capital due to our primary selling season which occurs during the period from March to September. Consequently, our working capital typically increases during our first and second quarters resulting in negative or modest cash flows from operations during those periods. Conversely, we tend to experience a substantial decrease in working capital once we move beyond our peak selling season which typically results in significant cash flows from operations in our third and fourth quarters.
+Due to the seasonality of our business and the effects of the Lumber Market, we believe our cash cycle (days of sales outstanding plus days supply of inventory less days of payables outstanding) is a good indicator of our working capital management. As indicated in the table below, our cash cycle increased to 64 days from 59 days during the third quarter of 2025 and increased to 61 days from 59 days during the first nine months of 2025 compared to the same periods of the prior year.
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Three Months Ended
+​
+Nine Months Ended
+​
+​
+​
+September 27,
+​
+September 28,
+​
+September 27,
+​
+September 28,
+​
+​
+​
+2025
+​
+2024
+​
+2025
+​
+2024
+​
+Days of sales outstanding
+
+​
+ 36
+
+​
+ 36
+
+​
+ 35
+
+​
+ 35
+
+Days supply of inventory
+​
+
+ 40
+​
+
+ 36
+​
+
+ 39
+​
+
+ 36
+​
+Days of payables outstanding
+​
+
+ (12)
+​
+
+ (13)
+​
+
+ (13)
+​
+
+ (12)
+​
+Days in cash cycle
+​
+
+ 64
+​
+
+ 59
+​
+
+ 61
+​
+
+ 59
+​
+The increase in our days supply of inventory for the quarter and first nine months of 2025 is due to slower inventory turns in our Retail and Packaging segments primarily due to an increase in safety stock as we planned for supply chain disruption in certain items resulting from tariffs. Our days of sales outstanding remained flat compared to the prior year. We continue to focus on past due account balances with customers, and the percentage of our accounts receivable that are current was 94% and 93% at the end of the third quarter of 2025 and 2024, respectively. 
+37
+
+Table of Contents
+UFP INDUSTRIES, INC.
+In the first nine months of 2025, our cash flows from operations were $399 million and were comprised of net earnings of $256 million and $148 million of non-cash expenses, offset by a $5 million increase in working capital since the end of December 2024 due to seasonal demand. Our cash flows from operations decreased by $99 million compared to the same period of last year primarily due to the decline in our net earnings as well as the increase in our investment in net working capital since year end, which was $19 million higher in 2025 compared to 2024. We anticipate the seasonal increase in net working capital in 2025 will be converted to cash by the end of the year.
+Purchases of property, plant, and equipment of $206 million comprised most of our cash used in investing activities during the first nine months of 2025. Outstanding purchase commitments on existing capital projects totaled approximately $109 million on September 27, 2025. Capital spending primarily consists of several projects to expand capacity to manufacture new and value-added products, primarily in our Packaging segment and our Site-Built and Deckorators business units, to achieve efficiencies through automation in all segments, and make improvements to a number of facilities. We intend to fund capital expenditures and purchase commitments through our operating cash flows for the balance of the year. Cash used for acquisitions during the first nine months of 2025 amounted to $18 million (refer to footnote F to our condensed consolidated financial statements).
+Cash flows used in financing activities during the first nine months of 2025 primarily consisted of the following:
+●
+We repurchased 2,819,901 shares of our common stock for $291 million during the first nine months of 2025 at an average price of $103.04 per share. Of this amount, 87,243 shares were repurchased in order to settle tax withholding obligations of long-term stock incentive plan participants’ awards which vested in the current year. The shares were purchased at an average price of $109.83 per share, totaling $10 million. 
+●
+Dividends paid during the first nine months of 2025 were $62 million ($0.35 per share), a 6% increase from 2024. 
+On September 27, 2025, we had no amount outstanding on our $750 million revolving credit facility, and we had approximately $711 million in remaining availability after considering $39 million in outstanding letters of credit under the revolving credit facility. Financial covenants on the unsecured revolving credit facility and unsecured notes include minimum interest tests and a maximum leverage ratio. The agreements also restrict the amount of additional indebtedness we may incur and the amount of assets which may be sold. We were in compliance with all our covenant requirements on September 27, 2025.
+At the end of the third quarter of 2025, we had approximately $2.3 billion in total liquidity, consisting of our cash, remaining availability under our revolving credit facility, and a shelf agreement with certain lenders providing up to $575 million in remaining borrowing capacity.
+ENVIRONMENTAL CONSIDERATIONS AND REGULATIONS
+See Notes to Unaudited Consolidated Condensed Financial Statements, Note E, “Commitments, Contingencies, and Guarantees.”
+CRITICAL ACCOUNTING POLICIES
+In preparing our consolidated financial statements, we follow accounting principles generally accepted in the United States. These principles require us to make certain estimates and apply judgments that affect our financial position and results of operations. We continually review our accounting policies and financial information disclosures. There have been no material changes in our policies or estimates since December 28, 2024.
+38
+
+Table of Contents
+UFP INDUSTRIES, INC.
+FORWARD OUTLOOK
+Our 
+long-term
+ financial goals include:
+●
+Growing our annual unit sales by 7 to 10 percent (including smaller tuck-in acquisitions) with at least 10 percent of all sales coming from new products;
+●
+Achieving and sustaining a 12.5 percent EBITDA margin by continuing to enhance our capabilities and grow our portfolio and sales of value-added products, expanding geographically in our higher margin business units, and achieving operating improvements;
+●
+Earning an incremental return on new investment over our hurdle rate; and
+●
+Maintaining a conservative capital structure.
+We believe improvements in demand in the end markets we serve and effectively executing our strategies will allow us to achieve our long-term goals. However, in the short-term, demand in our markets has contracted due to a variety of factors, which will continue to impact our results and vary depending on the severity and duration of this cycle. As a result of these more challenging conditions, we have developed and are executing plans for reducing costs, eliminating excess capacity, divesting under-performing assets, and exiting business that does not meet our profitability targets. Our goal through these actions is to lower our cost structure and improve our operating profits by $60 million by year-end 2026. We anticipate benefits of approximately $44 million by the end of 2025, including $14 million from planned capacity reductions and approximately $30 million from planned SG&A cost reductions. The planned decreases will be partially offset by an anticipated $20 million increase in advertising costs in our Deckorators business unit to build our Surestone brand. In 2026, we believe the closure of our Bonner, MT facilities and shift of production to other facilities will increase our operating profits by approximately $16 million.
+The following factors should be considered when evaluating our future prospects:
+●
+Lumber prices, which impact our cost of goods sold and selling prices, have normalized due to additional capacity added by sawmills and demand falling from peak levels. We anticipate lumber prices will remain near current levels, and experience more typical seasonal trends, until there is a substantial change in the balance of supply and demand. In the event higher duties on Canadian softwood lumber and new tariffs are enacted on imports generally, we anticipate lumber prices may increase over time. We believe we are currently in a strong position to adapt quickly to duties and tariffs without a material adverse financial impact after a short adjustment period. However, a widespread increase in tariffs may adversely impact demand in the markets we serve.
+●
+Retail sales accounted for 40% of our net sales for the first nine months of 2025. When evaluating future demand for the segment, we analyze data such as the same-store sales growth of national home improvement retailers and forecasts of home remodeling activity. Based on this data, we currently anticipate market demand to be down low single digits for the remainder of 2025. 
+●
+Packaging sales accounted for 25% of our net sales for the first nine months of 2025. When evaluating future demand, we consider a number of metrics, including the Purchasing Managers Index (PMI), durable goods manufacturing, and U.S. real GDP. We currently believe overall demand in the markets we serve to be down low single digits for the remainder of 2025.
+●
+Construction sales accounted for 31% of our net sales for the first nine months of 2025.
+-
+The site-built business unit accounted for approximately 11% of our net sales for the first nine months of 2025. Approximately one-third of site-built customers are multifamily builders. The industry consensus estimate of national housing starts for 2025 is 1.36 million, with estimates generally predicting flat to mid-single digit negative growth in the coming year with multi-family generally showing stronger performance compared to single-family. We anticipate demand in the regions we operate to be down mid single digits for the remainder of 2025.
+39
+
+Table of Contents
+UFP INDUSTRIES, INC.
+-
+The factory-built housing business unit accounted for 13% of our net sales for the first nine months of 2025. 
+When evaluating future demand, we analyze data from production and shipments of manufactured housing. We currently believe overall demand will be flat for the remainder of 2025
+.
+-
+The commercial construction and concrete forming business units accounted for approximately 7% of our net sales for the first nine months of 2025. 
+When evaluating future demand, we analyze data from non-residential construction spending. We anticipate modest growth in overall demand of these business units for the remainder of 2025
+. 
+Capital Allocation:
+We believe the strength of our cash flow generation and conservative capital structure provide us with sufficient resources to grow our business and also fund returns to our shareholders. We plan to continue to pursue a balanced and return-driven approach to capital allocation across dividends, share buybacks, capital investments and acquisitions. Specifically:
+●
+On October 23, 2025, our board approved a quarterly cash dividend of $0.35 per share, which represents a 6% year over year increase. This dividend is payable on December 15, 2025, to shareholders of record on December 1, 2025. We continue to consider our payout ratio and yield when determining the appropriate dividend rate and have a long-term objective of increasing our dividend in line with our earnings growth.
+●
+On July 23, 2025, our board authorized the repurchase of up to $300 million worth of our shares through July 31, 2026. This share authorization supersedes and replaces our prior share repurchase authorizations. Our objective is to repurchase our stock at sufficient amounts to offset issuances under our share-based compensation plans. In addition, we will opportunistically buy shares when the price trades at pre-determined levels we believe is at a significant discount to intrinsic value. Through November 4, 2025, we have approximately $196 million of remaining availability under this authorization. 
+●
+Our targeted range for capital expenditures for 2025 is $275-$300 million, which will continue to be impacted by extended lead times required for most equipment and rolling stock as well as the time required for site selection in the case of investments in new locations. Priority continues to be given to projects that enhance the working environments of our plants, take advantage of automation opportunities, and drive strategies that have strong long-term growth potential for new and value-added products. Approximately $248 million in capital projects have been approved so far in 2025 and another $63 million are pending approval.
+●
+We continue to pursue a healthy pipeline of acquisition opportunities of companies that are a strong strategic fit and enhance our capabilities while providing higher margin, return, and growth potential.
+​
+Item 3. Quantitative and Qualitative Disclosures about Market Risk
+.
+We are exposed to market risks related to fluctuations in interest rates on our variable rate debt, which consists of a revolving credit facility and industrial development revenue bonds. We do not currently enter into any material interest rate swaps, futures contracts or options on futures, or other types of derivative financial instruments to mitigate this risk.
+For fixed rate debt, changes in interest rates generally affect the fair market value, but not earnings or cash flows. Conversely, for variable rate debt, changes in interest rates generally do not influence fair market value, but do affect future earnings and cash flows. We do not have an obligation to prepay fixed rate debt prior to maturity, and as a result, interest rate risk and changes in fair market value should not have a significant impact on such debt until we are required to refinance it.
+40
+
+Table of Contents
+UFP INDUSTRIES, INC.
+We are subject to fluctuations in the price of lumber. We experience significant fluctuations in the cost of commodity lumber products from primary producers (the “Lumber Market”). A variety of factors over which we have no control, including government regulations, tariffs and trade policies, transportation, environmental regulations, weather conditions, economic conditions, and natural disasters, impact the cost of lumber products and our selling prices. While we attempt to minimize our risk from severe price fluctuations, substantial, prolonged trends in lumber prices can affect our sales volume, our gross margins, and our profitability. We anticipate that these fluctuations will continue in the future. (See “Impact of the Lumber Market on Our Operating Results.”)
+Our international operations have exposure to foreign currency rate risks, primarily due to fluctuations in their local currency, which is their functional currency, compared to the U.S. Dollar. Additionally, certain of our operations enter into transactions that will be settled in a currency other than the U.S. Dollar. We may enter into forward foreign exchange rate contracts in the future to mitigate foreign currency exchange risk. Historically, our hedge contracts have been immaterial to the financial statements.
+​
+Item 4. Controls and Procedures
+.
+(a)
+Evaluation of Disclosure Controls and Procedures
+. With the participation of management, our Chief Executive Officer and Chief Financial Officer, after evaluating the effectiveness of our disclosure controls and procedures (as defined in SEC Rules 13a–15(e) and 15d–15(e)) in the manner required by SEC Rule 13a-15(b) and 15d-15(b), have concluded that our disclosure controls and procedures were effective as of the end of the period covered by this report.
+(b)
+Changes in Internal Controls
+. During the quarter ended September 27, 2025, there were no changes in our internal control over financial reporting that materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+​
+PART II. OTHER INFORMATION
+Item 1A. Risk Factors
+.
+There have been no material changes to the risk factors disclosed in Item 1A. Risk Factors of our Annual Report on Form 10-K for the year ended December 28, 2024.
+​
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+.
+(a)
+A portion of the annual retainer payable to each of our non-employee directors (such portion for each director is $135,000 for 2025) is paid in shares of our common stock. The retainer is deemed earned in equal quarterly installments on February 1, May 1, August 1, and November 1. We use the market price per share on each such installment date (or the preceding day if there were no trades on that installment date) to determine the number of shares issuable to each non-employee director, and except as described below, the shares are issued to the director within five business days.
+41
+
+Table of Contents
+UFP INDUSTRIES, INC.
+We maintain a Director Compensation Plan (the “Plan”) pursuant to which non-employee directors can elect to (1) receive shares of our common stock, on a deferred basis, in lieu of all or a portion of the annual retainer payable to the director in cash (which deferred cash is used to purchase our common stock on a deferred basis at the rate of 110% of the deferred cash amount), and/or (2) defer receipt of all or a portion of the annual retainer payable to the director in the form of our common stock. Any shares of common stock issuable to a director on a deferred basis pursuant to the Plan are not actually issued until the deferred payment date specified pursuant to the Plan, which is typically after a director’s retirement from the Board. However, on the date such shares are deemed earned by the director, we issue deferred stock units (“DSUs”) to a bookkeeping account for each director to represent the shares issuable in the future pursuant to the Plan. Directors who have DSUs credited to their account pursuant to the Plan receive additional DSUs credited to their account whenever a dividend is paid on the Company’s common stock.
+On August 1, 2025, the Company issued 1,038 shares of its common stock to non-employee directors as part of the annual retainer payable to directors in stock (i.e., shares that were issued on a current basis and not deferred pursuant to the Plan). The Company issued all shares described in this paragraph pursuant to an exemption from registration under Section 4(2) of the Securities Act of 1933 due to the fact that the issuance of the shares was made on a private basis pursuant to the Plan.
+(b)
+N/A.
+(c)
+Issuer purchases of equity securities.
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Fiscal Month
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+June 29 - August 2, 2025
+
+ 171,562
+​
+$
+ 99.78
+
+ 171,562
+
+$
+ 289,995,223
+August 3 - 30, 2025
+
+ —
+​
+​
+ —
+
+ —
+
+​
+ 289,995,223
+August 31 - September 27, 2025
+
+ 125,000
+​
+​
+ 95.66
+
+ 125,000
+
+​
+ 278,038,203
+​
+Note: July includes 216 shares tendered by certain employees of the Company (and repurchased by the Company) in order to satisfy their respective tax withholding obligations resulting from the vesting of restricted stock awards. The Company treats these share repurchases against its board-approved share repurchase authorizations described below.
+(1)
+Total number of shares purchased.
+(2)
+Average price paid per share.
+(3)
+Total number of shares purchased as part of publicly announced plans or programs.
+(4)
+Approximate dollar value of shares that may yet be purchased under the plans or programs.
+A total of 71,346 shares reported as repurchased between June 29, 2025 and July 22, 2025 in the table above were repurchased pursuant to the share repurchase authorization approved by our board on July 24, 2024 and announced July 30, 2024, which authorized the purchase of up to $200 million of outstanding stock through July 31, 2025. This share repurchase authorization was subsequently increased by the board on April 23, 2025, from $200 million to $300 million worth of outstanding stock. The balance of the shares reported in the table above were purchased pursuant to the new share repurchase authorization approved by our board and announced on July 23, 2025, which authorizes the repurchase of up to $300 million worth of our shares through July 31, 2026, and supersedes and replaces all prior authorizations.
+​
+Item 5. Other Information
+.
+During the quarter ended September 27, 2025, no director or officer 
+adopted
+ or 
+terminated
+ a “Rule 10b5-1 trading arrangement” or a “non-Rule 10b5-1 trading arrangement,” as each term is defined in Item 408(a) of Regulation S-K.
+​
+42
+
+Table of Contents
+UFP INDUSTRIES, INC.
+PART II. OTHER INFORMATION
+Item 6. Exhibits
+.
+The following exhibits (listed by number corresponding to the Exhibit Table as Item 601 in Regulation S-K) are filed with this report:
+​
+​
+​
+31
+Certifications.
+​
+​
+​
+​
+(a)
+Certificate of the Chief Executive Officer of UFP Industries, Inc., pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 (18 U.S.C. 1350).
+​
+​
+​
+​
+(b)
+Certificate of the Chief Financial Officer of UFP Industries, Inc., pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 (18 U.S.C. 1350).
+​
+​
+​
+32
+Certifications.
+​
+​
+​
+​
+(a)
+Certificate of the Chief Executive Officer of UFP Industries, Inc., pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (18 U.S.C. 1350).
+​
+​
+​
+​
+(b)
+Certificate of the Chief Financial Officer of UFP Industries, Inc., pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (18 U.S.C. 1350).
+​
+​
+​
+101
+Interactive Data File formatted in iXBRL (Inline eXtensible Business Reporting Language).
+​
+​
+​
+​
+(INS)
+iXBRL Instance Document.
+​
+​
+​
+​
+(SCH)
+iXBRL Schema Document.
+​
+​
+​
+​
+(CAL)
+iXBRL Taxonomy Extension Calculation Linkbase Document.
+​
+​
+​
+​
+(LAB)
+iXBRL Taxonomy Extension Label Linkbase Document.
+​
+​
+​
+​
+(PRE)
+iXBRL Taxonomy Extension Presentation Linkbase Document.
+​
+​
+​
+​
+(DEF)
+iXBRL Taxonomy Extension Definition Linkbase Document.
+​
+​
+​
+104
+Cover Page Interactive Data File (the cover page XBRL tags are embedded in the Inline XBRL document).
+​
+​
+43
+
+Table of Contents
+UFP INDUSTRIES, INC.
+SIGNATURES
+Pursuant to the requirements of the Securities and Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+​
+UFP INDUSTRIES, INC.
+​
+​
+​
+Date: November 5, 2025
+By:
+/s/ William D. Schwartz, Jr.
+​
+William D. Schwartz, Jr.,
+​
+Chief Executive Officer and
+​
+Principal Executive Officer
+​
+​
+​
+Date: November 5, 2025
+By:
+/s/ Michael R. Cole
+​
+Michael R. Cole,
+​
+Chief Financial Officer,
+​
+Principal Financial Officer and
+​
+Principal Accounting Officer
+​
+​
+44

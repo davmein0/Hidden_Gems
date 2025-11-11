@@ -1,0 +1,7610 @@
+chdn-20250930
+0000020212
+12-31
+2025
+Q3
+FALSE
+P3Y
+P3Y
+P1Y
+P1Y
+http://fasb.org/us-gaap/2025#SecuredOvernightFinancingRateSofrMember
+3
+1
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+xbrli:pure
+chdn:segment
+chdn:performance_condition
+chdn:performance_criteria
+0000020212
+2025-01-01
+2025-09-30
+0000020212
+2025-10-15
+0000020212
+chdn:LiveAndHistoricalRacingMember
+2025-07-01
+2025-09-30
+0000020212
+chdn:LiveAndHistoricalRacingMember
+2024-07-01
+2024-09-30
+0000020212
+chdn:LiveAndHistoricalRacingMember
+2025-01-01
+2025-09-30
+0000020212
+chdn:LiveAndHistoricalRacingMember
+2024-01-01
+2024-09-30
+0000020212
+chdn:WageringServicesAndSolutionsMember
+2025-07-01
+2025-09-30
+0000020212
+chdn:WageringServicesAndSolutionsMember
+2024-07-01
+2024-09-30
+0000020212
+chdn:WageringServicesAndSolutionsMember
+2025-01-01
+2025-09-30
+0000020212
+chdn:WageringServicesAndSolutionsMember
+2024-01-01
+2024-09-30
+0000020212
+chdn:GamingMember
+2025-07-01
+2025-09-30
+0000020212
+chdn:GamingMember
+2024-07-01
+2024-09-30
+0000020212
+chdn:GamingMember
+2025-01-01
+2025-09-30
+0000020212
+chdn:GamingMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:ProductAndServiceOtherMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:ProductAndServiceOtherMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:ProductAndServiceOtherMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:ProductAndServiceOtherMember
+2024-01-01
+2024-09-30
+0000020212
+2025-07-01
+2025-09-30
+0000020212
+2024-07-01
+2024-09-30
+0000020212
+2024-01-01
+2024-09-30
+0000020212
+2025-09-30
+0000020212
+2024-12-31
+0000020212
+us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember
+2024-12-31
+0000020212
+us-gaap:RetainedEarningsMember
+2024-12-31
+0000020212
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-31
+0000020212
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-03-31
+0000020212
+2025-01-01
+2025-03-31
+0000020212
+us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember
+2025-01-01
+2025-03-31
+0000020212
+us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember
+2025-03-31
+0000020212
+us-gaap:RetainedEarningsMember
+2025-03-31
+0000020212
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-03-31
+0000020212
+2025-03-31
+0000020212
+us-gaap:RetainedEarningsMember
+2025-04-01
+2025-06-30
+0000020212
+2025-04-01
+2025-06-30
+0000020212
+us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember
+2025-04-01
+2025-06-30
+0000020212
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-04-01
+2025-06-30
+0000020212
+us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember
+2025-06-30
+0000020212
+us-gaap:RetainedEarningsMember
+2025-06-30
+0000020212
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-06-30
+0000020212
+2025-06-30
+0000020212
+us-gaap:RetainedEarningsMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember
+2025-09-30
+0000020212
+us-gaap:RetainedEarningsMember
+2025-09-30
+0000020212
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-09-30
+0000020212
+us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember
+2023-12-31
+0000020212
+us-gaap:RetainedEarningsMember
+2023-12-31
+0000020212
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-12-31
+0000020212
+2023-12-31
+0000020212
+us-gaap:RetainedEarningsMember
+2024-01-01
+2024-03-31
+0000020212
+2024-01-01
+2024-03-31
+0000020212
+us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember
+2024-01-01
+2024-03-31
+0000020212
+us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember
+2024-03-31
+0000020212
+us-gaap:RetainedEarningsMember
+2024-03-31
+0000020212
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-03-31
+0000020212
+2024-03-31
+0000020212
+us-gaap:RetainedEarningsMember
+2024-04-01
+2024-06-30
+0000020212
+2024-04-01
+2024-06-30
+0000020212
+us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember
+2024-04-01
+2024-06-30
+0000020212
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-04-01
+2024-06-30
+0000020212
+us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember
+2024-06-30
+0000020212
+us-gaap:RetainedEarningsMember
+2024-06-30
+0000020212
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-06-30
+0000020212
+2024-06-30
+0000020212
+us-gaap:RetainedEarningsMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember
+2024-09-30
+0000020212
+us-gaap:RetainedEarningsMember
+2024-09-30
+0000020212
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-09-30
+0000020212
+2024-09-30
+0000020212
+chdn:CasinoSalemMember
+2025-08-27
+0000020212
+chdn:UnitedToteCompanyMember
+2024-04-30
+0000020212
+chdn:GamingRightsMember
+chdn:CasinoSalemMember
+2025-08-27
+0000020212
+chdn:GamingRightsMember
+chdn:CasinoSalemMember
+chdn:FormerOwnersOfChasersPokerRoomMember
+2025-07-01
+2025-09-30
+0000020212
+chdn:FormerOwnersOfChasersPokerRoomMember
+chdn:CasinoSalemMember
+2025-07-01
+2025-09-30
+0000020212
+chdn:GamingRightsMember
+chdn:CasinoSalemMember
+chdn:LiveAndHistoricalRacingMember
+2025-07-01
+2025-09-30
+0000020212
+chdn:July2025StockRepurchaseProgramMember
+2025-07-22
+0000020212
+chdn:March2025StockRepurchaseProgramMember
+2025-09-30
+0000020212
+chdn:July2025StockRepurchaseProgramMember
+2025-09-30
+0000020212
+chdn:March2025StockRepurchaseProgramMember
+2025-03-12
+0000020212
+chdn:A2021StockRepurchaseProgramMember
+2025-03-12
+0000020212
+chdn:July2025StockRepurchaseProgramMember
+2025-07-01
+2025-09-30
+0000020212
+chdn:July2025StockRepurchaseProgramMember
+2024-07-01
+2024-09-30
+0000020212
+chdn:July2025StockRepurchaseProgramMember
+2025-01-01
+2025-09-30
+0000020212
+chdn:July2025StockRepurchaseProgramMember
+2024-01-01
+2024-09-30
+0000020212
+chdn:March2025StockRepurchaseProgramMember
+2025-07-01
+2025-09-30
+0000020212
+chdn:March2025StockRepurchaseProgramMember
+2024-07-01
+2024-09-30
+0000020212
+chdn:March2025StockRepurchaseProgramMember
+2025-01-01
+2025-09-30
+0000020212
+chdn:March2025StockRepurchaseProgramMember
+2024-01-01
+2024-09-30
+0000020212
+chdn:A2021StockRepurchaseProgramMember
+2025-07-01
+2025-09-30
+0000020212
+chdn:A2021StockRepurchaseProgramMember
+2024-07-01
+2024-09-30
+0000020212
+chdn:A2021StockRepurchaseProgramMember
+2025-01-01
+2025-09-30
+0000020212
+chdn:A2021StockRepurchaseProgramMember
+2024-01-01
+2024-09-30
+0000020212
+chdn:StockRepurchaseAgreementWithTheDuchossoisGroupIncAffiliateMember
+2023-12-18
+2023-12-18
+0000020212
+chdn:StockRepurchaseAgreementWithTheDuchossoisGroupIncAffiliateMember
+2023-12-18
+0000020212
+chdn:AffiliateOfDuchossoisGroupIncMember
+chdn:StockRepurchaseAgreementWithTheDuchossoisGroupIncAffiliateMember
+2023-12-18
+2023-12-18
+0000020212
+2023-12-15
+0000020212
+us-gaap:SegmentContinuingOperationsMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:SegmentContinuingOperationsMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:SegmentContinuingOperationsMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:SegmentContinuingOperationsMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:PerformanceSharesMember
+2025-09-30
+0000020212
+us-gaap:PerformanceSharesMember
+2024-12-31
+0000020212
+chdn:ChurchillDownsIncorporated2016OmnibusStockIncentivePlanMember
+us-gaap:PerformanceSharesMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:RestrictedStockUnitsRSUMember
+us-gaap:ShareBasedCompensationAwardTrancheOneMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:PerformanceSharesMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:RestrictedStockUnitsRSUMember
+us-gaap:ShareBasedCompensationAwardTrancheTwoMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:RestrictedStockMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:SecuredDebtMember
+chdn:TermLoanB1Due2028Member
+us-gaap:LineOfCreditMember
+2025-09-30
+0000020212
+us-gaap:SecuredDebtMember
+chdn:TermLoanB1Due2028Member
+us-gaap:LineOfCreditMember
+2024-12-31
+0000020212
+us-gaap:SecuredDebtMember
+chdn:TermLoanADue2029Member
+us-gaap:LineOfCreditMember
+2025-09-30
+0000020212
+us-gaap:SecuredDebtMember
+chdn:TermLoanADue2029Member
+us-gaap:LineOfCreditMember
+2024-12-31
+0000020212
+us-gaap:RevolvingCreditFacilityMember
+chdn:RevolverMember
+us-gaap:LineOfCreditMember
+2025-09-30
+0000020212
+us-gaap:RevolvingCreditFacilityMember
+chdn:RevolverMember
+us-gaap:LineOfCreditMember
+2024-12-31
+0000020212
+chdn:SeniorNotesDue2027Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0000020212
+chdn:SeniorNotesDue2027Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0000020212
+chdn:SeniorNotesDue2028Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0000020212
+chdn:SeniorNotesDue2028Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0000020212
+chdn:SeniorNotesDue2030Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0000020212
+chdn:SeniorNotesDue2030Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0000020212
+chdn:SeniorNotesDue2031Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0000020212
+chdn:SeniorNotesDue2031Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0000020212
+us-gaap:RevolvingCreditFacilityMember
+us-gaap:LineOfCreditMember
+2025-09-30
+0000020212
+us-gaap:BridgeLoanMember
+us-gaap:LineOfCreditMember
+2025-09-30
+0000020212
+us-gaap:SecuredDebtMember
+chdn:TermLoanB1Due2028Member
+us-gaap:LineOfCreditMember
+2025-02-14
+2025-02-14
+0000020212
+us-gaap:SecuredDebtMember
+chdn:TermLoanB1Due2028Member
+us-gaap:LineOfCreditMember
+2024-01-01
+2024-12-31
+0000020212
+us-gaap:SecuredDebtMember
+chdn:TermLoanB1Due2028Member
+us-gaap:LineOfCreditMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:SecuredDebtMember
+chdn:TermLoanADue2029Member
+us-gaap:LineOfCreditMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:RevolvingCreditFacilityMember
+us-gaap:LineOfCreditMember
+2025-01-01
+2025-09-30
+0000020212
+chdn:CreditAgreementAmendmentMember
+us-gaap:LineOfCreditMember
+2025-01-01
+2025-09-30
+0000020212
+chdn:CreditAgreementAmendmentMember
+us-gaap:LineOfCreditMember
+2025-09-30
+0000020212
+us-gaap:LetterOfCreditMember
+us-gaap:LineOfCreditMember
+2025-09-30
+0000020212
+chdn:SeniorNotesDue2028ExistingMember
+us-gaap:SeniorNotesMember
+2025-09-30
+0000020212
+chdn:SeniorNotesDue2028AdditionalMember
+us-gaap:SeniorNotesMember
+2025-09-30
+0000020212
+chdn:SeniorNotesDue2028AdditionalMember
+us-gaap:SeniorNotesMember
+2025-01-01
+2025-09-30
+0000020212
+2025-10-01
+2025-09-30
+0000020212
+2026-01-01
+2025-09-30
+0000020212
+2027-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:ChurchillDownsRacetrackMember
+chdn:LiveAndHistoricalRacingMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:ChurchillDownsRacetrackMember
+chdn:LiveAndHistoricalRacingMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:ChurchillDownsRacetrackMember
+chdn:LiveAndHistoricalRacingMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:ChurchillDownsRacetrackMember
+chdn:LiveAndHistoricalRacingMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:LouisvillePropertyMember
+chdn:LiveAndHistoricalRacingMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:LouisvillePropertyMember
+chdn:LiveAndHistoricalRacingMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:LouisvillePropertyMember
+chdn:LiveAndHistoricalRacingMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:LouisvillePropertyMember
+chdn:LiveAndHistoricalRacingMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:NorthernKentuckyMember
+chdn:LiveAndHistoricalRacingMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:NorthernKentuckyMember
+chdn:LiveAndHistoricalRacingMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:NorthernKentuckyMember
+chdn:LiveAndHistoricalRacingMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:NorthernKentuckyMember
+chdn:LiveAndHistoricalRacingMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:SouthwesternKentuckyMember
+chdn:LiveAndHistoricalRacingMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:SouthwesternKentuckyMember
+chdn:LiveAndHistoricalRacingMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:SouthwesternKentuckyMember
+chdn:LiveAndHistoricalRacingMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:SouthwesternKentuckyMember
+chdn:LiveAndHistoricalRacingMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:WesternKentuckyMember
+chdn:LiveAndHistoricalRacingMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:WesternKentuckyMember
+chdn:LiveAndHistoricalRacingMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:WesternKentuckyMember
+chdn:LiveAndHistoricalRacingMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:WesternKentuckyMember
+chdn:LiveAndHistoricalRacingMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:VA
+chdn:LiveAndHistoricalRacingMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:VA
+chdn:LiveAndHistoricalRacingMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:VA
+chdn:LiveAndHistoricalRacingMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:VA
+chdn:LiveAndHistoricalRacingMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:NH
+chdn:LiveAndHistoricalRacingMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:NH
+chdn:LiveAndHistoricalRacingMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:NH
+chdn:LiveAndHistoricalRacingMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:NH
+chdn:LiveAndHistoricalRacingMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:LiveAndHistoricalRacingMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:LiveAndHistoricalRacingMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:LiveAndHistoricalRacingMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:LiveAndHistoricalRacingMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:WageringServicesAndSolutionsMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:WageringServicesAndSolutionsMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:WageringServicesAndSolutionsMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:WageringServicesAndSolutionsMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:FL
+chdn:GamingSegmentMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:FL
+chdn:GamingSegmentMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:FL
+chdn:GamingSegmentMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:FL
+chdn:GamingSegmentMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:IA
+chdn:GamingSegmentMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:IA
+chdn:GamingSegmentMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:IA
+chdn:GamingSegmentMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:IA
+chdn:GamingSegmentMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:IN
+chdn:GamingSegmentMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:IN
+chdn:GamingSegmentMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:IN
+chdn:GamingSegmentMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:IN
+chdn:GamingSegmentMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:LA
+chdn:GamingSegmentMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:LA
+chdn:GamingSegmentMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:LA
+chdn:GamingSegmentMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:LA
+chdn:GamingSegmentMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:ME
+chdn:GamingSegmentMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:ME
+chdn:GamingSegmentMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:ME
+chdn:GamingSegmentMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:ME
+chdn:GamingSegmentMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:MD
+chdn:GamingSegmentMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:MD
+chdn:GamingSegmentMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:MD
+chdn:GamingSegmentMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:MD
+chdn:GamingSegmentMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:MS
+chdn:GamingSegmentMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:MS
+chdn:GamingSegmentMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:MS
+chdn:GamingSegmentMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:MS
+chdn:GamingSegmentMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:NY
+chdn:GamingSegmentMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:NY
+chdn:GamingSegmentMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:NY
+chdn:GamingSegmentMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:NY
+chdn:GamingSegmentMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:PA
+chdn:GamingSegmentMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:PA
+chdn:GamingSegmentMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:PA
+chdn:GamingSegmentMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+stpr:PA
+chdn:GamingSegmentMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:GamingSegmentMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:GamingSegmentMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:GamingSegmentMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:GamingSegmentMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+2024-01-01
+2024-09-30
+0000020212
+chdn:ExternalCustomerMember
+2025-07-01
+2025-09-30
+0000020212
+chdn:ExternalCustomerMember
+2024-07-01
+2024-09-30
+0000020212
+chdn:ExternalCustomerMember
+2025-01-01
+2025-09-30
+0000020212
+chdn:ExternalCustomerMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+us-gaap:RelatedPartyMember
+chdn:LiveAndHistoricalRacingMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+us-gaap:RelatedPartyMember
+chdn:LiveAndHistoricalRacingMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+us-gaap:RelatedPartyMember
+chdn:LiveAndHistoricalRacingMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+us-gaap:RelatedPartyMember
+chdn:LiveAndHistoricalRacingMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+us-gaap:RelatedPartyMember
+chdn:WageringServicesAndSolutionsMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+us-gaap:RelatedPartyMember
+chdn:WageringServicesAndSolutionsMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+us-gaap:RelatedPartyMember
+chdn:WageringServicesAndSolutionsMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+us-gaap:RelatedPartyMember
+chdn:WageringServicesAndSolutionsMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+us-gaap:RelatedPartyMember
+chdn:GamingSegmentMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+us-gaap:RelatedPartyMember
+chdn:GamingSegmentMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+us-gaap:RelatedPartyMember
+chdn:GamingSegmentMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+us-gaap:RelatedPartyMember
+chdn:GamingSegmentMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+us-gaap:RelatedPartyMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+us-gaap:RelatedPartyMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+us-gaap:RelatedPartyMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+us-gaap:RelatedPartyMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:IntersegmentEliminationMember
+us-gaap:RelatedPartyMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:IntersegmentEliminationMember
+us-gaap:RelatedPartyMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:IntersegmentEliminationMember
+us-gaap:RelatedPartyMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:IntersegmentEliminationMember
+us-gaap:RelatedPartyMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:RelatedPartyMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:RelatedPartyMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:RelatedPartyMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:RelatedPartyMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelLiveAndSimulcastRacingMember
+chdn:ExternalCustomerMember
+chdn:LiveAndHistoricalRacingMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelLiveAndSimulcastRacingMember
+chdn:ExternalCustomerMember
+chdn:WageringServicesAndSolutionsMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelLiveAndSimulcastRacingMember
+chdn:ExternalCustomerMember
+chdn:GamingSegmentMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelLiveAndSimulcastRacingMember
+chdn:ExternalCustomerMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+chdn:PariMutuelLiveAndSimulcastRacingMember
+chdn:ExternalCustomerMember
+2025-07-01
+2025-09-30
+0000020212
+chdn:PariMutuelLiveAndSimulcastRacingMember
+chdn:ExternalCustomerMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelHistoricalRacingMember
+chdn:ExternalCustomerMember
+chdn:LiveAndHistoricalRacingMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelHistoricalRacingMember
+chdn:ExternalCustomerMember
+chdn:WageringServicesAndSolutionsMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelHistoricalRacingMember
+chdn:ExternalCustomerMember
+chdn:GamingSegmentMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelHistoricalRacingMember
+chdn:ExternalCustomerMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+chdn:PariMutuelHistoricalRacingMember
+chdn:ExternalCustomerMember
+2025-07-01
+2025-09-30
+0000020212
+chdn:PariMutuelHistoricalRacingMember
+chdn:ExternalCustomerMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:RacingEventRelatedServicesMember
+chdn:ExternalCustomerMember
+chdn:LiveAndHistoricalRacingMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:RacingEventRelatedServicesMember
+chdn:ExternalCustomerMember
+chdn:WageringServicesAndSolutionsMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:RacingEventRelatedServicesMember
+chdn:ExternalCustomerMember
+chdn:GamingSegmentMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:RacingEventRelatedServicesMember
+chdn:ExternalCustomerMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+chdn:RacingEventRelatedServicesMember
+chdn:ExternalCustomerMember
+2025-07-01
+2025-09-30
+0000020212
+chdn:RacingEventRelatedServicesMember
+chdn:ExternalCustomerMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:GamingMember
+chdn:ExternalCustomerMember
+chdn:LiveAndHistoricalRacingMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:GamingMember
+chdn:ExternalCustomerMember
+chdn:WageringServicesAndSolutionsMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:GamingMember
+chdn:ExternalCustomerMember
+chdn:GamingSegmentMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:GamingMember
+chdn:ExternalCustomerMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+chdn:GamingMember
+chdn:ExternalCustomerMember
+2025-07-01
+2025-09-30
+0000020212
+chdn:GamingMember
+chdn:ExternalCustomerMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+us-gaap:ProductAndServiceOtherMember
+chdn:ExternalCustomerMember
+chdn:LiveAndHistoricalRacingMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+us-gaap:ProductAndServiceOtherMember
+chdn:ExternalCustomerMember
+chdn:WageringServicesAndSolutionsMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+us-gaap:ProductAndServiceOtherMember
+chdn:ExternalCustomerMember
+chdn:GamingSegmentMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+us-gaap:ProductAndServiceOtherMember
+chdn:ExternalCustomerMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+us-gaap:ProductAndServiceOtherMember
+chdn:ExternalCustomerMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:ProductAndServiceOtherMember
+chdn:ExternalCustomerMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:ExternalCustomerMember
+chdn:LiveAndHistoricalRacingMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:ExternalCustomerMember
+chdn:WageringServicesAndSolutionsMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:ExternalCustomerMember
+chdn:GamingSegmentMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:ExternalCustomerMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+chdn:ExternalCustomerMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelLiveAndSimulcastRacingMember
+chdn:ExternalCustomerMember
+chdn:LiveAndHistoricalRacingMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelLiveAndSimulcastRacingMember
+chdn:ExternalCustomerMember
+chdn:WageringServicesAndSolutionsMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelLiveAndSimulcastRacingMember
+chdn:ExternalCustomerMember
+chdn:GamingSegmentMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelLiveAndSimulcastRacingMember
+chdn:ExternalCustomerMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+chdn:PariMutuelLiveAndSimulcastRacingMember
+chdn:ExternalCustomerMember
+2024-07-01
+2024-09-30
+0000020212
+chdn:PariMutuelLiveAndSimulcastRacingMember
+chdn:ExternalCustomerMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelHistoricalRacingMember
+chdn:ExternalCustomerMember
+chdn:LiveAndHistoricalRacingMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelHistoricalRacingMember
+chdn:ExternalCustomerMember
+chdn:WageringServicesAndSolutionsMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelHistoricalRacingMember
+chdn:ExternalCustomerMember
+chdn:GamingSegmentMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelHistoricalRacingMember
+chdn:ExternalCustomerMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+chdn:PariMutuelHistoricalRacingMember
+chdn:ExternalCustomerMember
+2024-07-01
+2024-09-30
+0000020212
+chdn:PariMutuelHistoricalRacingMember
+chdn:ExternalCustomerMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:RacingEventRelatedServicesMember
+chdn:ExternalCustomerMember
+chdn:LiveAndHistoricalRacingMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:RacingEventRelatedServicesMember
+chdn:ExternalCustomerMember
+chdn:WageringServicesAndSolutionsMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:RacingEventRelatedServicesMember
+chdn:ExternalCustomerMember
+chdn:GamingSegmentMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:RacingEventRelatedServicesMember
+chdn:ExternalCustomerMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+chdn:RacingEventRelatedServicesMember
+chdn:ExternalCustomerMember
+2024-07-01
+2024-09-30
+0000020212
+chdn:RacingEventRelatedServicesMember
+chdn:ExternalCustomerMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:GamingMember
+chdn:ExternalCustomerMember
+chdn:LiveAndHistoricalRacingMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:GamingMember
+chdn:ExternalCustomerMember
+chdn:WageringServicesAndSolutionsMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:GamingMember
+chdn:ExternalCustomerMember
+chdn:GamingSegmentMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:GamingMember
+chdn:ExternalCustomerMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+chdn:GamingMember
+chdn:ExternalCustomerMember
+2024-07-01
+2024-09-30
+0000020212
+chdn:GamingMember
+chdn:ExternalCustomerMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+us-gaap:ProductAndServiceOtherMember
+chdn:ExternalCustomerMember
+chdn:LiveAndHistoricalRacingMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+us-gaap:ProductAndServiceOtherMember
+chdn:ExternalCustomerMember
+chdn:WageringServicesAndSolutionsMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+us-gaap:ProductAndServiceOtherMember
+chdn:ExternalCustomerMember
+chdn:GamingSegmentMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+us-gaap:ProductAndServiceOtherMember
+chdn:ExternalCustomerMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+us-gaap:ProductAndServiceOtherMember
+chdn:ExternalCustomerMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:ProductAndServiceOtherMember
+chdn:ExternalCustomerMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:ExternalCustomerMember
+chdn:LiveAndHistoricalRacingMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:ExternalCustomerMember
+chdn:WageringServicesAndSolutionsMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:ExternalCustomerMember
+chdn:GamingSegmentMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:ExternalCustomerMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+chdn:ExternalCustomerMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelLiveAndSimulcastRacingMember
+chdn:ExternalCustomerMember
+chdn:LiveAndHistoricalRacingMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelLiveAndSimulcastRacingMember
+chdn:ExternalCustomerMember
+chdn:WageringServicesAndSolutionsMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelLiveAndSimulcastRacingMember
+chdn:ExternalCustomerMember
+chdn:GamingSegmentMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelLiveAndSimulcastRacingMember
+chdn:ExternalCustomerMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+chdn:PariMutuelLiveAndSimulcastRacingMember
+chdn:ExternalCustomerMember
+2025-01-01
+2025-09-30
+0000020212
+chdn:PariMutuelLiveAndSimulcastRacingMember
+chdn:ExternalCustomerMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelHistoricalRacingMember
+chdn:ExternalCustomerMember
+chdn:LiveAndHistoricalRacingMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelHistoricalRacingMember
+chdn:ExternalCustomerMember
+chdn:WageringServicesAndSolutionsMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelHistoricalRacingMember
+chdn:ExternalCustomerMember
+chdn:GamingSegmentMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelHistoricalRacingMember
+chdn:ExternalCustomerMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+chdn:PariMutuelHistoricalRacingMember
+chdn:ExternalCustomerMember
+2025-01-01
+2025-09-30
+0000020212
+chdn:PariMutuelHistoricalRacingMember
+chdn:ExternalCustomerMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:RacingEventRelatedServicesMember
+chdn:ExternalCustomerMember
+chdn:LiveAndHistoricalRacingMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:RacingEventRelatedServicesMember
+chdn:ExternalCustomerMember
+chdn:WageringServicesAndSolutionsMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:RacingEventRelatedServicesMember
+chdn:ExternalCustomerMember
+chdn:GamingSegmentMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:RacingEventRelatedServicesMember
+chdn:ExternalCustomerMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+chdn:RacingEventRelatedServicesMember
+chdn:ExternalCustomerMember
+2025-01-01
+2025-09-30
+0000020212
+chdn:RacingEventRelatedServicesMember
+chdn:ExternalCustomerMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:GamingMember
+chdn:ExternalCustomerMember
+chdn:LiveAndHistoricalRacingMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:GamingMember
+chdn:ExternalCustomerMember
+chdn:WageringServicesAndSolutionsMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:GamingMember
+chdn:ExternalCustomerMember
+chdn:GamingSegmentMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:GamingMember
+chdn:ExternalCustomerMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+chdn:GamingMember
+chdn:ExternalCustomerMember
+2025-01-01
+2025-09-30
+0000020212
+chdn:GamingMember
+chdn:ExternalCustomerMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+us-gaap:ProductAndServiceOtherMember
+chdn:ExternalCustomerMember
+chdn:LiveAndHistoricalRacingMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+us-gaap:ProductAndServiceOtherMember
+chdn:ExternalCustomerMember
+chdn:WageringServicesAndSolutionsMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+us-gaap:ProductAndServiceOtherMember
+chdn:ExternalCustomerMember
+chdn:GamingSegmentMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+us-gaap:ProductAndServiceOtherMember
+chdn:ExternalCustomerMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+us-gaap:ProductAndServiceOtherMember
+chdn:ExternalCustomerMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:ProductAndServiceOtherMember
+chdn:ExternalCustomerMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:ExternalCustomerMember
+chdn:LiveAndHistoricalRacingMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:ExternalCustomerMember
+chdn:WageringServicesAndSolutionsMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:ExternalCustomerMember
+chdn:GamingSegmentMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:ExternalCustomerMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+chdn:ExternalCustomerMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelLiveAndSimulcastRacingMember
+chdn:ExternalCustomerMember
+chdn:LiveAndHistoricalRacingMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelLiveAndSimulcastRacingMember
+chdn:ExternalCustomerMember
+chdn:WageringServicesAndSolutionsMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelLiveAndSimulcastRacingMember
+chdn:ExternalCustomerMember
+chdn:GamingSegmentMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelLiveAndSimulcastRacingMember
+chdn:ExternalCustomerMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+chdn:PariMutuelLiveAndSimulcastRacingMember
+chdn:ExternalCustomerMember
+2024-01-01
+2024-09-30
+0000020212
+chdn:PariMutuelLiveAndSimulcastRacingMember
+chdn:ExternalCustomerMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelHistoricalRacingMember
+chdn:ExternalCustomerMember
+chdn:LiveAndHistoricalRacingMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelHistoricalRacingMember
+chdn:ExternalCustomerMember
+chdn:WageringServicesAndSolutionsMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelHistoricalRacingMember
+chdn:ExternalCustomerMember
+chdn:GamingSegmentMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:PariMutuelHistoricalRacingMember
+chdn:ExternalCustomerMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+chdn:PariMutuelHistoricalRacingMember
+chdn:ExternalCustomerMember
+2024-01-01
+2024-09-30
+0000020212
+chdn:PariMutuelHistoricalRacingMember
+chdn:ExternalCustomerMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:RacingEventRelatedServicesMember
+chdn:ExternalCustomerMember
+chdn:LiveAndHistoricalRacingMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:RacingEventRelatedServicesMember
+chdn:ExternalCustomerMember
+chdn:WageringServicesAndSolutionsMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:RacingEventRelatedServicesMember
+chdn:ExternalCustomerMember
+chdn:GamingSegmentMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:RacingEventRelatedServicesMember
+chdn:ExternalCustomerMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+chdn:RacingEventRelatedServicesMember
+chdn:ExternalCustomerMember
+2024-01-01
+2024-09-30
+0000020212
+chdn:RacingEventRelatedServicesMember
+chdn:ExternalCustomerMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:GamingMember
+chdn:ExternalCustomerMember
+chdn:LiveAndHistoricalRacingMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:GamingMember
+chdn:ExternalCustomerMember
+chdn:WageringServicesAndSolutionsMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:GamingMember
+chdn:ExternalCustomerMember
+chdn:GamingSegmentMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:GamingMember
+chdn:ExternalCustomerMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+chdn:GamingMember
+chdn:ExternalCustomerMember
+2024-01-01
+2024-09-30
+0000020212
+chdn:GamingMember
+chdn:ExternalCustomerMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+us-gaap:ProductAndServiceOtherMember
+chdn:ExternalCustomerMember
+chdn:LiveAndHistoricalRacingMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+us-gaap:ProductAndServiceOtherMember
+chdn:ExternalCustomerMember
+chdn:WageringServicesAndSolutionsMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+us-gaap:ProductAndServiceOtherMember
+chdn:ExternalCustomerMember
+chdn:GamingSegmentMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+us-gaap:ProductAndServiceOtherMember
+chdn:ExternalCustomerMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+us-gaap:ProductAndServiceOtherMember
+chdn:ExternalCustomerMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:ProductAndServiceOtherMember
+chdn:ExternalCustomerMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:ExternalCustomerMember
+chdn:LiveAndHistoricalRacingMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:ExternalCustomerMember
+chdn:WageringServicesAndSolutionsMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:ExternalCustomerMember
+chdn:GamingSegmentMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:ExternalCustomerMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+chdn:ExternalCustomerMember
+2024-01-01
+2024-09-30
+0000020212
+chdn:TradeAccountReceivableMember
+2025-09-30
+0000020212
+chdn:TradeAccountReceivableMember
+2024-12-31
+0000020212
+chdn:SimulcastAndAdwReceivablesMember
+2025-09-30
+0000020212
+chdn:SimulcastAndAdwReceivablesMember
+2024-12-31
+0000020212
+chdn:OtherReceivablesMember
+2025-09-30
+0000020212
+chdn:OtherReceivablesMember
+2024-12-31
+0000020212
+2024-04-30
+0000020212
+2024-01-01
+2024-12-31
+0000020212
+chdn:RiversDesPlainesMember
+2025-09-30
+0000020212
+chdn:RiversDesPlainesMember
+chdn:HighPlainesMember
+2025-09-30
+0000020212
+chdn:RiversDesPlainesMember
+chdn:CasinoInvestorsMember
+2025-09-30
+0000020212
+chdn:RiversDesPlainesMember
+2024-12-31
+0000020212
+chdn:RiversDesPlainesMember
+2025-01-01
+2025-09-30
+0000020212
+chdn:RiversDesPlainesMember
+2024-01-01
+2024-09-30
+0000020212
+chdn:MiamiValleyGamingLLCMember
+2025-09-30
+0000020212
+chdn:MiamiValleyGamingLLCMember
+chdn:DelawareNorthCompaniesGamingEntertainmentInc.Member
+2025-09-30
+0000020212
+chdn:MiamiValleyGamingLLCMember
+2024-01-01
+2024-09-30
+0000020212
+chdn:MiamiValleyGamingLLCMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:EquityMethodInvestmentNonconsolidatedInvesteeOrGroupOfInvesteesMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:EquityMethodInvestmentNonconsolidatedInvesteeOrGroupOfInvesteesMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:EquityMethodInvestmentNonconsolidatedInvesteeOrGroupOfInvesteesMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:EquityMethodInvestmentNonconsolidatedInvesteeOrGroupOfInvesteesMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:EquityMethodInvestmentNonconsolidatedInvesteeOrGroupOfInvesteesMember
+2025-09-30
+0000020212
+us-gaap:EquityMethodInvestmentNonconsolidatedInvesteeOrGroupOfInvesteesMember
+2024-12-31
+0000020212
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2025-09-30
+0000020212
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2025-09-30
+0000020212
+us-gaap:FairValueInputsLevel1Member
+2025-09-30
+0000020212
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0000020212
+us-gaap:FairValueInputsLevel3Member
+2025-09-30
+0000020212
+us-gaap:SecuredDebtMember
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+chdn:TermLoanB1Due2028Member
+2025-09-30
+0000020212
+us-gaap:SecuredDebtMember
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+chdn:TermLoanB1Due2028Member
+2025-09-30
+0000020212
+us-gaap:SecuredDebtMember
+us-gaap:FairValueInputsLevel1Member
+chdn:TermLoanB1Due2028Member
+2025-09-30
+0000020212
+us-gaap:SecuredDebtMember
+us-gaap:FairValueInputsLevel2Member
+chdn:TermLoanB1Due2028Member
+2025-09-30
+0000020212
+us-gaap:SecuredDebtMember
+us-gaap:FairValueInputsLevel3Member
+chdn:TermLoanB1Due2028Member
+2025-09-30
+0000020212
+us-gaap:SecuredDebtMember
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+chdn:TermLoanAMember
+2025-09-30
+0000020212
+us-gaap:SecuredDebtMember
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+chdn:TermLoanAMember
+2025-09-30
+0000020212
+us-gaap:SecuredDebtMember
+us-gaap:FairValueInputsLevel1Member
+chdn:TermLoanAMember
+2025-09-30
+0000020212
+us-gaap:SecuredDebtMember
+us-gaap:FairValueInputsLevel2Member
+chdn:TermLoanAMember
+2025-09-30
+0000020212
+us-gaap:SecuredDebtMember
+us-gaap:FairValueInputsLevel3Member
+chdn:TermLoanAMember
+2025-09-30
+0000020212
+us-gaap:RevolvingCreditFacilityMember
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+chdn:RevolverMember
+2025-09-30
+0000020212
+us-gaap:RevolvingCreditFacilityMember
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+chdn:RevolverMember
+2025-09-30
+0000020212
+us-gaap:RevolvingCreditFacilityMember
+us-gaap:FairValueInputsLevel1Member
+chdn:RevolverMember
+2025-09-30
+0000020212
+us-gaap:RevolvingCreditFacilityMember
+us-gaap:FairValueInputsLevel2Member
+chdn:RevolverMember
+2025-09-30
+0000020212
+us-gaap:RevolvingCreditFacilityMember
+us-gaap:FairValueInputsLevel3Member
+chdn:RevolverMember
+2025-09-30
+0000020212
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+chdn:SeniorNotesDue2027Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0000020212
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+chdn:SeniorNotesDue2027Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0000020212
+us-gaap:FairValueInputsLevel1Member
+chdn:SeniorNotesDue2027Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0000020212
+us-gaap:FairValueInputsLevel2Member
+chdn:SeniorNotesDue2027Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0000020212
+us-gaap:FairValueInputsLevel3Member
+chdn:SeniorNotesDue2027Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0000020212
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+chdn:SeniorNotesDue2028Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0000020212
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+chdn:SeniorNotesDue2028Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0000020212
+us-gaap:FairValueInputsLevel1Member
+chdn:SeniorNotesDue2028Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0000020212
+us-gaap:FairValueInputsLevel2Member
+chdn:SeniorNotesDue2028Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0000020212
+us-gaap:FairValueInputsLevel3Member
+chdn:SeniorNotesDue2028Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0000020212
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+chdn:SeniorNotesDue2030Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0000020212
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+chdn:SeniorNotesDue2030Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0000020212
+us-gaap:FairValueInputsLevel1Member
+chdn:SeniorNotesDue2030Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0000020212
+us-gaap:FairValueInputsLevel2Member
+chdn:SeniorNotesDue2030Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0000020212
+us-gaap:FairValueInputsLevel3Member
+chdn:SeniorNotesDue2030Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0000020212
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+chdn:SeniorNotesDue2031Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0000020212
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+chdn:SeniorNotesDue2031Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0000020212
+us-gaap:FairValueInputsLevel1Member
+chdn:SeniorNotesDue2031Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0000020212
+us-gaap:FairValueInputsLevel2Member
+chdn:SeniorNotesDue2031Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0000020212
+us-gaap:FairValueInputsLevel3Member
+chdn:SeniorNotesDue2031Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0000020212
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2024-12-31
+0000020212
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2024-12-31
+0000020212
+us-gaap:FairValueInputsLevel1Member
+2024-12-31
+0000020212
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0000020212
+us-gaap:FairValueInputsLevel3Member
+2024-12-31
+0000020212
+us-gaap:SecuredDebtMember
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+chdn:TermLoanB1Due2028Member
+2024-12-31
+0000020212
+us-gaap:SecuredDebtMember
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+chdn:TermLoanB1Due2028Member
+2024-12-31
+0000020212
+us-gaap:SecuredDebtMember
+us-gaap:FairValueInputsLevel1Member
+chdn:TermLoanB1Due2028Member
+2024-12-31
+0000020212
+us-gaap:SecuredDebtMember
+us-gaap:FairValueInputsLevel2Member
+chdn:TermLoanB1Due2028Member
+2024-12-31
+0000020212
+us-gaap:SecuredDebtMember
+us-gaap:FairValueInputsLevel3Member
+chdn:TermLoanB1Due2028Member
+2024-12-31
+0000020212
+us-gaap:SecuredDebtMember
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+chdn:TermLoanAMember
+2024-12-31
+0000020212
+us-gaap:SecuredDebtMember
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+chdn:TermLoanAMember
+2024-12-31
+0000020212
+us-gaap:SecuredDebtMember
+us-gaap:FairValueInputsLevel1Member
+chdn:TermLoanAMember
+2024-12-31
+0000020212
+us-gaap:SecuredDebtMember
+us-gaap:FairValueInputsLevel2Member
+chdn:TermLoanAMember
+2024-12-31
+0000020212
+us-gaap:SecuredDebtMember
+us-gaap:FairValueInputsLevel3Member
+chdn:TermLoanAMember
+2024-12-31
+0000020212
+us-gaap:RevolvingCreditFacilityMember
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+chdn:RevolverMember
+2024-12-31
+0000020212
+us-gaap:RevolvingCreditFacilityMember
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+chdn:RevolverMember
+2024-12-31
+0000020212
+us-gaap:RevolvingCreditFacilityMember
+us-gaap:FairValueInputsLevel1Member
+chdn:RevolverMember
+2024-12-31
+0000020212
+us-gaap:RevolvingCreditFacilityMember
+us-gaap:FairValueInputsLevel2Member
+chdn:RevolverMember
+2024-12-31
+0000020212
+us-gaap:RevolvingCreditFacilityMember
+us-gaap:FairValueInputsLevel3Member
+chdn:RevolverMember
+2024-12-31
+0000020212
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+chdn:SeniorNotesDue2027Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0000020212
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+chdn:SeniorNotesDue2027Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0000020212
+us-gaap:FairValueInputsLevel1Member
+chdn:SeniorNotesDue2027Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0000020212
+us-gaap:FairValueInputsLevel2Member
+chdn:SeniorNotesDue2027Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0000020212
+us-gaap:FairValueInputsLevel3Member
+chdn:SeniorNotesDue2027Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0000020212
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+chdn:SeniorNotesDue2028Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0000020212
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+chdn:SeniorNotesDue2028Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0000020212
+us-gaap:FairValueInputsLevel1Member
+chdn:SeniorNotesDue2028Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0000020212
+us-gaap:FairValueInputsLevel2Member
+chdn:SeniorNotesDue2028Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0000020212
+us-gaap:FairValueInputsLevel3Member
+chdn:SeniorNotesDue2028Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0000020212
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+chdn:SeniorNotesDue2030Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0000020212
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+chdn:SeniorNotesDue2030Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0000020212
+us-gaap:FairValueInputsLevel1Member
+chdn:SeniorNotesDue2030Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0000020212
+us-gaap:FairValueInputsLevel2Member
+chdn:SeniorNotesDue2030Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0000020212
+us-gaap:FairValueInputsLevel3Member
+chdn:SeniorNotesDue2030Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0000020212
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+chdn:SeniorNotesDue2031Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0000020212
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+chdn:SeniorNotesDue2031Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0000020212
+us-gaap:FairValueInputsLevel1Member
+chdn:SeniorNotesDue2031Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0000020212
+us-gaap:FairValueInputsLevel2Member
+chdn:SeniorNotesDue2031Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0000020212
+us-gaap:FairValueInputsLevel3Member
+chdn:SeniorNotesDue2031Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0000020212
+chdn:RiversDesPlainesMember
+2025-07-01
+2025-09-30
+0000020212
+chdn:RiversDesPlainesMember
+2024-07-01
+2024-09-30
+0000020212
+chdn:RiversDesPlainesMember
+2025-01-01
+2025-09-30
+0000020212
+chdn:RiversDesPlainesMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+2025-07-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+2024-07-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+2025-01-01
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+2024-01-01
+2024-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:LiveAndHistoricalRacingMember
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:LiveAndHistoricalRacingMember
+2024-12-31
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:WageringServicesAndSolutionsMember
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:WageringServicesAndSolutionsMember
+2024-12-31
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:GamingSegmentMember
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+chdn:GamingSegmentMember
+2024-12-31
+0000020212
+us-gaap:OperatingSegmentsMember
+2025-09-30
+0000020212
+us-gaap:OperatingSegmentsMember
+2024-12-31
+0000020212
+us-gaap:CorporateNonSegmentMember
+2025-09-30
+0000020212
+us-gaap:CorporateNonSegmentMember
+2024-12-31
+0000020212
+us-gaap:SubsequentEventMember
+2025-10-21
+2025-10-21
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION 
+WASHINGTON, D.C. 20549 
+FORM 
+10-Q
+
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended 
+September 30, 2025
+
+OR 
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from 
+
+ to
+
+Commission file number 
+001-33998
+Churchill Downs Inc
+orporated
+(Exact name of registrant as specified in its charter) 
+Kentucky
+61-0156015
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+600 North Hurstbourne Parkway, Suite 400
+Louisville,
+Kentucky
+40222
+(Address of Principal Executive Offices)
+(Zip Code)
+(
+502
+) 
+636-4400
+
+Registrant's telephone number, including area code
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, No Par Value
+CHDN
+The Nasdaq Global Select Market LLC
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.  
+Yes
+
+☒
+    No  
+☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).  
+Yes
+
+☒
+ No 
+☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company.  See definitions of "large accelerated filer," "accelerated filer," "smaller reporting company," and "emerging growth company" in Rule 12b-2 of the Exchange Act. 
+Large accelerated filer
+☒
+Accelerated filer
+☐
+Non-accelerated filer
+☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes 
+☐
+  No  
+☒
+
+The number of shares outstanding of registrant’s common stock at October 15, 2025 was 
+69,728,742
+ shares. 
+CHURCHILL DOWNS INCORPORATED 
+INDEX TO QUARTERLY REPORT ON FORM 10-Q
+For the Quarter Ended September 30, 2025
+
+Part I-FINANCIAL INFORMATION
+Item 1.
+Financial Statements (Unaudited)
+Condensed Consolidated Statements of Comprehensive Income for the 
+three and nine months ended
+
+September 30, 2025
+ and 
+2024
+3
+Condensed Consolidated Balance Sheets at 
+September 30, 2025
+ and 
+December 31, 2024
+4
+Condensed Consolidated Statements of Shareholders' Equity for the 
+three and nine months ended
+
+September 30, 2025
+ and 
+2024
+5
+Condensed Consolidated Statements of Cash Flows for the 
+nine 
+ months ended 
+September 30, 2025
+ and 
+2024
+7
+Notes to Condensed Consolidated Financial Statements
+9
+Item 2.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+29
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+40
+Item 4.
+Controls and Procedures
+41
+Part II-OTHER INFORMATION
+Item 1.
+Legal Proceedings
+42
+Item 1A.
+Risk Factors
+42
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+42
+Item 3.
+Defaults Upon Senior Securities
+42
+Item 4.
+Mine Safety Disclosures
+42
+Item 5.
+Other Information
+42
+Item 6.
+Exhibits
+43
+Signatures
+44
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+2
+PART I.    FINANCIAL INFORMATION
+ITEM 1.    FINANCIAL STATEMENTS
+CHURCHILL DOWNS INCORPORATED 
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(Unaudited)
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(in millions, except per common share data)
+2025
+2024
+2025
+2024
+Net revenue:
+Live and Historical Racing
+$
+300.0
+
+a
+$
+247.5
+
+$
+1,082.4
+
+$
+957.3
+
+Wagering Services and Solutions
+118.0
+
+111.3
+
+383.3
+
+369.6
+
+Gaming
+265.0
+
+269.7
+
+794.2
+
+783.1
+
+All Other
+—
+
+—
+
+0.1
+
+0.1
+
+Total net revenue
+683.0
+
+628.5
+
+2,260.0
+
+2,110.1
+
+Operating expense:
+Live and Historical Racing
+205.6
+
+171.3
+
+651.4
+
+549.9
+
+Wagering Services and Solutions
+77.1
+
+72.3
+
+235.1
+
+229.5
+
+Gaming
+191.1
+
+194.8
+
+574.5
+
+561.7
+
+All Other
+4.9
+
+4.5
+
+13.1
+
+10.2
+
+Selling, general and administrative expense
+59.3
+
+59.8
+
+174.7
+
+172.0
+
+Asset impairments, net
+45.1
+
+3.9
+
+47.5
+
+3.9
+
+Transaction expense, net
+1.9
+
+(
+4.0
+)
+3.4
+
+0.7
+
+Total operating expense
+585.0
+
+502.6
+
+1,699.7
+
+1,527.9
+
+Operating income
+98.0
+
+125.9
+
+560.3
+
+582.2
+
+Other (expense) income:
+Interest expense, net
+(
+75.6
+)
+(
+73.1
+)
+(
+222.1
+)
+(
+217.0
+)
+Equity in income of unconsolidated affiliates
+35.0
+
+33.4
+
+105.4
+
+108.9
+
+Miscellaneous, net
+3.8
+
+(
+0.1
+)
+5.5
+
+8.1
+
+Total other (expense) income
+(
+36.8
+)
+(
+39.8
+)
+(
+111.2
+)
+(
+100.0
+)
+Income from operations before provision for income taxes
+61.2
+
+86.1
+
+449.1
+
+482.2
+
+Income tax provision
+(
+22.0
+)
+(
+19.9
+)
+(
+115.1
+)
+(
+125.4
+)
+Net income
+39.2
+
+66.2
+
+334.0
+
+356.8
+
+Net income attributable to noncontrolling interests
+1.1
+
+0.8
+
+2.3
+
+1.7
+
+Net income attributable to Churchill Downs Incorporated
+$
+38.1
+
+$
+65.4
+
+$
+331.7
+
+$
+355.1
+
+Net income attributable to Churchill Downs Incorporated per common share data:
+Basic net income
+$
+0.54
+
+$
+0.87
+
+$
+4.59
+
+$
+4.78
+
+Diluted net income
+$
+0.54
+
+$
+0.86
+
+$
+4.55
+
+$
+4.73
+
+Weighted average shares outstanding:
+Basic
+70.3
+
+73.9
+
+71.9
+
+74.0
+
+Diluted
+71.0
+
+74.6
+
+72.5
+
+74.6
+
+The accompanying notes are an integral part of the condensed consolidated financial statements.
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+3
+CHURCHILL DOWNS INCORPORATED 
+CONDENSED CONSOLIDATED BALANCE SHEETS 
+(Unaudited)
+(in millions)
+September 30, 2025
+December 31, 2024
+ASSETS
+Current assets:
+Cash and cash equivalents
+$
+180.5
+
+$
+175.5
+
+Restricted cash
+88.0
+
+77.2
+
+Accounts receivable, net 
+89.7
+
+98.7
+
+Income taxes receivable
+—
+
+14.5
+
+Other current assets
+56.7
+
+46.4
+
+Total current assets
+414.9
+
+412.3
+
+Property and equipment, net
+2,925.5
+
+2,874.9
+
+Investment in and advances to unconsolidated affiliates
+674.9
+
+661.2
+
+Goodwill
+900.2
+
+900.2
+
+Other intangible assets, net
+2,517.8
+
+2,409.0
+
+Other assets
+21.5
+
+18.3
+
+Total assets
+$
+7,454.8
+
+$
+7,275.9
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:
+Accounts payable
+$
+194.0
+
+$
+180.3
+
+Accrued expenses and other current liabilities
+411.6
+
+402.0
+
+Income taxes payable
+28.0
+
+—
+
+Current deferred revenue
+27.8
+
+52.9
+
+Current maturities of long-term debt
+63.1
+
+63.1
+
+Dividends payable
+0.7
+
+31.0
+
+Total current liabilities
+725.2
+
+729.3
+
+Long-term debt, net of current maturities and loan origination fees
+1,963.2
+
+1,767.9
+
+Notes payable, net of debt issuance costs
+3,079.9
+
+3,076.2
+
+Non-current deferred revenue
+18.5
+
+20.0
+
+Deferred income taxes
+490.8
+
+432.7
+
+Other liabilities
+98.1
+
+146.5
+
+Total liabilities
+6,375.7
+
+6,172.6
+
+Commitments and contingencies
+Redeemable noncontrolling interest
+44.2
+
+19.7
+
+Shareholders' equity:
+Preferred stock
+—
+
+—
+
+Common stock
+—
+
+—
+
+Retained earnings
+1,035.9
+
+1,084.6
+
+Accumulated other comprehensive loss
+(
+1.0
+)
+(
+1.0
+)
+Total Churchill Downs Incorporated shareholders' equity
+1,034.9
+
+1,083.6
+
+Total liabilities and shareholders' equity
+$
+7,454.8
+
+$
+7,275.9
+
+The accompanying notes are an integral part of the condensed consolidated financial statements.
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+4
+CHURCHILL DOWNS INCORPORATED
+CONDENSED CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+(Unaudited)
+Common Stock
+Retained
+Earnings
+Accumulated Other Comprehensive Loss
+Total Shareholders' Equity
+(in millions)
+Shares
+Amount
+Balance, December 31, 2024
+73.5
+$
+—
+
+$
+1,084.6
+
+$
+(
+1.0
+)
+$
+1,083.6
+
+Net income attributable to Churchill Downs Incorporated
+76.7
+
+76.7
+
+Issuance of common stock
+0.1
+
+— 
+Repurchase of common stock
+(
+0.8
+)
+(
+1.0
+)
+(
+88.4
+)
+(
+89.4
+)
+Taxes paid related to net share settlement of stock awards
+(
+3.9
+)
+(
+3.9
+)
+Stock-based compensation
+4.9
+
+4.9
+
+Other
+(
+0.2
+)
+(
+0.2
+)
+Balance, March 31, 2025
+72.8
+—
+
+1,072.7
+
+(
+1.0
+)
+1,071.7
+
+Net income attributable to Churchill Downs Incorporated
+216.9
+
+216.9
+
+Repurchase of common stock
+(
+2.6
+)
+(
+5.3
+)
+(
+245.1
+)
+(
+250.4
+)
+Taxes paid related to net share settlement of stock awards
+(
+0.1
+)
+(
+0.1
+)
+Stock-based compensation
+5.4
+
+5.4
+
+Other
+(
+1.9
+)
+(
+1.9
+)
+Balance, June 30, 2025
+70.2
+—
+
+1,042.6
+
+(
+1.0
+)
+1,041.6
+
+Net income attributable to Churchill Downs Incorporated
+38.1
+
+38.1
+
+Issuance of common stock
+0.1
+
+5.0
+
+5.0
+
+Repurchase of common stock
+(
+0.5
+)
+(
+12.6
+)
+(
+40.9
+)
+(
+53.5
+)
+Taxes paid related to net share settlement of stock awards
+(
+0.1
+)
+(
+0.1
+)
+Stock-based compensation
+7.7
+
+7.7
+
+Other
+(
+3.9
+)
+(
+3.9
+)
+Balance, September 30, 2025
+69.8
+$
+—
+
+$
+1,035.9
+
+$
+(
+1.0
+)
+$
+1,034.9
+
+The accompanying notes are an integral part of the condensed consolidated financial statements.
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+5
+CHURCHILL DOWNS INCORPORATED
+CONDENSED CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+(Unaudited)
+Common Stock
+Retained
+Earnings
+Accumulated Other Comprehensive Loss
+Total Shareholders' Equity
+(in millions)
+Shares
+Amount
+Balance, December 31, 2023
+74.5
+
+$
+—
+
+$
+894.5
+
+$
+(
+0.9
+)
+$
+893.6
+
+Net income attributable to Churchill Downs Incorporated
+80.4
+
+80.4
+
+Issuance of common stock
+0.3
+
+— 
+Repurchase of common stock
+(
+1.2
+)
+(
+7.2
+)
+(
+138.5
+)
+(
+145.7
+)
+Taxes paid related to net share settlement of stock awards
+(
+0.1
+)
+(
+7.6
+)
+(
+7.6
+)
+Stock-based compensation
+7.2
+
+7.2
+
+Other
+(
+1.0
+)
+(
+1.0
+)
+Balance, March 31, 2024
+73.5
+
+—
+
+827.8
+
+(
+0.9
+)
+826.9
+
+Net income attributable to Churchill Downs Incorporated
+209.3
+
+209.3
+
+Repurchase of common stock
+(
+0.1
+)
+(
+8.9
+)
+(
+4.1
+)
+(
+13.0
+)
+Taxes paid related to net share settlement of stock awards
+(
+0.2
+)
+(
+0.2
+)
+Stock-based compensation
+8.9
+
+8.9
+
+Other
+(
+0.9
+)
+(
+0.1
+)
+(
+1.0
+)
+Balance, June 30, 2024
+73.4
+
+—
+
+1,031.9
+
+(
+1.0
+)
+1,030.9
+
+Net income attributable to Churchill Downs Incorporated
+65.4
+
+65.4
+
+Issuance of common stock
+0.2
+
+4.2
+
+4.2
+
+Repurchase of common stock
+(
+0.1
+)
+(
+9.0
+)
+(
+9.0
+)
+Taxes paid related to net share settlement of stock awards
+(
+0.1
+)
+(
+0.1
+)
+Stock-based compensation
+7.1
+
+7.1
+
+Other
+(
+0.5
+)
+(
+1.0
+)
+(
+1.5
+)
+Balance, September 30, 2024
+73.5
+$
+1.7
+
+$
+1,096.3
+
+$
+(
+1.0
+)
+$
+1,097.0
+
+The accompanying notes are an integral part of the condensed consolidated financial statements.
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+6
+CHURCHILL DOWNS INCORPORATED
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+(Unaudited)
+Nine Months Ended September 30,
+(in millions)
+2025
+2024
+Cash flows from operating activities:
+Net income 
+$
+334.0
+
+$
+356.8
+
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization
+173.5
+
+145.7
+
+Distributions from unconsolidated affiliates
+91.7
+
+113.8
+
+Equity in income of unconsolidated affiliates
+(
+105.4
+)
+(
+108.9
+)
+Stock-based compensation
+18.2
+
+23.2
+
+Deferred income taxes
+58.1
+
+29.6
+
+Asset impairments
+87.5
+
+3.9
+
+Gain on settlement of liability
+(
+40.0
+)
+—
+
+Amortization of operating lease assets
+4.8
+
+4.1
+
+Other
+8.0
+
+9.1
+
+Changes in operating assets and liabilities:
+Income taxes
+41.6
+
+17.1
+
+Deferred revenue
+(
+26.6
+)
+(
+38.1
+)
+Other assets and liabilities
+28.4
+
+84.8
+
+Net cash provided by operating activities
+673.8
+
+641.1
+
+Cash flows from investing activities:
+Capital maintenance expenditures
+(
+52.9
+)
+(
+49.8
+)
+Capital project expenditures
+(
+171.7
+)
+(
+367.8
+)
+Acquisition of gaming rights, net of cash acquired
+(
+185.3
+)
+—
+
+Other
+(
+11.5
+)
+1.8
+
+Net cash used in investing activities
+(
+421.4
+)
+(
+415.8
+)
+Cash flows from financing activities:
+Proceeds from borrowings under long-term debt obligations
+947.7
+
+750.4
+
+Repayments of borrowings under long-term debt obligations
+(
+753.6
+)
+(
+757.5
+)
+Payment of dividends
+(
+30.2
+)
+(
+28.7
+)
+Repurchase of common stock
+(
+395.8
+)
+(
+158.7
+)
+Taxes paid related to net share settlement of stock awards 
+(
+4.1
+)
+(
+10.6
+)
+Debt issuance costs
+(
+0.3
+)
+(
+2.5
+)
+Change in bank overdraft
+(
+1.7
+)
+(
+7.5
+)
+Other
+1.4
+
+(
+1.6
+)
+Net cash used in financing activities
+(
+236.6
+)
+(
+216.7
+)
+Cash flows from discontinued operations: 
+Operating activities of discontinued operations 
+—
+
+1.0
+
+Net increase in cash, cash equivalents and restricted cash
+15.8
+
+9.6
+
+Cash, cash equivalents and restricted cash, beginning of period
+252.7
+
+221.8
+
+Cash, cash equivalents and restricted cash, end of period
+$
+268.5
+
+$
+231.4
+
+The accompanying notes are an integral part of the condensed consolidated financial statements.
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+7
+CHURCHILL DOWNS INCORPORATED
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (Continued)
+(Unaudited)
+Nine Months Ended September 30,
+(in millions)
+2025
+2024
+Supplemental disclosures of cash flow information:
+Cash paid for interest
+$
+192.6
+
+$
+205.3
+
+Cash paid for income taxes 
+16.8
+
+81.8
+
+Cash received from income tax refunds
+1.4
+
+4.1
+
+Schedule of non-cash operating, investing and financing activities:
+Property and equipment additions included in accounts payable and accrued expenses
+$
+21.2
+
+$
+55.2
+
+Fair value of noncontrolling interest recognized in connection with asset acquisition
+20.4
+
+—
+
+Right-of-use assets obtained in exchange for lease obligations in operating leases 
+20.8
+
+4.2
+
+Right-of-use assets obtained in exchange for lease obligations in finance leases
+—
+
+3.6
+
+Repurchase of common stock included in accrued expense and other current liabilities
+0.5
+
+9.0
+
+Deferred payments for acquisition of business included in other liabilities              
+—
+
+1.2
+
+The accompanying notes are an integral part of the condensed consolidated financial statements.
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+8
+Churchill Downs Incorporated
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+1.  DESCRIPTION OF BUSINESS
+Basis of Presentation
+Churchill Downs Incorporated (the "Company" or "CDI") financial statements are presented in conformity with the requirements of this Quarterly Report on Form 10-Q and consequently do not include all of the disclosures normally required by U.S. generally accepted accounting principles ("GAAP") or those normally made in our Annual Report on Form 10-K. The December 31, 2024 Condensed Consolidated Balance Sheet data was derived from audited financial statements but does not include all disclosures required by GAAP.
+The following information is unaudited. All per share amounts assume dilution unless otherwise noted. This report should be read in conjunction with our Annual Report on Form 10-K for the year ended December 31, 2024.
+In the opinion of management, all adjustments necessary for a fair statement of this information have been made, and all such adjustments are of a normal, recurring nature.
+In August 2025, the Company completed the acquisition of 
+90
+% of the outstanding equity interests of PPE Casino Resorts NH Holdings, LLC in Salem, New Hampshire ("Casino Salem").  The Company will assume responsibility for the development of a charitable gaming, entertainment and dining destination at this location. Refer to Note 3, Acquisitions, and Note 11, Redeemable Noncontrolling Interest, for further information on the transaction.
+In April 2024, the Company closed on the sale of 
+49
+% of the United Tote Company ("United Tote"), a wholly-owned subsidiary of CDI, to NYRA Content Management Solutions, LLC ("NYRA"), a subsidiary of the New York Racing Association, Inc. Refer to Note 11, Redeemable Noncontrolling Interest, for further information on the transaction. 
+We conduct our business through 
+three
+ reportable segments: Live and Historical Racing, Wagering Services and Solutions, and Gaming. The Wagering Services and Solutions segment was previously known as the TwinSpires segment. We aggregate our other businesses as well as certain corporate operations in All Other. We report net revenue and operating expense associated with these reportable segments in the accompanying Condensed Consolidated Statements of Comprehensive Income.
+
+2.  RECENT ACCOUNTING PRONOUNCEMENTS
+Recent Accounting Pronouncements - effective in 2025 or thereafter
+In October 2023, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU") 2023-06, Disclosure Improvements: Codification Amendments in Response to the Securities and Exchange Commission’s ("SEC") Disclosure Update and Simplification Initiative, to amend certain disclosure and presentation requirements for a variety of topics within FASB's Accounting Standards Codification ("ASC"). These amendments align the requirements in the ASC regarding the removal of certain disclosure requirements set out in Regulation S-X and Regulation S-K, announced by the SEC. The effective date for each amended topic in the ASC is either the date on which the SEC’s removal of the related disclosure requirement from Regulation S-X or Regulation S-K becomes effective, or on June 30, 2027, if the SEC has not removed the requirements by that date. Early adoption is prohibited. The Company is currently evaluating the impact of this standard on the consolidated financial statements and related disclosures.
+In December 2023, the FASB issued ASU 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures. ASU 2023-09 is intended to enhance the transparency and decision usefulness of income tax disclosures. The amendments address investor requests for enhanced income tax information primarily through changes to the rate reconciliation and income taxes paid information. Early adoption is permitted. The additional disclosure requirements from this ASU will be incorporated into the Company's 2025 Annual Report on Form 10-K. The Company is currently evaluating the impact of this standard on the consolidated financial statements and related disclosures.
+In November 2024, FASB issued ASU 2024-03, Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses. Under ASU 2024-03, a public entity would be required to disclose information about purchases of inventory, employee compensation, depreciation, intangible asset amortization, and depletion for each income statement line item that contains those expenses. This standard is effective for annual reporting periods beginning after December 15, 2026 and interim reporting periods beginning after December 15, 2027. Early adoption is permitted. The Company is currently evaluating the impact of this standard on the consolidated financial statements and related disclosures.
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+9
+Churchill Downs Incorporated
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+3.  ACQUISITIONS
+Casino Salem
+On August 27, 2025, the Company completed its acquisition of 
+90
+% of Casino Salem (the "Salem Transaction"), which was treated as an asset acquisition because substantially all the value of the gross assets acquired was concentrated in the gaming rights. In conjunction with the acquisition, the Company recorded a $
+196.6
+ million indefinite-lived gaming rights intangible, which represented the fair value of the gaming rights at the date of acquisition. 
+The fair value of the gaming rights acquired in the transaction was determined using the Greenfield Method, which is an income approach methodology that calculates the present value of the gaming rights intangible asset based on a projected cash flow stream. This method assumes that the gaming rights intangible asset provides the opportunity to develop a gaming facility in a specified region, and that the present value of the projected cashflows is a result of the realization of advantages contained in these rights. Under this methodology, the acquirer is expected to absorb all start-up costs, as well as incur all expenses pertaining to the acquisition and/or the creation of all tangible and intangible assets. The estimated future revenue, future operating expenses, start-up costs, and discount rate were the primary inputs in the valuation. The gaming rights intangible asset was assigned an indefinite useful life based on the Company's expected use of the asset and determination that no legal, regulatory, contractual, competitive, economic, or other factors limit the useful life of the gaming rights.
+The Company has not included other disclosures regarding the Salem Transaction because the acquisition is immaterial to our business.
+4.  GOODWILL AND OTHER INTANGIBLE ASSETS
+Goodwill was $
+900.2
+ million as of September 30, 2025 and December 31, 2024.
+We performed our annual goodwill impairment analysis as of April 1, 2025, and no adjustment to the carrying value of goodwill was required. We assessed goodwill for impairment by performing qualitative or quantitative analyses for each reporting unit. We concluded that the fair values of our reporting units exceeded their carrying values, and therefore no impairments were identified.
+Other intangible assets are comprised of the following:
+September 30, 2025
+December 31, 2024
+(in millions)
+Gross Carrying Amount
+Accumulated Amortization
+Net Carrying Amount
+Gross Carrying Amount
+Accumulated Amortization
+Net Carrying Amount
+Definite-lived intangible assets
+$
+95.9
+
+$
+(
+39.7
+)
+$
+56.2
+
+$
+95.9
+
+$
+(
+34.2
+)
+$
+61.7
+
+Indefinite-lived intangible assets
+2,461.6
+
+2,347.3
+
+Total
+$
+2,517.8
+
+$
+2,409.0
+
+The Company is continuing to monitor the current economic conditions and the impacts on the results of operations of Presque Isle Downs and Casino due to historical impairments recorded in prior periods related to the gaming rights and trademark. Future economic conditions could have a negative impact on the estimates and assumptions utilized in our asset impairment assessments. These potential impacts could increase the risk of a future impairment of assets at Presque Isle. 
+We performed our annual indefinite-lived intangible assets impairment analysis as of April 1, 2025. We assessed our indefinite-lived intangible assets for impairment by performing qualitative or quantitative analyses for each asset. Based on the results of these analyses, no indefinite-lived intangible asset impairments were identified in connection with our annual impairment testing.
+Chasers Poker Room Impairment
+During the third quarter of 2025, the Company concluded that the completion of the Salem Transaction qualifies as a trigger event for impairment testing related to the Chasers Poker Room ("Chasers") indefinite-lived gaming rights intangible. At the time the Company acquired Chasers, the valuation of the gaming rights contemplated a future expansion of the existing operations in Salem, New Hampshire.  Given the completion of the Salem Transaction, the Company now intends to build Casino Salem and currently does not plan to expand Chasers.  
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+10
+Churchill Downs Incorporated
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+Because the Company does not currently intend to expand Chasers, the Company settled an outstanding liability owed to the former owners of Chasers, related to the Chasers' gaming rights, in the amount of $
+10.0
+ million.  The settlement of the noncurrent liability resulted in a gain of $
+40.0
+ million in the third quarter of 2025. 
+Given the completion of the Salem Transaction and the settlement of the liability related to the Chasers' gaming rights, the Company evaluated and subsequently updated the projected cash flows and discount rate related to the Chasers' gaming rights. The fair value of the Chasers' gaming rights intangible was determined using the Greenfield Method, an income approach methodology that calculates the present value based on a projected cash flow stream. This method assumes that the gaming rights intangible assets provide the opportunity to develop a casino or historical racing facility in a specified region, and that the present value of the projected cash flows are a result of the realization of advantages contained in these rights. Under this methodology, the acquirer is expected to absorb all start-up costs, as well as incur all expenses pertaining to the acquisition and/or the creation of all tangible and intangible assets. The estimated future revenue and operating expenses, start-up costs, and discount rates were the primary assumptions and estimates in the valuation of the gaming rights intangible. As a result of this assessment, the Company recognized a non-cash impairment charge of $
+85.1
+ million in the third quarter of 2025 for the entire value of the Chasers' gaming rights, which are included in the Live and Historical Racing segment. 
+The $
+40.0
+ million gain on settlement of the noncurrent liability and the $
+85.1
+ million impairment charge of the gaming rights intangible  are included in Asset impairments, net in the Condensed Consolidated Statements of Comprehensive Income.
+
+5.  INCOME TAXES
+The Company’s effective income tax rate was 
+35.9
+% for the three months ended September 30, 2025, and was higher than the U.S. federal statutory rate of 21.0% primarily resulting from state income taxes, increased future tax expenses from the remeasurement of deferred income tax liabilities related to New Hampshire and the acquisition of Casino Salem, and non-deductible officer’s compensation, partially offset by the excess tax benefit from restricted stock compensation distributed in the third quarter of 2025. The Company’s effective income tax rate of 
+25.6
+% for the nine months ended September 30, 2025, and was higher than the U.S. federal statutory rate of 21.0% primarily resulting from state income taxes and non-deductible officer’s compensation.
+On July 4, 2025, the United States enacted H.R. 1, a new federal tax and spending bill. Many of the tax provisions included in the bill are retroactive and will have a significant favorable impact on the Company’s current tax expense, primarily due to the permanent reinstatements of 100% bonus depreciation rules and a 30% of EBITDA-based interest expense deduction limitation. As a result of this change, the Company will begin utilizing the $
+91.2
+ million deferred tax asset related to interest expense previously subject to limitation. The expected reduction in cash paid taxes as a result of these new tax provisions will increase cash flow from operating activities.
+The Company’s effective income tax rate was 
+23.1
+% for the three months ended September 30, 2024, and was higher than the U.S. federal statutory rate of 21.0% primarily resulting from state income taxes, non-deductible officer’s compensation and other non-deductible expense, partially offset by the excess tax benefit from the payment of restricted stock compensation and the tax benefit from the expiration of the statute of limitations for certain unrecognized tax benefits. The Company’s effective income tax rate was 
+26.0
+% for the nine months ended September 30, 2024, and was higher than the U.S. federal statutory rate of 21.0% primarily resulting from state income taxes and non-deductible officer’s compensation.
+6.  SHAREHOLDERS' EQUITY
+Stock Repurchase Programs
+On July 22, 2025, the Board of Directors of the Company approved a common stock repurchase program of up to $
+500.0
+ million (the "July 2025 Stock Repurchase Program"). The July 2025 Stock Repurchase Program includes and is not in addition to the $
+169.2
+ million previously remaining under the March 2025 Stock Repurchase Program. Share repurchases may be made at management’s discretion from time to time in the open market (either with or without a 10b5-1 plan) or through privately negotiated transactions. The repurchase program has no time limit and may be suspended or discontinued at any time. We had approximately $
+461.5
+ million of repurchase authority remaining under the July 2025 Stock Repurchase Program at September 30, 2025, based on trade date.  
+On March 12, 2025, the Board of Directors of the Company approved a new common stock repurchase program of up to $
+500.0
+ million (the "March 2025 Stock Repurchase Program"). The March 2025 Stock Repurchase Program included and was not in addition to the $
+125.6
+ million remaining under the 2021 Stock Repurchase Program. As described above, the March 2025 Stock Repurchase Program has since been replaced by the July 2025 Stock Repurchase Program.
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+11
+Churchill Downs Incorporated
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+During the three and nine months ended  September 30, 2025 and 2024, we repurchased the following shares under our stock repurchase programs:
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(in millions, except share data)
+2025
+2024
+2025
+2024
+Repurchase Program 
+Shares
+Aggregate Purchase Price
+Shares
+Aggregate Purchase Price
+Shares
+Aggregate Purchase Price
+Shares
+Aggregate Purchase Price
+July 2025 Stock Repurchase Program
+373,282
+
+$
+38.5
+
+—
+
+$
+—
+
+373,282
+
+$
+38.5
+
+—
+
+$
+—
+
+March 2025 Stock Repurchase Program
+142,245
+
+15.0
+
+—
+
+—
+
+3,294,447
+
+330.8
+
+—
+
+—
+
+2021 Stock Repurchase Program 
+—
+
+—
+
+67,139
+
+9.0
+
+212,012
+
+24.0
+
+345,834
+
+43.9
+
+Total
+515,527
+
+$
+53.5
+
+67,139
+
+$
+9.0
+
+3,879,741
+
+$
+393.3
+
+345,834
+
+$
+43.9
+
+The Duchossois Group Share Repurchase
+On January 2, 2024, the Company closed on an agreement, dated December 18, 2023, with an affiliate of The Duchossois Group ("TDG") to repurchase 
+1,000,000
+ shares of the Company’s common stock, for $
+123.75
+ per share in a privately negotiated transaction for an aggregate purchase price of $
+123.8
+ million. This represented a discount of 
+4.03
+% to the closing price on December 15, 2023, of $
+128.95
+. The repurchase of shares of common stock from TDG was approved by the Company's Board of Directors separately from and did not reduce the authorized amount remaining under any existing common stock repurchase programs. The repurchase of the shares was funded using available cash and borrowings under the Company’s senior secured credit facility.
+As of September 30, 2025 and December 31, 2024, we 
+had 
+$
+0.5
+ million
+ and $
+3.0
+ million, respectively, accrued for the future cash settlement of executed repurchases of our common stock.
+7.  STOCK-BASED COMPENSATION PLANS 
+On February 18, 2025, our Board of Directors approved the replacement of the Churchill Downs Incorporated 2016 Omnibus Stock Incentive Plan (the "2016 Plan") with a new plan, the Churchill Downs Incorporated 2025 Omnibus Stock and Incentive Plan (the "2025 Plan"). The 2025 Plan was approved by shareholders at the Company's 2025 Annual Meeting of Shareholders held on April 22, 2025, and no further awards will be granted under the 2016 Plan. We have stock-based employee compensation plans with awards outstanding under the 2016 Plan, the 2025 Plan, and the Executive Long-Term Incentive Compensation Plan, which was adopted pursuant to the 2016 Plan. Our total stock-based compensation expense, which includes expenses related to restricted stock awards ("RSAs"), restricted stock unit awards ("RSUs"), performance share unit awards ("PSUs"), and stock options associated with our employee stock purchase plan was $
+7.4
+ million and $
+18.2
+ million for the three months and nine months ended September 30, 2025 and $
+7.1
+ million and $
+23.2
+ million for the three months and nine months ended September 30, 2024, respectively. At September 30, 2025 and December 31, 2024, the Company had $
+9.0
+ million and $
+25.0
+ million, respectively, recorded as liability-classified awards, which are included in accrued expense and other liabilities in the accompanying Condensed Consolidated Balance Sheets.
+During the nine months ended September 30, 2025, the Company awarded RSUs to employees, as well as RSUs and PSUs to certain named executive officers ("NEOs"), and RSAs and RSUs to directors. The vesting criteria for the PSU awards granted in 2025 were based on a 
+three-year
+ service period with 
+two
+ performance conditions and a market condition related to relative total shareholder return ("TSR") consistent with prior year grants. The total compensation cost we will recognize under the PSUs is determined using the Monte Carlo valuation methodology, which factors in the value of the TSR market condition when determining the grant date fair value of the PSU. Compensation cost for each PSU is recognized during the performance and service period based on the probable achievement of the 
+two
+ performance criteria. The PSUs can be converted into shares of our common stock at the time the PSU award value is finalized. 
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+12
+Churchill Downs Incorporated
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+A summary of the RSAs, RSUs and PSUs granted during 2025 is presented below (units in thousands):
+Grant Year
+Award Type
+Number of Units Awarded
+(1)
+Vesting Terms
+2025
+RSU
+161
+Vest equally over 
+three
+ service periods ending in 2027
+2025
+PSU
+87
+Three
+-year performance and service period ending in 2027
+2025
+RSU
+12
+One
+-year service period ending in 2025
+2025
+RSA
+2
+One
+-year service period ending in 2025
+(1) 
+PSUs reflect the target number of units for the original PSU grant.
+8.  DEBT
+The following table presents our total debt outstanding:
+(in millions)
+September 30, 2025
+December 31, 2024
+Term Loan B-1 due 2028
+$
+286.5
+
+$
+288.8
+
+Term Loan A due 2029
+1,127.3
+
+1,172.4
+
+Revolver
+619.0
+
+377.5
+
+2027 Senior Notes
+600.0
+
+600.0
+
+2028 Senior Notes
+700.0
+
+700.0
+
+2030 Senior Notes
+1,200.0
+
+1,200.0
+
+2031 Senior Notes
+600.0
+
+600.0
+
+Total debt
+5,132.8
+
+4,938.7
+
+Current maturities of long-term debt
+(
+63.1
+)
+(
+63.1
+)
+  Unamortized premium and deferred finance charges
+(
+26.6
+)
+(
+31.5
+)
+Total debt, net of current maturities and costs
+$
+5,043.1
+
+$
+4,844.1
+
+Credit Agreement
+At September 30, 2025, the Company’s senior secured credit facility (as amended from time to time, the "Credit Agreement") consisted of a $
+1.2
+ billion revolving credit facility (the "Revolver"), $
+286.5
+ million senior secured term loan B-1 (the "Term Loan B-1"), $
+1.1
+ billion senior secured term loan A (the "Term Loan A"), and $
+100.0
+ million swing line commitment. On July 3, 2024, the Company closed an amendment of the Credit Agreement to (i) extend the maturity date of the Revolver and Term Loan A from 2027 to 2029 subject to an earlier "springing maturity" if certain indebtedness in respect of outstanding notes or other material indebtedness having a maturity date prior to July 3, 2029, is not refinanced or extended to a date after July 3, 2029, at least 91 days prior to such other debt’s stated maturity date, and (ii) amend certain other provisions of the Credit Agreement.
+On February 14, 2025, the Company announced that it closed the seventh amendment of the Credit Agreement. The seventh amendment to the Credit Agreement (i) reduced the interest rate margin applicable to the Term Loan B-1 by 
+0.25
+% from Secured Overnight Financing Rate ("SOFR") plus 
+200
+ basis points to SOFR plus 
+175
+ basis points, (ii) eliminated the 
+0.10
+% credit spread adjustment previously applicable to the Term Loan B-1, and (iii) made certain other amendments to the Credit Agreement. 
+The Term Loan B-1 requires quarterly payments of 
+0.25
+% of the original $
+300.0
+ million balance and may be subject to additional mandatory prepayment from excess cash flow on an annual basis per the provisions of the Credit Agreement.
+The Revolver and Term Loan A bear interest at SOFR plus 
+10
+ basis points, plus a variable applicable margin which is determined by the Company's net leverage ratio. As of September 30, 2025, that applicable margin was 
+150
+ basis points which was based on the pricing grid in the Credit Agreement. The Company had $
+572.8
+ million available borrowing capacity, after consideration of $
+8.2
+ million in outstanding letters of credit, under the Revolver as of September 30, 2025.
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+13
+Churchill Downs Incorporated
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+The Company is required to pay a commitment fee on the unused portion of the Revolver as determined by a pricing grid based on the consolidated total net secured leverage ratio of the Company. For the period ended September 30, 2025, the Company's commitment fee rate was 
+0.25
+%.
+2027 Senior Notes
+As of September 30, 2025, we had $
+600.0
+ million in aggregate principal amount of 
+5.500
+% senior unsecured notes that mature on April 1, 2027 (the "2027 Senior Notes"). The 2027 Senior Notes were issued at par in a private offering to qualified institutional buyers, with interest payable in arrears on April 1st and October 1st of each year, commencing on October 1st, 2019. The Company may redeem some or all of the 2027 Senior Notes at redemption prices set forth in the Indenture.
+2028 Senior Notes
+As of September 30, 2025, we had a total of $
+700.0
+ million in aggregate principal amount of 
+4.750
+% senior unsecured notes (the "2028 Senior Notes") maturing on January 15, 2028. The 2028 Senior Notes consist of $
+500.0
+ million notes issued at par and $
+200.0
+ million notes issued at 
+103.25
+%. The 2028 Senior Notes were issued in a private offering to qualified institutional buyers, with interest payable in arrears on January 15th and July 15th of each year, commencing on July 15th, 2018. The 
+3.25
+% premium is being amortized through interest expense, net over the term of the notes. The Company may redeem some or all the 2028 Senior Notes at redemption prices set forth in the Indenture.
+2030 Senior Notes
+As of September 30, 2025, we had $
+1.2
+ billion in aggregate principal amount of 
+5.750
+% senior unsecured notes that mature on April 13, 2030 (the "2030 Senior Notes"). The 2030 Senior Notes were issued at par in a private offering to qualified institutional buyers, with interest payable in arrears on April 1st and October 1st of each year, commencing on October 1st, 2022. The Company may redeem some or all the 2030 Senior Notes at redemption prices set forth in the Indenture.
+2031 Senior Notes 
+As of September 30, 2025, we had $
+600.0
+ million in aggregate principal amount of 
+6.750
+% senior unsecured notes that mature on April 25, 2031 (the "2031 Senior Notes"). The 2031 Senior Notes were issued at par in a private offering to qualified institutional buyers, with interest payable in arrears on May 1st and November 1st of each year, commencing on November 1st, 2023. The Company may redeem some or all of the 2031 Senior Notes at redemption prices set forth in the Indenture.
+9.  REVENUE FROM CONTRACTS WITH CUSTOMERS
+Performance Obligations
+As of September 30, 2025, our Live and Historical Racing segment had remaining performance obligations on contracts with a duration greater than one year relating to television rights, sponsorships, personal seat licenses, and admissions, with an aggregate transaction price of $
+247.1
+ million. The revenue we expect to recognize on these remaining performance obligations is $
+1.2
+ million for the remainder of 2025, $
+70.6
+ million in 2026, $
+55.6
+ million in 2027, and the remainder thereafter.
+As of September 30, 2025, our remaining performance obligations on contracts with a duration greater than one year in segments other than Live and Historical Racing were not material.
+Contract Assets and Contract Liabilities
+As of September 30, 2025 and December 31, 2024, contract assets were not material. 
+As of September 30, 2025 and December 31, 2024, contract liabilities were $
+55.7
+ million and $
+81.5
+ million, respectively, which are included in current deferred revenue, non-current deferred revenue, and accrued expense in the accompanying Condensed Consolidated Balance Sheets. Contract liabilities primarily relate to the Live and Historical Racing segment and the decrease was primarily due to the recognition of previously deferred revenue related to the 151st Kentucky Derby. We recognized $
+2.2
+ million and $
+56.1
+ million of revenue during the three months and nine months ended September 30, 2025, respectively, which was included in the contract liabilities balance at December 31, 2024. We recognized $
+1.1
+ million and $
+74.1
+ million of revenue during the three months and nine months ended September 30, 2024, respectively, which was included in the contract liabilities balance at December 31, 2023. 
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+14
+Churchill Downs Incorporated
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+Disaggregation of Revenue
+The Company has included its disaggregated revenue disclosures as follows:  
+•
+For the Live and Historical Racing segment, revenue is disaggregated between Churchill Downs Racetrack and historical racing properties given that Churchill Downs Racetrack revenue primarily revolves around live racing events, while our other Live and Historical Racing properties' revenues primarily revolve around historical racing. This segment is also disaggregated by location given the geographic economic factors that affect the revenue of service offerings. Within the Live and Historical Racing segment, revenue is further disaggregated between live and simulcast racing, historical racing, racing event-related services, gaming, and other services.
+•    For the Wagering Services and Solutions segment, revenue is disaggregated between live and simulcast racing, gaming, and other services.
+•    For the Gaming segment, revenue is disaggregated by location given the geographic economic factors that affect the revenue of Gaming service offerings. Within the Gaming segment, revenue is further disaggregated between live and simulcast racing, historical racing, racing event-related services, gaming, and other services.
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+15
+Churchill Downs Incorporated
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+We believe that these disclosures depict how the amount, nature, timing, and uncertainty of cash flows are affected by economic factors. 
+The tables below present net revenue from external customers and intercompany revenue from each of our segments:
+
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(in millions)
+2025
+2024
+2025
+2024
+Net revenue from external customers:
+Live and Historical Racing:
+Churchill Downs Racetrack
+$
+11.9
+
+$
+11.7
+
+$
+243.0
+
+$
+242.8
+
+Louisville
+53.9
+
+50.3
+
+163.3
+
+157.1
+
+Northern Kentucky
+26.4
+
+23.4
+
+84.3
+
+73.9
+
+Southwestern Kentucky
+41.6
+
+39.3
+
+125.5
+
+118.1
+
+Western Kentucky
+21.8
+
+9.8
+
+50.2
+
+22.7
+
+Virginia
+139.7
+
+110.0
+
+405.0
+
+333.1
+
+New Hampshire
+4.7
+
+3.0
+
+11.1
+
+9.6
+
+Total Live and Historical Racing
+$
+300.0
+
+$
+247.5
+
+$
+1,082.4
+
+$
+957.3
+
+Wagering Services and Solutions:
+$
+118.0
+
+$
+111.3
+
+$
+383.3
+
+$
+369.6
+
+Gaming:
+Florida
+$
+23.4
+
+$
+23.8
+
+$
+74.0
+
+$
+76.4
+
+Iowa
+23.7
+
+22.9
+
+70.9
+
+69.8
+
+Indiana
+33.3
+
+32.4
+
+97.5
+
+66.3
+
+Louisiana
+26.1
+
+32.0
+
+102.6
+
+113.4
+
+Maine
+28.9
+
+27.7
+
+80.9
+
+81.3
+
+Maryland
+30.5
+
+31.5
+
+76.9
+
+79.3
+
+Mississippi
+22.3
+
+23.6
+
+71.4
+
+74.1
+
+New York
+48.0
+
+46.8
+
+139.0
+
+138.3
+
+Pennsylvania
+28.8
+
+29.0
+
+81.0
+
+84.2
+
+Total Gaming
+$
+265.0
+
+$
+269.7
+
+$
+794.2
+
+$
+783.1
+
+All Other
+—
+
+—
+
+0.1
+
+0.1
+
+Net revenue from external customers
+$
+683.0
+
+$
+628.5
+
+$
+2,260.0
+
+$
+2,110.1
+
+Intercompany net revenues:
+Live and Historical Racing
+$
+5.7
+
+$
+4.9
+
+$
+40.6
+
+$
+34.2
+
+Wagering Services and Solutions
+9.2
+
+7.4
+
+28.1
+
+23.1
+
+Gaming
+0.5
+
+0.6
+
+4.8
+
+4.8
+
+All Other
+2.2
+
+2.6
+
+6.4
+
+4.4
+
+Eliminations
+(
+17.6
+)
+(
+15.5
+)
+(
+79.9
+)
+(
+66.5
+)
+Intercompany net revenue
+$
+—
+
+$
+—
+
+$
+—
+
+$
+—
+
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+16
+Churchill Downs Incorporated
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+Three Months Ended September 30, 2025
+(in millions)
+Live and Historical Racing
+Wagering Services and Solutions
+Gaming
+Total Segments
+All Other
+Total
+Net revenue from external customers
+Pari-mutuel:
+Live and simulcast racing
+$
+16.4
+
+$
+86.7
+
+$
+5.0
+
+$
+108.1
+
+$
+—
+
+$
+108.1
+
+Historical racing
+(a)
+252.6
+
+—
+
+—
+
+252.6
+
+—
+
+252.6
+
+Racing event-related services
+4.1
+
+—
+
+0.1
+
+4.2
+
+—
+
+4.2
+
+Gaming
+(a)
+3.4
+
+4.7
+
+230.3
+
+238.4
+
+—
+
+238.4
+
+Other
+(a)
+23.5
+
+26.6
+
+29.6
+
+79.7
+
+—
+
+79.7
+
+Total
+$
+300.0
+
+$
+118.0
+
+$
+265.0
+
+$
+683.0
+
+$
+—
+
+$
+683.0
+
+Three Months Ended September 30, 2024
+(in millions)
+Live and Historical Racing
+Wagering Services and Solutions
+Gaming
+Total Segments
+All Other
+Total
+Net revenue from external customers
+Pari-mutuel:
+Live and simulcast racing
+$
+15.2
+
+$
+82.7
+
+$
+5.0
+
+$
+102.9
+
+$
+—
+
+$
+102.9
+
+Historical racing
+(a)
+205.9
+
+—
+
+9.3
+
+215.2
+
+—
+
+215.2
+
+Racing event-related services
+5.0
+
+—
+
+1.4
+
+6.4
+
+—
+
+6.4
+
+Gaming
+(a)
+3.1
+
+4.4
+
+224.3
+
+231.8
+
+—
+
+231.8
+
+Other
+(a)
+18.3
+
+24.2
+
+29.7
+
+72.2
+
+—
+
+72.2
+
+Total
+$
+247.5
+
+$
+111.3
+
+$
+269.7
+
+$
+628.5
+
+$
+—
+
+$
+628.5
+
+(a)     Food and beverage, hotel, and other services furnished to customers for free as an inducement to wager or through the redemption of our customers' loyalty points are recorded at the estimated standalone selling prices in other revenue with a corresponding offset recorded as a reduction in historical racing pari-mutuel revenue for HRMs or gaming revenue for our casino properties. These amounts were $
+15.2
+ million for the three months ended September 30, 2025 and $
+14.2
+ million for the three months ended September 30, 2024.
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+17
+Churchill Downs Incorporated
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+
+Nine Months Ended September 30, 2025
+(in millions)
+Live and Historical Racing
+Wagering Services and Solutions
+Gaming
+Total Segments
+All Other
+Total
+Net revenue from external customers
+Pari-mutuel:
+Live and simulcast racing
+$
+81.2
+
+$
+292.1
+
+$
+20.0
+
+$
+393.3
+
+$
+—
+
+$
+393.3
+
+Historical racing
+(a)
+741.5
+
+—
+
+13.7
+
+755.2
+
+—
+
+755.2
+
+Racing event-related services
+177.8
+
+—
+
+1.0
+
+178.8
+
+—
+
+178.8
+
+Gaming
+(a)
+9.7
+
+12.6
+
+669.8
+
+692.1
+
+—
+
+692.1
+
+Other
+(a)
+72.2
+
+78.6
+
+89.7
+
+240.5
+
+0.1
+
+240.6
+
+Total
+$
+1,082.4
+
+$
+383.3
+
+$
+794.2
+
+$
+2,259.9
+
+$
+0.1
+
+$
+2,260.0
+
+Nine Months Ended September 30, 2024
+(in millions)
+Live and Historical Racing
+Wagering Services and Solutions
+Gaming
+Total Segments
+All Other
+Total
+Net revenue from external customers
+Pari-mutuel:
+Live and simulcast racing
+$
+76.6
+
+$
+277.9
+
+$
+20.1
+
+$
+374.6
+
+$
+—
+
+$
+374.6
+
+Historical racing
+(a)
+630.1
+
+—
+
+27.4
+
+657.5
+
+—
+
+657.5
+
+Racing event-related services
+182.1
+
+—
+
+5.0
+
+187.1
+
+—
+
+187.1
+
+Gaming
+(a)
+9.5
+
+14.4
+
+645.5
+
+669.4
+
+—
+
+669.4
+
+Other
+(a)
+59.0
+
+77.3
+
+85.1
+
+221.4
+
+0.1
+
+221.5
+
+Total
+$
+957.3
+
+$
+369.6
+
+$
+783.1
+
+$
+2,110.0
+
+$
+0.1
+
+$
+2,110.1
+
+(a)     Food and beverage, hotel, and other services furnished to customers for free as an inducement to wager or through the redemption of our customers' loyalty points are recorded at the estimated standalone selling prices in other revenue with a corresponding offset recorded as a reduction in historical racing pari-mutuel revenue for HRMs or gaming revenue for our casino properties. These amounts were $
+45.2
+ million for the nine months ended September 30, 2025 and $
+41.7
+ million for the nine months ended September 30, 2024.
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+18
+Churchill Downs Incorporated
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+10.  SUPPLEMENTAL BALANCE SHEET INFORMATION
+Accounts receivable, net
+Accounts receivable is comprised of the following:
+(in millions)
+September 30, 2025
+December 31, 2024
+Trade receivables
+$
+36.0
+
+$
+37.3
+
+Simulcast and online wagering receivables
+35.3
+
+40.2
+
+Other receivables
+25.1
+
+26.1
+
+96.4
+
+103.6
+
+Allowance for credit losses
+(
+6.7
+)
+(
+4.9
+)
+    Total
+$
+89.7
+
+$
+98.7
+
+Other current assets 
+Other current assets is comprised of the following:
+(in millions)
+September 30, 2025
+December 31, 2024
+Inventory
+$
+12.4
+
+$
+11.6
+
+Prepaid technology costs
+8.5
+
+6.4
+
+Prepaid insurance and taxes
+13.9
+
+7.7
+
+Other prepaid costs
+19.3
+
+16.0
+
+Insurance deposits and other
+2.6
+
+4.7
+
+Total
+$
+56.7
+
+$
+46.4
+
+Accrued expenses and other current liabilities
+Accrued expenses and other current liabilities consisted of the following:
+(in millions)
+September 30, 2025
+December 31, 2024
+Account wagering deposits liability
+$
+66.2
+
+$
+63.1
+
+Accrued salaries and related benefits
+48.7
+
+57.7
+
+Purses payable
+38.3
+
+35.4
+
+Accrued interest
+75.3
+
+48.2
+
+Accrued fixed assets
+19.6
+
+42.7
+
+Accrued gaming liabilities
+35.7
+
+35.3
+
+Accrued insurance
+13.4
+
+13.1
+
+Accrued property taxes
+18.1
+
+9.7
+
+Current lease liabilities
+8.7
+
+8.7
+
+Other
+87.6
+
+88.1
+
+Total
+$
+411.6
+
+$
+402.0
+
+11.  REDEEMABLE NONCONTROLLING INTEREST
+In April 2024, the Company closed on the sale of 
+49
+% of United Tote, a wholly-owned subsidiary of CDI, to NYRA. NYRA's interest includes certain embedded redemption features, such as a put right, that are not exclusively within the Company’s control. NYRA's interest is treated as redeemable noncontrolling interest and is presented outside of permanent equity on the Company’s Condensed Consolidated Balance Sheets.
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+19
+Churchill Downs Incorporated
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+In August 2025, the Company closed on the purchase of 
+90
+% of Casino Salem, a joint venture with SL Salem, LLC and JPF Casino Enterprises, LLC (collectively, the "Casino Salem Minority Interest Holders"). The Casino Salem Minority Interest Holders' interests include certain embedded redemption features, such as put rights, that are not exclusively within the Company’s control. The Casino Salem Minority Interest Holders' interests are treated as redeemable noncontrolling interest and are not included in the permanent equity on the Company’s Condensed Consolidated Balance Sheets.
+The redeemable noncontrolling interest is initially accounted for at fair value and subsequently adjusted to the greater of the redemption value or the carrying value. Redeemable noncontrolling interest adjustments of carrying value to redemption value are reflected in retained earnings and are also included as an adjustment to income available to the Company’s shareholders in the calculation of earnings per share (See Note 15, Net Income Per Common Share Computations). 
+The table below depicts changes in the Company’s redeemable noncontrolling interest balance.
+(in millions)
+Balance, December 31, 2023
+$
+—
+
+Redeemable noncontrolling interest initial measurement
+14.4
+
+Net income attributable to redeemable noncontrolling interest
+2.3
+
+Redemption value adjustment
+3.0
+
+Balance, December 31, 2024
+19.7
+
+Redeemable noncontrolling interest initial measurement
+20.4
+
+Net income attributable to redeemable noncontrolling interests
+2.3
+
+Redemption value adjustment
+1.8
+
+Balance, September 30, 2025
+$
+44.2
+
+12.  INVESTMENTS IN AND ADVANCES TO UNCONSOLIDATED AFFILIATES
+
+Investments in and advances to unconsolidated affiliates as of September 30, 2025 and December 31, 2024, primarily consisted of interests in Rivers Casino Des Plaines ("Rivers Des Plaines") and Miami Valley Gaming and Racing ("MVG").
+Rivers Casino Des Plaines  
+The ownership of Rivers Des Plaines is comprised of the following: (1) the Company owns 
+61.3
+%, (2) High Plaines Gaming, LLC ("High Plaines"), an affiliate of Rush Street Gaming, LLC, owns 
+36.0
+%, and (3) Casino Investors, LLC owns 
+2.7
+%. Both the Company and High Plaines have participating rights over Rivers Des Plaines, and both must consent to certain operating, investing and financing decisions. As a result, we account for Rivers Des Plaines using the equity method. 
+As of 
+September 30, 2025
+, the net aggregate basis difference between the Company’s investment in Rivers Des Plaines and the amounts of the underlying equity in net assets 
+was $
+833.1
+ million.
+Our investment in Rivers Des Plaines was $
+561.0
+ million and $
+547.1
+ million as of September 30, 2025 and December 31, 2024, respectively. The Company received distributions from Rivers Des Plaines of $
+56.7
+ million and $
+78.8
+ million for the nine months ended September 30, 2025 and 2024, respectively.
+Miami Valley Gaming and Racing
+The Company owns a 
+50
+% interest in MVG and Delaware North Companies Gaming & Entertainment Inc. ("DNC") owns the remaining 
+50
+% interest in MVG. Since both the Company and DNC have participating rights over MVG, and both must consent to certain operating, investing and financing decisions, we account for MVG using the equity method.
+Our investment in MVG was $
+113.9
+ million and $
+114.1
+ million as of September 30, 2025 and December 31, 2024, respectively. The Company received distributions from MVG of $
+35.0
+ million in each of the nine month periods ended September 30, 2025 and 2024.
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+20
+Churchill Downs Incorporated
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+Summarized Financial Results for our Unconsolidated Affiliates
+Summarized below are the financial results for our unconsolidated affiliates. 
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(in millions)
+2025
+2024
+2025
+2024
+Net revenue
+$
+210.6
+
+$
+208.4
+
+$
+631.9
+
+$
+641.2
+
+Operating and SG&A expense
+133.2
+
+132.2
+
+398.3
+
+399.3
+
+Depreciation and amortization
+5.8
+
+6.8
+
+17.9
+
+20.1
+
+Operating income
+71.6
+
+69.4
+
+215.7
+
+221.8
+
+Interest and other, net
+(
+10.3
+)
+(
+11.1
+)
+(
+31.2
+)
+(
+33.5
+)
+Net income
+$
+61.3
+
+$
+58.3
+
+$
+184.5
+
+$
+188.3
+
+(in millions)
+September 30, 2025
+December 31, 2024
+Assets
+Current assets
+$
+106.9
+
+$
+100.5
+
+Property and equipment, net
+319.4
+
+325.6
+
+Other assets, net
+265.3
+
+267.5
+
+Total assets
+$
+691.6
+
+$
+693.6
+
+Liabilities and Members' Deficit
+Current liabilities
+$
+114.6
+
+$
+89.9
+
+Long-term debt
+794.1
+
+839.8
+
+Other liabilities
+0.5
+
+1.7
+
+Members' deficit
+(
+217.6
+)
+(
+237.8
+)
+Total liabilities and members' deficit
+$
+691.6
+
+$
+693.6
+
+13.  FAIR VALUE OF ASSETS AND LIABILITIES
+We endeavor to utilize the best available information in measuring fair value. Financial assets and liabilities are classified based on the lowest level of input that is significant to the fair value measurement. The following methods and assumptions are used to estimate the fair value of each class of financial instruments for which it is practicable to estimate.
+Restricted Cash
+Our restricted cash accounts held in money market and interest-bearing accounts qualify for Level 1 in the fair value hierarchy, which includes unadjusted quoted market prices in active markets for identical assets.
+Debt
+The fair value of the Company’s 2031 Senior Notes, 2030 Senior Notes, 2028 Senior Notes, and 2027 Senior Notes are estimated based on unadjusted quoted prices for identical or similar liabilities in markets that are not active and as such are Level 2 measurements. The fair values of the Company's Term Loan B-1, Term Loan A, and Revolver under the Credit Agreement approximate the gross carrying value of the variable rate debt and as such are Level 2 measurements.
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+21
+Churchill Downs Incorporated
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+The carrying amounts and estimated fair values by input level of the Company's financial instruments are as follows:
+September 30, 2025
+(in millions)
+Carrying Amount
+Fair Value
+Level 1
+Level 2
+Level 3
+Financial assets:
+Restricted cash
+$
+88.0
+
+$
+88.0
+
+$
+88.0
+
+$
+—
+
+$
+—
+
+Financial liabilities:
+Term Loan B-1
+284.8
+
+286.5
+
+—
+
+286.5
+
+—
+
+Term Loan A
+1,122.5
+
+1,127.3
+
+—
+
+1,127.3
+
+—
+
+Revolver
+619.0
+
+619.0
+
+—
+
+619.0
+
+—
+
+2027 Senior Notes
+598.4
+
+597.8
+
+—
+
+597.8
+
+—
+
+2028 Senior Notes
+699.3
+
+690.6
+
+—
+
+690.6
+
+—
+
+2030 Senior Notes
+1,189.5
+
+1,198.4
+
+—
+
+1,198.4
+
+—
+
+2031 Senior Notes
+592.7
+
+615.0
+
+—
+
+615.0
+
+—
+
+December 31, 2024
+(in millions)
+Carrying Amount
+Fair Value
+Level 1
+Level 2
+Level 3
+Financial assets:
+Restricted cash
+$
+77.2
+
+$
+77.2
+
+$
+77.2
+
+$
+—
+
+$
+—
+
+Financial liabilities:
+Term Loan B-1
+286.8
+
+288.8
+
+—
+
+288.8
+
+—
+
+Term Loan A
+1,166.7
+
+1,172.4
+
+—
+
+1,172.4
+
+—
+
+Revolver
+377.5
+
+377.5
+
+—
+
+377.5
+
+—
+
+2027 Senior Notes
+597.6
+
+593.2
+
+—
+
+593.2
+
+—
+
+2028 Senior Notes
+699.0
+
+675.2
+
+—
+
+675.2
+
+—
+
+2030 Senior Notes
+1,187.9
+
+1,172.6
+
+—
+
+1,172.6
+
+—
+
+2031 Senior Notes
+591.7
+605.2
+—
+
+605.2
+—
+
+14.  CONTINGENCIES
+We are involved in litigation arising in the ordinary course of conducting business. We carry insurance for workers' compensation claims from our employees and general liability for claims from independent contractors, customers, and guests. We are self-insured up to an aggregate stop loss for our general liability and workers' compensation coverages.
+We review all litigation on an ongoing basis when making accrual and disclosure decisions. For certain legal proceedings, we cannot reasonably estimate losses or a range of loss, if any, particularly for proceedings that are in the early stages of development or where the plaintiffs seek indeterminate damages. Various factors, including but not limited to, the outcome of potentially lengthy discovery and the resolution of important factual questions, may need to be determined before probability can be established or before a loss or range of loss can be reasonably estimated. In accordance with current accounting standards for loss contingencies and based upon information currently known to us, we establish reserves for litigation when it is probable that a loss associated with a claim or proceeding has been incurred and the amount of the loss or range of loss can be reasonably estimated. When no amount within the range of loss is a better estimate than any other amount, we accrue the minimum amount of the estimable loss. To the extent that such litigation against us may have an exposure to a loss in excess of the amount we have accrued, we believe that such excess would not be material to our consolidated financial condition, results of operations, or cash flows. Legal fees are expensed as incurred.
+If the loss contingency in question is not both probable and reasonably estimable, we do not establish an accrual and the matter will continue to be monitored for any developments that would make the loss contingency both probable and reasonably estimable. In the event that a legal proceeding results in a substantial judgment against us, or settlement by us, there can be no assurance that any resulting liability or financial commitment would not have a material adverse impact on our business.
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+22
+Churchill Downs Incorporated
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+15.  NET INCOME PER COMMON SHARE COMPUTATIONS
+The following is a reconciliation of the numerator and denominator of the net income per common share computations:
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(in millions, except per share data) 
+2025
+2024
+2025
+2024
+Numerator for basic and diluted net income per common share:
+Net income attributable to Churchill Downs Incorporated
+$
+38.1
+
+$
+65.4
+
+$
+331.7
+
+$
+355.1
+
+Adjustments related to redeemable noncontrolling interests
+(
+0.2
+)
+(
+1.0
+)
+(
+1.8
+)
+(
+1.8
+)
+Net income attributable to common shareholders
+$
+37.9
+
+$
+64.4
+
+$
+329.9
+
+$
+353.3
+
+Denominator for net income per common share:
+Basic
+70.3
+
+73.9
+
+71.9
+
+74.0
+
+Plus dilutive effect of stock awards
+0.7
+
+0.7
+
+0.6
+
+0.6
+
+Diluted
+71.0
+
+74.6
+
+72.5
+
+74.6
+
+Net income per common share data:
+Basic net income
+$
+0.54
+
+$
+0.87
+
+$
+4.59
+
+$
+4.78
+
+Diluted net income
+$
+0.54
+
+$
+0.86
+
+$
+4.55
+
+$
+4.73
+
+16.  SEGMENT INFORMATION
+We manage our operations through 
+three
+ reportable segments: Live and Historical Racing, Wagering Services and Solutions, and Gaming. Our operating segments reflect the internal management reporting used by our chief operating decision maker, our Chief Executive Officer, to evaluate results of operations and to assess performance and allocate resources.
+Eliminations include the elimination of intersegment transactions. We utilize non-GAAP measures, including EBITDA (earnings before interest, taxes, depreciation and amortization) and Adjusted EBITDA. Our chief operating decision maker utilizes Adjusted EBITDA to evaluate segment performance, develop strategy, and allocate resources. Adjusted EBITDA includes the following adjustments:
+Adjusted EBITDA includes our portion of EBITDA from our equity investments and the portion of EBITDA attributable to noncontrolling interests.
+Adjusted EBITDA excludes, as applicable:
+•
+Transaction expense, net which includes:
+–
+Acquisition, disposition, and property sale related charges;
+–
+Other transaction expense, including legal, accounting, and other deal-related expense;
+•
+Stock-based compensation expense;
+•
+Rivers Des Plaines' impact on our investments in unconsolidated affiliates from legal reserves and transaction costs;
+•
+Asset impairments, net;
+•
+Gain on property sales;
+•
+Legal reserves;
+•
+Pre-opening expense; and
+•
+Other charges, recoveries and expenses
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+23
+Churchill Downs Incorporated
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+We utilize the Adjusted EBITDA metric to provide a more accurate measure of our core operating results and enable management and investors to evaluate and compare from period to period our operating performance in a meaningful and consistent manner. Adjusted EBITDA should not be considered as an alternative to operating income as an indicator of performance, as an alternative to cash flows from operating activities as a measure of liquidity, or as an alternative to any other measure provided in accordance with GAAP. Our calculation of Adjusted EBITDA may be different from the calculation used by other companies and, therefore, comparability may be limited. For segment reporting, Adjusted EBITDA includes intercompany revenue and expense totals that are eliminated in the accompanying Condensed Consolidated Statements of Comprehensive Income.
+The tables below present net revenue from external customers, Adjusted EBITDA by segment and reconciles comprehensive income to Adjusted EBITDA:
+Net revenue by segment is comprised of the following:
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(in millions)
+2025
+2024
+2025
+2024
+Live and Historical Racing
+$
+300.0
+
+$
+247.5
+
+$
+1,082.4
+
+$
+957.3
+
+Wagering Services and Solutions
+118.0
+
+111.3
+
+383.3
+
+369.6
+
+Gaming
+265.0
+
+269.7
+
+794.2
+
+783.1
+
+All Other
+—
+
+—
+
+0.1
+
+0.1
+
+Net Revenue
+$
+683.0
+
+$
+628.5
+
+$
+2,260.0
+
+$
+2,110.1
+
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+24
+Churchill Downs Incorporated
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+Adjusted EBITDA by segment is comprised of the following: 
+Three Months Ended September 30, 2025
+(in millions)
+Live and Historical Racing
+Wagering Services and Solutions
+Gaming
+Revenues
+$
+305.7
+
+$
+127.2
+
+$
+265.5
+
+Pari-mutuel taxes and purses
+(
+79.8
+)
+(
+6.0
+)
+(
+6.4
+)
+Gaming taxes
+(
+1.8
+)
+(
+0.6
+)
+(
+81.7
+)
+Marketing and advertising
+(
+13.5
+)
+(
+1.4
+)
+(
+9.2
+)
+Salaries and benefits
+(
+36.8
+)
+(
+8.7
+)
+(
+41.1
+)
+Content expense
+(
+1.7
+)
+(
+48.5
+)
+(
+2.3
+)
+Selling, general and administrative expense
+(
+10.7
+)
+(
+3.3
+)
+(
+10.5
+)
+Maintenance, insurance and utilities
+(
+11.9
+)
+(
+1.0
+)
+(
+10.3
+)
+Gaming equipment rental and technology costs
+(
+13.4
+)
+(
+0.7
+)
+(
+4.4
+)
+Food and beverage costs
+(
+3.6
+)
+—
+
+(
+4.0
+)
+Other operating expense
+(
+19.8
+)
+(
+11.0
+)
+(
+16.8
+)
+Equity in income of unconsolidated affiliates
+—
+
+—
+
+44.5
+
+Other income 
+3.7
+
+—
+
+—
+
+Adjusted EBITDA
+$
+116.4
+
+$
+46.0
+
+$
+123.3
+
+Three Months Ended September 30, 2024
+(in millions)
+Live and Historical Racing
+Wagering Services and Solutions
+Gaming
+Revenues
+$
+252.4
+
+$
+118.7
+
+$
+270.3
+
+Pari-mutuel taxes and purses
+(
+65.3
+)
+(
+4.9
+)
+(
+9.0
+)
+Gaming taxes
+(
+1.4
+)
+(
+0.6
+)
+(
+78.8
+)
+Marketing and advertising
+(
+9.3
+)
+(
+1.4
+)
+(
+9.5
+)
+Salaries and benefits
+(
+31.1
+)
+(
+8.0
+)
+(
+42.7
+)
+Content expense
+(
+1.7
+)
+(
+45.9
+)
+(
+2.3
+)
+Selling, general and administrative expense
+(
+9.4
+)
+(
+4.2
+)
+(
+11.9
+)
+Maintenance, insurance and utilities
+(
+12.8
+)
+(
+1.1
+)
+(
+11.7
+)
+Gaming equipment rental and technology costs
+(
+9.9
+)
+(
+0.9
+)
+(
+3.9
+)
+Food and beverage costs
+(
+2.4
+)
+—
+
+(
+4.3
+)
+Other operating expense
+(
+16.2
+)
+(
+9.2
+)
+(
+16.9
+)
+Equity in income of unconsolidated affiliates
+—
+
+—
+
+44.0
+
+Other income 
+0.1
+
+—
+
+—
+
+Adjusted EBITDA
+$
+93.0
+
+$
+42.5
+
+$
+123.3
+
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+25
+Churchill Downs Incorporated
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+Nine Months Ended September 30, 2025
+(in millions)
+Live and Historical Racing
+Wagering Services and Solutions
+Gaming
+Revenues
+$
+1,123.0
+
+$
+411.4
+
+$
+799.0
+
+Pari-mutuel taxes and purses
+(
+267.5
+)
+(
+18.1
+)
+(
+28.5
+)
+Gaming taxes
+(
+4.7
+)
+(
+1.5
+)
+(
+234.1
+)
+Marketing and advertising
+(
+43.0
+)
+(
+8.0
+)
+(
+26.2
+)
+Salaries and benefits
+(
+106.5
+)
+(
+25.8
+)
+(
+128.1
+)
+Content expense
+(
+5.0
+)
+(
+169.1
+)
+(
+6.7
+)
+Selling, general and administrative expense
+(
+32.0
+)
+(
+13.2
+)
+(
+32.2
+)
+Maintenance, insurance and utilities
+(
+33.5
+)
+(
+3.0
+)
+(
+29.5
+)
+Gaming equipment rental and technology costs
+(
+37.8
+)
+(
+2.2
+)
+(
+13.0
+)
+Food and beverage costs
+(
+11.1
+)
+—
+
+(
+12.3
+)
+Other operating expense
+(
+70.8
+)
+(
+35.2
+)
+(
+49.3
+)
+Equity in income of unconsolidated affiliates
+—
+
+—
+
+134.4
+
+Other income 
+3.8
+
+—
+
+0.6
+
+Adjusted EBITDA
+$
+514.9
+
+$
+135.3
+
+$
+374.1
+
+Nine Months Ended September 30, 2024
+(in millions)
+Live and Historical Racing
+Wagering Services and Solutions
+Gaming
+Revenues
+$
+991.5
+
+$
+392.7
+
+$
+787.9
+
+Pari-mutuel taxes and purses
+(
+227.3
+)
+(
+15.8
+)
+(
+32.7
+)
+Gaming taxes
+(
+4.4
+)
+(
+1.9
+)
+(
+219.1
+)
+Marketing and advertising
+(
+31.1
+)
+(
+7.5
+)
+(
+26.5
+)
+Salaries and benefits
+(
+94.4
+)
+(
+23.9
+)
+(
+121.0
+)
+Content expense
+(
+5.1
+)
+(
+163.2
+)
+(
+6.7
+)
+Selling, general and administrative expense
+(
+26.7
+)
+(
+13.0
+)
+(
+33.9
+)
+Maintenance, insurance and utilities
+(
+34.6
+)
+(
+3.1
+)
+(
+32.4
+)
+Gaming equipment rental and technology costs
+(
+30.5
+)
+(
+2.6
+)
+(
+11.4
+)
+Food and beverage costs
+(
+8.8
+)
+—
+
+(
+12.4
+)
+Other operating expense
+(
+55.9
+)
+(
+33.4
+)
+(
+46.7
+)
+Equity in income of unconsolidated affiliates
+—
+
+—
+
+139.9
+
+Other income 
+0.3
+
+—
+
+1.8
+
+Adjusted EBITDA
+$
+473.0
+
+$
+128.3
+
+$
+386.8
+
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+26
+Churchill Downs Incorporated
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+Adjusted EBITDA by segment is comprised of the following: 
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(in millions)
+2025
+2024
+2025
+2024
+Reconciliation of Comprehensive Income to Adjusted EBITDA:
+Net income and comprehensive income attributable to Churchill Downs Incorporated
+$
+38.1
+
+$
+65.4
+
+$
+331.7
+
+$
+355.1
+
+Net income attributable to noncontrolling interests
+1.1
+
+0.8
+
+2.3
+
+1.7
+
+Net income
+39.2
+
+66.2
+
+334.0
+
+356.8
+
+Adjustments
+Depreciation and amortization
+56.5
+
+49.6
+
+173.5
+
+145.7
+
+Interest expense
+75.6
+
+73.1
+
+222.1
+
+217.0
+
+Income tax provision 
+22.0
+
+19.9
+
+115.1
+
+125.4
+
+Stock-based compensation expense 
+7.4
+
+7.1
+
+18.2
+
+23.2
+
+Pre-opening expense
+2.4
+
+7.8
+
+9.0
+
+23.6
+
+Other expenses, net
+2.9
+
+1.0
+
+7.7
+
+1.3
+
+Asset impairments, net
+45.1
+
+3.9
+
+47.5
+
+3.9
+
+Transaction expense, net
+1.9
+
+(
+4.0
+)
+3.4
+
+0.7
+
+Other income, expense:
+Interest, depreciation and amortization expense related to equity investments
+9.4
+
+10.6
+
+28.9
+
+31.4
+
+Rivers Des Plaines' legal reserves and transaction costs
+—
+
+—
+
+—
+
+0.3
+
+Other charges and recoveries, net
+(
+0.1
+)
+0.1
+
+(
+1.1
+)
+(
+6.7
+)
+Total adjustments
+223.1
+
+169.1
+
+624.3
+
+565.8
+
+Adjusted EBITDA
+$
+262.3
+
+$
+235.3
+
+$
+958.3
+
+$
+922.6
+
+Adjusted EBITDA by segment:
+Live and Historical Racing
+$
+116.4
+
+$
+93.0
+
+$
+514.9
+
+$
+473.0
+
+Wagering Services and Solutions
+46.0
+
+42.5
+
+135.3
+
+128.3
+
+Gaming
+123.3
+
+123.3
+
+374.1
+
+386.8
+
+Total segment Adjusted EBITDA
+285.7
+
+258.8
+
+1,024.3
+
+988.1
+
+All Other
+(
+23.4
+)
+(
+23.5
+)
+(
+66.0
+)
+(
+65.5
+)
+Total Adjusted EBITDA
+$
+262.3
+
+$
+235.3
+
+$
+958.3
+
+$
+922.6
+
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+27
+Churchill Downs Incorporated
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+The table below presents total asset information for each of our segments:
+(in millions) 
+September 30, 2025
+December 31, 2024
+Total assets:
+Live and Historical Racing
+$
+4,351.1
+
+$
+4,143.3
+
+Wagering Services and Solutions
+468.9
+
+460.6
+
+Gaming
+1,544.4
+
+1,953.7
+
+Total segment assets
+6,364.4
+
+6,557.6
+
+All Other
+1,090.4
+
+718.3
+
+Total assets
+$
+7,454.8
+
+$
+7,275.9
+
+The table below presents total capital expenditures for each of our segments:
+Nine Months Ended September 30,
+(in millions)
+2025
+2024
+Capital expenditures:
+Live and Historical Racing
+$
+177.4
+
+$
+287.7
+
+Wagering Services and Solutions
+18.0
+
+14.2
+
+Gaming
+24.3
+
+105.4
+
+Total segment capital expenditures
+219.7
+
+407.3
+
+All Other
+4.9
+
+10.3
+
+Total capital expenditures
+$
+224.6
+
+$
+417.6
+
+17.  SUBSEQUENT EVENTS 
+At its regularly scheduled meeting held on October 21, 2025, the Board of Directors of the Company declared an annual cash dividend on the Company's common stock of $
+0.438
+ per outstanding share, to be paid on January 6, 2026, to shareholders of record as of the close of business on December 5, 2025, with the aggregate cash dividend to be paid to each shareholder rounded to the nearest whole cent.
+
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+28
+ITEM 2.     MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+This report contains various "forward-looking statements" within the meaning of the Private Securities Litigation Reform Act of 1995 (the "Act"), which provides certain "safe harbor" provisions for forward-looking statements. All forward-looking statements made in this report are made pursuant to the Act. The reader is cautioned that such forward-looking statements are based on information available at the time and / or management’s good faith belief with respect to future events and are subject to risks and uncertainties that could cause actual performance or results to differ materially from those expressed in the statements. Forward-looking statements speak only as of the date that the statement was made. We assume no obligation to update forward-looking information to reflect actual results, changes in assumptions or changes in other factors affecting forward-looking information. Forward-looking statements are typically identified by the use of terms such as "anticipate," "believe," "could," "estimate," "expect," '"intend," "may," "might," "plan," "predict," "project," "seek," "should," "will," "scheduled," and similar words or similar expressions (or negative versions of such words or expressions), although some forward-looking statements are expressed differently.
+Although we believe that the expectations reflected in such forward-looking statements are reasonable, we can give no assurance that such expectations will prove to be correct. Important factors that could cause actual results to differ materially from expectations include the following: 
+•
+the occurrence of extraordinary events, such as terrorist attacks, public health threats, civil unrest, and inclement weather, including as a result of climate change;
+•
+the effect of economic conditions on our consumers' confidence and discretionary spending or our access to credit, including the impact of inflation;
+•
+changes in, or new interpretations of, applicable tax law or rulings that could result in additional tax liabilities;
+•
+the impact of any pandemics, epidemics, or outbreaks of infectious diseases, and related economic matters on our results of operations, financial conditions, and prospects;
+•
+lack of confidence in the integrity of our core businesses or any deterioration in our reputation;
+•
+negative shifts in public opinion regarding gambling that could result in increased regulation of, or new restrictions on, the gaming industry;
+•
+loss of key or highly skilled personnel, as well as general disruptions in the general labor market;
+•
+the impact of significant competition, and the expectation that competition levels will increase;
+•
+changes in consumer preferences, attendance, wagering, and sponsorships;
+•
+risks associated with equity investments, strategic alliances, and other third-party agreements;
+•
+inability to respond to rapid technological changes in a timely manner;
+•
+concentration and evolution of slot machine and historical racing machine ("HRM") manufacturing and other technology conditions that could impose additional costs;
+•
+failure to enter into or maintain agreements with industry constituents, including horsemen and other racetracks;
+•
+inability to successfully focus on market access and retail operations for our sports betting business and effectively compete; 
+•
+online security risk, including cyber-security breaches, or loss or misuse of our stored information as a result of a breach including customers’ personal information could lead to government enforcement actions or other litigation;
+•
+costs of compliance with increasingly complex laws and regulations regarding data privacy and protection of personal information;
+•
+reliance on our technology services and catastrophic events and system failures disrupting our operations;
+•
+inability to identify, complete, or fully realize the benefits of, our proposed acquisitions, divestitures, development of new venues or the expansion of existing facilities on time, on budget, or as planned;
+•
+difficulty in integrating recent or future acquisitions into our operations;
+•
+cost overruns and other uncertainties associated with the development of new venues and the expansion of existing facilities;
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+29
+•
+general risks related to real estate ownership and significant expenditures, including risks related to environmental liabilities;
+•
+personal injury litigation related to injuries occurring at our racetracks;
+•
+compliance with the Foreign Corrupt Practices Act or other similar laws and regulations, or applicable anti-money laundering regulations;
+•
+payment-related risks, such as risk associated with fraudulent credit card or debit card use;
+•
+work stoppages and labor problems;
+•
+risks related to pending or future legal proceedings and other actions;
+•
+highly regulated operations and changes in the regulatory environment could adversely affect our business;
+•
+restrictions in our debt facilities limiting our flexibility to operate our business;
+•
+failure to comply with the financial ratios and other covenants in our debt facilities and other indebtedness;  
+•
+increases to interest rates (due to inflation or otherwise);
+•
+disruption in the credit markets or changes to our credit ratings may adversely affect our business; 
+•
+increase in our insurance costs, or inability to obtain similar insurance coverage in the future, and any inability to recover under our insurance policies for damages sustained at our properties in the event of inclement weather and casualty events; and
+•
+other factors described under the heading "Risk Factors" in our most recent Annual Report on Form 10-K and in other filings we make with the Securities and Exchange Commission.
+We do not undertake any obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law. 
+The following information is unaudited. Tabular dollars are in millions, except per share amounts. All per share amounts assume dilution unless otherwise noted. This report should be read in conjunction with our Annual Report on Form 10-K for the year ended December 31, 2024, including Part I - Item 1A, "Risk Factors" of our Form 10-K for a discussion regarding some of the reasons that actual results may be materially different from those we anticipate.
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+30
+Our Business
+Churchill Downs Incorporated ("CDI" or the "Company") has been creating extraordinary entertainment experiences for over 150 years, beginning with the Company’s most iconic and enduring asset, the Kentucky Derby. Headquartered in Louisville, Kentucky, CDI has expanded through the development of live and historical racing entertainment venues, the growth of the horse racing online wagering business, expanded pari-mutuel content and technology services to B2C platforms, and the operation and development of regional casino gaming properties.
+We conduct our business through three reportable segments: Live and Historical Racing, Wagering Services and Solutions, and Gaming. We aggregate our other businesses as well as certain corporate operations in All Other. 
+Key Indicators to Evaluate Business Results and Financial Condition
+Our management monitors a variety of key indicators to evaluate our business results and financial condition. These indicators include changes in net revenue, operating expense, operating income, earnings per share, outstanding debt balance, operating cash flow, and capital spend.
+Our consolidated financial statements have been prepared in conformity with U.S. generally accepted accounting principles ("GAAP"). We also use non-GAAP measures, including EBITDA (earnings before interest, taxes, depreciation and amortization) and Adjusted EBITDA. We believe that the use of Adjusted EBITDA as a key performance measure of results of operations enables management and investors to evaluate and compare from period to period our operating performance in a meaningful and consistent manner. Our chief operating decision maker utilizes Adjusted EBITDA to evaluate segment performance, develop strategy, and allocate resources. Adjusted EBITDA is a supplemental measure of our performance that is not required by, or presented in accordance with, GAAP. Adjusted EBITDA should not be considered as an alternative to, or more meaningful than, net income (as determined in accordance with GAAP) as a measure of our operating results.
+Adjusted EBITDA is defined as earnings before interest, taxes, depreciation and amortization, adjusted for the following:
+Adjusted EBITDA includes our portion of EBITDA from our equity investments and the portion of EBITDA attributable to noncontrolling interests.
+Adjusted EBITDA excludes, as applicable:
+•
+Transaction expense, net which includes:
+–
+Acquisition, disposition, and property sale related charges;
+–
+Other transaction expense, including legal, accounting, and other deal-related expense;
+•
+Stock-based compensation expense;
+•
+Rivers Des Plaines' impact on our investments in unconsolidated affiliates from legal reserves and transaction costs;
+•
+Asset impairments, net;
+•
+Gain on property sales;
+•
+Legal reserves;
+•
+Pre-opening expense; and
+•
+Other charges, recoveries and expenses
+For segment reporting, Adjusted EBITDA includes intercompany revenue and expense totals that are eliminated in the Condensed Consolidated Statements of Comprehensive Income. See the Reconciliation of Comprehensive Income to Adjusted EBITDA included in this section for additional information.
+Governmental Regulations and Legislative Changes
+We are subject to various federal, state, and international laws and regulations that affect our businesses. The ownership, operation, and management of our Live and Historical Racing, Wagering Services and Solutions, and Gaming segments, as well as our other operations, are subject to regulation under the laws and regulations of each of the jurisdictions in which we operate. The ownership, operation, and management of our businesses and properties are also subject to legislative actions at both the federal and state level. The following update on our regulatory and legislative actions should be read in conjunction with our Annual Report on Form 10-K for the year ended December 31, 2024, including Part I - Item 1, "Business" for a discussion of regulatory and legislative changes.  
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+31
+Specific State Gaming Regulations 
+Louisiana 
+In Louisiana, the 2021 Historical Horse Racing Act (the "2021 HHR Act") allowed off-track betting facilities ("OTBs") to have up to 50 HRMs. On October 25, 2022, a number of individual plaintiffs associated with video poker and truck stops, filed a lawsuit in the 19th Judicial District Court in East Baton Rouge, Louisiana against certain racetracks in Louisiana, including our Fair Grounds Racecourse and Slots property, alleging that the 2021 HHR Act is unconstitutional to the extent it purports to permit historical racing in a parish without a referendum. On June 8, 2023, plaintiffs filed a motion for summary judgment on the constitutional issues raised in their complaint and a hearing was conducted on September 11, 2023.
+On February 23, 2024, the judge issued a ruling in favor of plaintiffs granting summary judgment stating that: (i) historical horse racing is a new form of gaming not specifically authorized by law prior to 1996; (ii) historical horse racing may not be conducted in any parish of the state unless voters approve it through referendum; and (iii) the 2021 HHR Act that authorized historical horse racing is unconstitutional. The summary judgment, which was certified as final for purposes of appeal, was entered on March 18, 2024, and the Company, along with other interested parties including the Louisiana Racing Commission, filed a joint motion for a suspensive appeal, which was entered on March 26, 2024. The suspensive appeal allows the continued operation of HHR during the pendency of the appeal before the Louisiana Supreme Court. Oral arguments took place before the Louisiana Supreme Court on January 27, 2025, and an opinion was issued on March 21, 2025. The opinion affirmed the ruling of the District Court, which stated the 2021 HHR Act is unconstitutional, and that before historical horse racing is licensed or permitted to be conducted in a parish it first requires a voter referendum in an affected parish. The Company submitted an Application for Rehearing to the Louisiana Supreme Court, which was denied on May 8, 2025. The opinion became final and enforceable as of this date, at which time the Company discontinued its HRM operations in Louisiana.
+Subsequent to this decision, the Company moved HRMs previously located in the Louisiana OTBs to other HRM venues, primarily located in Virginia. The reduction in revenues resulting from the removal of the HRMs from our OTBs in Louisiana has negatively impacted the comparability of the 2025 Louisiana results to the prior year.  The results of the HRMs in Louisiana operations were reported in our Gaming segment.
+Consolidated Financial Results 
+The following table reflects our net revenue, operating income, net income attributable to Churchill Downs Incorporated, Adjusted EBITDA, and certain other financial information:
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(in millions)
+2025
+2024
+Change
+2025
+2024
+Change
+Net revenue
+$
+683.0
+$
+628.5
+$
+54.5 
+$
+2,260.0
+$
+2,110.1
+$
+149.9 
+Operating income
+98.0
+125.9
+(27.9)
+560.3
+582.2
+(21.9)
+Operating income margin
+14 
+%
+20 
+%
+25 
+%
+28 
+%
+Net income attributable to Churchill Downs Incorporated
+38.1
+65.4
+(27.3)
+331.7
+355.1
+(23.4)
+Adjusted EBITDA
+262.3
+235.3
+27.0 
+958.3
+922.6
+35.7 
+Three Months Ended September 30, 2025, Compared to Three Months Ended September 30, 2024
+•
+Net revenue increased $54.5 million driven by a $52.5 million increase from the Live and Historical Racing segment primarily due to the opening of The Rose Gaming Resort in November 2024 and the opening of Owensboro Racing and Gaming in February 2025 and a $6.7 million increase from the Wagering Services and Solutions segment primarily from TwinSpires Horse Racing and Exacta, partially offset by an $4.7 million decrease from the Gaming segment due to the cessation of HRM operations in Louisiana and net decreases at our other wholly owned gaming properties.
+•
+Operating income decreased $27.9 million driven by an increase in impairment expense of $41.2 million from the 45.1 million net impairment of Chasers' gaming rights partially offset by a $3.9 million impairment in the prior year, a $5.9 million increase in transaction costs, and a decrease of $1.0 million from the Gaming segment. These decreases were partially offset by an $18.2 million increase from the Live and Historical segment primarily due to the opening of The Rose Gaming Resort in November 2024 and a $2.0 million increase from the Wagering Services and Solutions segment primarily due to Exacta. 
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+32
+•
+Net income attributable to Churchill Downs Incorporated decreased $27.3 million. The following impacted the comparability of the Company's net income for the three months ended September 30, 2025 compared to the three months ended September 30, 2024: a $31.0 million after-tax increase in impairment charges in the current year quarter due to the $33.9 million after-tax impairment of Chasers' gaming rights partially offset by $2.9 million of after-tax impairments in the prior year, and a $1.3 million after-tax increase in transaction, pre-opening, and other expenses. Excluding these items, net income increased $5.0 million due to a $3.4 million after-tax increase primarily driven by the results of our operations and a $2.9 million after-tax decrease in interest expense.  These increases were partially offset by a $1.0 million after-tax decrease in equity income from our unconsolidated affiliates and a $0.3 million after-tax increase related to the income attributable to the noncontrolling interest of United Tote.
+•
+Adjusted EBITDA increased $27.0 million driven by a $23.4 million increase from the Live and Historical Racing segment primarily due to the opening of The Rose Gaming Resort in November 2024 in Northern Virginia and growth at our Kentucky HRM properties, a $3.5 million increase from the Wagering Services and Solutions segment primarily due to Exacta, and a $0.1 million increase from All Other. Gaming Adjusted EBITDA was consistent with the prior year quarter.
+Nine Months Ended September 30, 2025, Compared to Nine Months Ended September 30, 2024
+•
+Net revenue increased $149.9 million driven by a $125.1 million increase from the Live and Historical Racing segment  primarily due to the opening of The Rose Gaming Resort in November 2024 and the opening of Owensboro Racing and Gaming in February 2025 and growth at our other HRM properties, an $11.1 million increase from the Gaming segment primarily driven by the opening of the Terre Haute Casino Resort in April 2024, partially offset by net decreases at our other wholly owned gaming properties, and a $13.7 million increase from the Wagering Services and Solutions segment primarily due to increased Derby Week wagering at TwinSpires Horse Racing and Exacta. 
+•
+Operating income decreased $21.9 million driven by an increase in impairment expense of $43.6 million primarily related to the net impairment of Chasers' gaming rights, a $2.9 million decrease from All other, a $2.7 million increase in transaction expenses, a $2.7 million increase in SG&A expenses and a $1.7 million decrease from the Gaming segment.  These decreases were partially offset by a $23.6 million increase from the Live and Historical segment driven by the opening of The Rose Gaming Resort in November 2024 and the opening of Owensboro Racing and Gaming in February 2025, and an $8.1 million increase from Wagering Services and Solutions.
+•
+Net income attributable to Churchill Downs Incorporated decreased $23.4 million. The following impacted the comparability of the Company's net income for the nine months ended September 30, 2025 compared to the nine months ended September 30, 2024: a $33.0 million after-tax increase in impairment charges in the current year primarily due to the impairment of the Chasers' gaming rights.  Excluding this item, net income increased $9.6 million due to a $17.5 million after-tax increase driven by tax expense and the results of our operations, partially offset by a $5.7 million after-tax increase in interest expense associated primarily with higher outstanding debt balances, a $1.6 million after-tax decrease in equity income from our unconsolidated affiliates, and a $0.6 million after-tax increase related to the income attributable to the noncontrolling interest of United Tote.
+•
+Adjusted EBITDA increased $35.7 million driven by a $41.9 million increase from the Live and Historical Racing segment primarily due to the opening of The Rose Gaming Resort in Northern Virginia in November 2024, and a $7.0 million increase from the Wagering Services and Solutions segment primarily due to Exacta. These increases were partially offset by a $12.7 million decrease from the Gaming segment driven by net decreases at our wholly owned gaming properties and equity investments, offset by the opening of the Terre Haute Casino Resort in April 2024, and a $0.5 million decrease from All other.
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+33
+Revenue by Segment  
+The following table presents net revenue for our segments, including intercompany revenue:
+Three Months Ended September 30,
+Change
+Nine Months Ended September 30,
+Change
+(in millions)
+2025
+2024
+2025
+2024
+Live and Historical Racing
+$
+305.7 
+$
+252.4 
+$
+53.3 
+$
+1,123.0 
+$
+991.5 
+$
+131.5 
+Wagering Services and Solutions
+127.2 
+118.7 
+8.5 
+411.4 
+392.7 
+18.7 
+Gaming
+265.5 
+270.3 
+(4.8)
+799.0 
+787.9 
+11.1 
+All Other
+2.2 
+2.6 
+(0.4)
+6.5 
+4.5 
+2.0 
+Eliminations
+(17.6)
+(15.5)
+(2.1)
+(79.9)
+(66.5)
+(13.4)
+Net Revenue
+$
+683.0 
+$
+628.5 
+$
+54.5 
+$
+2,260.0 
+$
+2,110.1 
+$
+149.9 
+Three Months Ended September 30, 2025, Compared to Three Months Ended September 30, 2024
+•
+Live and Historical Racing revenue increased $53.3 million due to a $30.1 million increase from our Virginia HRM venues, a $20.9 million increase from our Kentucky HRM venues, and a $2.3 million increase primarily from our temporary facility at Casino Salem in New Hampshire. The Virginia HRM increase was due to a $26.0 million net increase from our Northern Virginia venues and a $5.1 million net increase from our Central Virginia venues. These increases were partially offset by a $1.0 million net decrease from our four other Virginia venues. The Kentucky HRM increase was due to a $12.2 million increase from our Western Kentucky venues, a $3.5 million increase from our Louisville venues, a $3.0 million increase from our Northern Kentucky venues, and a $2.2 million increase from our Southwestern Kentucky venue. 
+•
+Wagering Services and Solutions revenue increased $8.5 million due to a $5.3 million increase from TwinSpires Horse Racing, a $3.0 million increase from Exacta attributable to incremental HRMs in Virginia and New Hampshire, and a $0.2 million increase from our sports betting business.
+•
+Gaming revenue decreased $4.8 million due to a $6.1 million decrease from the cessation of HRM operations in Louisiana, partially offset by a $1.3 million net increase primarily from our New York, Maine, Indiana, and Iowa properties.  
+•
+All Other revenue decreased $0.4 million primarily due to intercompany revenue related to the captive insurance company. All captive revenue is eliminated in consolidation.
+Nine Months Ended September 30, 2025, Compared to Nine Months Ended September 30, 2024
+•
+Live and Historical Racing revenue increased $131.5 million due to a $72.2 million increase from our Virginia HRM venues, a $51.8 million increase from our Kentucky HRM venues, a $6.0 million increase from Churchill Downs Racetrack driven by Derby Week, and a $1.5 million increase primarily from our temporary facility at Casino Salem in New Hampshire. The Virginia HRM increase was primarily due to a $72.7 million net increase from our Northern Virginia venues and a $5.2 million net increase from our Central Virginia venues, partially offset by a $5.7 million net decrease from our four other Virginia venues. The Kentucky HRM increase was primarily due to a $27.7 million increase from our Western Kentucky venues, a $10.5 million increase from our Northern Kentucky venues, a $7.4 million increase from our Southwestern venue, and a $6.2 million increase from our Louisville venues. 
+•
+Wagering Services and Solutions revenue increased $18.7 million due to an $11.1 million increase in TwinSpires Horse Racing primarily due to Derby Week wagering and a $9.4 million increase from Exacta attributable to incremental HRMs in Virginia and New Hampshire. These increases were partially offset by a $1.8 million net decrease from our sports betting business.
+•
+Gaming revenue increased $11.1 million due to a $31.1 million increase primarily attributable to the opening of the Terre Haute Casino Resort in April 2024, partially offset by a $20.0 million net decrease at our nine other wholly owned gaming properties. 
+•
+All Other revenue increased 2.0 million due to intercompany revenue related to the captive insurance company that was established in April 2024. All captive revenue is eliminated in consolidation. 
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+34
+Consolidated Operating Expense
+The following table is a summary of our consolidated operating expense:
+Three Months Ended September 30,
+Change
+Nine Months Ended September 30,
+Change
+(in millions)
+2025
+2024
+2025
+2024
+Gaming taxes and purses
+$
+176.4
+$
+160.1
+$
+16.3 
+$
+554.5
+$
+501.2 
+$
+53.3 
+Salaries and benefits
+86.7
+83.5
+3.2 
+261.0
+244.1 
+16.9 
+Content expense
+45.2
+43.4
+1.8 
+131.8
+132.4 
+(0.6)
+Selling, general and administrative expense
+59.3
+59.8
+(0.5)
+174.7
+172.0 
+2.7 
+Depreciation and amortization
+56.5
+49.6
+6.9 
+173.5
+145.7 
+27.8 
+Marketing and advertising
+24.2
+21.9
+2.3 
+77.8
+68.6 
+9.2 
+Maintenance, insurance and utilities
+23.9
+27.3
+(3.4)
+67.1
+70.5 
+(3.4)
+Property and other taxes
+6.7
+6.3
+0.4 
+19.7
+17.9 
+1.8 
+Transaction expense, net
+1.9
+(4.0)
+5.9 
+3.4
+0.7 
+2.7 
+Asset impairments, net
+45.1
+3.9
+41.2 
+47.5
+3.9 
+43.6 
+Other operating expense
+59.1
+50.8
+8.3 
+188.7
+170.9 
+17.8 
+Total expense
+$
+585.0
+$
+502.6
+$
+82.4 
+$
+1,699.7
+$
+1,527.9
+$
+171.8 
+Three and Nine Months Ended September 30, 2025, Compared to Three and Nine Months Ended September 30, 2024 
+Operating expenses increased $82.4 million and $171.8 million for the three and nine months ended September 30, 2025 compared to September 30, 2024 primarily due to the openings of Terre Haute Casino Resort in Indiana in April 2024 and the hotel in May 2024, The Rose Gaming Resort in Virginia in November 2024, Owensboro Racing and Gaming in February 2025, and the Roseshire Gaming Palor in September 2025, as well as the renovation and expansion of our Richmond venue and the addition of the temporary facility at Casino Salem in New Hampshire. Asset impairments for the three and nine months ended September 30, 2025 include a $2.4 million write-off in the second quarter of 2025 of HRMs in Virginia that are no longer in use and a $45.1 million net impairment of the gaming rights for Chasers Poker Room in the third quarter of 2025. 
+Adjusted EBITDA
+We believe that the use of Adjusted EBITDA as a key performance measure of the results of operations enables management and investors to evaluate and compare from period to period our operating performance in a meaningful and consistent manner.  Adjusted EBITDA is a supplemental measure of our performance that is not required by or presented in accordance with GAAP. Adjusted EBITDA should not be considered as an alternative to operating income as an indicator of performance, as an alternative to cash flows from operating activities as a measure of liquidity, or as an alternative to any other measure provided in accordance with GAAP.
+Three Months Ended September 30,
+Change
+Nine Months Ended September 30,
+Change
+(in millions)
+2025
+2024
+2025
+2024
+Live and Historical Racing
+$
+116.4 
+$
+93.0 
+$
+23.4 
+$
+514.9 
+$
+473.0 
+$
+41.9 
+Wagering Services and Solutions
+46.0 
+42.5 
+3.5 
+135.3 
+128.3 
+7.0 
+Gaming
+123.3 
+123.3 
+— 
+374.1 
+386.8 
+(12.7)
+Total Segment Adjusted EBITDA
+285.7 
+258.8 
+26.9 
+1,024.3 
+988.1 
+36.2 
+All Other
+(23.4)
+(23.5)
+0.1 
+(66.0)
+(65.5)
+(0.5)
+Total Adjusted EBITDA
+$
+262.3 
+$
+235.3 
+$
+27.0 
+$
+958.3 
+$
+922.6 
+$
+35.7 
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+35
+Three Months Ended September 30, 2025, Compared to Three Months Ended September 30, 2024
+•
+Live and Historical Racing Adjusted EBITDA increased $23.4 million due to a $12.4 million increase from our Kentucky HRM venues, a $10.8 million increase from our Virginia HRM venues, and a $0.2 million increase from our temporary facility at Casino Salem in New Hampshire. The Kentucky HRM increase was primarily due to a $4.6 million increase from our Western Kentucky venues, a $3.9 million increase from our Louisville venues, a $3.1 million increase from our Northern Kentucky venues, and a $0.8 million increase from our Southwestern Kentucky venue. The Virginia HRM increase was primarily due to a $11.3 million net increase from our Northern Virginia venues, which includes $3.5 million from a one-time business interruption insurance recovery related to the delayed opening of The Rose Gaming Resort in the fourth quarter of 2024, and a $1.1 million net increase from our Central Virginia venues, partially offset by a $1.1 million net decrease from our four other Virginia venues and a $0.5 million increase in shared services expense.
+•
+Wagering Services and Solutions Adjusted EBITDA increased $3.5 million due to a $2.8 million increase from Exacta attributable to incremental HRMs in Virginia and New Hampshire, a $0.4 million increase from our sports betting business, and a $0.3 million net increase from TwinSpires Horse Racing. 
+•
+Gaming Adjusted EBITDA was consistent with the prior year quarter. Our wholly owned gaming properties decreased $0.5 million which was offset by a $0.5 million increase from our equity investments. The decrease from our wholly owned gaming properties was due to a $1.4 million net decrease from the cessation of HRM operations in Louisiana and a $0.9 million net increase primarily from our New York, Maine, Indiana, and Iowa properties. The increase from our equity investments was due to a $1.1 million increase from Miami Valley Gaming, partially offset by a $0.6 million decrease from Rivers Des Plaines.   
+•
+All Other Adjusted EBITDA increased $0.1 million primarily due to decreased corporate-related expenses offset by a decrease related to our captive insurance company.
+Nine Months Ended September 30, 2025, Compared to Nine Months Ended September 30, 2024
+•
+Live and Historical Racing Adjusted EBITDA increased $41.9 million due to a $30.9 million increase from our Kentucky HRM venues and an $11.8 million increase from our Virginia HRM venues, and a $0.2 million increase from the temporary facility at Casino Salem in New Hampshire, partially offset by a $1.0 million decrease primarily from Churchill Downs Racetrack due to Derby Week. The Kentucky HRM increase was primarily due to an $8.9 million increase from our Northern Kentucky venues, an $8.9 million increase from our Louisville venues, an $8.7 million increase from our Western Kentucky venues, and a $4.4 million increase from our Southwestern venues. The Virginia HRM increase was primarily due to a $20.5 million net increase from our Northern Virginia venues which includes $3.5 million of one-time business interruption insurance recovery related to the delayed opening of The Rose Gaming Resort in fourth quarter 2024, partially offset by a $4.0 million decrease from our Western Virginia venues, a $2.9 million net decrease from our Southern Virginia venues, and a $1.8 million net decrease from our Central Virginia venues.
+•
+Wagering Services and Solutions Adjusted EBITDA increased $7.0 million due to a $9.9 million increase from Exacta attributable to incremental HRMs in Virginia and New Hampshire, and a $0.2 million net increase from our sports betting business, partially offset by a $3.1 million net decrease attributable to TwinSpires Horse Racing.
+•
+Gaming Adjusted EBITDA decreased $12.7 million due to a $7.0 million decrease from our wholly owned gaming properties and a $5.7 million decrease from our equity investments.  The decrease from our wholly owned gaming properties was due to an $11.6 million decrease from our existing properties, partially offset by a $4.6 million increase from the opening of the Terre Haute Casino Resort in April 2024. The decrease from our equity investments was due to a $7.5 million decrease from Rivers Des Plaines, partially offset by a $1.8 million increase from Miami Valley Gaming.   
+•
+All Other Adjusted EBITDA decreased $0.5 million driven primarily by increased corporate administrative expenses offset by a decrease related to our captive insurance company.
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+36
+Reconciliation of Comprehensive Income to Adjusted EBITDA
+Three Months Ended September 30,
+Change
+Nine Months Ended September 30,
+Change
+(in millions)
+2025
+2024
+2025
+2024
+Net income and comprehensive income attributable to Churchill Downs Incorporated
+$
+38.1 
+$
+65.4 
+$
+(27.3)
+$
+331.7 
+$
+355.1 
+$
+(23.4)
+Net income attributable to noncontrolling interests
+1.1 
+0.8 
+0.3 
+2.3 
+1.7 
+0.6 
+Net income
+39.2 
+66.2 
+(27.0)
+334.0 
+356.8 
+(22.8)
+Adjustments
+Depreciation and amortization
+56.5 
+49.6 
+6.9 
+173.5 
+145.7 
+27.8 
+Interest expense
+75.6 
+73.1 
+2.5 
+222.1 
+217.0 
+5.1 
+Income tax provision
+22.0 
+19.9 
+2.1 
+115.1 
+125.4 
+(10.3)
+Stock-based compensation expense
+7.4 
+7.1 
+0.3 
+18.2 
+23.2 
+(5.0)
+Pre-opening expense
+2.4 
+7.8 
+(5.4)
+9.0 
+23.6 
+(14.6)
+Other expense, net
+2.9 
+1.0 
+1.9 
+7.7 
+1.3 
+6.4 
+Asset impairments, net
+45.1 
+3.9 
+41.2 
+47.5 
+3.9 
+43.6 
+Transaction expense, net
+1.9 
+(4.0)
+5.9 
+3.4 
+0.7 
+2.7 
+Other income, expense:
+Interest, depreciation and amortization expense related to equity investments
+9.4 
+10.6 
+(1.2)
+28.9 
+31.4 
+(2.5)
+Rivers Des Plaines' legal reserves and transactions costs
+— 
+— 
+— 
+— 
+0.3 
+(0.3)
+Other charges and recoveries, net
+(0.1)
+0.1 
+(0.2)
+(1.1)
+(6.7)
+5.6 
+Total adjustments
+223.1 
+169.1 
+54.0 
+624.3 
+565.8 
+58.5 
+Adjusted EBITDA
+$
+262.3 
+$
+235.3 
+$
+27.0 
+$
+958.3 
+$
+922.6 
+$
+35.7 
+Consolidated Balance Sheet 
+The following is a summary of our overall financial position:
+(in millions)
+September 30, 2025
+December 31, 2024
+Change
+Total assets
+$
+7,454.8 
+$
+7,275.9 
+$
+178.9 
+Total liabilities
+6,375.7 
+6,172.6 
+203.1 
+Total equity
+1,034.9 
+1,083.6 
+(48.7)
+Significant items affecting the comparability of our Condensed Consolidated Balance Sheets include:
+•
+Total assets increased $178.9 million driven by the acquisition of the gaming rights for Casino Salem and increased capital expenditures primarily at Churchill Downs Racetrack, Owensboro Racing and Gaming, and at our Virginia HRM locations in Richmond and Henrico County, partially offset by the impairment of the gaming rights related to Chasers. 
+•
+Total liabilities increased $203.1 million driven primarily by an increase in the outstanding balance on the Revolver, which is included in long-term debt, and increases in income taxes payable and accounts payable. These increases were partially offset by decreased current deferred revenue due to the recognition of revenue related to the 151st Kentucky Derby, and a decrease in dividends payable due to the payment of the annual dividend.   
+•
+Total equity decreased $48.7 million driven by share repurchases, partially offset by net income.
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+37
+Liquidity and Capital Resources 
+The following table is a summary of our liquidity and cash flows:
+(in millions)
+Nine Months Ended September 30,
+Change
+Cash flows from:
+2025
+2024
+Operating activities
+$
+673.8 
+$
+641.1 
+$
+32.7 
+Investing activities
+(421.4)
+(415.8)
+(5.6)
+Financing activities
+(236.6)
+(216.7)
+(19.9)
+Nine Months Ended September 30, 2025, Compared to the Nine Months Ended September 30, 2024 
+•
+Cash flows provided by operating activities increased $32.7 million driven by a decrease in cash paid income taxes and interest, partially offset by decreased distributions from our unconsolidated affiliates. We anticipate that cash flows from operations and availability of borrowings under our credit facility over the next twelve months will be adequate to fund our business operations and capital expenditures.
+•
+Cash flows used in investing activities increased $5.6 million driven by the Salem Transaction partially offset by a decrease in capital expenditures in 2025.
+•
+Cash flows used in financing activities increased $19.9 million primarily driven by an increase in borrowings on the revolver to fund the Salem Transaction partially offset by share repurchases in 2025.
+We have announced several project capital investments, including the following: Starting Gate Pavilion and Courtyard as well as enhancements to The Mansion and Finish Line Suites at Churchill Downs Racetrack; Marshall Yards Racing and Gaming in Southwestern Kentucky; expansion of the Richmond, Virginia HRM venue; the Roseshire Gaming Parlor in Henrico County, Virginia; and the Casino Salem venue in Salem, New Hampshire. We currently expect our project capital to be approximately $200.0 to $240.0 million in 2025, although this amount may vary significantly based on the timing of work completed, unanticipated delays, and timing of payments to third parties.   
+Common Stock Repurchase Program
+On July 22, 2025, the Board of Directors of the Company approved a common stock repurchase program of up to $500.0 million (the "July 2025 Stock Repurchase Program"). The July 2025 Stock Repurchase Program includes and is not in addition to the $169.2 million previously remaining under the March 2025 Stock Repurchase Program. Share repurchases may be made at management’s discretion from time to time in the open market (either with or without a 10b5-1 plan) or through privately negotiated transactions. The repurchase program has no time limit and may be suspended or discontinued at any time. We had approximately $461.5 million of repurchase authority remaining under the July 2025 Stock Repurchase Program at September 30, 2025, based on trade date.  
+On March 12, 2025, the Board of Directors of the Company approved a new common stock repurchase program of up to $500.0 million (the "March 2025 Stock Repurchase Program"). The March 2025 Stock Repurchase Program included and was not in addition to the $125.6 million remaining under the 2021 Stock Repurchase Program. As described above, the March 2025 Stock Repurchase Program has since been replaced by the July 2025 Stock Repurchase Program.
+On January 2, 2024, the Company closed on an agreement, dated December 18, 2023, with an affiliate of The Duchossois Group ("TDG") to repurchase 1,000,000 shares of the Company’s common stock, for $123.75 per share in a privately negotiated transaction for an aggregate purchase price of $123.8 million. This represented a discount of 4.03% to the closing price on December 15, 2023 of $128.95. The repurchase of shares of common stock from TDG was approved by the Company's Board of Directors separately from and did not reduce the authorized amount remaining under the existing common stock repurchase program. The repurchase of the shares was funded using available cash and borrowings under the Company’s senior secured credit facility.
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+38
+Credit Facilities and Indebtedness 
+The following table presents our debt outstanding:
+(in millions)
+September 30, 2025
+December 31, 2024
+Change
+Revolver
+$
+619.0 
+$
+377.5 
+$
+241.5 
+Term Loan B-1 due 2028
+286.5 
+288.8 
+(2.3)
+Term Loan A due 2029
+1,127.3 
+1,172.4 
+(45.1)
+2027 Senior Notes
+600.0 
+600.0 
+— 
+2028 Senior Notes
+700.0 
+700.0 
+— 
+2030 Senior Notes
+1,200.0 
+1,200.0 
+— 
+2031 Senior Notes
+600.0 
+600.0 
+— 
+Total debt
+5,132.8 
+4,938.7 
+194.1 
+Current maturities of long-term debt
+(63.1)
+(63.1)
+— 
+Total debt, net of current maturities
+5,069.7 
+4,875.6 
+194.1 
+Issuance costs, net of premiums and discounts
+(26.6)
+(31.5)
+4.9 
+Net debt
+$
+5,043.1 
+$
+4,844.1 
+$
+199.0 
+Credit Agreement
+At September 30, 2025, the Company’s senior secured credit facility (as amended from time to time, the "Credit Agreement") consisted of a $1.2 billion revolving credit facility (the "Revolver"), $286.5 million senior secured term loan B-1 (the "Term Loan B-1"), $1.1 billion senior secured term loan A (the "Term Loan A"), and $100.0 million swing line commitment. On July 3, 2024, the Company closed an amendment of the Credit Agreement to (i) extend the maturity date of the Revolver and Term Loan A from 2027 to 2029 and (ii) amend certain other provisions to the Credit Agreement.
+On February 14, 2025, the Company announced that it closed the seventh amendment of the Credit Agreement. The seventh amendment to the Credit Agreement (i) reduced the interest rate margin applicable to the Term Loan B-1 by 0.25%, from Secured Overnight Financing Rate ("SOFR") plus 200 basis points to SOFR plus 175 basis points, (ii) eliminated the 0.10% credit spread adjustment previously applicable to the Term Loan B-1, and (iii) made certain other amendments to the Credit Agreement, as set forth therein. 
+Term Loan B-1 requires quarterly payments of 0.25% of the original $300.0 million balance. The Term Loan B-1 may be subject to additional mandatory prepayment from excess cash flow on an annual basis per the provisions of the Credit Agreement.
+The Revolver and Term Loan A bear interest at SOFR plus 10 basis points, plus a variable applicable margin which is determined by the Company's net leverage ratio. As of September 30, 2025, that applicable margin was 150 basis points which was based on the pricing grid in the Credit Agreement. The Company had $572.8 million available borrowing capacity, after consideration of $8.2 million in outstanding letters of credit, under the Revolver as of September 30, 2025.
+The Company is required to pay a commitment fee on the unused portion of the Revolver as determined by a pricing grid based on the consolidated total net secured leverage ratio of the Company. For the period ended September 30, 2025, the Company's commitment fee rate was 0.25%. 
+The estimated contractual payments, including interest, under the Credit Agreement for the next twelve months are estimated to be $182.3 million assuming no change in the weighted average borrowing rate of 5.8%, which was in place as of September 30, 2025. During the nine months ended September 30, 2025, we had repayments of principal and interest on the Credit Agreement of $841.7 million.
+2027 Senior Notes
+As of September 30, 2025, we had $600.0 million in aggregate principal amount of 5.500%  senior unsecured notes that mature on April 1, 2027 (the "2027 Senior Notes"). The 2027 Senior Notes were issued at par in a private offering to qualified institutional buyers, with interest payable in arrears on April 1st and October 1st of each year, commencing on October 1st, 2019. The Company may redeem some or all of the 2027 Senior Notes at redemption prices set forth in the Indenture.
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+39
+2028 Senior Notes
+As of September 30, 2025, we had a total of $700.0 million in aggregate principal amount of 4.750% senior unsecured notes (the "2028 Senior Notes") maturing on January 15, 2028. The 2028 Senior Notes consist of $500.0 million notes issued at par and $200.0 million notes issued at 103.25%. The 2028 Senior Notes were issued in a private offering to qualified institutional buyers, with interest payable in arrears on January 15th and July 15th of each year, commencing on July 15th, 2018. The 3.25% premium is being amortized through interest expense, net over the term of the notes. The Company may redeem some or all the 2028 Senior Notes at redemption prices set forth in the Indenture.
+2030 Senior Notes
+As of September 30, 2025, we had  $1.2 billion in aggregate principal amount of 5.750% senior unsecured notes that mature on April 13, 2030 (the "2030 Senior Notes"). The 2030 Senior Notes were issued at par in a private offering to qualified institutional buyers, with interest payable in arrears on April 1st and October 1st of each year, commencing on October 1st, 2022. The Company may redeem some or all the 2030 Senior Notes at redemption prices set forth in the Indenture.
+2031 Senior Notes 
+As of September 30, 2025, we had $600.0 million in aggregate principal amount of 6.750% senior unsecured notes that mature on April 25, 2031 (the "2031 Senior Notes"). The 2031 Senior Notes were issued at par in a private offering to qualified institutional buyers, with interest payable in arrears on May 1st and November 1st of each year, commencing on November 1st, 2023. The Company may redeem some or all of the 2031 Senior Notes at redemption prices set forth in the Indenture. 
+Leases
+The Company leases certain real estate and other property. Most of our building and land leases have terms of 2 to 10 years and include one or more options to renew, with renewal terms that can extend the lease term from 1 to 5 years or more. Certain of our lease agreements include lease payments based on a percentage of net gaming revenue and others include rental payment adjustments periodically for inflation. As of September 30, 2025, minimum rent payable under operating leases was $56.0 million, with $7.0 million due in the next twelve months. As of September 30, 2025, minimum rent payable accounted for as financing obligations was $47.9 million, with $4.8 million due in the next twelve months.
+Other Contractual Obligations
+The Company has other contractual obligations with commitments of $10.9 million, $1.5 million of which is due within the next twelve months.
+ITEM 3.    QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+We are exposed to market risks arising from adverse changes in:
+•
+general economic trends; and
+•
+interest rate and credit risk.
+General economic trends
+Our business is sensitive to consumer confidence and reductions in consumers' discretionary spending, which may result from challenging economic conditions, inflation, unemployment levels and other changes in the economy. Demand for entertainment and leisure activities is sensitive to consumers’ disposable incomes, which can be adversely affected by economic conditions and unemployment levels. This could result in fewer patrons visiting our racetracks, HRM entertainment venues, online wagering sites, and gaming facilities, and/or may impact our customers’ ability to wager with the same frequency and to maintain wagering levels.
+Interest rate and credit risk
+Our primary exposure to market risk relates to changes in interest rates. On September 30, 2025, we had $2.0 billion outstanding under our Credit Agreement, which bears interest at SOFR based variable rates. We are exposed to market risk on variable rate debt due to potential adverse changes in these rates. Assuming the outstanding balance of the debt facility remains constant, a one-percentage point increase in the SOFR rate would reduce net income and cash flows from operating activities by $15.0 million. 
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+40
+ITEM 4.    CONTROLS AND PROCEDURES 
+Evaluation of Disclosure Controls and Procedures
+We maintain disclosure controls and procedures designed to ensure that information required to be disclosed in our reports that we file under the Securities Exchange Act of 1934, as amended, is recorded, processed, summarized, and reported within the time periods specified in the Securities and Exchange Commission rules and forms, and that such information is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosures.
+As required by the Securities and Exchange Commission Rule 13a-15(e), we carried out an evaluation, under the supervision and with the participation of management, including our Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of our disclosure controls and procedures as of September 30, 2025. Based upon the foregoing, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective.
+Changes in Internal Control over Financial Reporting
+There has been no change in our internal controls over financial reporting during our most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. Our process for evaluating controls and procedures is continuous and encompasses constant improvement of the design and effectiveness of established controls and procedures.
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+41
+PART II.    OTHER INFORMATION
+ITEM 1.        LEGAL PROCEEDINGS 
+We are involved in ordinary routine litigation matters which are incidental to our business. Refer to Note 14, Contingencies, in the notes to our condensed consolidated financial statements, for further information.
+ITEM 1A.    RISK FACTORS
+There have been no material changes to our risk factors previously disclosed in Part I, Item 1A of our Annual Report on Form 10-K for the year ended December 31, 2024. 
+ITEM 2.    UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+Issuer Purchases of Common Stock
+The following table provides information with respect to shares of common stock that we repurchased during the quarter ended September 30, 2025:
+Period
+Total Number of Shares Purchased 
+(1)(2)
+Average Price Paid Per Share
+Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs 
+(1) 
+Approximate Dollar Value of Shares That May Yet Be Purchased Under the Plans or Programs (in millions) 
+(1) 
+July 2025
+205,329 
+$
+107.10 
+205,267 
+$
+493.0 
+August 2025
+203,874 
+103.31 
+203,154 
+472.0 
+September 2025
+107,106 
+97.83 
+107,106 
+461.5 
+Total
+516,309 
+$
+103.68 
+515,527 
+(1)
+On March 12, 2025, the Board of Directors of the Company approved a common stock repurchase program of up to $500.0 million (the "March 2025 Stock Repurchase Program"). The March 2025 Stock Repurchase Program included and was not in addition to the $125.6 million remaining under the prior 2021 Stock Repurchase Program authorization. On July 22, 2025, the Board of Directors of the Company approved a common stock repurchase program of up to $500.0 million (the "July 2025 Stock Repurchase Program"). The July 2025 Stock Repurchase Program includes and is not in addition to the $169.2 million previously remaining under the March 2025 Stock Repurchase Program authorization. Share repurchases may be made at management's discretion from time to time in the open market (either with or without a 10b5-1 plan) or through privately negotiated transactions. The repurchase program has no time limit and may be suspended or discontinued at any time.
+(2)
+Includes shares withheld to pay taxes on the vesting of restricted stock and restricted stock units or to pay taxes on the exercise of stock options granted to employees.
+ITEM 3.    DEFAULTS UPON SENIOR SECURITIES
+Not applicable.
+ITEM 4.    MINE SAFETY DISCLOSURES
+Not applicable.
+ITEM 5.    OTHER INFORMATION
+During the fiscal quarter ended September 30, 2025, none of the Company’s directors or executive officers 
+adopted
+ or 
+terminated
+ any contract, instruction or written plan for the purchase or sale of Company securities that was intended to satisfy the affirmative defense conditions of Rule 10b5-1 or any non-Rule 10b5-1 trading arrangement.
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+42
+ITEM 6.    EXHIBITS 
+Number
+Description
+By reference to:
+31(a)
+Certification of Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002*
+31(b)
+Certification of Principal Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002*
+32
+Certification of Chief Executive Officer and Principal Financial Officer Pursuant to 18 U.S.C. Section 1350, As Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (furnished pursuant to Rule 13a – 14(b))**
+101.INS
+XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document*
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document*
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document*
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document*
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document*
+104
+Cover Page Interactive Data File (embedded as Inline XBRL and contained in Exhibit 101)
+*filed herewith
+**furnished herewith
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+43
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+CHURCHILL DOWNS INCORPORATED
+October 22, 2025
+/s/ William C. Carstanjen
+William C. Carstanjen
+Chief Executive Officer
+(Principal Executive Officer)
+October 22, 2025
+/s/ Marcia A. Dall
+Marcia A. Dall
+Executive Vice President and Chief Financial Officer
+(Principal Financial and Accounting Officer)
+
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+44

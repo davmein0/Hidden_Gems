@@ -1,0 +1,7345 @@
+10-Q
+
+false
+--12-29
+458
+355
+319
+313
+466
+328
+323
+314
+Q3
+277
+307
+305
+307
+388
+0001116942
+326
+http://fasb.org/srt/2025#ChiefExecutiveOfficerMember http://fasb.org/srt/2025#PresidentMember
+0001116942
+us-gaap:TransferredOverTimeMember
+2024-01-02
+2024-09-30
+0001116942
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+ttmi:SeniorNotesDueTwoThousandTwentyNineMember
+2025-09-29
+0001116942
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-04-01
+0001116942
+us-gaap:TreasuryStockCommonMember
+2024-01-02
+2024-04-01
+0001116942
+us-gaap:CommonStockMember
+2024-07-01
+0001116942
+ttmi:RobertFarrellMember
+2025-07-01
+2025-09-29
+0001116942
+us-gaap:OtherDebtSecuritiesMember
+2024-12-30
+0001116942
+ttmi:MedicalIndustrialInstrumentationMember
+ttmi:CommercialMember
+2024-07-02
+2024-09-30
+0001116942
+us-gaap:OperatingSegmentsMember
+ttmi:RadioFrequencyAndSpecialtyComponentsMember
+2024-12-31
+2025-09-29
+0001116942
+ttmi:MedicalIndustrialInstrumentationMember
+2024-01-02
+2024-09-30
+0001116942
+us-gaap:OperatingSegmentsMember
+2024-01-02
+2024-09-30
+0001116942
+us-gaap:IntersegmentEliminationMember
+ttmi:CommercialMember
+2024-12-31
+2025-09-29
+0001116942
+us-gaap:CommonStockMember
+2024-01-02
+2024-04-01
+0001116942
+us-gaap:RetainedEarningsMember
+2024-09-30
+0001116942
+ttmi:AerospaceAndDefenseMember
+us-gaap:OperatingSegmentsMember
+2025-07-01
+2025-09-29
+0001116942
+us-gaap:TransferredAtPointInTimeMember
+2024-01-02
+2024-09-30
+0001116942
+ttmi:DataCenterComputingMember
+2024-07-02
+2024-09-30
+0001116942
+us-gaap:OperatingSegmentsMember
+ttmi:CommercialMember
+2025-07-01
+2025-09-29
+0001116942
+ttmi:AssetBackedLendingRevolvingLoansMember
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2025-09-29
+0001116942
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-01-01
+0001116942
+us-gaap:CorporateNonSegmentMember
+2025-07-01
+2025-09-29
+0001116942
+us-gaap:OperatingSegmentsMember
+ttmi:RadioFrequencyAndSpecialtyComponentsMember
+2025-07-01
+2025-09-29
+0001116942
+ttmi:UsAssetBasedLendingRevolvingLoanDueTwoThousandTwentyFourMember
+2024-12-30
+0001116942
+ttmi:AerospaceAndDefenseMember
+us-gaap:IntersegmentEliminationMember
+2024-01-02
+2024-09-30
+0001116942
+srt:WeightedAverageMember
+2024-12-31
+2025-09-29
+0001116942
+ttmi:AutomotiveComponentsMember
+ttmi:RadioFrequencyAndSpecialtyComponentsMember
+2024-07-02
+2024-09-30
+0001116942
+ttmi:NetworkingCommunicationMember
+2024-12-31
+2025-09-29
+0001116942
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-07-02
+2024-09-30
+0001116942
+ttmi:AsiaAssetBasedLendingRevolvingLoanDueJuneTwoThousandTwentyEightMember
+2024-12-31
+2025-09-29
+0001116942
+ttmi:AerospaceAndDefenseMember
+us-gaap:IntersegmentEliminationMember
+2024-12-31
+2025-09-29
+0001116942
+ttmi:AerospaceAndDefenseMember
+2024-01-02
+2024-09-30
+0001116942
+us-gaap:IntersegmentEliminationMember
+ttmi:RadioFrequencyAndSpecialtyComponentsMember
+2024-12-31
+2025-09-29
+0001116942
+ttmi:AerospaceAndDefenseMember
+2024-12-31
+2025-09-29
+0001116942
+ttmi:MedicalIndustrialInstrumentationMember
+ttmi:RadioFrequencyAndSpecialtyComponentsMember
+2024-12-31
+2025-09-29
+0001116942
+ttmi:MedicalIndustrialInstrumentationMember
+ttmi:CommercialMember
+2024-01-02
+2024-09-30
+0001116942
+2025-06-30
+0001116942
+2025-03-31
+0001116942
+ttmi:DanielLBoehleMember
+2025-07-01
+2025-09-29
+0001116942
+us-gaap:AdditionalPaidInCapitalMember
+2024-04-02
+2024-07-01
+0001116942
+us-gaap:CommonStockMember
+2025-04-01
+2025-06-30
+0001116942
+ttmi:AsiaAssetBasedLendingRevolvingLoanDueJuneTwoThousandTwentyEightMember
+2024-12-30
+0001116942
+us-gaap:CorporateNonSegmentMember
+2024-07-02
+2024-09-30
+0001116942
+us-gaap:OperatingSegmentsMember
+2024-12-31
+2025-09-29
+0001116942
+ttmi:MedicalIndustrialInstrumentationMember
+ttmi:CommercialMember
+2024-12-31
+2025-09-29
+0001116942
+us-gaap:AdditionalPaidInCapitalMember
+2024-01-02
+2024-04-01
+0001116942
+ttmi:NetworkingCommunicationMember
+ttmi:RadioFrequencyAndSpecialtyComponentsMember
+2024-07-02
+2024-09-30
+0001116942
+ttmi:NetworkingCommunicationMember
+ttmi:RadioFrequencyAndSpecialtyComponentsMember
+2024-12-31
+2025-09-29
+0001116942
+us-gaap:TransferredOverTimeMember
+2025-07-01
+2025-09-29
+0001116942
+2024-04-01
+0001116942
+2023-05-03
+2023-05-03
+0001116942
+ttmi:ThomasTEdmanMember
+ttmi:Rule10B51TradingPlanTwoMember
+2025-07-01
+2025-09-29
+0001116942
+us-gaap:IntersegmentEliminationMember
+2024-01-02
+2024-09-30
+0001116942
+ttmi:NetworkingCommunicationMember
+ttmi:CommercialMember
+2024-12-31
+2025-09-29
+0001116942
+2024-07-01
+0001116942
+us-gaap:TreasuryStockCommonMember
+2025-03-31
+0001116942
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2025-09-29
+0001116942
+ttmi:ThomasTEdmanMember
+ttmi:Rule10B51TradingPlanOneMember
+2025-07-01
+2025-09-29
+0001116942
+us-gaap:TreasuryStockCommonMember
+2024-04-02
+2024-07-01
+0001116942
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+ttmi:TermLoanDueTwoThousandThirtyMember
+2025-09-29
+0001116942
+us-gaap:CommonStockMember
+2025-03-31
+0001116942
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2025-09-29
+0001116942
+us-gaap:CustomerRelationshipsMember
+2025-09-29
+0001116942
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-09-30
+0001116942
+ttmi:TechnologyMember
+2024-12-30
+0001116942
+ttmi:AutomotiveComponentsMember
+ttmi:CommercialMember
+2024-12-31
+2025-09-29
+0001116942
+ttmi:AerospaceAndDefenseMember
+us-gaap:OperatingSegmentsMember
+2024-12-31
+2025-09-29
+0001116942
+ttmi:AutomotiveComponentsMember
+ttmi:CommercialMember
+2025-07-01
+2025-09-29
+0001116942
+ttmi:SeniorNotesDueTwoThousandTwentyNineMember
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2025-09-29
+0001116942
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-31
+2025-03-31
+0001116942
+us-gaap:IntersegmentEliminationMember
+ttmi:RadioFrequencyAndSpecialtyComponentsMember
+2025-07-01
+2025-09-29
+0001116942
+us-gaap:IntersegmentEliminationMember
+ttmi:CommercialMember
+2024-07-02
+2024-09-30
+0001116942
+2024-12-31
+2025-03-31
+0001116942
+us-gaap:CommonStockMember
+2024-12-31
+2025-03-31
+0001116942
+2025-05-08
+2025-05-08
+0001116942
+ttmi:OtherThanUnitedStatesAndTaiwanMember
+2025-07-01
+2025-09-29
+0001116942
+ttmi:AerospaceAndDefenseMember
+2024-07-02
+2024-09-30
+0001116942
+us-gaap:SalesRevenueNetMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+us-gaap:CustomerConcentrationRiskMember
+2024-01-02
+2024-09-30
+0001116942
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+ttmi:OtherLoanMember
+2025-09-29
+0001116942
+us-gaap:IntersegmentEliminationMember
+ttmi:RadioFrequencyAndSpecialtyComponentsMember
+2024-01-02
+2024-09-30
+0001116942
+ttmi:AssetBackedLendingRevolvingLoansMember
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2024-12-30
+0001116942
+ttmi:AutomotiveComponentsMember
+2024-07-02
+2024-09-30
+0001116942
+ttmi:AutomotiveComponentsMember
+2025-07-01
+2025-09-29
+0001116942
+ttmi:NetworkingCommunicationMember
+2025-07-01
+2025-09-29
+0001116942
+ttmi:TermLoanDueTwoThousandThirtyMember
+2024-12-31
+2025-09-29
+0001116942
+ttmi:OtherLoanMember
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2025-09-29
+0001116942
+us-gaap:IntersegmentEliminationMember
+2024-07-02
+2024-09-30
+0001116942
+ttmi:TermLoanDueTwoThousandThirtyMember
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2024-12-30
+0001116942
+2024-01-02
+2024-12-30
+0001116942
+us-gaap:CorporateNonSegmentMember
+2024-12-31
+2025-09-29
+0001116942
+ttmi:MedicalIndustrialInstrumentationMember
+2024-12-31
+2025-09-29
+0001116942
+ttmi:DanielJWeberMember
+2025-07-01
+2025-09-29
+0001116942
+ttmi:NetworkingCommunicationMember
+2024-07-02
+2024-09-30
+0001116942
+us-gaap:TreasuryStockCommonMember
+2024-01-01
+0001116942
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+ttmi:OtherLoanMember
+2024-12-30
+0001116942
+country:US
+2024-12-31
+2025-09-29
+0001116942
+us-gaap:TreasuryStockCommonMember
+2024-04-01
+0001116942
+ttmi:Rule10B51TradingPlanOneMember
+ttmi:ShawnPowersMember
+2025-07-01
+2025-09-29
+0001116942
+ttmi:AerospaceAndDefenseMember
+us-gaap:OperatingSegmentsMember
+2024-07-02
+2024-09-30
+0001116942
+us-gaap:TransferredOverTimeMember
+2024-07-02
+2024-09-30
+0001116942
+ttmi:MedicalIndustrialInstrumentationMember
+ttmi:CommercialMember
+2025-07-01
+2025-09-29
+0001116942
+us-gaap:SalesRevenueNetMember
+2024-07-02
+2024-09-30
+0001116942
+ttmi:NetworkingCommunicationMember
+ttmi:CommercialMember
+2024-01-02
+2024-09-30
+0001116942
+us-gaap:CommonStockMember
+2024-04-01
+0001116942
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2024-12-30
+0001116942
+us-gaap:RetainedEarningsMember
+2025-04-01
+2025-06-30
+0001116942
+us-gaap:TransferredOverTimeMember
+2024-12-31
+2025-09-29
+0001116942
+ttmi:AerospaceAndDefenseMember
+us-gaap:IntersegmentEliminationMember
+2025-07-01
+2025-09-29
+0001116942
+ttmi:TermLoanDueTwoThousandThirtyMember
+2025-09-29
+0001116942
+ttmi:PerformanceBasedRestrictedStockUnitsRestrictedStockUnitsAndStockOptionsMember
+2024-01-02
+2024-09-30
+0001116942
+ttmi:DataCenterComputingMember
+ttmi:RadioFrequencyAndSpecialtyComponentsMember
+2024-01-02
+2024-09-30
+0001116942
+2025-09-30
+2025-09-29
+0001116942
+ttmi:ThomasClapproodMember
+2025-07-01
+2025-09-29
+0001116942
+us-gaap:CommonStockMember
+2024-01-01
+0001116942
+ttmi:UsAssetBasedLendingRevolvingLoanDueTwoThousandTwentyFourMember
+2025-09-29
+0001116942
+ttmi:CommercialMember
+2024-12-30
+0001116942
+us-gaap:RetainedEarningsMember
+2025-09-29
+0001116942
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-04-02
+2024-07-01
+0001116942
+2025-09-29
+0001116942
+us-gaap:RetainedEarningsMember
+2025-03-31
+0001116942
+country:US
+2024-07-02
+2024-09-30
+0001116942
+ttmi:TechnologyMember
+2025-09-29
+0001116942
+us-gaap:RetainedEarningsMember
+2025-06-30
+0001116942
+ttmi:AerospaceAndDefenseMember
+2025-09-29
+0001116942
+us-gaap:AdditionalPaidInCapitalMember
+2024-04-01
+0001116942
+ttmi:AerospaceAndDefenseMember
+us-gaap:OperatingSegmentsMember
+2024-01-02
+2024-09-30
+0001116942
+ttmi:Rule10B51TradingPlanOneMember
+ttmi:DouglasLSoderMember
+2025-07-01
+2025-09-29
+0001116942
+2024-01-02
+2024-04-01
+0001116942
+us-gaap:AdditionalPaidInCapitalMember
+2024-01-01
+0001116942
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+us-gaap:AccountsReceivableMember
+us-gaap:CustomerConcentrationRiskMember
+2024-01-02
+2024-12-30
+0001116942
+ttmi:CatherineAGridleyMember
+2025-07-01
+2025-09-29
+0001116942
+ttmi:CommercialMember
+2024-07-02
+2024-09-30
+0001116942
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2025-09-29
+0001116942
+ttmi:TermLoanDueTwoThousandThirtyMember
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2025-09-29
+0001116942
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-04-01
+2025-06-30
+0001116942
+ttmi:CommercialMember
+2025-07-01
+2025-09-29
+0001116942
+ttmi:RadioFrequencyAndSpecialtyComponentsMember
+2024-12-31
+2025-09-29
+0001116942
+us-gaap:IntersegmentEliminationMember
+2025-07-01
+2025-09-29
+0001116942
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-07-01
+0001116942
+us-gaap:SalesRevenueNetMember
+2024-01-02
+2024-09-30
+0001116942
+ttmi:Rule10B51TradingPlanOneMember
+ttmi:DouglasLSoderMember
+2025-09-29
+0001116942
+us-gaap:TransferredAtPointInTimeMember
+2024-07-02
+2024-09-30
+0001116942
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-12-30
+0001116942
+ttmi:MedicalIndustrialInstrumentationMember
+ttmi:RadioFrequencyAndSpecialtyComponentsMember
+2024-01-02
+2024-09-30
+0001116942
+us-gaap:IntersegmentEliminationMember
+ttmi:CommercialMember
+2024-01-02
+2024-09-30
+0001116942
+ttmi:RadioFrequencyAndSpecialtyComponentsMember
+2024-07-02
+2024-09-30
+0001116942
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-30
+0001116942
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+us-gaap:AccountsReceivableMember
+us-gaap:CustomerConcentrationRiskMember
+2024-12-31
+2025-09-29
+0001116942
+ttmi:DataCenterComputingMember
+ttmi:RadioFrequencyAndSpecialtyComponentsMember
+2024-12-31
+2025-09-29
+0001116942
+ttmi:SeniorNotesDueTwoThousandTwentyNineMember
+2024-12-31
+2025-09-29
+0001116942
+ttmi:AutomotiveComponentsMember
+2024-01-02
+2024-09-30
+0001116942
+ttmi:StevenSpotoMember
+2025-07-01
+2025-09-29
+0001116942
+ttmi:CommercialMember
+2024-01-02
+2024-09-30
+0001116942
+us-gaap:OperatingSegmentsMember
+ttmi:RadioFrequencyAndSpecialtyComponentsMember
+2024-07-02
+2024-09-30
+0001116942
+us-gaap:CommonStockMember
+2025-06-30
+0001116942
+us-gaap:AdditionalPaidInCapitalMember
+2024-07-01
+0001116942
+ttmi:AerospaceAndDefenseMember
+2025-07-01
+2025-09-29
+0001116942
+ttmi:AerospaceAndDefenseMember
+2024-12-30
+0001116942
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-30
+0001116942
+us-gaap:OtherDebtSecuritiesMember
+2025-09-29
+0001116942
+ttmi:DataCenterComputingMember
+2025-07-01
+2025-09-29
+0001116942
+ttmi:AutomotiveComponentsMember
+ttmi:RadioFrequencyAndSpecialtyComponentsMember
+2024-12-31
+2025-09-29
+0001116942
+ttmi:MedicalIndustrialInstrumentationMember
+2024-07-02
+2024-09-30
+0001116942
+us-gaap:CommonStockMember
+2024-04-02
+2024-07-01
+0001116942
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-03-31
+0001116942
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-01-02
+2024-04-01
+0001116942
+us-gaap:OperatingSegmentsMember
+2024-07-02
+2024-09-30
+0001116942
+ttmi:AsiaAssetBasedLendingRevolvingLoanDueJuneTwoThousandTwentyEightMember
+2025-09-29
+0001116942
+us-gaap:SalesRevenueNetMember
+2024-12-31
+2025-09-29
+0001116942
+country:US
+2025-07-01
+2025-09-29
+0001116942
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+ttmi:TermLoanDueTwoThousandThirtyMember
+2024-12-30
+0001116942
+ttmi:SeniorNotesDueTwoThousandTwentyNineMember
+2024-12-30
+0001116942
+ttmi:RadioFrequencyAndSpecialtyComponentsMember
+2024-12-30
+0001116942
+ttmi:AerospaceAndDefenseMember
+us-gaap:IntersegmentEliminationMember
+2024-07-02
+2024-09-30
+0001116942
+country:CN
+2025-09-29
+0001116942
+us-gaap:TreasuryStockCommonMember
+2024-07-01
+0001116942
+ttmi:JamesPWalshMember
+2025-07-01
+2025-09-29
+0001116942
+2024-09-30
+0001116942
+country:TW
+2024-01-02
+2024-09-30
+0001116942
+us-gaap:RetainedEarningsMember
+2025-07-01
+2025-09-29
+0001116942
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-31
+0001116942
+ttmi:AutomotiveComponentsMember
+ttmi:CommercialMember
+2024-01-02
+2024-09-30
+0001116942
+us-gaap:IntersegmentEliminationMember
+ttmi:CommercialMember
+2025-07-01
+2025-09-29
+0001116942
+ttmi:DataCenterComputingMember
+ttmi:CommercialMember
+2024-01-02
+2024-09-30
+0001116942
+ttmi:OtherLoanMember
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2024-12-30
+0001116942
+us-gaap:RetainedEarningsMember
+2024-01-02
+2024-04-01
+0001116942
+us-gaap:AdditionalPaidInCapitalMember
+2025-09-29
+0001116942
+us-gaap:TreasuryStockCommonMember
+2024-09-30
+0001116942
+ttmi:OtherThanUnitedStatesAndTaiwanMember
+2024-12-31
+2025-09-29
+0001116942
+ttmi:SeniorNotesDueTwoThousandTwentyNineMember
+2025-09-29
+0001116942
+ttmi:TermLoanDueTwoThousandThirtyMember
+2024-12-30
+0001116942
+us-gaap:AdditionalPaidInCapitalMember
+2025-07-01
+2025-09-29
+0001116942
+us-gaap:RetainedEarningsMember
+2024-04-02
+2024-07-01
+0001116942
+us-gaap:SalesRevenueNetMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+us-gaap:CustomerConcentrationRiskMember
+2024-07-02
+2024-09-30
+0001116942
+us-gaap:CommonStockMember
+2024-12-30
+0001116942
+us-gaap:RetainedEarningsMember
+2024-12-31
+2025-03-31
+0001116942
+ttmi:NetworkingCommunicationMember
+ttmi:CommercialMember
+2025-07-01
+2025-09-29
+0001116942
+us-gaap:OperatingSegmentsMember
+ttmi:CommercialMember
+2024-01-02
+2024-09-30
+0001116942
+ttmi:RadioFrequencyAndSpecialtyComponentsMember
+2024-01-02
+2024-09-30
+0001116942
+ttmi:AutomotiveComponentsMember
+ttmi:RadioFrequencyAndSpecialtyComponentsMember
+2024-01-02
+2024-09-30
+0001116942
+ttmi:RadioFrequencyAndSpecialtyComponentsMember
+2025-09-29
+0001116942
+ttmi:Rule10B51TradingPlanTwoMember
+ttmi:ShawnPowersMember
+2025-07-01
+2025-09-29
+0001116942
+ttmi:PerformanceBasedRestrictedStockUnitsAndRestrictedStockUnitsMember
+2025-07-01
+2025-09-29
+0001116942
+us-gaap:TreasuryStockCommonMember
+2024-12-31
+2025-03-31
+0001116942
+us-gaap:IntersegmentEliminationMember
+2024-12-31
+2025-09-29
+0001116942
+2024-04-02
+2024-07-01
+0001116942
+ttmi:SeniorNotesDueTwoThousandTwentyNineMember
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2024-12-30
+0001116942
+us-gaap:CommonStockMember
+2025-09-29
+0001116942
+2024-12-30
+0001116942
+country:TW
+2024-12-31
+2025-09-29
+0001116942
+ttmi:OtherThanUnitedStatesAndTaiwanMember
+2024-01-02
+2024-09-30
+0001116942
+ttmi:NetworkingCommunicationMember
+ttmi:RadioFrequencyAndSpecialtyComponentsMember
+2025-07-01
+2025-09-29
+0001116942
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+ttmi:SeniorNotesDueTwoThousandTwentyNineMember
+2024-12-30
+0001116942
+2025-07-01
+2025-09-29
+0001116942
+ttmi:PerformanceBasedRestrictedStockUnitsRestrictedStockUnitsAndStockOptionsMember
+2024-07-02
+2024-09-30
+0001116942
+country:CN
+2024-12-30
+0001116942
+us-gaap:OperatingSegmentsMember
+ttmi:RadioFrequencyAndSpecialtyComponentsMember
+2024-01-02
+2024-09-30
+0001116942
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-09-29
+0001116942
+us-gaap:AccumulatedTranslationAdjustmentMember
+2025-09-29
+0001116942
+country:TW
+2025-07-01
+2025-09-29
+0001116942
+us-gaap:CommonStockMember
+2025-07-01
+2025-09-29
+0001116942
+us-gaap:IntersegmentEliminationMember
+ttmi:RadioFrequencyAndSpecialtyComponentsMember
+2024-07-02
+2024-09-30
+0001116942
+us-gaap:CustomerRelationshipsMember
+2024-12-30
+0001116942
+us-gaap:RetainedEarningsMember
+2024-04-01
+0001116942
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+ttmi:AssetBackedLendingRevolvingLoansMember
+2024-12-30
+0001116942
+us-gaap:AccountsReceivableMember
+2024-01-02
+2024-12-30
+0001116942
+2024-01-02
+2024-09-30
+0001116942
+us-gaap:TreasuryStockCommonMember
+2025-06-30
+0001116942
+ttmi:DaleKnechtMember
+2025-07-01
+2025-09-29
+0001116942
+ttmi:DataCenterComputingMember
+2024-12-31
+2025-09-29
+0001116942
+us-gaap:RetainedEarningsMember
+2024-07-02
+2024-09-30
+0001116942
+us-gaap:TreasuryStockCommonMember
+2025-09-29
+0001116942
+us-gaap:TreasuryStockCommonMember
+2024-12-30
+0001116942
+us-gaap:OperatingSegmentsMember
+ttmi:CommercialMember
+2024-12-31
+2025-09-29
+0001116942
+us-gaap:TransferredAtPointInTimeMember
+2024-12-31
+2025-09-29
+0001116942
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+2025-03-31
+0001116942
+ttmi:DataCenterComputingMember
+ttmi:RadioFrequencyAndSpecialtyComponentsMember
+2025-07-01
+2025-09-29
+0001116942
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2024-12-30
+0001116942
+us-gaap:SalesRevenueNetMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+us-gaap:CustomerConcentrationRiskMember
+2025-07-01
+2025-09-29
+0001116942
+us-gaap:AdditionalPaidInCapitalMember
+2024-07-02
+2024-09-30
+0001116942
+ttmi:CommercialMember
+2024-12-31
+2025-09-29
+0001116942
+us-gaap:CommonStockMember
+2024-07-02
+2024-09-30
+0001116942
+ttmi:AutomotiveComponentsMember
+ttmi:RadioFrequencyAndSpecialtyComponentsMember
+2025-07-01
+2025-09-29
+0001116942
+2024-01-01
+0001116942
+ttmi:DataCenterComputingMember
+ttmi:CommercialMember
+2025-07-01
+2025-09-29
+0001116942
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-07-01
+2025-09-29
+0001116942
+ttmi:MedicalIndustrialInstrumentationMember
+2025-07-01
+2025-09-29
+0001116942
+ttmi:MedicalIndustrialInstrumentationMember
+ttmi:RadioFrequencyAndSpecialtyComponentsMember
+2025-07-01
+2025-09-29
+0001116942
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2025-09-29
+0001116942
+2025-05-08
+0001116942
+us-gaap:OperatingSegmentsMember
+2025-07-01
+2025-09-29
+0001116942
+ttmi:ThomasTEdmanMember
+ttmi:Rule10B51TradingPlanTwoMember
+2025-09-29
+0001116942
+ttmi:DataCenterComputingMember
+ttmi:RadioFrequencyAndSpecialtyComponentsMember
+2024-07-02
+2024-09-30
+0001116942
+2025-04-01
+2025-06-30
+0001116942
+ttmi:OtherThanUnitedStatesAndTaiwanMember
+2024-07-02
+2024-09-30
+0001116942
+ttmi:ShawnPowersMember
+ttmi:Rule10B51TradingPlanTwoMember
+2025-09-29
+0001116942
+ttmi:NetworkingCommunicationMember
+2024-01-02
+2024-09-30
+0001116942
+ttmi:DataCenterComputingMember
+ttmi:CommercialMember
+2024-07-02
+2024-09-30
+0001116942
+us-gaap:AccountsReceivableMember
+2024-12-31
+2025-09-29
+0001116942
+ttmi:Rule10B51TradingPlanTwoMember
+ttmi:DouglasLSoderMember
+2025-07-01
+2025-09-29
+0001116942
+us-gaap:SalesRevenueNetMember
+2025-07-01
+2025-09-29
+0001116942
+us-gaap:RetainedEarningsMember
+2024-01-01
+0001116942
+2024-12-31
+2025-09-29
+0001116942
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2024-12-30
+0001116942
+ttmi:CommercialMember
+2025-09-29
+0001116942
+us-gaap:SalesRevenueNetMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+us-gaap:CustomerConcentrationRiskMember
+2024-12-31
+2025-09-29
+0001116942
+ttmi:NetworkingCommunicationMember
+ttmi:CommercialMember
+2024-07-02
+2024-09-30
+0001116942
+us-gaap:TransferredAtPointInTimeMember
+2025-07-01
+2025-09-29
+0001116942
+country:US
+2024-01-02
+2024-09-30
+0001116942
+country:TW
+2024-07-02
+2024-09-30
+0001116942
+us-gaap:AdditionalPaidInCapitalMember
+2025-04-01
+2025-06-30
+0001116942
+ttmi:NetworkingCommunicationMember
+ttmi:RadioFrequencyAndSpecialtyComponentsMember
+2024-01-02
+2024-09-30
+0001116942
+2025-10-29
+0001116942
+ttmi:MedicalIndustrialInstrumentationMember
+ttmi:RadioFrequencyAndSpecialtyComponentsMember
+2024-07-02
+2024-09-30
+0001116942
+us-gaap:CommonStockMember
+2024-09-30
+0001116942
+ttmi:PerformanceBasedRestrictedStockUnitsAndRestrictedStockUnitsMember
+2024-12-31
+2025-09-29
+0001116942
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+ttmi:AssetBackedLendingRevolvingLoansMember
+2025-09-29
+0001116942
+us-gaap:OperatingSegmentsMember
+ttmi:CommercialMember
+2024-07-02
+2024-09-30
+0001116942
+us-gaap:AdditionalPaidInCapitalMember
+2024-09-30
+0001116942
+ttmi:DataCenterComputingMember
+2024-01-02
+2024-09-30
+0001116942
+ttmi:AutomotiveComponentsMember
+2024-12-31
+2025-09-29
+0001116942
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-06-30
+0001116942
+ttmi:RadioFrequencyAndSpecialtyComponentsMember
+2025-07-01
+2025-09-29
+0001116942
+us-gaap:CorporateNonSegmentMember
+2024-01-02
+2024-09-30
+0001116942
+2024-07-02
+2024-09-30
+0001116942
+us-gaap:AdditionalPaidInCapitalMember
+2025-06-30
+0001116942
+us-gaap:RetainedEarningsMember
+2024-12-30
+0001116942
+ttmi:AutomotiveComponentsMember
+ttmi:CommercialMember
+2024-07-02
+2024-09-30
+0001116942
+ttmi:DataCenterComputingMember
+ttmi:CommercialMember
+2024-12-31
+2025-09-29
+0001116942
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2024-12-30
+0001116942
+us-gaap:RetainedEarningsMember
+2024-07-01
+xbrli:pure
+xbrli:shares
+iso4217:USD
+xbrli:shares
+ttmi:Customer
+iso4217:USD
+ttmi:Country
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, DC 20549
+
+Form 
+10-Q
+
+☑
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended 
+September 29, 
+2025
+
+Or
+☐
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from ____________ to____________
+Commission File Number: 
+000-31285
+
+TTM TECHNOLOGIES, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+91-1033443
+
+(State or other jurisdiction of
+incorporation or organization)
+
+(I.R.S. Employer
+Identification No.)
+
+200 East Sandpointe
+, 
+Suite 400
+, 
+Santa Ana
+, 
+California
+
+92707
+(Address of principal executive offices)
+
+(
+714
+) 
+327-3000
+
+(Registrant’s telephone number, including area code)
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock
+, $0.001 par value
+
+TTMI
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    
+Yes
+
+☑
+    No  
+☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).    
+Yes
+
+☑
+    No  
+☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+Large accelerated filer
+
+☑
+
+Accelerated filer
+
+☐
+
+Non-accelerated filer
+
+☐
+
+Smaller reporting company
+
+☐
+
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  
+☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes  
+☐
+    No  
+☑
+As of October 29, 2025, there were outstanding 
+103,330,725
+ sh
+ares of the registrant’s Common Stock, $0.001 par value.
+
+TTM TECHNOLOGIES, INC.
+Form 10-Q
+For the Quarter Ended September 29, 2025
+TABLE OF CONTENTS
+
+Page
+
+PART I: FINANCIAL INFORMATION
+
+3
+
+Item 1. Financial Statements (unaudited)
+
+3
+
+Consolidated Condensed Balance Sheets as of September 29, 2025 and December 30, 2024
+
+3
+
+Consolidated Condensed Statements of Operations for the quarter and three quarters ended September 29, 2025 and September 30, 2024
+
+4
+
+Consolidated Condensed Statements of Comprehensive Income for the quarter and three quarters ended September 29, 2025 and September 30, 2024
+
+5
+
+Consolidated Condensed Statements of Stockholders' Equity for the
+
+three quarters ended September 29, 2025 and September 30, 2024
+
+6
+
+Consolidated Condensed Statements of Cash Flows for the three quarters ended September 29, 2025 and September 30, 2024
+
+7
+
+Notes to Consolidated Condensed Financial Statements
+
+8
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+20
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+
+27
+
+Item 4. Controls and Procedures
+
+27
+
+PART II: OTHER INFORMATION
+
+28
+
+Item 1. Legal Proceedings
+
+28
+
+Item 1A. Risk Factors
+
+28
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+
+28
+
+Item 3. Defaults Upon Senior Securities
+
+28
+
+Item 4. Mine Safety Disclosures
+
+28
+
+Item 5. Other Information
+
+28
+
+Item 6. Exhibits
+
+30
+
+SIGNATURES
+
+31
+
+2
+
+PART I. FINANCI
+AL INFORMATION
+
+Item 1. 
+Financial Sta
+tements (unaudited)
+
+TTM TECHNOLOGIES, INC.
+
+Consolidated Condens
+ed Balance Sheets
+As of September 29, 2025 and December 30, 2024
+
+As of
+
+September 29, 2025
+
+December 30, 2024
+
+(Unaudited)
+
+(In thousands, except par value)
+
+ASSETS
+
+Current assets:
+
+Cash and cash equivalents
+
+$
+
+491,120
+
+$
+
+503,932
+
+Accounts receivable, net
+
+500,147
+
+448,611
+
+Contract assets
+
+446,967
+
+381,382
+
+Inventories
+
+253,687
+
+224,985
+
+Prepaid expenses and other current assets
+
+63,694
+
+47,834
+
+Total current assets
+
+1,755,615
+
+1,606,744
+
+Property, plant, and equipment, net
+
+992,193
+
+869,957
+
+Operating lease right-of-use assets
+
+80,905
+
+78,252
+
+Goodwill
+
+670,135
+
+670,135
+
+Definite-lived intangibles, net
+
+164,146
+
+191,819
+
+Deposits and other non-current assets
+
+57,534
+
+55,587
+
+Total assets
+
+$
+
+3,720,528
+
+$
+
+3,472,494
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Current liabilities:
+
+Short-term debt, including current portion of long-term debt
+
+$
+
+3,810
+
+$
+
+3,795
+
+Accounts payable
+
+506,386
+
+406,221
+
+Contract liabilities
+
+149,368
+
+170,915
+
+Accrued salaries, wages, and benefits
+
+131,093
+
+108,149
+
+Other current liabilities
+
+114,546
+
+119,974
+
+Total current liabilities
+
+905,203
+
+809,054
+
+Long-term debt, net of discount and issuance costs
+
+912,835
+
+914,359
+
+Operating lease liabilities
+
+84,534
+
+77,509
+
+Other long-term liabilities
+
+116,508
+
+107,748
+
+Total long-term liabilities
+
+1,113,877
+
+1,099,616
+
+Commitments and contingencies (Note 11)
+
+Equity:
+
+Common stock, $
+0.001
+ par value; 
+300,000
+ shares authorized, 
+115,195
+ and
+
+113,161
+ shares issued as of September 29, 2025 and December 30, 2024, 
+   respectively; 
+103,331
+ and 
+101,997
+ shares outstanding as of 
+   September 29, 2025 and December 30, 2024, respectively
+
+115
+
+113
+
+Treasury stock – common stock at cost; 
+11,864
+ and 
+11,164
+ shares as of 
+   September 29, 2025 and December 30, 2024, respectively
+
+(
+175,445
+
+)
+
+(
+157,570
+
+)
+
+Additional paid-in capital
+
+940,325
+
+910,741
+
+Retained earnings
+
+965,185
+
+838,422
+
+Accumulated other comprehensive loss
+
+(
+28,732
+
+)
+
+(
+27,882
+
+)
+
+Total stockholders’ equity
+
+1,701,448
+
+1,563,824
+
+Total liabilities and stockholders' equity
+
+$
+
+3,720,528
+
+$
+
+3,472,494
+
+See accompanying notes to consolidated condensed financial statements.
+
+3
+
+TTM TECHNOLOGIES, INC.
+
+Consolidated Condensed St
+atements of Operations
+
+For the Quarter and Three Quarters Ended September 29, 2025 and September 30, 2024
+
+For the Quarter Ended
+
+For the Three Quarters Ended
+
+September 29, 2025
+
+September 30, 2024
+
+September 29, 2025
+
+September 30, 2024
+
+(Unaudited)
+
+(In thousands, except per share data)
+
+Net sales
+
+$
+
+752,736
+
+$
+
+616,538
+
+$
+
+2,132,025
+
+$
+
+1,791,788
+
+Cost of goods sold
+
+596,000
+
+486,650
+
+1,696,208
+
+1,440,954
+
+Gross profit
+
+156,736
+
+129,888
+
+435,817
+
+350,834
+
+Operating expenses:
+
+Selling and marketing
+
+21,796
+
+19,961
+
+64,383
+
+60,053
+
+General and administrative
+
+48,598
+
+42,567
+
+142,091
+
+124,841
+
+Research and development
+
+7,038
+
+8,054
+
+22,111
+
+23,922
+
+Amortization of definite-lived intangibles
+
+6,889
+
+6,951
+
+20,666
+
+28,636
+
+Restructuring charges
+
+509
+
+1,393
+
+2,631
+
+6,367
+
+Total operating expenses
+
+84,830
+
+78,926
+
+251,882
+
+243,819
+
+Operating income
+
+71,906
+
+50,962
+
+183,935
+
+107,015
+
+Other (expense) income:
+
+Interest expense
+
+(
+10,399
+
+)
+
+(
+11,768
+
+)
+
+(
+32,958
+
+)
+
+(
+36,311
+
+)
+
+Other, net
+
+306
+
+(
+14,177
+
+)
+
+(
+2,648
+
+)
+
+(
+1,086
+
+)
+
+Total other expense, net
+
+(
+10,093
+
+)
+
+(
+25,945
+
+)
+
+(
+35,606
+
+)
+
+(
+37,397
+
+)
+
+Income before income taxes
+
+61,813
+
+25,017
+
+148,329
+
+69,618
+
+Income tax provision
+
+(
+8,758
+
+)
+
+(
+10,706
+
+)
+
+(
+21,566
+
+)
+
+(
+18,489
+
+)
+
+Net income
+
+$
+
+53,055
+
+$
+
+14,311
+
+$
+
+126,763
+
+$
+
+51,129
+
+Earnings per share:
+
+Basic earnings per share
+
+$
+
+0.51
+
+$
+
+0.14
+
+$
+
+1.24
+
+$
+
+0.50
+
+Diluted earnings per share
+
+0.50
+
+0.14
+
+1.21
+
+0.49
+
+See accompanying notes to consolidated condensed financial statements.
+
+4
+
+TTM TECHNOLOGIES, INC.
+
+Consolidated Condensed Statements
+ of Comprehensive Income
+For the Quarter and Three Quarters Ended September 29, 2025 and September 30, 2024
+
+For the Quarter Ended
+
+For the Three Quarters Ended
+
+September 29, 2025
+
+September 30, 2024
+
+September 29, 2025
+
+September 30, 2024
+
+(Unaudited)
+
+(In thousands)
+
+Net income
+
+$
+
+53,055
+
+$
+
+14,311
+
+$
+
+126,763
+
+$
+
+51,129
+
+Other comprehensive income (loss), net of tax:
+
+Pension obligation
+
+—
+
+—
+
+1,174
+
+—
+
+Foreign currency translation
+
+49
+
+325
+
+208
+
+(
+533
+
+)
+
+Net unrealized gain (loss) on cash flow hedges:
+
+Unrealized gain (loss) on effective cash flow 
+    hedges during the period, net
+
+335
+
+(
+3,905
+
+)
+
+(
+1,439
+
+)
+
+835
+
+Amounts realized in the statement of 
+    operations, net
+
+(
+522
+
+)
+
+(
+851
+
+)
+
+(
+793
+
+)
+
+(
+2,579
+
+)
+
+Net
+
+(
+187
+
+)
+
+(
+4,756
+
+)
+
+(
+2,232
+
+)
+
+(
+1,744
+
+)
+
+Other comprehensive loss, net of tax
+
+(
+138
+
+)
+
+(
+4,431
+
+)
+
+(
+850
+
+)
+
+(
+2,277
+
+)
+
+Comprehensive income, net of tax
+
+$
+
+52,917
+
+$
+
+9,880
+
+$
+
+125,913
+
+$
+
+48,852
+
+See accompanying notes to consolidated condensed financial statements.
+
+5
+
+TTM TECHNOLOGIES, INC.
+Consolidated Condensed Statements
+ of Stockholders’ Equity
+For the Three Quarters Ended September 29, 2025 and September 30, 2024
+
+Common Stock
+
+Treasury Stock
+
+Additional
+Paid-In
+
+Retained
+
+Accumulated
+Other
+Comprehensive
+
+Total
+Stockholders'
+
+Shares
+
+Amount
+
+Shares
+
+Amount
+
+Capital
+
+Earnings
+
+Loss
+
+Equity
+
+(Unaudited)
+
+(In thousands)
+
+Balance, December 30, 2024
+
+113,161
+
+$
+
+113
+
+(
+11,164
+
+)
+
+$
+
+(
+157,570
+
+)
+
+$
+
+910,741
+
+$
+
+838,422
+
+$
+
+(
+27,882
+
+)
+
+$
+
+1,563,824
+
+Net income
+
+—
+
+—
+
+—
+
+—
+
+—
+
+32,178
+
+—
+
+32,178
+
+Other comprehensive income
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+87
+
+87
+
+Issuance of common stock for
+   performance-based
+   restricted stock units
+
+305
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+Issuance of common stock for
+   restricted stock units
+
+20
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+Repurchases of common stock
+
+—
+
+—
+
+(
+700
+
+)
+
+(
+17,875
+
+)
+
+—
+
+—
+
+—
+
+(
+17,875
+
+)
+
+Stock-based compensation
+
+—
+
+—
+
+—
+
+—
+
+8,787
+
+—
+
+—
+
+8,787
+
+Balance, March 31, 2025
+
+113,486
+
+$
+
+113
+
+(
+11,864
+
+)
+
+$
+
+(
+175,445
+
+)
+
+$
+
+919,528
+
+$
+
+870,600
+
+$
+
+(
+27,795
+
+)
+
+$
+
+1,587,001
+
+Net income
+
+—
+
+—
+
+—
+
+—
+
+—
+
+41,530
+
+—
+
+41,530
+
+Other comprehensive loss
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(
+799
+
+)
+
+(
+799
+
+)
+
+Issuance of common stock for
+   restricted stock units
+
+1,687
+
+2
+
+—
+
+—
+
+(
+2
+
+)
+
+—
+
+—
+
+—
+
+Stock-based compensation
+
+—
+
+—
+
+—
+
+—
+
+9,188
+
+—
+
+—
+
+9,188
+
+Balance, June 30, 2025
+
+115,173
+
+$
+
+115
+
+(
+11,864
+
+)
+
+$
+
+(
+175,445
+
+)
+
+$
+
+928,714
+
+$
+
+912,130
+
+$
+
+(
+28,594
+
+)
+
+$
+
+1,636,920
+
+Net income
+
+—
+
+—
+
+—
+
+—
+
+—
+
+53,055
+
+—
+
+53,055
+
+Other comprehensive loss
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(
+138
+
+)
+
+(
+138
+
+)
+
+Issuance of common stock for
+   restricted stock units
+
+22
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+Stock-based compensation
+
+—
+
+—
+
+—
+
+—
+
+11,611
+
+—
+
+—
+
+11,611
+
+Balance, September 29, 2025
+
+115,195
+
+$
+
+115
+
+(
+11,864
+
+)
+
+$
+
+(
+175,445
+
+)
+
+$
+
+940,325
+
+$
+
+965,185
+
+$
+
+(
+28,732
+
+)
+
+$
+
+1,701,448
+
+Common Stock
+
+Treasury Stock
+
+Additional
+Paid-In
+
+Retained
+
+Accumulated
+Other
+Comprehensive
+
+Total
+Stockholders'
+
+Shares
+
+Amount
+
+Shares
+
+Amount
+
+Capital
+
+Earnings
+
+Loss
+
+Equity
+
+(Unaudited)
+
+(In thousands)
+
+Balance, January 1, 2024
+
+111,282
+
+$
+
+111
+
+(
+9,174
+
+)
+
+$
+
+(
+123,091
+
+)
+
+$
+
+880,963
+
+$
+
+782,123
+
+$
+
+(
+29,067
+
+)
+
+$
+
+1,511,039
+
+Net income
+
+—
+
+—
+
+—
+
+—
+
+—
+
+10,466
+
+—
+
+10,466
+
+Other comprehensive income
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+2,150
+
+2,150
+
+Issuance of common stock for
+   performance-based
+   restricted stock units
+
+227
+
+1
+
+—
+
+—
+
+(
+1
+
+)
+
+—
+
+—
+
+—
+
+Issuance of common stock for
+   restricted stock units
+
+41
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+Repurchases of common stock
+
+—
+
+—
+
+(
+600
+
+)
+
+(
+9,334
+
+)
+
+—
+
+—
+
+—
+
+(
+9,334
+
+)
+
+Stock-based compensation
+
+—
+
+—
+
+—
+
+—
+
+6,787
+
+—
+
+—
+
+6,787
+
+Balance, April 1, 2024
+
+111,550
+
+$
+
+112
+
+(
+9,774
+
+)
+
+$
+
+(
+132,425
+
+)
+
+$
+
+887,749
+
+$
+
+792,589
+
+$
+
+(
+26,917
+
+)
+
+$
+
+1,521,108
+
+Net income
+
+—
+
+—
+
+—
+
+—
+
+—
+
+26,352
+
+—
+
+26,352
+
+Other comprehensive income
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+4
+
+4
+
+Issuance of common stock
+   for restricted stock units
+
+1,559
+
+1
+
+—
+
+—
+
+(
+1
+
+)
+
+—
+
+—
+
+—
+
+Repurchases of common stock
+
+—
+
+—
+
+(
+1,390
+
+)
+
+(
+25,145
+
+)
+
+—
+
+—
+
+—
+
+(
+25,145
+
+)
+
+Stock-based compensation
+
+—
+
+—
+
+—
+
+—
+
+6,580
+
+—
+
+—
+
+6,580
+
+Balance, July 1, 2024
+
+113,109
+
+$
+
+113
+
+(
+11,164
+
+)
+
+$
+
+(
+157,570
+
+)
+
+$
+
+894,328
+
+$
+
+818,941
+
+$
+
+(
+26,913
+
+)
+
+$
+
+1,528,899
+
+Net income
+
+—
+
+—
+
+—
+
+—
+
+—
+
+14,311
+
+—
+
+14,311
+
+Other comprehensive loss
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(
+4,431
+
+)
+
+(
+4,431
+
+)
+
+Issuance of common stock for
+   restricted stock units
+
+23
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+Stock-based compensation
+
+—
+
+—
+
+—
+
+—
+
+8,330
+
+—
+
+—
+
+8,330
+
+Balance, September 30, 2024
+
+113,132
+
+$
+
+113
+
+(
+11,164
+
+)
+
+$
+
+(
+157,570
+
+)
+
+$
+
+902,658
+
+$
+
+833,252
+
+$
+
+(
+31,344
+
+)
+
+$
+
+1,547,109
+
+See accompanying notes to consolidated condensed financial statements.
+
+6
+
+TTM TECHNOLOGIES, INC.
+
+Consolidated Condensed S
+tatements of Cash Flows
+
+For the Three Quarters Ended September 29, 2025 and September 30, 2024
+
+For the Three Quarters Ended
+
+September 29, 2025
+
+September 30, 2024
+
+(Unaudited)
+
+(In thousands)
+
+Cash flows from operating activities:
+
+Net income
+
+$
+
+126,763
+
+$
+
+51,129
+
+Adjustments to reconcile net income to net cash provided by operating activities:
+
+Depreciation of property, plant, and equipment
+
+82,135
+
+78,709
+
+Amortization of definite-lived intangible assets
+
+27,673
+
+35,642
+
+Amortization of debt discount and issuance costs
+
+1,609
+
+1,517
+
+Deferred income taxes
+
+1,461
+
+(
+1,180
+
+)
+
+Stock-based compensation
+
+29,586
+
+21,697
+
+Other
+
+5,512
+
+2,194
+
+Changes in operating assets and liabilities:
+
+Accounts receivable, net
+
+(
+51,536
+
+)
+
+(
+9,328
+
+)
+
+Contract assets
+
+(
+65,585
+
+)
+
+(
+70,618
+
+)
+
+Inventories
+
+(
+28,702
+
+)
+
+(
+14,838
+
+)
+
+Prepaid expenses and other assets
+
+(
+11,667
+
+)
+
+(
+2,236
+
+)
+
+Accounts payable
+
+102,253
+
+34,698
+
+Contract liabilities
+
+(
+21,547
+
+)
+
+11,860
+
+Accrued salaries, wages, and benefits
+
+22,944
+
+14,055
+
+Other liabilities
+
+8,053
+
+(
+2,461
+
+)
+
+Net cash provided by operating activities
+
+228,952
+
+150,840
+
+Cash flows from investing activities:
+
+Net purchases of property, plant, and equipment and other assets
+
+(
+223,176
+
+)
+
+(
+129,709
+
+)
+
+Proceeds from sale of property, plant, and equipment and other assets
+
+489
+
+29,599
+
+Proceeds from sale of Shanghai E-MS (SH E-MS) property
+
+—
+
+6,737
+
+Other
+
+—
+
+(
+76
+
+)
+
+Net cash used in investing activities
+
+(
+222,687
+
+)
+
+(
+93,449
+
+)
+
+Cash flows from financing activities:
+
+Repurchases of common stock
+
+(
+17,875
+
+)
+
+(
+34,479
+
+)
+
+Repayment of long-term debt borrowings
+
+(
+2,845
+
+)
+
+(
+8,730
+
+)
+
+Customer deposits
+
+1,500
+
+—
+
+Proceeds from long-term debt borrowings
+
+—
+
+6,105
+
+Payment of debt issuance costs
+
+—
+
+(
+1,113
+
+)
+
+Net cash used in financing activities
+
+(
+19,220
+
+)
+
+(
+38,217
+
+)
+
+Effect of foreign currency exchange rates on cash and cash equivalents
+
+143
+
+118
+
+Net (decrease) increase in cash and cash equivalents
+
+(
+12,812
+
+)
+
+19,292
+
+Cash and cash equivalents at beginning of period
+
+503,932
+
+450,208
+
+Cash and cash equivalents at end of period
+
+$
+
+491,120
+
+$
+
+469,500
+
+Supplemental cash flow information:
+
+Cash paid, net for interest
+
+$
+
+39,807
+
+$
+
+42,646
+
+Cash paid, net for income taxes
+
+19,426
+
+15,196
+
+Supplemental disclosure of non-cash investing activities:
+
+Property, plant, and equipment recorded in accounts payable and other current liabilities
+
+$
+
+62,561
+
+$
+
+83,934
+
+Cashless rollover of debt
+
+—
+
+340,395
+
+See accompanying notes to consolidated condensed financial statements.
+
+7
+
+TTM TECHNOLOGIES, INC.
+Notes to Consolidated Conde
+nsed Financial Statements
+
+(Unaudited)
+
+(Dollars and shares in thousands, except per share data)
+
+(1) Nature of Operations and Basis of Presentation
+TTM Technologies, Inc. (the Company or TTM) is a leading global manufacturer of technology products, including mission systems, radio frequency (RF) components, RF microwave/microelectronic assemblies, and technologically advanced printed circuit boards (PCBs). The Company provides time-to-market and volume production of advanced technology products and offers a one-stop design, engineering, and manufacturing solution to customers. This solution allows the Company to align technology developments with the diverse needs of the Company’s customers and to enable them to reduce the time required to develop new products and bring them to market.
+The Company serves a diversified customer base in various markets throughout the world, including aerospace and defense, data center computing, automotive, medical, industrial, and instrumentation, and networking. The Company’s customers include original equipment manufacturers (OEMs), electronic manufacturing services (EMS) providers, original design manufacturers (ODMs), distributors, and government agencies (both domestic and allied foreign governments).
+The accompanying unaudited consolidated condensed financial statements have been prepared by the Company pursuant to the rules and regulations of the Securities and Exchange Commission (SEC). Certain information and disclosures normally included in financial statements prepared in accordance with accounting principles generally accepted in the United States of America (U.S. GAAP) have been condensed or omitted pursuant to such rules and regulations. These consolidated condensed financial statements should be read in conjunction with the consolidated financial statements and the notes thereto included in the Company’s most recent Annual Report on Form 10-K. The preparation of financial statements in accordance with U.S. GAAP requires management to make estimates and assumptions that affect the amounts reported in the Company’s consolidated condensed financial statements and accompanying notes. Due, in part, to the conflicts between Russia and Ukraine, as well as other global regions and the imposition of, or changes to, tariffs by the United States as well as retaliatory tariffs or measures by other countries, the global economy and financial markets have been volatile in recent periods. As such, the Company has considered information available to it as of the date of issuance of these consolidated condensed financial statements and is not aware of any specific events or circumstances that would require an update to its estimates or judgments, or a revision to the carrying value of its assets or liabilities. The actual results the Company experienced may differ materially and adversely from its estimates. The Company uses a 52/53 week fiscal calendar with the fourth quarter ending on the Monday nearest December 31.
+Recently Issued Accounting Standards Not Yet Adopted
+In September 2025, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) 2025-06, 
+Targeted Improvements to the Accounting for Internal-Use Software
+, which amends the existing standard to remove all references to prescriptive and sequential software development project stages. Under this guidance, eligible software development costs will begin capitalization when management has authorized and committed to funding the software project, and it is probable that the project will be completed and the software will be used to perform the function intended. The ASU is effective for annual periods beginning after December 15, 2027, and interim periods within those annual reporting periods. Early adoption is permitted as of the beginning of an annual reporting period. The guidance may be applied on a prospective basis, a modified basis, or a retrospective basis. The Company is currently evaluating the timing of the adoption and the impact of this ASU on its consolidated financial statements and related disclosures.
+In July 2025, the FASB issued ASU 2025-05, 
+Measurement of Credit Losses for Accounts Receivable and Contract Assets
+, which provides a practical expedient to measure credit losses on accounts receivable and contract assets. The ASU is effective for annual periods beginning after December 15, 2025, and interim periods within those annual reporting periods. Early adoption is permitted. The Company is currently evaluating the timing of the adoption and the impact of this ASU on its consolidated financial statements and related disclosures.
+In November 2024, the FASB issued ASU 2024-03, 
+Income Statement-Reporting Comprehensive Income-Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses
+, which requires disclosure in the notes to the financial statements of specified information about certain costs and expenses. In January 2025, the FASB issued ASU 2025-01, 
+Income Statement-Reporting Comprehensive Income-Expense Disaggregation Disclosures (Subtopic 220-40): Clarifying the Effective Date
+, which amends the effective date of ASU 2024-03 to clarify that all public business entities are required to adopt the guidance in annual reporting periods beginning after December 15, 2026, and interim periods within annual reporting periods beginning after December 15, 2027. Early adoption of ASU 2024-03 is permitted. ASU 2024-03 should be applied either prospectively to financial statements issued for reporting periods after the effective date or retrospectively to any or all prior periods presented in the financial statements. The Company is currently evaluating the new guidance to determine the impact it may have on its consolidated financial statements and related disclosures, but expects additional disclosures upon adoption.
+
+8
+
+In December 2023, the FASB issued ASU 2023-09, 
+Income Taxes (Topic 740): Improvements to Income Tax Disclosures
+, which requires disclosure of disaggregated income taxes paid, prescribes standard categories for the components of the effective tax rate reconciliation, and modifies other income tax-related disclosures. The update will be effective for annual periods beginning after December 15, 2024. Early adoption is permitted for annual financial statements not yet issued or made available for issuance. The Company will adopt ASU 2023-09 in its 2025 fiscal year Form 10-K. This ASU will impact only the Company's disclosures with no impacts to the results of operations, cash flows, and financial condition.
+(2) Revenues
+As of September 29, 2025, the aggregate amount of the transaction price allocated to remaining performance obligations for long‑term contracts was 
+$
+418,620
+. The Company expects to recognize revenue on approximately 
+57
+%
+ of the remaining performance obligations for the Company’s long-term contracts over the next 
+12 months
+ with the remaining amount expected t
+o be recognized thereafter.
+For contracts in which anticipated total costs exceed the total expected revenue, an estimated loss is recognized in the period when identifiable. A provision for the entire amount of the estimated loss is recorded on a cumulative basis. The estimated remaining costs to complete for loss contracts as of September 29, 2025 and December 30, 2024 were 
+$
+32,275
+ and 
+$
+36,976
+, respectively.
+Revenue recognized for the three quarters ended September 29, 2025 from amounts recorded as contract liabilities as of December 30, 2024 was 
+$
+82,722
+. Revenue recognized for the three quarters ended September 30, 2024 from amounts recorded as contract liabilities as of January 1, 2024 was 
+$
+33,331
+.
+Revenue from products and services transferred to customers over time and at a point in time accounted for 
+96
+%
+ and 
+4
+%
+, respectively, of the Company’s revenue for both the quarter and three quarters ended September 29, 2025 and September 30, 2024.
+Disaggregated revenue by principal end markets within reportable segments was as follows:
+
+For the Quarter Ended
+
+September 29, 2025
+
+September 30, 2024
+
+Aerospace and Defense (A&D)
+
+Commercial
+
+RF and Specialty Components (RF&S Components)
+
+Total
+
+A&D
+
+Commercial
+
+RF&S Components
+
+Total
+
+(In thousands)
+
+End Markets 
+(1)
+:
+
+Aerospace and Defense
+
+$
+
+333,556
+
+$
+
+—
+
+$
+
+—
+
+$
+
+333,556
+
+$
+
+277,604
+
+$
+
+—
+
+$
+
+—
+
+$
+
+277,604
+
+Automotive
+
+—
+
+79,355
+
+—
+
+79,355
+
+—
+
+86,773
+
+—
+
+86,773
+
+Data Center Computing
+
+—
+
+175,302
+
+33
+
+175,335
+
+—
+
+121,767
+
+201
+
+121,968
+
+Medical/Industrial/Instrumentation
+
+—
+
+107,289
+
+1,128
+
+108,417
+
+—
+
+87,968
+
+579
+
+88,547
+
+Networking
+
+—
+
+46,790
+
+9,283
+
+56,073
+
+—
+
+32,681
+
+8,965
+
+41,646
+
+Total
+
+$
+
+333,556
+
+$
+
+408,736
+
+$
+
+10,444
+
+$
+
+752,736
+
+$
+
+277,604
+
+$
+
+329,189
+
+$
+
+9,745
+
+$
+
+616,538
+
+For the Three Quarters Ended
+
+September 29, 2025
+
+September 30, 2024
+
+A&D
+
+Commercial
+
+RF&S Components
+
+Total
+
+A&D
+
+Commercial
+
+RF&S Components
+
+Total
+
+(In thousands)
+
+End Markets 
+(1)
+:
+
+Aerospace and Defense
+
+$
+
+966,066
+
+$
+
+—
+
+$
+
+—
+
+$
+
+966,066
+
+$
+
+828,908
+
+$
+
+—
+
+$
+
+—
+
+$
+
+828,908
+
+Automotive
+
+—
+
+232,133
+
+—
+
+232,133
+
+—
+
+239,681
+
+—
+
+239,681
+
+Data Center Computing
+
+—
+
+460,291
+
+979
+
+461,270
+
+—
+
+359,680
+
+323
+
+360,003
+
+Medical/Industrial/Instrumentation
+
+—
+
+299,397
+
+3,046
+
+302,443
+
+—
+
+249,532
+
+2,035
+
+251,567
+
+Networking
+
+—
+
+144,826
+
+25,287
+
+170,113
+
+—
+
+86,940
+
+24,689
+
+111,629
+
+Total
+
+$
+
+966,066
+
+$
+
+1,136,647
+
+$
+
+29,312
+
+$
+
+2,132,025
+
+$
+
+828,908
+
+$
+
+935,833
+
+$
+
+27,047
+
+$
+
+1,791,788
+
+(1)
+The end market revenue for the A&D and Commercial reportable segments prior to the quarter ended June 30, 2025 has been recast to reflect certain adjustments to allocations resulting from the segment reorganization. 
+The end market revenue excludes intersegment sales totaling 
+$
+3,469
+ and 
+$
+9,119
+ for the 
+quarter and three quarters ended September 29, 2025, respectively, and 
+$
+2,157
+ and 
+$
+5,646
+ for the 
+quarter and three quarters ended September 30, 2024, respectively. See Note 4, 
+Segment Information
+, for further information.
+
+9
+
+(3) Significant Customers and Concentration of Credit Risk
+
+Financial instruments that are potentially subject to concentrations of credit risk are primarily cash and cash equivalents and accounts receivable.
+The Company had cash and cash equivalents held by its foreign subsidiaries of 
+$
+196,603
+ and 
+$
+207,909
+ as of September 29, 2025 and December 30, 2024, respectively. The Company maintains its cash and cash equivalents with major financial institutions and such balances exceed Federal Deposit Insurance Corporation insurance limits. The Company has not experienced any losses in such accounts and believes it is not exposed to any significant risk on cash and cash equivalents.
+In the normal course of business, the Company extends credit to its customers. Some customers to whom the Company extends credit are located outside the United States. The Company performs ongoing credit evaluations of customers, does not require collateral, and considers the credit risk profile of the entity from which the receivable is due in further evaluating collection risk. As of September 29, 2025
+, 
+one
+ customer accounted for 
+14
+%
+ of the Compa
+ny's accounts receivable. There were 
+no
+ customers that accounted for 
+10
+% or more of the Company's accounts receivable as of 
+December 30, 2024.
+The Company’s customers include both OEMs and EMS companies. The Company’s OEM customers often direct a significant portion of their purchases through EMS companies. While the Company’s customers include both OEM and EMS providers, the Company measures customer concentration based on OEM companies, as they are the ultimate end customers.
+For the quarter and three quarters ended September 29, 2025
+, 
+two
+ customers collectively accounted for approximately 
+23
+%
+ and 
+22
+%
+ of the Company's net sales, respectively. For the quarter and three quarters ended September 30, 2024, 
+one
+ customer accounted for approximately 
+11
+%
+ of the Company's net sales.
+
+(4) Segment Information
+
+During the quarter ended June 30, 2025, in connection with the Company's change in organizational structure to enhance clarity in sector performance, accountability, and operating costs, the Company’s management finalized its assessment of the Company's operating segments and concluded that the Company now has three reportable segments: A&D, Commercial, and RF&S Components. In prior periods, the Company had two reportable segments: PCB and RF&S Components. As a result, certain prior period amounts have been reclassified to conform with this new presentation.
+The reportable segments shown below are the Company’s segments for which separate financial information is available and upon which operating results are evaluated by the chief operating decision maker (CODM), who is the 
+President and Chief Executive Officer
+, to assess performance and to allocate resources. 
+The CODM uses segment operating income to allocate resources such as employees and capital resources for each segment during the Company’s annual budgeting and forecasting process.
+ Total sales and operating profit by segment include intersegment sales which are generally recorded at cost-plus a specified fee or at a negotiated fixed price. Separate segment asset measures are not used as a basis for the CODM to evaluate the performance of or to allocate resources to the segments.
+The A&D reportable segment consists of PCBs, value-added assemblies, microelectronics, RF/microwave components and assemblies, and integrated mission systems. These highly engineered electronics products include the manufacture and test of customer‑supplied designs as well as long-term contracts to design, develop, manufacture, and test new products. The products in the A&D reportable segment support surveillance, intelligence, communications, and other critical missions for customers in the aerospace and defense industry. The Commercial reportable segment consists of PCBs using customer-supplied engineering and design plans supporting customers in the automotive, medical, industrial, and instrumentation, networking, and data center computing end markets. The RF&S Components reportable segment consists of TTM designed RF components for commercial customers in the telecommunications, industrial, and instrumentation markets, as well as commercial off-the-shelf (COTS) components for certain aerospace and defense customers.
+
+10
+
+Reconciliations of net sales and segment operating income were as follows:
+
+For the Quarter Ended September 29, 2025
+
+A&D
+
+Commercial
+
+RF&S Components
+
+Eliminations
+
+Total
+
+(In thousands, except margin rates)
+
+Net sales
+
+$
+
+333,556
+
+$
+
+408,736
+
+$
+
+10,444
+
+$
+
+—
+
+$
+
+752,736
+
+Intersegment sales
+
+3,285
+
+184
+
+—
+
+(
+3,469
+
+)
+
+—
+
+Segment sales
+
+$
+
+336,841
+
+$
+
+408,920
+
+$
+
+10,444
+
+$
+
+(
+3,469
+
+)
+
+$
+
+752,736
+
+Net Sales
+
+Cost of Goods Sold
+
+Operating Expenses
+
+Operating Income
+
+Operating Margin
+
+A&D
+
+$
+
+336,841
+
+$
+
+(
+255,033
+
+)
+
+$
+
+(
+28,924
+
+)
+
+$
+
+52,884
+
+15.7
+
+%
+
+Commercial
+
+408,920
+
+(
+330,183
+
+)
+
+(
+18,706
+
+)
+
+60,031
+
+14.7
+
+RF&S Components
+
+10,444
+
+(
+5,032
+
+)
+
+(
+2,286
+
+)
+
+3,126
+
+29.9
+
+Total segment
+
+756,205
+
+(
+590,248
+
+)
+
+(
+49,916
+
+)
+
+116,041
+
+15.3
+
+Eliminations
+
+(
+3,469
+
+)
+
+—
+
+Unallocated amounts:
+
+Restructuring
+
+(
+509
+
+)
+
+Acquisition-related and other charges
+
+(
+15
+
+)
+
+Stock-based compensation
+
+(
+11,611
+
+)
+
+Other corporate expenses
+
+(
+22,775
+
+)
+
+Amortization of definite-lived intangibles
+
+(
+9,225
+
+)
+
+Consolidated
+
+$
+
+752,736
+
+71,906
+
+9.6
+
+%
+
+Interest expense
+
+(
+10,399
+
+)
+
+Other, net
+
+306
+
+Income before income taxes
+
+$
+
+61,813
+
+For the Quarter Ended September 30, 2024
+
+A&D
+
+Commercial
+
+RF&S Components
+
+Eliminations
+
+Total
+
+(In thousands, except margin rates)
+
+Net sales
+
+$
+
+277,604
+
+$
+
+329,189
+
+$
+
+9,745
+
+$
+
+—
+
+$
+
+616,538
+
+Intersegment sales
+
+1,929
+
+193
+
+35
+
+(
+2,157
+
+)
+
+—
+
+Segment sales
+
+$
+
+279,533
+
+$
+
+329,382
+
+$
+
+9,780
+
+$
+
+(
+2,157
+
+)
+
+$
+
+616,538
+
+Net Sales
+
+Cost of Goods Sold
+
+Operating Expenses
+
+Operating Income
+
+Operating Margin
+
+A&D
+
+$
+
+279,533
+
+$
+
+(
+211,536
+
+)
+
+$
+
+(
+27,718
+
+)
+
+$
+
+40,279
+
+14.4
+
+%
+
+Commercial
+
+329,382
+
+(
+262,147
+
+)
+
+(
+16,130
+
+)
+
+51,105
+
+15.5
+
+RF&S Components
+
+9,780
+
+(
+4,871
+
+)
+
+(
+2,483
+
+)
+
+2,426
+
+24.8
+
+Total segment
+
+618,695
+
+(
+478,554
+
+)
+
+(
+46,331
+
+)
+
+93,810
+
+15.2
+
+Eliminations
+
+(
+2,157
+
+)
+
+—
+
+Unallocated amounts:
+
+Restructuring
+
+(
+1,393
+
+)
+
+Acquisition-related and other charges
+
+(
+2,867
+
+)
+
+Stock-based compensation
+
+(
+8,330
+
+)
+
+Other corporate expenses
+
+(
+20,972
+
+)
+
+Amortization of definite-lived intangibles
+
+(
+9,286
+
+)
+
+Consolidated
+
+$
+
+616,538
+
+50,962
+
+8.3
+
+%
+
+Interest expense
+
+(
+11,768
+
+)
+
+Other, net
+
+(
+14,177
+
+)
+
+Income before income taxes
+
+$
+
+25,017
+
+11
+
+For the Three Quarters Ended September 29, 2025
+
+A&D
+
+Commercial
+
+RF&S Components
+
+Eliminations
+
+Total
+
+(In thousands, except margin rates)
+
+Net sales
+
+$
+
+966,066
+
+$
+
+1,136,647
+
+$
+
+29,312
+
+$
+
+—
+
+$
+
+2,132,025
+
+Intersegment sales
+
+8,487
+
+602
+
+30
+
+(
+9,119
+
+)
+
+—
+
+Segment sales
+
+$
+
+974,553
+
+$
+
+1,137,249
+
+$
+
+29,342
+
+$
+
+(
+9,119
+
+)
+
+$
+
+2,132,025
+
+Net Sales
+
+Cost of Goods Sold
+
+Operating Expenses
+
+Operating Income
+
+Operating Margin
+
+A&D
+
+$
+
+974,553
+
+$
+
+(
+745,008
+
+)
+
+$
+
+(
+90,602
+
+)
+
+$
+
+138,943
+
+14.3
+
+%
+
+Commercial
+
+1,137,249
+
+(
+916,920
+
+)
+
+(
+56,580
+
+)
+
+163,749
+
+14.4
+
+RF&S Components
+
+29,342
+
+(
+14,665
+
+)
+
+(
+7,096
+
+)
+
+7,581
+
+25.8
+
+Total segment
+
+2,141,144
+
+(
+1,676,593
+
+)
+
+(
+154,278
+
+)
+
+310,273
+
+14.5
+
+Eliminations
+
+(
+9,119
+
+)
+
+—
+
+Unallocated amounts:
+
+Restructuring
+
+(
+2,631
+
+)
+
+Acquisition-related and other charges
+
+(
+15
+
+)
+
+Stock-based compensation
+
+(
+29,586
+
+)
+
+Other corporate expenses
+
+(
+66,433
+
+)
+
+Amortization of definite-lived intangibles
+
+(
+27,673
+
+)
+
+Consolidated
+
+$
+
+2,132,025
+
+183,935
+
+8.6
+
+%
+
+Interest expense
+
+(
+32,958
+
+)
+
+Other, net
+
+(
+2,648
+
+)
+
+Income before income taxes
+
+$
+
+148,329
+
+For the Three Quarters Ended September 30, 2024
+
+A&D
+
+Commercial
+
+RF&S Components
+
+Eliminations
+
+Total
+
+(In thousands, except margin rates)
+
+Net sales
+
+$
+
+828,908
+
+$
+
+935,833
+
+$
+
+27,047
+
+$
+
+—
+
+$
+
+1,791,788
+
+Intersegment sales
+
+4,890
+
+607
+
+149
+
+(
+5,646
+
+)
+
+—
+
+Segment sales
+
+$
+
+833,798
+
+$
+
+936,440
+
+$
+
+27,196
+
+$
+
+(
+5,646
+
+)
+
+$
+
+1,791,788
+
+Net Sales
+
+Cost of Goods Sold
+
+Operating Expenses
+
+Operating Income
+
+Operating Margin
+
+A&D
+
+$
+
+833,798
+
+$
+
+(
+648,883
+
+)
+
+$
+
+(
+84,663
+
+)
+
+$
+
+100,252
+
+12.0
+
+%
+
+Commercial
+
+936,440
+
+(
+755,231
+
+)
+
+(
+50,351
+
+)
+
+130,858
+
+14.0
+
+RF&S Components
+
+27,196
+
+(
+13,861
+
+)
+
+(
+7,196
+
+)
+
+6,139
+
+22.6
+
+Total segment
+
+1,797,434
+
+(
+1,417,975
+
+)
+
+(
+142,210
+
+)
+
+237,249
+
+13.2
+
+Eliminations
+
+(
+5,646
+
+)
+
+—
+
+Unallocated amounts:
+
+Restructuring
+
+(
+6,367
+
+)
+
+Gain on sale of property, plant, and equipment
+
+14,420
+
+Acquisition-related and other charges
+
+(
+12,939
+
+)
+
+Stock-based compensation
+
+(
+21,697
+
+)
+
+Other corporate expenses
+
+(
+68,009
+
+)
+
+Amortization of definite-lived intangibles
+
+(
+35,642
+
+)
+
+Consolidated
+
+$
+
+1,791,788
+
+107,015
+
+6.0
+
+%
+
+Interest expense
+
+(
+36,311
+
+)
+
+Other, net
+
+(
+1,086
+
+)
+
+Income before income taxes
+
+$
+
+69,618
+
+12
+
+Amortization of definite-lived intangibles relates to the A&D, Commercial, and RF&S Components reportable segments, but is not reviewed separately by the CODM. For the quarter and three quarters ended September 29, 2025, amortization expense of 
+$
+2,336
+ and 
+$
+7,007
+, respectively, is included in cost of goods sold for the A&D reportable segment. For the quarter and three quarters ended September 30, 2024, amortization expense of 
+$
+2,335
+ and 
+$
+7,006
+, respectively, is included in cost of goods sold for the A&D reportable segment.
+Depreciation expense by reportable segment was as follows:
+
+For the Quarter Ended
+
+For the Three Quarters Ended
+
+September 29, 2025
+
+September 30, 2024
+
+September 29, 2025
+
+September 30, 2024
+
+(In thousands)
+
+A&D
+
+$
+
+7,985
+
+$
+
+8,868
+
+$
+
+25,718
+
+$
+
+27,882
+
+Commercial
+
+17,536
+
+14,938
+
+50,881
+
+42,902
+
+RF&S Components
+
+453
+
+404
+
+1,319
+
+1,290
+
+Segment total
+
+25,974
+
+24,210
+
+77,918
+
+72,074
+
+Corporate
+
+1,606
+
+3,620
+
+4,217
+
+6,635
+
+Total
+
+$
+
+27,580
+
+$
+
+27,830
+
+$
+
+82,135
+
+$
+
+78,709
+
+The Company markets and sells its products in approximately 
+50
+ countries. For the quarter and three quarters ended September 29, 2025, the Company did not conduct business in any country other than the United States in which its net sales in that country exceeded 10% of the Company’s total net sales. For the quarter and three quarters ended September 30, 2024
+, net sales in Taiwan also exceeded 
+10
+% of the Company’s total net sales. 
+Net sales are attributed to countries by the invoiced location and were as follows:
+
+For the Quarter Ended
+
+For the Three Quarters Ended
+
+September 29, 2025
+
+September 30, 2024
+
+September 29, 2025
+
+September 30, 2024
+
+(In thousands)
+
+United States
+
+$
+
+407,222
+
+$
+
+316,508
+
+$
+
+1,146,649
+
+$
+
+926,241
+
+Taiwan
+
+62,384
+
+63,607
+
+167,396
+
+206,462
+
+Other
+
+283,130
+
+236,423
+
+817,980
+
+659,085
+
+Total net sales
+
+$
+
+752,736
+
+$
+
+616,538
+
+$
+
+2,132,025
+
+$
+
+1,791,788
+
+13
+
+(5) Composition of Certain Consolidated Condensed Financial Statement Captions
+
+As of
+
+September 29, 2025
+
+December 30, 2024
+
+(In thousands)
+
+Inventories:
+
+Raw materials
+
+$
+
+198,073
+
+$
+
+178,066
+
+Work-in-process
+
+50,840
+
+45,580
+
+Finished goods
+
+4,774
+
+1,339
+
+Inventories
+
+$
+
+253,687
+
+$
+
+224,985
+
+Property, plant, and equipment, net:
+
+Land and land-use rights
+
+$
+
+70,075
+
+$
+
+69,788
+
+Buildings and improvements
+
+554,679
+
+515,773
+
+Machinery and equipment
+
+1,181,531
+
+1,116,658
+
+Furniture and fixtures and other
+
+11,492
+
+11,115
+
+Construction-in-progress
+
+156,982
+
+75,502
+
+Property, plant, and equipment, gross
+
+1,974,759
+
+1,788,836
+
+Less: Accumulated depreciation
+
+(
+982,566
+
+)
+
+(
+918,879
+
+)
+
+Property, plant, and equipment, net
+
+$
+
+992,193
+
+$
+
+869,957
+
+Other current liabilities:
+
+Income taxes payable
+
+$
+
+22,395
+
+$
+
+15,919
+
+Sales return and allowances
+
+12,668
+
+10,777
+
+Accrued facility operating costs
+
+11,000
+
+8,925
+
+Warranty
+
+10,223
+
+7,685
+
+Housing fund
+
+8,515
+
+7,927
+
+Operating leases
+
+8,326
+
+7,556
+
+Interest
+
+3,867
+
+9,054
+
+Accrued professional fees
+
+3,212
+
+3,606
+
+Other
+
+34,340
+
+48,525
+
+Other current liabilities
+
+$
+
+114,546
+
+$
+
+119,974
+
+Other long-term liabilities:
+
+Deferred income taxes
+
+$
+
+42,835
+
+$
+
+41,362
+
+Customer deposits
+
+30,105
+
+28,390
+
+Finance leases
+
+15,916
+
+11,985
+
+Other
+
+27,652
+
+26,011
+
+Other long-term liabilities
+
+$
+
+116,508
+
+$
+
+107,748
+
+14
+
+(6) Goodwill and Definite-lived Intangibles
+Goodwill
+In connection with the Company’s assessment of its operating segments, effective during the quarter ended June 30, 2025, the Company determined that its operating segments were also its reporting units and reallocated its PCB goodwill between A&D and Commercial based on the estimated relative fair values of the reporting units. In connection with the reallocation of goodwill, management performed a goodwill impairment assessment for each segment and concluded no impairment indicators as of June 30, 2025.
+
+Goodwill by reportable segment was as follows:
+
+A&D
+
+Commercial
+
+RF&S Components
+
+Total
+
+(In thousands)
+
+As of September 29, 2025 and December 30, 2024
+
+Goodwill
+
+$
+
+256,199
+
+$
+
+382,636
+
+$
+
+177,200
+
+$
+
+816,035
+
+Accumulated impairment losses
+
+—
+
+—
+
+(
+145,900
+
+)
+
+(
+145,900
+
+)
+
+ Carrying amount
+
+$
+
+256,199
+
+$
+
+382,636
+
+$
+
+31,300
+
+$
+
+670,135
+
+Definite-lived Intangibles
+The components of definite-lived intangibles were as follows:
+
+Gross
+Amount
+
+Accumulated
+Amortization
+
+Net
+Carrying
+Amount
+
+Weighted
+Average
+Amortization
+Period
+
+(In thousands)
+
+(In years)
+
+As of September 29, 2025
+
+Customer relationships
+
+$
+
+323,500
+
+$
+
+(
+182,376
+
+)
+
+$
+
+141,124
+
+11.8
+
+Technology
+
+66,650
+
+(
+43,628
+
+)
+
+23,022
+
+8.2
+
+Total
+
+$
+
+390,150
+
+$
+
+(
+226,004
+
+)
+
+$
+
+164,146
+
+As of December 30, 2024
+
+Customer relationships
+
+$
+
+323,500
+
+$
+
+(
+161,710
+
+)
+
+$
+
+161,790
+
+11.8
+
+Technology
+
+66,650
+
+(
+36,621
+
+)
+
+30,029
+
+8.2
+
+Total
+
+$
+
+390,150
+
+$
+
+(
+198,331
+
+)
+
+$
+
+191,819
+
+Definite-lived intangibles are amortized using the straight-line method of amortization over the useful life. Amortization expense was 
+$
+9,225
+ and 
+$
+27,673
+ for the quarter and three quarters ended September 29, 2025, respectively, and 
+$
+9,286
+ and 
+$
+35,642
+ for the quarter and three quarters ended September 30, 2024, respectively. For the quarter and three quarters ended September 29, 2025, 
+$
+2,336
+ and 
+$
+7,007
+, respectively, of amortization expense was included in cost of goods sold. For the quarter and three quarters ended September 30, 2024, 
+$
+2,335
+ and 
+$
+7,006
+, respectively, of amortization expense was included in cost of goods sold.
+Estimated aggregate amortization for definite-lived intangible assets for the next five years and thereafter is as follows:
+
+(In thousands)
+
+Remaining 2025
+
+$
+
+9,224
+
+2026
+
+36,897
+
+2027
+
+34,543
+
+2028
+
+30,997
+
+2029
+
+22,355
+
+Thereafter
+
+30,130
+
+Total
+
+$
+
+164,146
+
+15
+
+(7) Long-term Debt and Letters of Credit
+
+Long-term debt was as follows:
+
+As of
+
+September 29, 2025
+
+December 30, 2024
+
+Interest Rate
+
+Principal
+Outstanding
+
+Interest Rate
+
+Principal
+Outstanding
+
+(In thousands, except interest rates)
+
+Senior Notes due 
+March 2029
+
+4.00
+
+%
+
+$
+
+500,000
+
+4.00
+
+%
+
+$
+
+500,000
+
+Term Loan due 
+May 2030
+
+6.38
+
+343,035
+
+6.59
+
+345,634
+
+Asia ABL Revolving Loan due 
+June 2028
+
+5.43
+
+80,000
+
+5.64
+
+80,000
+
+Other
+
+5.99
+
+2,065
+
+5.99
+
+2,311
+
+Total debt
+
+925,100
+
+927,945
+
+Less: Unamortized debt issuance costs
+
+(
+5,957
+
+)
+
+(
+6,951
+
+)
+
+Less: Unamortized debt discount
+
+(
+2,498
+
+)
+
+(
+2,840
+
+)
+
+Subtotal
+
+916,645
+
+918,154
+
+Less: Current maturities
+
+(
+3,810
+
+)
+
+(
+3,795
+
+)
+
+Long-term debt, less current maturities
+
+$
+
+912,835
+
+$
+
+914,359
+
+Debt Covenants
+Borrowings under the Senior Notes due 2029 and Term Loan Facility due 2030 (Term Loan Facility) are subject to certain affirmative and negative covenants, including limitations on indebtedness, corporate transactions, investments, dispositions, and restricted payments.
+Under the occurrence of certain events, the U.S. Asset-Based Lending Credit Agreement (U.S. ABL) and Asia Asset-Based Lending Credit Agreement (Asia ABL) (collectively, the ABL Revolving Loans) are subject to various financial covenants, including leverage and fixed-charge coverage ratios.
+Debt Issuance Costs and Debt Discount
+Remaining unamortized debt issuance costs and debt discount were as follows:
+
+As of
+
+September 29, 2025
+
+December 30, 2024
+
+Debt
+Issuance Costs
+
+Debt
+Discount
+
+Effective
+Interest Rate
+
+Debt
+Issuance Costs
+
+Debt
+Discount
+
+Effective
+Interest Rate
+
+(In thousands, except interest rates)
+
+Senior Notes due March 2029
+
+$
+
+2,799
+
+$
+
+—
+
+4.18
+
+%
+
+$
+
+3,362
+
+$
+
+—
+
+4.18
+
+%
+
+Term Loan due May 2030
+
+3,158
+
+2,498
+
+8.01
+
+3,589
+
+2,840
+
+8.01
+
+Total
+
+$
+
+5,957
+
+$
+
+2,498
+
+$
+
+6,951
+
+$
+
+2,840
+
+The above debt issuance costs and debt discount are recorded as a reduction of the debt and are amortized into interest expense using an effective interest rate over the duration of the debt.
+Remaining unamortized debt issuance costs for the ABL Revolving Loans of 
+$
+966
+ and 
+$
+1,239
+ as of September 29, 2025 and December 30, 2024, respectively, are included in deposits and other non-current assets and are amortized to interest expense over the duration of the ABL Revolving Loans using the straight-line method of amortization.
+
+As of September 29, 2025, the remaining weighted average amortization period for all unamortized debt issuance costs and debt discount wa
+s 
+4.1
+ yea
+rs.
+(8) Income Taxes
+
+The Company’s effective tax rate is impacted by the mix of foreign and U.S. income, tax rates in China and Hong Kong, the U.S. federal income tax rate, apportioned state income tax rates, the generation of credits, and deductions available to the Company as well as changes in valuation allowances and certain non-deductible items. No tax benefit was recorded on the losses incurred in certain foreign jurisdictions as a result of corresponding increases in the valuation allowances in these jurisdictions.
+
+During the quarter and three quarters ended September 29, 2025, the Company’s effective tax rate was impacted by a net discrete benefit of 
+$
+37
+ and 
+$
+3,321
+, respectively, and the One Big Beautiful Bill Act (OBBBA) tax impact, as discussed below. The net discrete benefit was primarily related to the deduction of stock‑based compensation, partially offset by accruals for potential assessments and uncertain tax positions in various jurisdictions.
+
+16
+
+The Company has various foreign subsidiaries formed or acquired to conduct or support its business outside the U.S. The Company expects its earnings attributable to most foreign subsidiaries may be repatriated back to the U.S. and so a deferred tax liability has been recorded for foreign withholding taxes and the estimated federal/state tax impact on any repatriation. For those other companies with earnings currently being reinvested outside of the U.S., no deferred tax liability on undistributed earnings has been recorded.
+OBBBA
+On July 4, 2025, the OBBBA was enacted, introducing amendments to U.S. tax laws with various effective dates from 2025 to 2027. The OBBBA includes provisions such as the permanent extension of certain provisions of the Tax Cuts and Jobs Act that were set to expire at the end of 2025 and modifications to the international tax framework. Because Topic 740 requires the effects of changes in tax rates and laws on deferred tax balances to be recognized in the period in which the legislation is enacted, the Company’s tax provisions for the quarter and three quarters ended September 29, 2025 incorporated the estimated effects of the tax law changes including the accelerated depreciation of qualified property and the immediate expensing of U.S. research and development expenditure paid or incurred for tax years beginning after December 31, 2024. The Company recorded
+ a $
+5,186
+ b
+enefit from the decrease in the U.S. valuation allowance resulting from the OBBBA impact to its deferred tax assets.
+
+(9) 
+Earnings Per Share, Share Repurchase Program, and Accumulated Other Comprehensive Loss
+Earnings Per Share
+The reconciliation of the numerator and denominator used to calculate basic earnings per share and diluted earnings per 
+share is as follows:
+
+For the Quarter Ended
+
+For the Three Quarters Ended
+
+September 29, 2025
+
+September 30, 2024
+
+September 29, 2025
+
+September 30, 2024
+
+(In thousands, except per share amounts)
+
+Net income
+
+$
+
+53,055
+
+$
+
+14,311
+
+$
+
+126,763
+
+$
+
+51,129
+
+Basic weighted average shares
+
+103,321
+
+101,958
+
+102,337
+
+101,704
+
+Dilutive effect of performance-based
+    restricted stock units (PRUs), restricted
+    stock units (RSUs), and stock options
+
+2,491
+
+1,870
+
+2,724
+
+2,224
+
+Diluted shares
+
+105,812
+
+103,828
+
+105,061
+
+103,928
+
+Earnings per share:
+
+Basic earnings per share
+
+$
+
+0.51
+
+$
+
+0.14
+
+$
+
+1.24
+
+$
+
+0.50
+
+Diluted earnings per share
+
+0.50
+
+0.14
+
+1.21
+
+0.49
+
+PRUs and RSUs to pur
+chase 
+161
+ and 
+220
+ shares of common stock for the quarter and three quarters ended September 29, 2025
+, respectively, and PRUs, RSUs, and stock options to purchase 
+144
+ and 
+166
+ shares of common stock for the quarter and three quarters ended September 30, 2024, respectively, were not included in the computation of diluted earnings per share because the impact would be anti-dilutive. The PRUs would have had an anti-dilutive impact because the performance conditions had not been met during the applicable quarter and three quarters. The RSUs and stock options would have had an anti-dilutive impact because the total expected proceeds under the treasury stock method or the options’ exercise prices were greater than the average market price of common stock during the applicable quarter and three quarters.
+
+Share Repurchase Program
+On May 8, 2025, the Company's Board of Directors authorized a new share repurchase program (2025 Repurchase Program)
+, under which the Company may repurchase up to $
+100,000
+ in value of the Company’s outstanding shares of common stock from time to time through 
+May 7, 2027
+. The Company’s previous two-year repurchase program expired on 
+May 3, 2025
+. The Company may repurchase shares through open market purchases, privately‑negotiated transactions, or otherwise in accordance with applicable federal securities laws, including Rule 10b-18 of the Securities Exchange Act of 1934, as amended (Exchange Act), which sets certain restrictions on the method, timing, price, and volume of open market stock repurchases. In addition, the Company adopted one trading plan in accordance with Rule 10b5-1 of the Exchange Act to facilitate certain purchases that may be effected under the share repurchase program. The timing, manner, price, and amount of any repurchases will be determined at the Company’s discretion, and the share repurchase program may be suspended, terminated, or modified at any time for any reason. The repurchase program does not obligate the Company to acquire any specific number of shares.
+
+17
+
+During the quarter ended September 29, 2025, the Comp
+any did 
+no
+t repurchase any shares. During the 
+three quarters ended September 29, 2025
+, the Company repurchased 
+700
+ shares of common stock for a total cost of 
+$
+17,875
+ (including commissions) under the Company’s previous repurchase program. As of September 29, 2025, the remaining amount in value available to be repurchased under the 2025 Repurchase Program was 
+$
+100,000
+.
+Accumulated Other Comprehensive Loss
+The components of accumulated other comprehensive loss, n
+et of tax, were as follows:
+
+As of
+
+September 29, 2025
+
+December 30, 2024
+
+(In thousands)
+
+Foreign currency translation
+
+$
+
+(
+33,549
+
+)
+
+$
+
+(
+33,757
+
+)
+
+Pension obligation
+
+4,786
+
+3,612
+
+Cash flow hedges
+
+31
+
+2,263
+
+Total
+
+$
+
+(
+28,732
+
+)
+
+$
+
+(
+27,882
+
+)
+
+(10) Fair Value Measures
+
+The Company measures at fair value its financial and non-financial assets and liabilities by using a fair value hierarchy that prioritizes the inputs to valuation techniques used to measure fair value. Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date, essentially an exit price, based on the highest and best use of the asset or liability.
+
+The carrying amount and estimated fair value of the Company’s financial instruments were as follows:
+
+As of
+
+September 29, 2025
+
+December 30, 2024
+
+Carrying Amount
+
+Fair Value
+
+Carrying Amount
+
+Fair Value
+
+(In thousands)
+
+Derivative assets, current
+
+$
+
+1,666
+
+$
+
+1,666
+
+$
+
+1,765
+
+$
+
+1,765
+
+Derivative assets, non-current
+
+—
+
+—
+
+1,326
+
+1,326
+
+Derivative liabilities, current
+
+—
+
+—
+
+667
+
+667
+
+Derivative liabilities, non-current
+
+429
+
+429
+
+—
+
+—
+
+Senior Notes due March 2029
+
+497,201
+
+481,695
+
+496,638
+
+464,325
+
+Term Loan due May 2030
+
+337,379
+
+344,966
+
+339,205
+
+346,930
+
+ABL Revolving Loans
+
+80,000
+
+80,000
+
+80,000
+
+80,000
+
+Other loan
+
+2,065
+
+2,065
+
+2,311
+
+2,311
+
+The fair value of the derivative instruments was determined using pricing models developed based on the 1-month Chicago Mercantile Exchange (CME) Term Secured Overnight Financing Rate (SOFR) swap rate and other observable market data, including quoted market prices, as appropriate using Level 2 inputs. The values were adjusted to reflect non-performance risk of both the counterparty and the Company, as necessary.
+The fair value of the long-term debt was estimated based on quoted market prices or discounting the debt over its life using current market rates for similar debt as of September 29, 2025 and December 30, 2024, which are considered Level 2 inputs.
+
+As of September 29, 2025 and December 30, 2024, the Company’s other financial instruments included cash and cash equivalents, accounts receivable, contract assets, accounts payable, and contract liabilities. The carrying amount of these instruments approximates fair value.
+The majority of the Company’s non-financial assets and liabilities, which include goodwill, intangible assets, inventories, and property, plant, and equipment, are not required to be carried at fair value on a recurring basis. However, if certain triggering events occur (or as indicated by the annual test in the case of goodwill) such that a non-financial instrument is required to be evaluated for impairment, based upon a comparison of the non-financial instrument’s fair value to its carrying value, an impairment is recorded to reduce the carrying value to the fair value, if the carrying value exceeds the fair value.
+
+18
+
+(11) Commitments and Contingencies
+
+Legal Matters
+
+The Company is subject to various legal matters, which it considers normal for its business activities. While the Company currently believes that the amount of any reasonably possible loss for known matters would not be material to the Company’s financial condition, the outcome of these actions is inherently difficult to predict. In the event of an adverse outcome, the ultimate potential loss could have a material adverse effect on the Company’s financial condition or results of operations in a particular period. The Company has accrued amounts for its loss contingencies which are probable and estimable as of September 29, 2025 and December 30, 2024 and included as a component of
+
+other current liabilities. However, these amounts are not material to the consolidated condensed financial statements of the Company.
+Supplier Finance Program Obligations
+
+The Company has agreements with financial institutions to facilitate payments to certain suppliers. Liabilities associated with these agreements are recorded in accounts payable on the consolidated condensed balance sheets and amounted to 
+$
+12,195
+ and 
+$
+17,218
+ as of September 29, 2025 and December 30, 2024
+, respectively.
+
+19
+
+Item 2.
+ Management’s Discussion and Analysis of
+ Financial Condition and Results of Operations
+
+Cautionary Statement Regarding Forward-Looking Statements
+This Quarterly Report on Form 10-Q (Report) contains forward-looking statements regarding future events or our future financial and operational performance. Forward-looking statements include statements regarding markets for our products; trends in net sales, gross profits, and estimated expense levels; liquidity and anticipated cash needs and availability; and any statement that contains the words “anticipate,” “believe,” “plan,” “forecast,” “foresee,” “estimate,” “project,” “expect,” “seek,” “target,” “intend,” “goal,” and other similar expressions. The forward-looking statements included in this Report reflect our current expectations and beliefs, and we do not undertake publicly to update or revise these statements, even if experience or future changes make it clear that any projected results expressed in this Report or future quarterly reports to stockholders, press releases, or company statements will not be realized. In addition, the inclusion of any statement in this Report does not constitute an admission by us that the events or circumstances described in such statement are material. Furthermore, we wish to caution and advise readers that these statements are based on assumptions that may not materialize and may involve risks and uncertainties, many of which are beyond our control, that could cause actual events or performance to differ materially from those contained or implied in these forward-looking statements. These risks and uncertainties include the risks identified under the heading "Risk Factors" in our Annual Report on Form 10-K for the fiscal year ended December 30, 2024, as updated by our other filings with the SEC, and described elsewhere in this Report. The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our consolidated condensed financial statements and the related notes and the other financial information included in this Report, as well as the “Management’s Discussion and Analysis of Financial Condition and Results of Operations” set forth in our Annual Report on Form 10-K for the fiscal year ended December 30, 2024, filed with the SEC.
+COMPANY OVERVIEW
+
+We are a leading global manufacturer of technology products, including mission systems, RF components, RF microwave/microelectronic assemblies, and technologically advanced PCBs. We focus on providing time-to-market and volume production of advanced technology products and offer a one-stop design, engineering, and manufacturing solution to our customers. This solution allows us to align technology development with the diverse needs of our customers and to enable them to reduce the time required to develop new products and bring them to market. We serve a diversified customer base consisting of approximately 1,400 customers in various markets throughout the world, including aerospace and defense, data center computing, automotive, medical, industrial, and instrumentation, and networking. Our customers include OEMs, EMS providers, ODMs, distributors, and government agencies (both domestic and allied foreign governments).
+RECENT DEVELOPMENTS
+On July 9, 2025, we announced the acquisition of a 750,000-square-foot facility in Eau Claire, Wisconsin, as well as land rights for an additional future manufacturing site in Penang, Malaysia. We believe the Eau Claire, Wisconsin facility comes equipped with the necessary infrastructure to support advanced technology PCB manufacturing and enhances our ability to support future high-volume U.S. production of advanced technology PCBs across key markets, particularly data center computing and networking for generative artificial intelligence (AI) applications. In addition, we acquired land rights for ten acres in Penang to establish a new production site that we anticipate will align with customers’ increasing interests in supply chain diversification beyond China. The future Penang facility will be in close proximity to our existing facility and will enable us to deliver cost-competitive, high-quality advanced technology PCB manufacturing to commercial markets such as data center computing, networking, and medical, industrial, and instrumentation. Together, these new investments support our strategy to offer regionally optimized, globally connected manufacturing solutions for our customers.
+We previously announced we are in the process of constructing a new advanced technology PCB manufacturing facility in Syracuse, New York. We expect that our new facility will bring advanced technology capability for our domestic high-volume production of ultra‑high‑density interconnect (HDI) PCBs in support of national security requirements. The building construction is complete, equipment is arriving, and we are beginning to install and test equipment setups. Volume production in this facility is expected to commence in the second half of 2026.
+
+20
+
+FINANCIAL OVERVIEW
+Our customers include both OEMs and EMS providers. We sell to OEMs both directly and indirectly through EMS providers. For such indirect sales, we measure customers based on OEM companies as they are the ultimate end customers. Sales to our ten largest customers collectively accounted for 56% and 55% of our net sales for the quarter and three quarters ended September 29, 2025, respectively. Sales to our ten largest customers collectively accounted for 54% and 53% of our net sales for the quarter and three quarters ended September 30, 2024, respectively.
+The percentage of our net sales attributable to each of the principal end markets we served was as follows:
+
+For the Quarter Ended
+
+For the Three Quarters Ended
+
+September 29, 2025
+
+September 30, 2024 
+(1)
+
+September 29, 2025 
+(1)
+
+September 30, 2024 
+(1)
+
+End Markets 
+(2)
+:
+
+Aerospace and Defense
+
+45
+
+%
+
+45
+
+%
+
+45
+
+%
+
+46
+
+%
+
+Automotive
+
+11
+
+14
+
+11
+
+14
+
+Data Center Computing
+
+23
+
+20
+
+22
+
+20
+
+Medical/Industrial/Instrumentation
+
+14
+
+14
+
+14
+
+14
+
+Networking
+
+7
+
+7
+
+8
+
+6
+
+Total
+
+100
+
+%
+
+100
+
+%
+
+100
+
+%
+
+100
+
+%
+
+(1)
+The end market revenue prior to the quarter ended June 30, 2025 has been recast to reflect certain adjustments to allocations resulting from the segment reorganization.
+(2)
+Sales to EMS companies are classified by the end markets of their OEM customers.
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+Our consolidated condensed financial statements included in this Report have been prepared in accordance with U.S. GAAP. The preparation of these consolidated condensed financial statements requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, net sales and expenses, and related disclosure of contingent assets and liabilities.
+
+See Item 7, 
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+, in our Annual Report on Form 10-K for the fiscal year ended December 30, 2024 for further discussion of critical accounting policies and estimates. There have been no material changes to our critical accounting policies and estimates since December 30, 2024.
+CONSOLIDATED OPERATING RESULTS
+Net sales consist of gross sales less an allowance for returns, which typically have been approximately 2% of gross sales. We provide our customers a limited right of return for defective PCBs including components, assemblies, and subsystems. We record an estimate for sales returns and allowances at the time of sale based on historical results and anticipated returns.
+
+Selected financial highlights are presented in the table below:
+
+For the Quarter Ended
+
+For the Three Quarters Ended
+
+September 29, 2025
+
+September 30, 2024
+
+September 29, 2025
+
+September 30, 2024
+
+(In thousands, except margin rates)
+
+Net sales
+
+$
+
+752,736
+
+$
+
+616,538
+
+$
+
+2,132,025
+
+$
+
+1,791,788
+
+Cost of goods sold
+
+596,000
+
+486,650
+
+1,696,208
+
+1,440,954
+
+Gross profit
+
+156,736
+
+129,888
+
+435,817
+
+350,834
+
+Gross margin
+
+20.8
+
+%
+
+21.1
+
+%
+
+20.4
+
+%
+
+19.6
+
+%
+
+Operating expenses:
+
+Selling and marketing
+
+21,796
+
+19,961
+
+64,383
+
+60,053
+
+General and administrative
+
+48,598
+
+42,567
+
+142,091
+
+124,841
+
+Research and development
+
+7,038
+
+8,054
+
+22,111
+
+23,922
+
+Amortization of definite-lived intangibles
+
+6,889
+
+6,951
+
+20,666
+
+28,636
+
+Restructuring charges
+
+509
+
+1,393
+
+2,631
+
+6,367
+
+Total operating expenses
+
+84,830
+
+78,926
+
+251,882
+
+243,819
+
+Operating income
+
+71,906
+
+50,962
+
+183,935
+
+107,015
+
+Operating margin
+
+9.6
+
+%
+
+8.3
+
+%
+
+8.6
+
+%
+
+6.0
+
+%
+
+Total other expense, net
+
+(10,093
+
+)
+
+(25,945
+
+)
+
+(35,606
+
+)
+
+(37,397
+
+)
+
+Income tax provision
+
+(8,758
+
+)
+
+(10,706
+
+)
+
+(21,566
+
+)
+
+(18,489
+
+)
+
+Net income
+
+$
+
+53,055
+
+$
+
+14,311
+
+$
+
+126,763
+
+$
+
+51,129
+
+The following discussion and analysis is for the quarter and three quarters ended September 29, 2025, compared to the quarter and three quarters ended September 30, 2024, unless otherwise stated.
+
+21
+
+Net Sales
+
+Total net sales increased $136.2 million, or 22.1%, to $752.7 million
+
+for the quarter ended September 29, 2025, from $616.5 million for the quarter ended September 30, 2024. The primary driver of this increase was strong demand in our aerospace and defense, data center computing, and networking end markets, the latter two being driven by generative AI. In addition, our medical, industrial, and instrumentation end market was also stronger as inventories and demand have normalized in this end market.
+Total net sales increased $340.2 million, or 19.0%, to $2,132.0 million for the three quarters ended September 29, 2025, from $1,791.8 million for the three quarters ended September 30, 2024. The primary drivers of the increase were as discussed in the paragraph above.
+Gross Profit and Margin Rate
+Gross profit increased $26.8 million to $156.7 million for the quarter ended September 29, 2025, from $129.9 million for the quarter ended September 30, 2024, primarily due to higher sales. Gross margin rate decreased slightly to 20.8% for the quarter ended September 29, 2025, from 21.1% for the quarter ended September 30, 2024. This decrease was primarily due to ramp‑up costs incurred in the third quarter of 2025 in connection with our fabrication plant in Penang, Malaysia as compared to the third quarter of 2024.
+Gross profit increased $85.0 million to $435.8 million for the three quarters ended September 29, 2025, from $350.8 million for the three quarters ended September 30, 2024, primarily due to higher sales. Gross margin rate increased to 20.4% for the three quarters ended September 29, 2025, from 19.6% for the three quarters ended September 30, 2024. The increase
+
+was primarily due to improved operational execution, favorable product mix, and increased volume of PCB shipments as compared to the same period of 2024.
+Operating Expenses
+Operating expenses increased $5.9 million to $84.8 million for the quarter ended September 29, 2025, from $78.9 million for the quarter ended September 30, 2024, primarily due to higher incentive compensation expense, stock-based compensation, and outside services costs.
+Operating expenses increased $8.1 million to $251.9 million for the three quarters ended September 29, 2025, from $243.8 million for the three quarters ended September 30, 2024, primarily due to the absence of gains on the sale of assets primarily related to the sale of two buildings vacated with the closure of our Anaheim and Santa Clara plants of $14.4 million that occurred in the three quarters ended September 30, 2024, partially offset by the write down of our Hong Kong building of $6.1 million that occurred in the three quarters ended September 30, 2024. In addition, increased stock-based compensation and incentive compensation expense contributed to the higher operating expenses, partially offset by a decrease in amortization of definite-lived intangibles.
+Operating Income and Margin Rate
+Operating income increased $20.9 million to $71.9 million for the quarter ended September 29, 2025, from $51.0 million for the quarter ended September 30, 2024. Operating margin rate increased to 9.6% for the quarter ended September 29, 2025, from 8.3% for the quarter ended September 30, 2024. The primary drivers of these increases are discussed above in the variance explanations for 
+Gross Profit and Margin Rate
+ and 
+Operating Expenses
+.
+
+Operating income increased $76.9 million to $183.9 million for the three quarters ended September 29, 2025, from $107.0 million for the three quarters ended September 30, 2024. Operating margin rate increased to 8.6% for the three quarters ended September 29, 2025, from 6.0% for the three quarters ended September 30, 2024. The primary drivers of these increases are discussed above in the variance explanations for 
+Gross Profit and Margin Rate 
+and 
+Operating Expenses
+.
+
+Total Other Expense, Net
+Total other expense, net decreased $15.9 million to $10.1 million for the quarter ended September 29, 2025, from $25.9 million for the quarter ended September 30, 2024, primarily as a result of lower unrealized foreign exchange losses during the quarter ended September 29, 2025. We utilize the Chinese Renminbi (RMB) and Malaysian Ringgit (MYR) at our China and Malaysia facilities, respectively, for employee‑related and other costs of running our operations in foreign countries. There was an unrealized loss from foreign exchange of $0.5 million during the quarter ended September 29, 2025, compared to $16.2 million during the quarter ended September 30, 2024. This unrealized loss was related to the translation of our China and Malaysia balance sheets from their local currencies into the U.S. dollar functional currency, resulting from weakening RMB and MYR during the quarter ended September 29, 2025 as compared to the quarter ended September 30, 2024.
+
+Total other expense, net decreased $1.8 million to $35.6 million for the three quarters ended September 29, 2025, from $37.4 million for the three quarters ended September 30, 2024, primarily as a result of lower unrealized foreign exchange losses during the three quarters ended September 29, 2025. There was an
+
+unrealized loss from foreign exchange of $8.5 million during the three quarters ended September 29, 2025, compared to $12.0 million during the three quarters ended September 30, 2024. This decrease was primarily due to the foreign currency impacts discussed in the paragraph above.
+
+22
+
+Income Taxes
+
+Income tax expense decreased $1.9 million to $8.8 million for the quarter ended September 29, 2025, from $10.7 million for the quarter ended September 30, 2024, primarily due to the OBBBA tax impact, as discussed below, and an income tax benefit from the deduction of stock-based compensation, partially offset by accruals for potential assessments and uncertain tax positions in various jurisdictions.
+Income tax expense increased $3.1 million to $21.6 million for the three quarters ended September 29, 2025, from $18.5 million for the three quarters ended September 30, 2024, primarily due to an increase in income before income taxes for the three quarters ended September 29, 2025 and income tax accruals for potential assessments and uncertain tax positions in various jurisdictions, partially offset by the OBBBA tax impact, as discussed below, and an income tax benefit from the deduction of stock‑based compensation.
+On July 4, 2025, the OBBBA was enacted, introducing amendments to U.S. tax laws with various effective dates from 2025 to 2027. The OBBBA includes provisions such as the permanent extension of certain provisions of the Tax Cuts and Jobs Act that were set to expire at the end of 2025 and modifications to the international tax framework. Topic 740 requires the effects of changes in tax rates and laws on deferred tax balances to be recognized in the period in which the legislation is enacted. Accordingly, our tax provisions for the quarter and three quarters ended September 29, 2025 incorporated the estimated effects of the tax law changes including the accelerated depreciation of qualified property and the immediate expensing of U.S. research and development expenditure paid or incurred for tax years beginning after December 31, 2024. We recorded a $5.2 million benefit from the decrease in the U.S. valuation allowance resulting from the OBBBA impact to our deferred tax assets.
+Our effective tax rate is primarily impacted by the mix of foreign and U.S. income, tax rates in China and Hong Kong, the U.S. federal income tax rate, apportioned state income tax rates, the generation of credits and deductions available to us as well as changes in valuation allowances and certain non-deductible items. We had a net deferred income tax liability of $41.9 million and $40.4 million as of September 29, 2025 and September 30, 2024, respectively.
+
+23
+
+SEGMENT OPERATING RESULTS
+Basis of Presentation
+During the quarter ended June 30, 2025, in connection with our change in organizational structure to enhance clarity in sector performance, accountability, and operating costs, our management finalized its assessment of our operating segments and concluded that we now have three reportable segments: A&D, Commercial, and RF&S Components. As a result, certain prior period amounts have been reclassified to conform with this new presentation. See Part I, Item 1, Note 4, 
+Segment Information
+, of the Notes to Consolidated Condensed Financial Statements in this Report for further information.
+
+Selected segment financial highlights, with reconciliations to operating income, are presented in the table below:
+
+For the Quarter Ended
+
+For the Three Quarters Ended
+
+September 29, 2025
+
+September 30, 2024
+
+September 29, 2025
+
+September 30, 2024
+
+(In thousands, except margin rates)
+
+Segment sales:
+
+A&D
+
+$
+
+336,841
+
+$
+
+279,533
+
+$
+
+974,553
+
+$
+
+833,798
+
+Commercial
+
+408,920
+
+329,382
+
+1,137,249
+
+936,440
+
+RF&S Components
+
+10,444
+
+9,780
+
+29,342
+
+27,196
+
+Total
+
+$
+
+756,205
+
+$
+
+618,695
+
+$
+
+2,141,144
+
+$
+
+1,797,434
+
+Segment operating income:
+
+A&D
+
+$
+
+52,884
+
+$
+
+40,279
+
+$
+
+138,943
+
+$
+
+100,252
+
+Commercial
+
+60,031
+
+51,105
+
+163,749
+
+130,858
+
+RF&S Components
+
+3,126
+
+2,426
+
+7,581
+
+6,139
+
+Total
+
+116,041
+
+93,810
+
+310,273
+
+237,249
+
+Segment operating margin rate:
+
+A&D
+
+15.7
+
+%
+
+14.4
+
+%
+
+14.3
+
+%
+
+12.0
+
+%
+
+Commercial
+
+14.7
+
+%
+
+15.5
+
+%
+
+14.4
+
+%
+
+14.0
+
+%
+
+RF&S Components
+
+29.9
+
+%
+
+24.8
+
+%
+
+25.8
+
+%
+
+22.6
+
+%
+
+Total
+
+15.3
+
+%
+
+15.2
+
+%
+
+14.5
+
+%
+
+13.2
+
+%
+
+Unallocated amounts:
+
+Restructuring
+
+(509
+
+)
+
+(1,393
+
+)
+
+(2,631
+
+)
+
+(6,367
+
+)
+
+Gain on sale of property, plant, and equipment
+
+—
+
+—
+
+—
+
+14,420
+
+Acquisition-related and other charges
+
+(15
+
+)
+
+(2,867
+
+)
+
+(15
+
+)
+
+(12,939
+
+)
+
+Stock-based compensation
+
+(11,611
+
+)
+
+(8,330
+
+)
+
+(29,586
+
+)
+
+(21,697
+
+)
+
+Other corporate expenses
+
+(22,775
+
+)
+
+(20,972
+
+)
+
+(66,433
+
+)
+
+(68,009
+
+)
+
+Amortization of definite-lived intangibles
+
+(1)
+
+(9,225
+
+)
+
+(9,286
+
+)
+
+(27,673
+
+)
+
+(35,642
+
+)
+
+Operating income
+
+$
+
+71,906
+
+$
+
+50,962
+
+$
+
+183,935
+
+$
+
+107,015
+
+(1)
+Amortization of definite-lived intangibles relates to the A&D, Commercial, and RF&S Components reportable segments, but is not reviewed separately by the CODM. For the quarter and three quarters ended September 29, 2025, amortization expense of $2,336 and $7,007, respectively, is included in cost of goods sold for the A&D reportable segment. For the quarter and three quarters ended September 30, 2024, amortization expense of $2,335 and $7,006, respectively, is included in cost of goods sold for the A&D reportable segment.
+Segment operating income, as reconciled in Part I, Item 1, Note 4, 
+Segment Information
+, of the Notes to Consolidated Condensed Financial Statements in this Report, and segment operating margin rate (segment operating income
+
+divided by segment sales) are presented in conformity with Accounting Standards Codification (ASC) Topic 280, 
+Segment Reporting
+. These measures are reported to the CODM, who is the President and Chief Executive Officer, for purposes of making decisions about allocating resources to the segments and assessing their performance. For these reasons, these measures are excluded from the definition of non‑GAAP financial measures under the SEC's Regulation G and Item 10(e) of Regulation S-K.
+A&D
+
+Segment Sales
+Segment sales for the A&D reportable segment increased $57.3 million, or 20.5%, to $336.8 million for the quarter ended September 29, 2025, from $279.5 million for the quarter ended September 30, 2024. The primary drivers of this increase were improved spending in previous defense budgets, our strong strategic program alignment, and key bookings for ongoing franchise programs,
+
+24
+
+including restricted programs. These increases were driven by increased sales related to missiles and munitions as well as strong demand in our mission systems and specialty assembly businesses.
+
+Segment sales for the A&D reportable segment increased $140.8 million, or 16.9%, to $974.6 million for the three quarters ended September 29, 2025, from $833.8 million for the three quarters ended September 30, 2024. The primary drivers of the increase were as discussed in the paragraph above.
+Segment Operating Income and Margin Rate
+Segment operating income for the A&D reportable segment increased $12.6 million to $52.9 million for the quarter ended September 29, 2025, from $40.3 million for the quarter ended September 30, 2024. Segment operating margin rate for the A&D reportable segment increased to 15.7% for the quarter ended September 29, 2025, from 14.4% for the quarter ended September 30, 2024. The primary drivers of these increases were higher sales volume, as discussed above, favorable product mix, and improved operational execution.
+Segment operating income for the A&D reportable segment increased $38.7 million to $138.9 million for the three quarters ended September 29, 2025, from $100.3 million for the three quarters ended September 30, 2024. Segment operating margin rate for the A&D reportable segment increased to 14.3% for the three quarters ended September 29, 2025, from 12.0% for the three quarters ended September 30, 2024. The primary drivers of these increases were higher sales volume, as discussed above, favorable product mix, and improved operational execution.
+
+Commercial
+Segment Sales
+Segment sales for the Commercial reportable segment increased $79.5 million, or 24.1%, to $408.9 million for the quarter ended September 29, 2025, from $329.4 million for the quarter ended September 30, 2024. The primary driver of this increase was strong demand in our data center computing and networking end markets driven by generative AI.
+
+Segment sales for the Commercial reportable segment increased $200.8 million, or 21.4%, to $1,137.2 million for the three quarters ended September 29, 2025, from $936.4 million for the three quarters ended September 30, 2024. The primary driver of this increase was strong demand in our data center computing and networking end markets driven by generative AI, as well as normalized demand and increased AI-related demand in our medical, industrial, and instrumentation end market.
+
+Segment Operating Income and Margin Rate
+Segment operating income for the Commercial reportable segment increased $8.9 million to $60.0 million for the quarter ended September 29, 2025, from $51.1 million for the quarter ended September 30, 2024. Segment operating margin rate for the Commercial reportable segment decreased to 14.7% for the quarter ended September 29, 2025, from 15.5% for the quarter ended September 30, 2024. The primary driver of the increase in segment operating income was higher sales volume as discussed above, while the segment operating margin rate decreased due to increased ramp-up costs in connection with our fabrication plant in Penang, Malaysia, as well as product mix change.
+Segment operating income for the Commercial reportable segment increased $32.9 million to $163.7 million for the three quarters ended September 29, 2025, from $130.9 million for the three quarters ended September 30, 2024. Segment operating margin rate for the Commercial reportable segment increased to 14.4% for the three quarters ended September 29, 2025, from 14.0% for the three quarters ended September 30, 2024. The primary drivers of these increases were higher sales volume as discussed above, and improved operational execution.
+
+RF&S Components
+Segment Sales
+Segment sales for the RF&S Components reportable segment increased $0.7 million, or 6.8%, to $10.4 million for the quarter ended September 29, 2025, from $9.8 million for the quarter ended September 30, 2024. The primary driver of this increase was stronger demand across the networking and medical, industrial, and instrumentation end markets.
+Segment sales for the RF&S Components reportable segment increased $2.1 million, or 7.9%, to $29.3 million for the three quarters ended September 29, 2025, from $27.2 million for the three quarters ended September 30, 2024. The primary driver of this increase was stronger demand across the networking and medical, industrial, and instrumentation end markets.
+Segment Operating Income and Margin Rate
+Segment operating income for the RF&S Components reportable segment increased $0.7 million to $3.1 million for the quarter ended September 29, 2025, from $2.4 million for the quarter ended September 30, 2024. Segment operating margin rate for the RF&S Components reportable segment increased to 29.9% for the quarter ended September 29, 2025, from 24.8% for the quarter ended
+
+25
+
+September 30, 2024. The primary drivers of these increases were higher sales volume as discussed above, and improved operational execution.
+Segment operating income for the RF&S Components reportable segment increased $1.4 million to $7.6 million for the three quarters ended September 29, 2025, from $6.1 million for the three quarters ended September 30, 2024. Segment operating margin rate for the RF&S Components reportable segment increased to 25.8% for the three quarters ended September 29, 2025, from 22.6% for the three quarters ended September 30, 2024. The primary drivers of these increases were higher sales volume as discussed above, and improved operational execution.
+Liquidity and Capital Resources
+Our principal sources of liquidity have been cash provided by operations, the issuance of debt, and borrowings under our revolving credit facilities. Our principal uses of cash have been to finance capital expenditures, finance acquisitions, fund working capital requirements, repay debt obligations, and repurchase common stock. We anticipate that financing capital expenditures, financing acquisitions, funding working capital requirements, servicing debt, and repurchasing common stock will be the principal demands on our cash in the future.
+Cash flow provided by operating activities during the first three quarters of 2025 was $229.0 million as compared to cash flow provided by operating activities of $150.8 million in the same period in 2024. The increase in cash flow was primarily due to an increase in net income of $75.6 million.
+Net cash used in investing activities during the first three quarters of 2025 was $222.7 million, primarily resulting from the use of $223.2 million for net purchases of property, plant, and equipment and other assets. Net cash used in investing activities during the first three quarters of 2024 was $93.4 million, primarily resulting from the use of $129.7 million for purchases of property, plant, and equipment and other assets. This was partially offset by the receipt of $29.6 million of proceeds from the sale of property, plant, and equipment and other assets primarily related to the sale of two buildings vacated by the closure of our Anaheim and Santa Clara plants and $6.7 million of proceeds from the sale of property associated with our Shanghai E‑MS subsidiary.
+Net cash used in financing activities during the first three quarters of 2025 was $19.2 million, reflecting the use of $17.9 million for repurchases of our common stock and $2.8 million for the repayment of long-term debt borrowings, less customer deposits of $1.5 million. Net cash used in financing activities during the first three quarters of 2024 was $38.2 million, reflecting the use of $34.5 million for repurchases of common stock, $8.7 million for the repayment of long-term debt borrowings, and $1.1 million for payment of debt issuance costs, partially offset by $6.1 million of proceeds from long-term debt borrowings related to the refinancing of our Term Loan Facility.
+As of September 29, 2025, we had cash and cash equivalents of approximately $491.1 million, of which approximately $196.6 million was held by our foreign subsidiaries, primarily in China, and $199.4 million of available borrowing capacity under our revolving credit facilities. Should we choose to remit cash to the United States from our foreign locations, we may incur tax obligations which would reduce the amount of cash ultimately available to the United States. However, we believe there would be no material tax expenses not previously accrued for the repatriation of this cash.
+Our total 2025 capital expenditures are expected to be in the range of $265.0 million to $285.0 million, of which approximately $54.0 million relate to construction of our new plant in Syracuse, New York.
+Share Repurchases
+On May 8, 2025, our Board of Directors authorized the 2025 Repurchase Program, under which we may repurchase up to $100.0 million in value of our common stock from time to time through May 7, 2027. We did not repurchase any shares of our common stock during the quarter ended September 29, 2025. During the three quarters ended September 29, 2025, under our previous two-year repurchase program that expired on May 3, 2025, we repurchased approximately 0.7 million shares of our common stock for a total cost of $17.9 million (including commissions). As of September 29, 2025, the remaining amount in value available to be repurchased under the 2025 Repurchase Program was $100.0 million.
+Long-term Debt and Letters of Credit
+
+As of September 29, 2025, we had $916.6 million of outstanding debt, net of discount and issuance costs, composed of $497.2 million of Senior Notes due 2029, $337.4 million under the Term Loan Facility, $80.0 million under the Asia ABL, and $2.1 million of other loans.
+Pursuant to the terms of the Senior Notes due 2029 and Term Loan Facility, we are subject to certain affirmative and negative covenants, including limitations on indebtedness, corporate transactions, investments, dispositions, and restricted payments. Under the ABL Revolving Loans, we are also subject to various financial covenants, including leverage and fixed-charge coverage ratios. As of September 29, 2025, we were in compliance with the covenants under the Senior Notes due 2029, Term Loan Facility, and ABL Revolving Loans.
+
+26
+
+Based on our current level of operations, we believe that cash generated from operations, cash on hand, and cash from the issuance of term and revolving debt will be adequate to meet our currently anticipated capital expenditure, debt service, and working capital needs for the next 12 months. Additional information regarding our indebtedness, including information about the credit available under our debt facilities, interest rates, and other key terms of our outstanding indebtedness, is included in Part I, Item 1, Note 7, 
+Long‑term Debt and Letters of Credit
+, of the Notes to Consolidated Condensed Financial Statements included in this Report.
+Supplier Finance Program Obligations
+We have agreements with financial institutions to facilitate payments to certain suppliers. Liabilities associated with these agreements are recorded in accounts payable on the consolidated condensed balance sheets and amounted to $12.2 million and $17.2 million as of September 29, 2025 and December 30, 2024, respectively.
+Contractual Obligations and Commitments
+
+As part of our ongoing operations, we enter into contractual arrangements that obligate us to make future cash payments. These obligations impact our liquidity and capital resource needs. Our estimated future obligations consist of long-term debt obligations, interest on debt obligations, derivative liabilities, purchase obligations, and leases. As of September 29, 2025, there were no material
+
+changes outside the ordinary course of business since December 30, 2024 to our contractual obligations and commitments and the related cash requirements.
+
+Seasonality
+We tend to experience modest seasonal softness in the first and third quarters due to holidays and vacation periods in China and North America, respectively, which limit production leading to stronger revenue levels in the second and fourth quarters.
+Recently Issued Accounting Standards
+For a description of recently adopted and issued accounting standards, including the respective dates of adoption and the expected effects on our results of operations and financial condition, see Part I, Item 1, Note 1, 
+Nature of Operations and Basis of Presentation
+, of the Notes to Consolidated Condensed Financial Statements included in this Report.
+Item 3. 
+Quantitative and Qualitati
+ve Disclosures About Market Risk
+
+There have been no material changes to our risks as previously disclosed in Item 7A,
+ Quantitative and Qualitative Disclosures About Market Risk,
+ in our Annual Report on Form 10-K for the fiscal year ended December 30, 2024.
+Item 4.
+ Controls 
+and Procedures
+
+Evaluation of Disclosure Controls and Procedures
+
+Our management, under the supervision and with the participation of our Chief Executive Officer (CEO) and Chief Financial Officer (CFO), has evaluated the effectiveness of the design and operation of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act), as of the end of the period covered by this Quarterly Report on Form 10-Q. Based on this evaluation, our CEO and CFO have concluded that, as of September 29, 2025 such disclosure controls and procedures were effective to provide reasonable assurance that information we are required to disclose in reports that we file or submit under the Exchange Act is (1) recorded, processed, summarized, and reported within the time periods specified in the SEC's rules and forms and (2) accumulated and communicated to our management, including our CEO and CFO, as appropriate to allow timely decisions regarding required disclosures.
+In designing and evaluating our disclosure controls and procedures, our management recognized that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving their desired control objectives, and our management is required to apply its judgment in evaluating the cost-benefit relationship of possible controls and procedures.
+Changes in Internal Control over Financial Reporting
+
+We continue to expand our implementation of an enterprise resource planning (ERP) system on a worldwide basis, which is expected to improve the efficiency of the financial reporting and related transaction processes. We have completed the implementation at certain locations and as a result, we made changes to our processes and procedures which, in turn, resulted in changes to our internal control over financial reporting, including the implementation of additional controls. We are in the process of rolling out the ERP system to our remaining locations to standardize the ERP system.
+There were no other changes in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) during the quarter ended September 29, 2025 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+27
+
+PART II. OTHER
+ INFORMATION
+
+Item 1.
+ Legal 
+Proceedings
+
+From time to time, we may become a party to various legal proceedings arising in the ordinary course of our business. There can be no assurance that we will prevail in any such litigation. We believe that the amount of any reasonably possible or probable loss for known matters would not be material to our financial statements; however, the outcome of these actions is inherently difficult to predict. In the event of an adverse outcome, the ultimate potential loss could have a material adverse effect on our financial condition, results of operations, or cash flows in a particular period.
+
+Item 1A.
+ Ri
+sk Factors
+
+There have been no material changes in our risk factors as previously disclosed in Part I, Item 1A, 
+Risk Factors
+, of our Annual Report on Form 10-K for the fiscal year ended December 30, 2024.
+
+Item 2. 
+Unre
+gistered Sales of Equity Securities and Use of Proceeds
+Issuer Purchases of Equity Securities
+On May 8, 2025, our Board of Directors authorized a new share repurchase program, under which we may repurchase up to $100.0 million in value of our outstanding shares of common stock from time to time through May 7, 2027. Our previous two-year repurchase program expired on May 3, 2025.
+
+We did not repurchase any shares of our common stock during the quarter ended September 29, 2025.
+Item 3. 
+Defaults Upon Senior Securities
+Not applicable.
+Item 4
+. 
+Mine Safety Disclosures
+Not applicable.
+Item 5. 
+Other Information
+Rule 10b5-1 Trading Plans
+During the 
+quarter ended September 29, 2025, our directors and/or officers (as defined in Rule 16a-1(f) under the Exchange Act) adopted or terminated the contracts, instructions, or written plans for the purchase or sale of our securities set forth in the table below.
+
+Name and Title
+
+Action
+
+Adoption / Termination Date
+
+Rule 10b5-1 
+(1)
+
+Non-Rule 10b5-1 
+(2)
+
+Total Number of Shares of Common Stock to be Sold 
+(3)
+
+Expiration Date
+
+Daniel L. Boehle
+(
+Executive Vice President and CFO
+)
+
+Adoption
+
+August 8, 2025
+
+X
+
+Indeterminable 
+(4)
+
+August 31, 2026
+
+Thomas Clapprood
+(
+President, Radar Systems and Sensors Business Unit)
+
+Adoption
+
+August 27, 2025
+
+X
+
+Indeterminable 
+(4)
+
+June 30, 2026
+
+Thomas T. Edman
+(
+Director
+)
+
+Adoption
+
+August 20, 2025
+
+X
+
+Indeterminable 
+(4)
+
+June 30, 2026
+
+Thomas T. Edman
+(
+Director
+)
+
+Adoption
+
+August 25, 2025
+
+X
+
+Up to 
+84,000
+
+May 29, 2026
+
+Robert Farrell
+(
+President, Communication and Computing Business Unit
+)
+
+Adoption
+
+August 15, 2025
+
+X
+
+Indeterminable 
+(4)
+
+June 30, 2026
+
+Catherine A. Gridley
+(
+Executive Vice President and President, Aerospace & Defense Sector
+)
+
+Adoption
+
+August 27, 2025
+
+X
+
+Indeterminable 
+(4)
+
+June 30, 2026
+
+Dale Knecht
+(
+Senior Vice President of Global Information Technology
+)
+
+Adoption
+
+August 8, 2025
+
+X
+
+Indeterminable 
+(4)
+
+June 30, 2026
+
+Shawn Powers
+(
+Executive Vice President and Chief Human Resources Officer
+)
+
+Adoption
+
+August 29, 2025
+
+X
+
+Indeterminable 
+(4)
+
+June 30, 2026
+
+28
+
+Name and Title
+
+Action
+
+Adoption / Termination Date
+
+Rule 10b5-1 
+(1)
+
+Non-Rule 10b5-1 
+(2)
+
+Total Number of Shares of Common Stock to be Sold 
+(3)
+
+Expiration Date
+
+Shawn Powers
+(
+Executive Vice President and Chief Human Resources Officer
+)
+
+Adoption
+
+August 29, 2025
+
+X
+
+Up to 
+15,000
+
+November 30, 2026
+
+Douglas L. Soder
+(
+Executive Vice President and President, Commercial Sector
+)
+
+Adoption
+
+August 21, 2025
+
+X
+
+Up to 
+25,000
+
+November 30, 2026
+
+Douglas L. Soder
+(
+Executive Vice President and President, Commercial Sector
+)
+
+Adoption
+
+August 21, 2025
+
+X
+
+Indeterminable 
+(4)
+
+June 30, 2026
+
+Steven Spoto
+
+(
+President, Integrated Electronics Business Unit
+)
+
+Adoption
+
+August 22, 2025
+
+X
+
+Indeterminable 
+(4)
+
+August 12, 2026
+
+James P. Walsh
+
+(
+Chief Operating Officer
+)
+
+Adoption
+
+August 11, 2025
+
+X
+
+Indeterminable 
+(4)
+
+June 30, 2026
+
+Daniel J. Weber
+(
+Executive Vice President, Chief Legal Officer and Secretary
+)
+
+Adoption
+
+August 6, 2025
+
+X
+
+Indeterminable 
+(4)
+
+June 30, 2026
+
+(1)
+Contract, instruction, or written plan intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) under the Exchange Act.
+(2)
+“Non-Rule 10b5-1 trading arrangement” as defined in Item 408(c) of Regulation S-K under the Exchange Act.
+(3)
+Represents the maximum number of shares that may be sold pursuant to the 10b5-1 arrangement. The number of shares sold will be dependent on the satisfaction of certain conditions as set forth in the trading plan.
+(4)
+Rule 10b5-1 trading arrangement that is intended to provide for “eligible sell-to-cover transactions” (as described in Rule 10b5-1(c)(1)(ii)(D)(3) under the Exchange Act) to satisfy tax withholding obligations arising exclusively from vesting of RSUs or PRUs. The number of shares subject to covered RSUs or PRUs that will be sold to satisfy applicable tax withholding obligations upon vesting is not currently determinable as the number will vary based on the market price of our common stock and the extent to which vesting conditions are satisfied. This sell-to-cover arrangement provides solely for the automatic sale of shares that would otherwise be issuable in respect of a covered RSU or PRU in an amount sufficient to satisfy the applicable withholding obligation, with the proceeds of the sale delivered to the Company in satisfaction of the applicable withholding obligation.
+
+29
+
+Item 6. 
+Exhibits
+
+Exhibit
+
+Filed/Furnished
+
+Incorporated by Reference
+
+Number
+
+Exhibit Description
+
+Herewith
+
+Form
+
+File Number
+
+Exhibit
+
+Filing Date
+
+10.1‡
+
+Letter Agreement, dated as of August 14, 2025, by and between the Company and Edwin Roks
+
+8-K
+
+000-31285
+
+10.1
+
+August 14, 2025
+
+10.2‡
+
+Form of First Amendment to Performance-Based RSU Grant Notice Award Agreement by and between TTM Technologies, Inc. and Thomas Edman
+
+8-K
+
+000-31285
+
+10.2
+
+August 14, 2025
+
+31.1
+
+CEO Certification Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+
+X
+
+31.2
+
+CFO Certification Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+
+X
+
+32.1*
+
+CEO Certification Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+X
+
+32.2*
+
+CFO Certification Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+X
+
+101.INS
+
+Inline XBRL Instance Document – the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
+
+101.SCH
+
+Inline XBRL Taxonomy Extension Schema With Embedded Linkbase Documents
+
+104
+
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+
+‡      Management contract or compensatory plan.
+*     Furnished herewith. The certifications attached as Exhibits 32.1 and 32.2 that accompany this Report are not deemed filed with the Commission and are not to be incorporated by reference into any filing of the Registrant under the Securities Act of 1933, as amended, or the Exchange Act, whether made before or after the date of this Report, irrespective of any general incorporation language contained in such filing.
+
+30
+
+SIGNAT
+URES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+TTM Technologies, Inc.
+
+/s/  Daniel L. Boehle
+
+Dated: October 31, 2025
+
+Daniel L. Boehle
+
+Executive Vice President and Chief Financial Officer
+
+(Principal Financial Officer and Principal Accounting Officer and duly authorized signatory)
+
+31

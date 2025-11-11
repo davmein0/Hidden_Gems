@@ -1,0 +1,165 @@
+Item 3.
+Legal Proceedings
+35
+Item 4.
+Mine Safety Disclosures 
+35
+Part II
+35
+Item 5.
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+35
+Item 6.
+[Reserved]
+36
+Item 7.
+Management
+’
+s Discussion and Analysis of Financial Condition and Results of Operations
+36
+Item 7A.
+Quantitative and Qualitative Disclosures About Market Risk
+46
+Item 8.
+Financial Statements and Supplementary Data 
+F-
+1
+Item 9.
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure
+84
+Item 9A.
+Controls and Procedures 
+84
+Item 9B.
+Other Information 
+86
+Item 9C.
+Disclosure Regarding Foreign Jurisdictions That Prevent Inspections
+87
+Part III
+87
+Item 10.
+Directors, Executive Officers and Corporate Governance
+87
+Item 11.
+Executive Compensation
+87
+Item 12.
+Security Ownership of Certain Beneficial Owner and Management and Related Stockholder Matters
+87
+Item 13.
+Certain Relationships and Related Transactions, and Director Independence
+87
+Item 14.
+Principal Accounting Fees and Services
+87
+Part IV
+87
+Item 15.
+Exhibits, Financial Statement Schedules
+87
+Exhibit Index
+88
+I
+tem 16.
+
+Form 10-K Summary
+90
+Signatures
+91
+P
+ower of Attorney
+91
+3
+TA
+BLE OF CONTENTS
+CAUTIONARY STATEMENT ABOUT FORWARD-LOOKING STATEMENTS
+This annual report contains forward-looking statements. All statements other than statements of historical facts contained in this annual report, including statements concerning possible or assumed future actions, business strategies, events or results of operations, and any statements that refer to projections, forecasts or other characterizations of future events or circumstances, including any underlying assumptions, are forward-looking statements. These statements involve known and unknown risks, uncertainties and other important factors that may cause our actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by the forward-looking statements.
+In some cases, you can identify forward-looking statements by terms such as “may,” “should,” “expect,” “plan,” “anticipate,” “could,” “intend,” “target,” “project,” “contemplate,” “believe,” “estimate,” “predict,” “potential” or “continue” or the negative of these terms or other similar expressions. We have based these forward-looking statements largely on our current expectations and projections about future events and financial trends that we believe may affect our business, financial condition and results of operations. These forward-looking statements speak only as of the date of this annual report and are subject to a number of important risks and uncertainties that could cause actual results to differ materially from those in the forward-looking statements, including risks and uncertainties relating to:
+•
+our financial and business performance;
+•
+changes in our strategy, future operations, financial position, estimated revenues and losses, projected costs, prospects and plans;
+•
+our product development timeline and expected start of production;
+•
+the implementation, market acceptance and success of our business model;
+•
+our ability to scale in a cost-effective manner;
+•
+developments relating to our competitors and industry;
+•
+trading relationships between countries in which we operate, including primarily those between the United States and China, and related regulatory developments such as tariffs, customs duties, trade sanctions and cross-border investment restrictions;
+•
+our ability to realize benefits from the acquisition of GeneSiC Semiconductor Inc. on August 15, 2022, as discussed elsewhere in this report including in Part II, Item 1A (Risk Factors);
+•
+our ability to obtain and maintain intellectual property protection, and not infringe on the rights of the intellectual property of others;
+•
+our future capital requirements and sources and uses of cash;
+•
+our ability to obtain funding for our operations;
+•
+our business, expansion plans and opportunities;
+•
+the outcome of any known and unknown litigation and regulatory proceedings; and
+•
+the risks and uncertainties described in this annual report, including under the section titled “Risk Factors.”
+Because forward-looking statements are inherently subject to risks and uncertainties, some of which cannot be predicted or quantified and some of which are beyond our control, you should not rely on these forward-looking statements as predictions of future events. The events and circumstances reflected in our forward-looking statements may not be achieved or occur, and actual results could differ materially from those projected in the forward-looking statements. Moreover, we operate in an evolving environment. Some of these risks and uncertainties may in the future be amplified by events we do not expect or cannot predict. Additionally, new risk factors and uncertainties may emerge from time to time, and it is not possible for management to predict all risk factors and uncertainties. As a result of these factors, the forward-looking statements in this annual report may not prove to be accurate.
+Except as required by applicable law, we do not plan to publicly update or revise any forward-looking statements contained in this annual report, whether as a result of any new information, future events, changed circumstances or otherwise. You should read this annual report completely, and with the understanding that our actual future results may be materially different from what we expect. We qualify all of our forward-looking statements by these cautionary statements.
+4
+TA
+BLE OF CONTENTS
+SUMMARY OF RISK FACTORS
+The below summary of risk factors provides an overview of many of the risks we are exposed to in the normal course of our business activities. As a result, the below summary risks do not contain all of the information that may be important to you, and you should read the summary risks together with the more detailed and complete discussion of risks set forth under the heading “Risk Factors” in Part I, Item 1A of this annual report, as well as elsewhere in this annual report. Additional risks, beyond those summarized below or discussed elsewhere in this annual report, may apply to our activities or operations as currently conducted or as we may conduct them in the future or in the markets in which we operate or may in the future operate.
+Consistent with the foregoing, we are exposed to a variety of risks, including risks associated with the following:
+Risks Related to Our Business and Operations
+•
+Our success and future revenue depend on our ability to achieve design wins and to convince our current and prospective end customers to design our products into their product offerings.
+•
+To date we have been successful primarily as a result of introducing our leading-edge GaN power IC technology in mobile charging applications, such as wall chargers and adapters for mobile phones and laptop computers, and on motor drives for home appliances, where we believe we have achieved a market-leading position in GaN power ICs. Growth in demand for our GaN products depends on achieving similar successes in other markets where we believe our GaN technology provides comparable advantages, including consumer electronics, data center, solar and EV. Although we believe we are on track in these efforts, no assurance can be given that we will succeed in similarly displacing legacy silicon solutions in these other target markets for our GaN products.
+•
+Our August 2022 acquisition of GeneSiC Semiconductor Inc. (“GeneSiC”) was our first significant acquisition. We have devoted, and expect to continue to devote, significant time and attention to integrating GeneSiC with our GaN operations teams. Given our relatively small size and relative inexperience with acquisitions, we expect to face challenges which present a number of risks to achieving the anticipated benefits of the acquisition. Our revenue, expenses, results of operations and financial condition could be materially adversely affected as a result.
+•
+Since we have significant operations and revenues in China, our business development plans, results of operations and financial condition may be materially and adversely affected by significant political, social and economic developments in China, including governmental or regulatory changes, as well as trade relations between China and the United States and other countries. 
+•
+Regulatory restrictions, tariffs, or trade sanctions on certain countries, specifically China, as well as customers, or suppliers, and related developments, may impact our ability to sell or source our products.
+•
+The recently announced U.S. tariffs on Chinese imports may lead to increased costs and supply chain adjustments for semiconductor companies.
+•
+We currently rely on a single third-party wafer fabrication supplier and facility for the fabrication of semiconductor wafers for GaN ICs and a separate third-party wafer fabrication supplier and facility for the fabrication of semiconductor wafers SiC MOSFETs, and on a limited number of suppliers of other materials. Commencing manufacturing operations, in particular wafer fabrication, at additional suppliers is a complex and time-consuming process requiring supplier qualification and, usually, end-customer acceptance. As a result, the failure of any existing facilities or suppliers, or of additional suppliers, to continue to produce wafers or other materials, on a timely basis or at all, could harm our business and our financial results.
+•
+We may experience difficulties in transitioning to new wafer fabrication process technologies or in achieving higher levels of design integration, which may result in reduced manufacturing yields, delays in product deliveries and increased costs.
+5
+TA
+BLE OF CONTENTS
+•
+Because we do not have long-term purchase commitments with our end customers, orders may be cancelled, reduced, or rescheduled with little or no notice, which in turn exposes us to inventory risk, and may cause our business, financial results and future prospects to be harmed.
+•
+The complexity of our products could result in unforeseen delays or expenses from undetected defects, errors or bugs in hardware or software which could reduce the market adoption of our products, damage our reputation with current or prospective end customers and adversely affect our operating costs.
+Tax-Related Risks
+•
+Any adjustment to the purchase price of the assets that were transferred pursuant to the restructuring of Legacy Navitas in 2020 could adversely impact our tax position.
+•
+We could be subject to domestic or international changes in tax laws, tax rates or the adoption of new tax legislation, or we could otherwise have exposure to additional tax liabilities, which could adversely affect our business, results of operations, financial condition or future profitability.
+•
+Our ability to use net operating loss carryforwards and other tax attributes may be limited in connection with the Business Combination or other ownership changes.
+Risks Related to Intellectual Property
+•
+We may not be able to adequately protect our intellectual property rights. If we fail to adequately enforce or defend our intellectual property rights, our business may be harmed.
+•
+We may not be able to obtain additional patents and the legal protection afforded by any additional patents may not adequately cover the full scope of our business or permit us to gain or keep competitive advantage.
+•
+If we infringe or misappropriate, or are accused of infringing or misappropriating, the intellectual property rights of third parties, we may incur substantial costs or be prevented from being able to commercialize new products.
+Risks Related to Owning Our Common Stock
+•
+Concentration of ownership among existing executive officers, directors and their affiliates, including the investment funds they represent, may prevent new investors from influencing significant corporate decisions.
+•
+The issuance of additional capital stock in connection with financings, acquisitions, investments, our stock incentive plans or otherwise by us could dilute the ownership and voting power of our stockholders.
+•
+Our management has limited public company experience. The obligations associated with being a public company involve significant expenses and require significant resources and management attention, which may divert from our business operations and if we fail to maintain an effective system of internal controls, we may not be able to accurately report our financial results or prevent fraud.
+•
+We may issue a substantial number of additional shares under our employee equity incentive plans.
+6
+TA
+BLE OF CONTENTS
+PART I

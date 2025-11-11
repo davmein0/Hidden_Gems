@@ -1,0 +1,8246 @@
+ITEM 3. 
+LEGAL
+ PROCEEDINGS
+
+From time to time, we may become a party to various legal proceedings arising in the ordinary course of our business. There can be no assurance that we will prevail in any such litigation. We believe that the amount of any reasonably possible or probable loss for known matters would not be material to our financial statements; however, the outcome of these actions is inherently difficult to predict. In the event of an adverse outcome, the ultimate potential loss could have a material adverse effect on our financial condition, results of operations, or cash flows in a particular period.
+
+ITEM 4. 
+MINE SAF
+ETY DISCLOSURES
+
+Not applicable.
+
+38
+
+PART
+ II
+
+ITEM 5. 
+MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOC
+KHOLDER MATTERS, AND ISSUER PURCHASES OF EQUITY SECURITIES
+
+Market Information
+
+Our common stock is traded on the Nasdaq Global Select Market under the symbol “TTMI”.
+
+As of February 14, 2025, there were approximately 236 holders of record of our common stock, although there are a significantly larger number of beneficial owners of our common stock.
+
+STOCK PRICE PERFORMANCE GRAPH
+
+The performance graph below compares, for the period from December 30, 2019 to December 30, 2024, the cumulative total stockholder return on our common stock against the cumulative total return of the Nasdaq Composite Index and the Dow Jones U.S. Electrical Components and Equipment Index.
+
+The graph assumes $100 was invested in our common stock on December 30, 2019, and an investment in Nasdaq Composite Index and the Dow Jones U.S. Electrical Components & Equipment Index. The stock performance shown on the graph below represents historical stock performance and is not necessarily indicative of future stock performance.
+
+COMPARISON OF 5 YEAR CUMULATIVE TOTAL RETURN*
+
+Among TTM Technologies, Inc., the Nasdaq Composite Index
+
+and the Dow Jones U.S. Electrical Components & Equipment Index
+
+*	$100 invested on December 30, 2019 in stock or index, including reinvestment of dividends.
+
+12/30/2019
+
+12/28/2020
+
+1/3/2022
+
+1/2/2023
+
+1/1/2024
+
+12/30/2024
+
+TTM Technologies, Inc.
+
+$
+
+100.00
+
+$
+
+92.41
+
+$
+
+101.75
+
+$
+
+101.34
+
+$
+
+106.25
+
+$
+
+165.99
+
+Nasdaq Composite
+
+100.00
+
+144.92
+
+177.06
+
+119.45
+
+172.77
+
+223.87
+
+Dow Jones U.S. Electrical Components & Equipment
+
+100.00
+
+120.75
+
+151.36
+
+124.87
+
+159.56
+
+213.20
+
+The performance graph above shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (Exchange Act), or otherwise subject to the liability of that section. The performance graph above will not be deemed incorporated by reference into any filing of our company under the Securities Act of 1933, as amended, or the Exchange Act.
+
+39
+
+Dividends
+
+We have never declared or paid cash dividends on our common stock. We currently expect to retain future earnings for capital expenditures and acquisitions, and to fund working capital requirements, repay existing debt, and to repurchase shares and do not anticipate paying cash dividends in the foreseeable future. Additionally, our ability to pay dividends is limited pursuant to covenants contained in our various debt agreements.
+
+Issuer Purchases of Equity Securities
+
+On May 3, 2023, our Board of Directors authorized a share repurchase program, under which we may repurchase up to $100.0 million of our outstanding shares of common stock through May 3, 2025. We did not repurchase any shares of our common stock during the quarter ended December 30, 2024.
+
+ITEM 6
+. 
+RESERVED
+
+Not applicable.
+
+40
+
+ITEM 7. 
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+ FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+This financial review presents our operating results for each of our three most recent fiscal years and our financial condition as of December 30, 2024. Except for historical information contained herein, the following discussion contains forward-looking statements which are subject to known and unknown risks, uncertainties, and other factors that may cause our actual results to differ materially from those expressed or implied by such forward-looking statements. We discuss such risks, uncertainties, and other factors throughout this Annual Report on Form 10-K (Report) and specifically under Item 1A, Risk Factors of Part I of this Report. In addition, the following discussion should be read in connection with the information presented in our consolidated financial statements and the related notes to our consolidated financial statements.
+
+COMPANY OVERVIEW
+
+We are a leading global manufacturer of technology solutions, including mission systems, radio frequency (RF) components, RF microwave/microelectronic assemblies, and quick-turn and technologically advanced printed circuit boards (PCB). We focus on providing time-to-market and volume production of advanced technology products and offer a one-stop design, engineering, and manufacturing solution to our customers. This solution allows us to align technology development with the diverse needs of our customers and to enable them to reduce the time required to develop new products and bring them to market. We serve a diversified customer base consisting of approximately 1,400 customers in various markets throughout the world, including aerospace and defense, data center computing, automotive, medical, industrial and instrumentation, and networking. Our customers include original equipment manufacturers (OEMs), electronic manufacturing services (EMS) providers, original design manufacturers (ODMs), distributors, and government agencies (both domestic and allied foreign governments).
+
+RECENT DEVELOPMENTS
+
+In the third quarter of 2024, we commenced construction of our new advanced technology PCB manufacturing facility in Syracuse, New York. We expect that our new facility will bring advanced technology capability for our domestic high-volume production of ultra-high-density interconnect (HDI) PCBs in support of national security requirements. We believe the planned investment aligns with New York State’s continuing focus on the region as a premier technology hub for U.S. electronics and the recent selection of Buffalo-Rochester-Syracuse (BRS) for the Federal Tech Hub designation. The project reflects our support for cultivating a stronger microelectronics ecosystem in New York and across the U.S. Aerospace and Defense industrial base. The new building will be located on the 24-acre property adjacent to our existing facility in Syracuse, and we expect to commence initial low rate production in 2026. Phase one of the proposed project, including capital for campus-wide improvements is estimated to be $100.0 million to $130.0 million. We expect to receive support in the form of grants, awards, and tax credits from both federal and New York state sources of approximately $52.0 million in the aggregate (subject to certain requirements and contingencies), which would offset the initial capital investment and lower operating expenses.
+
+In addition, we previously announced plans to consolidate our integrated electronics facilities in Elizabeth City, North Carolina and Huntington, New York into existing facilities in order to improve efficiencies. As of the end of fiscal year 2024, the closure of Elizabeth City has been completed and the closure of Huntington is expected by the middle of 2025.
+
+41
+
+FINANCIAL OVERVIEW
+
+While our customers include both OEMs and EMS providers, we measure customers based on OEM companies, as they are the ultimate end customers. Sales to our five largest customers accounted for 42%, 41%, and 33% of our net sales in fiscal years 2024, 2023, and 2022, respectively, which is in line with the increase in sales in our aerospace and defense end market. We sell to OEMs both directly and indirectly through EMS providers.
+
+The percentage of our net sales attributable to each of the principal end markets we served was as follows:
+
+For the Year Ended
+
+December 30, 2024
+
+January 1, 2024
+
+January 2, 2023
+
+End Markets 
+(1)
+:
+
+Aerospace and Defense
+
+46
+
+%
+
+45
+
+%
+
+35
+
+%
+
+Automotive
+
+13
+
+16
+
+17
+
+Data Center Computing
+
+21
+
+14
+
+15
+
+Medical/Industrial/Instrumentation
+
+14
+
+17
+
+20
+
+Networking
+
+6
+
+8
+
+13
+
+Total
+
+100
+
+%
+
+100
+
+%
+
+100
+
+%
+
+(1)
+Sales to EMS companies are classified by the end markets of their OEM customers.
+
+We derive revenues primarily from the sale of PCBs, engineered systems using customer-supplied engineering and design plans as well as our long-term contracts related to the design and manufacture of highly sophisticated intelligence, surveillance, and communications solutions, and RF and microwave/microelectronics components, assemblies, and subsystems. Orders for products generally correspond to the production schedules of our customers and are supported with firm purchase orders. Our customers have continuous control of the work in progress and finished goods throughout the PCB and engineered systems manufacturing process, as these are built to customer specifications with no alternative use, and there is an enforceable right of payment for work performed to date. As a result, we recognize revenue progressively over time based on the extent of progress towards completion of the performance obligation. We recognize revenue based on a cost method as it best depicts the transfer of control to the customer which takes place as we incur costs. Revenues are recorded proportionally as costs are incurred.
+
+We also manufacture certain components, assemblies, subsystems, and completed systems which service our RF and Specialty Components (RF&S Components) customers and certain aerospace and defense customers. We recognize revenue at a point in time upon transfer of control of the products to our customer. Point in time recognition was determined as our customers do not simultaneously receive or consume the benefits provided by our performance and the asset being manufactured has alternative uses to us.
+
+Net sales consist of gross sales less an allowance for returns, which typically have been approximately 2% of gross sales. We provide our customers a limited right of return for defective PCBs including components, assemblies, and subsystems. We record an estimate for sales returns and allowances at the time of sale based on historical results and anticipated returns.
+
+Cost of goods sold consists of materials, labor, outside services, and overhead expenses incurred in the manufacture and testing of our products. Shipping and handling fees and related freight costs and supplies associated with shipping products are also included as a component of cost of goods sold. Many factors affect our gross margin, including capacity utilization, product mix, production volume, supply chain costs, and yield.
+
+Selling and marketing expenses consist primarily of salaries, labor-related benefits, and commissions paid to our internal sales force, independent sales representatives, and our sales support staff, as well as costs associated with marketing materials and trade shows.
+
+General and administrative costs primarily include the salaries for executive, finance, accounting, information technology, and human resources personnel, as well as expenses for accounting and legal assistance, incentive compensation expense, and gains or losses on the sale or disposal of property, plant, and equipment.
+
+Research and development expenses consist primarily of salaries and labor-related benefits paid to our research and development staff, as well as material costs.
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+Our consolidated financial statements included in this Report have been prepared in accordance with accounting principles generally accepted in the United States of America (U.S. GAAP). The preparation of these financial statements requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, net sales and expenses, and related disclosure of contingent assets and liabilities.
+
+A critical accounting policy is defined as one that is both material to the presentation of our consolidated financial statements and requires us to make judgments that could have a material effect on our financial condition or results of operations. These policies
+
+42
+
+require us to make assumptions about matters that are highly uncertain at the time of the estimate. Critical accounting estimates refers to those estimates made in accordance with U.S. GAAP that have had or are reasonably likely to have a material impact on the amounts reported in the consolidated financial statements and the related notes due to the significant level of uncertainty involved in developing the estimate. Different estimates we could reasonably have used, or changes in the estimates that are reasonably likely to occur, could have a material effect on our financial condition or results of operations.
+
+We base our estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Management has discussed the development, selection, and disclosure of these estimates with the Audit Committee of our Board of Directors. Actual results may differ from these estimates under different assumptions or conditions.
+
+We believe the following critical accounting policies and estimates reflect the more significant judgments and estimates used by us in preparing our consolidated financial statements:
+
+Revenue Recognition
+
+Revenue is recognized when control of the promised goods or services is transferred to customers, in an amount that reflects the consideration to which we expect to be entitled in exchange for those goods or services. We apply a five-step approach in determining the amount and timing of revenue to be recognized: (1) identifying the contract with a customer; (2) identifying the performance obligations in the contract; (3) determining the transaction price; (4) allocating the transaction price to the performance obligations in the contract; and (5) recognizing revenue when the corresponding performance obligation is satisfied.
+
+For PCBs and engineered systems, including pursuant to long-term contracts related to the manufacture of highly sophisticated intelligence, surveillance and communications solutions, components, assemblies, and subsystems, orders for products generally correspond to the production schedules of customers and are supported with firm purchase orders. Customers have continuous control of the work in progress and finished goods throughout the PCB and engineered systems manufacturing process, as these are built to customer specifications with no alternative use, and there is an enforceable right to payment for work performed to date. As a result, we recognize revenue progressively over time based on the extent of progress towards completion of the performance obligation. Revenue recognized is based on a cost method as it best depicts the transfer of control to the customer which takes place as we incur costs. Revenues are recorded proportionally as costs are incurred.
+
+For revenue recorded on an over time basis, we apply a gross margin estimate to inventory in process of being manufactured for customers to determine how much of a contract asset or contract liability should be recorded at period end. As of December 30, 2024, total contract assets were $386.8 million, of which $381.4 million are expected to be collected within one year and recorded as contract assets and $5.4 million are expected to be collected after one year and included as a component of deposits and other non-current assets on the consolidated balance sheets. As of January 1, 2024, total contract assets were $303.3 million, of which $292.1 million were expected to be collected within one year and recorded as contract assets and $11.3 million were expected to be collected after one year and included as a component of deposits and other non-current assets on the consolidated balance sheets. The increase in total contract assets in 2024 is primarily due to an increase in unbilled receivables. We use historical information to estimate the gross margin associated with performance obligations that are satisfied over time. We reevaluate our estimate of gross margins on a quarterly basis. Based on the review of gross margins, we update our estimate to the model as necessary. If our estimates of gross margins are inaccurate, we may recognize too much or too little revenue in a period. While experience has shown that trends in gross margins are not volatile, changes in pricing or cost efficiencies could create significant fluctuations. An increase or decrease of 200 basis points in gross margin estimates would have increased or decreased our contract assets by $3.7 million and $2.3 million, respectively, and decreased or increased our contract liabilities by $7.2 million and $5.6 million, respectively.
+
+In addition, we manufacture components, assemblies, subsystems, and completed systems which service our RF&S Components and certain aerospace and defense customers. We recognize revenue at a point in time upon transfer of control of the products to the customer. Point in time recognition was determined as our customer does not simultaneously receive or consume the benefits provided by our performance and the asset being manufactured has alternative uses to us.
+
+Goodwill and Intangible Assets
+
+We have significant goodwill and definite-lived intangibles. We review these assets for impairment whenever events or changes in circumstances indicate that the carrying amount of such assets may not be recoverable. In addition, we perform an impairment test related to goodwill at least annually. As necessary, we make judgments regarding future cash flow forecasts in the assessment of impairment.
+
+Goodwill is allocated to our reporting units, which are our operating segments or one level below our operating segments (the component level). Reporting units are determined by the discrete financial information available for the component and whether it is regularly reviewed by segment management. Components are aggregated into a single reporting unit if they share similar economic characteristics. We evaluate goodwill on an annual basis in the fourth quarter or more frequently if we believe indicators of impairment exist. We assess qualitative factors to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount or perform a quantitative impairment test. When tested quantitatively, we compare the fair value of the applicable
+
+43
+
+reporting unit with its carrying value. We estimate the fair values of our reporting units using a combination of the discounted cash flow (DCF) and market approach. If the carrying amount of a reporting unit exceeds the reporting unit’s fair value, the amount by which the carrying value exceeds the fair value is recognized as an impairment loss.
+
+We have two reportable segments: PCB and RF&S Components. Goodwill is attributable to both of our PCB and RF&S Components reportable segments.
+
+In the fourth quarter of 2024, we performed our annual goodwill impairment test qualitatively for the PCB reporting unit and concluded that it was more likely than not that there was no impairment to goodwill.
+
+In the fourth quarter of 2024, we performed our annual goodwill impairment test quantitatively for the RF&S Components reporting unit. As of November 1, 2024, we completed a quantitative goodwill impairment analysis related to our RF&S Components reporting unit by comparing the fair value of the reporting unit with its carrying amount. In making this assessment, we rely on a number of factors, including expected future operating results, business plans, economic projections, anticipated future cash flows, and business trends. We determined the fair value of the reporting unit by using both a DCF and a market approach. Under the market approach, we used revenue and earnings multiples based on comparable industry multiples to estimate the fair value of the reporting unit.
+
+Under the DCF approach, we estimated the future cash flows, as well as selected a risk-adjusted discount rate to measure the present value of the anticipated cash flows. When determining future cash flow estimates, we considered historical results adjusted to reflect current and anticipated future operating conditions. We estimated cash flows for the reporting unit over a discrete period and a terminal period (considering expected long-term growth rates and trends).
+
+Based on our analysis, we determined that the fair value of the RF&S Components reporting unit was less than its carrying value and recorded a non-cash goodwill impairment charge of $32.6 million during the year ended December 30, 2024. Estimating the fair value of the reporting unit requires us to make assumptions and estimates in such areas as future economic conditions, industry-specific conditions, product pricing, and necessary capital expenditures. The use of different assumptions or estimates for future cash flows, discount rates, or terminal growth rates, which are subject to a high degree of judgment, could produce substantially different estimates of the fair value of the reporting unit. We may be subject to additional goodwill impairment charges if actual results do not meet the estimates used in determining the fair value of goodwill and the associated goodwill impairment charge.
+
+Management will continue to monitor the reporting units for changes in the business environment that could impact recoverability. The recoverability of goodwill is dependent upon the continued growth of cash flows from our business activities. If the economy or business environment falter and we are unable to achieve our assumed revenue growth rates or profit margin percentages, our projections used would need to be re-measured, which could impact the carrying value of our goodwill in one or more of our reporting units.
+
+We also assess definite-lived intangibles for potential impairment given similar impairment indicators. When indicators of impairment exist related to our definite-lived intangible assets, we use an estimate of the undiscounted cash flows in measuring whether the carrying amount of the assets is recoverable. If the sum of the undiscounted cash flows is less than the carrying amount of the net assets, impairment is measured based on the difference between the net asset’s carrying value and estimated fair value. Fair value is determined through various valuation techniques, including cost-based, market, and income approaches as considered necessary, which involve judgments related to future cash flows and the application of the appropriate valuation model.
+
+44
+
+RESULTS OF OPERATIONS
+
+We operate on a 52 or 53 week fiscal calendar with the fourth quarter ending on the Monday nearest December 31. Fiscal years 2024, 2023, and 2022 consisted of 52 weeks ended on December 30, 2024, January 1, 2024, and January 2, 2023, respectively.
+
+The relationship of various items to net sales in our consolidated statements of operations was as follows:
+
+For the Year Ended
+
+December 30, 2024
+
+January 1, 2024
+
+January 2, 2023
+
+Net sales
+
+100.0
+
+%
+
+100.0
+
+%
+
+100.0
+
+%
+
+Cost of goods sold
+
+80.5
+
+81.5
+
+81.6
+
+Gross profit
+
+19.5
+
+18.5
+
+18.4
+
+Operating expenses:
+
+Selling and marketing
+
+3.3
+
+3.4
+
+3.0
+
+General and administrative
+
+7.0
+
+6.7
+
+6.4
+
+Research and development
+
+1.3
+
+1.2
+
+1.0
+
+Amortization of definite-lived intangibles
+
+1.4
+
+2.2
+
+1.5
+
+Impairment of goodwill
+
+1.3
+
+2.0
+
+—
+
+Restructuring charges
+
+0.4
+
+1.1
+
+0.2
+
+Gain on sale of Shanghai E-MS (SH E-MS) property
+
+—
+
+—
+
+(2.1
+
+)
+
+Total operating expenses
+
+14.7
+
+16.6
+
+10.0
+
+Operating income
+
+4.8
+
+1.9
+
+8.4
+
+Other (expense) income:
+
+Interest expense
+
+(2.0
+
+)
+
+(2.2
+
+)
+
+(1.8
+
+)
+
+Loss on extinguishment of debt
+
+—
+
+(0.1
+
+)
+
+—
+
+Gain on sale of subsidiary
+
+—
+
+0.1
+
+—
+
+Other, net
+
+0.6
+
+0.3
+
+0.7
+
+Total other expense, net
+
+(1.4
+
+)
+
+(1.9
+
+)
+
+(1.1
+
+)
+
+Income before income taxes
+
+3.4
+
+—
+
+7.3
+
+Income tax provision
+
+(1.1
+
+)
+
+(0.9
+
+)
+
+(3.5
+
+)
+
+Net income (loss)
+
+2.3
+
+%
+
+(0.9
+
+)
+
+%
+
+3.8
+
+%
+
+The Telephonics acquisition occurred on June 27, 2022. Accordingly, our fiscal year 2022 only includes Telephonics’ 2022 results of operations since the acquisition date. As of the fourth quarter of 2022, we completed our integration of Telephonics and reassessed our reportable segments, which resulted in the inclusion of Telephonics into our PCB reportable segment.
+
+Net Sales
+
+Total net sales increased $210.2 million, or 9.4%, to $2,442.8 million for the year ended December 30, 2024 from $2,232.5 million for the year ended January 1, 2024. Net sales for the PCB reportable segment increased $211.6 million, or 9.6%, to $2,405.6 million for the year ended December 30, 2024 from $2,194.0 million for the year ended January 1, 2024. The primary driver of this increase was demand growth for generative artificial intelligence (AI) applications in our data center computing end market and strong demand and improved operational execution in our aerospace and defense end market, partially offset by demand weakness due to customers' inventory correction in our automotive, medical, industrial, and instrumentation, and networking end markets. We also sold our Shanghai Backplane Assembly entity in the first quarter of 2023, which had the effect of reducing net sales in 2024 by $8.4 million. Net sales for the RF&S Components reportable segment decreased $1.4 million, or 3.6%, to $37.1 million for the year ended December 30, 2024 from $38.5 million for the year ended January 1, 2024. The decrease in RF&S Components net sales was primarily due to lower demand in our networking end market.
+
+Total net sales decreased $262.5 million, or 10.5%, to $2,232.5 million for the year ended January 1, 2024 from $2,495.0 million for the year ended January 2, 2023. Net sales for the PCB reportable segment decreased $243.9 million, or 10.0%, to $2,194.0 million for the year ended January 1, 2024 from $2,437.9 million for the year ended January 2, 2023. The primary driver of this decrease was demand weakness in our commercial end markets and decrease in sales of $36.3 million from the Shanghai Backplane Assembly entity we sold in the first quarter of 2023, partially offset by the inclusion of a full year of results of Telephonics during the year ended January 1, 2024 (as compared to the inclusion in the year ended January 2, 2023 of its results commencing with its acquisition in 2022), as well as organic growth in our aerospace and defense end market. Net sales for the RF&S Components reportable segment decreased $18.6 million, or 32.5%, to $38.5 million for the year ended January 1, 2024 from $57.1 million for the year ended January 2, 2023. The decrease in RF&S Components net sales was primarily due to lower demand in our networking end market.
+
+For information regarding net sales by country, see Part II, Item 8, Note 10, 
+Segment Information
+, of the Notes to Consolidated Financial Statements in this Report.
+
+45
+
+Gross Margin
+
+Overall gross margin increased to 19.5% for the year ended December 30, 2024 from 18.5% for the year ended January 1, 2024. The increase in overall gross margin was due to the increase in gross margin for the PCB reportable segment to 20.6% for the year ended December 30, 2024, from 19.3% for the year ended January 1, 2024. This increase was primarily due to higher sales volume, particularly in the data center computing and aerospace and defense end markets, and improved operational execution, partially offset by declines in the automotive, medical, industrial, and instrumentation, and networking end markets, higher employee costs, and continued ramp up costs included in cost of goods sold in connection with our fabrication plant in Penang, Malaysia. Gross margin for the RF&S Components reportable segment decreased to 48.9% for the year ended December 30, 2024, from 54.7% for the year ended January 1, 2024, primarily due to lower sales.
+
+Overall gross margin increased slightly to 18.5% for the year ended January 1, 2024 from 18.4% for the year ended January 2, 2023. The increase in overall gross margin was due to the increase in gross margin for the PCB reportable segment to 19.3% for the year ended January 1, 2024, from 18.2% for the year ended January 2, 2023. This increase was primarily due to better product mix and improved execution in our North America region, partially offset by lower revenues and less quick-turn premium in our commercial markets. Gross margin for the RF&S Components reportable segment decreased to 54.7% for the year ended January 1, 2024, from 62.3% for the year ended January 2, 2023, primarily due to lower sales.
+
+An important factor affecting gross margins is capacity utilization, which is measured by the actual production as a percentage of maximum capacity. This measure is particularly important in our high-volume PCB facilities in Asia, as a significant portion of our operating costs are fixed in nature. We believe that our North America utilization figures are not as meaningful as Asia because bottlenecks in these high mix low volume facilities tend to occur in areas outside of plating, which is the core process that we use for calculating utilization rates. Capacity utilization for the year ended December 30, 2024 in our Asia and North America PCB facilities was 59% and 36%, respectively, compared to 49% and 38%, respectively, for the year ended January 1, 2024. The increase in capacity utilization in our Asia PCB facilities was caused by strong demand in the data center computing end market.
+
+Selling and Marketing Expenses
+
+Selling and marketing expenses increased $3.1 million to $80.0 million for the year ended December 30, 2024 from $76.9 million for the year ended January 1, 2024. However, selling and marketing expenses as a percentage of net sales decreased to 3.3% for the year ended December 30, 2024 as compared to 3.4% for the year ended January 1, 2024. The increase in the amount of selling and marketing expenses was primarily due to an increase of $2.0 million in labor costs, $0.6 million in stock-based compensation, and $0.5 million in travel costs. The decrease in selling and marketing expenses as a percentage of net sales resulted from higher net sales for the year ended December 30, 2024 as compared to January 1, 2024.
+
+Selling and marketing expenses increased $1.7 million to $76.9 million, or 3.4% of net sales, for the year ended January 1, 2024 from $75.2 million, or 3.0% of net sales, for the year ended January 2, 2023. The increase in selling and marketing expense was primarily due to the inclusion of a full year of Telephonics expenses, which resulted in an increase of $3.5 million and an increase in labor and travels costs, partially offset by a $3.7 million decrease in commission expense.
+
+General and Administrative Expenses
+
+General and administrative expenses increased $20.5 million to $170.1 million, or 7.0% of net sales, for the year ended December 30, 2024 from $149.6 million, or 6.7% of net sales, for the year ended January 1, 2024. The increase in general and administrative expenses was primarily due to increases in consulting and other professional services expenses, labor costs, stock-based compensation, bad debt, incentive compensation, and the write down of our Hong Kong building of $6.1 million, partially offset by gains on the sale of assets primarily related to the sale of two buildings vacated with the closure of our Anaheim and Santa Clara plants of $14.4 million.
+
+General and administrative expenses decreased $8.5 million to $149.6 million for the year ended January 1, 2024 from $158.2 million for the year ended January 2, 2023, but increased as a percentage of net sales to 6.7% from 6.4% over the same two periods. The decrease in the amount of general and administrative expenses primarily resulted from $13.2 million of reduced acquisition and integration costs mainly related to the acquisition of Telephonics on June 27, 2022. In addition, there were decreases in incentive compensation and bad debt. These decreases were partially offset by the inclusion of a full year of Telephonics expenses, which resulted in an increase of $1.6 million, increase in labor costs and lower gains on the sale of assets. The increase of general and administrative expenses as a percentage of net sales resulted from lower net sales for the year ended January 1, 2024 as compared to January 2, 2023.
+
+Research and Development Expenses
+
+Research and development expenses increased $4.6 million to $31.8 million, or 1.3% of net sales, for the year ended December 30, 2024 from $27.3 million, or 1.2% of net sales, for the year ended January 1, 2024. The increase in research and development expenses was primarily due to increases in labor costs and research and development projects.
+
+46
+
+Research and development expenses increased $2.5 million to $27.3 million, or 1.2% of net sales, for the year ended January 1, 2024 from $24.8 million, or 1.0% of net sales, for the year ended January 2, 2023. The increase in expense was primarily due to the inclusion of a full year of Telephonics expenses, which resulted in an increase of $4.5 million, partially offset by a decrease in labor and material costs.
+
+Impairment of Goodwill
+
+For the years ended December 30, 2024 and January 1, 2024, we recorded goodwill impairment charges of $32.6 million and $44.1 million, respectively. See Part II, Item 8, Note 6, 
+Goodwill
+, of the Notes to Consolidated Financial Statements included in this Report for further information.
+
+Restructuring Charges
+
+For the years ended December 30, 2024, January 1, 2024, and January 2, 2023, we incurred restructuring charges of $11.2 million, $24.4 million, and $4.1 million, respectively, related to our global realignment restructuring efforts.
+
+For the year ended December 30, 2024,
+
+we recognized restructuring charges of
+
+$8.1 million and $3.1 million in our PCB reportable segment and Corporate and Other, respectively. For the year ended January 1, 2024, we recognized restructuring charges of $23.7 million and $0.7 million in our PCB reportable segment and Corporate and Other, respectively. For the year ended January 2, 2023, we recognized restructuring charges of $3.5 million and $0.6 million in our PCB reportable segment and Corporate and Other, respectively. These charges primarily represent employee separation and contract termination and other costs associated with the restructuring plans.
+
+Gain on sale of SH E-MS Property
+
+On December 22, 2022, land, building, and relevant ancillary assets related to our former SH E-MS manufacturing facility was expropriated by the Chinese government for a compensation fee of Renminbi (RMB) 477.6 million ($69.2 million as of January 2, 2023) and we recorded a gain on the sale of $51.8 million during the year ended January 2, 2023.
+
+Total Other Expense, Net
+
+Total other expense, net decreased $9.9 million to $32.1 million for the year ended December 30, 2024 from $42.0 million for the year ended January 1, 2024. This decrease was primarily due to the weakening RMB resulting in a $1.2 million foreign exchange gain during the year ended December 30, 2024, as compared to a $3.9 million foreign exchange loss during the year ended January 1, 2024. We utilize the RMB at our China facilities for employee-related and other costs of running our operations in China. In addition, there was a $3.8 million increase in interest income and $0.6 million decrease in interest expense.
+
+Total other expense, net increased $14.5 million to $42.0 million for the year ended January 1, 2024 from $27.5 million for the year ended January 2, 2023. This increase was primarily due to a decrease in other income of $16.8 million related to the strengthening of the Chinese RMB and an increase in interest expense of $2.6 million due to higher interest rates, partially offset by an increase in interest income of $5.9 million.
+
+Income Taxes
+
+Income tax expense increased $8.6 million to $27.7 million for the year ended December 30, 2024 from $19.0 million for the year ended January 1, 2024, primarily due to an increase in pre-tax book income.
+
+Income tax expense decreased $69.3 million to $19.0 million for the year ended January 1, 2024 from $88.3 million for the year ended January 2, 2023, primarily due to a decrease in pre-tax book income, the absence of an expense to set up a valuation allowance against U.S. deferred tax assets in 2022, and the release of uncertain tax positions due to lapse of statute of limitations.
+
+Our effective tax rate is primarily impacted by tax rates in China and Hong Kong, the U.S. federal income tax rate, apportioned state income tax rates, the generation of credits and deductions available to us, as well as changes in the valuation allowance, certain non-deductible items, global intangible low taxed income, and the establishment of a deferred tax liability related to unremitted foreign earnings.
+
+47
+
+Liquidity and Capital Resources
+
+Our principal sources of liquidity have been cash provided by operations, the issuance of debt, and borrowings under our revolving credit facilities. Our principal uses of cash have been to finance capital expenditures, finance acquisitions, fund working capital requirements, repay debt obligations, and repurchase common stock. We anticipate that financing capital expenditures, financing acquisitions, funding working capital requirements, servicing debt, and repurchasing common stock will be the principal demands on our cash in the future.
+
+Cash flow provided by operating activities during the year ended December 30, 2024 was $236.9 million as compared to $187.3 million in the same period in 2023. The increase in cash flow was primarily due to the $75.0 million increase in net income.
+
+Net cash used in investing activities was $146.2 million for the year ended December 30, 2024, primarily reflecting the use of $185.7 million for purchases of property, plant, and equipment and other assets. This was partially offset by the receipt of $32.9 million of proceeds from the sale of property, plant, and equipment and other assets primarily related to the sale of two buildings vacated with the closure of our Anaheim and Santa Clara plants and $6.7 million of proceeds from the sale of property associated with our Shanghai E‑MS subsidiary.
+
+Net cash used in investing activities was $92.0 million for the year ended January 1, 2024, primarily reflecting the use of $160.2 million for purchases of property, plant, and equipment and other assets, partially offset by the receipt of $61.8 million of proceeds from the sale of property associated with our Shanghai E-MS subsidiary and $6.0 million of proceeds from the sale of our Shanghai Backplane Assembly subsidiary, net of cash disposed.
+
+Net cash used in financing activities was $36.8 million for the year ended December 30, 2024, reflecting the use of $34.5 million for repurchases of our common stock, $9.6 million for the repayment of long-term debt borrowings, and $1.2 million for payment of debt issuance costs, partially offset by $8.4 million of proceeds from long-term debt borrowings primarily related to the refinancing of our Term Loan Facility due 2030 (Term Loan Facility). Net cash used in financing activities during the year ended January 1, 2024 was $47.7 million, reflecting repayment of long-term debt borrowings of $291.6 million, repurchases of common stock of $24.4 million, refund of customer deposits of $7.5 million, payment of debt issuance costs of $5.5 million and payment of original issue discount of $3.5 million, partially offset by the receipt of proceeds of $234.8 million from long-term debt borrowing and proceeds of $50.0 million from borrowings under our revolving credit facilities.
+
+As of December 30, 2024, we had cash and cash equivalents of approximately $503.9 million, of which approximately $207.9 million was held by our foreign subsidiaries, primarily in China, and $195.6 million of available borrowing capacity under our revolving credit facilities. Should we choose to remit cash to the United States from our foreign locations, we may incur tax obligations which would reduce the amount of cash ultimately available to the United States. However, we believe there would be no material tax expenses not previously accrued for the repatriation of this cash.
+
+Our total 2025 capital expenditures are expected to be in the range of $230.0 million to $250.0 million, of which approximately $66.0 million relate to our construction of our new plant in Syracuse, New York.
+
+Share Repurchases
+
+On May 3, 2023, our Board of Directors authorized a share repurchase program (2023 Repurchase Program) allowing us to repurchase up to $100.0 million of our common stock from time to time through May 3, 2025. During 2024, we repurchased approximately 2.0 million shares of our common stock for a total cost of $34.5 million (including commissions). As of December 30, 2024, the remaining amount in value available to be repurchased under the 2023 Repurchase Program was approximately $41.1 million.
+
+Long-term Debt and Letters of Credit
+
+As of December 30, 2024, we had $918.2 million of outstanding debt, net of discount and debt issuance costs, composed of $496.6 million of Senior Notes due 2029, $339.2 million under the Term Loan Facility, $80.0 million under the Asia Asset‑Based Lending Credit Agreement (Asia ABL), and $2.3 million of other loans.
+
+Pursuant to the terms of the Senior Notes due 2029 and Term Loan Facility, we are subject to certain affirmative and negative covenants, including limitations on indebtedness, corporate transactions, investments, dispositions, and restricted payments. Under the U.S. Asset-Based Lending Credit Agreement (U.S. ABL) and Asia ABL (collectively, the ABL Revolving Loans), we are also subject to various financial covenants, including leverage and fixed charge coverage ratios. As of December 30, 2024, we were in compliance with the covenants under the Senior Notes due 2029, Term Loan Facility, and ABL Revolving Loans.
+
+Based on our current level of operations, we believe that cash generated from operations, cash on hand, and cash from the issuance of term and revolving debt will be adequate to meet our currently anticipated capital expenditure, debt service, and working capital needs for the next twelve months. Additional information regarding our indebtedness, including information about the credit available under our debt facilities, interest rates, and other key terms of our outstanding indebtedness, is included in Part II, Item 8, Note 8, 
+Long‑term Debt and Letters of Credit
+, of the Notes to Consolidated Financial Statements included in this Report.
+
+48
+
+Supplier Finance Program Obligations
+
+We have agreements with financial institutions to facilitate payments to certain suppliers. Under the terms of the agreements, we confirm the validity of each supplier invoice to the respective financial institution upon receipt. The supplier receives payment from the financial institution, and we pay the financial institution based on the terms negotiated, which generally range from 160 days to 360 days. Liabilities associated with these agreements are recorded in accounts payable on the consolidated balance sheets and amounted to $17.2 million and $18.8 million as of December 30, 2024 and January 1, 2024, respectively.
+
+Contractual Obligations and Commitments
+
+As part of our ongoing operations, we enter into contractual arrangements that obligate us to make future cash payments. These obligations impact our liquidity and capital resource needs. Our estimated future obligations consist of long-term debt obligations, interest on debt obligations, derivative liabilities, purchase obligations, and leases.
+
+A summary of our long-term debt obligations as of December 30, 2024 is included in Part II, Item 8, Note 8, 
+Long‑term Debt and Letters of Credit
+, of the Notes to Consolidated Financial Statements included in this Report.
+
+Our aggregate interest on debt obligations as of December 30, 2024 amounted to $226.0 million, which are expected to be settled as follows: $47.6 million within 1 year, $94.9 million within 1-3 years, $74.7 million within 4-5 years, and $8.8 million after 5 years. For debt obligations based on variable rates, interest rates used are as of December 30, 2024.
+
+As of December 30, 2024, $0.7 million of our derivative liabilities are expected to be settled within one year.
+
+We also have outstanding firm purchase orders with certain suppliers for the purchase of material and inventory. Orders for standard, or catalog, items can typically be canceled with little or no financial penalty. Our policy regarding non-standard or customized items dictates that such items are only ordered specifically for customers who have contractually assumed liability for the inventory, although exceptions are made to this policy in certain situations. In addition, a substantial portion of catalog items covered by our purchase orders are procured for specific customers based on their purchase orders or a forecast under which the customer has contractually assumed liability for such material. Accordingly, our liability from purchase obligations under these purchase orders is not expected to be significant.
+
+A summary of our lease obligations as of December 30, 2024 is included in Part II, Item 8, Note 4, 
+Leases
+, of the Notes to Consolidated Financial Statements included in this Report.
+
+Offset Agreements
+
+We have previously entered into, and may continue to enter into industrial cooperation agreements, sometimes referred to as offset agreements, as a condition to obtaining orders for our products and services from customers in foreign countries. As of December 30, 2024, we had outstanding offset agreements of approximately $27.3 million, some of which extend through 2028. Offset programs usually extend over several years and in some cases provide for penalties in the event we fail to perform in accordance with contract requirements. To date, we have not been obligated to pay any such penalties. For details about our offset agreements, see Part II, Item 8, Note 14, 
+Commitments and Contingencies
+, of the Notes to Consolidated Financial Statements included in this Report.
+
+Seasonality
+
+We tend to experience modest seasonal softness in the first and third quarters due to holidays and vacation periods in China and North America, respectively, which limit production leading to stronger revenue levels in the second and fourth quarters.
+
+Recently Issued Accounting Standards
+
+For a description of recently adopted and issued accounting standards, including the respective dates of adoption and expected effects on our results of operations and financial condition, see Part II, Item 8, Note 1, 
+Nature of Operations and Summary of Significant Accounting Policies, 
+of the Notes to Consolidated Financial Statements.
+
+49
+
+ITEM 7A. 
+QUANTITATIVE AND QUALITAT
+IVE DISCLOSURES ABOUT MARKET RISK
+
+In the normal course of business operations, we are exposed to risks associated with fluctuations in interest rates and foreign currency exchange rates. We address these risks through controlled risk management that includes the use of derivative financial instruments to economically hedge or reduce these exposures. We do not enter into derivative financial instruments for trading or speculative purposes. As of December 30, 2024, we did not have any material commodity contracts in place and believe our exposure to commodity price risk is not material.
+
+We have not experienced any losses to date on any derivative financial instruments due to counterparty credit risk.
+
+Interest Rate Risks
+
+Our business is exposed to risk resulting from fluctuations in interest rates. Our interest expense is more sensitive to fluctuations in the general level of Term Secured Overnight Financing Rate (SOFR) interest rates than to changes in rates in other markets. Increases in interest rates would increase interest expense relating to our outstanding variable rate borrowings and increase the cost of debt. Fluctuations in interest rates can also lead to significant fluctuations in the fair value of our debt obligations.
+
+In March 2023, we entered into a four-year pay-fixed, receive-floating (1-month Chicago Mercantile Exchange (CME) Term SOFR), interest rate swap arrangement with a notional amount of $250.0 million for the period beginning April 1, 2023 and ending on April 1, 2027. Under the terms of the interest rate swap, we pay a fixed rate of 3.49% against a portion of our Term SOFR-based debt and receive floating 1‑month CME Term SOFR during the swap period.
+
+At inception, we designated the interest rate swap as a cash flow hedge and the fair value of the interest rate swap was zero. As of December 30, 2024, the fair value of the interest rate swap was recorded as an asset
+
+in the amount of $3.1 million, of which $1.8 million is included as a component of prepaid expenses and other current assets and $1.3 million is included as a component of deposits and other non-current assets. As of January 1, 2024, the fair value of the interest rate swap was recorded as a net asset of $1.8 million, of which $3.3 million is included as a component of prepaid expenses and other current assets and $1.5 million is included as a component of other long-term liabilities. No ineffectiveness was recognized for the year ended December 30, 2024. During the years ended December 30, 2024 and January 1, 2024, the interest rate swap decreased interest expense by $4.2 million and $3.2 million, respectively.
+
+Information regarding our interest rate swap is as follows:
+
+For the Year Ended December 30, 2024
+
+(In thousands, except interest rates)
+
+Average interest received rate
+
+5.16
+
+%
+
+Interest received amount
+
+$
+
+13,018
+
+Average interest payout rate
+
+3.49
+
+%
+
+Interest payout amount
+
+$
+
+(8,800
+
+)
+
+See 
+Liquidity and Capital Resources
+ in Item 7, 
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+ and Part II, Item 8, Note 8, 
+Long-term Debt and Letters of Credit
+, of the Notes to Consolidated Financial Statements included in this Annual Report on Form 10-K (Report) for further discussion of our financing facilities and capital structure. As of December 30, 2024, approximately 81.1% of our debt was based on fixed rates. Based on our borrowings as of December 30, 2024, an assumed 100 basis point change in variable rates would cause our annual interest cost to change by $1.8 million.
+
+Foreign Currency Exchange Rate Risks
+
+In the normal course of business, we are exposed to risks associated with fluctuations in foreign currency exchange rates related to transactions that are denominated in currencies other than our functional currencies, as well as the effects of translating amounts denominated in a foreign currency to the U.S. Dollar as a normal part of our financial reporting process. Most of our foreign operations have the U.S. Dollar as their functional currency. However, one of our China facilities utilizes the Renminbi (RMB), which results in recognition of translation adjustments included as a component of other comprehensive income (loss). Our foreign exchange exposure results primarily from employee-related and other costs of running our operations in foreign countries, foreign currency denominated purchases, and translation of balance sheet accounts denominated in foreign currencies. We do not engage in hedging to manage this foreign currency risk. However, we may consider the use of derivatives in the future. Our primary foreign exchange exposure is to the RMB and Malaysian Ringgit (MYR). In general, our Chinese customers pay us in RMB, which partially mitigates this foreign currency exchange risk.
+
+50
+
+Debt Instruments
+
+The fiscal calendar maturities of our debt instruments for the next five years and thereafter were as follows:
+
+As of December 30, 2024
+
+2025
+
+2026
+
+2027
+
+2028
+
+2029
+
+Thereafter
+
+Total
+
+Fair 
+Value
+
+Weighted
+Average
+Interest Rate
+
+(In thousands, except interest rates)
+
+US$ Variable Rate
+ (1)
+
+$
+
+3,465
+
+$
+
+3,465
+
+$
+
+4,331
+
+$
+
+83,465
+
+$
+
+2,599
+
+$
+
+328,309
+
+$
+
+425,634
+
+$
+
+426,930
+
+6.41
+
+%
+
+US$ Fixed Rate
+
+330
+
+350
+
+404
+
+363
+
+500,419
+
+445
+
+502,311
+
+466,636
+
+4.01
+
+Total
+
+$
+
+3,795
+
+$
+
+3,815
+
+$
+
+4,735
+
+$
+
+83,828
+
+$
+
+503,018
+
+$
+
+328,754
+
+$
+
+927,945
+
+$
+
+893,566
+
+(1)
+Interest rate swap effectively fixed $250,000 of variable rate debt.
+
+ITEM 8. 
+FINANCIAL STATEMEN
+TS AND SUPPLEMENTARY DATA
+
+Reference is made to our consolidated financial statements, the notes thereto, and the report thereon, commencing on page 
+59
+
+of this Report, which consolidated financial statements, notes, and report are incorporated herein by reference.
+
+51
+
+ITEM 9. 
+CHANGES IN AND DISAGREEMENTS WITH ACCOU
+NTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+
+Not applicable.
+
+ITEM 9A. 
+CONTROL
+S AND PROCEDURES
+
+Evaluation of Disclosure Controls and Procedures
+
+Our management, under the supervision and with the participation of our Chief Executive Officer (CEO) and Chief Financial Officer (CFO), has evaluated the effectiveness of the design and operation of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e)) under the Securities Exchange Act of 1934, as amended (Exchange Act), as of the end of the period covered by this Annual Report on Form 10-K (Report). Based on this evaluation, our CEO and CFO have concluded that, as of December 30, 2024 such disclosure controls and procedures were effective to provide reasonable assurance that information we are required to disclose in reports that we file or submit under the Exchange Act is (1) recorded, processed, summarized, and reported within the time periods specified in the Securities and Exchange Commission's (SEC) rules and forms and (2) accumulated and communicated to our management, including our CEO and CFO, as appropriate to allow timely decisions regarding required disclosures.
+
+Management’s Report on Internal Control over Financial Reporting
+
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting, (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) to provide reasonable assurance regarding the reliability of our financial reporting and the preparation of financial statements for external purposes in accordance with accounting principles generally accepted in the United States of America (U.S. GAAP). Under the supervision of and with the participation of our CEO and CFO, our management conducted an assessment of the effectiveness of our internal control over financial reporting as of December 30, 2024 based on the criteria established in Internal Control — Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). Based on this assessment, our management concluded that our internal control over financial reporting was effective as of December 30, 2024.
+
+The effectiveness of our internal control over financial reporting as of December 30, 2024 has been audited by KPMG LLP, an independent registered public accounting firm, as stated in their report, which appears under the heading “Report of Independent Registered Public Accounting Firm” on page 
+60
+ of this Report.
+
+Inherent Limitations on Effectiveness of Controls
+
+A control system, no matter how well designed and operated, can provide only reasonable, not absolute, assurance that the control system’s objectives will be met. The design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Further, because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that misstatements due to error or fraud will not occur or that all control issues and instances of fraud, if any, have been detected.
+
+Changes in Internal Control over Financial Reporting
+
+We continue to expand our implementation of an enterprise resource planning (ERP) system on a worldwide basis, which is expected to improve the efficiency of the financial reporting and related transaction processes. We have completed the implementation at certain locations and as a result, we made changes to our processes and procedures which, in turn, resulted in changes to our internal control over financial reporting, including the implementation of additional controls. We are in the process of rolling out the ERP system to our remaining locations to standardize the ERP system.
+
+There were no other changes in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) during the quarter ended December 30, 2024 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+ITEM 9B. 
+OTHER
+ INFORMATION
+
+Rule 10b5-1 Trading Plans
+
+During the quarter ended December 30, 2024
+, none of the Company’s directors or executive officers 
+adopted
+ or 
+terminated
+ any contract, instruction, or written plan for the purchase or sale of Company securities that was intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) or any “non-Rule 10b5-1 trading arrangement.”
+
+ITEM 9C. 
+DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS
+
+Not applicable.
+
+52
+
+PART
+ III
+
+ITEM 10. 
+DIRECTORS, EXECUTIVE OFF
+ICERS, AND CORPORATE GOVERNANCE
+
+Insider Trading Policy
+
+We have 
+adopted
+ an Insider Trading Policy governing the purchase, sale, and/or other dispositions of our securities by directors, officers, and employees, which is reasonably designed to promote compliance with insider trading laws, rules and regulations, and applicable Nasdaq listing standards. A copy of our Insider Trading Policy is filed as Exhibit 19 to this Annual Report on Form 10-K (Report).
+
+The information required by the other portions of this Item is incorporated herein by reference from the definitive Proxy Statement to be filed pursuant to Regulation 14A of the Securities Exchange Act of 1934, as amended (Exchange Act) for our 2025 Annual Meeting of Stockholders or will be included in an amendment to this Report.
+
+ITEM 11. 
+EXECUTIV
+E COMPENSATION
+
+The information required by this Item is incorporated herein by reference from the definitive Proxy Statement to be filed pursuant to Regulation 14A of the Exchange Act for our 2025 Annual Meeting of Stockholders or will be included in an amendment to this Report.
+
+ITEM 12. 
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWN
+ERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+
+The information required by this Item is incorporated herein by reference from the definitive Proxy Statement to be filed pursuant to Regulation 14A of the Exchange Act for our 2025 Annual Meeting of Stockholders or will be included in an amendment to this Report.
+
+ITEM 13. 
+CERTAIN RELATIONSHIPS AND RELATED 
+TRANSACTIONS AND DIRECTOR INDEPENDENCE
+
+The information required by this Item is incorporated herein by reference from the definitive Proxy Statement to be filed pursuant to Regulation 14A of the Exchange Act for our 2025 Annual Meeting of Stockholders or will be included in an amendment to this Report.
+
+ITEM 14. 
+PRINCIPAL 
+ACCOUNTANT
+ FEES AND SERVICES
+
+The information required by this Item is incorporated herein by reference from the definitive Proxy Statement to be filed pursuant to Regulation 14A of the Exchange Act for our 2025 Annual Meeting of Stockholders or will be included in an amendment to this Report.
+
+53
+
+PART
+ IV
+
+ITEM 15. 
+EXHIBITS, FINANC
+IAL STATEMENT SCHEDULES
+
+(a)	
+Financial Statements
+
+Financial Statements are listed in the Index to Consolidated Financial Statements on page 
+59
+ of this Report.
+
+(b)	
+Exhibits
+
+Exhibit
+
+Filed/Furnished
+
+Incorporated by Reference
+
+Number
+
+Exhibit Description
+
+Herewith
+
+Form
+
+File Number
+
+Exhibit
+
+Filing Date
+
+2.1
+
+Stock Purchase Agreement, dated as of April 18, 2022, by and among TTM Technologies, Inc., Griffon Corporation, and Exphonics, Inc.
+
+8-K
+
+000-31285
+
+2.1
+
+June 27, 2022
+
+3.1(a)
+
+Registrant’s Certificate of Incorporation, as amended June 3, 2011
+
+8-K
+
+000-31285
+
+3.1
+
+June 6, 2011
+
+3.1(b)
+
+TTM Technologies, Inc. Amended and Restated Certificate of Incorporation, effective May 8, 2024
+
+8-K
+
+000-31285
+
+3.1
+
+May 10, 2024
+
+3.1(c)
+
+Certificate of Correction of the Amended and Restated Certificate of Incorporation, filed June 10, 2024
+
+8-K/A
+
+000-31285
+
+3.3
+
+June 10, 2024
+
+3.2
+
+TTM Technologies, Inc. Sixth Amended and Restated Bylaws
+
+8-K
+
+000-31285
+
+3.2
+
+May 10, 2024
+
+4.1
+
+Form of Registrant’s common stock certificate
+
+8-K
+
+000-31285
+
+4.1
+
+August 30, 2005
+
+4.2
+
+Description of the Registrant’s Securities
+
+X
+
+4.3
+
+Indenture dated as of March 10, 2021, by and among the Company, the Guarantors named therein, and Wilmington Trust, National Association, as Trustee
+
+8-K
+
+000-31285
+
+4.1
+
+March 10, 2021
+
+4.4
+
+Form of 4.000% Senior Notes due 2029
+
+8-K
+
+000-31285
+
+4.1 
+(1)
+
+March 10, 2021
+
+10.1
+
+Form of Director and Officer Indemnification Agreement
+
+8-K
+
+000-31285
+
+10.1
+
+December 15, 2014
+
+10.2‡
+
+Executive and Director Deferred Compensation Plan
+
+8-K
+
+000-31285
+
+10.25
+
+September 19, 2011
+
+10.3‡
+
+Form of Executive Change in Control Severance Agreement and schedule of agreements
+
+10-Q
+
+000-31285
+
+10.4
+
+May 5, 2015
+
+10.4‡
+
+TTM Technologies, Inc. 2006 Incentive Compensation Plan
+
+10-K
+
+000-31285
+
+10.6
+
+March 16, 2007
+
+10.5‡
+
+TTM Technologies, Inc. 2014 Incentive Compensation Plan, as amended
+
+8-K
+
+000-31285
+
+10.1
+
+May 18, 2016
+
+10.6‡
+
+TTM Technologies, Inc. Form of Restricted Stock Unit Award Grant Notice (for U.S. taxpayers) pursuant to TTM Technologies, Inc. 2014 Incentive Compensation Plan
+
+10-Q
+
+000-31285
+
+10.1
+
+August 4, 2016
+
+10.7‡
+
+TTM Technologies, Inc. Form of Restricted Stock Unit Award Grant Notice (for non-U.S. taxpayers) pursuant to TTM Technologies, Inc. 2014 Incentive Compensation Plan
+
+10-Q
+
+000-31285
+
+10.2
+
+May 5, 2015
+
+54
+
+10.8‡
+
+TTM Technologies, Inc. Form of Performance-Based RSU Grant Notice and Award Agreement pursuant to TTM Technologies, Inc. 2014 Incentive Compensation Plan
+
+10-Q
+
+000-31285
+
+10.2
+
+August 4, 2016
+
+10.9‡
+
+TTM Technologies, Inc. Form of Restricted Stock Unit Award Grant Notice (for non-employee directors) pursuant to TTM Technologies, Inc. 2014 Incentive Compensation Plan
+
+10-Q
+
+000-31285
+
+10.1
+
+August 10, 2015
+
+10.10‡
+
+TTM Technologies, Inc. 2023 Incentive Compensation Plan
+
+S-8
+
+333-272490
+
+99.1
+
+June 7, 2023
+
+10.11‡
+
+TTM Technologies, Inc. 2023 Form of Restricted Stock Unit Award Grant Notice and Award Agreement (for U.S. taxpayers) pursuant to TTM Technologies, Inc. 2023 Incentive Compensation Plan
+
+10-Q
+
+000-31285
+
+10.5
+
+August 10, 2023
+
+10.12‡
+
+TTM Technologies, Inc. 2023 Form of Restricted Stock Unit Award Grant Notice and Award Agreement (for non-U.S. taxpayers) pursuant to TTM Technologies, Inc. 2023 Incentive Compensation Plan
+
+10-Q
+
+000-31285
+
+10.6
+
+August 10, 2023
+
+10.13‡
+
+TTM Technologies, Inc. 2023 Form of Performance-Based RSU Grant Notice and Award Agreement pursuant to TTM Technologies, Inc. 2023 Incentive Compensation Plan
+
+10-Q
+
+000-31285
+
+10.7
+
+August 10, 2023
+
+10.14‡
+
+TTM Technologies, Inc. 2024 Form of Restricted Stock Unit Award Grant Notice (for non-employee directors) pursuant to TTM Technologies, Inc. 2023 Incentive Compensation Plan
+
+X
+
+10.15‡
+
+Letter Agreement, dated as of July 28, 2023, by and between the Company and Daniel L. Boehle
+
+8-K
+
+000-31285
+
+10.1
+
+August 2, 2023
+
+10.16
+
+Amended & Restated Facility Agreement, dated as of June 14, 2023, by and among TTM Technologies China Limited and TTM Technologies Trading (Asia) Company Limited, as borrowers, TTM Technologies (Asia Pacific) Limited and other parties as guarantors, The Hong Kong and Shanghai Banking Corporation Limited and Barclays Bank PLC as original lenders, and The Hong Kong and Shanghai Banking Corporation Limited as arranger, facility agent, security trustee and issuing bank
+
+8-K
+
+000-31285
+
+10.1
+
+June 20, 2023
+
+55
+
+10.17
+
+First Amendment, dated as of June 10, 2024, to that certain Amended and Restated ABL Credit Agreement, dated as of May 30, 2023, by and among TTM Technologies, Inc., as Borrower, the several Lenders from time to time parties thereto, JPMorgan Chase Bank, N.A., as Administrative Agent, Barclays Bank PLC, Bank of America, N.A. and Truist Securities, Inc. as Syndication Agents, and HSBC Securities (USA) Inc., as Documentation Agent
+
+10-Q
+
+000-31285
+
+10.1
+
+August 6, 2024
+
+10.18
+
+First Amendment, dated as of August 1, 2024, to that certain Amended and Restated Term Loan Credit Agreement, dated as of May 30, 2023, by and among TTM Technologies, Inc., as Borrower, JPMorgan Chase Bank, N.A., as Administrative Agent, and the several lenders from time to time parties thereto
+
+10-Q
+
+000-31285
+
+10.2
+
+August 6, 2024
+
+19
+
+TTM Technologies, Inc. Insider Trading Policy
+
+X
+
+21.1
+
+Subsidiaries of the Registrant
+
+X
+
+23.1
+
+Consent of KPMG LLP, independent registered public accounting firm
+
+X
+
+31.1
+
+CEO Certification Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+
+X
+
+31.2
+
+CFO Certification Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+
+X
+
+32.1*
+
+CEO Certification Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+X
+
+32.2*
+
+CFO Certification Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+X
+
+97
+
+TTM Technologies, Inc. Executive Compensation Recoupment Policy
+
+10-K
+
+000-31285
+
+97
+
+February 27, 2024
+
+101.INS
+
+Inline XBRL Instance Document – the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the inline XBRL document.
+
+101.SCH
+
+Inline XBRL Taxonomy Extension Schema With Embedded Linkbase Documents
+
+104
+
+Cover Page Interactive Data File (formatted as inline XBRL and contained in Exhibit 101)
+
+(1)
+Included as Exhibit A to the Indenture filed as Exhibit 4.1 to the Registrant’s Form 8-K filed with the Commission on March 10, 2021, Securities and Exchange Commission (SEC) File Number 000-31285.
+
+‡ Management contract or compensatory plan.
+
+* Furnished herewith. The certifications attached as Exhibits 32.1 and 32.2 that accompany this Report are not deemed filed with the Commission and are not to be incorporated by reference into any filing of Registrant under the Securities Act of 1933, as amended, or the Exchange Act, whether made before or after the date of this Report, irrespective of any general incorporation language contained in such filing.
+
+(c)	
+Financial Statement Schedules
+
+None.
+
+56
+
+ITEM 16. 
+FORM 
+10-K SUMMARY
+
+None.
+
+57
+
+SIGNAT
+URES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this Report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+TTM TECHNOLOGIES, INC.
+
+By:
+
+/s/    Thomas T. Edman
+
+Thomas T. Edman
+President and Chief Executive Officer
+
+Date: February 21, 2025
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this Report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.
+
+Name
+
+Title
+
+Date
+
+/s/    Thomas T. Edman
+
+Thomas T. Edman
+
+President, Chief Executive Officer and Director (Principal Executive Officer)
+
+February 21, 2025
+
+/s/    Daniel L. Boehle
+
+Daniel L. Boehle
+
+Executive Vice President and 
+Chief Financial Officer (Principal 
+Financial Officer and Principal 
+Accounting Officer)
+
+February 21, 2025
+
+/s/    Rex D. Geveden
+
+Rex D. Geveden
+
+Chairman of the Board
+
+February 21, 2025
+
+/s/    Kenton K. Alder
+
+Kenton K. Alder
+
+Director
+
+February 21, 2025
+
+/s/    Wajid Ali
+
+Director
+
+February 21, 2025
+
+Wajid Ali
+
+/s/    Julie S. England
+
+Julie S. England
+
+Director
+
+February 21, 2025
+
+/s/    Philip G. Franklin
+
+Philip G. Franklin
+
+Director
+
+February 21, 2025
+
+/s/    Pamela B. Jackson
+
+Pamela B. Jackson
+
+Director
+
+February 21, 2025
+
+/s/    Chantel E. Lenard
+
+Chantel E. Lenard
+
+Director
+
+February 21, 2025
+
+/s/    John G. Mayer
+
+John G. Mayer
+
+Director
+
+February 21, 2025
+
+58
+
+TTM TECHNOLOGIES, INC.
+
+Index to Consolidated 
+Financial Statements
+
+Report of Independent Registered Public Accounting Firm
+
+60
+
+Consolidated Balance Sheets as of December 30, 2024 and January 1, 2024
+
+62
+
+Consolidated Statements of Operations for the Years Ended December 30, 2024, January 1, 2024, and January 2, 2023
+
+63
+
+Consolidated Statements of Comprehensive Income (Loss) for the Years Ended December 30, 2024, January 1, 2024, and January 2, 2023
+
+64
+
+Consolidated Statements of Stockholders’ Equity for the Years Ended December 30, 2024, January 1, 2024, and
+January 2, 2023
+
+65
+
+Consolidated Statements of Cash Flows for the Years Ended December 30, 2024, January 1, 2024, and January 2, 2023
+
+66
+
+Notes to Consolidated Financial Statements
+
+67
+
+59
+
+Report of Independent 
+Registered Public Accounting Firm
+
+To the Stockholders and Board of Directors
+
+TTM Technologies, Inc.:
+
+Opinions on the Consolidated Financial Statements and Internal Control Over Financial Reporting
+
+We have audited the accompanying consolidated balance sheets of TTM Technologies, Inc. and subsidiaries (the Company) as of December 30, 2024 and January 1, 2024, the related consolidated statements of operations, comprehensive income (loss), stockholders’ equity, and cash flows for each of the years in the three-year period ended December 30, 2024, and the related notes (collectively, the consolidated financial statements). We also have audited the Company’s internal control over financial reporting as of December 30, 2024, based on criteria established in 
+Internal Control – Integrated Framework (2013) 
+issued by the Committee of Sponsoring Organizations of the Treadway Commission.
+
+In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of the Company as of December 30, 2024 and January 1, 2024, and the results of its operations and its cash flows for each of the years in the three-year period ended December 30, 2024, in conformity with U.S. generally accepted accounting principles. Also in our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 30, 2024 based on criteria established in 
+Internal Control – Integrated Framework (2013) 
+issued by the Committee of Sponsoring Organizations of the Treadway Commission.
+
+Basis for Opinions
+
+The Company’s management is responsible for these consolidated financial statements, for maintaining effective internal control over financial reporting, and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management's Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company’s consolidated financial statements and an opinion on the Company’s internal control over financial reporting based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud, and whether effective internal control over financial reporting was maintained in all material respects.
+
+Our audits of the consolidated financial statements included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. Our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audits also included performing such other procedures as we considered necessary in the circumstances. We believe that our audits provide a reasonable basis for our opinions.
+
+Definition and Limitations of Internal Control Over Financial Reporting
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+Critical Audit Matter
+
+The critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the consolidated financial statements and (2) involved our especially challenging, subjective, or complex judgments. The
+
+60
+
+communication of a critical audit matter does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+
+Evaluation of the sufficiency of audit evidence over net sales
+
+As discussed in Note 1 to the consolidated financial statements, the Company recorded approximately $2,442,753 thousand of net sales during the year ended December 30, 2024. Net sales are recognized primarily from the sale of printed circuit boards, engineered systems using customer-supplied engineering and design plans as well as long-term contracts related to the design and manufacture of highly sophisticated intelligence, surveillance and communications solutions, radio frequency and microwave/microelectronics components, assemblies, and subsystems.
+
+We identified the evaluation of the sufficiency of audit evidence over net sales as a critical audit matter. Evaluating the sufficiency of audit evidence obtained required especially subjective auditor judgment because of the geographical dispersion and decentralized nature of the Company’s net sales generating activities. This included determining the Company locations at which procedures were performed. It also included the involvement of IT professionals with specialized skills and knowledge, who assisted in the performance of certain procedures.
+
+The following are the primary procedures we performed to address this critical audit matter. We applied auditor judgment to determine the nature and extent of procedures to be performed over net sales, including determining the locations at which those procedures were to be performed. At each location where procedures were performed, we (1) evaluated the design and tested the operating effectiveness of certain internal controls over the Company’s net sales processes, including the Company’s controls over the accurate recording of sales amounts, (2) involved IT professionals, who assisted in testing certain IT applications used by the Company in its revenue recognition processes, and (3) tested the recorded net sales by selecting a sample of transactions and comparing the amounts recognized to underlying documentation, including contracts with customers. In addition, we evaluated the sufficiency of audit evidence obtained over net sales by assessing the results of procedures performed.
+
+/s/ KPMG LLP
+
+We have served as the Company’s auditor since 2014.
+
+Irvine, California
+
+February 21, 2025
+
+61
+
+TTM TECHNOLOGIES, INC.
+
+Consolidated B
+alance Sheets
+
+As of
+
+December 30, 2024
+
+January 1, 2024
+
+(In thousands, except par value)
+
+ASSETS
+
+Current assets:
+
+Cash and cash equivalents
+
+$
+
+503,932
+
+$
+
+450,208
+
+Accounts receivable, net
+
+448,611
+
+413,557
+
+Contract assets
+
+381,382
+
+292,050
+
+Inventories
+
+224,985
+
+213,075
+
+Receivable from sale of Shanghai E-MS (SH E-MS) property
+
+—
+
+6,737
+
+Prepaid expenses and other current assets
+
+47,834
+
+54,060
+
+Total current assets
+
+1,606,744
+
+1,429,687
+
+Property, plant, and equipment, net
+
+869,957
+
+807,667
+
+Operating lease right-of-use assets
+
+78,252
+
+86,286
+
+Goodwill
+
+670,135
+
+702,735
+
+Definite-lived intangibles, net
+
+191,819
+
+236,711
+
+Deposits and other non-current assets
+
+55,587
+
+60,577
+
+Total assets
+
+$
+
+3,472,494
+
+$
+
+3,323,663
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Current liabilities:
+
+Short-term debt, including current portion of long-term debt
+
+$
+
+3,795
+
+$
+
+3,500
+
+Accounts payable
+
+406,221
+
+334,609
+
+Contract liabilities
+
+170,915
+
+126,508
+
+Accrued salaries, wages, and benefits
+
+108,149
+
+98,561
+
+Other current liabilities
+
+119,974
+
+140,806
+
+Total current liabilities
+
+809,054
+
+703,984
+
+Long-term debt, net of discount and issuance costs
+
+914,359
+
+914,336
+
+Operating lease liabilities
+
+77,509
+
+80,786
+
+Other long-term liabilities
+
+107,748
+
+113,518
+
+Total long-term liabilities
+
+1,099,616
+
+1,108,640
+
+Commitments and contingencies (Note 14)
+
+Equity:
+
+Common stock, $
+0.001
+ par value; 
+300,000
+ shares authorized, 
+113,161
+ and 
+111,282
+   shares issued as of December 30, 2024 and January 1, 2024, respectively;
+
+101,997
+ and 
+102,108
+ shares outstanding as of December 30, 2024 and
+   January 1, 2024, respectively
+
+113
+
+111
+
+Treasury stock – common stock at cost; 
+11,164
+ and 
+9,174
+ shares as of 
+   December 30, 2024 and January 1, 2024, respectively
+
+(
+157,570
+
+)
+
+(
+123,091
+
+)
+
+Additional paid-in capital
+
+910,741
+
+880,963
+
+Retained earnings
+
+838,422
+
+782,123
+
+Accumulated other comprehensive loss
+
+(
+27,882
+
+)
+
+(
+29,067
+
+)
+
+Total stockholders’ equity
+
+1,563,824
+
+1,511,039
+
+Total liabilities and stockholders' equity
+
+$
+
+3,472,494
+
+$
+
+3,323,663
+
+See accompanying notes to consolidated financial statements.
+
+62
+
+TTM TECHNOLOGIES, INC.
+
+Consolidated Statem
+ents of Operations
+
+For the Year Ended
+
+December 30, 2024
+
+January 1, 2024
+
+January 2, 2023
+
+(In thousands, except per share data)
+
+Net sales
+
+$
+
+2,442,753
+
+$
+
+2,232,567
+
+$
+
+2,495,046
+
+Cost of goods sold
+
+1,965,378
+
+1,819,299
+
+2,037,081
+
+Gross profit
+
+477,375
+
+413,268
+
+457,965
+
+Operating expenses:
+
+Selling and marketing
+
+80,030
+
+76,922
+
+75,182
+
+General and administrative
+
+170,107
+
+149,631
+
+158,180
+
+Research and development
+
+31,845
+
+27,272
+
+24,808
+
+Amortization of definite-lived intangibles
+
+35,550
+
+48,675
+
+37,097
+
+Impairment of goodwill
+
+32,600
+
+44,100
+
+—
+
+Restructuring charges
+
+11,200
+
+24,352
+
+4,094
+
+Gain on sale of SH E-MS property
+
+—
+
+—
+
+(
+51,804
+
+)
+
+Total operating expenses
+
+361,332
+
+370,952
+
+247,557
+
+Operating income
+
+116,043
+
+42,316
+
+210,408
+
+Other (expense) income:
+
+Interest expense
+
+(
+47,515
+
+)
+
+(
+48,124
+
+)
+
+(
+45,517
+
+)
+
+Loss on extinguishment of debt
+
+—
+
+(
+1,154
+
+)
+
+—
+
+Gain on sale of subsidiary
+
+—
+
+1,270
+
+—
+
+Other, net
+
+15,421
+
+5,989
+
+17,972
+
+Total other expense, net
+
+(
+32,094
+
+)
+
+(
+42,019
+
+)
+
+(
+27,545
+
+)
+
+Income before income taxes
+
+83,949
+
+297
+
+182,863
+
+Income tax provision
+
+(
+27,650
+
+)
+
+(
+19,015
+
+)
+
+(
+88,280
+
+)
+
+Net income (loss)
+
+$
+
+56,299
+
+$
+
+(
+18,718
+
+)
+
+$
+
+94,583
+
+Earnings (loss) per share:
+
+Basic earnings (loss) per share
+
+$
+
+0.55
+
+$
+
+(
+0.18
+
+)
+
+$
+
+0.93
+
+Diluted earnings (loss) per share
+
+0.54
+
+(
+0.18
+
+)
+
+0.91
+
+See accompanying notes to consolidated financial statements.
+
+63
+
+TTM TECHNOLOGIES, INC.
+
+Consolidated Statements of Co
+mprehensive Income (Loss)
+
+For the Year Ended
+
+December 30, 2024
+
+January 1, 2024
+
+January 2, 2023
+
+(In thousands)
+
+Net income (loss)
+
+$
+
+56,299
+
+$
+
+(
+18,718
+
+)
+
+$
+
+94,583
+
+Other comprehensive income (loss), net of tax:
+
+Pension obligation adjustments, net
+
+1,082
+
+1,251
+
+1,412
+
+Foreign currency translation adjustments, net
+
+(
+897
+
+)
+
+(
+249
+
+)
+
+(
+2,085
+
+)
+
+Derecognition of foreign currency translation
+   adjustments due to sale of subsidiary
+
+—
+
+(
+6,627
+
+)
+
+—
+
+Net unrealized gain on cash flow hedges:
+
+Unrealized gain (loss) on effective cash flow hedges
+   during the period, net
+
+4,147
+
+4,061
+
+(
+91
+
+)
+
+Amounts realized in the statement of operations, net
+
+(
+3,147
+
+)
+
+(
+2,713
+
+)
+
+3,229
+
+Net
+
+1,000
+
+1,348
+
+3,138
+
+Other comprehensive income (loss), net of tax
+
+1,185
+
+(
+4,277
+
+)
+
+2,465
+
+Comprehensive income (loss), net of tax
+
+$
+
+57,484
+
+$
+
+(
+22,995
+
+)
+
+$
+
+97,048
+
+See accompanying notes to consolidated financial statements.
+
+64
+
+TTM TECHNOLOGIES, INC.
+
+Consolidated Statements 
+of Stockholders’ Equity
+
+Common Stock
+
+Treasury Stock
+
+Additional
+Paid-In
+
+Retained
+
+Accumulated
+Other
+Comprehensive
+
+Total
+Stockholders’
+
+Shares
+
+Amount
+
+Shares
+
+Amount
+
+Capital
+
+Earnings
+
+Loss
+
+Equity
+
+(In thousands)
+
+Balance, January 3, 2022
+
+108,194
+
+$
+
+108
+
+(
+4,661
+
+)
+
+$
+
+(
+63,807
+
+)
+
+$
+
+840,113
+
+$
+
+706,258
+
+$
+
+(
+27,255
+
+)
+
+$
+
+1,455,417
+
+Net income
+
+—
+
+—
+
+—
+
+—
+
+—
+
+94,583
+
+—
+
+94,583
+
+Other comprehensive income
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+2,465
+
+2,465
+
+Issuance of common stock for
+   performance-based
+   restricted stock units
+
+182
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+Issuance of common stock for
+   restricted stock units
+
+1,222
+
+2
+
+—
+
+—
+
+(
+2
+
+)
+
+—
+
+—
+
+—
+
+Repurchases of common stock
+
+—
+
+—
+
+(
+2,747
+
+)
+
+(
+35,424
+
+)
+
+—
+
+—
+
+—
+
+(
+35,424
+
+)
+
+Fair value of warrants
+   reclassified to
+   warrant liabilities
+
+—
+
+—
+
+—
+
+—
+
+(
+987
+
+)
+
+—
+
+—
+
+(
+987
+
+)
+
+Issuance of stock
+   from warrant exercises
+
+—
+
+—
+
+38
+
+572
+
+(
+572
+
+)
+
+—
+
+—
+
+—
+
+Stock-based compensation
+
+—
+
+—
+
+—
+
+—
+
+19,525
+
+—
+
+—
+
+19,525
+
+Balance, January 2, 2023
+
+109,598
+
+$
+
+110
+
+(
+7,370
+
+)
+
+$
+
+(
+98,659
+
+)
+
+$
+
+858,077
+
+$
+
+800,841
+
+$
+
+(
+24,790
+
+)
+
+$
+
+1,535,579
+
+Net loss
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(
+18,718
+
+)
+
+—
+
+(
+18,718
+
+)
+
+Other comprehensive loss
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(
+4,277
+
+)
+
+(
+4,277
+
+)
+
+Issuance of common stock for
+   performance-based
+   restricted stock units
+
+337
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+Issuance of common stock for
+   restricted stock units
+
+1,347
+
+1
+
+—
+
+—
+
+(
+1
+
+)
+
+—
+
+—
+
+—
+
+Repurchases of common stock
+
+—
+
+—
+
+(
+1,804
+
+)
+
+(
+24,432
+
+)
+
+—
+
+—
+
+—
+
+(
+24,432
+
+)
+
+Stock-based compensation
+
+—
+
+—
+
+—
+
+—
+
+22,887
+
+—
+
+—
+
+22,887
+
+Balance, January 1, 2024
+
+111,282
+
+$
+
+111
+
+(
+9,174
+
+)
+
+$
+
+(
+123,091
+
+)
+
+$
+
+880,963
+
+$
+
+782,123
+
+$
+
+(
+29,067
+
+)
+
+$
+
+1,511,039
+
+Net income
+
+—
+
+—
+
+—
+
+—
+
+—
+
+56,299
+
+—
+
+56,299
+
+Other comprehensive income
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+1,185
+
+1,185
+
+Issuance of common stock for
+   performance-based
+   restricted stock units
+
+227
+
+1
+
+—
+
+—
+
+(
+1
+
+)
+
+—
+
+—
+
+—
+
+Issuance of common stock for
+   restricted stock units
+
+1,652
+
+1
+
+—
+
+—
+
+(
+1
+
+)
+
+—
+
+—
+
+—
+
+Repurchases of common stock
+
+—
+
+—
+
+(
+1,990
+
+)
+
+(
+34,479
+
+)
+
+—
+
+—
+
+—
+
+(
+34,479
+
+)
+
+Stock-based compensation
+
+—
+
+—
+
+—
+
+—
+
+29,780
+
+—
+
+—
+
+29,780
+
+Balance, December 30, 2024
+
+113,161
+
+$
+
+113
+
+(
+11,164
+
+)
+
+$
+
+(
+157,570
+
+)
+
+$
+
+910,741
+
+$
+
+838,422
+
+$
+
+(
+27,882
+
+)
+
+$
+
+1,563,824
+
+See accompanying notes to consolidated financial statements.
+
+65
+
+TTM TECHNOLOGIES, INC.
+
+Consolidated Stateme
+nts of Cash Flows
+
+For the Year Ended
+
+December 30, 2024
+
+January 1, 2024
+
+January 2, 2023
+
+(In thousands)
+
+Cash flows from operating activities:
+
+Net income (loss)
+
+$
+
+56,299
+
+$
+
+(
+18,718
+
+)
+
+$
+
+94,583
+
+Adjustments to reconcile net income (loss) to net cash provided by operating activities:
+
+Depreciation of property, plant, and equipment
+
+105,233
+
+99,155
+
+91,276
+
+Amortization of definite-lived intangible assets
+
+44,892
+
+61,576
+
+42,631
+
+Amortization of debt discount and issuance costs
+
+2,042
+
+2,205
+
+2,152
+
+Loss on extinguishment of debt
+
+—
+
+1,154
+
+—
+
+Deferred income taxes
+
+(
+1,722
+
+)
+
+(
+11,347
+
+)
+
+61,304
+
+Stock-based compensation
+
+29,780
+
+22,887
+
+19,525
+
+Impairment of goodwill
+
+32,600
+
+44,100
+
+—
+
+Gain on sale of subsidiary
+
+—
+
+(
+1,270
+
+)
+
+—
+
+Gain on sale of SH E-MS property
+
+—
+
+—
+
+(
+51,804
+
+)
+
+Other
+
+(
+1,899
+
+)
+
+(
+516
+
+)
+
+(
+5,179
+
+)
+
+Changes in operating assets and liabilities:
+
+Accounts receivable, net
+
+(
+35,054
+
+)
+
+49,936
+
+(
+35,738
+
+)
+
+Contract assets
+
+(
+89,332
+
+)
+
+42,589
+
+15,534
+
+Inventories
+
+(
+11,910
+
+)
+
+(
+45,392
+
+)
+
+(
+4,411
+
+)
+
+Prepaid expenses and other current assets
+
+(
+2,688
+
+)
+
+(
+6,034
+
+)
+
+(
+15,473
+
+)
+
+Accounts payable
+
+49,719
+
+(
+34,582
+
+)
+
+(
+14,804
+
+)
+
+Contract liabilities
+
+44,407
+
+22,527
+
+24,530
+
+Accrued salaries, wages, and benefits
+
+9,588
+
+(
+16,447
+
+)
+
+15,462
+
+Other current liabilities
+
+4,939
+
+(
+24,539
+
+)
+
+33,285
+
+Net cash provided by operating activities
+
+236,894
+
+187,284
+
+272,873
+
+Cash flows from investing activities:
+
+Purchase of property, plant, and equipment and other assets
+
+(
+185,739
+
+)
+
+(
+160,242
+
+)
+
+(
+102,884
+
+)
+
+Proceeds from sale of property, plant, and equipment and other assets
+
+32,868
+
+505
+
+6,010
+
+Proceeds from sale of SH E-MS property
+
+6,737
+
+61,769
+
+—
+
+Proceeds from sale of subsidiary, net of cash disposed
+
+—
+
+6,039
+
+—
+
+Acquisition of Gritel Holding Co., Inc. and ISC Farmingdale Corp.
+
+—
+
+—
+
+(
+298,339
+
+)
+
+Other
+
+(
+76
+
+)
+
+(
+101
+
+)
+
+(
+245
+
+)
+
+Net cash used in investing activities
+
+(
+146,210
+
+)
+
+(
+92,030
+
+)
+
+(
+395,458
+
+)
+
+Cash flows from financing activities:
+
+Repurchases of common stock
+
+(
+34,479
+
+)
+
+(
+24,432
+
+)
+
+(
+35,424
+
+)
+
+Repayment of long-term debt borrowings
+
+(
+9,596
+
+)
+
+(
+291,572
+
+)
+
+—
+
+Proceeds from long-term debt borrowings
+
+8,416
+
+234,818
+
+—
+
+Payment of debt issuance costs
+
+(
+1,162
+
+)
+
+(
+5,487
+
+)
+
+—
+
+Proceeds from borrowings of revolving loan
+
+—
+
+50,000
+
+50,000
+
+Refund of customer deposits
+
+—
+
+(
+7,500
+
+)
+
+—
+
+Payment of original issue discount
+
+—
+
+(
+3,500
+
+)
+
+—
+
+Repayment of revolving loan
+
+—
+
+—
+
+(
+50,000
+
+)
+
+Customer deposits
+
+—
+
+—
+
+25,000
+
+Cash used to settle warrants
+
+—
+
+—
+
+(
+887
+
+)
+
+Net cash used in financing activities
+
+(
+36,821
+
+)
+
+(
+47,673
+
+)
+
+(
+11,311
+
+)
+
+Effect of foreign currency exchange rates on cash and cash equivalents
+
+(
+139
+
+)
+
+(
+122
+
+)
+
+(
+1,033
+
+)
+
+Net increase (decrease) in cash and cash equivalents
+
+53,724
+
+47,459
+
+(
+134,929
+
+)
+
+Cash and cash equivalents at beginning of period
+
+450,208
+
+402,749
+
+537,678
+
+Cash and cash equivalents at end of period
+
+$
+
+503,932
+
+$
+
+450,208
+
+$
+
+402,749
+
+Supplemental cash flow information:
+
+Cash paid, net for interest
+
+$
+
+48,988
+
+$
+
+47,884
+
+$
+
+42,844
+
+Cash paid, net for income taxes
+
+18,766
+
+53,751
+
+4,574
+
+Supplemental disclosure of non-cash investing and financing activities:
+
+Cashless rollover of debt
+
+$
+
+340,395
+
+$
+
+115,182
+
+$
+
+—
+
+Property, plant, and equipment recorded in accounts payable and other current liabilities
+
+77,403
+
+117,299
+
+31,670
+
+Receivable from sale of SH E-MS property
+
+—
+
+—
+
+69,240
+
+Issuance of common stock for warrant settlement
+
+—
+
+—
+
+589
+
+See accompanying notes to consolidated financial statements.
+
+66
+
+TTM TECHNOLOGIES, INC.
+
+Notes to Consolidated 
+Financial Statements
+
+(Dollars and shares in thousands, except per share data)
+
+(1)
+Nature of Operations and Summary of Significant Accounting Policies
+Nature of Operations
+TTM Technologies, Inc. (the Company or TTM) is a leading global manufacturer of technology solutions including mission systems, radio frequency (RF) components, RF microwave/microelectronic assemblies, and quick-turn and technologically advanced printed circuit boards (PCB). The Company provides time-to-market and volume production of advanced technology products and offers a one-stop design, engineering, and manufacturing solution to customers. This solution allows the Company to align technology developments with the diverse needs of the Company’s customers and to enable them to reduce the time required to develop new products and bring them to market.
+The Company serves a diversified customer base in various markets throughout the world, including aerospace and defense, data center computing, automotive, medical, industrial, and instrumentation, and networking. The Company’s customers include original equipment manufacturers (OEMs), electronic manufacturing services (EMS) providers, original design manufacturers (ODMs), distributors, and government agencies (both domestic and allied foreign governments).
+The Company operates on a 52 or 53 week fiscal calendar with the fourth quarter ending on the Monday nearest December 31. Fiscal years 2024, 2023, and 2022 consisted of 52 weeks ended on December 30, 2024, January 1, 2024, and January 2, 2023, respectively. All references to years relate to fiscal years unless otherwise noted.
+Use of Estimates
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America (U.S. GAAP) requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amount of revenues and expenses during the reporting period. These estimates and assumptions are based on management’s best estimates and judgment. Due, in part, to the conflict between Russia and Ukraine as well as other global regions, the global economy and financial markets have been volatile in recent years. As such, the Company has considered information available to it as of the date of issuance of these financial statements and is not aware of any specific events or circumstances that would require an update to its estimates or judgments, or a revision to the carrying value of its assets or liabilities. Management evaluates its estimates and assumptions on an ongoing basis using historical experience and other factors, including the economic environment, which management believes to be reasonable under the circumstances. Management adjusts such estimates and assumptions when facts and circumstances dictate. The actual results the Company experienced may differ materially and adversely from its estimates. To the extent there are material differences between the estimates and actual results, the Company’s future result of operations will be affected.
+Principles of Consolidation
+The consolidated financial statements include the accounts of TTM and its subsidiaries. All intercompany accounts and transactions have been eliminated in consolidation.
+Foreign Currency Translation and Transactions
+The functional currency of one of the Company’s subsidiaries is the Chinese Renminbi (RMB). Accordingly, assets and liabilities are translated into U.S. dollars using period-end exchange rates. Sales and expenses are translated at the average exchange rates in effect during the period. The resulting translation gains or losses are recorded as a component of accumulated other comprehensive loss in the consolidated statement of stockholders’ equity and the consolidated statement of comprehensive income. Net gains and losses resulting from foreign currency re-measurements and transactions are included in income as a component of other, net in the consolidated statements of operations and totaled 
+$
+1,218
+ gain, 
+$
+4,059
+ loss, and 
+$
+12,756
+ gain for the years ended December 30, 2024, January 1, 2024, and January 2, 2023
+, respectively.
+Cash Equivalents
+The Company considers highly liquid investments with insignificant interest rate risk and original maturities to the Company of three months or less to be cash equivalents.
+
+67
+
+TTM TECHNOLOGIES, INC.
+
+Notes to Consolidated Financial Statements — (Continued)
+
+Accounts Receivable and Allowance for Doubtful Accounts
+Accounts receivable are reflected at estimated net realizable value, do not bear interest and do not generally require collateral. The Company performs credit evaluations of its customers and adjusts credit limits based upon payment history and the customer’s current creditworthiness. The Company maintains an allowance for doubtful accounts based upon a variety of factors. The Company considers both current and forecasted future economic conditions in determining the adequacy of its allowance for doubtful accounts.
+The Company’s allowance for doubtful accounts was 
+$
+3,248
+ and 
+$
+3,041
+ as of December 30, 2024 and January 1, 2024
+, respectively.
+Inventories
+Inventories are stated at the lower of cost (based on standard cost, which approximates first-in, first-out method) or net realizable value. Assessments to value the inventory at the lower of the actual cost to purchase and/or manufacture the inventory, or net realizable value of the inventory, are based upon assumptions about future demand and market conditions. As a result of the Company’s assessments, when the net realizable value of inventory is less than the carrying value, the inventory cost is written down to the net realizable value and the write down is recorded as a charge to cost of goods sold.
+Property, Plant, and Equipment, Net
+Property, plant, and equipment are recorded at cost. Depreciation expense is computed using the straight-line method over the estimated useful lives of the assets. Assets recorded under leasehold improvements are amortized using the straight-line method over the lesser of their useful lives or the related lease term. 
+The Company uses the following estimated useful lives:
+
+Land use rights
+
+50
+-
+99 years
+
+Buildings and improvements
+
+7
+-
+50 years
+
+Machinery and equipment
+
+3
+-
+10 years
+
+Furniture and fixtures
+
+3
+-
+7 years
+
+Upon retirement or other disposition of property, plant, and equipment, the cost and related accumulated depreciation are removed from the accounts. The resulting gain or loss is included in the determination of operating income in the period incurred. Depreciation expense on property, plant, and equipment was 
+$
+105,233
+, 
+$
+99,155
+, and 
+$
+91,276
+ for the years ended December 30, 2024, January 1, 2024, and January 2, 2023, respectively.
+The Company capitalizes interest on borrowings during the active construction period of major capital projects. Capitalized interest is amortized over the average useful lives of such assets, which primarily consist of buildings and machinery and equipment. The Company capitalized interest costs of 
+$
+4,006
+, 
+$
+2,272
+, and 
+$
+731
+ during the years ended December 30, 2024, January 1, 2024, and January 2, 2023, respectively, in connection with various capital projects.
+Major renewals and betterments are capitalized and depreciated over their estimated useful lives while minor expenditures for maintenance and repairs are included in operating income as incurred.
+Goodwill
+Goodwill represents the excess of purchase price of an acquisition over the fair value of net assets acquired. Goodwill is not amortized but instead is assessed for impairment, at a reporting unit level, annually and when events and circumstances warrant an evaluation. Goodwill is allocated to reporting units, which are operating segments or one level below the Company’s operating segments (the component level). Reporting units are determined by the discrete financial information available for the component and whether it is regularly reviewed by segment management. Components are aggregated into a single reporting unit if they share similar economic characteristics. The Company evaluates its goodwill on an annual basis in the fourth quarter or more frequently if it believes indicators of impairment exist. The Company assesses qualitative factors to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount or performs a quantitative impairment test. When tested quantitatively, the Company compares the fair value of the applicable reporting unit with its carrying value. In making this assessment, management relies on a number of factors, including expected future operating results, business plans, economic projections, anticipated future cash flows, business trends and declines in the Company’s market capitalization. The Company estimates the fair values of its reporting units using a combination of the discounted cash flow (DCF) and market approaches. If the carrying amount of a reporting unit exceeds the reporting unit’s fair value, the amount by which the carrying value exceeds the fair value is recognized as an impairment loss. See Note 6, 
+Goodwill
+, for further details.
+
+68
+
+TTM TECHNOLOGIES, INC.
+
+Notes to Consolidated Financial Statements — (Continued)
+
+Intangible Assets
+Intangible assets include customer relationships and technology, which are being amortized over their estimated useful lives on a straight-line basis. The estimated useful lives of such intangibles range from 
+5 years
+ to 
+13 years
+.
+Impairment of Long-lived Assets
+Long-lived tangible assets, including property, plant, and equipment, assets held for sale, and definite-lived intangible assets, are reviewed for impairment whenever events or changes in circumstances indicate that the carrying value of the asset or asset groups may not be recoverable. The Company regularly evaluates whether events or circumstances have occurred that indicate possible impairment and relies on a number of factors, including expected future operating results, business plans, economic projections, and anticipated future cash flows. The Company uses an estimate of the future undiscounted net cash flows of the related asset or asset group over the remaining life in measuring whether the assets are recoverable. If the sum of the undiscounted cash flows is less than the carrying amount of the net assets, impairment is measured based on the difference between the net asset’s carrying value and estimated fair value. Fair value is determined through various valuation techniques, including cost-based, market, and income approaches as considered necessary.
+The Company classifies assets to be sold as assets held for sale when (1) Company management has approved and commits to a plan to sell the asset; (2) the asset is available for immediate sale in its present condition and is ready for sale; (3) an active program to locate a buyer and other actions required to sell the asset have been initiated; (4) the sale of the asset is probable; (5) the asset is being actively marketed for sale at a price that is reasonable in relation to its current fair value; and (6) it is unlikely that significant changes to the plan will be made or that the plan will be withdrawn. Assets classified as held for sale are recorded at the lower of the carrying amount or fair value less the cost to sell.
+The Company classifies assets held for use when a decision to dispose of an asset or a business is made and the held for sale criteria are not met. In evaluating the recoverability of property and intangible assets subject to amortization, in a held for use business, the carrying value is first compared to the sum of the undiscounted cash flows expected to result from the use and eventual disposition. If the carrying value exceeds the undiscounted expected cash flows, then a fair value analysis is performed. An impairment charge is recognized if the carrying value exceeds the fair value.
+Leases
+The Company determines if an arrangement is a lease at inception. Operating leases are included in operating lease right-of-use (ROU) assets, and lease liabilities are included in other current liabilities and operating lease liabilities on the consolidated balance sheets. Finance lease ROU assets are included in property, plant, and equipment, net and lease liabilities are included in other current liabilities and other long-term liabilities on the consolidated balance sheets.
+ROU assets represent the Company’s right to use an underlying asset for the lease term and lease liabilities represent the Company’s obligation to make lease payments arising from the lease. Operating and finance lease ROU assets and liabilities are recognized at commencement date based on the present value of lease payments over the lease term. As most of the Company’s leases do not provide an implicit rate, the Company uses its incremental borrowing rate based on the information available at the commencement date in determining the present value of lease payments. The operating and finance lease ROU assets also include any lease payments made and excludes lease incentives. Lease terms may include options to extend or terminate the lease when it is reasonably certain that the Company will exercise that option. Operating lease expense is recognized on a straight-line basis over the lease term. Finance lease expense is recognized based on the effective interest method over the lease term.
+The Company has lease agreements with lease and non-lease components and accounts for the lease and non-lease components as a single lease component.
+Revenue Recognition
+The Company derives revenues primarily from the sale of PCBs, engineered systems using customer-supplied engineering and design plans as well as long-term contracts related to the design and manufacture of highly sophisticated intelligence, surveillance, and communications solutions, RF and microwave/microelectronics components, assemblies, and subsystems. In the absence of a sales agreement, the Company’s standard terms and conditions apply. Revenue is recognized when control of the promised goods or services is transferred to the Company’s customers, in an amount that reflects the consideration to which it expects to be entitled in exchange for those goods or services. The Company applies a five-step approach in determining the amount and timing of revenue to be recognized: (1) identifying the contract with a customer; (2) identifying the performance obligations in the contract; (3) determining the transaction price; (4) allocating the transaction price to the performance obligations in the contract; and (5) recognizing revenue when the corresponding performance obligation is satisfied.
+
+69
+
+TTM TECHNOLOGIES, INC.
+
+Notes to Consolidated Financial Statements — (Continued)
+
+Revenue Streams
+For PCBs and engineered systems, including pursuant to the Company’s long-term contracts related to the manufacture of highly sophisticated intelligence, surveillance, and communications solutions, components, assemblies, and subsystems, orders for products generally correspond to the production schedules of the Company’s customers and are supported with firm purchase orders. The Company’s customers have continuous control of the work in progress and finished goods throughout the PCB and engineered systems manufacturing process, as these are built to customer specifications with no alternative use, and there is an enforceable right to payment for work performed to date. As a result, the Company recognizes revenue progressively over time based on the extent of progress towards completion of the performance obligation. Revenue recognized is based on a cost method as it best depicts the transfer of control to the customer which takes place as we incur costs. Revenues are recorded proportionally as costs are incurred. For contracts in which anticipated total costs exceed the total expected revenue, an estimated loss is recognized in the period when identifiable. A provision for the entire amount of the estimated loss is recorded on a cumulative basis. The estimated remaining costs to complete for loss contracts as of December 30, 2024 and January 1, 2024 were 
+$
+36,976
+ and 
+$
+25,213
+, respectively, and the provision is recorded as a reduction to gross margin on the consolidated statements of operations.
+In addition, the Company manufactures components, assemblies, subsystems, and completed systems which service its RF and Specialty Components (RF&S Components) and certain aerospace and defense customers. The Company recognizes revenue at a point in time upon transfer of control of the products to the customer. Point in time recognition was determined as the customer does not simultaneously receive or consume the benefits provided by the Company’s performance and the asset being manufactured has alternative uses to the Company.
+Performance Obligations
+Each distinct promise to transfer products is considered to be an identified performance obligation for which revenue is recognized upon transfer of control of the products to the customer. A contract’s transaction price is allocated to each distinct performance obligation and recognized as revenue when, or as, the performance obligation is satisfied. The majority of the Company's contracts have a single performance obligation as the promise to transfer the individual good or service is not separately identifiable from other promises in the contract and is, therefore, not distinct. As of December 30, 2024, the aggregate amount of the transaction price allocated to remaining performance obligations for the Company’s long-term contracts was 
+$
+452,793
+. The Company expects to recognize revenue on approximately 
+54
+%
+ of the remaining performance obligations for the Company’s long‑term contracts over the next twelve months with the remaining amount recognized thereafter. The remaining performance obligations for the Company’s short‑term contracts are expected to be recognized within 
+one year
+.
+Transaction Price
+The Company provides customers a limited right of return for defective PCBs including components, assemblies, and subsystems. Estimates of returns are treated as variable consideration for purposes of determining the transaction price. The Company accrues an estimate for sales returns and allowances progressively over time based on the extent of progress towards completion of the performance obligation using the Company’s judgment based on historical results and anticipated returns. To the extent actual experience varies from its historical experience, revisions to the sales returns and allowances accrual may be required. Sales returns and allowances are recorded as a reduction of revenue and included as a component of other current liabilities on the consolidated balance sheets. Shipping and handling fees and related freight costs and supplies associated with shipping products to customers are included as a component of cost of goods sold. Warranty-related services are not considered a separate performance obligation. Incremental warranty costs that are not related to sales returns are recorded in other current liabilities on the consolidated balance sheets and cost of goods sold on the consolidated statements of operations. 
+The following summarizes the activity in the Company’s sales returns and allowances:
+
+For the Year Ended
+
+December 30, 2024
+
+January 1, 2024
+
+January 2, 2023
+
+(In thousands)
+
+Balance at beginning of year
+
+$
+
+12,301
+
+$
+
+12,319
+
+$
+
+12,853
+
+Addition charged as a reduction of sales
+
+2,787
+
+4,692
+
+2,410
+
+Deductions
+
+(
+4,281
+
+)
+
+(
+4,719
+
+)
+
+(
+2,914
+
+)
+
+Effect of foreign currency exchange rates
+
+(
+30
+
+)
+
+9
+
+(
+30
+
+)
+
+Balance at end of year
+
+$
+
+10,777
+
+$
+
+12,301
+
+$
+
+12,319
+
+70
+
+TTM TECHNOLOGIES, INC.
+
+Notes to Consolidated Financial Statements — (Continued)
+
+Contract Balances
+Accounts receivable represents the Company’s unconditional right to receive consideration from its customer. Payments are generally due within 90 days or less of invoicing and do not include a significant financing component. To date, there have been no material credit losses on accounts receivable.
+A contract asset is recognized when the Company has recognized revenue, but not issued an invoice for payment. Amounts will be invoiced when applicable contract terms, such as the achievement of specified milestones or product delivery, are met. Contract assets represent unbilled amounts for work performed to date and are transferred to receivables when the entitlement to payment becomes unconditional. As of December 30, 2024, total contract assets were 
+$
+386,817
+, of which 
+$
+381,382
+ are expected to be collected within one year and recorded as contract assets and 
+$
+5,435
+ are expected to be collected after one year and included as a component of deposits and other non-current assets on the consolidated balance sheets. As of January 1, 2024, total contract assets were 
+$
+303,307
+, of which 
+$
+292,050
+ were expected to be collected within one year and recorded as contract assets and 
+$
+11,257
+ were expected to be collected after one year and included as a component of deposits and other non-current assets on the consolidated balance sheets. The increase in total contract assets in 2024 is primarily due to an increase in unbilled receivables. In 2024, there were no material impairment losses on contract assets.
+A contract liability is recognized when the Company has received payment in advance for the future transfer of goods or services. The Company’s contract liabilities are reduced as the contract requirements are fulfilled. Contract liabilities were 
+$
+170,915
+ and 
+$
+126,508
+ as of December 30, 2024 and January 1, 2024, respectively, and represent customer advances for work yet to be performed. The contract liabilities increased by 
+$
+44,407
+ due to timing of customer billings and/or payments. Revenue recognized for the year ended December 30, 2024 from amounts recorded as contract liabilities as of January 1, 2024 was 
+$
+37,457
+.
+The Company has elected to account for shipping and handling activities as a fulfillment cost as permitted by the standard. All incremental customer contract acquisition costs are expensed as they are incurred as the amortization period of the asset that the Company otherwise would have recognized is one year or less in duration.
+Disaggregated Revenue
+Revenue from products and services transferred to customers over time and at a point in time accounted for 
+96
+%
+ and 
+4
+%
+, respectively, of the Company’s revenue in both 2024 and 2023
+. Revenue from products and services transferred to customers over time and at a point in time accounted for 
+97
+%
+ and 
+3
+%
+, respectively, of the Company’s revenue in 2022.
+Disaggregated revenue by principal end markets within reportable segments was as follows for the periods shown:
+
+For the Year Ended December 30, 2024
+
+PCB
+
+RF&S Components
+
+Total
+
+(In thousands)
+
+End Markets:
+
+Aerospace and Defense
+
+$
+
+1,127,529
+
+$
+
+—
+
+$
+
+1,127,529
+
+Automotive
+
+315,924
+
+—
+
+315,924
+
+Data Center Computing
+
+502,258
+
+619
+
+502,877
+
+Medical/Industrial/Instrumentation
+
+333,276
+
+2,809
+
+336,085
+
+Networking
+
+126,628
+
+33,710
+
+160,338
+
+Total
+
+$
+
+2,405,615
+
+$
+
+37,138
+
+$
+
+2,442,753
+
+For the Year Ended January 1, 2024
+
+PCB
+
+RF&S Components
+
+Total
+
+(In thousands)
+
+End Markets:
+
+Aerospace and Defense
+
+$
+
+1,004,864
+
+$
+
+18
+
+$
+
+1,004,882
+
+Automotive
+
+359,455
+
+—
+
+359,455
+
+Data Center Computing
+
+318,769
+
+51
+
+318,820
+
+Medical/Industrial/Instrumentation
+
+365,611
+
+3,448
+
+369,059
+
+Networking
+
+145,347
+
+35,004
+
+180,351
+
+Total
+
+$
+
+2,194,046
+
+$
+
+38,521
+
+$
+
+2,232,567
+
+71
+
+TTM TECHNOLOGIES, INC.
+
+Notes to Consolidated Financial Statements — (Continued)
+
+For the Year Ended January 2, 2023
+
+PCB
+
+RF&S Components
+
+Total
+
+(In thousands)
+
+End Markets:
+
+Aerospace and Defense
+
+$
+
+862,367
+
+$
+
+—
+
+$
+
+862,367
+
+Automotive
+
+428,022
+
+—
+
+428,022
+
+Data Center Computing
+
+378,114
+
+34
+
+378,148
+
+Medical/Industrial/Instrumentation
+
+486,088
+
+5,708
+
+491,796
+
+Networking
+
+278,911
+
+52,414
+
+331,325
+
+Other
+
+4,440
+
+(
+1,052
+
+)
+
+3,388
+
+Total
+
+$
+
+2,437,942
+
+$
+
+57,104
+
+$
+
+2,495,046
+
+Value-Added and Sales Tax Collected from Customers
+As a part of the Company’s normal course of business, value-added and sales taxes are collected from customers. Such taxes collected are remitted, in a timely manner, to the appropriate governmental tax authority on behalf of the customer. Value-added and sales taxes are excluded from reported revenues and costs of goods sold presented in the consolidated statements of operations and comprehensive income (loss).
+Stock-Based Compensation
+The Company recognizes stock-based compensation expense in its consolidated financial statements for its incentive compensation plan awards. The incentive compensation plan awards include performance-based restricted stock units (PRUs), restricted stock units (RSUs), and stock options. The associated compensation expense for all awards is based on the grant date fair value of the awards. For PRUs, compensation expense also includes management’s periodic assessment of annual financial performance goals to be achieved. Compensation expense for the incentive compensation plan awards is recognized on a straight-line basis over the vesting period of the awards. The fair value of PRUs is estimated on the grant date using a Monte Carlo simulation model based on the underlying common stock closing price as of the date of grant, stock price volatility, and risk-free interest rates. The fair value of RSUs is measured on the grant date based on the quoted closing market price of the Company’s common stock.
+Income Taxes
+Income taxes are accounted for under the asset and liability method. Deferred income tax assets or liabilities are recognized for the future tax consequences attributable to differences between the financial statement carrying amounts of assets and liabilities and their respective tax bases and operating loss and tax credit carryforwards. Deferred income tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be settled or realized. The effect on deferred income tax assets and liabilities of a change in tax rates is recognized in income in the period that includes the enactment date. Deferred income tax assets are reviewed for recoverability, and the Company records a valuation allowance to reduce its deferred income tax assets when it is more likely than not that all or some portion of the deferred income tax assets will not be realized.
+The Company has various foreign subsidiaries formed or acquired to conduct or support its business outside the United States. The Company expects its earnings attributable to foreign subsidiaries will not be indefinitely reinvested except for certain subsidiaries, and we have established a deferred tax liability for foreign withholding taxes and the estimated federal/state tax impact. For those other companies with earnings currently being reinvested outside of the U.S., 
+no
+ deferred tax liabilities on undistributed earnings are recorded.
+The Company recognizes the effect of income tax positions only if those positions are more likely than not to be sustained. Recognized income tax positions are measured at the largest amount that is greater than 50 percent likely to be realized. Changes in recognition or measurement are reflected in the period in which the change in judgment occurs. Estimated interest and penalties related to underpayment of income taxes are recorded as a component of income tax provision in the consolidated statements of operations.
+Fair Value Measures
+The Company measures at fair value certain of its financial and non-financial assets and liabilities by using a fair value hierarchy that prioritizes the inputs to valuation techniques used to measure fair value. Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date, essentially an exit price, based on the highest and best use of the asset or liability. The levels of the fair value hierarchy are:
+Level 1 — Quoted market prices in active markets for identical assets or liabilities;
+
+72
+
+TTM TECHNOLOGIES, INC.
+
+Notes to Consolidated Financial Statements — (Continued)
+
+Level 2 — Significant other observable inputs (e.g., quoted prices for similar items in active markets, quoted prices for identical or similar items in markets that are not active, inputs other than quoted prices that are observable, such as interest rate and yield curves, and market-corroborated inputs); and
+Level 3 — Unobservable inputs in which there is little or no market data, which require the reporting unit to develop its own assumptions.
+Earnings (Loss) Per Share
+Basic earnings (loss) per common share excludes dilution and is computed by dividing net income (loss) by the weighted average number of common shares outstanding during the period. Diluted earnings (loss) per common share reflect the potential dilution that could occur if stock options, or other common stock equivalents were exercised or converted into common stock. The dilutive effect of stock options or other common stock equivalents is calculated using the treasury stock method.
+Comprehensive Income (Loss)
+Comprehensive income (loss) includes changes to equity accounts that were not the result of transactions with stockholders. Comprehensive income (loss) is comprised of net income (loss), changes in the cumulative foreign currency translation adjustments, pension obligation adjustments, and realized and unrealized gains or losses on hedged derivative instruments.
+Loss Contingencies
+The Company establishes an accrual for an estimated loss contingency when it is both probable that an asset has been impaired or that a liability has been incurred and the amount of the loss can be reasonably estimated. Any legal fees expected to be incurred in connection with a contingency are expensed as incurred.
+Recently Adopted and Issued Accounting Standards
+Recently Adopted Accounting Standards
+In November 2023, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) 2023-07, 
+Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures
+, which updates reportable segment disclosure requirements primarily through enhanced disclosures about significant segment expenses. The amendments are effective for fiscal years beginning after December 15, 2023, and for interim periods within fiscal years beginning after December 15, 2024. Early adoption is permitted. The amendments should be applied retrospectively to all prior periods presented in the financial statements. The Company adopted ASU 2023-07 as of 
+December 30, 2024
+ using a retrospective transition method. This ASU impacts only the Company's disclosures with no impacts to the results of operations, cash flows, and financial condition. See Note 10, 
+Segment Information
+, for further details.
+Recently Issued Accounting Standards Not Yet Adopted
+In November 2024, the FASB issued ASU 2024-03, 
+Income Statement-Reporting Comprehensive Income-Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses
+, which requires disclosure in the notes to the financial statements of specified information about certain costs and expenses. In January 2025, the FASB issued ASU 2025-01, 
+Income Statement-Reporting Comprehensive Income-Expense Disaggregation Disclosures (Subtopic 220-40): Clarifying the Effective Date
+, which amends the effective date of ASU 2024-03 to clarify that all public business entities are required to adopt the guidance in annual reporting periods beginning after December 15, 2026, and interim periods within annual reporting periods beginning after December 15, 2027. Early adoption of ASU 2024-03 is permitted. ASU 2024-03 should be applied either prospectively to financial statements issued for reporting periods after the effective date or retrospectively to any or all prior periods presented in the financial statements. The Company is currently evaluating the new guidance to determine the impact it may have on its consolidated financial statements and related disclosures, but expects additional disclosures upon adoption.
+In December 2023, the FASB issued ASU 2023-09, 
+Income Taxes (Topic 740): Improvements to Income Tax Disclosures
+, which requires disclosure of disaggregated income taxes paid, prescribes standard categories for the components of the effective tax rate reconciliation, and modifies other income tax-related disclosures. The update will be effective for annual periods beginning after December 15, 2024. Early adoption is permitted for annual financial statements not yet issued or made available for issuance. The Company is currently evaluating the new guidance to determine the impact it may have on its consolidated financial statements and related disclosures, but expects additional disclosures upon adoption.
+In October 2023, the FASB issued ASU 2023-06, 
+Disclosure Improvements: Codification Amendments in Response to the Securities and Exchange Commission’s Disclosure Update and Simplification Initiative
+, which modifies the disclosure or presentation requirements of a variety of topics in the Accounting Standards Codification (ASC) in response to the Securities and Exchange Commission’s (SEC) Release No. 33-10532, 
+Disclosure Update and Simplification Initiative
+, 
+and align the ASC requirements with the
+
+73
+
+TTM TECHNOLOGIES, INC.
+
+Notes to Consolidated Financial Statements — (Continued)
+
+SEC’s 
+regulations. For entities subject to the SEC's existing disclosure requirements, the effective date for each amendment will be the date on which the SEC's removal of that related disclosure from Regulation S-X or Regulation S-K becomes effective. However, if by June 30, 2027, the SEC has not removed the related disclosure from its regulations, the amendments will be removed from the Codification and not become effective. Early adoption is prohibited. The Company is currently evaluating the new guidance to determine the impact it may have on the presentation of its consolidated financial statements and related disclosures.
+
+(2)
+Share Repurchase Program
+On May 3, 2023, the Company's Board of Directors authorized and approved a share repurchase program (2023 Repurchase Program)
+, under which the Company may repurchase up to $
+100,000
+ in value of the Company’s outstanding shares of common stock from time to time through 
+May 3, 2025
+. The Company may repurchase shares through open market purchases, privately-negotiated transactions, or otherwise in accordance with applicable federal securities laws, including Rule 10b-18 of the Securities Exchange Act of 1934, as amended (Exchange Act), which sets certain restrictions on the method, timing, price, and volume of open market stock repurchases. In addition, the Company adopted one trading plan in accordance with Rule 10b5-1 of the Exchange Act to facilitate certain purchases that may be effected under the share repurchase program. The timing, manner, price, and amount of any repurchases will be determined at the Company’s discretion, and the share repurchase program may be suspended, terminated, or modified at any time for any reason. The repurchase program does not obligate the Company to acquire any specific number of shares.
+During the year ended December 30, 2024, the Company repurchased 
+1,990
+ shares of common stock for a total cost of approximately 
+$
+34,479
+ (including commissions). As of December 30, 2024, the remaining amount in value available to be repurchased under the 2023 Repurchase Program was approximately 
+$
+41,088
+.
+
+(3)
+Significant Customers and Concentration of Credit Risk
+Financial instruments that are potentially subject to concentrations of credit risk are primarily cash and cash equivalents and accounts receivable.
+The Company had cash and cash equivalents held by its foreign subsidiaries of 
+$
+207,909
+ and 
+$
+195,928
+ as of December 30, 2024 and January 1, 2024, respectively. The Company maintains its cash and cash equivalents with major financial institutions and such balances exceed Federal Deposit Insurance Corporation insurance limits. The Company has not experienced any losses in such accounts and believes it is not exposed to any significant risk on cash and cash equivalents.
+In the normal course of business, the Company extends credit to its customers. Some customers to whom the Company extends credit are located outside the United States. The Company performs ongoing credit evaluations of customers, does not require collateral, and considers the credit risk profile of the entity from which the receivable is due in further evaluating collection risk. As of December 30, 2024 and January 1, 2024
+, there were 
+no
+ customers that accounted for 
+10
+%
+ or more of the Company’s accounts receivable.
+The Company’s customers include both OEMs and EMS companies. The Company’s OEM customers often direct a significant portion of their purchases through EMS companies. While the Company’s customers include both OEM and EMS providers, the Company measures customer concentration based on OEM companies, as they are the ultimate end customers.
+One
+ customer accounted for approximately 
+11
+%
+, 
+13
+%
+, and 
+10
+%
+ of the Company’s net sales for the years ended December 30, 2024, January 1, 2024, and January 2, 2023
+, respectively.
+
+74
+
+TTM TECHNOLOGIES, INC.
+
+Notes to Consolidated Financial Statements — (Continued)
+
+(4)
+Leases
+The Company leases some of its manufacturing and assembly plants, sales offices, and equipment under non-cancellable operating leases and finance leases that expire at 
+various dates through 
+2043
+. The majority of the Company’s lease arrangements are comprised of fixed payments, and certain leases consist of variable payments based on equipment usage. These variable payments are not included in the measurement of the ROU asset or lease liability due to uncertainty of the payment amount and are recorded as lease expense in the period incurred. Certain leases contain renewal provisions at the Company’s option. Most of the leases require the Company to pay for certain other costs such as property taxes and maintenance. Certain leases also contain rent escalation clauses (step rents) that require additional rental amounts in the later years of the term. Rent expense for leases with step rents is recognized on a straight-line basis over the minimum lease term. The lease agreements do not contain any material residual value guarantees or material restrictive covenants.
+The components of lease expense were as follows:
+
+For the Year Ended
+
+December 30, 2024
+
+January 1, 2024
+
+January 2, 2023
+
+(In thousands)
+
+Operating lease cost
+
+$
+
+14,933
+
+$
+
+9,527
+
+$
+
+7,751
+
+Variable lease cost
+
+1,055
+
+930
+
+1,140
+
+Short-term lease cost
+
+409
+
+311
+
+708
+
+Finance lease costs:
+
+Amortization of right-of-use assets
+
+1,372
+
+1,374
+
+1,374
+
+Interest on lease liabilities
+
+354
+
+373
+
+392
+
+Supplemental cash flow information related to leases was as follows:
+
+For the Year Ended
+
+December 30, 2024
+
+January 1, 2024
+
+January 2, 2023
+
+(In thousands)
+
+Cash paid for amounts included in the measurement of lease liabilities:
+
+Operating cash flows for operating leases
+
+$
+
+13,926
+
+$
+
+9,039
+
+$
+
+7,746
+
+Right-of-use assets obtained in exchange for new lease obligations:
+
+Operating leases
+
+$
+
+2,796
+
+$
+
+77,041
+
+$
+
+7,896
+
+75
+
+TTM TECHNOLOGIES, INC.
+
+Notes to Consolidated Financial Statements — (Continued)
+
+Supplemental balance sheet information related to leases was as follows:
+
+As of
+
+Balance Sheet Location
+
+December 30, 2024
+
+January 1, 2024
+
+(In thousands)
+
+Assets:
+
+Operating leases
+
+Operating lease right-of-use assets
+
+$
+
+78,252
+
+$
+
+86,286
+
+Finance leases
+
+Property, plant, and equipment, net
+
+10,621
+
+12,010
+
+Total lease assets
+
+$
+
+88,873
+
+$
+
+98,296
+
+Liabilities:
+
+Current:
+
+Operating leases
+
+Other current liabilities
+
+$
+
+7,556
+
+$
+
+8,433
+
+Finance leases
+
+Other current liabilities
+
+814
+
+780
+
+Long-term:
+
+Operating leases
+
+Operating lease liabilities
+
+77,509
+
+80,786
+
+Finance leases
+
+Other long-term liabilities
+
+11,985
+
+12,799
+
+Total lease liabilities
+
+$
+
+97,864
+
+$
+
+102,798
+
+As of
+
+December 30, 2024
+
+January 1, 2024
+
+Weighted average remaining lease term (years):
+
+Operating leases
+
+12.5
+
+12.8
+
+Finance leases
+
+11.6
+
+12.6
+
+Weighted average discount rate:
+
+Operating leases
+
+6.24
+
+%
+
+6.13
+
+%
+
+Finance leases
+
+2.69
+
+2.69
+
+Maturities of lease liabilities for the next five years and thereafter were as follows:
+
+Operating Leases
+ (1)
+
+Finance Leases
+
+(In thousands)
+
+2025
+
+$
+
+12,542
+
+$
+
+1,145
+
+2026
+
+10,136
+
+1,175
+
+2027
+
+8,775
+
+1,197
+
+2028
+
+7,964
+
+1,228
+
+2029
+
+7,730
+
+1,251
+
+Thereafter
+
+79,908
+
+8,980
+
+Total lease payments
+
+127,055
+
+14,976
+
+Less: Imputed interest
+
+(
+41,990
+
+)
+
+(
+2,177
+
+)
+
+Total
+
+$
+
+85,065
+
+$
+
+12,799
+
+(1)
+Excludes 
+$
+436
+ of legally binding minimum lease payments for leases signed but not yet commenced.
+
+76
+
+TTM TECHNOLOGIES, INC.
+
+Notes to Consolidated Financial Statements — (Continued)
+
+(5)
+Composition of Certain Consolidated Financial Statement Captions
+
+As of
+
+December 30, 2024
+
+January 1, 2024
+
+(In thousands)
+
+Inventories:
+
+Raw materials
+
+$
+
+178,066
+
+$
+
+165,666
+
+Work-in-process
+
+45,580
+
+45,494
+
+Finished goods
+
+1,339
+
+1,915
+
+Inventories
+
+$
+
+224,985
+
+$
+
+213,075
+
+Property, plant, and equipment, net:
+
+Land and land use rights
+
+$
+
+69,788
+
+$
+
+71,131
+
+Buildings and improvements
+
+515,773
+
+512,148
+
+Machinery and equipment
+
+1,116,658
+
+986,527
+
+Furniture and fixtures and other
+
+11,115
+
+10,157
+
+Construction-in-progress
+
+75,502
+
+90,940
+
+Property, plant, and equipment, gross
+
+1,788,836
+
+1,670,903
+
+Less: Accumulated depreciation
+
+(
+918,879
+
+)
+
+(
+863,236
+
+)
+
+Property, plant, and equipment, net
+
+$
+
+869,957
+
+$
+
+807,667
+
+Other current liabilities:
+
+Income taxes payable
+
+$
+
+15,919
+
+$
+
+5,466
+
+Accrued capital expenditures
+
+13,046
+
+35,026
+
+Sales return and allowances
+
+10,777
+
+12,301
+
+Interest
+
+9,054
+
+9,399
+
+Accrued facility operating costs
+
+8,925
+
+10,172
+
+Housing fund
+
+7,927
+
+7,749
+
+Warranty
+
+7,685
+
+10,557
+
+Operating leases
+
+7,556
+
+8,433
+
+Accrued professional fees
+
+3,606
+
+3,276
+
+Restructuring
+
+3,486
+
+1,179
+
+Derivative liabilities
+
+667
+
+297
+
+Other
+
+31,326
+
+36,951
+
+Other current liabilities
+
+$
+
+119,974
+
+$
+
+140,806
+
+Other long-term liabilities:
+
+Deferred income taxes
+
+$
+
+41,362
+
+$
+
+44,238
+
+Customer deposits
+
+28,390
+
+29,820
+
+Finance leases
+
+11,985
+
+12,799
+
+Other
+
+26,011
+
+26,661
+
+Other long-term liabilities
+
+$
+
+107,748
+
+$
+
+113,518
+
+77
+
+TTM TECHNOLOGIES, INC.
+
+Notes to Consolidated Financial Statements — (Continued)
+
+(6)
+Goodwill
+Goodwill by reportable segment was as follows:
+
+PCB
+
+RF&S Components
+
+Total
+
+(In thousands)
+
+As of January 1, 2024
+
+Goodwill
+
+$
+
+810,235
+
+$
+
+177,200
+
+$
+
+987,435
+
+Accumulated impairment losses
+
+(
+171,400
+
+)
+
+(
+113,300
+
+)
+
+(
+284,700
+
+)
+
+Carrying amount
+
+638,835
+
+63,900
+
+702,735
+
+Impairment loss during the year ended December 30, 2024
+
+—
+
+(
+32,600
+
+)
+
+(
+32,600
+
+)
+
+As of December 30, 2024
+
+Goodwill
+
+810,235
+
+177,200
+
+987,435
+
+Accumulated impairment losses
+
+(
+171,400
+
+)
+
+(
+145,900
+
+)
+
+(
+317,300
+
+)
+
+Carrying amount
+
+$
+
+638,835
+
+$
+
+31,300
+
+$
+
+670,135
+
+The Company evaluates its goodwill on an annual basis during its fourth fiscal quarter and at other times when events or changes in circumstances – such as significant adverse changes in the business climate or operating results or changes in management strategy, coupled with a decline in the market price of its stock and market capitalization – indicate that there may be a potential impairment. The Company assesses qualitative factors to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount or performs a quantitative impairment test.
+In the fourth quarter of 2024, the Company performed its annual goodwill impairment test qualitatively for the PCB reporting unit and concluded that it was more likely than not that there was no impairment to goodwill.
+In the fourth quarter of 2024, the Company performed its annual goodwill impairment test quantitatively for the RF&S Components reporting unit. As of November 1, 2024, the Company completed a quantitative goodwill impairment analysis related to its RF&S Components reporting unit by comparing the fair value of the reporting unit with its carrying amount. In making this assessment, management relies on a number of factors, including expected future operating results, business plans, economic projections, anticipated future cash flows, and business trends. The Company determined the fair value of the reporting unit by using both a DCF and a market approach. Under the market approach, the Company used revenue and earnings multiples based on comparable industry multiples to estimate the fair value of the reporting unit. If the carrying amount of a reporting unit exceeds the reporting unit’s fair value, the amount by which the carrying value exceeds the fair value is recognized as an impairment loss.
+Under the DCF approach, the Company estimated the future cash flows, as well as selected a risk-adjusted discount rate to measure the present value of the anticipated cash flows. When determining future cash flow estimates, the Company considered historical results adjusted to reflect current and anticipated future operating conditions. The Company estimated cash flows for the reporting unit over a discrete period and a terminal period (considering expected long-term growth rates and trends).
+Based on its analysis, the Company determined that the fair value of the RF&S Components reporting unit was less than its carrying value and recorded a non-cash goodwill impairment charge of 
+$
+32,600
+ during the year ended December 30, 2024
+. If the Company's future cash flow projections and other fair value assumptions for its reporting unit change, the Company’s goodwill may be subject to potential additional impairment charges in subsequent quarters. Estimating the fair value of the reporting unit requires the Company to make assumptions and estimates in such areas as future economic conditions, industry-specific conditions, product pricing, and necessary capital expenditures. The use of different assumptions or estimates for future cash flows, discount rates, or terminal growth rates, which are subject to a high degree of judgment, could produce substantially different estimates of the fair value of the reporting unit.
+
+78
+
+TTM TECHNOLOGIES, INC.
+
+Notes to Consolidated Financial Statements — (Continued)
+
+(7)
+Definite-lived Intangibles
+The components of definite-lived intangibles were as follows:
+
+Gross
+Amount
+
+Accumulated
+Amortization
+
+Net
+Carrying
+Amount
+
+Weighted
+Average
+Amortization
+Period
+
+(In thousands)
+
+(In years)
+
+As of December 30, 2024
+
+Customer relationships
+
+$
+
+323,500
+
+$
+
+(
+161,710
+
+)
+
+$
+
+161,790
+
+11.8
+
+Technology
+
+66,650
+
+(
+36,621
+
+)
+
+30,029
+
+8.2
+
+Total
+
+$
+
+390,150
+
+$
+
+(
+198,331
+
+)
+
+$
+
+191,819
+
+As of January 1, 2024
+
+Customer relationships
+
+$
+
+416,230
+
+$
+
+(
+222,766
+
+)
+
+$
+
+193,464
+
+11.2
+
+Technology
+
+66,650
+
+(
+27,278
+
+)
+
+39,372
+
+8.2
+
+Backlog
+
+13,000
+
+(
+9,750
+
+)
+
+3,250
+
+2.0
+
+Trade names
+
+2,500
+
+(
+1,875
+
+)
+
+625
+
+2.0
+
+Total
+
+$
+
+498,380
+
+$
+
+(
+261,669
+
+)
+
+$
+
+236,711
+
+Definite-lived intangibles are amortized using the straight-line method of amortization over the useful life. Amortization expense was 
+$
+44,892
+, 
+$
+61,576
+, and 
+$
+42,631
+ for the years ended December 30, 2024, January 1, 2024, and January 2, 2023, respectively. For the years ended December 30, 2024, January 1, 2024, and January 2, 2023, 
+$
+9,342
+, 
+$
+12,901
+, and 
+$
+5,534
+, respectively, of amortization expense is included in cost of goods sold.
+In connection with the finalization of acquired identifiable intangible asset valuation during the second quarter of 2023 related to the Company's acquisition in 2022 of Telephonics, the Company recorded amortization expense of 
+$
+24,877
+ related to the acquired identifiable intangible assets during the year ended January 1, 2024 (of which 
+$
+5,627
+ corresponded to the year ended January 2, 2023 due to the change in amortization period). For the year ended January 1, 2024, 
+$
+8,850
+ of amortization expense related to the acquired identifiable intangible assets was included in cost of goods sold (of which 
+$
+2,950
+ corresponded to the year ended January 2, 2023).
+Estimated aggregate amortization for definite-lived intangible assets for the next five years and thereafter is as follows:
+
+(In thousands)
+
+2025
+
+$
+
+36,897
+
+2026
+
+36,897
+
+2027
+
+34,543
+
+2028
+
+30,997
+
+2029
+
+22,355
+
+Thereafter
+
+30,130
+
+Total
+
+$
+
+191,819
+
+79
+
+TTM TECHNOLOGIES, INC.
+
+Notes to Consolidated Financial Statements — (Continued)
+
+(8)
+Long-term Debt and Letters of Credit
+Long-term debt was as follows:
+
+As of December 30, 2024
+
+As of January 1, 2024
+
+Interest Rate
+
+Principal Outstanding
+
+Interest Rate
+
+Principal Outstanding
+
+(In thousands, except interest rates)
+
+Senior Notes due 
+March 2029
+
+4.00
+
+%
+
+$
+
+500,000
+
+4.00
+
+%
+
+$
+
+500,000
+
+Term Loan due 
+May 2030
+
+6.59
+
+345,634
+
+8.10
+
+349,125
+
+Asia ABL Revolving Loan due 
+June 2028
+
+5.64
+
+80,000
+
+6.65
+
+80,000
+
+Other
+
+5.99
+
+2,311
+
+—
+
+—
+
+Total debt
+
+927,945
+
+929,125
+
+Less: Unamortized debt issuance costs
+
+(
+6,951
+
+)
+
+(
+8,021
+
+)
+
+Less: Unamortized debt discount
+
+(
+2,840
+
+)
+
+(
+3,268
+
+)
+
+Subtotal
+
+918,154
+
+917,836
+
+Less: Current maturities
+
+(
+3,795
+
+)
+
+(
+3,500
+
+)
+
+Long-term debt, less current maturities
+
+$
+
+914,359
+
+$
+
+914,336
+
+The fiscal calendar maturities of debt for the next five years and thereafter are as follows:
+
+(In thousands)
+
+2025
+
+$
+
+3,795
+
+2026
+
+3,815
+
+2027
+
+4,735
+
+2028
+
+83,828
+
+2029
+
+503,018
+
+Thereafter
+
+328,754
+
+Total
+
+$
+
+927,945
+
+Senior Notes due 2029
+On March 10, 2021, the Company issued 
+$
+500,000
+ of Senior Notes due 2029, which are included in long-term debt and bear interest at a rate of 
+4.0
+%
+ per annum. Interest is payable semiannually in arrears on March 1 and September 1 of each year beginning September 1, 2021. The Senior Notes due 2029 will mature on 
+March 1, 2029
+.
+The Senior Notes due 2029 are irrevocably and unconditionally guaranteed, jointly and severally, on a senior unsecured basis by the Company’s existing and future domestic subsidiaries, subject to certain exceptions. The Senior Notes due 2029 and related guarantees are senior unsecured obligations of, respectively, the Company and applicable subsidiary guarantors.
+Term Loan Facility
+On August 1, 2024, the Company entered into a First Amendment to its Amended and Restated Term Loan Credit Agreement, dated as of May 30, 2023, by and among the Company, as Borrower, JPMorgan Chase Bank, N.A., as Administrative Agent, and the several lenders from time to time parties thereto, pursuant to which the Company closed its 
+$
+346,500
+ new senior secured term loan (Term Loan Facility) that bears interest at a floating rate of 1-month Chicago Mercantile Exchange (CME) Term Secured Overnight Financing Rate (SOFR) plus an applicable margin of 
+2.25
+%, 50 basis points lower than the previous term loan facility issued in May 2023. The Term Loan Facility is issued at par, maintains the same maturity of May 30, 2030 as the previous term loan facility, and the majority is a cashless rollover from the previous term loan facility. This Term Loan Facility had an outstanding balance of 
+$
+345,634
+ as of December 30, 2024, of which 
+$
+3,465
+ is included in short-term debt and 
+$
+342,169
+ is included in long-term debt. The Term Loan Facility was issued with a 
+1.0
+% original issue discount. There is no provision, other than an event of default, for the interest margin to increase. The Company is required to make quarterly principal repayments in an aggregate annual amount equal to 1% of the 
+$
+346,500
+ aggregate principal amount of the Term Loan Facility. Such principal repayment is payable quarterly on January 1, April 1, July 1, and October 1 and ending with the last such day to occur prior to May 30, 2030. The remaining principal under the Term Loan Facility is scheduled to mature on May 30, 2030. In addition, the Term Loan Credit Agreement permits the Company to add one or more senior secured incremental term loan facilities to the Term Loan Facility subject to the satisfaction of certain conditions.
+
+The obligations under the Term Loan Facility are unconditionally guaranteed by each Subsidiary Guarantor of the Company, subject to certain exceptions (Guarantors). The Term Loan Facility is secured by (i) a perfected first priority security interest in substantially all of the assets of the Company and the Guarantors (other than the U.S. Asset-Based Lending Credit Agreement (U.S.
+
+80
+
+TTM TECHNOLOGIES, INC.
+
+Notes to Consolidated Financial Statements — (Continued)
+
+ABL) Priority Collateral (as defined below)), including all of the total outstanding voting capital stock held by the Company and the Guarantors (subject to a limitation of 
+65
+%
+ on pledges of such capital stock of certain foreign subsidiaries and domestic holding companies of foreign subsidiaries) and (ii) a perfected second priority interest in all of the U.S. ABL Priority Collateral (as defined below). The Term Loan Facility is structurally senior to the Company’s Senior Notes due 2029.
+Based on certain parameters defined in the Term Loan Facility, including a Secured Leverage Ratio, the Company may be required to make an additional principal payment on an annual basis if its Secured Leverage Ratio is greater than 
+2.0
+.
+Borrowings under the Term Loan Credit Agreement are subject to certain affirmative and negative covenants, including limitations on indebtedness, corporate transactions, investments, dispositions, and share payments.
+Asset-Based Lending Agreements
+The U.S. ABL is comprised of a revolving credit facility for up to 
+$
+150,000
+ and a sublimit for letter of credit for up to 
+$
+50,000
+, provided that at no time may amounts outstanding under the agreement exceed in the aggregate 
+$
+150,000
+ or the applicable borrowing base, which is the sum of (i) a percentage of the principal amount of “Eligible Accounts”, plus (ii) a percentage of the net orderly liquidation value of (x) “Eligible Inventory”, minus (y) “Inventory Reserves” applicable thereto, minus (iii) “Reserves”, each as defined in the U.S. ABL agreement. Borrowings under the U.S. ABL bear interest at a floating rate of Term SOFR plus a margin ranging from 
+1.25
+% to 
+1.50
+%
+. The applicable margin can vary based on the remaining availability of the facility, from 
+1.25
+% to 
+1.50
+%
+ for Term SOFR-based loans and from 
+0.25
+% to 
+0.50
+%
+ for JPMorgan Chase Bank’s prime rate-based loans. Other than availability and an event of default, there are no other provisions for the interest margin to increase.
+The U.S. ABL is scheduled to mature on 
+May 30, 2028
+. The Guarantors have also fully guaranteed the full and timely payment of all obligations in respect of the U.S. ABL. Loans made under the U.S. ABL are secured by a perfected first priority security interest in certain deposit accounts, cash and cash equivalents, accounts receivable, and certain U.S. inventory (U.S. ABL Priority Collateral) as well as by a perfected second priority interest in all of the collateral securing the Term Loan Facility.
+The Asia Asset-Based Lending Credit Agreement (Asia ABL) is comprised of a revolving credit facility for up to 
+$
+150,000
+ and a sublimit for letter of credit for up to 
+$
+100,000
+, provided that at no time may amounts outstanding under the agreement exceed in aggregate 
+$
+150,000
+ or the applicable borrowing base, which is a percentage of the principal amount of Eligible Accounts, as defined in the Asia ABL agreement. Borrowings under the Asia ABL bear interest at a floating rate of Term SOFR plus 
+1.30
+%
+. There is no provision, other than an event of default, for the interest margin to increase. As of December 30, 2024, the interest rate on the outstanding borrowings under the Asia ABL was 
+5.64
+%
+. As of December 30, 2024, 
+$
+80,000
+ under the Asia ABL was outstanding and classified as long-term debt, which is consistent with its maturity date.
+The Asia ABL is scheduled to mature on 
+June 13, 2028
+. Loans made under the Asia ABL are secured by a portion of the Company’s Asia Pacific cash and receivables and are structurally senior to the Company’s domestic obligations, including the Senior Notes due 2029.
+As of December 30, 2024, letters of credit in the amount of 
+$
+7,497
+ were outstanding under the U.S. ABL and 
+$
+16,931
+ were outstanding under the Asia ABL with various maturities through December 2025. Available borrowing capacity under the U.S. ABL and the Asia ABL was 
+$
+142,503
+ and 
+$
+53,069
+ respectively, which considers letters of credit outstanding as of December 30, 2024.
+
+The Company is required to pay a commitment fee of 
+0.25
+%
+ per annum on any unused portion of the U.S. ABL and the Asia ABL (collectively, the ABL Revolving Loans). The Company incurred total commitment fees related to unused borrowing availability of 
+$
+476
+, 
+$
+620
+, and 
+$
+661
+ for the years ended December 30, 2024, January 1, 2024, and January 2, 2023, respectively. Under the occurrence of certain events, the ABL Revolving Loans are subject to various financial covenants, including leverage and fixed charge coverage ratios.
+Debt Issuance Costs and Debt Discount
+Remaining unamortized debt issuance costs and debt discount were as follows:
+
+As of December 30, 2024
+
+As of January 1, 2024
+
+Debt
+Issuance Costs
+
+Debt
+Discount
+
+Effective
+Interest Rate
+
+Debt
+Issuance Costs
+
+Debt
+Discount
+
+Effective
+Interest Rate
+
+(In thousands, except interest rates)
+
+Senior Notes due March 2029
+
+$
+
+3,362
+
+$
+
+—
+
+4.18
+
+%
+
+$
+
+4,085
+
+$
+
+—
+
+4.18
+
+%
+
+Term Loan due May 2030
+
+3,589
+
+2,840
+
+8.01
+
+3,936
+
+3,268
+
+8.26
+
+Total
+
+$
+
+6,951
+
+$
+
+2,840
+
+$
+
+8,021
+
+$
+
+3,268
+
+The above debt issuance costs and debt discount are recorded as a reduction of the debt and are amortized into interest expense using an effective interest rate over the duration of the debt.
+
+81
+
+TTM TECHNOLOGIES, INC.
+
+Notes to Consolidated Financial Statements — (Continued)
+
+Remaining unamortized debt issuance costs for the ABL Revolving Loans of 
+$
+1,239
+ and 
+$
+1,603
+ as of December 30, 2024 and January 1, 2024, respectively, are included in deposits and other non-current assets and are amortized to interest expense over the duration of the ABL Revolving Loans using the straight-line method of amortization.
+As of December 30, 2024, the remaining weighted average amortization period for all unamortized debt issuance costs and debt discount was 
+4.8
+ years.
+Debt Covenants
+As of December 30, 2024, the Company was in compliance with the financial covenants under the Senior Notes due 2029, Term Loan Facility, and ABL Revolving Loans.
+Loss on Extinguishment of Debt
+During the year ended January 1, 2024, the Company recognized loss on extinguishment of debt of 
+$
+1,154
+, primarily associated with the write-off of the remaining unamortized debt issuance costs and debt discount as a result of the repayment of the remaining outstanding balance of the Term Loan Facility that was due to mature September 2024.
+
+(9)
+Income Taxes
+The components of income before income taxes were as follows:
+
+For the Year Ended
+
+December 30, 2024
+
+January 1, 2024
+
+January 2, 2023
+
+(In thousands)
+
+United States
+
+$
+
+(
+36,745
+
+)
+
+$
+
+(
+105,101
+
+)
+
+$
+
+(
+52,468
+
+)
+
+Foreign
+
+120,694
+
+105,398
+
+235,331
+
+Income before income taxes
+
+$
+
+83,949
+
+$
+
+297
+
+$
+
+182,863
+
+The Company expects its earnings attributable to foreign subsidiaries will not be indefinitely reinvested, except for certain subsidiaries, and the Company has established a deferred tax liability of approximately
+
+$
+3,693
+ and 
+$
+1,267
+ for the foreign and U.S. federal/state impact, respectively. For those other companies with earnings currently being reinvested outside of the U.S., the undistributed earnings amounted to approximately 
+$
+60,769
+ as of December 30, 2024. The determination of the unrecognized deferred tax liability related to these undistributed earnings is approximately 
+$
+2,687
+.
+The components of income tax provision were as follows:
+
+For the Year Ended
+
+December 30, 2024
+
+January 1, 2024
+
+January 2, 2023
+
+(In thousands)
+
+Current (provision) benefit:
+
+Federal
+
+$
+
+(
+2,984
+
+)
+
+$
+
+445
+
+$
+
+(
+2,591
+
+)
+
+State
+
+(
+2,958
+
+)
+
+(
+1,592
+
+)
+
+(
+1,812
+
+)
+
+Foreign
+
+(
+22,934
+
+)
+
+(
+29,094
+
+)
+
+(
+23,453
+
+)
+
+Total current
+
+(
+28,876
+
+)
+
+(
+30,241
+
+)
+
+(
+27,856
+
+)
+
+Deferred benefit (provision):
+
+Federal
+
+340
+
+1,321
+
+(
+29,093
+
+)
+
+State
+
+85
+
+271
+
+(
+3,905
+
+)
+
+Foreign
+
+801
+
+9,634
+
+(
+27,426
+
+)
+
+Total deferred
+
+1,226
+
+11,226
+
+(
+60,424
+
+)
+
+Income tax provision
+
+$
+
+(
+27,650
+
+)
+
+$
+
+(
+19,015
+
+)
+
+$
+
+(
+88,280
+
+)
+
+82
+
+TTM TECHNOLOGIES, INC.
+
+Notes to Consolidated Financial Statements — (Continued)
+
+The reconciliation of the provision for income taxes at the statutory federal income tax rate compared to the Company’s provision for income taxes were as follows:
+
+For the Year Ended
+
+December 30, 2024
+
+January 1, 2024
+
+January 2, 2023
+
+(In thousands)
+
+Statutory federal income tax provision
+
+$
+
+(
+17,629
+
+)
+
+$
+
+(
+62
+
+)
+
+$
+
+(
+38,401
+
+)
+
+State income taxes, net of federal benefit and state tax credits
+
+(
+672
+
+)
+
+(
+1,875
+
+)
+
+1,750
+
+IRC Section 162(m) limitation
+
+(
+1,467
+
+)
+
+(
+2,121
+
+)
+
+(
+791
+
+)
+
+Stock options
+
+453
+
+(
+651
+
+)
+
+(
+599
+
+)
+
+Global Intangible Low-Taxed Income
+
+(
+7,435
+
+)
+
+(
+12,639
+
+)
+
+(
+19,240
+
+)
+
+Foreign tax credits
+
+10,131
+
+14,916
+
+17,343
+
+Permanently reinvested earnings assertion
+
+(
+2,634
+
+)
+
+(
+3,934
+
+)
+
+(
+2,721
+
+)
+
+Foreign tax differential on foreign earnings & other permanent items
+
+6,928
+
+3,788
+
+1,504
+
+Change in valuation allowance
+
+(
+13,650
+
+)
+
+(
+13,460
+
+)
+
+(
+50,805
+
+)
+
+Uncertain tax positions
+
+—
+
+957
+
+(
+85
+
+)
+
+Federal research and development credits
+
+6,052
+
+4,665
+
+4,319
+
+Goodwill impairment
+
+(
+6,846
+
+)
+
+(
+9,261
+
+)
+
+—
+
+Other
+
+(
+881
+
+)
+
+662
+
+(
+554
+
+)
+
+Income tax provision
+
+$
+
+(
+27,650
+
+)
+
+$
+
+(
+19,015
+
+)
+
+$
+
+(
+88,280
+
+)
+
+Deferred income taxes reflect the net tax effects of temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes. The significant components of the net deferred income tax assets (liabilities) were as follows:
+
+As of
+
+December 30, 2024
+
+January 1, 2024
+
+(In thousands)
+
+Deferred income tax assets:
+
+Net operating loss carryforwards
+
+$
+
+29,974
+
+$
+
+30,098
+
+Reserves and accruals
+
+57,453
+
+60,023
+
+Interest expense limitation
+
+41
+
+959
+
+Unrealized gain on cash flow hedge
+
+—
+
+(
+1,221
+
+)
+
+Tax credit carryforwards
+
+33,559
+
+35,760
+
+Stock-based compensation
+
+6,591
+
+5,312
+
+Property, plant, and equipment
+
+3,748
+
+4,733
+
+Intangible and capitalized research expenditure amortization
+
+7,601
+
+—
+
+Other deferred income tax assets
+
+880
+
+883
+
+139,847
+
+136,547
+
+Less: Valuation allowance
+
+(
+95,373
+
+)
+
+(
+81,779
+
+)
+
+44,474
+
+54,768
+
+Deferred income tax liabilities:
+
+Debt discount and issuance cost
+
+(
+1,582
+
+)
+
+—
+
+Repatriation of foreign earnings
+
+(
+4,961
+
+)
+
+(
+7,137
+
+)
+
+Property, plant, and equipment basis differences
+
+(
+74,632
+
+)
+
+(
+73,072
+
+)
+
+Goodwill and intangible amortization
+
+(
+1,358
+
+)
+
+(
+11,551
+
+)
+
+Unrealized gain on cash flow hedge
+
+(
+1,895
+
+)
+
+—
+
+Other deferred income tax liabilities
+
+(
+465
+
+)
+
+(
+5,149
+
+)
+
+Net deferred income tax liabilities (included in other
+   long-term liabilities and deposits and other non-current assets)
+
+$
+
+(
+40,419
+
+)
+
+$
+
+(
+42,141
+
+)
+
+As of December 30, 2024, the Company had the following net operating loss (NOLs) carryforwards: 
+$
+78,492
+ in the U.S. for federal, 
+$
+24,132
+ in various U.S. states, 
+$
+33,344
+ in China, 
+$
+23,582
+ in Hong Kong, and 
+$
+26,008
+ in Malaysia. The U.S. federal NOLs expire in 
+2029
+ through 
+2032
+, the various U.S. states’ NOLs expire in 
+2025
+ through 
+2044
+, the China NOLs expire in 
+2029
+ through 
+2034
+, and the Hong Kong and Malaysia NOLs carryforward indefinitely. Further, the Company’s tax credits were approximately 
+$
+43,752
+, of which 
+$
+5,849
+ carryforward indefinitely.
+
+83
+
+TTM TECHNOLOGIES, INC.
+
+Notes to Consolidated Financial Statements — (Continued)
+
+In connection with the Company’s acquisition of Viasystems during 2015, there was more than a 
+50
+% change in ownership under Section 382 of the Internal Revenue Code of 1986, as amended, and regulations issued there under. As a consequence, the utilization of the remaining Viasystems U.S. NOLs is limited to approximately 
+$
+9,826
+ per year and total 
+$
+78,492
+.
+A valuation allowance is provided when it is more likely than not that all or some portion of the deferred income tax assets will not be realized. The Company established a valuation allowance on its U.S. net deferred tax assets in the current year mainly due to cumulative book losses in the U.S. In addition, certain subsidiaries in various tax jurisdictions continue to have NOL carryforwards, which the Company has determined are not more likely than not to be utilized. As a result, a full valuation allowance has been recorded for these subsidiaries as of December 30, 2024. For the remaining net deferred income tax assets, management has determined that it is more likely than not that the results of future operations will generate sufficient income to realize the net deferred tax assets.
+A 
+summary of the activity in the Company’s valuation allowance was as follows:
+
+For the Year Ended
+
+December 30, 2024
+
+January 1, 2024
+
+January 2, 2023
+
+(In thousands)
+
+Balance at beginning of year
+
+$
+
+81,779
+
+$
+
+67,173
+
+$
+
+16,541
+
+Additions charged to expense
+
+13,743
+
+13,811
+
+51,748
+
+Addition related to acquisition
+
+—
+
+1,187
+
+—
+
+Other reduction charged to expense
+
+(
+149
+
+)
+
+(
+392
+
+)
+
+(
+1,116
+
+)
+
+Balance at end of year
+
+$
+
+95,373
+
+$
+
+81,779
+
+$
+
+67,173
+
+Certain entities within China qualified for the high and new technology enterprise (HNTE) status enabling those entities to enjoy certain benefits, which were effective for the years ended December 30, 2024, January 1, 2024, and January 2, 2023. The HNTE status as well as enhanced research and development (R&D) deductions decreased Chinese taxes. HNTE and R&D benefit and effect on earnings per share were as follows:
+
+For the Year Ended
+
+December 30, 2024
+
+January 1, 2024
+
+January 2, 2023
+
+(In thousands, except per share data)
+
+HNTE and R&D benefits
+
+$
+
+5,187
+
+$
+
+6,056
+
+$
+
+13,480
+
+Basic shares
+
+101,781
+
+102,744
+
+102,074
+
+Diluted shares
+
+104,098
+
+102,744
+
+103,866
+
+Increases earnings per share:
+
+Basic
+
+$
+
+0.05
+
+$
+
+0.06
+
+$
+
+0.13
+
+Diluted
+
+0.05
+
+0.06
+
+0.13
+
+HNTE status expired for certain subsidiaries in 2024, but the Company expects to continue to file for renewal of such HNTE status for the foreseeable future.
+With respect to its Malaysian operations, the Company received official notification from Malaysia Investment Development Authority (MIDA) in December 2023 that the Company's application for an incentive was approved. The incentive provided by MIDA is for a special tax rate of 
+0
+% for three, five-year periods (totaling 15 years) as long as the Malaysian operations meet specific requirements outlined in the notice. Starting in 2024, the Company's Malaysian operations will be subject to a 
+0
+% tax rate (absent any applicable impact from the global minimum tax of 
+15
+% under the Organization for Economic Co-operation and Development’s (OECD) Pillar Two). 
+No
+ tax benefit was recognized for the year ended 
+December 30, 2024.
+A reconciliation of the beginning and ending amount of unrecognized tax benefits, exclusive of accrued interest and penalties, were as follows:
+
+For the Year Ended
+
+December 30, 2024
+
+January 1, 2024
+
+January 2, 2023
+
+(In thousands)
+
+Balance at beginning of year
+
+$
+
+10,363
+
+$
+
+9,778
+
+$
+
+9,442
+
+Additions based on tax positions related to the current year
+
+1,220
+
+934
+
+820
+
+Additions for tax positions of prior years
+
+—
+
+13
+
+—
+
+Reductions for tax positions of prior years
+
+(
+3
+
+)
+
+—
+
+(
+72
+
+)
+
+Lapse of statute of limitations
+
+(
+941
+
+)
+
+(
+362
+
+)
+
+(
+412
+
+)
+
+Balance at end of year
+
+$
+
+10,639
+
+$
+
+10,363
+
+$
+
+9,778
+
+84
+
+TTM TECHNOLOGIES, INC.
+
+Notes to Consolidated Financial Statements — (Continued)
+
+During the year ended December 30, 2024, the Company increased uncertain tax positions by 
+$
+276
+ due to U.S. R&D credit generation in 2024, offset by the release of uncertain tax positions due to the statute of limitations expiration.
+As of December 30, 2024 and January 1, 2024, the Company recorded unrecognized tax benefits of 
+$
+446
+ and 
+$
+449
+,
+
+respectively, as well as interest and penalties of
+
+$
+475
+ and 
+$
+434
+, respectively, to other current liabilities and other long-term liabilities. The Company has also recorded unrecognized tax benefits of 
+$
+10,193
+ and 
+$
+9,914
+ against certain deferred tax assets as of December 30, 2024 and January 1, 2024, respectively. The amount of unrecognized tax benefits that would, if recognized, reduce the Company’s effective income tax rate in any future periods is 
+$
+921
+ including interest and penalties. The Company expects its unrecognized tax benefits to decrease by 
+$
+244
+ along with related interest of 
+$
+445
+ over the next twelve months due to expiring statutes.
+
+As of December 30, 2024
+, the Company is open for (1) U.S. federal income tax examination for the period from 
+2021 to 2024
+
+and NOL and credit carryforwards are subject to adjustment for three years post utilization; (2) state and local income tax examination for tax years 
+2020 to 2024
+ and NOL and credit carryforwards are subject to adjustment for four years post utilization; and (3) foreign income tax examinations generally for tax years from 
+2014 to 2024
+.
+
+(10)
+Segment Information
+The reportable segments shown below are the Company’s segments for which separate financial information is available and upon which operating results are evaluated by the chief operating decision maker (CODM), who is the 
+President and Chief Executive Officer
+, to assess performance and to allocate resources. They are managed separately because each business manufactures at different stages in the electrical equipment manufacturing value chain and has different margins. 
+The CODM uses segment operating income to allocate resources such as employees and capital resources for each segment during the Company’s annual budgeting and forecasting process.
+ On a quarterly basis, the CODM considers variances in forecast to actual, prior quarter actual to current quarter actual, prior year quarter actual to current quarter actual, and the next quarter forecast to current quarter actual for segment operating income when making decisions about deploying personnel and capital resources to the segments. Separate segment asset measures are not used as a basis for the CODM to evaluate the performance of or to allocate resources to the segments.
+The PCB reportable segment consists of PCBs, engineered systems using customer-supplied engineering and design plans as well as long-term contracts related to the design and manufacture of highly sophisticated intelligence, surveillance, and communications solutions, components, assemblies, and subsystems. The RF&S Components reportable segment consists of components, assemblies, subsystems, and completed systems which service its RF&S Components and certain aerospace and defense customers.
+
+Effective January 1, 2025, the Company changed its organization structure to enhance clarity in sector performance, accountability, and operating costs by clearly allocating resources to either Aerospace and Defense, Commercial, or RF&S Components. To align the new operating model and business structure, the Company is making management organizational changes and implementing new reporting and processes to provide discrete information to manage the business. Management is currently evaluating the impact of this change in organization structure on its assessment of operating segments.
+Reconciliations of net sales and segment operating income were as follows:
+
+For the Year Ended December 30, 2024
+
+PCB
+
+RF&S Components
+
+Total
+
+(In thousands)
+
+Reconciliation of net sales
+
+Gross sales
+
+$
+
+2,414,983
+
+$
+
+37,317
+
+$
+
+2,452,300
+
+Less: Inter-segment sales
+
+(
+9,368
+
+)
+
+(
+179
+
+)
+
+(
+9,547
+
+)
+
+Net sales
+
+2,405,615
+
+37,138
+
+2,442,753
+
+Less:
+
+Cost of goods sold
+
+(
+1,918,001
+
+)
+
+(
+19,139
+
+)
+
+(
+1,937,140
+
+)
+
+Operating expenses
+
+(
+139,223
+
+)
+
+(
+9,511
+
+)
+
+(
+148,734
+
+)
+
+Segment operating income
+
+$
+
+348,391
+
+$
+
+8,488
+
+356,879
+
+Reconciliation of segment operating income
+
+Other profit or (loss) 
+(1)
+
+(
+33,479
+
+)
+
+Unallocated amounts:
+
+Stock-based compensation
+
+(
+29,780
+
+)
+
+Other corporate expenses
+
+(
+132,685
+
+)
+
+Amortization of definite-lived intangibles 
+(2)
+
+(
+44,892
+
+)
+
+Interest expense
+
+(
+47,515
+
+)
+
+Other, net
+
+15,421
+
+Income before income taxes
+
+$
+
+83,949
+
+85
+
+TTM TECHNOLOGIES, INC.
+
+Notes to Consolidated Financial Statements — (Continued)
+
+For the Year Ended January 1, 2024
+
+PCB
+
+RF&S Components
+
+Total
+
+(In thousands)
+
+Reconciliation of net sales
+
+Gross sales
+
+$
+
+2,199,547
+
+$
+
+38,619
+
+$
+
+2,238,166
+
+Less: Inter-segment sales
+
+(
+5,501
+
+)
+
+(
+98
+
+)
+
+(
+5,599
+
+)
+
+Net sales
+
+2,194,046
+
+38,521
+
+2,232,567
+
+Less:
+
+Cost of goods sold
+
+(
+1,771,811
+
+)
+
+(
+17,540
+
+)
+
+(
+1,789,351
+
+)
+
+Operating expenses
+
+(
+127,565
+
+)
+
+(
+10,124
+
+)
+
+(
+137,689
+
+)
+
+Segment operating income
+
+$
+
+294,670
+
+$
+
+10,857
+
+305,527
+
+Reconciliation of segment operating income
+
+Other profit or (loss) 
+(1)
+
+(
+65,994
+
+)
+
+Unallocated amounts:
+
+Stock-based compensation
+
+(
+22,887
+
+)
+
+Other corporate expenses
+
+(
+112,754
+
+)
+
+Amortization of definite-lived intangibles 
+(2)
+
+(
+61,576
+
+)
+
+Interest expense
+
+(
+48,124
+
+)
+
+Loss on extinguishment of debt
+
+(
+1,154
+
+)
+
+Gain on sale of subsidiary
+
+1,270
+
+Other, net
+
+5,989
+
+Income before income taxes
+
+$
+
+297
+
+For the Year Ended January 2, 2023
+
+PCB
+
+RF&S Components
+
+Total
+
+(In thousands)
+
+Reconciliation of net sales
+
+Gross sales
+
+$
+
+2,446,572
+
+$
+
+57,104
+
+$
+
+2,503,676
+
+Less: Inter-segment sales
+
+(
+8,630
+
+)
+
+—
+
+(
+8,630
+
+)
+
+Net sales
+
+2,437,942
+
+57,104
+
+2,495,046
+
+Less:
+
+Cost of goods sold
+
+(
+2,001,348
+
+)
+
+(
+21,509
+
+)
+
+(
+2,022,857
+
+)
+
+Operating expenses
+
+(
+123,655
+
+)
+
+(
+12,060
+
+)
+
+(
+135,715
+
+)
+
+Segment operating income
+
+$
+
+312,939
+
+$
+
+23,535
+
+336,474
+
+Reconciliation of segment operating income
+
+Other profit or (loss) 
+(1)
+
+46,306
+
+Unallocated amounts:
+
+Stock-based compensation
+
+(
+19,525
+
+)
+
+Other corporate expenses
+
+(
+110,216
+
+)
+
+Amortization of definite-lived intangibles 
+(2)
+
+(
+42,631
+
+)
+
+Interest expense
+
+(
+45,517
+
+)
+
+Other, net
+
+17,972
+
+Income before income taxes
+
+$
+
+182,863
+
+(1)
+Represents elimination of inter-segment sales, accelerated depreciation associated with plant closures, gain on sale of assets, unrealized gain/loss on commodity hedge, acquisition costs, non-cash goodwill impairment charge, restructuring, and purchase accounting related inventory markup.
+(2)
+Amortization of definite-lived intangibles relates to the PCB and RF&S Components reportable segments, but is not reviewed separately by the CODM. For the years ended 
+December 30, 2024, January 1, 2024, and January 2, 2023, amortization expense of 
+$
+9,342
+, $
+12,292
+, and 
+$
+3,442
+, respectively, is included in cost of goods sold for the PCB reportable segment. For the years ended January 1, 2024 and January 2, 2023, amortization expense of 
+$
+609
+ and 
+$
+2,092
+, respectively, is included in cost of goods sold for the RF&S Components reportable segment.
+
+86
+
+TTM TECHNOLOGIES, INC.
+
+Notes to Consolidated Financial Statements — (Continued)
+
+Depreciation expense by reportable segment was as follows:
+
+For the Year Ended
+
+December 30, 2024
+
+January 1, 2024
+
+January 2, 2023
+
+(In thousands)
+
+PCB
+
+$
+
+95,232
+
+$
+
+90,957
+
+$
+
+82,760
+
+RF&S Components
+
+1,693
+
+1,833
+
+1,798
+
+Segment total
+
+96,925
+
+92,790
+
+84,558
+
+Corporate
+
+8,308
+
+6,365
+
+6,718
+
+Total
+
+$
+
+105,233
+
+$
+
+99,155
+
+$
+
+91,276
+
+The Company markets and sells its products in approximately 
+60
+ countries. Other than in the United States and Taiwan, the Company does not conduct business in any country in which its net sales in that country exceed 
+10
+% of the Company’s total net sales. 
+Net sales are attributed to countries by country invoiced and were as follows:
+
+For the Year Ended
+
+December 30, 2024
+
+January 1, 2024
+
+January 2, 2023
+
+(In thousands)
+
+United States
+
+$
+
+1,232,288
+
+$
+
+1,263,065
+
+$
+
+1,224,334
+
+Taiwan
+
+274,345
+
+177,042
+
+127,657
+
+Other
+
+936,120
+
+792,460
+
+1,143,055
+
+Total
+
+$
+
+2,442,753
+
+$
+
+2,232,567
+
+$
+
+2,495,046
+
+Long-lived assets include property, plant, and equipment, goodwill, and definite-lived intangibles and were as follows:
+
+As of
+
+December 30, 2024
+
+January 1, 2024
+
+(In thousands)
+
+United States
+
+$
+
+1,171,611
+
+$
+
+1,235,255
+
+China
+
+357,159
+
+346,602
+
+Other
+
+203,141
+
+165,256
+
+Total
+
+$
+
+1,731,911
+
+$
+
+1,747,113
+
+(11)
+Accumulated Other Comprehensive Loss
+A summary of the components of accumulated other comprehensive loss, net of tax is as follows:
+
+Foreign Currency
+Translation
+
+Pension Obligation
+
+Cash Flow Hedges
+
+Total
+
+(In thousands)
+
+Balance as of January 2, 2023
+
+$
+
+(
+25,984
+
+)
+
+$
+
+1,279
+
+$
+
+(
+85
+
+)
+
+$
+
+(
+24,790
+
+)
+
+Other comprehensive (loss) income 
+   before reclassifications
+
+(
+6,876
+
+)
+
+1,251
+
+4,061
+
+(
+1,564
+
+)
+
+Amounts reclassified from accumulated 
+   other comprehensive loss
+
+—
+
+—
+
+(
+2,713
+
+)
+
+(
+2,713
+
+)
+
+Net year to date other comprehensive (loss) income
+
+(
+6,876
+
+)
+
+1,251
+
+1,348
+
+(
+4,277
+
+)
+
+Balance as of January 1, 2024
+
+(
+32,860
+
+)
+
+2,530
+
+1,263
+
+(
+29,067
+
+)
+
+Other comprehensive (loss) income
+   before reclassifications
+
+(
+897
+
+)
+
+1,082
+
+4,147
+
+4,332
+
+Amounts reclassified from accumulated 
+   other comprehensive loss
+
+—
+
+—
+
+(
+3,147
+
+)
+
+(
+3,147
+
+)
+
+Net year to date other comprehensive (loss) income
+
+(
+897
+
+)
+
+1,082
+
+1,000
+
+1,185
+
+Balance as of December 30, 2024
+
+$
+
+(
+33,757
+
+)
+
+$
+
+3,612
+
+$
+
+2,263
+
+$
+
+(
+27,882
+
+)
+
+87
+
+TTM TECHNOLOGIES, INC.
+
+Notes to Consolidated Financial Statements — (Continued)
+
+(12)
+Stock-Based Compensation
+Incentive Compensation Plan
+The Company maintains a 2023 Incentive Compensation Plan (the Plan), which allows for issuance of up to 
+5,100
+ shares through its latest possible expiration date in 
+May 2033
+.
+The Plan provides for the grant of PRUs, RSUs, and stock appreciation rights. The exercise price for awards is determined by the Compensation Committee of the Board of Directors. Each award shall vest and expire as determined by the Compensation Committee of the Board of Directors, with PRUs and RSUs generally vesting over 
+three years
+ for employees and 
+one year
+ for non‑employee directors. PRUs and RSUs do not have voting rights. All grants provide for accelerated vesting if there is a change in control, as defined in the Plan.
+As of December 30, 2024, 
+740
+ PRUs, 
+4,106
+ RSUs, and 
+60
+ stock options were outstanding under the Plan. Included in the 740 PRUs outstanding as of December 30, 2024
+ are 
+411
+ vested but not yet released. Included in the 4,106 RSUs outstanding as of December 30, 2024 are 
+641
+ vested but not yet released RSUs associated with non-employee directors. These RSUs vest over one year with release of the underlying shares of common stock deferred until retirement from the Board of Directors (or until one year after retirement in the case of certain prior grants).
+Performance-based Restricted Stock Units
+The Company maintains a long-term incentive program for executives that provides for the issuance of PRUs, representing hypothetical shares of the Company’s common stock that may be issued. Under the PRU program, a target number of PRUs is awarded at the beginning of each 
+three-year
+ performance period. The number of shares of common stock released at the end of the performance period depends on performance during the period and may range from 
+zero
+ to 
+2.4
+ times the target number for PRUs awarded before 2023 and 
+zero
+ to 
+2.0
+ times the target number for PRUs awarded in 2023 and thereafter. For PRUs awarded before 2023, the performance metrics of the PRU program are based on (1) annual financial targets, which are based on revenue and earnings before interest, tax, depreciation, and amortization expense (EBITDA), each equally weighted, and (2) an overall modifier based on the Company’s total stockholder return (TSR) relative to a group of peer companies selected by the Company’s Compensation Committee, over the three year performance period. For PRUs awarded in 2023 and thereafter, the performance metrics of the PRU program are based on (1) annual financial targets, which are based on revenue and EBITDA, each equally weighted, and (2) the three-year TSR performance result, which will be an additive component to the Company’s financial results of the aggregated three-year measurement period.
+
+Under the PRU program, financial goals with respect to one or more target milestones are set at the beginning of each year and performance is reviewed at the end of that year. The percentage to be applied to each participant’s target award ranges from 
+zero
+ to 
+160
+% for PRUs awarded before 2023 and 
+zero
+ to 
+200
+% for PRUs awarded in 2023 and thereafter, based upon the extent to which the target milestones are achieved. If specific performance threshold levels for the target milestones are met, the amount earned for that element over the three-year performance period will be applied equally for PRUs awarded before 2023 and 
+80
+% for PRUs awarded in 2023 and thereafter, of the participants’ PRU award to determine the number of units earned.
+At the end of the three-year performance period, the total units earned, if any, are adjusted by the TSR calculation. The TSR calculation is a percentage ranging from 
+zero
+ to 
+150
+% for PRUs awarded before 2023 and 
+zero
+ to 
+200
+% for PRUs awarded in 2023 and thereafter, determined on the Company’s TSR based on stock price changes relative to a group of peer companies selected by the Company’s Compensation Committee for the same three-year period. For outstanding PRU awards granted before 2023, the TSR is used as an overall modifier of the three-year performance period such that the base calculations are multiplied by the TSR modifier, ranging from 
+zero
+ to 
+200
+%, based on the relative performance of the Company’s stock price as compared to its TSR peer group. For PRUs awarded in 2023 and thereafter, the TSR calculation will be applied to 
+20
+% of the participants’ PRU award to determine the number of additional units earned.
+Recipients of PRU awards generally must remain employed by the Company on a continuous basis through the end of the three‑year performance period in order to receive any amount of the PRUs covered by that award. In events such as death, disability, or retirement, the recipient may be entitled to pro-rata amounts of PRUs as defined in the Plan. Target shares subject to PRU awards do not have voting rights of common stock until earned and issued following the end of the three-year performance period.
+
+88
+
+TTM TECHNOLOGIES, INC.
+
+Notes to Consolidated Financial Statements — (Continued)
+
+The Company records stock-based compensation expense for PRU awards granted based on management’s periodic assessment of the annual financial performance goals to be achieved. As of December 30, 2024
+, management determined that vesting of the PRU awards was probable. 
+PRU activity for the year ended 
+December 30, 2024 was as follows:
+
+Shares
+
+Weighted Average
+Fair Value
+
+(In thousands)
+
+Outstanding shares as of January 1, 2024
+
+342
+
+$
+
+15.64
+
+Granted
+
+351
+
+19.51
+
+Vested
+
+(
+411
+
+)
+
+15.23
+
+Forfeited / cancelled
+
+(
+15
+
+)
+
+15.23
+
+Change in units due to annual performance achievement
+
+62
+
+14.81
+
+Outstanding shares as of December 30, 2024
+
+329
+
+$
+
+20.14
+
+The fair value of PRUs granted is calculated using a Monte Carlo simulation model, as the TSR modifier contains a market condition.
+ The following assumptions were used in determining the fair value:
+
+For the Year Ended
+
+December 30, 2024 
+(1)
+
+January 1, 2024 
+(2)
+
+January 2, 2023 
+(3)
+
+Weighted-average fair value
+
+$
+
+19.51
+
+$
+
+16.36
+
+$
+
+15.02
+
+Risk-free interest rate
+
+4.42
+
+%
+
+4.46
+
+%
+
+1.44
+
+%
+
+Dividend yield
+
+—
+
+—
+
+—
+
+Expected volatility
+
+41
+
+%
+
+42
+
+%
+
+30
+
+%
+
+(1)
+Reflects the weighted-averages for the third year of the three-year performance period applicable to PRUs granted in 2022, the second year of the three-year performance period applicable to PRUs granted in 2023, and the first year of the three-year performance period applicable to PRUs granted in 2024.
+(2)
+Reflects the weighted-averages for the third year of the three-year performance period applicable to PRUs granted in 2021, the second year of the three-year performance period applicable to PRUs granted in 2022, and the first year of the three-year performance period applicable to PRUs granted in 2023.
+(3)
+Reflects the weighted-averages for the third year of the three-year performance period applicable to PRUs granted in 2020, the second year of the three-year performance period applicable to PRUs granted in 2021, and the first year of the three-year performance period applicable to PRUs granted in 2022.
+The risk-free interest rate for the expected term of PRUs is based on the U.S. Treasury yield curve in effect at the time of grant. Expected volatility is calculated using the Company’s historical stock price.
+Restricted Stock Units
+RSU activity for the year ended 
+December 30, 2024 was as follows:
+
+Shares
+
+Weighted Average
+Grant-Date Fair Value
+
+(In thousands)
+
+Non-vested RSUs outstanding as of January 1, 2024
+
+3,453
+
+$
+
+13.52
+
+Granted
+
+1,794
+
+19.32
+
+Vested
+
+(
+1,615
+
+)
+
+18.93
+
+Cancelled
+
+(
+167
+
+)
+
+14.89
+
+Non-vested RSUs outstanding as of December 30, 2024
+
+3,465
+
+$
+
+16.47
+
+Vested and expected to vest through 
+2027
+ as of December 30, 2024
+
+4,106
+
+$
+
+15.78
+
+The fair value of the Company’s RSUs is determined based upon the closing common stock price on the grant date. The weighted average fair value per unit of RSUs granted was 
+$
+19.32
+, 
+$
+13.85
+, and 
+$
+12.72
+ for the years ended December 30, 2024, January 1, 2024, and January 2, 2023, respectively. The total fair value of RSUs vested for the years ended December 30, 2024, January 1, 2024, and January 2, 2023 was 
+$
+30,575
+, 
+$
+19,928
+, and 
+$
+15,510
+, respectively.
+Stock Options
+As of December 30, 2024
+, stock options outstanding was 
+60
+. This is not material to the consolidated financial statements of the Company.
+
+89
+
+TTM TECHNOLOGIES, INC.
+
+Notes to Consolidated Financial Statements — (Continued)
+
+Stock-based Compensation Expense and Unrecognized Compensation Costs
+Stock-based compensation expense recognized in the accompanying consolidated statements of operations was as follows:
+
+For the Year Ended
+
+December 30, 2024
+
+January 1, 2024
+
+January 2, 2023
+
+(In thousands)
+
+Cost of goods sold
+
+$
+
+9,342
+
+$
+
+7,455
+
+$
+
+5,846
+
+Selling and marketing
+
+3,845
+
+3,205
+
+2,749
+
+General and administrative
+
+15,322
+
+11,088
+
+9,808
+
+Research and development
+
+1,271
+
+1,139
+
+1,122
+
+Total
+
+$
+
+29,780
+
+$
+
+22,887
+
+$
+
+19,525
+
+A summary of total unrecognized compensation costs as of 
+December 30, 2024 was as follows:
+
+Unrecognized Stock-Based
+Compensation Cost
+
+Remaining Weighted Average
+Recognition Period
+
+(In thousands)
+
+(In years)
+
+RSU awards
+
+$
+
+42,838
+
+4.9
+
+PRU awards
+
+12,418
+
+1.6
+
+Total
+
+$
+
+55,256
+
+(13)
+Fair Value Measures
+The Company measures at fair value its financial and non-financial assets by using a fair value hierarchy that prioritizes the inputs to valuation techniques used to measure fair value. Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date, essentially an exit price, based on the highest and best use of the asset or liability.
+The carrying amount and estimated fair value of the Company’s financial instruments were as follows:
+
+As of December 30, 2024
+
+As of January 1, 2024
+
+Carrying Amount
+
+Fair Value
+
+Carrying Amount
+
+Fair Value
+
+(In thousands)
+
+Derivative assets, current
+
+$
+
+1,765
+
+$
+
+1,765
+
+$
+
+3,282
+
+$
+
+3,282
+
+Derivative assets, non-current
+
+1,326
+
+1,326
+
+—
+
+—
+
+Derivative liabilities, current
+
+667
+
+667
+
+297
+
+297
+
+Derivative liabilities, non-current
+
+—
+
+—
+
+1,476
+
+1,476
+
+Senior Notes due March 2029
+
+496,638
+
+464,325
+
+495,915
+
+455,035
+
+Term Loan due May 2030
+
+339,205
+
+346,930
+
+341,921
+
+351,743
+
+ABL Revolving Loans
+
+80,000
+
+80,000
+
+80,000
+
+80,000
+
+Other loan
+
+2,311
+
+2,311
+
+—
+
+—
+
+The fair value of the derivative instruments was determined using pricing models developed based on the 1-month CME Term SOFR swap rate, foreign currency exchange rates, and other observable market data, including quoted market prices, as appropriate using Level 2 inputs. The values were adjusted to reflect non-performance risk of both the counterparty and the Company, as necessary.
+The fair value of the long-term debt was estimated based on quoted market prices or discounting the debt over its life using current market rates for similar debt as of December 30, 2024 and January 1, 2024, which are considered Level 2 inputs.
+The fair value of plan assets in the defined benefit plan of 
+$
+23,297
+ and 
+$
+23,249
+ as of December 30, 2024 and January 1, 2024, respectively, were not included in the table above and was estimated based on quoted market prices of the securities that are actively traded and price quotes that are readily available, which are considered Level 1 inputs.
+As of December 30, 2024 and January 1, 2024, the Company’s other financial instruments included cash and cash equivalents, accounts receivable, contract assets, accounts payable, and contract liabilities. The carrying amount of these instruments approximates fair value.
+
+90
+
+TTM TECHNOLOGIES, INC.
+
+Notes to Consolidated Financial Statements — (Continued)
+
+The majority of the Company’s non-financial assets and liabilities, which include goodwill, intangible assets, inventories, and property, plant, and equipment, are not required to be carried at fair value on a recurring basis. However, if certain triggering events occur (or are tested at least annually in the case of goodwill) such that a non-financial instrument is required to be evaluated for impairment, based upon a comparison of the non-financial instrument’s fair value to its carrying value, an impairment is recorded to reduce the carrying value to the fair value, if the carrying value exceeds the fair value.
+As of December 30, 2024 and January 1, 2024, the Company’s goodwill balance related to its RF&S Components reporting unit of 
+$
+31,300
+ and $
+63,900
+, respectively, was measured at fair value on a nonrecurring basis. The Company recorded a non-cash goodwill impairment charge of 
+$
+32,600
+ and 
+$
+44,100
+ related to its RF&S Components reporting unit during the years ended December 30, 2024 and January 1, 2024, respectively. The fair value of goodwill was determined using both a DCF and a market approach, which are considered Level 3 inputs. The Company used risk adjusted discount rate of 
+12
+%
+ to discount the expected future cash flows in both 2024 and 2023. There was 
+no
+ impairment of long-lived assets recognized for the years ended December 30, 2024, January 1, 2024, and January 2, 2023
+.
+
+(14)
+Commitments and Contingencies
+Legal Matters
+The Company is subject to various legal matters, which it considers normal for its business activities. While the Company currently believes that the amount of any reasonably possible loss for known matters would not be material to the Company’s financial condition, the outcome of these actions is inherently difficult to predict. In the event of an adverse outcome, the ultimate potential loss could have a material adverse effect on the Company’s financial condition or results of operations in a particular period. The Company has accrued amounts for its loss contingencies which are probable and estimable as of December 30, 2024 and January 1, 2024 and included as a component of other current liabilities. However, these amounts are not material to the consolidated financial statements of the Company.
+Offset Agreements
+The Company has and may continue to enter into industrial cooperation agreements, sometimes referred to as offset agreements, as a condition to obtaining orders for products and services from customers in foreign countries. These agreements are intended to promote investment in the applicable country, and the Company’s obligations under these agreements may be satisfied through activities that do not require the Company to use cash, including transferring technology or providing manufacturing and other consulting support. The obligations under these agreements may also be satisfied through the use of cash for activities such as purchasing supplies from in-country vendors, setting up support centers, research and development investments, acquisitions, and building or leasing facilities for in-country operations. The amount of the offset requirement is determined by contract value awarded and negotiated percentages with customers. As of December 30, 2024, the Company had outstanding offset agreements of approximately 
+$
+27,268
+, some of which extend through 2028. Offset programs usually extend over several years and in some cases provide for penalties in the event the Company fails to perform in accordance with contract requirements. To date, the Company has not been obligated to pay any such penalties.
+Supplier Finance Program Obligations
+The Company has agreements with financial institutions to facilitate payments to certain suppliers. Under the terms of the agreements, the Company confirms the validity of each supplier invoice to the respective financial institution upon receipt. The supplier receives payment from the financial institution, and the Company pays the financial institution based on the terms negotiated, which generally range from 
+160
+ days to 
+360
+ days
+. Liabilities associated with these agreements are recorded in accounts payable on the consolidated balance sheets and amounted to 
+$
+17,218
+ and 
+$
+18,832
+ as of December 30, 2024 and January 1, 2024, respectively.
+The details of the outstanding obligations confirmed as valid under the Company’s supplier finance program are as follows:
+
+For the Year Ended December 30, 2024
+
+(In thousands)
+
+Confirmed obligations
+ outstanding at beginning of year
+
+$
+
+18,832
+
+Invoices confirmed during the year
+
+22,887
+
+Confirmed invoices paid during the year
+
+(
+24,983
+
+)
+
+Effect of foreign currency exchange rates
+
+482
+
+Confirmed obligations outstanding at end of year
+
+$
+
+17,218
+
+91
+
+TTM TECHNOLOGIES, INC.
+
+Notes to Consolidated Financial Statements — (Continued)
+
+(15)
+Earnings (Loss) Per Share
+The reconciliation of the numerator and denominator used to calculate basic earnings (loss) per share and diluted earnings (loss) per share is as follows:
+
+For the Year Ended
+
+December 30, 2024
+
+January 1, 2024
+
+January 2, 2023
+
+(In thousands, except per share amounts)
+
+Net income (loss)
+
+$
+
+56,299
+
+$
+
+(
+18,718
+
+)
+
+$
+
+94,583
+
+Basic weighted average shares
+
+101,781
+
+102,744
+
+102,074
+
+Dilutive effect of PRUs, RSUs, and 
+   stock options
+
+2,317
+
+—
+
+1,791
+
+Dilutive effect of outstanding warrants
+
+—
+
+—
+
+1
+
+Diluted shares
+
+104,098
+
+102,744
+
+103,866
+
+Earnings (loss) per share:
+
+Basic earnings (loss) per share
+
+$
+
+0.55
+
+$
+
+(
+0.18
+
+)
+
+$
+
+0.93
+
+Diluted earnings (loss) per share
+
+0.54
+
+(
+0.18
+
+)
+
+0.91
+
+For the years ended December 30, 2024 and January 2, 2023, PRUs, RSUs, and stock options to purchase 
+158
+ and 
+535
+ shares of common stock, respectively, were not included in the computation of diluted earnings per share. The PRUs were not included in the computation of diluted earnings per share because the performance conditions had not been met, and for the RSUs and stock options, the options’ exercise prices or the total expected proceeds under the treasury stock method was greater than the average market price of common stock during the applicable year and, as a result, the impact would be anti-dilutive.
+For the year ended January 1, 2024, potential shares of common stock, consisting of stock options to purchase 
+60
+ shares of common stock at exercise prices ranging from 
+$
+11.83
+ to $
+16.60
+ per share, 
+3,527
+ RSUs, and 
+668
+ PRUs were not included in the computation of diluted earnings per share because the Company incurred a net loss and as a result, the impact would be anti-dilutive.
+
+(16)
+Restructuring Charges
+On February 8, 2023, the Company announced a consolidation plan, pursuant to which the Company ceased operations at 
+three
+ of its manufacturing facilities during the year ended 
+January 1, 2024
+ and consolidated the operations of those facilities into other Company facilities. The 
+three
+ manufacturing facilities are PCB operations located in Anaheim and Santa Clara, California, and Hong Kong. The Company recorded 
+$
+27,439
+ of restructuring charges and 
+$
+6,032
+ of accelerated depreciation since the February 8, 2023 announcement.
+In addition to this consolidation plan, the Company recognized employee separation, contract termination, and other costs during the year ended December 30, 2024 in connection with other global realignment restructuring efforts. Contract termination and other costs primarily represented plant closure costs.
+Restructuring costs by reportable segment were as follows:
+
+For the Year Ended
+
+December 30, 2024
+
+January 1, 2024
+
+January 2, 2023
+
+Employee Separation/
+Severance
+
+Contract Termination
+and Other Costs
+
+Total
+
+Employee Separation/
+Severance
+
+Contract Termination
+and Other Costs
+
+Total
+
+Employee Separation/
+Severance
+
+Contract Termination
+and Other Costs
+
+Total
+
+(In thousands)
+
+PCB
+
+$
+
+466
+
+$
+
+7,640
+
+$
+
+8,106
+
+$
+
+13,780
+
+$
+
+9,877
+
+$
+
+23,657
+
+$
+
+2,510
+
+$
+
+1,036
+
+$
+
+3,546
+
+RF&S Components
+
+—
+
+—
+
+—
+
+14
+
+—
+
+14
+
+—
+
+—
+
+—
+
+Corporate and Other
+
+2,411
+
+683
+
+3,094
+
+305
+
+376
+
+681
+
+31
+
+517
+
+548
+
+Total
+
+$
+
+2,877
+
+$
+
+8,323
+
+$
+
+11,200
+
+$
+
+14,099
+
+$
+
+10,253
+
+$
+
+24,352
+
+$
+
+2,541
+
+$
+
+1,553
+
+$
+
+4,094
+
+92
+
+TTM TECHNOLOGIES, INC.
+
+Notes to Consolidated Financial Statements — (Continued)
+
+Accrued restructuring costs are included as a component of other current liabilities in the consolidated balance sheet. The utilization of the accrued restructuring costs was as follows:
+
+Employee Separation/
+Severance
+
+Contract Termination
+and Other Costs
+
+Total
+
+(In thousands)
+
+Accrued as of January 2, 2023
+
+$
+
+2,510
+
+$
+
+3
+
+$
+
+2,513
+
+Charged to expense
+
+14,099
+
+10,253
+
+24,352
+
+Amount paid, net of government contributions eligible for offsetting
+
+(
+15,615
+
+)
+
+(
+10,071
+
+)
+
+(
+25,686
+
+)
+
+Accrued as of January 1, 2024
+
+994
+
+185
+
+1,179
+
+Charged to expense
+
+2,877
+
+8,323
+
+11,200
+
+Amount paid
+
+(
+794
+
+)
+
+(
+8,099
+
+)
+
+(
+8,893
+
+)
+
+Accrued as of December 30, 2024
+
+$
+
+3,077
+
+$
+
+409
+
+$
+
+3,486
+
+(17)
+Preferred Stock
+The Board of Directors has the authority, without action by stockholders, to designate and issue preferred stock in one or more series. The Board of Directors may also designate the rights, preferences, and privileges of each series of preferred stock, any or all of which may be superior to the rights of the common stock. As of December 30, 2024
+, 
+no
+ shares of preferred stock were outstanding.
+
+93

@@ -1,0 +1,4856 @@
+AVNET, INC._September 27, 2025
+http://fasb.org/us-gaap/2025#TechnologyServiceMember
+http://fasb.org/us-gaap/2025#TechnologyServiceMember
+http://fasb.org/us-gaap/2025#PrepaidExpenseAndOtherAssetsCurrent
+http://fasb.org/us-gaap/2025#AccruedLiabilitiesCurrent
+http://fasb.org/us-gaap/2025#OtherLiabilitiesNoncurrent
+http://fasb.org/us-gaap/2025#OtherNonoperatingIncomeExpense
+http://fasb.org/us-gaap/2025#TechnologyServiceMember
+http://fasb.org/us-gaap/2025#TechnologyServiceMember
+http://fasb.org/us-gaap/2025#PrepaidExpenseAndOtherAssetsCurrent
+http://fasb.org/us-gaap/2025#AccruedLiabilitiesCurrent
+http://fasb.org/us-gaap/2025#OtherLiabilitiesNoncurrent
+http://fasb.org/us-gaap/2025#OtherNonoperatingIncomeExpense
+http://www.avnet.com/20250927#RestructuringIntegrationAndOtherCharges
+0000008858
+--06-27
+false
+2026
+Q1
+0000008858
+2025-09-05
+2025-09-05
+0000008858
+us-gaap:AdditionalPaidInCapitalMember
+2025-06-29
+2025-09-27
+0000008858
+us-gaap:AdditionalPaidInCapitalMember
+2024-06-30
+2024-09-28
+0000008858
+us-gaap:CommonStockMember
+2025-06-29
+2025-09-27
+0000008858
+us-gaap:CommonStockMember
+2024-06-30
+2024-09-28
+0000008858
+us-gaap:RetainedEarningsMember
+2025-09-27
+0000008858
+us-gaap:AdditionalPaidInCapitalMember
+2025-09-27
+0000008858
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-09-27
+0000008858
+us-gaap:RetainedEarningsMember
+2025-06-28
+0000008858
+us-gaap:AdditionalPaidInCapitalMember
+2025-06-28
+0000008858
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-06-28
+0000008858
+us-gaap:RetainedEarningsMember
+2024-09-28
+0000008858
+us-gaap:AdditionalPaidInCapitalMember
+2024-09-28
+0000008858
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-09-28
+0000008858
+us-gaap:RetainedEarningsMember
+2024-06-29
+0000008858
+us-gaap:AdditionalPaidInCapitalMember
+2024-06-29
+0000008858
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-06-29
+0000008858
+avt:TermLoanCurrentPortionMember
+2025-06-29
+2025-09-27
+0000008858
+avt:OtherShortTermDebtMember
+2025-06-29
+2025-09-27
+0000008858
+avt:OtherShortTermDebtMember
+2024-06-30
+2025-06-28
+0000008858
+us-gaap:EMEAMember
+2025-06-29
+2025-09-27
+0000008858
+srt:AsiaMember
+2025-06-29
+2025-09-27
+0000008858
+srt:AmericasMember
+2025-06-29
+2025-09-27
+0000008858
+us-gaap:EMEAMember
+2024-06-30
+2024-09-28
+0000008858
+srt:AsiaMember
+2024-06-30
+2024-09-28
+0000008858
+srt:AmericasMember
+2024-06-30
+2024-09-28
+0000008858
+avt:FiscalYear2025RestructuringLiabilitiesMember
+2025-06-28
+0000008858
+avt:FiscalYear2025RestructuringLiabilitiesMember
+2024-09-28
+0000008858
+us-gaap:OtherRestructuringMember
+avt:FiscalYear2026RestructuringLiabilitiesMember
+2025-06-29
+2025-09-27
+0000008858
+avt:FiscalYear2026RestructuringLiabilitiesMember
+avt:ElectronicComponentsMember
+2025-06-29
+2025-09-27
+0000008858
+srt:MinimumMember
+avt:FiscalYear2026RestructuringLiabilitiesMember
+2025-06-29
+2025-09-27
+0000008858
+us-gaap:EMEAMember
+2025-09-27
+0000008858
+srt:AsiaMember
+2025-09-27
+0000008858
+srt:AmericasMember
+2025-09-27
+0000008858
+us-gaap:EMEAMember
+2025-06-28
+0000008858
+srt:AsiaMember
+2025-06-28
+0000008858
+srt:AmericasMember
+2025-06-28
+0000008858
+us-gaap:EmployeeSeveranceMember
+avt:FiscalYear2026RestructuringLiabilitiesMember
+2025-06-29
+2025-09-27
+0000008858
+avt:FiscalYear2026RestructuringLiabilitiesMember
+2025-06-29
+2025-09-27
+0000008858
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-06-29
+2025-09-27
+0000008858
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-06-30
+2024-09-28
+0000008858
+us-gaap:ForeignExchangeForwardMember
+2025-06-29
+2025-09-27
+0000008858
+us-gaap:CrossCurrencyInterestRateContractMember
+2025-06-29
+2025-09-27
+0000008858
+us-gaap:ForeignExchangeForwardMember
+2024-06-30
+2024-09-28
+0000008858
+us-gaap:CrossCurrencyInterestRateContractMember
+2024-06-30
+2024-09-28
+0000008858
+us-gaap:OperatingSegmentsMember
+2025-06-29
+2025-09-27
+0000008858
+us-gaap:OperatingSegmentsMember
+2024-06-30
+2024-09-28
+0000008858
+avt:MexicoConsumptionTaxAuditMember
+2025-06-28
+0000008858
+avt:TermLoanMember
+us-gaap:RevolvingCreditFacilityMember
+2025-06-29
+2025-09-27
+0000008858
+avt:AccountsReceivableSecuritizationProgramMember
+us-gaap:RevolvingCreditFacilityMember
+2025-06-29
+2025-09-27
+0000008858
+us-gaap:LineOfCreditMember
+us-gaap:RevolvingCreditFacilityMember
+2024-06-30
+2025-06-28
+0000008858
+avt:AccountsReceivableSecuritizationProgramMember
+us-gaap:RevolvingCreditFacilityMember
+2024-06-30
+2025-06-28
+0000008858
+us-gaap:LineOfCreditMember
+avt:NotesPayableInCertainApprovedCurrenciesMember
+2025-09-27
+0000008858
+us-gaap:LineOfCreditMember
+us-gaap:LetterOfCreditMember
+2025-09-27
+0000008858
+us-gaap:LineOfCreditMember
+us-gaap:LetterOfCreditMember
+2025-06-28
+0000008858
+us-gaap:CrossCurrencyInterestRateContractMember
+us-gaap:NetInvestmentHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-06-29
+2025-09-27
+0000008858
+us-gaap:CrossCurrencyInterestRateContractMember
+us-gaap:NetInvestmentHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-06-30
+2024-09-28
+0000008858
+avt:PremierFarnellMember
+2025-06-29
+2025-09-27
+0000008858
+avt:ElectronicComponentsMember
+2025-06-29
+2025-09-27
+0000008858
+avt:PremierFarnellMember
+2025-09-27
+0000008858
+avt:ElectronicComponentsMember
+2025-09-27
+0000008858
+avt:PremierFarnellMember
+2025-06-28
+0000008858
+avt:ElectronicComponentsMember
+2025-06-28
+0000008858
+avt:O2025Q3DividendsMember
+2025-09-27
+0000008858
+us-gaap:RetainedEarningsMember
+2025-06-29
+2025-09-27
+0000008858
+us-gaap:RetainedEarningsMember
+2024-06-30
+2024-09-28
+0000008858
+srt:MinimumMember
+us-gaap:ForeignExchangeForwardMember
+2025-06-29
+2025-09-27
+0000008858
+srt:MaximumMember
+us-gaap:ForeignExchangeForwardMember
+2025-06-29
+2025-09-27
+0000008858
+us-gaap:CrossCurrencyInterestRateContractMember
+2025-09-27
+0000008858
+us-gaap:CrossCurrencyInterestRateContractMember
+us-gaap:NetInvestmentHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-09-27
+0000008858
+us-gaap:CrossCurrencyInterestRateContractMember
+us-gaap:NetInvestmentHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-06-28
+0000008858
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NotDesignatedAsHedgingInstrumentEconomicHedgeMember
+2025-06-29
+2025-09-27
+0000008858
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NotDesignatedAsHedgingInstrumentEconomicHedgeMember
+2024-06-30
+2024-09-28
+0000008858
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NotDesignatedAsHedgingInstrumentEconomicHedgeMember
+2025-09-27
+0000008858
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NotDesignatedAsHedgingInstrumentEconomicHedgeMember
+2025-06-28
+0000008858
+us-gaap:OtherNonoperatingIncomeExpenseMember
+2025-06-29
+2025-09-27
+0000008858
+us-gaap:OtherNonoperatingIncomeExpenseMember
+2024-06-30
+2024-09-28
+0000008858
+avt:NoncontributoryDefinedBenefitPensionPlanMember
+2025-09-27
+0000008858
+avt:NoncontributoryDefinedBenefitPensionPlanMember
+2025-06-29
+2025-09-27
+0000008858
+us-gaap:LineOfCreditMember
+us-gaap:RevolvingCreditFacilityMember
+2025-06-29
+2025-09-27
+0000008858
+avt:TermLoanMember
+us-gaap:RevolvingCreditFacilityMember
+2025-06-29
+2025-07-26
+0000008858
+avt:TermLoanMember
+us-gaap:RevolvingCreditFacilityMember
+2025-07-26
+0000008858
+avt:ConvertibleNotesDueSeptember2030Member
+avt:OtherLongTermDebtMember
+2025-08-24
+2025-09-27
+0000008858
+avt:ConvertibleNotesDueSeptember2030Member
+avt:OtherLongTermDebtMember
+2025-09-27
+0000008858
+avt:TermLoanCurrentPortionMember
+2025-09-27
+0000008858
+avt:OtherShortTermDebtMember
+2025-09-27
+0000008858
+avt:OtherShortTermDebtMember
+2025-06-28
+0000008858
+us-gaap:OperatingSegmentsMember
+avt:PremierFarnellMember
+2025-06-29
+2025-09-27
+0000008858
+us-gaap:OperatingSegmentsMember
+avt:ElectronicComponentsMember
+2025-06-29
+2025-09-27
+0000008858
+us-gaap:OperatingSegmentsMember
+avt:PremierFarnellMember
+2024-06-30
+2024-09-28
+0000008858
+us-gaap:OperatingSegmentsMember
+avt:ElectronicComponentsMember
+2024-06-30
+2024-09-28
+0000008858
+us-gaap:CommonStockMember
+2025-09-27
+0000008858
+us-gaap:CommonStockMember
+2025-06-28
+0000008858
+us-gaap:CommonStockMember
+2024-09-28
+0000008858
+us-gaap:CommonStockMember
+2024-06-29
+0000008858
+avt:O2025Q3DividendsMember
+2025-06-29
+2025-09-27
+0000008858
+us-gaap:OperatingSegmentsMember
+avt:PremierFarnellMember
+2025-09-27
+0000008858
+us-gaap:OperatingSegmentsMember
+avt:ElectronicComponentsMember
+2025-09-27
+0000008858
+us-gaap:CorporateNonSegmentMember
+2025-09-27
+0000008858
+us-gaap:OperatingSegmentsMember
+avt:PremierFarnellMember
+2025-06-28
+0000008858
+us-gaap:OperatingSegmentsMember
+avt:ElectronicComponentsMember
+2025-06-28
+0000008858
+us-gaap:CorporateNonSegmentMember
+2025-06-28
+0000008858
+2024-06-29
+0000008858
+avt:AccountsReceivableSecuritizationProgramMember
+us-gaap:RevolvingCreditFacilityMember
+2025-09-27
+0000008858
+2025-10-25
+0000008858
+2024-09-28
+0000008858
+2025-06-29
+2025-08-23
+0000008858
+us-gaap:OtherRestructuringMember
+avt:FiscalYear2026RestructuringLiabilitiesMember
+2025-09-27
+0000008858
+us-gaap:EmployeeSeveranceMember
+avt:FiscalYear2026RestructuringLiabilitiesMember
+2025-09-27
+0000008858
+avt:FiscalYear2026RestructuringLiabilitiesMember
+2025-09-27
+0000008858
+2024-06-30
+2025-06-28
+0000008858
+us-gaap:LineOfCreditMember
+us-gaap:RevolvingCreditFacilityMember
+2025-09-27
+0000008858
+avt:TermLoanMember
+us-gaap:RevolvingCreditFacilityMember
+2025-09-27
+0000008858
+avt:NotesDueMay2031Member
+us-gaap:NotesPayableOtherPayablesMember
+2025-09-27
+0000008858
+avt:NotesDueMarch20281Member
+us-gaap:NotesPayableOtherPayablesMember
+2025-09-27
+0000008858
+avt:NotesDueJune2032Member
+us-gaap:NotesPayableOtherPayablesMember
+2025-09-27
+0000008858
+avt:NotesDueApril2026Member
+us-gaap:NotesPayableOtherPayablesMember
+2025-09-27
+0000008858
+avt:ConvertibleNotesDueSeptember2030Member
+us-gaap:NotesPayableOtherPayablesMember
+2025-09-27
+0000008858
+avt:OtherLongTermDebtMember
+2025-09-27
+0000008858
+2025-09-27
+0000008858
+us-gaap:LineOfCreditMember
+us-gaap:RevolvingCreditFacilityMember
+2025-06-28
+0000008858
+avt:NotesDueMay2031Member
+us-gaap:NotesPayableOtherPayablesMember
+2025-06-28
+0000008858
+avt:NotesDueMarch20281Member
+us-gaap:NotesPayableOtherPayablesMember
+2025-06-28
+0000008858
+avt:NotesDueJune2032Member
+us-gaap:NotesPayableOtherPayablesMember
+2025-06-28
+0000008858
+avt:NotesDueApril2026Member
+us-gaap:NotesPayableOtherPayablesMember
+2025-06-28
+0000008858
+avt:AccountsReceivableSecuritizationProgramMember
+us-gaap:RevolvingCreditFacilityMember
+2025-06-28
+0000008858
+avt:OtherLongTermDebtMember
+2025-06-28
+0000008858
+2025-06-28
+0000008858
+us-gaap:CorporateNonSegmentMember
+2025-06-29
+2025-09-27
+0000008858
+us-gaap:CorporateNonSegmentMember
+2024-06-30
+2024-09-28
+0000008858
+2024-06-30
+2024-09-28
+0000008858
+2025-06-29
+2025-09-27
+iso4217:USD
+avt:item
+xbrli:pure
+xbrli:shares
+iso4217:USD
+xbrli:shares
+iso4217:EUR
+avt:segment
+Table of Contents
+​
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+​
+FORM 
+10-Q
+​
+​
+​
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+​
+​
+For the quarterly period ended 
+September 27, 2025
+​
+​
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+​
+​
+For the transition period from _____ to _____
+Commission File #
+1-4224
+AVNET
+, 
+INC.
+(Exact name of registrant as specified in its charter)
+New York
+
+11-1890605
+(State or other jurisdiction
+
+(IRS Employer
+of incorporation or organization)
+
+Identification No.)
+​
+2211 South 47th Street
+, 
+Phoenix
+, 
+Arizona
+
+85034
+(Address of principal executive offices)
+
+(Zip Code)
+(
+480
+) 
+643-2000
+(Registrant’s telephone number, including area code.)
+​
+N/A
+(Former name, former address and former fiscal year, if changed since last report.)
+Securities registered pursuant to Section 12(b) of the Act:
+​
+Title of Each Class
+
+Trading Symbol
+
+Name of Each Exchange on Which registered:
+Common stock, par value $1.00 per share
+
+AVT
+
+Nasdaq Global Select Market
+​
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+Yes
+
+☑
+ No 
+☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+Yes
+
+þ
+ No 
+◻
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer”, “accelerated filer”, “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large Accelerated Filer
+
+☑
+
+Accelerated Filer 
+☐
+
+Non-accelerated Filer 
+☐
+​
+Smaller Reporting Company 
+☐
+​
+Emerging Growth Company 
+☐
+​
+​
+​
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes 
+☐
+ No 
+☑
+As of October 25, 2025, the total number of shares outstanding of the registrant’s Common Stock was 
+81,329,466
+ shares, net of treasury shares.
+​
+​
+​
+​
+
+Table of Contents
+AVNET, INC. AND SUBSIDIARIES
+INDEX
+​
+​
+Page No.
+PART I. FINANCIAL INFORMATION
+​
+​
+​
+Item 1. Financial Statements (Unaudited)
+​
+​
+​
+Consolidated Balance Sheets at September 27, 2025, and June 28, 2025
+2
+​
+​
+Consolidated Statements of Operations for the first quarters ended September 27, 2025, and September 28, 2024
+3
+​
+​
+Consolidated Statements of Comprehensive Income for the first quarters ended September 27, 2025, and September 28, 2024
+4
+​
+​
+Consolidated Statements of Shareholders’ Equity for the first quarters ended September 27, 2025, and September 28, 2024
+5
+​
+​
+Consolidated Statements of Cash Flows for the first quarters ended September 27, 2025, and September 28, 2024
+6
+​
+​
+Notes to Consolidated Financial Statements
+7
+​
+​
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+18
+​
+​
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+25
+​
+​
+Item 4. Controls and Procedures
+25
+​
+​
+PART II. OTHER INFORMATION
+​
+​
+​
+Item 1. Legal Proceedings
+26
+​
+​
+Item 1A. Risk Factors
+26
+​
+​
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+26
+​
+​
+Item 6. Exhibits
+27
+​
+​
+Signature Page
+28
+​
+​
+1
+
+Table of Contents
+​
+PART I
+FINANCIAL INFORMATION
+Item 1.
+Financial Statements
+AVNET, INC. AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+(Unaudited)
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+September 27,
+
+June 28,
+
+​
+​
+2025
+​
+2025
+
+​
+​
+(Thousands, except share
+
+​
+​
+amounts)
+
+ASSETS
+​
+​
+​
+​
+​
+​
+​
+Current assets:
+​
+​
+​
+​
+​
+​
+​
+Cash and cash equivalents
+​
+$
+
+175,465
+​
+$
+
+192,428
+​
+Receivables
+​
+
+4,503,478
+​
+
+4,327,450
+​
+Inventories
+​
+
+5,420,873
+​
+
+5,235,485
+​
+Prepaid and other current assets
+​
+
+227,168
+​
+
+263,374
+​
+Total current assets
+​
+
+10,326,984
+​
+
+10,018,737
+​
+Property, plant and equipment, net
+​
+
+665,980
+​
+
+667,247
+​
+Goodwill
+​
+
+818,109
+​
+
+837,031
+​
+Operating lease assets
+​
+​
+
+200,621
+​
+​
+
+201,896
+​
+Other assets
+​
+
+402,663
+​
+
+393,642
+​
+Total assets
+​
+$
+
+12,414,357
+​
+$
+
+12,118,553
+​
+LIABILITIES AND SHAREHOLDERS’ EQUITY
+​
+​
+​
+​
+​
+​
+​
+Current liabilities:
+​
+​
+​
+​
+​
+​
+​
+Short-term debt
+​
+$
+
+189,311
+​
+$
+
+87,284
+​
+Accounts payable
+​
+
+3,688,866
+​
+
+3,487,419
+​
+Accrued expenses and other
+​
+​
+
+440,913
+​
+​
+
+497,154
+​
+Short-term operating lease liabilities
+​
+
+54,830
+​
+
+56,247
+​
+Total current liabilities
+​
+
+4,373,920
+​
+
+4,128,104
+​
+Long-term debt
+​
+
+2,795,948
+​
+
+2,574,729
+​
+Long-term operating lease liabilities
+​
+​
+
+158,991
+​
+​
+
+159,449
+​
+Other liabilities
+​
+
+237,397
+​
+
+244,776
+​
+Total liabilities
+​
+​
+
+7,566,256
+​
+​
+
+7,107,058
+​
+Commitments and contingencies (Note 6)
+​
+​
+​
+​
+​
+​
+​
+Shareholders’ equity:
+​
+​
+​
+​
+​
+​
+​
+Common stock $
+1.00
+ par; authorized 
+300,000,000
+ shares; issued 
+81,346,458
+ shares and 
+83,853,935
+ shares, respectively
+​
+​
+
+81,346
+​
+​
+
+83,854
+​
+Additional paid-in capital
+​
+
+1,765,864
+​
+
+1,755,141
+​
+Retained earnings
+​
+
+3,316,430
+​
+
+3,430,193
+​
+Accumulated other comprehensive loss
+​
+
+ (
+315,539
+)
+​
+
+ (
+257,693
+)
+​
+Total shareholders’ equity
+​
+​
+
+4,848,101
+​
+​
+
+5,011,495
+​
+Total liabilities and shareholders’ equity
+​
+$
+
+12,414,357
+​
+$
+
+12,118,553
+​
+​
+See notes to consolidated financial statements.
+​
+2
+
+Table of Contents
+AVNET, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(Unaudited)
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+First Quarters Ended
+​
+
+September 27,
+
+September 28,
+​
+​
+2025
+​
+2024
+​
+​
+(Thousands, except per share amounts)
+Sales
+​
+$
+
+5,898,572
+​
+$
+
+5,604,152
+Cost of sales
+​
+
+5,283,807
+​
+
+4,996,785
+Gross profit
+​
+
+614,765
+​
+
+607,367
+Selling, general and administrative expenses
+​
+
+464,442
+​
+
+438,791
+Restructuring, integration, and other expenses
+​
+
+8,291
+​
+
+26,351
+Operating income
+​
+
+142,032
+​
+
+142,225
+Other expense, net
+​
+
+ (
+5,466
+)
+​
+
+ (
+3,043
+)
+Interest and other financing expenses, net
+​
+
+ (
+59,762
+)
+​
+
+ (
+64,444
+)
+Income before taxes
+​
+
+76,804
+​
+
+74,738
+Income tax expense
+​
+
+25,059
+​
+
+15,782
+Net income
+​
+$
+
+51,745
+​
+$
+
+58,956
+​
+​
+​
+​
+​
+​
+​
+Earnings per share:
+​
+​
+​
+​
+​
+​
+Basic
+​
+$
+
+0.62
+​
+$
+
+0.67
+Diluted
+​
+$
+
+0.61
+​
+$
+
+0.66
+​
+​
+​
+​
+​
+​
+​
+Shares used to compute earnings per share:
+​
+​
+​
+​
+​
+​
+Basic
+​
+
+82,996
+​
+
+88,092
+Diluted
+​
+
+84,462
+​
+
+89,392
+Cash dividends paid per common share
+​
+$
+
+0.35
+​
+$
+
+0.33
+​
+See notes to consolidated financial statements.
+​
+3
+
+Table of Contents
+AVNET, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(Unaudited)
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+First Quarters Ended
+​
+
+September 27,
+
+September 28,
+​
+​
+2025
+​
+2024
+​
+​
+(Thousands)
+Net income
+​
+$
+
+51,745
+​
+$
+
+58,956
+Other comprehensive (loss) income, net of tax:
+​
+​
+​
+​
+​
+​
+Foreign currency translation and other
+​
+​
+ (
+66,331
+)
+​
+​
+
+185,833
+Cross-currency swap
+​
+​
+
+4,244
+​
+​
+ (
+19,610
+)
+Pension adjustments
+​
+​
+
+4,241
+​
+​
+
+1,100
+Total other comprehensive (loss) income, net of tax
+​
+​
+ (
+57,846
+)
+​
+​
+
+167,323
+Total comprehensive (loss) income, net of tax
+​
+$
+ (
+6,101
+)
+​
+$
+
+226,279
+​
+See notes to consolidated financial statements.
+​
+4
+
+Table of Contents
+AVNET, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY
+(Unaudited)
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+​
+​
+
+​
+​
+
+​
+​
+
+​
+​
+
+Accumulated
+
+​
+​
+​
+​
+Common
+​
+Common
+​
+Additional
+​
+​
+​
+​
+Other
+​
+Total
+​
+​
+Stock-
+​
+Stock-
+​
+Paid-In
+​
+Retained
+​
+Comprehensive
+​
+Shareholders’
+​
+​
+Shares
+​
+Amount
+​
+Capital
+​
+Earnings
+​
+(Loss) Income
+​
+Equity
+​
+​
+(Thousands)
+Balance, June 28, 2025
+​
+
+83,854
+​
+$
+
+83,854
+​
+$
+
+1,755,141
+​
+$
+
+3,430,193
+​
+$
+ (
+257,693
+)
+​
+$
+
+5,011,495
+Net income
+​
+
+ —
+​
+
+ —
+​
+
+ —
+​
+
+51,745
+​
+
+ —
+​
+
+51,745
+Other comprehensive loss
+​
+
+ —
+​
+
+ —
+​
+
+ —
+​
+
+ —
+​
+
+ (
+57,846
+)
+​
+
+ (
+57,846
+)
+Cash dividends
+​
+
+ —
+​
+
+ —
+​
+
+ —
+​
+
+ (
+28,464
+)
+​
+
+ —
+​
+
+ (
+28,464
+)
+Repurchases of common stock
+​
+
+ (
+2,646
+)
+​
+
+ (
+2,646
+)
+​
+​
+ —
+​
+
+ (
+137,044
+)
+​
+​
+ —
+​
+
+ (
+139,690
+)
+Stock-based compensation
+​
+
+138
+​
+​
+
+138
+​
+​
+
+10,723
+​
+​
+ —
+​
+​
+ —
+​
+​
+
+10,861
+Balance, September 27, 2025
+​
+
+81,346
+​
+$
+
+81,346
+​
+$
+
+1,765,864
+​
+$
+
+3,316,430
+​
+$
+ (
+315,539
+)
+​
+$
+
+4,848,101
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+​
+​
+
+​
+​
+
+​
+​
+
+​
+​
+
+Accumulated
+
+​
+​
+​
+​
+Common
+​
+Common
+​
+Additional
+​
+​
+​
+​
+Other
+​
+Total
+​
+​
+Stock-
+​
+Stock-
+​
+Paid-In
+​
+Retained
+​
+Comprehensive
+​
+Shareholders’
+​
+​
+Shares
+​
+Amount
+​
+Capital
+​
+Earnings
+​
+(Loss) Income
+​
+Equity
+​
+​
+(Thousands)
+Balance, June 29, 2024
+​
+
+89,046
+​
+$
+
+89,046
+​
+$
+
+1,721,369
+​
+$
+
+3,601,812
+​
+$
+ (
+486,723
+)
+​
+$
+
+4,925,504
+Net income
+​
+
+ —
+​
+
+ —
+​
+
+ —
+​
+
+58,956
+​
+
+ —
+​
+
+58,956
+Other comprehensive income
+​
+
+ —
+​
+
+ —
+​
+
+ —
+​
+
+ —
+​
+
+167,323
+​
+
+167,323
+Cash dividends
+​
+
+ —
+​
+
+ —
+​
+
+ —
+​
+
+ (
+28,861
+)
+​
+
+ —
+​
+
+ (
+28,861
+)
+Repurchases of common stock
+​
+
+ (
+1,888
+)
+​
+
+ (
+1,888
+)
+​
+​
+ —
+​
+
+ (
+98,053
+)
+​
+​
+ —
+​
+
+ (
+99,941
+)
+Stock-based compensation
+​
+
+96
+​
+​
+
+96
+​
+​
+
+14,658
+​
+​
+ —
+​
+​
+ —
+​
+
+14,754
+Balance, September 28, 2024
+​
+
+87,254
+​
+$
+
+87,254
+​
+$
+
+1,736,027
+​
+$
+
+3,533,854
+​
+$
+ (
+319,400
+)
+​
+$
+
+5,037,735
+​
+See notes to consolidated financial statements.
+​
+5
+
+Table of Contents
+​
+AVNET, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited)
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+First Quarters Ended
+​
+
+September 27,
+
+September 28,
+​
+​
+2025
+​
+2024
+​
+​
+(Thousands)
+Cash flows from operating activities:
+​
+​
+​
+​
+​
+​
+Net income
+​
+$
+
+51,745
+​
+$
+
+58,956
+​
+​
+​
+​
+​
+​
+​
+Non-cash and other reconciling items:
+​
+​
+​
+​
+​
+​
+Depreciation and amortization
+​
+
+16,839
+​
+
+19,883
+Amortization of operating lease assets
+​
+​
+
+13,934
+​
+​
+
+13,926
+Deferred income taxes
+​
+
+ (
+5,868
+)
+​
+
+ (
+17,572
+)
+Stock-based compensation
+​
+
+9,724
+​
+
+10,987
+Other, net
+​
+
+ (
+13,439
+)
+​
+
+19,337
+Changes in (net of effects from businesses acquired and divested):
+​
+​
+​
+​
+​
+​
+Receivables
+​
+
+ (
+192,583
+)
+​
+
+ (
+94,393
+)
+Inventories
+​
+
+ (
+216,326
+)
+​
+
+ (
+29,230
+)
+Accounts payable
+​
+
+218,297
+​
+
+213,610
+Accrued expenses and other, net
+​
+
+ (
+26,907
+)
+​
+
+ (
+89,179
+)
+Net cash flows (used for) provided by operating activities
+​
+​
+ (
+144,584
+)
+​
+​
+
+106,325
+​
+​
+​
+​
+​
+​
+​
+Cash flows from financing activities:
+​
+​
+​
+​
+​
+​
+Issuance of convertible notes, net of issuance costs
+​
+​
+
+633,750
+​
+​
+ —
+(Repayments) borrowings under accounts receivable securitization, net
+​
+​
+ (
+299,400
+)
+​
+​
+
+27,900
+Repayments under senior unsecured credit facility, net
+​
+​
+ (
+290,861
+)
+​
+​
+ (
+11,353
+)
+Borrowings (repayments) under bank credit facilities and other debt, net
+​
+​
+
+10,352
+​
+​
+ (
+824
+)
+Borrowings under term loan
+​
+​
+
+266,932
+​
+​
+ —
+Repurchases of common stock 
+​
+​
+ (
+138,308
+)
+​
+​
+ (
+99,995
+)
+Dividends paid on common stock
+​
+​
+ (
+28,464
+)
+​
+​
+ (
+28,861
+)
+Other, net
+​
+​
+
+1,137
+​
+​
+
+3,766
+Net cash flows provided by (used for) financing activities 
+​
+​
+
+155,138
+​
+​
+ (
+109,367
+)
+​
+​
+​
+​
+​
+​
+​
+Cash flows from investing activities:
+​
+​
+​
+​
+​
+​
+Purchases of property, plant and equipment
+​
+​
+ (
+24,589
+)
+​
+​
+ (
+31,776
+)
+Other, net
+​
+​
+
+80
+​
+​
+
+330
+Net cash flows used for investing activities
+​
+​
+ (
+24,509
+)
+​
+​
+ (
+31,446
+)
+​
+​
+​
+​
+​
+​
+​
+Effect of currency exchange rate changes on cash and cash equivalents
+​
+​
+ (
+3,008
+)
+​
+​
+ (
+8,932
+)
+​
+​
+​
+​
+​
+​
+​
+Cash and cash equivalents:
+​
+​
+​
+​
+​
+​
+— decrease
+​
+​
+ (
+16,963
+)
+​
+​
+ (
+43,420
+)
+— at beginning of period
+​
+​
+
+192,428
+​
+​
+
+310,941
+— at end of period
+​
+$
+
+175,465
+​
+$
+
+267,521
+See notes to consolidated financial statements.
+​
+​
+6
+
+Table of Contents
+AVNET, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+​
+1. Basis of presentation and new 
+accounting 
+pronouncements
+In the opinion of management, the accompanying unaudited interim consolidated financial statements contain all adjustments necessary to state fairly Avnet, Inc. and its consolidated subsidiaries’ (collectively, the “Company” or “Avnet”) financial position, results of operations, comprehensive income, and cash flows. All such adjustments are of a normal recurring nature.
+​
+Preparing financial statements in accordance with generally accepted accounting principles in the United States (“GAAP”) requires management to make estimates and assumptions that affect the amounts reported in the consolidated financial statements. Actual results may differ from these estimates and assumptions. 
+Interim results of operations do not necessarily indicate the results to be expected for the full fiscal year. The information included in this Form 10-Q should be read in conjunction with the consolidated financial statements and accompanying notes included in the Company’s Annual Report on Form 10-K for the fiscal year ended June 28, 2025.
+During the three months ended September 27, 2025, the Company added the following convertible debt accounting policy. Other than this update, there have been no significant changes to the Company’s accounting policies.
+Convertible Debt – The Company accounts for its convertible debt as a liability, measured at amortized cost. Unamortized debt issuance costs incurred in connection with the issuance of the Company’s convertible debt are reflected in the consolidated balance sheets as a deduction of long-term debt. Debt issuance costs are amortized on a straight-line basis, which approximates the effective interest rate method, to interest expense over the term of the convertible debt. See Note 4, “Debt”, for further details.
+Recently adopted accounting pronouncements
+In November 2024, the FASB issued ASU 2024-04, 
+Debt—Debt with Conversion and Other Options (Subtopic 470-20): Induced Conversions of Convertible Debt Instruments 
+(“ASU No. 2024-04”), which clarifies the requirements for determining whether certain settlements of convertible debt should be accounted for as an induced conversion. The ASU is effective for fiscal years beginning after December 15, 2025, and interim periods within those annual reporting periods, and should be applied on a prospective basis, although retrospective application is permitted. The Company adopted this accounting standard at the beginning of fiscal 2026, which had no impact on the consolidated financial statements.
+Recently issued accounting pronouncements
+In December 2023, the FASB issued ASU No. 2023-09,
+ Income Taxes (Topic 740): Improvements to Tax Disclosures 
+(“ASU No. 2023-09”), which updates income tax disclosures related to the effective income tax rate reconciliation and requires disclosure of income taxes paid by jurisdiction. ASU No. 2023-09 is effective for the Company in fiscal year 2026 and will be adopted in its 2026 fiscal year Form 10-K on a prospective basis. Adoption of this new standard will result in increased disclosures in the Company’s fiscal 2026 Form 10-K.
+In November 2024, the FASB issued ASU 2024-03, 
+Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses
+ (“ASU 2024-03”), and in January 2025, the FASB issued ASU 2025-01, 
+Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures: Clarifying the Effective Date 
+(“ASU 2025-01”). The guidance is designed to improve financial reporting by requiring public business entities to disclose additional information about specific expense categories in the financial statement notes at interim and annual reporting periods. ASU No. 2024-03, as 
+7
+
+Table of Contents
+AVNET, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued)
+clarified by ASU 2025-01, will be effective for the Company in fiscal year 2028 and early adoption is permitted. The Company is currently evaluating the impact of adopting ASU No. 2024-03 on its disclosures.
+In July 2025, the FASB issued ASU 2025-05, 
+Financial Instruments - Credit Losses (Topic 326): Measurement of Credit Losses for Accounts Receivable and Contract Assets 
+(“ASU No. 2025-05”), which provides the entity an option to elect a practical expedient to assume that current conditions as of the balance sheet date do not change for the remaining life of current accounts receivable and contract assets when developing forecasts for estimating expected credit losses. The election of the practical expedient is permitted on a prospective basis. ASU No. 2025-05 will be effective for the Company in fiscal 2027 and early adoption is permitted. The Company is in the process of evaluating the impact of adopting ASU No. 2025-05 on its consolidated financial statements and related disclosures.
+​
+​
+2. Working capital
+Receivables
+The Company’s receivables and allowance for credit losses were as follows:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+September 27,
+​
+June 28,
+​
+​
+2025
+​
+2025
+​
+​
+(Thousands)
+Gross receivables
+​
+$
+
+4,608,351
+​
+$
+
+4,435,645
+Allowance for credit losses
+​
+​
+ (
+104,873
+)
+​
+​
+ (
+108,195
+)
+Receivables
+​
+$
+
+4,503,478
+​
+$
+
+4,327,450
+​
+The Company had the following activity in the allowance for credit losses during the first quarters of fiscal 2026 and fiscal 2025:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+September 27,
+​
+September 28,
+​
+​
+2025
+​
+2024
+​
+​
+(Thousands)
+Balance at beginning of the period
+​
+$
+
+108,195
+​
+$
+
+108,504
+Credit Loss (Releases) Provisions 
+​
+​
+ (
+1,737
+)
+​
+​
+
+1,552
+Credit Loss Recoveries
+​
+​
+
+62
+​
+​
+
+10
+Receivables Write Offs
+​
+​
+ (
+1,107
+)
+​
+​
+ (
+1,170
+)
+Foreign Currency Effect and Other
+​
+​
+ (
+540
+)
+​
+​
+
+3,352
+Balance at end of the period
+​
+$
+
+104,873
+​
+$
+
+112,248
+​
+​
+Inventories
+The Company’s inventories are primarily comprised of electronic components purchased from the Company’s suppliers, which are available for sale to customers in the normal course of the Company’s electronic component distribution business.
+​
+Classified within inventories are electronic components held for supply chain service engagements (components) where the Company is acting as an agent on behalf of a customer or in some cases the component supplier. Given that these supply chain services involve purchasing, warehousing and providing logistics services for components as part of the services, the Company classifies the underlying components within inventories on the consolidated balance sheets. Components held for supply chain services where the Company is acting as an agent represented approximately 
+5
+% of inventories as of September 27, 2025, and approximately 
+6
+% of inventories as of June 28, 2025.
+​
+​
+8
+
+Table of Contents
+AVNET, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued)
+3. Goodwill
+The following table presents the change in goodwill by reportable segment for the first quarter ended September 27, 2025. 
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+Electronic  
+
+​
+
+​
+​
+​
+​
+Components
+​
+Farnell
+​
+Total
+​
+​
+(Thousands)
+Carrying value at June 28, 2025 
+(1)
+​
+$
+
+309,738
+​
+$
+
+527,293
+​
+$
+
+837,031
+Foreign currency translation
+​
+
+ (
+3,082
+)
+​
+
+ (
+15,840
+)
+​
+
+ (
+18,922
+)
+Carrying value at September 27, 2025 
+(1)
+​
+$
+
+306,656
+​
+$
+
+511,453
+​
+$
+
+818,109
+(1)
+Includes accumulated impairments of 
+$
+1,482,677
+ from prior fiscal years.
+
+​
+​
+4. Debt
+Short-term debt consists of the following (carrying balances in thousands):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+September 27,
+​
+June 28,
+​
+September 27,
+​
+June 28,
+​
+​
+​
+2025
+
+2025
+
+2025
+
+2025
+​
+​
+​
+Interest Rate
+​
+Carrying Balance
+
+Term loan - current portion
+​
+
+4.20
+%
+​
+ —
+%
+​
+$
+
+90,786
+​
+​
+ —
+​
+Other short-term debt 
+​
+
+5.01
+%
+​
+
+5.17
+%
+​
+
+98,525
+​
+
+87,284
+​
+Short-term debt
+​
+​
+​
+​
+​
+​
+​
+$
+
+189,311
+​
+$
+
+87,284
+​
+​
+Other short-term debt consists of various committed and uncommitted lines of credit and other forms of bank debt with financial institutions utilized primarily to support the ongoing working capital requirements of the Company, including its foreign operations. 
+​
+Long-term debt consists of the following (carrying balances in thousands):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+September 27,
+​
+June 28,
+​
+September 27,
+​
+June 28,
+​
+​
+​
+2025
+
+2025
+
+2025
+
+2025
+​
+​
+​
+Interest Rate
+​
+Carrying Balance
+
+Revolving credit facilities:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Accounts receivable securitization program (due December 2026)
+​
+
+5.01
+%
+​
+
+5.18
+%
+​
+$
+
+200,600
+​
+$
+
+500,000
+​
+Credit Facility (due January 2030)
+​
+
+5.08
+%
+​
+
+5.46
+%
+​
+​
+
+122,682
+​
+​
+
+411,586
+​
+Term loan - noncurrent portion
+​
+
+4.31
+%
+​
+ —
+%
+​
+​
+
+175,745
+​
+​
+ —
+​
+Other long-term debt
+​
+
+4.74
+%
+​
+
+4.74
+%
+​
+​
+
+21,121
+​
+​
+
+21,975
+​
+Public notes due:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+April 2026 
+(1)
+​
+
+4.63
+%
+​
+
+4.63
+%
+​
+​
+
+550,000
+​
+​
+
+550,000
+​
+March 2028
+​
+
+6.25
+%
+​
+
+6.25
+%
+​
+
+500,000
+​
+
+500,000
+​
+September 2030 (Convertible Notes)
+​
+
+1.75
+%
+​
+ —
+%
+​
+​
+
+650,000
+​
+​
+ —
+​
+May 2031
+​
+
+3.00
+%
+​
+
+3.00
+%
+​
+​
+
+300,000
+​
+​
+
+300,000
+​
+June 2032
+​
+
+5.50
+%
+​
+
+5.50
+%
+​
+​
+
+300,000
+​
+​
+
+300,000
+​
+Long-term debt before discount and debt issuance costs
+​
+​
+​
+​
+​
+​
+​
+
+2,820,148
+​
+
+2,583,561
+​
+Discount and debt issuance costs – unamortized
+​
+​
+​
+​
+​
+​
+​
+
+ (
+24,200
+)
+​
+
+ (
+8,832
+)
+​
+Long-term debt
+​
+​
+​
+​
+​
+​
+​
+$
+
+2,795,948
+​
+$
+
+2,574,729
+​
+​
+(1)
+As of September 27, 2025, the Company classified its 
+$
+550
+ million of 
+4.63
+%
+ Notes due April 2026 as long-term debt based on its ability and intent to refinance these notes on a long-term basis.
+9
+
+Table of Contents
+AVNET, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued)
+The Company has a trade accounts receivable securitization program (the “Securitization Program”) in the United States with a group of financial institutions, which is due in December 2026. The Securitization Program allows the Company to transfer, on an ongoing revolving basis, an undivided interest in a designated pool of trade accounts receivable, to provide security or collateral for borrowings of up to $
+500
+ million. The Securitization Program does not qualify for off balance sheet accounting treatment and any borrowings under the Securitization Program are recorded as debt in the consolidated balance sheets. Under the Securitization Program, the Company legally sells and isolates certain U.S. trade accounts receivable into a wholly owned and consolidated bankruptcy remote special purpose entity. Such receivables, which are recorded within “Receivables” in the consolidated balance sheets, totaled $
+825.0
+ million and $
+813.9
+ million at September 27, 2025, and June 28, 2025, respectively. The Securitization Program contains certain covenants relating to the quality of the receivables sold.
+The Company has a 
+five-year
+ $
+1.50
+ billion revolving credit facility (the “Credit Facility”) with a syndicate of banks, which expires in January 2030. It consists of revolving credit facilities and the issuance of up to $
+200.0
+ million of letters of credit and up to $
+300.0
+ million of loans in certain approved currencies. As of September 27, 2025, and June 28, 2025, there were $
+0.8
+ million and $
+0.9
+ million, respectively, in letters of credit issued under the Credit Facility. Under the Credit Facility, the Company may select from various interest rate options, currencies, and maturities. The Credit Facility contains certain covenants, including various limitations on debt incurrence, share repurchases, dividends, investments, and capital expenditures. The Credit Facility also includes a financial covenant requiring the Company to maintain a leverage ratio below a certain threshold, which the Company was in compliance with as of September 27, 2025, and June 28, 2025. On August 28, 2025, the Company amended its Credit Facility through September 2026 to temporarily raise the maximum permitted leverage ratio. The amendment also restricts the Company's ability to make certain payments including the repurchase of shares in excess of $
+100
+ million worth of its common stock, which was reached in the first quarter of fiscal 2026 in connection with the issuance of the Convertible Notes discussed further below. 
+In July of 2026 the Company entered into a credit agreement (“Term Loan”) for approximately $
+266.5
+ million that matures in approximately equal annual installments over the next 
+three year
+s. The Term Loan bears a blended variable interest rate between tranches as outlined in the tables above.
+Convertible Notes
+In September 2025, the Company issued $
+650
+ million aggregate principal amount of convertible senior notes due 2030 (the “Convertible Notes”). The net proceeds from the sale of the Convertible Notes were approximately $
+633.8
+ million. 
+ The Convertible Notes accrue interest at a rate of 
+1.75
+% per annum. Before June 1, 2030, noteholders will have the right to convert their Convertible Notes only upon the occurrence of certain events, including but not limited to, the Company’s common stock trading above approximately $
+91
+ per share for a specific period, the market value of the  Convertible Notes trading below 
+98
+% of the product of the trading price of the Company’s common stock and the conversion rate for a specific period, and certain fundamental changes to the Company’s corporate structure. The initial conversion price is approximately $
+70.27
+ per share of common stock.
+The Company may redeem all or any portion of the Convertible Notes, at the Company’s option, on or after September 8, 2028, if the sale price of the Company’s common stock has been at least approximately $
+91
+ per common share for at least 
+20
+ trading days during any 
+30
+ consecutive trading-day period.  
+Upon conversion of the Convertible Notes, the Company must satisfy the aggregate principal amount of the notes being converted in cash. For any conversion obligation exceeding the aggregate principal amount, the Company may, at its discretion, settle the remainder through cash, shares of the Company’s common stock, or a combination thereof.
+As of September 27, 2025, the carrying value and fair value of the Company’s total debt was $
+2.99
+ billion and $
+2.99
+ billion, respectively. At June 28, 2025, the carrying value and fair value of the Company’s total debt was 
+10
+
+Table of Contents
+AVNET, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued)
+$
+2.66
+ billion and $
+2.65
+ billion, respectively. Fair value for public notes including convertible notes was estimated based on quoted market prices (Level 1) and, for other forms of debt, fair value approximates carrying value due to the market based variable nature of the interest rates on those debt facilities (Level 2).
+​
+​
+5. Derivative financial instruments
+Many of the Company’s subsidiaries purchase and sell products in currencies other than their functional currencies, which subjects the Company to the risks associated with fluctuations in currency exchange rates. This foreign currency exposure relates primarily to international transactions where the currency collected from customers can be different from the currency used to purchase from suppliers. The Company’s transactions are denominated primarily in the following currencies: U.S. Dollar, Euro, British Pound, Japanese Yen, Chinese Yuan, Taiwan Dollar, Canadian Dollar, and Mexican Peso. The Company also, to a lesser extent, has foreign operations transactions in other EMEA and Asian foreign currencies. 
+​
+The Company uses economic hedges to reduce this risk utilizing natural hedging (
+i.e.
+, offsetting receivables and payables in the same foreign currency) and creating offsetting positions using derivative financial instruments (primarily forward foreign currency exchange contracts typically with maturities of less than 
+60 days
+, but no longer than 
+one year
+). The Company continues to have exposure to foreign currency risks to the extent they are not economically hedged. The fair value of forward foreign currency exchange contracts is based on Level 2 criteria under the ASC 820 fair value hierarchy. The Company’s master netting and other similar arrangements with various financial institutions related to derivative financial instruments allow for the right of offset. The Company’s policy is to present derivative financial instruments with the same counterparty as either a net asset or liability when the right of offset exists. Under the Company’s economic hedging policies, gains and losses on the derivative financial instruments are classified within the same line item in the consolidated statements of operations as the remeasurement of the underlying assets or liabilities being economically hedged.
+​
+The Company has a fixed-to-fixed rate cross currency swap (the “cross-currency swap”) with a notional amount of $
+500.0
+ million, or €
+472.6
+ million, that is set to mature in March 2028. The Company designated this derivative contract as a net investment hedge of its European operations and elected the spot method for measuring hedge effectiveness. Changes in fair value of the cross-currency swap is presented in “Accumulated other comprehensive loss” in the consolidated balance sheets. Amounts related to the cross-currency swap recognized directly in net income represent net periodic interest settlements and accruals, which are recognized in “Interest and other financing expenses, net,” on the consolidated statements of operations. The fair value of the cross-currency swap is based on Level 2 criteria under the ASC 820 fair value hierarchy. 
+​
+The Company uses these derivative financial instruments to manage risks associated with foreign currency exchange rates and interest rates. The Company does not enter derivative financial instruments for trading or speculative purposes and monitors the financial stability and credit standing of its counterparties.
+​
+The locations and fair values of the Company’s derivative financial instruments in the Company’s consolidated balance sheets are as follows:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+September 27,
+
+June 28,
+​
+​
+2025
+​
+2025
+​
+​
+(Thousands)
+Economic hedges
+​
+​
+​
+​
+​
+​
+Prepaid and other current assets
+​
+$
+
+8,266
+​
+$
+
+43,750
+Accrued expenses and other
+​
+$
+
+6,709
+​
+$
+
+27,640
+Cross-currency swap
+​
+​
+​
+​
+​
+​
+Other liabilities
+​
+$
+
+64,899
+​
+$
+
+69,143
+​
+11
+
+Table of Contents
+AVNET, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued)
+The locations of derivative financial instruments on the Company’s consolidated statements of operations are as follows:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+First Quarters Ended
+​
+​
+​
+September 27,
+
+September 28,
+​
+​
+​
+2025
+​
+2024
+​
+​
+​
+(Thousands)
+Economic hedges 
+Other expense, net
+​
+$
+ (
+7,340
+)
+​
+$
+
+24,037
+Cross currency swap
+Interest and other financing expense, net
+​
+$
+
+547
+​
+$
+
+701
+​
+​
+​
+6. Commitments and contingencies
+From time to time, the Company may become a party to, or be otherwise involved in, various lawsuits, claims, investigations, and other legal proceedings arising in the ordinary course of conducting its business. While litigation is subject to inherent uncertainties, management does not anticipate that any such matters will have a material adverse effect on the Company’s financial condition, liquidity, or results of operations. 
+​
+The Company is also currently subject to various pending and potential legal matters and investigations relating to compliance with governmental laws and regulations. For certain of these matters, it is not possible to determine the ultimate outcome, and the Company cannot reasonably estimate the maximum potential exposure or the range of possible loss, particularly regarding matters in early stages. The Company currently believes that the resolution of such matters will not have a material adverse effect on the Company’s financial position or liquidity but could possibly be material to its results of operations in any single reporting period.
+​
+As of September 27, 2025, and June 28, 2025, the Company had aggregate estimated liabilities of $
+9.6
+ million, classified within accrued expenses and other for such compliance-related matters that were both probable and estimable as of such dates.
+​
+Contingent Liability for Mexico Consumption Tax Audit
+The Company’s facilities in Mexico operate under the Mexican Maquiladora (IMMEX) program. This program provides for reduced tariffs and eased import regulations. In September 2023, the Mexican customs and tax authority (Servicio de Administracion Tributaria (SAT)) opened an audit related to the Company’s participation in the IMMEX program for the period January 11, 2019, to January 11, 2020. The SAT initially asserted that the Company’s subsidiary, Avnet de Mexico S.A. de C.V., has underpaid value-added taxes (VAT) and is also liable for inflationary and interest adjustments, fines, and penalties. The Company disputes the SAT’s assertion and is working to resolve the issue through various administrative, legal, and diplomatic channels. The SAT has not issued a final assessment. The Company is not able to predict the outcome of this matter with certainty, including the timing of any resolution and the amount of any assessment. However, based on information available as of the balance sheet date, it is probable that Avnet de Mexico will ultimately incur an assessment. Consequently, the Company recorded a net loss contingency of $
+43.4
+ million within “restructuring, integration and other expenses” in the Company’s consolidated statement of operations in fiscal year 2025. That amount is the Company’s best estimate of the losses from this matter and is subject to change based on the results of the SAT audit, the Company’s ability to recover VAT, and any administrative processes or legal appeals.
+​
+7
+. Income taxes
+The below discussion of the effective tax rate for the periods presented in the consolidated statements of operations is in comparison to the 21% U.S. statutory federal income tax rate.
+​
+The Company’s effective tax rate on its income before taxes was 
+32.6
+% in the first quarter of fiscal 2026. During the first quarter of fiscal 2026, the Company’s effective tax rate was unfavorably impacted primarily by (i) the effect of 
+12
+
+Table of Contents
+AVNET, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued)
+changes in tax rates enacted in foreign jurisdictions, and (ii) increases to unrecognized tax benefit reserves net of settlements.
+​
+During the first quarter of fiscal 2025, the Company’s effective tax rate on its income before taxes was 
+21.1
+%. During the first quarter of fiscal 2025, the Company’s effective tax rate was unfavorably impacted primarily by (i) increases to unrecognized tax benefit reserves and audit settlements, (ii) the mix of income in higher tax jurisdictions, and (iii) increases to valuation allowances, partially offset by (iv) increases in tax attribute carryforwards.
+​
+On July 4, 2025, the U.S. government enacted the One Big Beautiful Bill Act (the “OBBB”). The bill includes extensions of current tax provisions and makes many significant tax changes. Most of the provisions enacted by the OBBB take effect in fiscal year 2025 to 2027. The company expects no material adverse impact related to the OBBB in fiscal 2026; however, the Company will continue to monitor developments and update the potential impacts on its consolidated financial statements as new information becomes available.
+​
+8. Pension plan
+The Company has a noncontributory defined benefit pension plan that covers substantially all current and some former U.S. employees (the “Plan”). Components of net periodic pension cost for the Plan were as follows:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+First Quarters Ended
+​
+
+September 27,
+
+September 28,
+​
+​
+2025
+
+2024
+​
+​
+(Thousands)
+Service cost within selling, general and administrative expenses
+​
+$
+
+2,718
+​
+$
+
+2,870
+​
+​
+​
+​
+​
+​
+​
+Interest cost
+​
+
+5,742
+​
+
+6,183
+Expected return on plan assets
+​
+
+ (
+10,553
+)
+​
+
+ (
+10,438
+)
+Recognized net actuarial loss and other
+​
+
+2,841
+​
+
+1,286
+Net loss recognized due to benefit obligation settlement
+​
+​
+​
+​
+​
+​
+Total net periodic pension benefit within other expense, net
+​
+​
+ (
+1,970
+)
+​
+​
+ (
+2,969
+)
+​
+​
+​
+​
+​
+​
+​
+Net periodic pension cost (benefit)
+​
+$
+
+748
+​
+$
+ (
+99
+)
+​
+​
+The Company made $
+4.0
+ million of contributions during the first quarter of fiscal 2026 and expects to make additional contributions to the Plan of $
+4.0
+ million in the remainder of fiscal 2026.
+​
+9. Shareholders’ equity
+Share repurchase program
+On September 5, 2025, the Company repurchased 
+1.9
+ million shares of its outstanding common stock at a price of $
+52.05
+ per share, concurrently with the Company’s issuance of its Convertible Notes (refer to Note 4) to mitigate the potential future dilution associated with the issuance of such notes. Additionally, early in the first quarter of fiscal 2026, the Company repurchased 
+0.7
+ million shares for a total cost of $
+38.3
+ million. As of September 27, 2025, the Company had $
+225.8
+ million remaining under its share repurchase authorization.
+​
+Common stock dividend
+In 
+August 2025
+, the Company’s Board of Directors approved a dividend of $
+0.35
+ per common share and dividend payments of $
+28.5
+ million were made in 
+September 2025
+.
+13
+
+Table of Contents
+AVNET, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued)
+​
+10. Earnings per share
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+First Quarters Ended
+​
+
+September 27,
+​
+September 28,
+​
+​
+2025
+
+2024
+​
+​
+(Thousands, except per share data)
+Numerator:
+​
+​
+​
+
+​
+​
+Net income
+​
+$
+
+51,745
+​
+$
+
+58,956
+​
+​
+​
+​
+​
+​
+​
+Denominator:
+​
+​
+​
+​
+​
+​
+Weighted average common shares for basic earnings per share
+​
+
+82,996
+​
+
+88,092
+Net effect of dilutive stock-based compensation awards
+​
+
+1,466
+​
+
+1,300
+Weighted average common shares for diluted earnings per share
+​
+
+84,462
+​
+
+89,392
+Basic earnings per share
+​
+$
+
+0.62
+​
+$
+
+0.67
+Diluted earnings per share
+​
+$
+
+0.61
+​
+$
+
+0.66
+Stock options excluded from earnings per share calculation due to an anti-dilutive effect
+​
+​
+ —
+​
+​
+ —
+​
+​
+
+​
+​
+The Company calculates basic earnings per share, or EPS, by dividing net income by the weighted average number of common shares outstanding during the period. Diluted earnings per share is computed using the treasury stock method for outstanding stock options, restricted stock units, and performance share units and the if-converted method for convertible debt.
+​
+​
+11. Additional cash flow information
+Non-cash investing and financing activities and supplemental cash flow information were as follows:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+First Quarters Ended
+​
+
+September 27,
+
+September 28,
+​
+​
+2025
+​
+2024
+​
+​
+(Thousands)
+Non-cash Investing Activities:
+​
+​
+​
+​
+​
+​
+Capital expenditures incurred but not paid
+​
+$
+
+12,465
+​
+$
+
+15,514
+Non-cash Financing Activities:
+​
+​
+​
+​
+​
+​
+Unsettled share repurchases
+​
+​
+ —
+​
+$
+
+1,011
+Supplemental Cash Flow Information:
+​
+​
+​
+​
+​
+​
+Interest
+​
+$
+
+60,201
+​
+$
+
+71,856
+Income tax payments, net
+​
+$
+
+47,034
+​
+$
+
+75,716
+​
+Included in cash and cash equivalents as of September 27, 2025, and June 28, 2025, was $
+3.3
+ million and $
+3.5
+ million, respectively, of cash equivalents. Fair value of cash equivalents are measured using Level 1 criteria in the fair value hierarchy and are primarily comprised of investment grade money market funds and overnight time deposits.
+​
+14
+
+Table of Contents
+AVNET, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued)
+12. Segment information
+Avnet has 
+two
+ primary operating groups — Electronic Components (“EC”) and Farnell (“Farnell”). Both operating groups have operations in each of the 
+three
+ major economic regions of the world: (i) the Americas, (ii) EMEA, and (iii) Asia. Each operating group has its own management team, who manage various functions within each operating group. Each operating group also has distinct financial reporting to the executive level, which informs operating decisions, strategic planning, and resource allocation for the Company as a whole.
+Avnet’s EC operating group primarily supports high and medium-volume customers. It markets, sells, and distributes electronic components from many of the world’s leading electronic component manufacturers, including semiconductors, IP&E components (interconnect, passive and electromechanical components), and other integrated and embedded components. EC serves a variety of markets ranging from industrial to automotive to defense and aerospace. It offers an array of customer support options throughout the entire product lifecycle, including both turnkey and customized design, supply chain, programming, and logistics services.
+Avnet’s Farnell operating group primarily supports lower-volume customers that need electronic components quickly to develop, prototype, and test their products. It distributes a comprehensive portfolio of kits, tools, electronic components, industrial automation components, and test and measurement products to both engineers and entrepreneurs, primarily through an e-commerce channel. Farnell also distributes new product introductions for its suppliers across their various product categories.
+The Company has identified its Chief Executive Officer (“CEO”) as the chief operating decision maker (“CODM”). The CODM evaluates the performance of both reportable segments based on operating income. Sales, cost of goods sold, and operating expenses are also monitored closely. This information is used to monitor operating margins, measure segment profitability, allocate resources, and make budgeting and forecasting decisions about the reportable segments. The CODM also uses these measures to monitor trends in year over year performance comparisons, sequential quarter performance comparisons, and to compare actual results to forecasts.
+​
+15
+
+Table of Contents
+AVNET, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued)
+​
+​
+​
+​
+​
+​
+​
+​
+​
+First Quarters Ended
+​
+​
+September 27,
+​
+September 28,
+​
+​
+2025
+
+2024
+​
+
+(Thousands)
+Sales
+
+​
+
+​
+
+Electronic Components
+​
+$
+
+5,499,690
+​
+$
+
+5,257,058
+Farnell
+​
+​
+
+398,882
+​
+​
+
+347,094
+Avnet Sales
+​
+$
+
+5,898,572
+​
+$
+
+5,604,152
+​
+​
+​
+​
+​
+​
+​
+Significant Segment Expenses and Operating Income:
+​
+​
+​
+​
+​
+​
+Electronic Components
+​
+​
+​
+​
+​
+​
+Cost of goods sold
+​
+$
+
+4,992,639
+​
+$
+
+4,740,029
+Selling, general and administrative expenses
+​
+​
+
+348,037
+​
+​
+
+319,660
+Operating income
+​
+$
+
+159,014
+​
+$
+
+197,369
+​
+​
+​
+​
+​
+​
+​
+Farnell
+​
+​
+​
+​
+​
+​
+Cost of goods sold
+​
+$
+
+291,168
+​
+$
+
+256,757
+Selling, general and administrative expenses
+​
+​
+
+90,617
+​
+​
+
+88,478
+Operating income
+​
+$
+
+17,097
+​
+$
+
+1,859
+​
+​
+​
+​
+​
+​
+​
+Total reportable segment operating income
+​
+$
+
+176,111
+​
+$
+
+199,228
+​
+​
+​
+​
+​
+​
+​
+Corporate
+​
+​
+​
+​
+​
+​
+Corporate expenses
+​
+$
+ (
+25,424
+)
+​
+$
+ (
+30,284
+)
+Restructuring, integration, and other expenses
+​
+
+ (
+8,291
+)
+​
+
+ (
+26,351
+)
+Amortization of acquired intangible assets and other
+​
+​
+ (
+364
+)
+​
+​
+ (
+368
+)
+Avnet operating income
+​
+$
+
+142,032
+​
+$
+
+142,225
+​
+​
+​
+​
+​
+​
+​
+Capital expenditures:
+​
+​
+​
+​
+​
+​
+Electronic Components
+​
+$
+
+20,730
+​
+$
+
+30,641
+Farnell
+​
+​
+
+3,857
+​
+​
+
+1,133
+Corporate
+​
+​
+
+2
+​
+​
+
+2
+​
+​
+$
+
+24,589
+​
+$
+
+31,776
+Depreciation & amortization expense:
+​
+​
+​
+​
+​
+​
+Electronic Components
+​
+$
+
+11,873
+​
+$
+
+13,842
+Farnell
+​
+​
+
+4,954
+​
+​
+
+6,031
+Corporate
+​
+​
+
+12
+​
+​
+
+10
+​
+​
+$
+
+16,839
+​
+$
+
+19,883
+Sales, by geographic area:
+​
+​
+​
+​
+​
+​
+Americas
+​
+$
+
+1,369,920
+​
+$
+
+1,329,884
+EMEA
+​
+
+1,665,879
+​
+
+1,668,169
+Asia
+​
+
+2,862,773
+​
+
+2,606,099
+Avnet Sales
+​
+$
+
+5,898,572
+​
+$
+
+5,604,152
+​
+​
+​
+16
+
+Table of Contents
+AVNET, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued)
+Assets by segment and property, plant and equipment, net, by geographic area as follows:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+September 27,
+​
+June 28,
+​
+​
+2025
+​
+2025
+​
+​
+(Thousands)
+Assets:
+​
+​
+​
+​
+​
+​
+Electronic Components
+​
+$
+
+10,318,401
+​
+$
+
+9,984,932
+Farnell
+​
+
+1,749,027
+​
+
+1,742,437
+Corporate
+​
+
+346,929
+​
+​
+
+391,184
+​
+​
+$
+
+12,414,357
+​
+$
+
+12,118,553
+​
+​
+​
+​
+​
+​
+​
+Property, plant and equipment, net:
+​
+​
+​
+​
+​
+​
+Americas
+​
+$
+
+157,172
+​
+$
+
+154,927
+EMEA
+​
+
+487,508
+​
+
+489,664
+Asia
+​
+
+21,300
+​
+
+22,656
+Total 
+​
+$
+
+665,980
+​
+$
+
+667,247
+​
+​
+​
+​
+​
+​
+13. Restructuring expenses
+Fiscal 2026
+During fiscal 2026, the Company incurred restructuring expenses primarily related to headcount reductions including from the planned closure of certain distribution centers intended to reduce future operating expenses. The following table presents the activity during the first quarter of fiscal 2026 related to the restructuring liabilities established during fiscal 2026:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Severance
+
+Other
+
+Total
+​
+​
+(Thousands)
+Fiscal 2026 restructuring expenses
+​
+$
+
+1,644
+​
+$
+ (
+13
+)
+​
+$
+
+1,631
+Cash payments
+​
+
+ (
+1,079
+)
+​
+​
+ —
+​
+​
+ (
+1,079
+)
+Balance at September 27, 2025
+​
+$
+
+565
+​
+$
+ (
+13
+)
+​
+$
+
+552
+​
+Severance expense recorded in the first quarter of fiscal 2026 related to the reduction, or planned reduction, of approximately 
+50
+ employees, primarily in operations, distribution centers, and business support functions. The $
+1.6
+ million of restructuring expenses recorded in the first quarter of fiscal 2026 was related to EC. The Company expects the majority of the remaining amounts to be paid by the end of fiscal 2026.
+​
+Fiscal 2025
+During fiscal 2025, the Company incurred restructuring expenses primarily related to severance of which 
+$
+19.4
+ million remained unpaid at the end of fiscal 2025 and 
+$
+15.0
+ million remained unpaid at the end of the first quarter of fiscal 2026. These remaining restructuring liabilities are expected to be paid by the end of fiscal 2026.
+
+​
+​
+​
+​
+​
+​
+​
+​
+17
+
+Table of Contents
+This Quarterly Report contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (“Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”) with respect to the financial condition, results of operations, and business of the Company. Many of these statements can be found by looking for words like “continue,” “believes,” “projected,” “plans,” “expects,” “anticipates,” “should,” “will,” “may,” “estimates,” or similar expressions in this Quarterly Report or in documents incorporated by reference in this Quarterly Report. These forward-looking statements are subject to numerous assumptions, risks, and uncertainties. The following important factors, in addition to those discussed elsewhere in this Quarterly Report, and the Company’s Annual Report on Form 10-K for the fiscal year ended June 28, 2025, and subsequent Quarterly Reports on Form 10-Q and Current Reports on Form 8-K, could affect the Company’s future results of operations, and could cause those results or other outcomes to differ materially from those expressed or implied in the forward-looking statements: geopolitical events and military conflicts; pandemics and other health-related crises; competitive pressures among distributors of electronic components; an industry down-cycle in semiconductors; relationships with key suppliers and allocations of products by suppliers; accounts receivable defaults; risks relating to the Company’s international sales and operations, including risks relating to repatriating cash, foreign currency fluctuations, inflation, duties and taxes, tariffs, sanctions and trade restrictions, and compliance with international and U.S. laws; risks relating to acquisitions, divestitures and investments; adverse effects on the Company’s supply chain, operations of its distribution centers, shipping costs, third-party service providers, customers and suppliers, including as a result of issues caused by military conflicts, terrorist attacks, natural and weather-related disasters, pandemics and health related crises, warehouse modernization, and relocation efforts; risks related to cyber security attacks, other privacy and security incidents, and information systems failures, including related to current or future implementations, integrations, and upgrades; general economic and business conditions (domestic, foreign and global) affecting the Company’s operations and financial performance and, indirectly, the Company’s credit ratings, debt covenant compliance, liquidity, and access to financing; constraints on employee retention and hiring; and legislative or regulatory changes.
+​
+Any forward-looking statement speaks only as of the date on which that statement is made. Except as required by law, the Company assumes no obligation to update any forward-looking statement to reflect events or circumstances that occur after the date on which the statement is made.
+​
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+For a description of the Company’s critical accounting policies and an understanding of Avnet and the significant factors that influenced the Company’s performance during the quarter ended September 27, 2025, this 
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+ (“MD&A”) should be read in conjunction with the consolidated financial statements, including the related notes, appearing in Item 1 of this Quarterly Report on Form 10-Q, as well as the Company’s Annual Report on Form 10-K for the fiscal year ended June 28, 2025.
+The discussion of the Company’s results of operations includes references to the impact of foreign currency translation. When the U.S. Dollar strengthens and the stronger exchange rates are used to translate the results of operations of Avnet’s subsidiaries denominated in foreign currencies, the result is a decrease in U.S. Dollars of reported results. Conversely, when the U.S. Dollar weakens, the weaker exchange rates result in an increase in U.S. Dollars of reported results. In the discussion that follows, results excluding this impact, primarily for subsidiaries in Europe, the Middle East and Africa (“EMEA”) and Asia/Pacific (“Asia”), are referred to as “constant currency.”
+​
+In addition to disclosing financial results that are determined in accordance with generally accepted accounting principles in the U.S. (“GAAP”), the Company also discloses certain non-GAAP financial information, including:
+●
+“Adjusted operating income,” which is operating income excluding (i) restructuring, integration, and other expenses, and (ii) amortization of acquired intangible assets.
+​
+18
+
+Table of Contents
+The reconciliation of operating income to adjusted operating income is presented in the following table:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+First Quarters Ended
+​
+
+September 27,
+
+September 28,
+​
+​
+2025
+
+2024
+​
+​
+(Thousands)
+Operating income
+​
+$
+ 142,032
+​
+$
+ 142,225
+Restructuring, integration, and other expenses
+​
+
+ 8,291
+​
+
+ 26,351
+Amortization of acquired intangible assets 
+​
+
+ 364
+​
+
+ 368
+Adjusted operating income 
+​
+$
+ 150,687
+​
+$
+ 168,944
+​
+Management believes that providing this additional information is useful to financial statement users to better assess and understand operating performance, especially when comparing results with prior periods or forecasting performance for future periods, primarily because management typically monitors the business with and without these adjustments to GAAP results. Management also uses these non-GAAP measures to establish operational goals and, in many cases, for measuring performance for compensation purposes. However, any analysis of results on a non-GAAP basis should be used in conjunction with results presented in accordance with GAAP.
+OVERVIEW
+Organization
+Avnet, Inc., including its consolidated subsidiaries (collectively, the “Company” or “Avnet”), is a leading global electronic component distributor and solutions provider that has served customers’ evolving needs for more than a century. Founded in 1921, the Company works with suppliers in every major technology segment to serve customers in more than 140 countries.
+​
+Avnet has two primary operating groups — Electronic Components (“EC”) and Farnell, which are discussed further in Note 12 “Segment information” to the Company’s consolidated financial statements included in this Quarterly Report on Form 10-Q.
+​
+Industry outlook
+The Company’s operations subject it to tariffs and other trade protection measures. The U.S. administration has instituted certain changes, and may make additional changes, in trade policies that include the negotiation or termination of trade agreements, higher tariffs on imports into the U.S., and other measures affecting trade between the U.S. and other countries from which the Company imports. Due in part to these measures, some countries are changing their trade policies relating to goods imported from the U.S. These global trade disruptions and geopolitical tensions, together with any related downturns in the global economy, could dampen customer demand, increase market volatility, and impact currency exchange rates, all of which could materially and adversely affect the Company’s financial performance. Evaluating and complying with new and future trade measures diverts management’s attention from existing initiatives, which may negatively impact the Company’s business operations.
+​
+The impact of these changes in trade policies will depend on various factors, including (i) when trade measures are implemented, (ii) the ultimate amount, scope, nature, and duration of tariffs and other trade measures, and (iii) the extent to which the Company can mitigate impacts and pass on any increased costs associated with these changes. In addition, the impact of trade disruptions on general economic conditions and demand for electronic components is difficult to predict.
+​
+The Company employs and continues to develop systems and other measures to mitigate the impact of tariffs, including selective supply chain, logistics, and pricing actions. The Company also has contingency plans to respond to a range of economic scenarios. The Company’s management continues to monitor and evaluate the changing tariff situation, as well as the overall environment in the electronic components industry. However, despite these efforts, the Company may not be able to fully mitigate the impact of changes in trade policies or an economic downturn.
+19
+
+Table of Contents
+​
+The global electronic components market has a history of cyclical downturns followed by periods of increased demand. Beginning in the second half of calendar year 2023, the industry began to experience a downturn marked by a decrease in sales due to a combination of elevated customer inventory levels and lower underlying demand for electronic components. As a result, the Company has seen decreased sales, resulting in lower operating income. The duration of the current downturn remains uncertain, however, in the first quarter of fiscal 2026, the Company saw year over year and quarter over quarter sales improvements in the Americas and Asia regions of EC as well as in its Farnell operating group. The Company’s EMEA region of EC continues to have year-over-year sales declines. The Company expects sales in the second quarter of fiscal 2026 to increase approximately 2% compared to first quarter sales of fiscal 2026.
+​
+Additionally, the Company’s total inventories relative to its sales continue to be higher than they have historically been as a result of this industry downturn. The Company has and may in the future purchase additional inventories in certain components even in an industry downturn, if the Company believes the purchase will benefit the Company’s financial or strategic business objectives.
+​
+Results of Operation
+s
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Quarters Ended
+​
+​
+​
+​
+​
+​
+​
+​
+Q1 2026
+
+Q1 2025
+
+Variance
+​
+Variance %
+​
+($ in millions, unless otherwise stated)
+Sales
+$
+ 5,899
+​
+​
+$
+ 5,604
+​
+​
+$
+ 294
+​
+​
+ 5.3
+ %
+Gross profit
+​
+ 615
+​
+​
+​
+ 607
+​
+​
+​
+ 7
+​
+​
+ 1.2
+​
+Selling, general and administrative expenses
+​
+ 464
+​
+​
+​
+ 439
+​
+​
+​
+ 26
+​
+​
+ 5.9
+​
+Restructuring, integration, and other expenses
+​
+ 8
+​
+​
+​
+ 26
+​
+​
+​
+ (18)
+​
+​
+ (68.5)
+​
+Operating income
+​
+ 142
+​
+​
+​
+ 142
+​
+​
+​
+ (0)
+​
+​
+ (0.1)
+​
+Adjusted operating income
+​
+ 151
+​
+​
+​
+ 169
+​
+​
+​
+ (18)
+​
+​
+ (10.8)
+​
+Other expense, net
+​
+ (5)
+​
+​
+​
+ (3)
+​
+​
+​
+ (2)
+​
+​
+ 79.6
+​
+Interest and other financing expenses, net
+​
+ (60)
+​
+​
+​
+ (64)
+​
+​
+​
+ 5
+​
+​
+ (7.3)
+​
+Income tax expense
+​
+ 25
+​
+​
+​
+ 16
+​
+​
+​
+ 9
+​
+​
+ 58.8
+​
+Net income
+​
+ 52
+​
+​
+​
+ 59
+​
+​
+​
+ (7)
+​
+​
+ (12.2)
+​
+Diluted earnings per share
+​
+ 0.61
+​
+​
+​
+ 0.66
+​
+​
+​
+ (0.05)
+​
+​
+ (7.6)
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Other Metrics
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Gross profit margin
+​
+ 10.4
+%
+​
+​
+ 10.8
+%
+​
+​
+ (42)
+ bps
+​
+ (0.4)
+ %
+Operating income margin
+​
+ 2.4
+%
+​
+​
+ 2.5
+%
+​
+​
+ (13)
+ bps
+​
+ (0.1)
+ %
+Adjusted operating income margin
+​
+ 2.6
+%
+​
+​
+ 3.0
+%
+​
+​
+ (46)
+ bps
+​
+ (0.5)
+ %
+Effective tax rate
+​
+ 32.6
+%
+​
+​
+ 21.1
+%
+​
+​
+ 1,151
+ bps
+​
+ 11.5
+ %
+​
+20
+
+Table of Contents
+Sales
+The following table presents the percentage change in sales for the first quarter of fiscal 2026 as compared to the first quarter of fiscal 2025, by geographic region and operating group.
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Quarter Ended
+​
+​
+September 27, 2025
+​
+​
+​
+​
+Sales
+​
+​
+​
+​
+Year-Year %
+​
+​
+Sales
+​
+Change in
+​
+​
+Year-Year %
+​
+Constant
+​
+
+Change
+​
+Currency
+Avnet
+​
+ 5.3
+ %
+​
+ 3.6
+ %
+Avnet by region
+​
+​
+​
+​
+​
+​
+Americas
+​
+ 3.0
+ %
+​
+ 3.0
+ %
+EMEA
+​
+ (0.1)
+ %
+​
+ (5.6)
+ %
+Asia
+​
+ 9.9
+%
+​
+ 9.7
+%
+Avnet by operating group
+​
+​
+​
+​
+​
+​
+EC
+​
+ 4.6
+ %
+​
+ 3.0
+ %
+Farnell
+​
+ 14.9
+ %
+​
+ 12.5
+ %
+​
+Sales of $5.90 billion for the first quarter of fiscal 2026 increased $294.4 million, or 5.3%, as compared to $5.60 billion for the same quarter last year reflecting year-over-year sales growth in both the EC and Farnell operating groups.
+​
+EC sales of $5.50 billion in the first quarter of fiscal 2026 increased $242.6 million, or 4.6%, from the prior year first quarter sales of $5.26 billion, with the Americas and Asia regions contributing to the increase offset by sales declines in the EMEA region. The increase in sales is primarily due to increased demand in the Asia region, most notably in the transportation, compute and communication sectors.
+​
+Farnell sales for the first quarter of fiscal 2026 were $398.9 million, reflecting an increase of $51.8 million, or 14.9%, compared to the same period in the prior year. The increase in sales in the first quarter of fiscal 2026 is primarily due to improvement in demand for single board computers globally and for on-the-board electronic components in the Asia and Americas regions.
+​
+Gross Profit
+The Company’s gross profit and gross profit margin are primarily affected by sales volume, product mix, and geographic sales mix. Gross profit for the first quarter of fiscal 2026 increased $7.4 million, or 1.2% from the first quarter of fiscal 2025. This increase is primarily due to sales volume increases in both operating groups partially offset by the decline in gross profit margin in the EC operating group including the impact from geographical sales mix.
+​
+Gross profit margin decreased by 42 basis points to 10.4% for the first quarter of fiscal 2026 when compared to the first quarter of fiscal 2025. The decrease in gross profit margin was partially due to a geographic sales mix to Asia. Sales in the higher gross profit margin western regions represented approximately 51% of sales in the first quarter of fiscal 2026, versus 53% of sales during the first quarter of fiscal 2025. The remaining reduction in gross profit margin was due to declines in gross margin in the EC Americas and EMEA regions primarily due to changes in customer and product mix.
+​
+EC gross profit margin decreased year over year largely due to the factors discussed above. Farnell gross profit margin increased year over year, primarily due to an increase in product mix of on-the-board components.
+​
+21
+
+Table of Contents
+Selling, General and Administrative Expenses
+Selling, general, and administrative expenses (“SG&A expenses”) increased $25.7 million or 5.9% from the first quarter of fiscal 2025. The increase in SG&A expenses is primarily due to increases in variable operating expenses associated with the increase in sales volumes discussed above and the impact of changes in foreign currency translation rates.
+​
+Management monitors SG&A expenses as a percentage of sales and as a percentage of gross profit. In the first quarter of fiscal 2026, SG&A expenses were 7.9% of sales and 75.5% of gross profit, as compared with 7.8% and 72.2%, respectively, in the first quarter of fiscal 2025. The year-over-year increase in SG&A expenses as a percentage of gross profit is primarily due to the decline in gross profit margin in EC discussed further above.
+​
+Restructuring, Integration, and Other Expenses
+The Company recorded total restructuring, integration, and other expense in the first quarter of fiscal 2026 of $8.3 million, consisting of $1.6 million of severance and other employee-related expenses, and $6.7 million of integration and other costs. The after-tax impact of restructuring, integration, and other expenses were $5.8 million and $0.07 per share on a diluted basis.
+​
+Comparatively, the Company recorded restructuring, integration, and other expenses of $26.4 million during the first quarter of fiscal 2025 consisting of severance costs of $3.4 million, facility exits costs of $5.2 million, asset impairments of $14.9 million, and integration and other costs of $2.9 million.
+​
+See Note 13 “
+Restructuring expenses” to the Company’s consolidated financial statements included in this Quarterly Report on Form 10-Q.
+​
+Operating Income
+Operating income for the first quarter of fiscal 2026 was $142.0 million, a decrease of $0.2 million or 0.1%, year over year. Operating income margin for the first quarter of fiscal 2026 was 2.4%, a decrease of 13 basis points compared to 2.5% in the first quarter of fiscal 2025. Adjusted operating income for the first quarter of fiscal 2026 was $150.7 million, a decrease of $18.3 million, or 10.8%. Adjusted operating income margin for the first quarter of fiscal 2026 was 2.6% compared to 3.0% in the first quarter of fiscal 2025. The decreases in adjusted operating income and adjusted operating income margin are primarily due to the decreases in gross profit margin and the increase in SG&A expenses as discussed further above.
+​
+Comparing the first quarter of fiscal 2026 to the first quarter of fiscal 2025, EC operating income decreased 19.4% to $159.0 million, and EC operating income margin decreased 86 basis points to 2.9%, with decreases in the EMEA and Americas regions partially offset by an improvement in the Asia region. Farnell operating income increased 819.7% to $17.1 million in the first quarter of fiscal 2026. Farnell operating income margin increased 375 basis points year over year to 4.3%. The increases in operating income and operating income margin in Farnell are due to the higher sales and higher gross profit margin with only a slight increase in SG&A expenses. 
+​
+Interest and Other Financing Expenses, Net and Other Expense, Net
+Interest and other financing expenses in the first quarter of fiscal 2026 were $59.8 million, a decrease of $4.7 million as compared to $64.4 million in the first quarter of fiscal 2025. 
+The decrease in interest and other financing expenses
+ in the first quarter of fiscal 2026 compared to fiscal 2025
+ is primarily a result of 
+lower average borrowing rates.
+​
+The Company had other expenses of $5.5 million in the first quarter of fiscal 2026 compared to other expenses of $3.0 million in the first quarter of fiscal 2025. The increase in other expenses in the first quarter of fiscal 2026 is primarily due to increases in foreign currency translation losses. 
+​
+22
+
+Table of Contents
+Income Tax 
+Income tax expense for the first quarter of fiscal 2026 was $25.1 million reflecting an effective tax rate of 32.6% compared to $15.8 million, reflecting an effective tax rate of 21.1% in the first quarter of fiscal 2025. The increase in the effective tax rate for the first quarter of fiscal 2026 as compared to the first quarter of fiscal 2025 was primarily due the effect of changes in tax rates enacted in foreign jurisdictions and increases to unrecognized tax benefit reserves net of settlements. 
+​
+Net Income
+As a result of the factors described above, the Company’s net income for the first quarter of fiscal 2026 was $51.7 million, or $0.61 per share on a diluted basis, as compared with $59.0 million, or $0.66 per share on a diluted basis, in the first quarter of fiscal 2025. Diluted earnings per share in the first quarter of fiscal 2026 benefited from a 5.5% reduction in diluted shares outstanding compared to the first quarter of fiscal 2025, primarily due to share repurchases over the past year.
+​
+LIQUIDITY AND CAPITAL RESOURCES
+Cash Flow
+Operating Activities
+Net cash used for operating activities was $144.6 million for the first quarter of fiscal 2026, compared to net cash provided by operating activities of $106.3 million for the first quarter of fiscal 2025. The $250.9 million increase in net cash used for operating activities year over year is primarily due to cash used for working capital and other. Cash used for working capital and other was $217.5 million during the first quarter of fiscal 2026, compared to $0.8 million of cash generated during the first quarter of fiscal 2025, with the difference attributable primarily to an increase in accounts receivable primarily to support the growth in Asia sales. 
+​
+Financing Activities
+Net proceeds of debt totaled $320.8 million during the first quarter of fiscal 2026, including net proceeds of $633.8 million from the issuance of Convertible Notes, and $277.3 million for term loans and other debt, partially offset by net repayments of $290.9 million under the Credit Facility, and $299.4 million under the Securitization Program. This compares to $15.7 million of net proceeds during the first quarter of the prior fiscal year. The Company has repurchased $138.3 million of common stock under its share repurchase plan during the first quarter of fiscal 2026 compared to $100.0 million in the same period of the prior fiscal year. The Company paid cash dividends to shareholders of $0.35 per share, or $28.5 million, during the first quarter of fiscal 2026 as compared to $0.33 per share, or $28.9 million, during the first quarter of fiscal 2025. 
+​
+Investing Activities
+Net cash used in investing activities decreased during the first quarter of fiscal 2026 by $6.9 million, when compared to the same period in fiscal 2025, primarily due to a decrease in capital expenditures. 
+​
+Contractual Obligations
+For a detailed description of the Company’s long-term debt and lease commitments for the next five years and thereafter, see 
+Long-Term Contractual Obligations
+ appearing in Item 7 of the Company’s Annual Report on Form 10-K for the fiscal year ended June 28, 2025 and Note 4 “Debt” to the Company’s consolidated financial statements included in this Quarterly Report on Form 10-Q. There are no material changes to this information outside of the issuance of Convertible Notes, entering into a term loan and other normal borrowings and repayments of long-term debt and operating lease payments. The Company does not currently have any material non-cancellable commitments for capital expenditures or inventory purchases outside of the normal course of business.
+23
+
+Table of Contents
+​
+Financing Transactions
+See Note 4, “Debt” to the Company’s consolidated financial statements included in this Quarterly Report on Form 10-Q for additional information on financing transactions, including the Credit Facility, the Securitization Program, and other outstanding notes and debt as of September 27, 2025. The Company was in compliance with all covenants under the Credit Facility and the Securitization Program as of September 27, 2025, and June 28, 2025.
+​
+The Company has various lines of credit, financing arrangements, and other forms of bank debt in the U.S. and various foreign locations to fund the working capital, foreign exchange, overdraft, capital expenditure, and letter of credit needs of its wholly owned subsidiaries. Outstanding borrowings under such forms of debt at the end of first quarter of fiscal 2026 was $119.6 million.
+​
+As an alternative form of liquidity outside of the United States, the Company sells certain of its trade accounts receivable on a non-recourse basis to financial institutions pursuant to factoring agreements. The Company accounts for these transactions as sales of receivables and presents cash proceeds as cash provided by operating activities in the consolidated statements of cash flows. Factoring fees for the sales of trade accounts receivable are recorded within “Interest and other financing expenses, net” of the consolidated financial statements.
+​
+Liquidity
+The Company held cash and cash equivalents of $175.5 million as of September 27, 2025, of which $146.0 million was held outside the United States. As of June 28, 2025, the Company held cash and cash equivalents of $192.4 million, of which $181.8 million was held outside of the United States.
+​
+During periods of weakening demand in the electronic components industry, the Company typically generates cash from operating activities. Conversely, the Company will use cash for working capital requirements during periods of higher growth. The Company generated $473.6 million in cash flows from operating activities over the trailing four fiscal quarters ended September 27, 2025.
+​
+Liquidity is subject to many factors, such as normal business operations and general economic, financial, competitive, legislative, and regulatory factors that are beyond the Company’s control. Cash balances held in foreign locations that cannot be remitted back to the U.S. in a tax efficient manner are generally used for ongoing working capital, including the need to purchase inventories, capital expenditures, and other foreign business needs. In addition, local government regulations may restrict the Company’s ability to move funds among various locations under certain circumstances. Management does not believe such restrictions would limit the Company’s ability to pursue its intended business strategy.
+​
+In September 2025, the Company issued $650 million aggregate principal amount of convertible senior notes due 2030 (see Note 4). The Company used the net proceeds to (i) reduce the Credit Facility by $533.8 million and (ii) repurchase $100 million of the Company’s common stock in privately negotiated transactions entered into in connection with the convertible debt offering.
+​
+As of the end of the first quarter of fiscal 2026, the Company had a combined total borrowing capacity of $2.0 billion under the Credit Facility and the Securitization Program. There were $122.7 million of borrowings outstanding and $0.8 million in letters of credit issued under the Credit Facility, and $200.6 million outstanding under the Securitization Program, resulting in approximately $1.68 billion of total committed availability as of September 27, 2025. Availability under the Securitization Program is subject to the Company having sufficient eligible trade accounts receivable in the United States to support desired borrowings. The Company expects to repay the $550 million Notes due April 2026 using cash on hand and availability under the Credit Facility.
+​
+During the first quarter of fiscal 2026, the Company had an average daily balance outstanding of approximately $774.9 million under the Credit Facility, and approximately $484.7 million under the Securitization Program. The Company also has average borrowings that are higher than quarter end borrowings from various lines of credit, financing arrangements, and other forms of bank debt in the U.S. and various foreign locations.
+24
+
+Table of Contents
+​
+As of September 27, 2025, the Company does not expect to repurchase additional shares until its’ consolidated leverage ratio returns to historical levels. When share repurchases resume, the Company may repurchase stock from time to time at the discretion of management, subject to strategic considerations, market conditions (including share price), and other factors. The Company may terminate or limit the share repurchase program at any time without prior notice. The Company has $225.8 million of shares of capacity remaining on the share repurchase program approved by the Board of Directors.
+​
+The Company has historically paid quarterly cash dividends on shares of its common stock, and future dividends are subject to approval by the Board of Directors. During the first quarter of fiscal 2026, the Board of Directors approved a dividend of $0.35 per share, which resulted in $28.5 million of dividend payments during the quarter.
+​
+The Company continually monitors and reviews its liquidity position and funding needs. Management believes that the Company’s ability to generate operating cash flows through the liquidation of working capital in the future and available borrowing capacity, including capacity for the non-recourse sale of trade accounts receivable, will be sufficient to meet its future liquidity needs. Additionally, the Company believes that it has sufficient access to additional liquidity from the capital markets if necessary. 
+​
+Recently Issued Accounting Pronouncements
+See Note 1, “Basis of presentation and new accounting pronouncements” to the Company’s consolidated financial statements included in this Quarterly Report on Form 10-Q for a description of recently issued accounting pronouncements.
+​
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+The Company seeks to reduce earnings and cash flow volatility associated with changes in interest rates and foreign currency exchange rates through financial arrangements that are intended to provide an economic hedge against the risks associated with such volatility. The Company continues to have exposure to such risks to the extent they are not economically hedged.
+​
+See Item 7A, 
+Quantitative and Qualitative Disclosures About Market Risk
+, in the Company’s Annual Report on Form 10-K for the fiscal year ended June 28, 2025, for further discussion of market risks associated with foreign currency exchange rates and interest rates. Avnet’s exposure to such risks has not changed materially since June 28, 2025, as the Company continues to economically hedge the majority of its foreign currency exchange exposures. Thus, any increase or decrease in the fair value of the Company’s forward foreign currency exchange contracts is generally offset by an opposite effect on the related economically hedged position. For interest rate risk, the Company continues to maintain a combination of fixed and variable rate debt to mitigate the exposure to fluctuations in market interest rates.
+​
+See 
+Liquidity and Capital Resources — Financing Transactions
+ appearing in Item 2 of this Quarterly Report on Form 10-Q for further discussion of the Company’s financing transactions and capital structure. As of September 27, 2025, approximately 77% of the Company’s debt bears interest at a fixed rate and 23% of the Company’s debt bears interest at variable rates. Therefore, a hypothetical 1.0% (100 basis points) increase in interest rates would result in a $1.7 million decrease in income before income taxes in the Company’s consolidated statement of operations for the first quarter of fiscal 2026.
+​
+Item 4.
+Controls and Procedures
+The Company’s management, including its Chief Executive Officer and Chief Financial Officer, have evaluated the effectiveness of the Company’s disclosure controls and procedures (as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934 (the “Exchange Act”)) as of the end of the reporting period covered by this Quarterly Report on Form 10-Q. Based on such evaluation, the Chief Executive Officer and Chief Financial Officer have concluded that, as of the end of the period covered by this Quarterly Report on Form 10-Q, the Company’s disclosure controls and procedures are effective such that material information required to be disclosed by the Company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized, and reported, within 
+25
+
+Table of Contents
+the time periods specified by the Securities and Exchange Commission’s rules and forms and is accumulated and communicated to management, including the Company’s principal executive officer and principal financial officer, as appropriate, to allow timely decisions regarding required disclosure.
+​
+During the first quarter of fiscal 2026, there were no changes to the Company’s internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) of the Exchange Act) that materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
+​
+​
+PART II
+OTHER INFORMATION
+Item 1.
+Legal Proceedings
+Pursuant to SEC regulations, including but not limited to Item 103 of Regulation S-K, the Company regularly assesses the status of and developments in pending environmental and other legal proceedings to determine whether any such proceedings should be identified specifically in this discussion of legal proceedings, and has concluded that no particular pending legal proceeding requires public disclosure. Based on the information known to date, management believes that the Company has appropriately accrued in its consolidated financial statements for its share of the estimable costs of environmental and other legal proceedings.
+​
+The Company is also currently subject to various pending and potential legal matters and investigations relating to compliance with governmental laws and regulations, including import/export and environmental matters. The Company currently believes that the resolution of such matters will not have a material adverse effect on the Company’s financial position or liquidity but could possibly be material to its results of operations in any single reporting period.
+​
+Item 1A.
+Risk Factors
+The discussion of the Company’s business and operations should be read together with the risk factors contained in Item 1A of its Annual Report on Form 10-K for the fiscal year ended June 28, 2025, which describe various risks and uncertainties to which the Company is or may become subject. These risks and uncertainties have the potential to affect the Company’s business, financial condition, results of operations, cash flows, strategies or prospects in a material and adverse manner. As of September 27, 2025, there have been no material changes to the risk factors set forth in the Company’s Annual Report on Form 10-K for the fiscal year ended June 28, 2025.
+​
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+The Company’s Board of Directors has approved the repurchase plan of up to an aggregate of $600 million of common stock. The following table includes the Company’s monthly purchases of the Company’s common stock, excluding excise tax, during the first quarter of fiscal 2026, under the share repurchase program, which is part of publicly announced plans, in addition to the shares repurchased concurrently with the Company’s issuance of its Convertible Notes (refer to Note 4).
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+ Total Number of 
+​
+ Approximate Dollar 
+
+​
+​
+Total
+​
+Average
+​
+ Shares Purchased 
+​
+ Value of Shares That 
+
+​
+​
+Number
+​
+Price
+​
+ as Part of Publicly 
+​
+ May Yet Be 
+
+​
+​
+of Shares
+​
+Paid per
+​
+ Announced Plans 
+​
+ Purchased under the
+
+Period
+​
+Purchased
+
+Share
+
+ or Programs 
+
+Plans or Programs 
+
+June 29 – July 26
+
+ 268,630
+​
+$
+ 54.04
+​
+ 268,630
+​
+​
+ 349,602,000
+​
+July 27 – August 23
+
+ 456,297
+​
+$
+ 52.14
+​
+ 456,297
+​
+​
+ 325,813,000
+​
+August 24 – September 27
+
+ 1,921,229
+​
+$
+ 52.05
+​
+ 1,921,229
+​
+​
+ 225,813,000
+​
+​
+​
+​
+​
+​
+26
+
+Table of Contents
+​
+Item 6.
+Exhibits
+Exhibit
+​
+​
+Number
+
+Exhibit
+​
+​
+​
+31.1*
+​
+Certification of Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+​
+​
+​
+31.2*
+​
+Certification of Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+​
+​
+​
+32.1**
+​
+Certification of Chief Executive Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+​
+​
+​
+32.2**
+​
+Certification of Chief Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+​
+​
+​
+101.INS*
+​
+XBRL - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
+​
+​
+​
+101.SCH*
+​
+XBRL Taxonomy Extension Schema Document.
+​
+​
+​
+101.DEF*
+​
+XBRL Taxonomy Extension Definition Linkbase Document.
+​
+​
+​
+101.CAL*
+​
+XBRL Taxonomy Extension Calculation Linkbase Document.
+​
+​
+​
+101.LAB*
+​
+XBRL Taxonomy Extension Label Linkbase Document.
+​
+​
+​
+101.PRE*
+​
+XBRL Taxonomy Extension Presentation Linkbase Document.
+​
+*
+Filed herewith.
+**
+Furnished herewith. The information in these exhibits shall not be deemed to be “filed” for purposes of Section 18 of the Exchange Act, or otherwise subject to liability under that section, and shall not be incorporated by reference into any filing under the Securities Act or the Exchange Act, except to the extent that the registrant specifically incorporates it by reference.
+​
+​
+​
+27
+
+Table of Contents
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+​
+Date: October 31, 2025
+​
+AVNET, INC.
+​
+​
+​
+​
+​
+​
+​
+By:
+/s/ KENNETH A. JACOBSON
+​
+​
+Kenneth A. Jacobson
+​
+​
+Chief Financial Officer
+​
+​
+​
+​
+28

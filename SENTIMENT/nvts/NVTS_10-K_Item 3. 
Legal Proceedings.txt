@@ -1,0 +1,3900 @@
+Item 3. 
+Legal Proceedings.
+The information required by this item is incorporated by reference from “
+Legal proceedings and contingencies
+,” included in 
+Note 15 – “Commitments and Contingencies” – to the C
+onsolidated Financial Statements in Item 8 of this report.
+Item 4. 
+Mine Safety Disclosures.
+Not applicable.
+Part II
+Item 5. 
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.
+Market Information. 
+Our common stock has been listed on the Nasdaq Global Market under the ticker symbol “NVTS” since October 20, 2021.
+35
+TA
+BLE OF CONTENTS
+Holders. 
+As of March 14, 2025, there were 29 holders of re
+cord of our common stock. The actual number of beneficial owners of our common stock is much greater than the number of record holders and includes stockholders whose shares are held in brokerage accounts or by other nominees. The number of holders of record presented here also does not include stockholders whose shares may be held in trust by other entities.
+Dividends.
+ We have never declared or paid any cash dividends on our capital stock, and we do not currently intend to pay any cash dividends for the foreseeable future. We expect to retain future earnings, if any, to fund the development and growth of our business. Any future determination to pay dividends on our common stock will be at the discretion of our board of directors and will depend upon, among other factors, our financial condition, operating results, current and anticipated cash needs, plans for expansion and other factors that our board of directors may deem relevant.
+Sale of Unregistered Securities
+. On November 27, 2024, we issued 30,000 shares of common stock to a former employee to resolve certain claims regarding stock options previously held by the employee. The shares were issued in a private transaction exempt from registration under the Securities Act of 1933, as amended, pursuant to Section 4(a)(2) thereof. We did not receive any cash proceeds from the issuance. The former employee represented his intention to acquire the securities for investment only and not with a view to distribution. Appropriate transfer restriction notations have been applied to the book-entry positions reflecting the shares.
+Item 6. [
+Reserved]
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+Unless the context otherwise requires, all references in this section to the “Company,” “we,” “us” or “our” refer to the business of Navitas and its subsidiaries. Throughout this section, unless otherwise noted, “Navitas” refers to Navitas Semiconductor Corporation and its consolidated subsidiaries.
+You should read the following discussion and analysis of our financial condition and results of operations together with our financial statements and the related notes appearing elsewhere in this annual report on Form 10-K. This discussion contains forward-looking statements that reflect our plans, estimates, and beliefs and that involve risks and uncertainties. As a result of many factors, such as those set forth under the “Risk Factors” and “Cautionary Statement About Forward-Looking Statements” sections and elsewhere in this annual report, our actual results may differ materially from those anticipated in these forward-looking statements.
+Overview
+Navitas Semiconductor Corporation, a Delaware holding company, operates through its wholly owned subsidiaries, including Navitas Semiconductor Limited and GeneSiC Semiconductor LLC (“GeneSiC”). Originally founded in 2014 as the legacy Navitas Semiconductor business, we were previously an SEC registrant named Live Oak Acquisition Corp. II (“Live Oak”). On October 19, 2021, we completed a business combination (which we refer to as the “Business Combination”) in which, among other transactions, Live Oak acquired Navitas Semiconductor Limited and its subsidiaries, changed our name to Navitas Semiconductor Corporation. We acquired GeneSiC Semiconductor in August 2022. Further details about the Business Combination and the acquisition of GeneSiC Semiconductor can be found in our SEC filings.
+Founded in 2014, Navitas is a U.S.-based developer of gallium nitride power integrated circuits that provide superior efficiency, performance, size and sustainability relative to existing silicon technology. Our solutions offer faster charging, higher power density and greater energy savings compared to silicon-based power systems with the same output power. By unlocking this speed and efficiency, we believe we are leading a revolution in high-frequency, high-efficiency and high-density power electronics to electrify our world for a cleaner tomorrow. We maintain operations around the world, 
+36
+TA
+BLE OF CONTENTS
+including the United States, Ireland, Germany, Italy, Belgium, China, Taiwan, Thailand, South Korea, and the Philippines, with principal executive offices in Torrance, California.
+We design, develop and market next-generation power semiconductors including gallium nitride (“GaN”) power integrated circuits (“ICs”), silicon carbide (“SiC”) and associated high-speed silicon system controllers, and digital isolators used in power conversion and charging. Power supplies incorporating our products may be used in a wide variety of electronics products including mobile phones, consumer electronics, data centers, solar inverters and electric vehicles. We utilize a fabless business model, working with third parties to manufacture, assemble and test our designs. Our fabless model allows us to run the business today with minimal capital expenditures.
+Our go-to-market strategy is based on partnering with leading manufacturers and suppliers through focused product development, addressing both mainstream and emerging applications. We consider ourselves to be a pioneer in the GaN market with a proprietary, proven GaN power IC platform that is shipping in mass production to tier-1 companies including Samsung, Dell, Lenovo, LG, Xiaomi, OPPO, Amazon, vivo, and Motorola. Most of the products we ship today are used primarily as components in mobile device chargers. Charger manufacturers we ship to today are worldwide, supporting major international mobile brands. Other emerging applications will also be addressed across the world.
+In support of our technology leadership, we have formed relationships with numerous Tier 1 manufacturers and suppliers over the past eight years, gaining significant traction in mobile and consumer charging applications. Navitas GaN has entered mass production and is being utilized by 9 out of the top 10 global mobile OEMs for the development of smartphones and laptops, with all 10 out of 10 currently in progress
+. In addition, our 
+supply chain partners have committed manufacturing capacity in excess of what we consider to be necessary to support our continued growth and expansion.
+A core strength of our business lies in our industry leading IP position. In addition to our comprehensive patent portfolio, our biggest proprietary advantage is our process design kit (PDK), the ‘how-to’ guide for Navitas designers to create new GaN based devices and circuits. Our GaN power IC inventions and intellectual property translate across all of our target markets from mobile, consumer, EV, enterprise, and renewables. We evaluate various complementary technologies and look to improve our PDK, in order to keep introducing newer genera
+tions of GaN technology. In the years ended December 31, 2024 and 2023, research and development expenses represented approximately 91% and 87%, respectively, of our revenue. Navitas’ research and development activities are 
+located primarily in the US and China. 
+Equity Method Investment
+In October 2024, the Company began applying the equity method of accounting for its related party investment, in accordance with 
+Accounting Standards Codification (“ASC”) 
+323, Investments—Equity Method and Joint Ventures. Under ASC 323, an investor must use the equity method when it has significant influence over the investee, typically indicated by ownership of 20% to 
+50
+% of the voting stock or other qualitative factors (e.g. board representation). The Company holds a 13.5% ownership stake in the investment and as part of the October 2024 transaction, received the option to appoint a representative to the investee’s board of directors. As a result, the Company remeasured its investment to its fair value of $5.55 per share as of the change in accounting and recognized its proportionate share of the investee’s earnings and losses for the period from November through December 2024, resulting in a net gain of $3.9 million for the year ended December 31, 2024. This amount is included in “Equity method investment gain” on the Statements of Operations.
+May 2023 Public Offering
+On May 26, 2023, the Company completed an underwritten public offering (the “May 2023 Public Offering”) of 10,000,000 shares of its Class A common stock at a public offering price of $8.00 per share, before deducting underwriting discounts and commissions. In connection with the May 2023 Public Offering, the Company granted the underwriters of the offering a 30-day option to purchase up to an additional 1,500,000 shares of the Company’s Class A common stock (the “Option Shares”) from the Company at the same public offering price. On June 1, 2023, the underwriters exercised in full their option to purchase the Option Shares. The sale of the Option Shares closed on June 5, 2023. After deducting underwriting discounts and commissions and before deducting offering expenses payable by the Company, the Company received net proceeds of $75.6 million and $11.3 million from the May 2023 Public Offering and sale of the Option Shares, 
+37
+TA
+BLE OF CONTENTS
+respectively. The total net proceeds received by the Company after deducting offering expenses was $86.5 million. The Company intends to use the net proceeds for working capital and other general corporate purposes, including potential acquisitions or strategic manufacturing investments.
+
+Buyout of Elevation Semiconductor
+On January 19, 2023, the Company announced an agreement to acquire the remaining minority interest in its silicon control IC joint venture from Halo Microelectronics International Corporation (“Halo”). Total consideration for the joint venture interests and certain intellectual property rights purchased from Halo, and certain other interests and agreements of Halo and joint venture employees, was approximately $22.4 million in Navitas stock. As Navitas was already the majority shareholder, financial results from the joint venture have already been reflected in Navitas’ historical financial statements. The transaction was completed on February 13, 2023. In connection with the purchase of intellectual property, the Company recognized an intangible asset at its estimated fair value of $4.4 million related to acquired intellectual property.
+Acquisition of GeneSiC
+On August 15, 2022, the Company entered into an Agreement and Plan of Merger (the “Merger Agreement”) to acquire 100% of the outstanding shares of GeneSiC Semiconductor Inc. (“GeneSiC”) for $146.3 million of equity, $97.1 million of cash consideration, and potential future earn-out payments of up to an aggregate of $25.0 million in cash. GeneSiC was a silicon carbide (“SiC”) pioneer with deep expertise in SiC power device design and process, based in Dulles, Virginia. The future earn-out payments were fair valued at $0.6 million, for a total merger consideration of $244.0 million.
+During the Company’s second quarter of 2023, the Company received information regarding products shipped by GeneSiC to a distributor prior to the Company’s acquisition of GeneSiC. GeneSiC had the option, but not the obligation, to accept returns sold to the distributor. The Company determined that a $1.7 million return liability should have been recorded as of the close of the acquisition on August 15, 2022. The Company recorded the return liability as a purchase price adjustment as of June 30, 2023, resulting in an increase to goodwill and accounts payable and other accrued expenses of $1.7 million.
+Acquisition of VDDTech
+On June 10, 2022, the Company’s wholly owned subsidiary, Navitas Semiconductor Limited, acquired all of the capital stock of VDDTECH srl, a private Belgian company (“VDDTech”), for approximately $1.9 million in cash and stock. Based in Mont-Saint-Guibert, Belgium, VDDTech creates advanced digital-isolators for next-generation power conversion. VDDTech’s net assets and operating results since the acquisition date are included in the Company’s Consolidated Balance Sheets and Consolidated Statement of Operations for the year ended December 31, 2024.
+Results of Operations
+Revenue
+We design, develop and manufacture GaN ICs, SiC MOSFETs and Schottky MPS diodes that deliver best-in-class performance, ruggedness and quality. Our revenue represents the sale of semiconductors through specialized distributors to original equipment manufacturers (“OEMs”), their suppliers and other end customers.
+Our revenues fluctuate in response to a combination of factors, including the following:
+•
+our overall product mix and sales volumes;
+•
+gains and losses in market share and design win traction;
+•
+pace at which technology is adopted in our end markets;
+•
+the stage of our products in their respective life cycles;
+•
+the effects of competition and competitive pricing strategies;
+38
+TA
+BLE OF CONTENTS
+•
+availability of specialized field application engineering resources supporting demand creation and end customer adoption of new products;
+•
+achieving acceptable yields and obtaining adequate production capacity from our wafer foundries and assembly and test subcontractors;
+•
+market acceptance of our end customers’ products; governmental regulations influencing our markets; and
+•
+the global and regional economic cycles;
+•
+declines in average selling prices due product advances and market competition;
+•
+changes in customer and distributor relationships including the impact of the Q4 2024 disengagement with a significant distributor and the ability to replace the associated volumes with a combination existing and new distributors;
+•
+seasonal demand patterns particularly in mobile and consumer markets.
+Our product revenue is recognized when the customer obtains control of the product and the timing of recognition is based on the contractual shipping terms of a contract. We provide a non-conformity warranty which is not sold separately and does not represent a separate performance obligation. Our product revenue is diversified across the United States, Europe, and Asia. We consider the domicile of our end customers, rather than the distributors we sell to directly to be the basis of attributing revenues from external customers to individual countries. Revenue for the twelve months ended December 31, 2024 and 2023, excluding channel inventories, were attributable to end customers in the following countries:
+Year Ended December 31,
+Country
+2024
+2023
+China
+60 
+%
+62 
+%
+United States
+16 
+%
+13 
+%
+Asia excluding China
+15 
+%
+8 
+%
+Europe*
+8 
+%
+17 
+%
+All others
+1 
+%
+— 
+%
+Total
+100 
+%
+100 
+%
+*Impractical to disclose revenue percentages by individual countries within Europe and therefore is presented in total.
+Cost of Revenues
+Cost of revenues consists primarily of the cost of semiconductors purchased from subcontractors, including wafer fabrication, assembly, testing and packaging, manufacturing support costs, including labor and overhead (which includes depreciation and amortization) associated with such purchases, final test and wafer level yield fallout, inventory impairments, consumables, system and shipping costs. Cost of revenues also includes compensation related to personnel associated with manufacturing, including costs related to cash and stock-based employee compensation.
+Research and Development Expense
+Costs related to research, design and development of our products are expensed as incurred. Research and development expense consists primarily of pre-production costs related to the design and development of our products and technologies, including costs related to cash and stock-based employee compensation, benefits and related costs of sustaining our engineering teams, project material costs, third-party fees paid to consultants, prototype development expenses, write-offs of material to be utilized in research and development, and other costs incurred in the product design and development process.    
+39
+TA
+BLE OF CONTENTS
+Selling, General and Administrative Expense
+Selling, general and administrative costs include employee compensation, including cash and stock-based compensation and benefits for executive, finance, business operations, sales, field application engineers and other administrative personnel. In addition, it includes marketing and advertising, IT, outside legal, tax and accounting services, insurance, and occupancy costs and related overhead based on headcount. Selling, general and administrative costs are expensed as incurred.
+Interest Income (Expense), net
+Interest income (expense), net primarily consists of
+ interest associated with our royalty agreement
+.
+Dividend Income
+Dividend income consist of income earned on money market treasury funds that are recorded as cash equivalents.
+Income Taxes
+Legacy N
+avitas is a dual domesticated corporation for Ireland and U.S. federal income tax purposes. Refer to Note 14 - “Provision for Income Taxes”, in our accompanying consolidated fina
+ncial statements elsewhere in this annual report.
+Results of Operations
+The tables and discussion below present our results for the years ended 
+December 31, 2024
+ and 
+2023
+ (in thousands):
+Year Ended December 31,
+Change
+$
+Change
+%
+(dollars in thousands)
+2024
+2023
+Net revenues
+$
+83,302 
+$
+79,456 
+$
+3,846 
+5 
+%
+Cost of revenues (exclusive of amortization of intangibles included below)
+54,963 
+48,392 
+6,571 
+14 
+%
+Operating expenses:
+Research and development
+76,002 
+68,825 
+7,177 
+10 
+%
+Selling, general and administrative
+62,863 
+61,551 
+1,312 
+2 
+%
+Amortization of intangible assets
+18,926 
+18,820 
+106 
+1 
+%
+Restructuring expense
+1,223 
+— 
+1,223 
+— 
+%
+Total operating expenses
+159,014 
+149,196 
+9,818 
+7 
+%
+Loss from operations
+(130,675)
+(118,132)
+(12,543)
+11 
+%
+Other income (expense), net:
+Interest (expense) income, net
+(150)
+1,314 
+(1,464)
+(111)
+%
+Dividend income
+5,233 
+4,054 
+1,179 
+29 
+%
+Gain (loss) from change in fair value of earnout liabilities
+36,644 
+(33,788)
+70,432 
+(208)
+%
+Other income
+102 
+84 
+18 
+21 
+%
+Total other income (expense), net
+41,829 
+(28,336)
+70,165 
+(248)
+%
+Loss before income taxes
+(88,846)
+(146,468)
+57,622 
+(39)
+%
+Income tax benefit
+(342)
+(517)
+175 
+(34)
+%
+Equity method investment gain
+3,905 
+— 
+3,905 
+— 
+%
+Net loss
+$
+(84,599)
+$
+(145,951)
+$
+61,352 
+(42)
+%
+Less: net loss attributable to noncontrolling interest
+— 
+(518)
+518 
+(100)
+%
+Net loss attributable to controlling interest
+$
+(84,599)
+$
+(145,433)
+$
+60,834 
+(42)
+%
+40
+TA
+BLE OF CONTENTS
+Comparison of the Years ended December 31, 2024 and 2023
+Revenue
+Net revenues for the twelve months ended December 31, 2024 were $83.3 million compared to $79.5 million for the twelve months ended December 31, 2023, an increase of $3.8 million, or 5%. The increase was driven primarily by the growth in mobile markets.
+Cost of Revenues
+Cost of revenues for the twelve months ended December 31, 2024 was $55.0 million, an increase of $6.6 million or 14% compared to the twelve months ended December 31, 2023. The increase was primarily driven by a $5.0 million inventory reserve related to a distributor disengagement and an increase in revenue from the mobile market. 
+Research and Development Expense
+Research and development expense for the twelve months ended December 31, 2024 of $76.0 million increased by $7.2 million, or 10%, when compared to the twelve months ended December 31, 2023, primarily driven by an increase in product and package development as it relates to EV, enterprise and solar, coupled with a one-time $1.7 million project expense, a $2.0 million other asset impairment, as well as other R&D material purchases.
+Selling, General and Administrative Expense
+Selling, general and administrative expense for the twelve months ended December 31, 2024 of $62.9 million increased by $1.3 million, or 2%, when compared to the twelve months ended December 31, 2023. The increase is primarily driven by a $7.5 million bad debt expense due to a distributor disengagement. These expenses were largely offset by a decrease in stock-based compensation of approximately $8.0 million.
+Amortization of Definite-Lived Intangible Assets
+Amortization of definite-lived intangible assets for the twelve months ended December 31, 2024 of $18.9 million increased by $0.1 million, or 1%, when compared to the twelve months ended December 31, 2023. Amortization of intangible assets remained fairly consistent as we did not acquire new intangible assets.
+Restructuring Expenses
+We announced a cost-reduction plan (“2024 Restructuring Plan”). The 2024 Restructuring Plan includes a reduction in headcount with the majority of the costs consisting of employee severance and benefits. We incurred $1.2 million
+
+related to this plan for the twelve months ended December 31, 2024. 
+Other Income (Expense), net
+Net interest income (expense), net for the twelve months ended 
+December 31, 2024
+ o
+f $(0.2) million compared to income of $1.3 million for the twelve months ended December 31, 2023. The $0.2 million expense as of December 31, 2024 is primarily due to interest associated with our royalty agreement. The $1.3 million interest income in 2023 was due the interest rate received on money markets funds.
+Dividend income consists of income earned on our money market treasury funds that are recorded as cash equivalents in our Consolidated Balance Sheets. Increase of $1.2 million in dividend income from December 31, 2023 to December 31, 2024 is primarily due to the timing of when we transferred money into our money market treasury funds. As a result, the prior-year figure reflects only nine months of activity compared to twelve months in the current year.
+41
+TA
+BLE OF CONTENTS
+During the twelve months ended December 31, 2024, we recognized a $36.6 million gain from a decrease in fair value of our earnout liabilities. The gain of $36.6 million in our earn-out liability was primarily a result of the decrease of the closing price of our Class A common stock listed on the Nasdaq, resulting in a decrease in the estimated fair value of the earnout shares from $5.50 as of December 31, 2023 to $1.18 as of December 31, 2024
+.
+Income Tax Benefit
+Income tax benefit for the twelve months ended December 31, 2024 was $0.3 million while for the twelve months ended December 31, 2023, income tax benefit was $0.5 million. We expect our tax rate to remain close to zero in the near term due to full valuation allowances against deferred tax assets.
+Equity method investment gain
+In October 2024, we began applying the equity method to account for our joint venture investment. We adjusted the investment to its fair value of $5.55 per share as of the accounting change and recognized our proportionate share of the joint venture’s loss from the period November through December 2024, resulting in a net gain of $3.9 million for the year ended 
+December 31, 2024.
+Liquidity and Capital Resources
+Our primary use of cash is to fund our operating expenses, working capital requirements, and outlays for strategic investments and acquisitions. In addition, we use cash to conduct research and development, incur capital expenditures.
+We expect to continue to incur net operating losses and negative cash flows from operations and we expect our research and development expenses, general and administrative expenses and capital expenditures will remain relatively flat.
+As 
+December 31, 2024
+, we had cash and cash equival
+ents of $86.7 million. We currently expect to fund our cash requirements through the use of cash and cash equivalents on hand. 
+We believe that our current levels of cash and cash equivalents are sufficient to finance our operations, working capital requirements and capital expenditures for the foreseeable future.
+We expect our operating and capital expenditures to remain relatively flat. If additional funds are required to support our working capital requirements, acquisitions or other purposes, we may seek to raise funds through additional equity or debt financing or from other sources. If we raise additional funds through the issuance of equity, the percentage ownership of our equity holders could be significantly diluted, and these newly issued securities may have rights, preferences or privileges senior to those of existing equity holders. If we raise additional funds by obtaining loans from third parties, the terms of those financing arrangements may include negative covenants or other restrictions on our business that could impair our operating flexibility and would also 
+require us to incur interest expense. We can provide no assurance that additional financing will be available at all or, if available, that we would be able to obtain additional financing on terms favorable to us.
+42
+TA
+BLE OF CONTENTS
+Cash Flows
+The followin
+g table summarizes our consolidated cash flows for the periods presented (in thousands):
+Year Ended December 31,
+2024
+2023
+Consolidated Statements of Cash Flows Data:
+Net cash used in operating activities
+$
+(58,823)
+$
+(41,379)
+Net cash used in investing activities
+$
+(9,271)
+$
+(5,782)
+Net cash provided by financing activities
+$
+3,495 
+$
+89,663 
+We derive liquidity primarily from cash on hand and equity financing activities. As of
+ December 31, 2024, our balance of cash and cash equivalents was $86.7 million, which is a decrease of $65.2 million or 43% co
+mpared to December 31, 2023. 
+Operating Activities
+For the year ended December 31, 2024, net cash used in operating activities was $58.8 million, which primarily reflects a net loss of $84.6 million, adjusted for non-cash stock-based compensation of $43.0 million, non-cash gains of $40.5 million in earnout and our equity investment due to changes in fair value, $7.9 million of non-cash bonus accruals, $7.7 million for our allowance for credit losses, a $2.0 million impairment of other asset, and an aggregate cash used in operating assets and liabilities of $1.9 million. Specifically, the changes reflect a $2.8 million
+
+decrease in accounts payable, accrued compensation and other accrued expenses, $11.0 million decrease in customer deposit and deferred revenue, $1.7 million decrease in operating lease liability, partially offset by a $4.2 million decrease in accounts receivable, $6.8 million decrease in inventories, a decrease of $0.6 million in other assets, and a $2.1 million decrease in prepaid expenses and other current assets.
+For the year ended December 31, 2023, net cash used in operating activities was $41.4 million, which primarily reflects a net loss of $146.0 million, adjusted for non-cash stock-based compensation of $54.0 million, non-cash losses of $33.8 million in earnout due to changes in fair value, $2.8 million of non-cash bonus accruals, and an aggregate cash provided in operating assets and liabilities of $2.8 million. Specifically, the changes reflect $16.7 million increase in accounts receivable and $3.2 million increase inventory, both as a result of higher revenues, $2.6 million increase in prepaids and other current assets, and a $2.5 million increase in other assets, partially offset by an increase of $13.7 million in accounts payable primarily due to timing of disbursements and higher inventory, and an increase of $10.5 million in deferred revenue.
+Investing Activities
+Net cash used in investing activities for the year ended December 31, 2024 of $9.3 million was primarily due to purchases of fixed assets of $6.8 million and $2.5 million cash funding of a joint venture.
+Net cash used in investing activities for the year ended December 31, 2023 of $5.8 million was primarily due to purchases of fixed assets of $4.8 million and $1.0 million cash funding of a joint venture.
+Financing Activities
+Net cash provided by financing activities for the year ended December 31, 2024 of $3.5 million was primarily the result of proceeds from stock option exercises of $0.8 million and proceeds from our employee stock purchase plan of $2.7 million.
+Net cash provided by financing activities for the year ended December 31, 2023 of $89.7 million was primarily the result of proceeds from the issuance of common stock in our May 2023 public offering, net of issuance costs, of $86.5 
+43
+TA
+BLE OF CONTENTS
+million, proceeds from the issuance of common stock in connection with stock option exercises of $1.9 million and proceeds from our employee stock purchase plan of $1.3 million.
+Contractual Obligations, Commitments and Contingencies
+In the ordinary course of business, we enter into contractual arrangements that may require future cash payments. As of 
+December 31, 2024
+, our non-cancellable contractual arrangements consisted of lease obligations and an agreement for the purchase of equipment. Refer to Note 9 - “Leases” for further information on our minimum future payments related to lease obligations. In December 2024, we entered into an agreement with a vendor for the purchase of equipment, requiring quarterly installment payments. Refer to Note 15 - “Commitments and Contingencies” for additional details on purchase obligations.
+Off-Balance Sheet Commitments and Arrangements
+As of 
+December 31, 2024
+, we did not have any off-balance sheet arrangements as discussed in Instruction 8 to Item 303(b) of Regulation S-K.
+Critical Accounting Policies
+The preparation of our financial statements and related disclosures in accordance with U.S. GAAP requires our management to make judgments, assumptions and estimates that affect the amounts reported in our accompanying consolidated financial statements and the accompanying notes included elsewhere in this annual report. Our management bases its estimates and judgments on historical experience, current economic and industry conditions and on various other factors that are believed to be reasonable under the circumstances. Actual results may differ from these estimates under different assumptions or conditions.
+The methods, estimates, and judgments that we use in applying our accounting policies have a significant impact on the results that we report in our consolidated financial statements. Some of our accounting policies require us to make difficult and subjective judgments, often as a result of the need to make estimates regarding matters that are inherently uncertain.
+We utilize the following critical accounting policies in the preparation of our financial statements. In addition to our critical accounting policies below, see Note 2 - “Significant Accounting Policies” in the notes to our audited consolidated financial statements included elsewhere in this Form 10-K.
+Revenue Recognition
+Revenue is recognized when a customer obtains control of products or services in an amount that reflects the consideration which we expect to receive in exchange for those goods or services. To determine revenue recognition for arrangements within the scope of ASC 606, 
+“Revenue from Contracts with Customers”
+, we perform the following five steps: (1) identify the contract(s) with a customer; (2) identify the performance obligations in the contract; (3) determine the transaction price; (4) allocate the transaction price to the performance obligations in the contract; and (5) recognize revenue when (or as) we satisfy performance obligations. We recognize revenue when the control of the promised goods or services is transferred to customers in an amount that reflects the consideration we expect to receive in exchange for such goods or services.
+The majority of our revenue is derived from the sale of semiconductor products. In determining the transaction price, we evaluate whether the price is subject to refund or adjustment to determine the net consideration to which we expect to be entitled.
+Revenue is recognized when control of the product is transferred to the customer (i.e., when our performance obligation is satisfied), which is defined by the commercial terms of each purchase but typically occurs at shipment. In 
+44
+TA
+BLE OF CONTENTS
+determining whether control has transferred, we consider if there is a present right to payment and legal title, and whether risks and rewards of ownership have transferred to the customer. Refer to Note 2 - “Significant Accounting Policies” to our consolidated financial statements included elsewhere in this annual report for additional discussion of our revenue recognition policy.
+Business Combinations
+
+We account for
+
+business combinations using the acquisition method of accounting, in accordance with ASC 805
+,
+
+“Business Combinations”
+. The acquisition method requires identifiable assets acquired and liabilities assumed be recognized and measured at fair value on the acquisition date, which is the date that the acquirer obtains control of the acquired business. 
+The excess of purchase price over the fair value of assets acquired and liabilities assumed is recorded as goodwill. Determining fair value of identifiable assets, particularly intangibles, and liabilities acquired also requires management to make estimates, which are based on all available information and in some cases assumptions with respect to the timing and amount of future revenues and expenses associated with an asset. This judgment and determination affects the amount of consideration paid that is allocatable to assets and liabilities acquired in the business purchase transaction. 
+Examples of critical estimates in valuing certain of the intangible assets and goodwill we have acquired include, but are not limited to, future expected cash inflows and outflows, expected technology life cycle, and discount rates. We estimate the useful lives of the intangible assets based on the expected period over which we anticipate generating economic benefit from the asset. Unanticipated events and circumstances may occur that may affect the accuracy or validity of such assumptions, estimates or actual results.
+Valuation of Inventory
+We assess inventory to address potential obsolescence and declining values through periodic assessments, considering factors including estimates for future demand and net realizable value. Identified impaired inventory items are adjusted to reflect net realizable values. Changes in assumptions of product demand, the future salability of inventory, and the net realizable value of obsolete and unmarketable inventory could have a significant impact on the amount of the reserve recorded. These assumptions include the assessment of market conditions and trends, expected demand inclusive of sales forecasts, anticipated sales and market prices, and product obsolescence.
+Stock-Based Compensation
+We account for awards of stock-based compensation under our employee stock-based compensation plan using the fair value method. Accordingly, we estimate fair value of our stock-based awards and amortized this fair value to stock-based compensation expense over the requisite service period or vesting terms. 
+RSUs 
+- The fair value per unit of each RSU grant award is determined on the grant date based on the Company’s stock price. Stock-based compensation is recognized on a straight-line basis over the requisite service period of the award. Forfeitures are recognized as they occur.
+ESPP 
+- We currently use the Black-Scholes option-pricing model to estimate the fair value of our Employee Stock Purchase Plan (ESPP) awards and amortize the expense over the requisite service period. The ESPP awards require management to make assumptions and to apply judgment in determining the fair value of the awards. The most significant assumptions and judgments include the expected volatility, risk-free interest rate, expected dividend rate and expected term of the award, in addition to the fair value of the underlying common stock. 
+LTIPs
+ - The fair value for each tranche of the Long-term Incentive Plan Stock Option (“LTIP”) awards was determined using Black-Scholes model and a Monte Carlo simulation estimated at the initial grant date. We utilized the services of a professional valuation firm to develop the grant date fair value. The LTIP awards vest based on the achievement of certain market (stock price hurdles) and performance conditions (revenue and/or EBITDA targets). During the years ended December 31, 2024 and 2023, the LTIP awards require management to make assumptions and to apply judgment in determining the timing and amount of the recognition of the awards. The most significant assumptions and judgments include management’s forecasts related to award performance conditions, including whether certain 
+45
+TA
+BLE OF CONTENTS
+performance conditions are probable. Awards are not recognized until they are deemed to be probable to vest, and awards may be derecognized if they are determined to be no longer probable. 
+Earnout Shares
+Certain shareholders of the Company are eligible to receive up to 10,000,000 Earnout Shares of the Company's Class A common stock, contingent upon the fulfillment of Earnout Milestones. These milestones consist of three distinct criteria, with each criterion granting eligible stockholders 3,333,333 earn-out shares upon meeting the specified conditions. Each Earnout Milestone is deemed achieved if, at any time within 150 days following the Business Combination and before October 19, 2026, the volume-weighted average price of the Company's Class A common stock reaches or exceeds $12.50, $17.00, or $20.00 for any twenty trading days within a thirty trading day period, respectively.
+These earnout shares have been categorized into two components: (i) the “Vested Shares” - those associated with stockholders with vested equity at the closing of the Business Combination that will be earned upon achievement of the Earnout Milestones. Any forfeited shares from unvested holders will be reallocated among the remaining earnout holders and (ii) the “Unvested Shares” - those associated with stockholders with unvested equity at the closing of the Business Combination which are subject to forfeiture if the employee leaves prior to the achievement of the Earnout Milestones. As the implicit service period has passed, these shares now remain contingent solely on meeting the earnout performance condition. The Vested Shares are classified as liabilities in the Consolidated Balance Sheets and the Unvested Shares are equity-classified stock-based compensation to be recognized over time (see Note 10 - “Stock-based Compensation”). The earnout liability was initially measured at fair value at the closing of the Business Combination and subsequently remeasured at the end of each reporting period. The change in fair value of the earn-out liability is recorded as part of “Other income (expense), net” in the consolidated statement of operations.
+The estimated fair value of the earnout liability was determined using a Monte Carlo analysis of 20,000 simulations of the future path of the Company’s stock price over the earnout period. The assumptions utilized in the calculation are based on the achievement of certain stock price milestones including projected stock price, volatility, and risk-free rate. 
+Recently Issued and Adopted Accounting Standards
+See Not
+e 2 - “Significant Accounting Policies” to our consolidated financial statements included elsewhere in this annual report for a discussion of accounting pronouncements recently adopted and recently issued accounting pronouncements not yet adopted and their potential impact to our financial statements.
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk.
+As a “smaller reporting company” as defined in Item 10 of Regulation S-K, we are exempt from the disclosure requirements of this item in our Form 10-K.
+46
+TA
+BLE OF CONTENTS
+Item 8. 
+Financial Statements and Supplementary Data.
+Report of Independent Registered Public Accounting Firms
+
+(Moss Adams, LLP, PCAOB ID 
+659
+)
+F-2
+Consolidated Balance Sheets
+F-5
+Consolidated Statements of Operations
+F-6
+Consolidated Statements of Stockholders’ Equity
+F-8
+Consolidated Statements of Cash Flows
+F-9
+Notes to Consolidated Financial Statements
+F-11
+F-1
+TA
+BLE OF CONTENTS
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the Shareholders and the Board of Directors of
+Navitas Semiconductor Corporation
+Opinion on the Financial Statements
+We have audited the accompanying consolidated balance sheets of Navitas Semiconductor Corporation (the “Company”) as of December 31, 2024 and 2023, the related consolidated statements of operations, stockholders’ equity and cash flows for the years then ended, and the related notes (collectively referred to as the “consolidated financial statements”). In our opinion, the consolidated financial statements present fairly, in all material respects, the consolidated financial position of the Company as of December 31, 2024 and 2023 and the consolidated results of its operations and its cash flows for the years then ended, in conformity with accounting principles generally accepted in the United States of America.
+Basis for Opinion
+These consolidated financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s consolidated financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (“PCAOB”) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company’s internal control over financial reporting. Accordingly, we express no such opinion.
+Our audits included performing procedures to assess the risks of material misstatement of the consolidated
+
+financial statements, whether due to error or fraud, and performing procedures to respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated
+
+financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audits provide
+
+a reasonable basis for our opinion.
+Critical Audit Matter
+The critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial statements that was communicated or required to be communicated to the audit committee and that (1) relates to accounts or disclosures that are material to the consolidated financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+F-2
+TA
+BLE OF CONTENTS
+Valuation of Inventory – Expected Demand and Net Realizable Value
+As described in Notes 2 and 5 to the consolidated financial statements, the Company’s inventory balance was $15.5 million as of December 31, 2024. The Company values inventory at lower of cost (first-in, first-out) or market. The Company periodically reviews inventory for potential obsolescence based upon an aging analysis of the inventory on hand, specifically known inventory-related risks, and assumptions about future demand and net realizable value that incorporate market conditions. Inventory items determined to be impaired are reduced to their net realizable values.
+The potential obsolescence is subjective and primarily dependent on the estimates of future demand and net realizable value for a particular product. Changes in assumptions of product demand, the future salability of inventory, and the net realizable value of obsolete and unmarketable inventory could have a significant impact on the amount of the reserve recorded. These assumptions include the assessment of market conditions and trends, expected demand inclusive of sales forecasts, anticipated sales and market prices, and product obsolescence.
+We identified the valuation of inventory, in particular the estimate for potential obsolescence to reduce inventory to net realizable value and the significant assumptions relating to future demand and net realizable value, as a critical audit matter, because of the subjective judgments used by management, which involved significant audit effort and the use of especially challenging and subjective auditor judgment when performing audit procedures and evaluating the results of those procedures.
+Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the consolidated financial statements. Our audit procedures related to the estimates for future demand and net realizable value included the following, among others:
+•
+Evaluating the design and implementation of internal controls related to the Company’s estimated future demand and net realizable value including the Company’s review of future demand as reflected in the quarterly sales forecasts and application within the inventory reserve calculation.
+•
+Evaluating management’s process used in developing the estimate by:
+◦
+Evaluating the reasonableness of the methodology used.
+◦
+Evaluating the reasonableness of the significant assumptions used, including, among others:
+▪
+Examining purchase orders and/or other audit evidence of future demand.
+▪
+Performing inquiries with non-financial personnel regarding slow-moving or obsolete inventory items and future expectations for selling prices.
+▪
+Testing the completeness, accuracy, and relevance of the underlying data used.
+▪
+Assessing the reasonableness of management’s expected net realizable value as reflected in anticipated sales and market prices through agreement to third party vendor information and experienced history.
+/s/ 
+Moss Adams LLP
+Los Angeles, CA
+March 19, 2025
+We have served as the Company’s auditor since 2023.
+F-3
+TA
+BLE OF CONTENTS
+NAVITAS SEMICONDUCTOR CORPORATION
+CONSOLIDATED 
+BALANCE SHEETS
+(In thousands, except shares and par value)
+December 31, 2024
+December 31, 2023
+ASSETS
+CURRENT ASSETS:
+Cash and cash equivalents
+$
+86,737
+
+$
+151,892
+
+Accounts receivable, net of allowance of $
+135
+ and $
+0
+, respectively
+13,982
+
+25,858
+
+Inventories
+15,477
+
+22,234
+
+Prepaid expenses and other current assets
+4,070
+
+6,178
+
+Total current assets
+120,266
+
+206,162
+
+RESTRICTED CASH
+1,503
+
+947
+
+PROPERTY AND EQUIPMENT, net
+15,421
+
+9,154
+
+OPERATING LEASE RIGHT OF USE ASSETS
+6,900
+
+8,268
+
+INTANGIBLE ASSETS, net
+72,195
+
+91,099
+
+GOODWILL
+163,215
+
+163,215
+
+OTHER ASSETS
+10,478
+
+6,701
+
+Total assets
+$
+389,978
+
+$
+485,546
+
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+CURRENT LIABILITIES:
+Accounts payable and other accrued expenses
+$
+10,754
+
+$
+24,740
+
+Accrued compensation expenses
+8,623
+
+10,902
+
+Operating lease liabilities, current
+1,767
+
+1,892
+
+Customer deposit and deferred revenue
+—
+
+10,953
+
+Total current liabilities
+21,144
+
+48,487
+
+OPERATING LEASE LIABILITIES NONCURRENT
+5,553
+
+6,653
+
+EARNOUT LIABILITY
+10,208
+
+46,852
+
+DEFERRED TAX LIABILITIES
+441
+
+1,040
+
+NONCURRENT LIABILITIES
+4,619
+
+1,897
+
+Total liabilities
+41,965
+
+104,929
+
+COMMITMENTS AND CONTINGENCIES (Note 15)
+STOCKHOLDERS’ EQUITY:
+Class A common stock, $
+0.0001
+ par value, 
+740,000,000
+ shares authorized as of December 31, 2024 and 2023, 
+188,114,202
+ and 
+179,196,418
+ shares issued and outstanding at December 31, 2024 and 2023, respectively
+22
+
+21
+
+Class B common stock, $
+0.0001
+ par value, 
+10,000,000
+ shares authorized as of December 31, 2024 and 2023, and 
+0
+ shares issued and outstanding at both December 31, 2024 and 2023
+—
+
+—
+
+Additional paid-in capital
+732,784
+
+680,790
+
+Accumulated other comprehensive loss
+(
+7
+)
+(
+7
+)
+Accumulated deficit
+(
+384,786
+)
+(
+300,187
+)
+Total stockholders’ equity
+348,013
+
+380,617
+
+Total liabilities and stockholders' equity
+$
+389,978
+
+$
+485,546
+
+The accompanying notes are an integral part of these consolidated financial statements.
+F-4
+TA
+BLE OF CONTENTS
+NAVITAS SEMICONDUCTOR CORPORATION
+CONSOLIDATED 
+STATEMENTS OF OPERATIONS
+Year Ended December 31,
+(In thousands, except per share amounts)
+2024
+2023
+NET REVENUES
+$
+83,302
+
+$
+79,456
+
+COST OF REVENUES (exclusive of amortization of intangible assets included below)
+54,963
+
+48,392
+
+OPERATING EXPENSES:
+Research and development
+76,002
+
+68,825
+
+Selling, general and administrative
+62,863
+
+61,551
+
+Amortization of intangible assets 
+18,926
+
+18,820
+
+Restructuring expense
+1,223
+
+—
+
+Total operating expenses
+159,014
+
+149,196
+
+LOSS FROM OPERATIONS
+(
+130,675
+)
+(
+118,132
+)
+OTHER INCOME (EXPENSE), net:
+Interest income (expense)
+(
+150
+)
+1,314
+
+Dividend income
+5,233
+
+4,054
+
+Gain (loss) from change in fair value of earnout liabilities
+36,644
+
+(
+33,788
+)
+Other income
+102
+
+84
+
+Total other income (expense), net
+41,829
+
+(
+28,336
+)
+LOSS BEFORE INCOME TAXES
+(
+88,846
+)
+(
+146,468
+)
+INCOME TAX BENEFIT
+(
+342
+)
+(
+517
+)
+Equity method investment gain
+3,905
+
+—
+
+NET LOSS
+$
+(
+84,599
+)
+$
+(
+145,951
+)
+LESS: NET LOSS ATTRIBUTABLE TO NONCONTROLLING INTERESTS
+—
+
+(
+518
+)
+NET LOSS ATTRIBUTABLE TO CONTROLLING INTERESTS
+$
+(
+84,599
+)
+$
+(
+145,433
+)
+NET LOSS PER COMMON SHARE:
+Basic net loss per share attributable to common stockholders
+$
+(
+0.46
+)
+$
+(
+0.86
+)
+Diluted net loss per share attributable to common stockholders
+$
+(
+0.46
+)
+$
+(
+0.86
+)
+WEIGHTED AVERAGE COMMON SHARES USED IN NET LOSS PER SHARE ATTRIBUTABLE TO COMMON STOCKHOLDERS:
+Basic common shares
+182,460
+
+168,927
+
+Diluted common shares
+182,460
+
+168,927
+
+The accompanying notes are an integral part of these consolidated financial statements.
+F-5
+TABLE OF CONTENTS
+NAVITAS SEMICONDUCTOR CORPORATION
+CONSOLIDATED STATEMENTS OF 
+STOCKHOLDERS’ EQUITY
+Stockholder's Equity
+(In thousands)
+Class A common stock
+Additional
+paid in
+capital
+Accumulated
+deficit
+Accumulated
+comprehensive
+income (loss)
+Non-controlling Interest
+Total
+Shares
+Amount
+Balance at December 31, 2022
+153,629
+
+$
+18
+
+$
+535,875
+
+$
+(
+154,754
+)
+$
+(
+7
+)
+$
+3,628
+
+$
+384,760
+
+Issuance of common stock under employee stock option and stock award plans
+9,835
+
+— 
+5,904
+
+— 
+— 
+— 
+5,904
+
+Stock-based compensation expense related to employee and non-employee stock awards
+— 
+— 
+45,043
+
+— 
+— 
+— 
+45,043
+
+Shares issued in public offering
+11,500
+
+3
+
+86,459
+
+— 
+— 
+— 
+86,462
+
+Shares issued in connection with buyout agreement
+4,232
+
+— 
+7,509
+
+— 
+— 
+(
+3,110
+)
+4,399
+
+Net loss
+— 
+— 
+— 
+(
+145,433
+)
+— 
+(
+518
+)
+(
+145,951
+)
+Balance at December 31, 2023
+179,196
+
+$
+21
+
+$
+680,790
+
+$
+(
+300,187
+)
+$
+(
+7
+)
+$
+—
+
+$
+380,617
+
+Issuance of common stock under employee stock option and stock award plans
+8,918
+
+1
+
+12,758
+
+— 
+— 
+— 
+12,759
+
+Stock-based compensation expense related to employee and non-employee stock awards
+— 
+— 
+39,236
+
+— 
+— 
+— 
+39,236
+
+Net loss
+— 
+— 
+— 
+(
+84,599
+)
+— 
+— 
+(
+84,599
+)
+Balance at December 31, 2024
+188,114
+
+$
+22
+
+$
+732,784
+
+$
+(
+384,786
+)
+$
+(
+7
+)
+$
+—
+
+$
+348,013
+
+The accompanying notes are an integral part of these consolidated financial statements.
+F-6
+TABLE OF CONTENTS
+NAVITAS SEMICONDUCTOR CORPORATION
+CONSOLIDATED STATEMENTS OF 
+CASH FLOWS
+Year Ended December 31,
+(In thousands)
+2024
+2023
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net loss
+$
+(
+84,599
+)
+$
+(
+145,951
+)
+Adjustments to reconcile net loss to net cash used in operating activities:
+Depreciation
+2,967
+
+2,160
+
+Amortization of intangibles
+18,926
+
+18,820
+
+Non-cash lease expense
+1,888
+
+2,036
+
+Impairment of other asset
+2,014
+
+—
+
+Other
+—
+
+85
+
+Stock-based compensation expense
+43,031
+
+54,028
+
+Allowance for expected credit losses
+7,689
+
+—
+
+Gain from change in fair value of investment
+(
+3,905
+)
+—
+
+(Gain) loss from change in fair value of earnout liability
+(
+36,644
+)
+33,788
+
+Loss on disposition of property and equipment
+148
+
+—
+
+Deferred income taxes
+(
+599
+)
+(
+784
+)
+Non-cash bonus accruals
+(
+7,882
+)
+(
+2,757
+)
+Change in operating assets and liabilities:
+Accounts receivable
+4,187
+
+(
+16,731
+)
+Inventories
+6,757
+
+(
+3,173
+)
+Prepaid expenses and other current assets
+2,108
+
+(
+2,555
+)
+Other assets
+592
+
+(
+2,546
+)
+Accounts payable, accrued compensation and other accrued expenses
+(
+2,803
+)
+13,680
+
+Operating lease liability
+(
+1,745
+)
+(
+1,946
+)
+Customer deposit and deferred revenue
+(
+10,953
+)
+10,467
+
+Net cash used in operating activities
+(
+58,823
+)
+(
+41,379
+)
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Investment purchases
+(
+2,500
+)
+(
+1,000
+)
+Purchases of property and equipment
+(
+6,771
+)
+(
+4,782
+)
+Net cash used in investing activities
+(
+9,271
+)
+(
+5,782
+)
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Proceeds from issuance of common stock in connection with stock option exercises
+812
+
+1,923
+
+Proceeds from issuance of common stock in May 2023 public offering
+—
+
+86,941
+
+Payment of May 2023 public offering costs
+—
+
+(
+482
+)
+Proceeds from employee stock purchase plan
+2,683
+
+1,281
+
+Net cash provided by financing activities
+3,495
+
+89,663
+
+NET INCREASE (DECREASE) IN CASH
+(
+64,599
+)
+42,502
+
+CASH, CASH EQUIVALENTS, AND RESTRICTED CASH AT BEGINNING OF PERIOD
+152,839
+
+110,337
+
+CASH, CASH EQUIVALENTS, AND RESTRICTED CASH AT END OF PERIOD
+$
+88,240
+
+$
+152,839
+
+RECONCILIATION OF CASH, CASH EQUIVALENTS AND RESTRICTED CASH
+Cash and cash equivalents
+$
+86,737
+
+$
+151,892
+
+Restricted cash
+1,503
+
+947
+
+TOTAL CASH, CASH EQUIVALENTS AND RESTRICTED CASH
+$
+88,240
+
+$
+152,839
+
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:
+Cash paid for income taxes
+$
+296
+
+$
+160
+
+Capital expenditures not yet paid
+$
+3,110
+
+$
+499
+
+Shares issued in connection with buyout agreement
+—
+
+22,400
+
+The accompanying notes are an integral part of these consolidated financial statements.
+F-7
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+1. 
+ORGANIZATION AND BASIS OF PRESENTATION
+The Company was founded in 2014 and has since been developing next-generation power semiconductors including gallium nitride (GaN) power integrated circuits (ICs), silicon carbide (SiC) and associated high-speed silicon system controllers and digital isolators used in power conversion and charging. The Company presently operates as a product design house that contracts the manufacturing of its chips and packaging to partner suppliers. Navitas maintains its operations around the world, including the United States, Ireland, Germany, Italy, Belgium, China, Taiwan, Thailand, South Korea and the Philippines, with principal executive offices in Torrance, California.
+The Company has 
+two
+ authorized classes of common stock: Class A and Class B. Both classes have identical voting, dividend, and liquidation rights. There were 
+no
+ outstanding Class B shares as of December 31, 2024 and 2023. The Company also has 
+1.0
+ million of preferred stock authorized with 
+no
+ amounts outstanding as of December 31, 2024 and 2023. The preferred stock may be issued with terms, rights, and preferences determined by the board of directors at the time of issuance.
+May 2023 Public Offering
+On May 26, 2023, the Company completed an underwritten public offering (the “May 2023 Public Offering”) of 
+10,000,000
+ shares of its Class A common stock at a public offering price of $
+8.00
+ per share, before deducting underwriting discounts and commissions. In connection with the May 2023 Public Offering, the Company granted the underwriters of the offering a 
+30
+-day option to purchase up to an additional 
+1,500,000
+ shares of the Company’s Class A common stock (the “Option Shares”) from the Company at the same public offering price. On June 1, 2023, the underwriters exercised in full their option to purchase the Option Shares. The sale of the Option Shares closed on June 5, 2023. After deducting underwriting discounts and commissions and before deducting offering expenses payable by the Company, the Company received net proceeds of $
+75.6
+ million and $
+11.3
+ million from the May 2023 Public Offering and sale of the Option Shares, respectively. The total net proceeds received by the Company after deducting offering expenses was $
+86.5
+ million. The Company intends to use the net proceeds for working capital and other general corporate purposes, including potential acquisitions or strategic manufacturing investments.
+
+Acquisitions
+In February 2023, the Company acquired the remaining minority interest in its silicon control IC joint venture from Halo Microelectronics for a purchase price of $
+22.4
+ million in Navitas stock. See Note 18 - “Noncontrolling Interest” for more information.
+Basis of Consolidation
+The accompanying consolidated financial statements are prepared in accordance with accounting principles generally accepted in the United States of America (“GAAP”).
+
+The consolidated financial statements include the accounts of the Company, its wholly owned or majority-owned subsidiaries and entities in which the Company is deemed to have a direct or indirect controlling financial interest based on either a variable interest model or voting interest model. All intercompany transactions and balances have been eliminated in consolidation.
+Use of Estimates
+The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, and disclosures of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting periods. Actual results could differ from those estimates.
+F-8
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+On an ongoing basis, management evaluates the assumptions used in making estimates, including those related to (i) the collectability of accounts receivable; (ii) write-down for excess and obsolete inventory; (iii) warranty obligations; (iv) the value assigned to and estimated useful lives of long-lived assets; (v) the realization of tax assets and estimates of tax liabilities and tax reserves; (vi) recoverability of intangible assets; (vii) the computation of stock-based compensation; (viii) accrued compensation and other expenses; and (ix) the recognition of revenue. These estimates are based on historical data and experience, as well as various other factors that management believes to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. The Company engages third-party valuation specialists to assist with estimates related to the valuation of intangible assets, stock options, restricted common stock awards, and, earnout shares. Such estimates often require the selection of appropriate valuation methodologies and models, and significant judgment in evaluating ranges of assumptions and financial inputs. Actual results could differ from those estimates.
+F-9
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+2. 
+SIGNIFICANT ACCOUNTING POLICIES AND RECENT ACCOUNTING PRONOUNCEMENTS
+Significant Accounting Policies
+Segment Reporting
+The Company is organized and operates as 
+one
+ reportable segment, the design, development, manufacture and marketing of integrated circuits and related components for use primarily in next-generation power semiconductors including gallium nitride (“GaN”) power integrated circuits (“ICs”), silicon carbide (“SiC”) devices and associated high-speed silicon system controllers, and digital isolators used in power conversion and charging. The Company’s Chief Operating Decision Maker, the Chief Executive Officer, reviews financial information presented on a consolidated basis for purposes of making operating decisions and assessing financial performance.
+ See Note 3 - “Segment Information” for more information.
+Revenue Recognition    
+The Company recognizes revenue under the core principle of depicting the transfer of control to the Company’s customers in an amount reflecting the consideration to which the Company expects to be entitled. In order to achieve that core principle, the Company applies the following five-step approach: (1) identify the contract with a customer, (2) identify the performance obligations in the contract, (3) determine the transaction price, (4) allocate the transaction price to the performance obligations in the contract, and (5) recognize revenue when a performance obligation is satisfied.
+Product revenues consist of sales to distributors, original equipment manufacturers, or OEMs, and merchant power supply manufacturers. The Company considers customer purchase orders, which in some cases are governed by master sales agreements, to be the contracts with a customer. In situations where sales are to a distributor, the Company has concluded that its contracts are with the distributor as the Company holds a contract bearing enforceable rights and obligations only with the distributor. As part of its consideration of the contract, the Company evaluates certain factors including the customer’s ability to pay (or credit risk). If the Company concludes that the customer has the ability to pay, a contract has been established. For each contract, the Company considers the promise to transfer products, each of which is distinct, to be the identified performance obligations. In determining the transaction price the Company evaluates whether the price is subject to refund or adjustment to determine the net consideration to which the Company expects to be entitled. As the Company’s standard payment terms are less than one year, the Company has elected the practical expedient to not assess whether a contract has a significant financing component. 
+The Company allocates the transaction price to each distinct performance obligation based on their relative standalone selling price. The product price as specified on the purchase order is considered the standalone selling price as it is an observable input which depicts the price as if sold to a similar customer in similar circumstances. Revenue is recognized when control of the product is transferred to the customer (i.e., when the Company’s performance obligation is satisfied), which typically occurs at shipment. Further, in determining whether control has transferred, the Company considers if there is a present right to payment and legal title, along with risks and rewards of ownership having transferred to the customer.
+When the Company receives orders for products to be delivered over multiple dates that may extend across several reporting periods, the Company invoices for each delivery upon shipment and recognizes revenues for each distinct product delivered. The Company has also elected the practical expedient to expense commissions when incurred as the amortization period of the commission asset the Company would have otherwise recognized is less than one year.
+The majority of sales to international customers that are shipped from the Company’s or its vendor’s facility outside of the United States are pursuant to EX Works, or EXW, shipping terms, meaning that control of the product transfers to the customer upon shipment from the Company’s or its vendors’ foreign warehouse.
+F-10
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+Sales returns and allowances are estimated based on historical claims data and expected future claims. Provision for discounts and rebates to customers, estimated returns and allowances, and other adjustments are provided in the same period the related revenue is recognized, and are netted against revenue. 
+Sales to most distributors are made under terms allowing certain limited rights of return (known as “stock rotation”) of the Company’s products held in their inventory or upon sale to their end customers. Revenue from sales to distributors is recognized upon the transfer of control to the distributor. Stock rotation rights grant the distributor the ability to return certain specified amounts of inventory. Stock rotation adjustments are a form of variable consideration and are estimated using the expected value method based on historical return rates. Historically, distributor stock rotation adjustments have been insignificant.
+The Company generally provides an assurance warranty that its products will substantially conform to the published specifications for twelve months from the date of shipment. The Company’s liability is limited to either a credit equal to the purchase price or replacement of the defective part. Returns under warranty have historically not been material. As such, the Company does not record a specific warranty reserve.
+Revenue received from customers in advance of the Company shipping the related product is considered a contract liability and is included in deferred revenue on the Company’s Consolidated Balance Sheets.
+Business Combinations
+
+The Company accounts for
+
+business combinations using the acquisition method of accounting, in accordance with ASC 
+805,
+
+“
+Business Combinations”
+. The acquisition method requires identifiable assets acquired and liabilities assumed be recognized and measured at fair value on the acquisition date, which is the date that the acquirer obtains control of the acquired business. The amount by which the fair value of consideration transferred exceeds the net fair value of assets acquired and liabilities assumed is recorded as goodwill.
+The determination of estimated fair value requires the Company to make significant estimates and assumptions. These fair value determinations require judgment and involve the use of significant estimates and assumptions, including assumptions with respect to future cash inflows and outflows, discount rates, and asset lives, among other items. As a result, the Company 
+may 
+record adjustments to the fair values of assets acquired and liabilities assumed within the measurement period (up to 
+one
+ year from the acquisition date) with the corresponding offset to goodwill.
+Transaction costs associated with business combinations are expensed as they are incurred.
+Inventories
+Inventories (which consist of costs associated with the purchases of wafers from foundries and of packaged components from offshore assembly manufacturers, as well as internal labor and overhead, including depreciation and amortization, associated with the testing of both wafers and packaged components) are stated at the lower of cost (first-in, first-out) or market. The Company periodically reviews inventory for potential obsolescence and declining values through periodic assessments, considering factors including estimates for future demand and net realizable value. Inventory deemed impaired is written down to its net realizable value. Inventory write-downs are established based on market conditions and trends, expected demand inclusive of sales forecasts, anticipated sales and market prices, and product obsolescence. The Company capitalizes inventory when it is intended for commercial sale or use in production, while costs associated with research and development activities are only capitalized as supplies inventory when an alternative future use has been established.
+
+F-11
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+Stock-based compensation
+The Company measures and recognizes compensation expense for all stock-based awards based on the grant date fair value of the awards. The Company recognizes compensation expense over the requisite service period in the consolidated statements of operations for restricted stock awards 
+or vesting terms
+. 
+RSUs
+ - The fair value per unit of each RSU grant award is determined on the grant date based on the Company’s stock price. Stock-based compensation is recognized on a straight-line basis over the requisite service period of the award. Forfeitures are recognized as they occur.
+ESPP
+ - We currently use the Black-Scholes option-pricing model to estimate the fair value of our Employee Stock Purchase Plan (ESPP) awards and amortize the expense over the requisite service period 
+in the consolidated statements of operations
+. 
+The option pricing model requires management to make assumptions and to apply judgment in determining fair value of the awards. The most significant assumptions and judgments include the expected volatility, risk-free interest rate, expected dividend rate and expected term of the award. 
+The expected volatility of the awards is determined based on a combination of the Company's own historical volatility and the historical volatility of selected public companies within its industry. The risk-free interest rate is based on the implied yield currently available on U.S. Treasury notes with a term approximately equal to the expected term of the awards. The expected dividend rate is 
+zero
+ as the Company currently has no history or expectation of cash dividends on its common stock. The Company has adopted the practical expedient for determining the expected term of stock option awards, which is the midpoint between the end of the vesting term and the expiration of the award. The Company has elected to account for forfeitures as they occur.
+The Company elected to treat stock-based payment awards with graded vesting schedules and time-based service conditions as a single award and recognize compensation expense on a straight-line basis over the requisite service period.
+LTIPs
+ - The fair value for each tranche of the Long-term Incentive Plan Stock Option (“LTIP”) awards was determined using Black-Scholes model and a Monte Carlo simulation estimated at the initial grant date. We utilized the services of a professional valuation firm to develop the grant date fair value. 
+The LTIP awards vest based on the achievement of certain market (stock price hurdles) and performance conditions (revenue and/or EBITDA targets). The most significant assumptions and judgments include management’s forecasts related to award performance conditions, including whether certain performance conditions are probable, which determine the timing and amount of the recognition of the awards. Awards are not recognized until they are deemed to be probable to vest, and awards may be unrecognized if they are determined to be no longer probable.
+Income Taxes
+Current income tax expense is an estimate of current income taxes payable or refundable in the current fiscal year based on reported income before income taxes. Deferred income taxes reflect the effect of temporary differences and carry-forwards that are recognized for financial reporting and income tax purposes.
+The Company recognizes deferred tax assets and liabilities based on the differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases, utilizing the tax rates that are expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The Company recognizes valuation allowances to reduce any deferred tax assets to the amount that it estimates will more likely than not be realized based on available evidence and management’s judgment. In the event that the Company determines, based on available evidence and management judgment, that all or part of the net deferred tax assets will not be realized in the future, it would record a valuation allowance in the period the determination is made. In addition, the calculation of tax liabilities involves significant judgment in estimating the impact of uncertainties in the application of complex tax laws. 
+F-12
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+Resolution of these uncertainties in a manner inconsistent with the Company’s expectations could have a material impact on the Company’s results of operations and financial position.
+The Company has 
+no
+ unrecognized tax benefits at December 31, 2024 and 2023. The Company’s federal and state income tax returns since inception are open and management continually evaluates expiring statutes of limitations, audits, proposed settlements, changes in tax law and new authoritative rulings. When necessary, the Company recognizes interest and penalties associated with tax matters as part of the income tax provision and includes accrued interest and penalties with the related tax liability in the Consolidated Balance Sheets. The Company had 
+no
+ accrued interest and penalties at December 31, 2024 and 2023.
+
+Accounts receivable
+Accounts receivable are recorded at the amounts management expects to collect. To account for potential credit losses, the Company establishes an allowance for current estimated credit losses based on estimated losses from customers' inability to meet payment obligations. In evaluating collectability, management considers factors such as customer creditworthiness, past transaction history, current financial conditions, reasonable forecasts, industry trends, and changes in payment terms, reassessing as necessary. Past-due balances exceeding 
+90
+ days and other higher-risk amounts are individually assessed. If a customer’s financial condition deteriorates, impacting their ability to pay, additional allowances may be required. Management conducts a thorough analysis of each customer account to determine the appropriate allowance level. Estimated credit losses are recognized as a charge to earnings with a corresponding credit to the valuation allowance. At each reporting period, the Company reassesses the amount of probable credit losses based on the changes in risk characteristics of the underlying receivables as needed. Outstanding balances that remain uncollected after reasonable collection efforts are written off against the allowance for current estimated credit losses. 
+Accounts receivable also include unbilled receivables, which primarily represent revenue recognized for services performed but not yet invoiced to customers. All unbilled accounts receivables are expected to be billed and collected within twelve months.
+Fair Value Measurements
+ASC 820, 
+“Fair Value Measurements and Disclosures”
+, defines fair value as the exchange price that would be received for an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. The Company categorizes its financial assets and liabilities measured at fair value into a hierarchy that categorizes fair value measurements into the following three levels based on the types of inputs used in measuring their fair value: 
+Level 1: Observable inputs such as quoted market prices in active markets for identical assets or liabilities;
+Level 2: Observable market-based inputs or observable inputs that are corroborated by market data; and 
+Level 3: Unobservable inputs reflecting the Company’s own assumptions.
+In some circumstances, the inputs used to measure fair value might be categorized within different levels of the fair value hierarchy. In those instances, the fair value measurement is categorized in its entirety in the fair value hierarchy based on the lowest level input that is significant to the fair value measurement.
+Derivative Liabilities
+The Company does not use derivative instruments to hedge exposures to cash flow, market, or foreign currency risks. The Company evaluates all of its financial instruments, including issued stock purchase warrants, to determine if such instruments are derivatives or contain features that qualify as embedded derivatives, pursuant to ASC 480 and ASC 815, “Derivatives and Hedging”. The classification of derivative instruments, including whether such instruments should be recorded as liabilities or as equity, is re-assessed at the end of each reporting period.
+F-13
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+The 
+8,433,333
+ warrants issued in connection with Live Oak’s Initial Public Offering (the “Public Warrants”), the 
+4,666,667
+ Private Placement Warrants and the Earnout Shares associated with Vested Shares are recognized as derivative liabilities in accordance with ASC 815. Accordingly, the Company recognizes the warrant instruments and earnout shares as liabilities at fair value and adjusts the instruments to fair value at each reporting period. The liabilities are subject to re-measurement at each balance sheet date until exercised. The Public Warrant quoted market price was used as the fair value for the Public Warrants and the Private Placement Warrants as of each relevant date. The Earnout shares were valued using a Monte Carlo analysis. Derivative warrant liabilities are classified as non-current liabilities as their liquidation is not reasonably expected to require the use of significant current assets or require the creation of current liabilities. There were 
+no
+ outstanding warrants as of December 31, 2024, and December 31, 2023.
+Intangible Assets
+Long-lived assets, such as property and equipment and intangible assets with finite lives, are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. Recoverability of assets to be held and used is measured by a comparison of the carrying amount of an asset to estimated undiscounted future cash flows expected to be generated by the asset. If the carrying amount of an asset exceeds its estimated future cash flows, an impairment charge is recognized by the amount by which the carrying amount of the asset exceeds the fair value of the asset.
+Patent Costs
+The Company expense external costs, such as filing fees and associated attorney fees, incurred to obtain patents, but capitalized patents obtained through acquisition as intangible assets. The Company also expense costs associated with maintaining and defending patents subsequent to their issuance.
+Goodwill 
+Goodwill represents the excess of the purchase price over the fair value of tangible and intangible assets acquired. The carrying value of goodwill is reviewed for possible impairment in accordance with the authoritative guidance on goodwill, intangibles and other. The Company assesses possible impairments to goodwill at least annually, or more frequently when events or changes in circumstances would more likely than not reduce the fair value of a reporting unit below its carrying value.
+Cash and Cash Equivalents
+The Company considers cash invested in highly liquid financial instruments with maturities of three months or less at the date of purchase to be cash equivalents.
+
+Restricted Cash
+The Company’s restricted cash consists of funds held in a SAFE account in China, which are legally restricted from withdrawal for general corporate purposes. These funds are designated exclusively for the settlement of employee obligations related to restricted stock unit (RSU) and stock option releases, as well as the remittance of applicable taxes.
+Investments
+The Company holds an investment in an affiliate over which it has significant influence but does not maintain a controlling interest, the Company applies the equity method of accounting. This investment is reported under "Other assets" in the Consolidated Balance Sheets. The Company’s share of earnings and losses from this investment is recognized under “Equity method investment gain” on the Consolidated Statements of Operations.
+F-14
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+Foreign Currency Risk and Foreign Currency Translation
+As of December 31, 2024, the Company’s primary transactional currency was U.S. Dollars. Gains and losses arising from the remeasurement of non-functional currency balances are recorded in selling, general and administrative expenses in the accompanying consolidated statements of operations. The Company realized a foreign currency transaction net loss of $
+0.3
+ million and $
+0.4
+ million in 2024 and 2023, respectively.
+The functional currencies of the Company’s non-U.S. subsidiaries are the U.S. Dollar. Accordingly, all monetary assets and liabilities are translated into U.S. Dollars at the current exchange rates as of the applicable balance sheet date. Non-monetary assets and liabilities into U.S. Dollars at the applicable historical rates. Revenues and expenses are translated at either the average exchange rate prevailing during the period or historical rates as applicable.
+
+Advertising
+Advertising costs, which are included in selling, general and administrative expenses, are expensed as incurred.
+ They are not material in 2024 and 2023.
+Research and Development
+Costs related to research, design, and development of the Company’s products are expensed as incurred. Research and development expense consists primarily of pre-production costs related to the design and development of the Company’s products and technologies, including costs related to contracted non-recurring engineering services. These expenses include employee compensation, benefits and related costs of sustaining the Company’s engineering teams, project material costs, third party fees paid to consultants, prototype development expenses, and other costs incurred in the product and technology design and development processes.
+Reclassifications
+Certain items in the prior period’s Condensed Consolidated Balance Sheets and condensed consolidated statements of operations have been reclassified to conform to the presentation for the twelve months ended December 31, 2024. Dividend income was previously included within interest income (expense), net. Additionally, for the prior period, the Company reclassed $
+0.9
+ million from inventories to prepaids and other current assets related to the sales returns inventory. The Company reclassed $
+1.4
+ million from prepaids and other current assets to other assets and $
+1.9
+ million from accounts payable and other accrued expenses to its own line for accrued royalties related to an indemnity asset and royalty liability, respectively. Additionally, the Company reclassed $
+0.9
+ million from cash and cash equivalents to restricted cash. During the year ended December 31, 2024, the Company revised its presentation of stockholders’ equity to separately present Class A and Class B Common Stock, previously combined in prior periods. This reclassification had no impact on total stockholders’ equity or financial results. In 2023, in the Statement of Cash Flows, the Company reclassified $
+1.3
+ million from Accounts Payable within operating activities to financing activities under Proceeds from the Employee Stock Purchase Plan (ESPP), coupled with a $
+2.8
+ million reclassification from Accounts Payable to Non-cash Bonus Accruals. There was no impact to net loss and retained earnings as a result of the reclassifications.
+F-15
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+Recently Issued Accounting Standards
+In December 2023, FASB issued ASU 2023-09, titled Income Taxes (Topic 740): Improvements to Income Tax Disclosures. These amendments address investor requests for enhanced transparency regarding income tax information. Specifically, they improve income tax disclosures related to rate reconciliation and income taxes paid. This updated standard will be effective for annual periods starting in fiscal 2025 and interim periods beginning in the first quarter of fiscal 2026. Early adoption is permitted. The Company is currently assessing the impact of this standard and anticipates that it will result in disclosure changes only.
+In November 2024, the FASB issued ASU No. 2024-03, Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures, which mandates enhanced disclosure of specific costs and expenses within the notes to the financial statements. This updated standard will be effective for annual periods starting in fiscal 2028 and interim periods beginning in the first quarter of fiscal 2029. Early adoption is permitted. The impact of the updated standard on the financial statement disclosures is currently being assessed..
+Recently Adopted Accounting Pronouncements
+In November 2023, the Financial Accounting Standards Board (FASB) introduced Accounting Standard Update (ASU) 2023-07, titled Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures. This update mandates that all public entities, including those with a single reportable segment, disclose one or more measures of segment profit or loss that the chief operating decision maker (CODM) uses to allocate resources and assess performance during interim and annual reporting periods. Furthermore, the standard requires the disclosure of significant segment expenses, other relevant segment items, and additional qualitative information. The Company adopted ASC 2023-07 and all related subsequent amendments during the current reporting period, as disclosed in Note 3 - “Segment Information” of this Form 10-K.
+This Form 10-K does not include any other newly implemented accounting standards or pronouncements beyond those detailed above. Such exclusions were made because they either do not apply to the Company or are not anticipated to materially impact the condensed consolidated financial statements.
+F-16
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+3. 
+SEGMENT INFORMATION
+Navitas operates as a single operating segment under ASC 280 - Segment Reporting, which establishes requirements for public entities to disclose financial information about operating segments. Under ASC 280, an operating segment is defined as a component of a company that generates revenue and expenses, has discrete financial data available, and is regularly reviewed by the Chief Operating Decision Maker (CODM) to assess performance and allocate resources. The Company's CEO, Gene Sheridan, serves as the CODM, overseeing financial performance and making resource allocation decisions at a consolidated level. The CODM primarily evaluates consolidated net income (loss) as the measure of segment profit or loss. While product-level data is available internally, it is not used for performance evaluation or resource allocation. Additionally, the CODM reviews detailed breakdowns of significant expenses, such as selling, general, and administrative (SG&A) expenses and research and development (R&D) costs, which are already disclosed in the income statement. 
+Below is an overview of the specific items reviewed by the CODM.
+Year Ended December 31,
+2024
+2023
+NET REVENUES
+$
+83,302
+
+$
+79,456
+
+COST OF REVENUES (exclusive of amortization of intangibles included below)
+54,963
+
+48,392
+
+OPERATING EXPENSES:
+Stock-based compensation
+42,703
+
+54,028
+
+Employee
+45,693
+
+39,912
+
+Amortization of intangible assets
+18,926
+
+18,820
+
+Other 
+51,692
+
+36,436
+
+Total operating expenses
+$
+159,014
+
+$
+149,196
+
+Operating loss
+$
+(
+130,675
+)
+$
+(
+118,132
+)
+Other income (expense)
+41,829
+
+(
+28,336
+)
+Loss before income taxes
+$
+(
+88,846
+)
+$
+(
+146,468
+)
+Income tax benefit
+(
+342
+)
+(
+517
+)
+Equity method investment gain
+3,905
+
+—
+
+Net loss
+$
+(
+84,599
+)
+$
+(
+145,951
+)
+Less: net loss attributable to noncontrolling interests
+—
+
+(
+518
+)
+Net loss attributable to controlling interests
+$
+(
+84,599
+)
+$
+(
+145,433
+)
+4. 
+A
+CCOUNTS RECEIVABLE
+Accounts receivable trade, net consist of the following (in thousands):
+December 31, 2024
+December 31, 2023
+Accounts receivable, gross
+$
+12,578
+
+$
+25,411
+
+Unbilled receivables
+1,539
+
+447
+
+Allowance for credit losses
+(
+135
+)
+—
+
+Accounts receivable, net
+$
+13,982
+
+$
+25,858
+
+Unbilled receivables relate to 
+two
+ customers.
+F-17
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+Allowance for credit losses activity (in thousands):
+Allowance for Credit Losses
+Balance at December 31, 2022
+$
+—
+
+Provision for credit losses, net of recoveries
+(
+314
+)
+Accounts written-off
+314
+
+Balance at December 31, 2023
+$
+—
+
+Provision for credit losses, net of recoveries
+(
+7,619
+)
+Accounts written-off
+7,484
+
+Balance at December 31, 2024
+$
+(
+135
+)
+F-18
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+5. 
+INVENTORIES
+Inventories consist of the following (in thousands):
+December 31, 2024
+December 31, 2023
+Raw materials
+$
+2,422
+
+$
+7,743
+
+Work-in-process
+10,465
+
+10,863
+
+Finished goods
+2,590
+
+3,628
+
+Total
+$
+15,477
+
+$
+22,234
+
+F-19
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+6. 
+PROPERTY AND EQUIPMENT, NET
+Property and equipment, net consisted of the following (in thousands):
+December 31, 2024
+December 31, 2023
+Furniture and fixtures
+$
+330
+
+$
+244
+
+Computers and other equipment
+11,714
+
+10,339
+
+Leasehold improvements
+4,302
+
+2,360
+
+Construction in Progress
+6,887
+
+1,114
+
+23,233
+
+14,057
+
+Accumulated depreciation
+(
+7,812
+)
+(
+4,903
+)
+Total
+$
+15,421
+
+$
+9,154
+
+For the years ended December 31, 2024 and 2023, depreciation expense was $
+3.0
+ million and $
+2.2
+ million, respectively, and was determined using the straight-line method over the following estimated useful lives:
+Furniture and fixtures
+3
+ — 
+7
+ years
+Computers and other equipment
+2
+ — 
+5
+ years
+Leasehold improvements
+2
+ — 
+6
+ years
+See below for the Company’s long-lived assets, net by region as of December 31, 2024:
+United States
+International
+Total
+Property and Equipment
+12,196
+
+3,225
+
+15,421
+
+Operating ROU Assets
+3,861
+
+3,039
+
+6,900
+
+Other Assets 
+10,005
+
+473
+
+10,478
+
+Total
+$
+26,062
+
+$
+6,737
+
+$
+32,799
+
+The Company’s long-lived assets, net by region as of December 31, 2023:
+United States
+International
+Total
+Property and Equipment
+$
+5,669
+
+$
+3,485
+
+$
+9,154
+
+Operating ROU Assets
+4,831
+
+3,437
+
+8,268
+
+Other Assets 
+6,054
+
+647
+
+6,701
+
+Total
+$
+16,554
+
+$
+7,569
+
+$
+24,123
+
+F-20
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+7. 
+FAIR VALUE OF FINANCIAL ASSETS AND LIABILITIES
+The accounting guidance on fair value measurements clarifies that fair value is an exit price, representing the amount that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants. As such, fair value is a market-based measurement that should be determined based on assumptions that market participants would use in pricing an asset or liability. As a basis for considering such assumptions, the guidance establishes a three-tier value hierarchy, which prioritizes the inputs used in measuring fair value as follows: (Level 1) observable inputs such as quoted prices for identical assets in active markets; (Level 2) inputs other than the quoted prices in active markets that are observable either directly or indirectly; and (Level 3) unobservable inputs in which there is little or 
+no
+ market data, which requires the Company to develop its own assumptions. This hierarchy requires the Company to use observable market data, when available, and to minimize the use of unobservable inputs when determining fair value.
+The short-term nature of the Company’s cash and cash equivalents, accounts receivable, debt and current liabilities causes each of their carrying values to approximate fair value for all periods presented. Cash equivalents classified as Level 1 instruments was $
+66.5
+ million for December 31, 2024 and $
+139.0
+ million for 2023.
+The following table presents the Company’s fair value hierarchy for financial liabilities as of December 31, 2024 (in thousands):
+Level 1
+Level 2
+Level 3
+Total
+Liabilities:
+Earnout liability
+$
+—
+
+$
+—
+
+$
+10,208
+
+$
+10,208
+
+Total
+$
+—
+
+$
+—
+
+$
+10,208
+
+$
+10,208
+
+The following table presents the Company’s fair value hierarchy for financial liabilities as of December 31, 2023:
+Level 1
+Level 2
+Level 3
+Total
+Liabilities:
+Earnout liability
+$
+—
+
+$
+—
+
+$
+46,852
+
+$
+46,852
+
+Total
+$
+—
+
+$
+—
+
+$
+46,852
+
+$
+46,852
+
+The Company did not transfer any investments between level 1 and level 2 of the fair value hierarchy in the years ended December 31, 2024 and 2023.
+The following table provides a reconciliation between the beginning and ending balances of items measured at fair value on a recurring basis that used significant unobservable inputs (Level 3). See Note 11 - “Earnout Liability” for more details. (In thousands):
+Fair Value Measurements Using Significant Unobservable Inputs
+Balance at December 31, 2023
+$
+46,852
+
+Fair value adjustment
+(
+36,644
+)
+Balance at December 31, 2024
+$
+10,208
+
+8. 
+GOODWILL AND INTANGIBLES
+Goodwill represents the excess of the consideration transferred over the estimated fair value of assets acquired and liabilities assumed in a business combination. Intangible assets are measured at their respective fair values as of the 
+F-21
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+acquisition date and may be subject to adjustment within the measurement period, which may be up to one year from the acquisition date. Goodwill and indefinite-lived intangible assets are tested for impairment annually, or more frequently if events or changes in circumstances indicate that it is more likely than not that the assets are impaired. As of the annual measurement date on September 30, 2024, the fair market value of the Company's stock continues to exceed its carrying value, with no indicators of impairment as of December 31, 2024.
+There were 
+no
+ changes to goodwill during the fiscal year ended December 31, 2024. 
+The following table presents the changes in the Company’s goodwill balance for the fiscal year ended December 31, 2023
+
+(in thousands):
+Goodwill
+Balance at December 31, 2022
+$
+161,527
+
+Purchase price adjustment ¹
+1,688
+
+Balance at December 31, 2023
+$
+163,215
+
+¹ 
+In 2023, the Company received information regarding products shipped by GeneSiC to a distributor prior to the Company’s acquisition of GeneSiC. GeneSiC had the option, but not the obligation, to accept returns sold to the distributor. The Company determined that a $
+1.7
+ million return liability should have been recorded as of the close of the acquisition on August 15, 2022. The Company recorded the return liability as a purchase price adjustment in 2023, resulting in an increase to goodwill and accounts payable and other accrued expenses of $
+1.7
+ million.
+The following table presents the Company’s intangible asset balance by asset class for the fiscal year ended December 31, 2024 (in thousands):
+Intangible Asset
+Cost
+Accumulated Amortization
+Net Book Value
+Amortization Method
+Useful Life
+Trade Names
+$
+900
+
+$
+(
+900
+)
+$
+—
+
+Straight line
+2
+ years
+Developed Technology
+53,500
+
+(
+31,074
+)
+22,426
+
+Straight line
+4
+-
+10
+ years
+In-process R&D
+1,177
+
+— 
+1,177
+
+Indefinite
+N/A
+Patents
+34,900
+
+(
+5,834
+)
+29,066
+
+Straight line
+5
+-
+15
+ years
+Customer Relationships
+24,300
+
+(
+5,771
+)
+18,529
+
+Straight line
+10
+ years
+Non-Competition Agreements
+1,900
+
+(
+903
+)
+997
+
+Straight line
+5
+ years
+Other
+658
+
+(
+658
+)
+—
+
+Straight line
+5
+ years
+Total
+$
+117,335
+
+$
+(
+45,140
+)
+$
+72,195
+
+F-22
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+The following table presents the Company’s intangible asset balance by asset class for the fiscal year ended December 31, 2023 (in thousands):
+Intangible Asset
+Cost
+Accumulated Amortization
+Net Book Value
+Amortization Method
+Useful Life
+Trade Names
+$
+900
+
+$
+(
+619
+)
+$
+281
+
+Straight line
+2
+ years
+Developed Technology
+53,500
+
+(
+17,703
+)
+35,797
+
+Straight line
+4
+-
+10
+ years
+In-process R&D
+1,177
+
+— 
+1,177
+
+Indefinite
+N/A
+Patents
+34,900
+
+(
+3,424
+)
+31,476
+
+Straight line
+5
+-
+15
+ years
+Customer Relationships
+24,300
+
+(
+3,341
+)
+20,959
+
+Straight line
+10
+ years
+Non-Competition Agreements
+1,900
+
+(
+523
+)
+1,377
+
+Straight line
+5
+ years
+Other
+658
+
+(
+626
+)
+32
+
+Straight line
+5
+ years
+Total
+$
+117,335
+
+$
+(
+26,236
+)
+$
+91,099
+
+The following tables presents the changes in the Company’s intangible asset balance for the fiscal year ended December 31, 2024 and December 31, 2023 (in thousands):
+Intangible Assets, net
+Balance at December 31, 2022
+$
+105,620
+
+Additions to intangible assets
+4,299
+
+Amortization expense
+(
+18,820
+)
+Balance at December 31, 2023
+$
+91,099
+
+Other Adjustments
+22
+
+Amortization expense
+(
+18,926
+)
+Balance at December 31, 2024
+$
+72,195
+
+The amortization expense was
+ $
+18.9
+ million for the fiscal year ended December 31, 2024 and was $
+18.8
+ million for the fiscal year ended December 31, 2023. 
+Total future amortization expense of intangible assets is estimated to be as follows (in thousands): 
+Fiscal Year Ending December 31,
+Total
+2025
+$
+18,645
+
+2026
+14,042
+
+2027
+5,336
+
+2028
+4,690
+
+2029
+4,690
+
+Thereafter
+23,615
+
+Total
+$
+71,018
+
+There
+ were 
+no
+ impairment charges during the years ended December 31, 2024 and 2023.
+F-23
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+9. 
+LEASES
+The Compa
+ny has entered into operating leases primarily for commercial buildings. A
+s of 
+December 31, 2024
+ no operating lease agreements contain economic penalties for the Company to extend the lease, and it is not reasonably certain the Company will exercise these extension options. Additionally, these operating lease agreements do not contain material residual value guarantees or material restrictive covenants. As of 
+December 31, 2024
+, all leases recorded on the Company’s Consolidated Balance Sheets were operating leases.
+The Company has made the accounting policy election to use certain ongoing practical expedients made available by ASC 842 to: (i) not separate lease components from nonlea
+se components for real estate; and (ii) exclude leases with an initial term of 12 months or less (“short-term” leases) from the Consolidated Balance Sheets and will recognize related lease payments in the consolidated statements of operations on a straight-line basis over the lease term. For leases that do not have a readily determinable implicit rate, the Company uses its estimated secured incremental borrowing rate based on the information available at the lease commencement date to determine the present value of lease payments.
+Rent expense, including short-term lease cost, 
+was $
+2.6
+ million and $
+2.7
+ million for the fiscal years ended December 31, 2024 and 2023, respectively. In addition to rent payments, the Company’s leases include real estate taxes, common area maintenance, utilities, and management fees, which are not fixed. The Company accounts for these costs as variable payments and does not include such costs as a lease component. Total variable expense was $
+0.3
+ million and $
+0.1
+ million for the fiscal years ended December 31, 2024 and 2023, respectively.
+Information related to the Company right-of-use assets and related operating lease liabilities were as follows (in thousands):
+Fiscal Years Ended
+December 31, 2024
+December 31, 2023
+Cash paid for operating lease liabilities
+$
+2,288
+$
+1,919
+Operating lease cost
+$
+2,323
+$
+2,036
+Non-cash right-of-use assets obtained in exchange for new operating lease obligations
+$
+650
+$
+3,230
+Weighted-average remaining lease term
+4.02
+4.88
+Weight-average discount rate
+4.93
+%
+5.08
+%
+Maturities of lease liabilities (in thousands) due in the 12-month period ending December 31,
+2025
+$
+2,078
+
+2026
+2,010
+
+2027
+1,842
+
+2028
+1,687
+
+2029
+440
+
+8,057
+
+Less imputed interest
+737
+
+Total lease liabilities
+$
+7,320
+
+F-24
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+10. 
+STOCK-BASED COMPENSATION
+ Equity Incentive Plans 
+The 2020 Equity Incentive Plan (“2020 Plan”) provides for the grant of incentive stock options, non-statutory stock options, restricted stock awards, restricted stock unit (RSU) awards, stock appreciation rights, and other stock awards to employees, directors and consultants. Pursuant to the 2020 Plan, the exercise price for incentive stock options and non-statutory stock options is generally at least 100% of the fair market value of the underlying shares on the date of grant. Options generally vest over 
+48
+ months measured from the date of grant. Options generally expire no later than 
+ten years
+ after the date of grant, subject to earlier termination upon an optionee’s cessation of employment or service.
+Under the terms of the 2020 Plan, the Company is authorized to issue 
+18,899,285
+ shares of common stock pursuant to awards under the 2020 Plan. As of October 19, 2021, the Company issued an aggregate of 
+11,276,706
+ stock options and non-statutory options to its employees and consultants and 
+4,525,344
+ shares of restricted stock to employees, directors and consultants under the 2020 Plan. No awards have or will be issued under the 2020 Plan after October 19, 2021. Shares of common stock subject to awards under the 2020 Plan that are forfeited, expire or lapse after October 19, 2021 will become authorized for issuance pursuant to awards under the 2021 Plan (as defined below). 
+The Navitas Semiconductor Corporation 2021 Equity Incentive Plan (the “2021 Plan”) was adopted by the Company’s board of directors on August 17, 2021 and adopted and approved by the Company’s stockholders at the Special Meeting on October 12, 2021. Under the terms of the 2021 Plan, the Company is authorized to issue, pursuant to awards granted under the 2021 Plan, (a) up to 
+16,334,527
+ shares of common stock; plus (b) up to 
+15,802,050
+ shares of common stock subject to awards under the 2020 Plan that are forfeited, expire or lapse after October 19, 2021; plus (c) an annual increase, effective as of the first day of each fiscal year up to and including January 1, 2031, equal to the lesser of (i) 
+4
+% of the number of shares of common stock outstanding as of the conclusion of the Company’s immediately preceding fiscal year, or (ii)
+ such amount, if any, as the board of directors may determine. As of 
+December 31, 2024
+, the Company has issued 
+6,500,000
+ n
+on-statutory stock options under the 2021 Plan.
+Stock-Based Compensation
+The Company recognizes the fair value of stock-based compensation in its financial statements over the requisite service period of the individual grants, which generally equals a 
+four-year
+ vesting period, except for Long-Term Incentive Plan Stock Options discussed below. The Company uses estimates of volatility, expected term, risk-free interest rate and dividend yield in determining the fair value of these awards and the amount of compensation expense to recognize. The Company uses the straight-line method to amortize stock awards granted over the requisite service period of the award, which may be explicit or derived, unless market or performance conditions result in a graded attribution.
+The following table summarizes the stock-based compensation expense recognized for the years ended December 31, 2024 and 2023:
+Years Ended December 31,
+(In thousands)
+2024
+2023
+Cost of goods sold
+$
+328
+
+$
+—
+
+Research and development
+23,472
+
+26,806
+
+Selling, general and administrative
+19,231
+
+27,222
+
+Total stock-based compensation expense
+$
+43,031
+$
+54,028
+
+F-25
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+Stock Options
+Generally, stock options granted under the Plans have 
+ten year
+ terms and vest 1/4th on the anniversary of the vesting commencement date and 1/48th monthly thereafter. Stock options with performance vesting conditions begin to vest upon achievement of the performance condition. Expense is recognized beginning in the period in which performance is considered probable. 
+The fair value of incentive stock options and non-statutory stock options issued was estimated using the Black-Scholes model. 
+A summary of stock options outstanding as of December 31, 2024, and activity during the two years then ended, is presented below:
+Stock Options
+Shares (In thousands)
+Weighted-Average Exercise Price
+Weighted-Average Remaining Contractual Term (In years)
+Outstanding at December 31, 2022
+6,775
+
+$
+0.59
+
+6.2
+Exercised
+(
+3,899
+)
+0.49
+
+Forfeited or expired
+(
+219
+)
+1.06
+
+Outstanding at December 31, 2023
+2,657
+
+$
+0.72
+
+5.7
+Exercised
+(
+1,142
+)
+0.71
+
+Forfeited or expired
+(
+16
+)
+1.06
+
+Outstanding at December 31, 2024
+1,499
+
+$
+0.74
+
+4.7
+Vested and exercisable at December 31, 2024
+1,497
+
+$
+0.74
+
+4.7
+During the years ended December 31, 2024 and 2023, the Company recognized $
+0.1
+ million and $
+0.5
+ million, respectively, of stock-based compensation expense for the vesting of outstanding stock options, excludi
+ng $
+2.5
+ million
+ and 
+$
+7.9
+ million
+, respectively, related to the LTIP 
+Options described below. At 
+December 31, 2024
+, unrecognized compensation cost related to unvested options was immaterial. T
+he weighted-average period over which this remaining compensation cost will be recognized i
+s 
+0.0
+ years.
+Long-term Incentive Plan Stock Options
+The Company awarded a total of 
+6,500,000
+ performance stock options (“2021 LTIP Options”) to certain members of senior management on December 29, 2021, pursuant to the 2021 Plan. These non-statutory options are intended to be the only equity awards for the recipients over the duration of the performance period. The options vest in increments subject to achieving certain market and performance conditions, including 
+ten
+ share price hurdles ranging from $
+15
+ to $
+60
+ per share, coupled with revenue and EBITDA targets, measured over a 
+seven year
+ performance period and expire on the tenth anniversary of the grant date. The options have an exercise price of $
+15.51
+ per share and the average fair value on the grant date was $
+9.14
+ based on
+ the Black-Scholes model and a Monte Carlo simulation incorporating 500,000 scenarios. The weighted average contractual period remaining is
+
+7.0
+ years. 
+The Company utilized the services of a professional valuation firm to finalize these assumptions during the fiscal year ended 
+December 31, 2023
+. 
+The valuation model utilized the following assumptions:
+F-26
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+Risk-free interest rate
+1.47
+
+%
+Expected volatility rates
+67.33
+
+%
+Expected dividend yield
+—
+Cost of equity (for derived service period)
+11.77
+
+%
+Weighted-average grant date fair value of options
+$
+9.14
+
+On a quarterly basis, management reviews the probable achievement for each of the tranches in the 2021 LTIP Options in regards to revenue and EBITDA, which includes assumptions for forecasted revenue and EBITDA. In connection with the “2021 LTIP Options”, the Company recognized $
+4.0
+ million and $
+6.9
+ million of stock-based compensation expense for the years ended 
+December 31, 2024 and 2023,
+ respectively. The unrecognized compensation expense related to probable tranches in the 2021 LTIP Options is $
+2.2
+ million as of 
+December 31, 2024
+, and compensation expense will be recognized over 
+2.5
+ years. If the Company achieves all revenue and EBITDA performance metrics, the total incremental recognized expense would be $
+40.7
+ million.
+The Company awarded a total of 
+3,250,000
+ performance stock options (“2022 LTIP Options”) to a member of senior management on August 15, 2022 pursuant to the 2021 Plan. The options vest in increments subject to achieving certain market and performance conditions, including 
+ten
+ share price hurdles ranging from $
+15
+ to $
+60
+ per share, coupled with revenue and EBITDA targets, measured over a 
+seven year
+ performance period and expire on the tenth anniversary of the grant date. The options have an exercise price of $
+10.00
+ per share and the average fair value on the grant date was $
+2.89
+. The weighted average contractual period remaining is 
+7.6
+ years. The Black-Scholes model and a Monte Carlo simulation incorporated 100,000 scenarios. 
+The Company utilized the services of a professional valuation firm to finalize these assumptions during the fiscal year ended 
+December 31, 2023
+. 
+The valuation m
+odel utilized the following assumptions:
+Risk-free interest rates
+2.82
+
+%
+Expected volatility rates
+68.48
+
+%
+Expected dividend yield
+—
+
+Cost of equity (for derived service period)
+14.64
+
+%
+Weighted-average grant date fair value of options
+$
+2.89
+
+On a quarterly basis, management reviews the probable achievement for each of the tranches in the 2022 LTIP Options in regards to revenue and EBITDA, which includes assumptions for forecasted revenue and EBITDA. In relation to the 2022 LTIP Options, a member of senior management departed the Company prior to 
+December 31, 2024
+, failing to meet the service requirement for the options. As a result, their options were forfeited, and the Company reversed the associated stock-based compensation. The Company recognized $
+0.6
+ million of stock-based compensation through the date of forfeiture in 2024 and $
+1.1
+ million of expense for 
+2023.
+ The Company reversed the cumulative $
+2.1
+ million of stock-based compensation for the year ended 
+December 31, 2024
+. No compensation expense related to the 2022 LTIP Options will be recognized subsequent to December 31, 2024.
+Restricted Stock Units
+The Company regularly grants RSUs to employees as a component of their compensation. 
+A summary of RSUs outstanding as of December 31, 2024, and activity during the year then ended, is presented below:
+F-27
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+Restricted Stock Unit Awards
+Shares
+(In thousands)
+Weighted-Average
+Grant Date Fair
+Value Per Share
+Outstanding at December 31, 2022
+11,606
+
+$
+5.93
+
+Granted
+6,184
+
+6.30
+
+Vested
+(
+4,811
+)
+5.76
+
+Forfeited
+(
+107
+)
+7.47
+
+Outstanding at December 31, 2023
+12,872
+
+$
+6.70
+
+Granted
+5,556
+
+5.21
+
+Vested
+(
+7,005
+)
+5.68
+
+Forfeited
+(
+1,871
+)
+6.48
+
+Outstanding at December 31, 2024
+9,552
+
+$
+6.63
+
+During the years ended 
+December 31, 2024 and 2023
+, the Company recognized $
+34.0
+ million and $
+31.5
+ million, respectively, of stock-based compensation expense for the vesting of RSUs. At 
+December 31, 2024
+, unrecognized compensation cost related to unvested RSU awards totaled $
+46.7
+ million. The weighted-average period over which this remaining compensation cost is expected to be recognized is 
+2.1
+ years.
+The Company implemented a yearly stock-based bonus plan in 2021 and plans to settle accrued bonus liabilities of $
+3.7
+ million related to fiscal year 2024 (included in “Accrued compensation expenses” on the Consolidated Balance Sheets), by issuing a variable number of fully-vested restricted stock units to its employees in 2024. Based on the closing share price of the Company’s Class A common stock of $
+3.57
+ on December 31, 2024, approximately 
+1.0
+ million shares would be issued, however the actual number of shares will be based on the share price at the date of settlement.
+2022 Employee Stock Purchase Plan
+In August 2022, the Company’s board of directors adopted the Company’s 2022 Employee Stock Purchase Plan (the “2022 ESPP”), subject to stockholder approval. The 2022 ESPP was approved by stockholders at the Company’s annual stockholders meeting held November 10, 2022. The Company authorized the issuance of 
+3,000,000
+ shares of common stock under the 2022 ESPP. 
+Under the 2022 ESPP, eligible employees are granted the right to purchase shares of common stock at the lower of 
+85
+% of the fair value at the time of offering or 
+85
+% of the fair value at the time of purchase, generally over a 
+six-month
+ period. The first offering period under the 2022 ESPP commenced in February 2023 and the second offering in September 2023. For the years ended December 31, 2024 and 
+2023
+, employees who elected to participate in the ESPP purchased 
+801,465
+ and 
+257,963
+
+shares of common stock under the 2022 ESPP, resulting in cash proceeds to the Company of $
+2.7
+ million and $
+1.3
+ million
+, 
+respectively. The purchase price was $
+4.55
+ and $
+2.19
+, which was 
+15
+% of the fair market value in March and September 2024, respectively. As of December 31, 2024 the Company had 
+1,940,572
+ remaining authorized shares available for purchase. During the year ended December 31, 2024 and 
+2023
+, the Company recognized $
+1.8
+ million and $
+1.2
+ million of stock-based compensation expense for the ESPP, respectively.
+Other Share Awards
+In connection with the acquisition of the remaining minority interest of a silicon control IC joint venture, as described in Note 18 - “Noncontrolling Interest”, the Company issued 
+841,729
+ fully vested shares to certain former employees of the joint venture with a grant date fair value totaling $
+4.5
+ million. Such amount has been recognized as stock-based compensation expense during the year ended December 31, 2023.
+F-28
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+On June 10, 2022, the Company’s wholly owned subsidiary, Navitas Semiconductor Limited, acquired all of the stock of VDDTECH srl, a private Belgian company (“VDDTech”) for approximately $
+1.9
+ million in cash and stock. Among shares issued in the transaction, the Company issued approximately 
+113,000
+ restricted shares that are subject to time based vesting and issued approximately 
+151,000
+ restricted shares that are subject to time and performance based vesting over the next 
+four
+ and 
+three years
+, respectively. These restricted shares are subject to certain individuals maintaining employment with the Company and, therefore, are accounted for under ASC 718. The Company recognized $
+0.6
+ million and $
+0.9
+ million of stock-based compensation expense related to the vesting of these shares during the year ended December 31, 2024 and 
+2023
+, respectively.
+Unvested Earnout
+ Shares
+A portion of the earnout shares may be issued to individuals with unvested equity awards. While the release of these shares require achievement of the Earn-out Milestones, the individuals are required to complete the remaining service period associated with these unvested equity awards to be eligible to receive the earnout shares. As a result, these unvested earn-out shares are equity-classified awards and have an aggregated grant date fair value of $
+19.1
+ million (or $
+11.52
+ per share). During the year ended December 31, 2024 and 
+2023
+, the Company recognized $
+0.2
+ million and $
+0.3
+ million
+
+of stock-based compensation expense for the vesting of earnout shares. As of the beginning of the second quarter of fiscal year 2023, these earnout shares had fully vested. At December 31, 2024 and 
+2023
+, there was 
+no
+ remaining compensation cost related to unvested earnout shares, except for forfeitures. Refer to Note 11 - “Earnout Liability”.
+11. 
+EARNOUT LIABILITY
+Certain of the Company’s stockholders are entitled to receive an aggregate of up to 
+10,000,000
+ Earnout Shares of the Company’s Class A common stock if the Earnout Milestones are met. The Earnout Milestones represent 
+three
+ independent criteria, each of which entitles the eligible stockholders to an aggregate of up to 
+3,333,333
+ Earnout Shares per milestone met. Each Earnout Milestone is considered met if at any time between March 18, 2022 (150 days following the Business Combination) and October 19, 2026, the volume-weighted average price of the Company’s Class A common stock is greater than or equal to $
+12.50
+, $
+17.00
+ or $
+20.00
+ for any 
+twenty
+ trading days within any 
+thirty
+ trading day period, respectively. Further, the Earnout Milestones are also considered to be met if the Company undergoes a Sale. A Sale is defined as the occurrence of any of the following: (i) engage in a “going private” transaction pursuant to Rule 13e-3 under the Exchange Act or otherwise cease to be subject to reporting obligations under Sections 13 or 15(d) of the Exchange Act; (ii) Class A common stock cease to be listed on a national security exchange, other than for the failure to satisfy minimum listing requirements under applicable stock exchange rules; or (iii) change of ownership (including a merger or consolidation) or approval of a plan for complete liquidation or dissolution.
+These Earnout Shares have been categorized into two components: (i) the “Vested Shares” - those associated with stockholders with vested equity at the closing of the Business Combination that will be earned upon achievement of the Earnout Milestones. Any forfeited shares from unvested holders will be reallocated among the remaining earnout holders and (ii) the “Unvested Shares” - those associated with employee stockholders with unvested equity at the closing of the Business Combination which are subject to forfeiture if the employee left prior to the achievement of the Earnout Milestones. As the implicit service period has passed, these shares now remain contingent solely on meeting the earnout performance condition. The Vested Shares are classified as liabilities in the Consolidated Balance Sheets and the Unvested Shares are equity-classified stock-based compensation to be recognized over time (see Note 10 - “Stock-based Compensation”). The earnout liability was initially measured at fair value at the closing of the Business Combination and subsequently remeasured at the end of each reporting period. The change in fair value of the earn-out liability is recorded as part of “Other income (expense), net” in the consolidated statement of operations.
+F-29
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+The estimated fair value of the earnout liability was determined using a Monte Carlo analysis of 20,000 simulations of the future path of the Company’s stock price over the earnout period. The forecasted stock price is a significant input in this analysis. The assumptions utilized in the calculation are based on the achievement of certain stock price milestones including projected stock price, volatility, and risk-free rate. 
+The valuation model utilized the following assumptions:
+December 31, 2024
+December 31, 2023
+Risk-free interest rate
+4.23
+
+%
+4.05
+
+%
+Equity volatility rate
+90
+
+%
+70
+
+%
+As of December 31, 2024 and 
+2023
+, the earnout liability had a fair value of $
+10.2
+ million and $
+46.9
+ million, respectively which resulted in a gain in the fair value of the earnout liability of $
+36.7
+ million and a loss in the fair value of the earnout liability of $
+33.8
+ million for the year ended December 31, 2024 and 
+2023
+, respectively, due to the fluctuations in the fair value of the earnout liability.
+
+12. 
+SIGNIFICANT CUSTOMERS AND CREDIT CONCENTRATIONS
+Customer Concentration
+A majority of the Company’s revenues are attributable to sales of the Company’s products to distributors of electronic components. These distributors sell the Company’s products to a range of end users, including OEMs and merchant power supply manufacturers.
+The following customers represented 10% or more of the Company’s net revenues (in thousands):
+Year Ended December 31,
+Customer
+2024
+2023
+Distributor A
+56
+
+%
+45
+
+%
+At the end of 2024, the Company terminated its distribution agreement with Distributor A. As a result of this termination, the Company incurred a bad debt expense of $
+7.5
+ million included in Selling, general and administrative expenses for the year ended December 31, 2024. 
+The Company had acquired inventory, which was intended to be primarily sold through this distributor. Given the termination, the Company re-evaluated the recoverability of its inventory and recorded a write-down of $
+5.0
+ million to Cost of Revenues for the year ended December 31, 2024. Additionally, the Company also had a research and development project related to creating future products for distribution to this customer, which was abandoned resulting in a $
+1.7
+ million charged to Research and development for the year ended December 31, 2024.
+Revenues by Geographic Area
+Revenues for the twelve months ended 
+December 31, 2024
+ and 2023, were attributable to the following regions:
+F-30
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+Year Ended December 31,
+Region
+2024
+2023
+Hong Kong
+64
+
+%
+53
+
+%
+Rest of Asia
+18
+
+%
+13
+
+%
+US
+9
+
+%
+9
+
+%
+China
+4
+
+%
+15
+
+%
+Europe
+4
+
+%
+10
+
+%
+All Other
+1
+
+%
+—
+
+%
+Total
+100
+
+%
+100
+
+%
+Concentration of Credit Risk
+Financial instruments that potentially subject the Company to concentrations of credit risk consisted principally of cash, cash equivalents and trade receivables. The Company maintains its cash and cash equivalents with high-credit quality financial institutions. At times, such amounts may exceed federally insured limits. The Company has not experienced any losses on cash or cash equivalents held at financial institutions. The Company does not have any off-balance-sheet credit exposure related to its customers.
+The following customers represented 10% or more of the Company’s accounts receivable:
+As of December 31,
+Customer
+2024
+2023
+Distributor A
+44
+
+%
+77
+
+%
+Concentration of Supplier Risk
+The Company currently relies on a single foundry to produce wafers for GaN ICs and a separate single foundry to produce SiC MOSFETs. Loss of the relationship with either of these suppliers could have a substantial negative effect on the Company. Additionally, the Company relies on a limited number of third-party subcontractors and suppliers for testing, packaging and certain other tasks. Disruption or termination of supply sources or subcontractors, including due to the COVID-19 pandemic or natural disasters such as an earthquake or other causes, could delay shipments and could have a material adverse effect on the Company. Although there are generally alternate sources for these materials and services, qualification of the alternate sources could cause delays sufficient to have a material adverse effect on the Company. A significant amount of the Company’s third-party subcontractors and suppliers, including the third-party foundry that supplies wafers for GaN ICs, are located in Taiwan. A significant amount of the Company’s assembly and test operations are conducted by third-party contractors in Taiwan and the Philippines.
+The Company entered into an agreement to purchase raw materials from a supplier from September 29, 2022 through December 31, 2025, and accordingly made a $
+2.0
+ million deposit to be received as invoice credits toward future purchases. The Company is not obligated to purchase from this supplier, however, if the Company does not meet the minimum purchase requirements during the term, the Company may forfeit all or a portion of its $
+2.0
+ million deposit. As of 
+December 31, 2024
+, the Company has determined it will not meet the minimum purchase requirements, therefore, the Company wrote-off this $
+2.0
+ million deposit, and is included in the Company’s research and development expenses for the year ended 
+December 31, 2024
+.
+
+F-31
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+13. 
+NET LOSS PER SHARE
+Basic income (loss) per share is calculated by dividing net income (loss) by the weighted-average shares of common stock outstanding during the period using the two-class method because the Company’s sponsor earnout shares are a participating security since these shares contain a non-forfeitable right to receive dividends. Under the two-class method, earnings are allocated to each class of common stock and participating security as if all of the earnings for the period had been distributed. As the Company incurred net losses during the years ended December 31, 2024 and 2023 and these securities are not contractually required to fund the Company’s losses, there is no allocation to the participating securities in the years presented. Diluted earnings per share are calculated by dividing net income (loss) by the weighted-average shares of common stock and dilutive common equivalent shares outstanding during the period. Dilutive common equivalent shares included in this calculation consist of dilutive shares issuable upon the assumed exercise of outstanding common stock options, the assumed vesting of outstanding restricted stock units and restricted stock awards, the assumed issuance of awards for contingently issuable performance-based awards, as computed using the treasury stock method. Performance-based restricted stock units and restricted stock awards are included in the number of shares used to calculate diluted earnings per share after evaluating the applicable performance criteria as of period end and under the assumption the end of the reporting period was the end of the contingency period, and the effect is dilutive. The Company has no plans to declare dividends.
+A summary of the net loss per share calculation is as follows (in thousands, except per share amounts):
+
+Year Ended December 31,
+2024
+2023
+Weighted-average common shares - basic common stock
+182,460
+
+168,927
+
+Stock options and other dilutive awards
+—
+
+—
+
+Weighted-average common shares - diluted common stock
+182,460
+
+168,927
+
+Shares excluded from diluted weighted-average shares: 
+Dilutive shares excluded ¹
+3,174
+
+9,809
+
+Shares excluded from diluted weighted average shares
+3,174
+
+9,809
+
+¹
+
+The Company’s potentially dilutive securities, which include unexercised stock options, unvested restricted stock units, ESPP shares have been excluded from the computation of diluted net loss per share as the effect would be to reduce the net loss per share for the fiscal years ended December 31, 2024 and 2023.
+
+As of December 31, 2024 and 2023 the Company excluded 
+0.0 million
+ and 
+0.3
+ million restricted stock awards from the diluted weighted average share count as their performance conditions have not been achieved. As of December 31, 2024 and 2023 the Company excluded 
+10.0
+ million Earnout shares from the diluted weighted average share count as their performance and/or market conditions have not been achieved. As of December 31, 2024 and 2023, 
+6.5
+ million and 
+9.8
+ million LTIP options have been excluded from the diluted weighted average share count, respectively, as their performance and/or market conditions have not been achieved.
+As of December 31, 2024, the Company excluded 1.3 million of outstanding Class A common stock from basic and diluted weighted average share count as shares are subject to forfeiture based on market conditions that have not been achieved. These shares relate to certain shares of Class A common stock held by the Company’s SPAC sponsor that as part of the business combination were placed under market conditions requirements that if not met, would result in forfeiture. These requirements are consistent with the Earnout Milestones noted in Note 11 - “Earnout Liability” with each milestone tied to 421,000 shares. Each Earnout Milestone is considered met if at any time between March 18, 2022 (150 days following the Business Combination) and October 19, 2026, the volume-weighted average price of the Company’s Class A common stock is greater than or equal to $12.50, $17.00 or $20.00 for any twenty trading days within any thirty trading 
+F-32
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+day period, respectively. These shares are participating securities with the same voting and dividend rights as the Company’s other Class A common stock.
+
+14. 
+PROVISION FOR INCOME TAXES
+U.S. and foreign components of loss before income taxes were (in thousands):
+Year Ended December 31,
+2024
+2023
+U.S. operations
+$
+31,802
+
+$
+(
+56,198
+)
+Foreign operations
+(
+120,648
+)
+(
+90,270
+)
+Total loss before income taxes
+$
+(
+88,846
+)
+$
+(
+146,468
+)
+The components of the provision (benefit) for income taxes are as follows (in thousands):
+
+Year Ended December 31,
+2024
+2023
+Current benefit:
+State
+11
+
+47
+
+Foreign
+242
+
+226
+
+Total current benefit
+$
+253
+
+$
+273
+
+Deferred benefit:
+Federal
+$
+(
+114
+)
+$
+(
+1,149
+)
+State
+(
+315
+)
+232
+
+Foreign
+(
+166
+)
+127
+
+Total deferred benefit
+$
+(
+595
+)
+$
+(
+790
+)
+Total
+$
+(
+342
+)
+$
+(
+517
+)
+The provision (benefit) for income taxes differs from the amount that would result by applying the applicable federal income tax rate to income before income taxes, as follows:
+
+Year Ended December 31,
+2024
+2023
+Provision computed at Federal statutory rate
+21.0
+
+%
+21.0
+
+%
+Change in valuation allowance
+(
+39.2
+)
+%
+(
+19.0
+)
+%
+Foreign income tax rate and benefit
+16.6
+
+%
+7.7
+
+%
+Effect of permanent differences
+(
+0.2
+)
+%
+(
+0.1
+)
+%
+Non deductible executive compensation
+(
+1.5
+)
+%
+(
+2.3
+)
+%
+Non deductible expenses - mark to market liabilities
+8.7
+
+%
+(
+4.8
+)
+%
+Stock based compensation
+(
+4.3
+)
+%
+0.3
+
+%
+State tax, net of federal
+0.3
+
+%
+(
+2.7
+)
+%
+Other
+(
+1.0
+)
+%
+0.2
+
+%
+Total
+0.4
+
+%
+0.3
+
+%
+F-33
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+Deferred income taxes reflect the net tax effects of temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes. 
+At December 31, 2024 and 2023, deferred tax assets and liabilities consisted of the following (in thousands):
+December 31,
+2024
+2023
+Deferred tax assets:
+Net operating loss carryforwards
+$
+86,793
+
+$
+59,953
+
+Benefit of tax credit carry-forwards
+208
+
+207
+
+Start-up costs
+1,132
+
+1,262
+
+Capitalized research costs
+17,473
+
+11,629
+
+Stock compensation
+8,011
+
+9,005
+
+ Lease Liabilities 
+1,383
+
+1,602
+
+Other
+2,251
+
+2,315
+
+Valuation allowance
+(
+100,628
+)
+(
+66,663
+)
+$
+16,623
+
+$
+19,310
+
+Deferred tax liabilities:
+Right of Use Asset 
+(
+1,300
+)
+(
+1,528
+)
+Depreciation
+(
+53
+)
+(
+178
+)
+Intangibles
+(
+15,711
+)
+(
+18,644
+)
+$
+(
+17,064
+)
+$
+(
+20,350
+)
+Net deferred tax balance
+$
+(
+441
+)
+$
+(
+1,040
+)
+During the fiscal years ended December 31, 2024 and 2023, the valuation allowance increased b
+y $
+34.0
+ million
+ and $
+26.5
+ million, respectively. In assessing the realizability of deferred tax assets, management considers whether it is more likely than not that some portion or all of the deferred tax assets will not be realized. The ultimate realization of deferred tax assets is dependent upon the generation of future taxable income during the periods in which those temporary differences become deductible. Management considers the scheduled reversal of deferred tax liabilities and projected future taxable income. In the event that the Company determines, based on available evidence and management judgment, that all or part of the net deferred tax assets will not be realized in the future, the Company would record a valuation allowance in the period the determination is made. In addition, the calculation of tax liabilities involves significant judgment in estimating the impact of uncertainties in the application of complex tax laws. Resolution of these uncertainties in a manner inconsistent with the Company’s expectations could have a material impact on its results of operations and financial position.
+The Company has approximately 
+$
+220.9
+ million and $
+165.0
+ million of federal net operating loss (“NOL”) carryforwards and approximately $
+0.3
+ million an
+d 
+$
+0.2
+ million of tax-effected state NOL carryforwards as of 
+December 31, 2024 and 2023
+, respectively. The federal NOLs expire in varying amounts through 2037, while the state NOLs expire in varying amounts through 2044. Federal NOLs arising from the years ended after December 31, 2017, may be carried forward indefinitely. Realiz
+ation of the NOL carryforwards is dependent on the Company generating sufficient taxable income prior to expiration of the NOL carryforwards and these NOLs could also potentially be subject to usage limitations to the extent there are future changes in the Company’s ownership. 
+As of 
+December 31, 2024
+, the Company had a full valuation allowance on its net deferred tax assets. As of 
+December 31, 2024
+, the Company continues to maintain a valuation allowance on the remaining deferred tax assets as the Company believes that it is not more likely than not that the deferred tax assets will be fully realized. The Company also has foreign net operating loss carry forwards of $
+320.3
+ million and $
+199.7
+ million as of December 31, 2024 and 2023, respectively. Of the foreign NOLs, $
+319.5
+ million are in Ireland and the deferred tax asset has a full valuation allowance as a result of the historical losses in the country.
+F-34
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+The Company had 
+no
+ unrecognized tax benefits for the years ended December 31, 2024 or December 31, 2023. The Company recognizes interest and penalties related to unrecognized tax benefits in operating expenses. 
+No
+ such interest and penalties were recognized during the years ended December 31, 2024 and 2023. The Company is treated as a corporation for U.S. federal income tax purposes and is a tax resident in both Ireland and the United States.
+15. 
+COMMITMENTS and CONTINGENCIES
+Purchase Obligations
+At 
+December 31, 2024, 
+the Company had non-cancellable contractual agreements that were due beyond one year related to our lease obligations, see Note 9 “Leases”. In December 2024, the Company entered into an agreement with a vendor for the purchase of equipment wherein the Company will make quarterly installment payments of 
+$
+0.8
+ million
+ during 2026. The 
+$
+2.8
+ million
+ present value of these payments is reflected within “Noncurrent liabilities
+” 
+at 
+December 31, 2024
+ in the Consolidated Balance Sheets. 
+Indemnification
+The Company sells products to its distributors under contracts, collectively referred to as Distributor Sales Agreements (DSA). Each DSA contains the relevant terms of the contractual arrangement with the distributor, and generally includes certain provisions for indemnifying the distributor against losses, expenses, and liabilities from damages that may be awarded against the distributor in the event the Company’s products are found to infringe upon a patent, copyright, trademark, or other proprietary right of a third party (Customer Indemnification). The DSA generally limits the scope of and remedies for the Customer Indemnification obligations in a variety of industry-standard respects, including, but not limited to, limitations based on time and geography, and a right to replace an infringing product. The Company also, from time to time, has granted a specific indemnification right to individual customers.
+The Company believes its internal development processes and other policies and practices limit its exposure related to such indemnifications. In addition, the Company requires its employees to sign a proprietary information and inventions agreement, which assigns the rights to its employees’ development work to the Company. To date, the Company has not had to reimburse any of its distributors or end customers for any losses related to these indemnifications and no material claims were outstanding as of 
+December 31, 2024
+. For several reasons, including the lack of prior indemnification claims and the lack of a monetary liability limit for certain infringement cases, the Company cannot determine the maximum amount of potential future payments, if any, related to such indemnifications.
+Release and license agreement
+In March 2023, the Company entered into a Release and License Agreement (the “Agreement”) with a university. The Agreement stipulates the Company pay the university a total of $
+1.0
+ million over a period of 
+three years
+, with the final payment by March 1, 2026. The agreement licenses the Company to sell certain products covered by a patent owned by the university, subject to the Company paying a royalty fee on revenues for covered products sold during the term. Based on an indemnity agreement entered into in connection with the Company’s acquisition of GeneSiC Semiconductor Inc. in August 2022, the Company expects to be indemnified by the sellers in that transaction for the royalty amounts up to approximately $
+1.0
+ million. The total amount of current and non-current accrued royalty was $
+1.8
+ million and $
+1.9
+ million as of December 31, 2024 and 2023, respectively.
+F-35
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+Legal proceedings and contingencies
+From time to time in the ordinary course of business, the Company may become involved in lawsuits, or end customers, distributors, suppliers or other third parties may make claims against the Company. The Company makes a provision for a liability when it is both probable that a liability has been incurred and the amount of the loss can be reasonably estimated. The Company is not currently subject to any pending actions or regulatory proceedings that either individually or in the aggregate are expected to have a material impact on its consolidated financial statements.
+16. 
+EMPLOYEE BENEFIT PLAN
+The Company sponsors a 401(k) tax-deferred savings plan for all employees in the United States who meet certain eligibility requirements. Participants may contribute up to the amount allowable as a deduction for federal income tax purposes. The Company contributes a certain percentage of employee annual salaries on a discretionary
+ basis, not to exceed an established threshold. For the fiscal years ended December 31, 2024 and 2023, the Company made $
+0.7
+ million an
+d 
+$
+0.6
+ million, resp
+ectively, in matching contributions to the 401(k) plan.
+17. 
+RELATED PARTY TRANSACTIONS
+Joint Venture
+In 2021, Navitas entered into a silicon control IC joint venture with Halo Microelectronics Co., Ltd. (“Halo”), a manufacturer of power management ICs, to develop products and technology relating to AC/DC converters. Navitas’ initial contribution to the joint venture was the commitment to sell its GaN integrated circuit die at prices representing cost plus insignificant handling fees, in exchange for a minority interest, with the right to acquire the balance of the joint venture based on the future results of the venture (among other rights and obli
+gat
+ions). On January 19, 2023, the Company announced an agreement to acquire the remaining minority interest in the joint venture as well as rights to certain intellectual property from Halo and its U.S. affiliate for a total purchase price of $
+22.4
+ million in Navitas stock. Total related party revenues recognized by the Company as a result of arrangements with its joint venture 
+were $
+0.0
+ million f
+or both years ended December 31, 2024 
+and 2023, and are included in net revenues in the Condensed Consolidated Statements of Operations. See Note 18 - “Noncontrolling Interest”, for more information. 
+Related Party Investment
+During the third quarter of 2022, Navitas ma
+de a $
+1.5
+ million inv
+estment in preferred interests of an entity under common control with the Company’s partner in the joint venture described above (“Related Party Investment”). During the first quarter of 2023 the Company made an additional investment of $
+1.0
+ million in the entity. 
+The Related Party Investment was accounted fo
+r as an equity investment under 
+ASC 321 Investments - Equity Securities
+. 
+In accordance with ASC 321, the Company elected to use the measurement alternative to measure such investments at cost, less any impairment, plus or minus changes resulting from observable price changes in orderly transactions for identical or similar investments of the same issuer, if any. In October 2024, the Company began accounting for this investment under the equity method in accordance with ASC 323. The Company revalued its investment to its fair value of $
+5.55
+ per share and recorded its share of losses for the period of November through December 2024, resulting in a net gain of $
+3.9
+ million for the year ended 
+December 31, 2024, which is recorded in 
+“Equity method investment gain” 
+on the Statements of Operations. 
+The Related Party Investment was $
+8.9
+ million and $
+2.5
+ million as of December 31, 2024 and December 31, 2023, respectively, and is included in Other Assets in the Condensed Consolidated Balance Sheets. 
+Related Party Lease
+F-36
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+The Company leases certain property from the family member of a senior executive of the Company, which expired in March 2024, and was a month-to-month lease through December 2024, and then was terminated. During the year ended December 31, 2024, the Co
+mpany paid an immaterial amount in rental payments. These payments were made at standard market rates in the ordinary course of business. There was no rent obligation as of 
+December 31, 2024.
+The Company leases certain property from an entity that it is owned by an executive of the Company, which expired in September 2023, and was on a month-to-month lease through May 2024, and then was terminated. Rental payments in relation to this lease were $
+0.1
+ million for the year ended December 31, 2023. These payments were made at standard market rates in the ordinary course of business.
+
+18. 
+NONCONTROLLING INTEREST
+In July 2021, the Company formed a joint venture for the purpose of conducting research and development on technology in the area of AC/DC converters for chargers and adapters.
+On August 19, 2022, the Company obtained control of the joint venture, and no consideration was paid pursuant to the Change of Control Agreement. The Company consolidated the fair value of the net assets of the joint venture as of August 19, 2022, and the Company reports noncontrolling interests of the joint venture as a component of equity separate from the Company’s equity. The fair value of the noncontrolling interest and net assets is based on estimates. The Company’s net loss excludes loss attributable to the noncontrolling interests. The fair value of the joint venture was determined based on a multiple of future annual revenues with a discount rate of 
+30
+%. In connection with the consolidation, the Company reacquired a patent license, which was fair valued at $
+1.0
+ million based on comparable transactions during the year, and is amortized over a 
+five year
+ term. Goodwill of $
+3.1
+ million was recorded in connection with this transaction.
+On January 19, 2023, the Company completed the acquisition of the remaining minority interest in the joint venture 
+as well as rights to certain intellectual property from Halo and its U.S. affiliate 
+for a total purchase price of $
+22.4
+ million in Navitas stock. In connection with the purchase of intellectual property, the Company recognized developed technology as an intangible asset at its estimated fair value o
+f $
+4.4
+ million
+. As a result of this transaction, the Company recorded a net increase to additional paid in capital of $
+7.5
+ million representing the difference between the fair value of share consideration related to the acquisition of the remaining noncontrolling interest and the carrying value of the noncontrolling interest at the date of the transaction.
+The fair value of the developed technology was estimated using the relief from royalty method, an income approach (Level 3), because of the licensing appeal of these assets The Company estimated the benefit of the ownership as the relief form the royalty expense that would be incurred in the absence of ownership. A royalty rate was applied to the projected revenues associated with the intangible asset to determine the amount of savings, which was at a rate of 
+10
+% to determine the fair value.
+F-37
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+19. 
+RESTRUCTURING
+On October 15, 2024, the Company announced a cost-reduction plan (“2024 Restructuring Plan”) to streamline the organization with increased focus on artificial intelligence data center, EV and mobile applications, accelerating the Company’s path to profitability. The 2024 Restructuring Plan includes a reduction in headcount with the majority of the costs consisting of employee severance and benefits. The Company incurred $
+1.2
+ million in the fourth quarter of 2024 related to this plan. The Company does not anticipate further costs associated with the 2024 Restructuring Plan. Restructuring-related liabilities are reported under "Accounts payable and other accrued expenses" on the Company’s Consolidated Balance Sheets.
+A summary of the balance sheet activity related to the 2024 Restructuring Plan is as follows:
+Amounts accrued as of December 31, 2023
+Costs Incurred
+Cash Payments
+Amounts accrued as of December 31, 2024
+Employee Severance and Benefits
+$
+—
+
+$
+1,217
+
+$
+706
+
+$
+511
+
+Other
+—
+
+6
+
+—
+
+6
+
+$
+—
+
+$
+1,223
+
+$
+706
+
+$
+517
+
+F-38
+NAVITAS SEMICONDUCTOR CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2024 and 2023
+20. 
+SUBSEQUENT EVENTS
+The Company evaluated material subsequent events from the Consolidated Balance Sheet date of December 31, 2024, through March 19, 2025 the date the condensed consolidated financial statements were issued. There were no material subsequent events as of March 19, 2025, except as discussed below.
+On January 20, 2025, the Company announced another cost-reduction plan aimed at streamlining operations and enhancing its focus on artificial intelligence data centers, EV, and mobile applications—accelerating its path to profitability. The plan includes an approximate 
+19
+% reduction in workforce, with most associated costs related to severance and stock-based compensation. The majority of these costs are anticipated to be incurred in the first quarter of 2025 and is not expected to be material. The majority of these costs are anticipated to be incurred in the first quarter of 2025.
+
+F-39
+TABLE OF CONTENTS
+Item 9. Changes in and Disagreements With Accountants on Accounting and Financial Disclosure.
+None.
+Item 9A. Controls and Procedures.
+Evaluation of Disclosure Controls and Procedures 
+Under the supervision and with the participation of our management, including our chief executive officer and chief financial officer, we conducted an evaluation of our disclosure controls and procedures, as such term is defined in Rule 13a-15(e) under the Exchange Act. Disclosure controls and procedures are designed to ensure that information required to be disclosed by us in the reports we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms and that such information is accumulated and communicated to management, including the chief executive officer and chief financial officer, as appropriate, to allow timely decisions regarding required disclosure. Based upon this evaluation, our chief executive officer and our chief financial officer concluded the disclosure controls and procedures were not effective as of December 31, 2024, the end of the period covered by this Annual Report on Form 10-K, due to material weaknesses in internal control over financial reporting described below. 
+Management’s Report on Internal Control Over Financial Reporting
+Management is responsible for establishing and maintaining adequate internal control over financial reporting. Internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external reporting purposes in accordance with generally accepted accounting principles. 
+Management of the Company has assessed the effectiveness of the Company’s internal control over financial reporting as of December 31, 2024 using the criteria described in Internal Control – Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). Because of the material weaknesses described below, management concluded that the Company did not maintain effective internal control over financial reporting as of December 31, 2024. 
+A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the Company’s annual or interim financial statements will not be prevented or detected on a timely basis.
+The Company did not fully maintain components of the COSO framework, including elements of the control environment, risk assessment, control activities, and monitoring activities components, relating to: (i) sufficiency of processes related to identifying and analyzing risks to the achievement of objectives across the entity, (ii) sufficiency of competent personnel with appropriate levels of knowledge, experience, and training in accounting for complex and non-routine transactions, and internal control matters to perform assigned responsibilities and have appropriate accountability for the design and operation of internal control over financial reporting; and (iii) ensuring control activities identified were performed in accordance with established policies, and (iv) performing ongoing evaluation to ascertain whether the components of internal controls are present and functioning.
+The entity level material weaknesses contributed to other material weaknesses within the Company’s system of internal control over financial reporting as follows:
+84
+TABLE OF CONTENTS
+A.
+the Company lacked sufficient controls to accurately identify and present activity within its statements of operations and cash flows. Specifically, the Company lacked controls in order to (1) accurately identify and present cash flows as either operating, investing or financing activities and (2) classify expenses within total operating expenses, and correctly classify activity associated with its equity method investment; and,
+B.
+the Company's external reporting process is not appropriately designed to accurately identify, record, present and disclose transactions, including research and development assets, property and equipment and equity transactions. 
+These material weaknesses could result in misstatements of our consolidated financial statements that would result in a material misstatement to the annual or interim consolidated financial statements that would not be prevented or detected.
+This annual report does not include an attestation report of our independent registered public accounting firm, Moss Adams LLP, as under the rules of the Securities and Exchange Commission the Company is a Small Reporting Company (SRC) with non-accelerated filer status. 
+Remediation Plan and Progress
+Management has been executing and remains committed to implementing measures designed to ensure that control deficiencies contributing to the material weaknesses are remediated, such that these controls are designed, implemented, and operating effectively. 
+In response to all unremediated material weaknesses, management has taken the following actions: 
+•
+engaging an external advisor to assist with evaluating and documenting the design and operating effectiveness of internal controls and to assist with the remediation of deficiencies, as necessary, 
+•
+actively hiring accounting, and finance personnel to support our remediation efforts, as well as third-party resources with relevant expertise to augment our internal resources, 
+•
+assessing the specific training needs for newly hired and existing personnel to support our internal controls. 
+In response to the material weakness “(A)” management has taken the following actions: 
+•
+designing and implementing control activities in order to ensure that the Company’s financial close and reporting activities specifically address appropriate consideration and presentation of transactions recorded within the statements of operations and cash flows.
+In response to the material weakness “(B)” management has taken the following actions: 
+•
+designing and implementing control activities in order to ensure that transactions related to research and development assets, property and equipment and equity transactions are appropriately identified, recorded, presented and disclosed, including (1) implementing established policies related to review of significant contracts and transactions, and (2) ensuring that significant contracts and transactions have documented accounting considerations.
+As we continue to evaluate and work to improve our internal control over financial reporting, we may decide to take additional measures to address the material weaknesses or modify the remediation plans described above. We believe that these actions will remediate the material weaknesses, however the material weaknesses will not be considered remediated until we conclude all measures necessary to remediate the material weaknesses have been designed, implemented, and the applicable controls have operated for a sufficient period of time, and management has concluded, through testing, that these controls are designed and operating effectively. While management believes that the aforementioned plans will remediate the material weaknesses, there is no assurance on the exact timing of the completion of the remediation.
+85
+TABLE OF CONTENTS
+Remediation of Previously Reported Material Weaknesses
+We previously disclosed material weaknesses in our internal control over financial reporting related to the following: 
+•
+The Company did not design and implement effective controls, such that, personnel within the Company have incompatible duties which allow for the creation, review and processing of journal entries without independent review and authorization, 
+which affects substantially all financial statement account balances and disclosures.
+•
+The Company did not design and implement effective controls over the accounting for share-based payments, including the long-term incentive plan awards and earnout liability.
+•
+The Company did not design and implement effective controls over the accounting for its license and release agreement.
+•
+The Company did not design and implement effective controls over the inputs and assumptions used in the valuation of the earnout liability and information utilized to classify awards as either equity or liability. 
+•
+The Company did not maintain effective controls over its determination of reportable segments for purposes of segment reporting and reporting units for purposes of goodwill. 
+We completed the following activities as part of remediating these material weaknesses:
+•
+designed and implemented controls to ensure that journal entries require independent review and authorization prior to processing, 
+•
+designed and implemented controls 
+documenting the accounting treatment of the long-term incentive plan awards and earnout liability based on contractual terms,
+•
+designed and implemented controls over 
+the accounting for license and release agreement, including documenting the accounting treatment based on contractual terms and evaluating all key inputs and assumptions for completeness, accuracy and reasonableness,
+•
+designed and implemented controls over 
+the valuation of the earnout liability, including ensuring information utilized to classify awards as either equity or liability was complete and accuracy, and all key inputs were evaluated and reviewed for completeness, accuracy and reasonableness,
+•
+designed and implemented controls to ensure 
+reportable segments for purposes of segment reporting and reporting units for purposes of goodwill were supportable, including documenting information reviewed and evaluation of assumptions utilized. 
+We completed our testing of both the design and operating effectiveness of these controls and have determined that controls operated for a sufficient period of time for management to conclude that these material weaknesses have been remediated as of December 31, 2024. 
+Changes in Internal Control Over Financial Reporting 
+There were no significant changes in our internal control over financial reporting (as defined in Rule 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended), except as discussed above, that have materially affected or are reasonably likely to materially affect the Company’s internal control over financial reporting.
+Item 9B. Other Information.
+None
+.
+86
+TABLE OF CONTENTS
+Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections.
+None.
+Part III
+Item 10. Directors, Executive Officers and Corporate Governance.
+The information required by this item is incorporated by reference from the definitive proxy statement on Schedule 14A for our 2025 annual stockholders’ meeting, to be filed with the Securities and Exchange Commission within 120 days after the fiscal year ended December 31, 2024 (our “Proxy Statement”).
+Our board of directors has adopted a code of business conduct and ethics that applies to all of our employees, officers and directors, including our President and Chief Executive Officer, Chief Financial Officer, and other executive and senior officers. The full text of this code of business conduct and ethics is posted on the investor relations page of our website, at 
+https://ir.navitassemi.com/corporate-governance/documents-charters. The reference to our website address in this filing does not include or incorporate by reference the information on that website into this filing. We intend to disclose future amendments to certain provisions of our code of business conduct and ethics, or waivers of those provisions, on our website or in public filings to the extent required by the applicable rules.
+Item 11. Executive Compensation.
+The information required by this item is incorporated by reference from our Proxy Statement.
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.
+The information required by this item is incorporated by reference from our Proxy Statement.
+Item 13. Certain Relationships and Related Transactions, and Director Independence.
+The information required by this item is incorporated by reference from our Proxy Statement.
+Item 14. Principal Accountant Fees and Services.
+The information required by this item is incorporated by reference from our Proxy Statement.
+Part IV
+Item 15. Exhibits and Financial Statement Schedules.
+    (a) (1) 
+Financial Statements
+. Financial statements included in this annual report are listed under Part II, Item 8.
+(2) 
+Financial Statement Schedules
+. Schedules not listed under Part II, Item 8 have been omitted because they are not required, not applicable, or the required information is otherwise included.
+(3) 
+Exhibits. 
+The exhibits listed below are filed or furnished, as applicable, as part of this annual report or are incorporated by reference as indicated.
+87
+TABLE OF CONTENTS
+EXHIBIT INDEX
+Incorporated by Reference
+Exhibit
+Description
+Form
+File No.
+Exhibit
+Filing Date
+2.1
+Business Combination Agreement and Plan of Reorganization, dated as of May 6, 2021, among Live Oak Acquisition Corp. II, Live Oak Merger Sub Inc. and Navitas Semiconductor Limited, including as domesticated in the State of Delaware as Navitas Semiconductor Ireland, LLC (“Legacy Navitas”)
+8-K
+001-39755
+2.1
+5/7/2021
+2.2
+Agreement and Plan of Merger, dated as of August 15, 2022, by and among Navitas Semiconductor Corporation, Gemini Acquisition LLC, GeneSiC Semiconductor Inc., Ranbir Singh and The Ranbir Singh Irrevocable Trust dated February 4, 2022
+10-Q
+001-39755
+2.1
+11/14/2022
+3.1
+Second Amended and Restated Certificate of Incorporation of Navitas Semiconductor Corporation
+8-K
+001-39755
+3.1
+10/25/2021
+3.2*
+Amended and Restated Bylaws of Navitas Semiconductor Corporatio
+n, as amended
+4.1
+Description of Registrant’s Securities
+10-K
+001-39755
+4.1
+3/6/2024
+10.1†
+Navitas Semiconductor Corporation 2021 Equity Incentive Plan
+8-K/A
+001-39755
+10.5
+11/15/2021
+10.2†
+Form of Restricted Stock Unit Agreement
+8-K
+001-39755
+10.6
+10/25/2021
+10.3†
+Form of Stock Option Agreement
+8-K
+001-39755
+10.7
+10/25/2021
+10.4†
+Amended and Restated Navitas Semiconductor Limited 2020 Equity Incentive Plan
+S-4/A
+333-256880
+10.16
+8/23/2021
+10.5
+Registration Rights Agreement, dated December 2, 2020, among Live Oak Acquisition Corp. II, Live Oak Sponsor Partners II, LLC and certain other security holders named therein
+8-K
+001-39755
+10.3
+12/8/2020
+10.6†
+Form of Indemnification Agreement
+8-K
+001-39755
+10.4
+10/25/2021
+10.7
+Lock-Up Agreement (Management)
+, dated as of May 6, 2021, among Live Oak Acquisition Corp. II, Legacy Navitas and certain equity holders of Legacy Navitas 
+8-K
+001-39755
+10.2
+5/7/2021
+10.8
+Lock-Up Agreement (VPs)
+, dated as of May 6, 2021, among Live Oak Acquisition Corp. II, Legacy Navitas and certain equity holders of Legacy Navitas 
+8-K
+001-39755
+10.3
+5/7/2021
+10.9
+Lock-Up Agreement (Non-Management)
+, dated as of May 6, 2021, among Live Oak Acquisition Corp. II, Legacy Navitas and certain equity holders of Legacy Navitas 
+8-K
+001-39755
+10.4
+5/7/2021
+10.10
+Sponsor Letter Agreement, dated
+ December 2, 2020
+, between Live Oak Acquisition Corp. II and Live Oak Sponsor Partners II, LLC
+8-K
+001-39755
+10.2
+12/8/2020
+10.11
+Amendment to Letter Agreement, dated May  6, 2021
+,
+ among Live Oak Acquisition Corp. II, its officers and directors and Live Oak Sponsor Partners II, LLC
+8-K
+001-39755
+10.5
+5/7/2021
+10.12†
+Employment Agreement of Gene Sheridan
+, 
+dated as of May
+
+6,
+
+2021
+S-4/A
+333-256880
+10.14
+8/23/2021
+10.13†
+Employment Agreement of Daniel Kinzer, dated as of May 6, 2021
+S-4/A
+333-256880
+10.15
+8/23/2021
+10.14†
+Employment Agreement of Todd Glickman, dated as of May 6, 2021
+8-K
+001-39755
+10.2
+10/25/2021
+10.15
+Sponsor Letter Agreement, dated October 6, 2021, among Live Oak Sponsor Partners II, LLC, Live Oak Acquisition Corp. II and Navitas Semiconductor Limited
+8-K
+001-39755
+10.3
+10/7/2021
+88
+TABLE OF CONTENTS
+Incorporated by Reference
+Exhibit
+Description
+Form
+File No.
+Exhibit
+Filing Date
+10.16†
+Employment Offer Letter, dated May 17, 2022, between Ron Shelton and Navitas Semiconductor Corporation
+10-Q
+001-39755
+10.1
+8/15/2022
+10.17†
+Registration Rights Agreement, dated August 15, 2022, among Navitas Semiconductor Corporation, Ranbir Singh and The Ranbir Singh Irrevocable Trust dated February 4, 2022
+10-Q
+001-39755
+10.1
+11/14/2022
+10.18†
+Employment Offer Letter, dated August 15, 2022, among Navitas Semiconductor Corporation, Navitas Semiconductor USA, Inc. and Ranbir Singh
+10-K/A
+001-39755
+10.31
+4/14/2023
+10.19†
+Navitas Semiconductor 2022 Employee Stock Purchase Plan
+10-K
+001-39755
+10.23
+3/6/2024
+10.20†
+Navitas Semiconductor Executive Severance Plan
+8-K
+001-39755
+10.1
+1/3/2024
+10.21†
+Employment Offer Letter, dated December 1, 2023, between Navitas Semiconductor USA, Inc. and Janet Chou
+10-K
+001-39755
+10.25
+3/6/2024
+10.22†
+Letter Agreement, dated January 9, 2024, among Navitas Semiconductor USA, Inc., Navitas Semiconductor Corporation and Ron Shelton
+10-K
+001-39755
+10.26
+3/6/2024
+10.23†
+Letter Agreement, dated July 31, 2024, among Navitas Semiconductor USA, Inc., Navitas Semiconductor Corporation and Ranbir Singh
+10-Q
+001-39755
+10.1
+8/5/2024
+10.24†*
+L
+etter Agreement, 
+effective 
+November
+
+2
+6
+,
+
+2024, among 
+Navitas Semiconductor USA, Inc., Navitas Semiconductor Corporation and
+ Ranbir Singh
+19.1
+Insider Trading Policy
+10-K
+001-39755
+19.1
+3/6/2024
+19.2
+Equity Grant Policy and Procedures
+10-K
+001-39755
+19.2
+3/6/2024
+21.1
+List of Subsidiaries
+10-K
+001-39755
+21.1
+3/6/2024
+23.1*
+Consent of Moss Adams LLP
+24.1*
+Power of Attorney (included on signature page)
+31.1*
+Certification of the Chief Executive Officer pursuant to Rule 13a-14(a) of the Exchange Act
+31.2*
+Certification of the Chief Financial Officer pursuant to Rule 13a-14(a) of the Exchange Act
+32.1**
+Certification of the Chief Executive Officer and the Chief Financial Officer pursuant to Rule 13a-14(b) of the Exchange Act and 18 U.S.C. § 1350
+97.1*
+Navitas Semiconductor Dodd-Frank Clawback Policy
+101.SCH*
+XBRL Taxonomy Extension Schema Document
+101.CAL*
+XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF*
+XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB*
+XBRL Taxonomy Extension Label Linkbase Document
+101.PRE*
+XBRL Taxonomy Extension Presentation Linkbase Document
+_____________________________________________
+†    Management contract or compensatory arrangement. 
+*    Filed herewith.
+**    Furnished herewith.
+89
+TABLE OF CONTENTS
+Item 16. Form 10–K Summary.
+None.
+90
+TABLE OF CONTENTS
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+NAVITAS SEMICONDUCTOR CORPORATION
+By:
+
+/s/ Gene Sheridan
+
+Gene Sheridan
+
+President and Chief Executive Officer
+Date:
+March 19, 2025
+POWER OF ATTORNEY
+Each person whose signature appears below constitutes and appoints Todd Glickman and Paul D. Delva, jointly and severally, his attorney-in-fact, with the power of substitution, for him in any and all capacities, to sign any amendments to this annual report on Form 10-K and to file the same, with exhibits thereto and other documents in connection therewith, with the Securities and Exchange Commission, hereby ratifying and confirming all that each of said attorneys-in-fact, or his substitute or substitutes, may do or cause to be done by virtue hereof.
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed by the following persons on behalf of the registrant and in the capacities and on the dates indicated.
+Signature
+Title
+Date
+/s/ Gene Sheridan
+Gene Sheridan
+President, Chief Executive Officer and Director
+(principal executive officer)
+March 19, 2025
+/s/ Todd Glickman
+Todd Glickman
+Sr. V.P., Chief Financial Officer and Treasurer
+(principal financial and accounting officer)
+March 19, 2025
+/s/ Daniel M. Kinzer
+Daniel M. Kinzer
+Chief Operating Officer, Chief Technology Officer and Director
+March 19, 2025
+/s/ Richard J. Hendrix
+Richard J. Hendrix
+Director
+March 19, 2025
+/s/ Brian Long
+Brian Long
+Director
+March 19, 2025
+/s/ David Moxam
+David Moxam
+Director
+March 19, 2025
+/s/ Dipender Saluja
+Dipender Saluja
+Director
+March 19, 2025
+/s/ Ranbir Singh   
+
+Ranbir Singh
+Director
+March 19, 2025
+/s/ Gary K. Wunderlich, Jr.
+Gary K. Wunderlich, Jr.
+Director
+March 19, 2025
+91

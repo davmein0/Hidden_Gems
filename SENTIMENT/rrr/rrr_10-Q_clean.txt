@@ -1,0 +1,5486 @@
+rrr-20250930
+0001653653
+false
+12/31
+2025
+Q3
+P7Y
+P7Y
+P5Y0M
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+rrr:Casino_Property
+utr:Rate
+xbrli:pure
+utr:acre
+rrr:Slot_Machines
+rrr:Table_Games
+rrr:Segment
+0001653653
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:CommonClassAMember
+2025-10-30
+0001653653
+us-gaap:CommonClassBMember
+2025-10-30
+0001653653
+2025-09-30
+0001653653
+2024-12-31
+0001653653
+us-gaap:CommonClassAMember
+2025-09-30
+0001653653
+us-gaap:CommonClassAMember
+2024-12-31
+0001653653
+us-gaap:CommonClassBMember
+2024-12-31
+0001653653
+us-gaap:CommonClassBMember
+2025-09-30
+0001653653
+us-gaap:CasinoMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:CasinoMember
+2024-07-01
+2024-09-30
+0001653653
+us-gaap:CasinoMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:CasinoMember
+2024-01-01
+2024-09-30
+0001653653
+us-gaap:FoodAndBeverageMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:FoodAndBeverageMember
+2024-07-01
+2024-09-30
+0001653653
+us-gaap:FoodAndBeverageMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:FoodAndBeverageMember
+2024-01-01
+2024-09-30
+0001653653
+us-gaap:OccupancyMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:OccupancyMember
+2024-07-01
+2024-09-30
+0001653653
+us-gaap:OccupancyMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:OccupancyMember
+2024-01-01
+2024-09-30
+0001653653
+us-gaap:ManagementServiceMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:ManagementServiceMember
+2024-07-01
+2024-09-30
+0001653653
+us-gaap:ManagementServiceMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:ManagementServiceMember
+2024-01-01
+2024-09-30
+0001653653
+us-gaap:HotelOtherMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:HotelOtherMember
+2024-07-01
+2024-09-30
+0001653653
+us-gaap:HotelOtherMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:HotelOtherMember
+2024-01-01
+2024-09-30
+0001653653
+2025-07-01
+2025-09-30
+0001653653
+2024-07-01
+2024-09-30
+0001653653
+2024-01-01
+2024-09-30
+0001653653
+us-gaap:CommonClassAMember
+us-gaap:CommonStockMember
+2025-06-30
+0001653653
+us-gaap:CommonClassBMember
+us-gaap:CommonStockMember
+2025-06-30
+0001653653
+us-gaap:AdditionalPaidInCapitalMember
+2025-06-30
+0001653653
+us-gaap:RetainedEarningsMember
+2025-06-30
+0001653653
+us-gaap:NoncontrollingInterestMember
+2025-06-30
+0001653653
+2025-06-30
+0001653653
+us-gaap:RetainedEarningsMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:NoncontrollingInterestMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:AdditionalPaidInCapitalMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:CommonClassAMember
+us-gaap:CommonStockMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:CommonClassBMember
+us-gaap:CommonStockMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:CommonClassAMember
+us-gaap:CommonStockMember
+2025-09-30
+0001653653
+us-gaap:CommonClassBMember
+us-gaap:CommonStockMember
+2025-09-30
+0001653653
+us-gaap:AdditionalPaidInCapitalMember
+2025-09-30
+0001653653
+us-gaap:RetainedEarningsMember
+2025-09-30
+0001653653
+us-gaap:NoncontrollingInterestMember
+2025-09-30
+0001653653
+us-gaap:CommonClassAMember
+us-gaap:CommonStockMember
+2024-06-30
+0001653653
+us-gaap:CommonClassBMember
+us-gaap:CommonStockMember
+2024-06-30
+0001653653
+us-gaap:AdditionalPaidInCapitalMember
+2024-06-30
+0001653653
+us-gaap:RetainedEarningsMember
+2024-06-30
+0001653653
+us-gaap:NoncontrollingInterestMember
+2024-06-30
+0001653653
+2024-06-30
+0001653653
+us-gaap:RetainedEarningsMember
+2024-07-01
+2024-09-30
+0001653653
+us-gaap:NoncontrollingInterestMember
+2024-07-01
+2024-09-30
+0001653653
+us-gaap:AdditionalPaidInCapitalMember
+2024-07-01
+2024-09-30
+0001653653
+us-gaap:CommonClassAMember
+us-gaap:CommonStockMember
+2024-07-01
+2024-09-30
+0001653653
+us-gaap:CommonClassAMember
+us-gaap:CommonStockMember
+2024-09-30
+0001653653
+us-gaap:CommonClassBMember
+us-gaap:CommonStockMember
+2024-09-30
+0001653653
+us-gaap:AdditionalPaidInCapitalMember
+2024-09-30
+0001653653
+us-gaap:RetainedEarningsMember
+2024-09-30
+0001653653
+us-gaap:NoncontrollingInterestMember
+2024-09-30
+0001653653
+2024-09-30
+0001653653
+us-gaap:CommonClassAMember
+us-gaap:CommonStockMember
+2024-12-31
+0001653653
+us-gaap:CommonClassBMember
+us-gaap:CommonStockMember
+2024-12-31
+0001653653
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0001653653
+us-gaap:RetainedEarningsMember
+2024-12-31
+0001653653
+us-gaap:NoncontrollingInterestMember
+2024-12-31
+0001653653
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:NoncontrollingInterestMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:AdditionalPaidInCapitalMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:CommonClassAMember
+us-gaap:CommonStockMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:CommonClassAMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:CommonClassBMember
+us-gaap:CommonStockMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:CommonClassAMember
+us-gaap:CommonStockMember
+2023-12-31
+0001653653
+us-gaap:CommonClassBMember
+us-gaap:CommonStockMember
+2023-12-31
+0001653653
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-31
+0001653653
+us-gaap:RetainedEarningsMember
+2023-12-31
+0001653653
+us-gaap:NoncontrollingInterestMember
+2023-12-31
+0001653653
+2023-12-31
+0001653653
+us-gaap:RetainedEarningsMember
+2024-01-01
+2024-09-30
+0001653653
+us-gaap:NoncontrollingInterestMember
+2024-01-01
+2024-09-30
+0001653653
+us-gaap:AdditionalPaidInCapitalMember
+2024-01-01
+2024-09-30
+0001653653
+us-gaap:CommonClassAMember
+us-gaap:CommonStockMember
+2024-01-01
+2024-09-30
+0001653653
+us-gaap:CommonClassAMember
+2024-01-01
+2024-09-30
+0001653653
+rrr:MajorHotelCasinoPropertiesMember
+us-gaap:WhollyOwnedPropertiesMember
+2025-09-30
+0001653653
+rrr:SmallerCasinoPropertiesMember
+2025-09-30
+0001653653
+rrr:SmallerCasinoPropertiesMember
+us-gaap:PartiallyOwnedPropertiesMember
+2025-09-30
+0001653653
+rrr:SmallerCasinoPropertiesMember
+us-gaap:PartiallyOwnedPropertiesMember
+2025-09-30
+0001653653
+rrr:RedRockResortsMember
+rrr:NonVotingUnitsMember
+rrr:StationHoldcoMember
+2025-09-30
+0001653653
+rrr:RedRockResortsMember
+rrr:VotingUnitsMember
+rrr:StationCasinosLlcMember
+2025-09-30
+0001653653
+rrr:FertittaFamilyEntitiesMember
+rrr:FertittaFamilyEntitiesMember
+2025-09-30
+0001653653
+rrr:RedRockResortsMember
+us-gaap:CommonClassAMember
+2025-09-30
+0001653653
+rrr:RedRockResortsMember
+us-gaap:CommonClassAMember
+2024-12-31
+0001653653
+rrr:LLCUnitHolderMember
+us-gaap:CommonClassBMember
+2025-09-30
+0001653653
+rrr:LLCUnitHolderMember
+us-gaap:CommonClassBMember
+2024-12-31
+0001653653
+rrr:NorthForkRancheriaOfMonoIndiansMember
+rrr:LandHeldForDevelopmentMember
+2025-09-30
+0001653653
+srt:MinimumMember
+rrr:NorthForkRancheriaOfMonoIndiansMember
+2025-09-30
+0001653653
+rrr:NorthForkRancheriaOfMonoIndiansMember
+2025-09-30
+0001653653
+rrr:NorthForkRancheriaOfMonoIndiansMember
+2025-04-04
+0001653653
+rrr:NorthForkRancheriaOfMonoIndiansMember
+us-gaap:CommitmentsToExtendCreditMember
+2025-09-30
+0001653653
+rrr:NorthForkRancheriaOfMonoIndiansMember
+2025-01-01
+2025-09-30
+0001653653
+rrr:NorthForkRancheriaOfMonoIndiansMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:ManagementServiceMember
+rrr:NorthForkRancheriaOfMonoIndiansMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:ManagementServiceMember
+rrr:NorthForkRancheriaOfMonoIndiansMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:ManagementServiceMember
+rrr:NorthForkRancheriaOfMonoIndiansMember
+2025-01-01
+2025-09-30
+0001653653
+rrr:TermLoanBFacilityDueMarch142031Member
+rrr:StationCasinosLlcMember
+us-gaap:LineOfCreditMember
+2025-09-30
+0001653653
+rrr:TermLoanBFacilityDueMarch142031Member
+rrr:StationCasinosLlcMember
+us-gaap:LineOfCreditMember
+2024-12-31
+0001653653
+rrr:RevolvingCreditFacilityDueMarch142029Member
+rrr:StationCasinosLlcMember
+rrr:LineofCreditandRevolvingCreditFacilityMember
+2025-09-30
+0001653653
+rrr:RevolvingCreditFacilityDueMarch142029Member
+rrr:StationCasinosLlcMember
+rrr:LineofCreditandRevolvingCreditFacilityMember
+2024-12-31
+0001653653
+rrr:RevolvingCreditFacilityDueMarch142029Member
+rrr:StationCasinosLlcMember
+us-gaap:RevolvingCreditFacilityMember
+2025-09-30
+0001653653
+rrr:RevolvingCreditFacilityDueMarch142029Member
+rrr:StationCasinosLlcMember
+us-gaap:RevolvingCreditFacilityMember
+2024-12-31
+0001653653
+rrr:A6.625SeniorNotesDueMarch142032Member
+rrr:StationCasinosLlcMember
+us-gaap:SeniorNotesMember
+2024-12-31
+0001653653
+rrr:A6.625SeniorNotesDueMarch142032Member
+rrr:StationCasinosLlcMember
+us-gaap:SeniorNotesMember
+2025-09-30
+0001653653
+rrr:A4625SeniorNotesDueDecember12031Member
+rrr:StationCasinosLlcMember
+us-gaap:SeniorNotesMember
+2025-09-30
+0001653653
+rrr:A4625SeniorNotesDueDecember12031Member
+rrr:StationCasinosLlcMember
+us-gaap:SeniorNotesMember
+2024-12-31
+0001653653
+rrr:A4.50SeniorNotesDueFebruary152028Member
+rrr:StationCasinosLlcMember
+us-gaap:SeniorNotesMember
+2024-12-31
+0001653653
+rrr:A4.50SeniorNotesDueFebruary152028Member
+rrr:StationCasinosLlcMember
+us-gaap:SeniorNotesMember
+2025-09-30
+0001653653
+rrr:StationCasinosLlcMember
+rrr:OtherLongTermDebtMember
+2025-09-30
+0001653653
+rrr:StationCasinosLlcMember
+rrr:OtherLongTermDebtMember
+2024-12-31
+0001653653
+rrr:StationCasinosLlcMember
+us-gaap:OtherDebtSecuritiesMember
+2025-09-30
+0001653653
+rrr:StationCasinosLlcMember
+us-gaap:OtherDebtSecuritiesMember
+2024-12-31
+0001653653
+rrr:StationCasinosLlcMember
+2025-09-30
+0001653653
+rrr:StationCasinosLlcMember
+2024-12-31
+0001653653
+rrr:TermLoanBFacilityDueMarch142031Member
+rrr:StationCasinosLlcMember
+us-gaap:LineOfCreditMember
+2024-03-14
+0001653653
+rrr:RevolvingCreditFacilityDueMarch142029Member
+rrr:StationCasinosLlcMember
+us-gaap:RevolvingCreditFacilityMember
+2024-03-14
+0001653653
+us-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember
+rrr:TermLoanBFacilityDueMarch142031Member
+rrr:StationCasinosLlcMember
+us-gaap:LineOfCreditMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:BaseRateMember
+rrr:TermLoanBFacilityDueMarch142031Member
+rrr:StationCasinosLlcMember
+us-gaap:LineOfCreditMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember
+rrr:RevolvingCreditFacilityDueMarch142029Member
+srt:MinimumMember
+rrr:StationCasinosLlcMember
+rrr:LineofCreditandRevolvingCreditFacilityMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember
+rrr:RevolvingCreditFacilityDueMarch142029Member
+srt:MaximumMember
+rrr:StationCasinosLlcMember
+rrr:LineofCreditandRevolvingCreditFacilityMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:BaseRateMember
+rrr:RevolvingCreditFacilityDueMarch142029Member
+srt:MinimumMember
+rrr:StationCasinosLlcMember
+rrr:LineofCreditandRevolvingCreditFacilityMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:BaseRateMember
+rrr:RevolvingCreditFacilityDueMarch142029Member
+srt:MaximumMember
+rrr:StationCasinosLlcMember
+rrr:LineofCreditandRevolvingCreditFacilityMember
+2025-01-01
+2025-09-30
+0001653653
+srt:MaximumMember
+rrr:StationCasinosLlcMember
+rrr:LineofCreditandRevolvingCreditFacilityMember
+2025-09-30
+0001653653
+rrr:A6.625SeniorNotesDueMarch142032Member
+rrr:StationCasinosLlcMember
+us-gaap:SeniorNotesMember
+2024-03-14
+0001653653
+rrr:A4625SeniorNotesDueDecember12031Member
+rrr:StationCasinosLlcMember
+us-gaap:SeniorNotesMember
+2021-11-26
+0001653653
+rrr:A4.50SeniorNotesDueFebruary152028Member
+rrr:StationCasinosLlcMember
+us-gaap:SeniorNotesMember
+2020-02-07
+0001653653
+us-gaap:InterestRateContractMember
+us-gaap:NondesignatedMember
+rrr:StationCasinosLlcMember
+2024-04-09
+0001653653
+us-gaap:InterestRateContractMember
+us-gaap:NondesignatedMember
+rrr:StationCasinosLlcMember
+2025-09-30
+0001653653
+us-gaap:InterestRateContractMember
+us-gaap:NondesignatedMember
+rrr:StationCasinosLlcMember
+2025-09-30
+0001653653
+us-gaap:InterestRateContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001653653
+us-gaap:InterestRateContractMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0001653653
+us-gaap:InterestRateContractMember
+us-gaap:OtherCurrentLiabilitiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001653653
+us-gaap:InterestRateContractMember
+us-gaap:OtherCurrentLiabilitiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0001653653
+us-gaap:InterestRateContractMember
+us-gaap:OtherNoncurrentLiabilitiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001653653
+us-gaap:InterestRateContractMember
+us-gaap:OtherNoncurrentLiabilitiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0001653653
+rrr:StationCasinosLlcMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001653653
+rrr:StationCasinosLlcMember
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0001653653
+us-gaap:ParentMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:ParentMember
+2024-07-01
+2024-09-30
+0001653653
+us-gaap:ParentMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:ParentMember
+2024-01-01
+2024-09-30
+0001653653
+us-gaap:CommonClassAMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:CommonClassAMember
+2024-07-01
+2024-09-30
+0001653653
+rrr:FertittaFamilyEntitiesMember
+2025-07-01
+2025-09-30
+0001653653
+rrr:FertittaFamilyEntitiesMember
+2024-07-01
+2024-09-30
+0001653653
+rrr:FertittaFamilyEntitiesMember
+2025-01-01
+2025-09-30
+0001653653
+rrr:FertittaFamilyEntitiesMember
+2024-01-01
+2024-09-30
+0001653653
+rrr:StationHoldcoMember
+us-gaap:NoncontrollingInterestMember
+2024-07-01
+2024-09-30
+0001653653
+rrr:StationHoldcoMember
+us-gaap:NoncontrollingInterestMember
+2025-07-01
+2025-09-30
+0001653653
+rrr:StationHoldcoMember
+us-gaap:NoncontrollingInterestMember
+2024-01-01
+2024-09-30
+0001653653
+rrr:StationHoldcoMember
+us-gaap:NoncontrollingInterestMember
+2025-01-01
+2025-09-30
+0001653653
+rrr:StationHoldcoMember
+rrr:FertittaFamilyEntitiesMember
+2024-07-01
+2024-09-30
+0001653653
+rrr:StationHoldcoMember
+rrr:FertittaFamilyEntitiesMember
+2025-07-01
+2025-09-30
+0001653653
+rrr:StationHoldcoMember
+rrr:FertittaFamilyEntitiesMember
+2024-01-01
+2024-09-30
+0001653653
+rrr:StationHoldcoMember
+rrr:FertittaFamilyEntitiesMember
+2025-01-01
+2025-09-30
+0001653653
+rrr:StationHoldcoMember
+us-gaap:NoncontrollingInterestMember
+us-gaap:NoncontrollingInterestMember
+2025-07-01
+2025-09-30
+0001653653
+rrr:StationHoldcoMember
+us-gaap:NoncontrollingInterestMember
+us-gaap:NoncontrollingInterestMember
+2025-01-01
+2025-09-30
+0001653653
+rrr:StationHoldcoMember
+rrr:FertittaFamilyEntitiesMember
+rrr:FertittaFamilyEntitiesMember
+2025-01-01
+2025-09-30
+0001653653
+rrr:StationHoldcoMember
+us-gaap:NoncontrollingInterestMember
+us-gaap:NoncontrollingInterestMember
+2024-07-01
+2024-09-30
+0001653653
+rrr:StationHoldcoMember
+us-gaap:NoncontrollingInterestMember
+us-gaap:NoncontrollingInterestMember
+2024-01-01
+2024-09-30
+0001653653
+rrr:StationHoldcoMember
+rrr:FertittaFamilyEntitiesMember
+rrr:FertittaFamilyEntitiesMember
+2024-07-01
+2024-09-30
+0001653653
+rrr:StationHoldcoMember
+rrr:FertittaFamilyEntitiesMember
+rrr:FertittaFamilyEntitiesMember
+2024-01-01
+2024-09-30
+0001653653
+us-gaap:CommonClassAMember
+us-gaap:SubsequentEventMember
+2025-07-29
+2025-07-29
+0001653653
+rrr:FertittaFamilyEntitiesMember
+us-gaap:SubsequentEventMember
+2025-07-29
+2025-07-29
+0001653653
+us-gaap:SubsequentEventMember
+2025-07-29
+2025-07-29
+0001653653
+us-gaap:CashDistributionMember
+rrr:FertittaFamilyEntitiesMember
+us-gaap:SubsequentEventMember
+2025-07-29
+2025-07-29
+0001653653
+us-gaap:CommonClassAMember
+rrr:SpecialDividendMember
+us-gaap:SubsequentEventMember
+2025-05-01
+2025-05-01
+0001653653
+rrr:SpecialDividendMember
+rrr:FertittaFamilyEntitiesMember
+us-gaap:SubsequentEventMember
+2025-07-01
+2025-09-30
+0001653653
+rrr:StationHoldcoMember
+us-gaap:SubsequentEventMember
+2025-05-01
+2025-05-01
+0001653653
+rrr:SpecialDistributionMember
+rrr:FertittaFamilyEntitiesMember
+us-gaap:SubsequentEventMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:CommonClassAMember
+rrr:SpecialDividendMember
+2024-01-01
+2024-09-30
+0001653653
+rrr:SpecialDividendMember
+rrr:FertittaFamilyEntitiesMember
+2024-01-01
+2024-09-30
+0001653653
+rrr:EquityRepurchaseProgramMember
+2025-09-30
+0001653653
+rrr:EquityRepurchaseProgramMember
+2025-01-01
+2025-09-30
+0001653653
+rrr:EquityRepurchaseProgramMember
+2025-07-01
+2025-09-30
+0001653653
+rrr:EquityRepurchaseProgramMember
+2024-07-01
+2024-09-30
+0001653653
+rrr:EquityRepurchaseProgramMember
+2024-01-01
+2024-09-30
+0001653653
+rrr:EquityRepurchaseProgramMember
+2025-10-27
+2025-10-27
+0001653653
+rrr:EquityRepurchaseProgramMember
+2025-10-27
+0001653653
+us-gaap:RestrictedStockMember
+us-gaap:CommonClassAMember
+2024-12-31
+0001653653
+us-gaap:EmployeeStockOptionMember
+us-gaap:CommonClassAMember
+2024-12-31
+0001653653
+us-gaap:RestrictedStockMember
+us-gaap:CommonClassAMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:EmployeeStockOptionMember
+us-gaap:CommonClassAMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:StockCompensationPlanMember
+us-gaap:CommonClassAMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:RestrictedStockMember
+us-gaap:CommonClassAMember
+2025-09-30
+0001653653
+us-gaap:EmployeeStockOptionMember
+us-gaap:CommonClassAMember
+2025-09-30
+0001653653
+rrr:FertittaFamilyEntitiesMember
+2025-09-30
+0001653653
+rrr:FertittaFamilyEntitiesMember
+2024-12-31
+0001653653
+rrr:TaxReceivableAgreementLiabilityAssignedMember
+2025-09-30
+0001653653
+us-gaap:EmployeeStockOptionMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:EmployeeStockOptionMember
+2024-07-01
+2024-09-30
+0001653653
+us-gaap:EmployeeStockOptionMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:EmployeeStockOptionMember
+2024-01-01
+2024-09-30
+0001653653
+us-gaap:RestrictedStockMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:RestrictedStockMember
+2024-07-01
+2024-09-30
+0001653653
+us-gaap:RestrictedStockMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:RestrictedStockMember
+2024-01-01
+2024-09-30
+0001653653
+2025-09-01
+0001653653
+2025-09-01
+2025-09-01
+0001653653
+rrr:LasVegasOperationsMember
+2025-01-01
+2025-09-30
+0001653653
+rrr:NativeAmericanManagementMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:CasinoMember
+rrr:LasVegasOperationsMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:CasinoMember
+rrr:NativeAmericanManagementMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:CasinoMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:FoodAndBeverageMember
+rrr:LasVegasOperationsMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:FoodAndBeverageMember
+rrr:NativeAmericanManagementMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:FoodAndBeverageMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:OccupancyMember
+rrr:LasVegasOperationsMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:OccupancyMember
+rrr:NativeAmericanManagementMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:OccupancyMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:ManagementServiceMember
+rrr:LasVegasOperationsMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:ManagementServiceMember
+rrr:NativeAmericanManagementMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:ManagementServiceMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:HotelOtherMember
+rrr:LasVegasOperationsMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:HotelOtherMember
+rrr:NativeAmericanManagementMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:HotelOtherMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2025-07-01
+2025-09-30
+0001653653
+rrr:LasVegasOperationsMember
+2025-07-01
+2025-09-30
+0001653653
+rrr:NativeAmericanManagementMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:HotelOtherMember
+us-gaap:CorporateAndOtherMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:CostOfSalesMember
+rrr:LasVegasOperationsMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:CostOfSalesMember
+rrr:NativeAmericanManagementMember
+2025-07-01
+2025-09-30
+0001653653
+rrr:GamingTaxesMember
+rrr:LasVegasOperationsMember
+2025-07-01
+2025-09-30
+0001653653
+rrr:GamingTaxesMember
+rrr:NativeAmericanManagementMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:OtherExpenseMember
+rrr:LasVegasOperationsMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:OtherExpenseMember
+rrr:NativeAmericanManagementMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:CorporateAndOtherMember
+2025-07-01
+2025-09-30
+0001653653
+us-gaap:CasinoMember
+rrr:LasVegasOperationsMember
+2024-07-01
+2024-09-30
+0001653653
+us-gaap:CasinoMember
+rrr:NativeAmericanManagementMember
+2024-07-01
+2024-09-30
+0001653653
+us-gaap:CasinoMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2024-07-01
+2024-09-30
+0001653653
+us-gaap:FoodAndBeverageMember
+rrr:LasVegasOperationsMember
+2024-07-01
+2024-09-30
+0001653653
+us-gaap:FoodAndBeverageMember
+rrr:NativeAmericanManagementMember
+2024-07-01
+2024-09-30
+0001653653
+us-gaap:FoodAndBeverageMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2024-07-01
+2024-09-30
+0001653653
+us-gaap:OccupancyMember
+rrr:LasVegasOperationsMember
+2024-07-01
+2024-09-30
+0001653653
+us-gaap:OccupancyMember
+rrr:NativeAmericanManagementMember
+2024-07-01
+2024-09-30
+0001653653
+us-gaap:OccupancyMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2024-07-01
+2024-09-30
+0001653653
+us-gaap:HotelOtherMember
+rrr:LasVegasOperationsMember
+2024-07-01
+2024-09-30
+0001653653
+us-gaap:HotelOtherMember
+rrr:NativeAmericanManagementMember
+2024-07-01
+2024-09-30
+0001653653
+us-gaap:HotelOtherMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2024-07-01
+2024-09-30
+0001653653
+rrr:LasVegasOperationsMember
+2024-07-01
+2024-09-30
+0001653653
+rrr:NativeAmericanManagementMember
+2024-07-01
+2024-09-30
+0001653653
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2024-07-01
+2024-09-30
+0001653653
+us-gaap:HotelOtherMember
+us-gaap:CorporateAndOtherMember
+2024-07-01
+2024-09-30
+0001653653
+us-gaap:CostOfSalesMember
+rrr:LasVegasOperationsMember
+2024-07-01
+2024-09-30
+0001653653
+us-gaap:CostOfSalesMember
+rrr:NativeAmericanManagementMember
+2024-07-01
+2024-09-30
+0001653653
+rrr:GamingTaxesMember
+rrr:LasVegasOperationsMember
+2024-07-01
+2024-09-30
+0001653653
+rrr:GamingTaxesMember
+rrr:NativeAmericanManagementMember
+2024-07-01
+2024-09-30
+0001653653
+us-gaap:OtherExpenseMember
+rrr:LasVegasOperationsMember
+2024-07-01
+2024-09-30
+0001653653
+us-gaap:OtherExpenseMember
+rrr:NativeAmericanManagementMember
+2024-07-01
+2024-09-30
+0001653653
+us-gaap:CorporateAndOtherMember
+2024-07-01
+2024-09-30
+0001653653
+us-gaap:CasinoMember
+rrr:LasVegasOperationsMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:CasinoMember
+rrr:NativeAmericanManagementMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:CasinoMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:FoodAndBeverageMember
+rrr:LasVegasOperationsMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:FoodAndBeverageMember
+rrr:NativeAmericanManagementMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:FoodAndBeverageMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:OccupancyMember
+rrr:LasVegasOperationsMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:OccupancyMember
+rrr:NativeAmericanManagementMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:OccupancyMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:ManagementServiceMember
+rrr:LasVegasOperationsMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:ManagementServiceMember
+rrr:NativeAmericanManagementMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:ManagementServiceMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:HotelOtherMember
+rrr:LasVegasOperationsMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:HotelOtherMember
+rrr:NativeAmericanManagementMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:HotelOtherMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:HotelOtherMember
+us-gaap:CorporateAndOtherMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:CostOfSalesMember
+rrr:LasVegasOperationsMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:CostOfSalesMember
+rrr:NativeAmericanManagementMember
+2025-01-01
+2025-09-30
+0001653653
+rrr:GamingTaxesMember
+rrr:LasVegasOperationsMember
+2025-01-01
+2025-09-30
+0001653653
+rrr:GamingTaxesMember
+rrr:NativeAmericanManagementMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:OtherExpenseMember
+rrr:LasVegasOperationsMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:OtherExpenseMember
+rrr:NativeAmericanManagementMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:CorporateAndOtherMember
+2025-01-01
+2025-09-30
+0001653653
+us-gaap:CasinoMember
+rrr:LasVegasOperationsMember
+2024-01-01
+2024-09-30
+0001653653
+us-gaap:CasinoMember
+rrr:NativeAmericanManagementMember
+2024-01-01
+2024-09-30
+0001653653
+us-gaap:CasinoMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2024-01-01
+2024-09-30
+0001653653
+us-gaap:FoodAndBeverageMember
+rrr:LasVegasOperationsMember
+2024-01-01
+2024-09-30
+0001653653
+us-gaap:FoodAndBeverageMember
+rrr:NativeAmericanManagementMember
+2024-01-01
+2024-09-30
+0001653653
+us-gaap:FoodAndBeverageMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2024-01-01
+2024-09-30
+0001653653
+us-gaap:OccupancyMember
+rrr:LasVegasOperationsMember
+2024-01-01
+2024-09-30
+0001653653
+us-gaap:OccupancyMember
+rrr:NativeAmericanManagementMember
+2024-01-01
+2024-09-30
+0001653653
+us-gaap:OccupancyMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2024-01-01
+2024-09-30
+0001653653
+us-gaap:HotelOtherMember
+rrr:LasVegasOperationsMember
+2024-01-01
+2024-09-30
+0001653653
+us-gaap:HotelOtherMember
+rrr:NativeAmericanManagementMember
+2024-01-01
+2024-09-30
+0001653653
+us-gaap:HotelOtherMember
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2024-01-01
+2024-09-30
+0001653653
+rrr:LasVegasOperationsMember
+2024-01-01
+2024-09-30
+0001653653
+rrr:NativeAmericanManagementMember
+2024-01-01
+2024-09-30
+0001653653
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+2024-01-01
+2024-09-30
+0001653653
+us-gaap:HotelOtherMember
+us-gaap:CorporateAndOtherMember
+2024-01-01
+2024-09-30
+0001653653
+us-gaap:CostOfSalesMember
+rrr:LasVegasOperationsMember
+2024-01-01
+2024-09-30
+0001653653
+us-gaap:CostOfSalesMember
+rrr:NativeAmericanManagementMember
+2024-01-01
+2024-09-30
+0001653653
+rrr:GamingTaxesMember
+rrr:LasVegasOperationsMember
+2024-01-01
+2024-09-30
+0001653653
+rrr:GamingTaxesMember
+rrr:NativeAmericanManagementMember
+2024-01-01
+2024-09-30
+0001653653
+us-gaap:OtherExpenseMember
+rrr:LasVegasOperationsMember
+2024-01-01
+2024-09-30
+0001653653
+us-gaap:OtherExpenseMember
+rrr:NativeAmericanManagementMember
+2024-01-01
+2024-09-30
+0001653653
+us-gaap:CorporateAndOtherMember
+2024-01-01
+2024-09-30
+0001653653
+rrr:LasVegasOperationsMember
+2025-09-30
+0001653653
+rrr:LasVegasOperationsMember
+2024-12-31
+0001653653
+rrr:NativeAmericanManagementMember
+2025-09-30
+0001653653
+rrr:NativeAmericanManagementMember
+2024-12-31
+0001653653
+us-gaap:CorporateAndOtherMember
+2025-09-30
+0001653653
+us-gaap:CorporateAndOtherMember
+2024-12-31
+0001653653
+rrr:RobertLewisAndFamilyMember
+2023-01-23
+0001653653
+rrr:RobertLewisAndFamilyMember
+2023-01-23
+2023-01-23
+0001653653
+rrr:RobertLewisAndFamilyMember
+2025-09-30
+0001653653
+rrr:RobertLewisAndFamilyMember
+2024-09-30
+0001653653
+rrr:RobertLewisAndFamilyMember
+2025-07-01
+2025-09-30
+0001653653
+rrr:RobertLewisAndFamilyMember
+2025-01-01
+2025-09-30
+0001653653
+rrr:RobertLewisAndFamilyMember
+2024-07-01
+2024-09-30
+0001653653
+rrr:RobertLewisAndFamilyMember
+2024-01-01
+2024-09-30
+Table of Contents
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 
+10-Q
+
+(Mark one) 
+☑
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934    
+For the quarterly period ended 
+September 30, 2025
+OR
+☐
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from                    to     
+Commission file number 
+001-37754
+RED ROCK RESORTS, INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+47-5081182
+(State or other jurisdiction of
+incorporation or organization)
+(I.R.S. Employer
+Identification No.)
+1505 South Pavilion Center Drive
+, 
+Las Vegas
+, 
+Nevada
+(Address of principal executive offices)
+
+89135
+(Zip Code)
+(
+702
+) 
+495-3000
+(Registrant’s telephone number, including area code)
+N/A
+(Former name, former address and former fiscal year, if changed since last report)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange on which registered
+Class A Common Stock, $.01 par value
+RRR
+NASDAQ Stock Market
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    
+Yes
+
+☑
+    No 
+☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).    
+Yes
+
+☑
+    No 
+☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☑
+Accelerated filer
+☐
+Non-accelerated filer
+☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.    
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes 
+☐
+    No 
+☑
+Indicate the number of shares outstanding of each of the issuer’s classes of common stock, as of the latest practicable date.
+Class
+Outstanding at October 29, 2025
+Class A Common Stock, $0.01 par value
+59,969,558
+Class B Common Stock, $0.00001 par value
+45,885,804
+Table of Contents
+
+RED ROCK RESORTS, INC.
+INDEX
+Part I.
+Financial Information
+Item 1.
+Financial Statements
+3
+Condensed Consolidated Balance Sheets — 
+S
+eptember
+ 30, 2025 (unaudited) and December 31, 2024
+3
+Condensed Consolidated Statements of Income — Three and 
+nine
+ months ended 
+September
+ 30, 2025 and 2024 (unaudited)
+4
+Condensed Consolidated Statements of Stockholders’ Equity — 
+Three and 
+nine
+ months ended 
+September
+ 30, 2025 and 2024 (unaudited)
+5
+Condensed Consolidated Statements of Cash Flows — 
+Nine months ended September 30, 2025 and 2024 (unaudited)
+9
+Notes to Condensed Consolidated Financial Statements (unaudited)
+11
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+28
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+38
+Item 4.
+Controls and Procedures
+38
+Part II.
+Other Information
+Item 1.
+Legal Proceedings
+38
+Item 1A.
+Risk Factors
+38
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+39
+Item 3.
+Defaults Upon Senior Securities
+39
+Item 4.
+Mine Safety Disclosures
+39
+Item 5.
+Other Information
+39
+Item 6.
+Exhibits
+39
+Signature
+40
+Table of Contents
+
+Part I.    Financial Information
+Item 1.    Financial Statements
+RED ROCK RESORTS, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(amounts in thousands, except share data)
+
+September 30,
+2025
+December 31, 2024
+(unaudited)
+ASSETS
+
+Current assets:
+
+Cash and cash equivalents
+$
+129,760
+
+$
+164,383
+
+Receivables, net
+56,096
+
+64,380
+
+Income tax receivable
+3,941
+
+—
+
+Inventories
+16,431
+
+16,409
+
+Prepaid gaming tax
+29,930
+
+27,672
+
+Prepaid expenses and other current assets
+31,541
+
+22,520
+
+Total current assets
+267,699
+
+295,364
+
+Property and equipment, net of accumulated depreciation of $
+1,550,463
+ and $
+1,450,720
+ at September 30, 2025 and December 31, 2024, respectively
+2,897,231
+
+2,781,915
+
+Goodwill
+195,676
+
+195,676
+
+Intangible assets, net of accumulated amortization of $
+22,556
+ and $
+21,372
+ at September 30, 2025 and December 31, 2024, respectively
+80,044
+
+81,228
+
+Land held for development
+469,395
+
+467,756
+
+Native American development costs
+—
+
+81,673
+
+Deferred tax asset, net
+37,747
+
+56,433
+
+Finance lease right-of-use assets, net
+41,191
+
+—
+
+Other assets, net
+107,247
+
+85,486
+
+Total assets
+$
+4,096,230
+
+$
+4,045,531
+
+LIABILITIES AND STOCKHOLDERS’ EQUITY 
+
+Current liabilities:
+
+Accounts payable
+$
+21,835
+
+$
+31,813
+
+Accrued interest payable
+13,491
+
+27,384
+
+Other accrued liabilities 
+260,916
+
+211,738
+
+Current portion of payable pursuant to tax receivable agreement
+994
+
+1,354
+
+Current portion of finance lease liabilities
+9,670
+
+—
+
+Current portion of long-term debt 
+51,953
+
+52,913
+
+Total current liabilities
+358,859
+
+325,202
+
+Long-term debt, less current portion 
+3,311,687
+
+3,354,567
+
+Other long-term liabilities
+42,883
+
+39,854
+
+Long-term finance lease liabilities, less current portion
+32,601
+
+—
+
+Payable pursuant to tax receivable agreement, less current portion
+19,342
+
+19,075
+
+Total liabilities
+3,765,372
+
+3,738,698
+
+Commitments and contingencies (Note 13)
+Stockholders’ equity:
+
+Preferred stock, par value $
+0.01
+ per share, 
+100,000,000
+ shares authorized; 
+none
+ issued and outstanding
+—
+
+—
+
+Class A common stock, par value $
+0.01
+ per share, 
+500,000,000
+ shares authorized; 
+59,969,558
+ and 
+59,633,380
+ shares issued and outstanding at September 30, 2025 and December 31, 2024, respectively
+600
+
+596
+
+Class B common stock, par value $
+0.00001
+ per share, 
+100,000,000
+ shares authorized; 
+45,885,804
+ and 
+45,985,804
+ shares issued and outstanding at September 30, 2025 and December 31, 2024
+1
+
+1
+
+Additional paid-in capital
+1,034
+
+18,635
+
+Retained earnings
+217,976
+
+195,834
+
+Total Red Rock Resorts, Inc. stockholders’ equity 
+219,611
+
+215,066
+
+Noncontrolling interest
+111,247
+
+91,767
+
+Total stockholders’ equity 
+330,858
+
+306,833
+
+Total liabilities and stockholders’ equity
+$
+4,096,230
+
+$
+4,045,531
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+3
+Table of Contents
+
+RED ROCK RESORTS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+(amounts in thousands, except per share data)
+(unaudited)
+Three Months Ended
+September 30,
+Nine Months Ended
+September 30,
+2025
+2024
+2025
+2024
+Operating revenues:
+Casino
+$
+319,490
+
+$
+314,225
+
+$
+997,531
+
+$
+950,708
+
+Food and beverage
+85,523
+
+83,327
+
+269,169
+
+268,323
+
+Room
+41,568
+
+45,165
+
+142,925
+
+148,195
+
+Development fees
+3,894
+
+—
+
+13,902
+
+—
+
+Other
+25,097
+
+25,299
+
+76,179
+
+76,090
+
+Net revenues
+475,572
+
+468,016
+
+1,499,706
+
+1,443,316
+
+Operating costs and expenses:
+Casino
+83,263
+
+88,141
+
+266,538
+
+260,963
+
+Food and beverage
+72,989
+
+71,889
+
+222,644
+
+219,603
+
+Room
+15,557
+
+15,502
+
+47,487
+
+47,448
+
+Other
+8,014
+
+8,013
+
+23,776
+
+23,040
+
+Selling, general and administrative
+112,853
+
+109,041
+
+329,595
+
+325,164
+
+Depreciation and amortization
+48,976
+
+47,372
+
+145,295
+
+138,948
+
+Write-downs and other, net
+2,436
+
+(
+2,585
+)
+10,506
+
+1,749
+
+344,088
+
+337,373
+
+1,045,841
+
+1,016,915
+
+Operating income
+131,484
+
+130,643
+
+453,865
+
+426,401
+
+Earnings from joint ventures
+655
+
+549
+
+1,977
+
+1,993
+
+Operating income and earnings from joint ventures
+132,139
+
+131,192
+
+455,842
+
+428,394
+
+Other (expense) income:
+Interest expense, net
+(
+50,486
+)
+(
+57,998
+)
+(
+152,228
+)
+(
+172,633
+)
+Loss on extinguishment/modification of debt
+—
+
+—
+
+—
+
+(
+14,402
+)
+Change in fair value of derivative instruments
+1,846
+
+(
+9,748
+)
+(
+5,653
+)
+(
+11,671
+)
+Gain on Native American development
+—
+
+—
+
+8,476
+
+—
+
+(
+48,640
+)
+(
+67,746
+)
+(
+149,405
+)
+(
+198,706
+)
+Income before income tax
+83,499
+
+63,446
+
+306,437
+
+229,688
+
+Provision for income tax
+(
+6,619
+)
+(
+8,057
+)
+(
+35,354
+)
+(
+26,118
+)
+Net income
+76,880
+
+55,389
+
+271,083
+
+203,570
+
+Less: net income attributable to noncontrolling interests
+34,626
+
+26,437
+
+127,676
+
+96,107
+
+Net income attributable to Red Rock Resorts, Inc.
+$
+42,254
+
+$
+28,952
+
+$
+143,407
+
+$
+107,463
+
+Earnings per common share (Note 11):
+Earnings per share of Class A common stock, basic
+$
+0.72
+
+$
+0.49
+
+$
+2.43
+
+$
+1.82
+
+Earnings per share of Class A common stock, diluted
+$
+0.68
+
+$
+0.48
+
+$
+2.37
+
+$
+1.77
+
+Weighted-average common shares outstanding:
+Basic
+59,019
+
+59,092
+
+59,060
+
+58,988
+
+Diluted
+102,663
+
+103,686
+
+102,925
+
+103,709
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+4
+Table of Contents
+
+RED ROCK RESORTS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+(amounts in thousands)
+(unaudited)
+Red Rock Resorts, Inc. Stockholders’ Equity
+Common stock
+Additional paid-in capital
+Retained earnings
+Noncontrolling interest
+Total stockholders’ equity 
+Class A
+Class B
+Shares
+Amount
+Shares
+Amount
+Balances,
+June 30, 2025
+59,459
+
+$
+595
+
+45,986
+
+$
+1
+
+$
+—
+
+$
+202,804
+
+$
+93,654
+
+$
+297,054
+
+Net income
+— 
+— 
+— 
+— 
+— 
+42,254
+
+34,626
+
+76,880
+
+Share-based compensation
+— 
+— 
+— 
+— 
+7,439
+
+— 
+— 
+7,439
+
+Distributions
+— 
+— 
+— 
+— 
+— 
+— 
+(
+11,474
+)
+(
+11,474
+)
+Dividends
+— 
+— 
+— 
+— 
+— 
+(
+14,917
+)
+— 
+(
+14,917
+)
+Stock option exercises and issuance of restricted stock, net
+511
+
+5
+
+— 
+— 
+(
+5
+)
+— 
+— 
+—
+
+Exchanges of noncontrolling interests for cash
+— 
+— 
+(
+100
+)
+—
+
+(
+5,367
+)
+— 
+(
+215
+)
+(
+5,582
+)
+Recognition of Tax Receivable Agreement liability resulting from exchanges of noncontrolling interests for Class A common stock
+— 
+— 
+— 
+— 
+(
+1,262
+)
+— 
+— 
+(
+1,262
+)
+Net deferred tax assets resulting from exchanges of noncontrolling interests for Class A common stock
+— 
+— 
+— 
+— 
+1,392
+
+— 
+— 
+1,392
+
+Withholding tax on share-based compensation
+—
+
+— 
+— 
+— 
+(
+6,507
+)
+(
+12,165
+)
+— 
+(
+18,672
+)
+Rebalancing of ownership percentage between the Company and noncontrolling interests in Station Holdco
+— 
+— 
+— 
+— 
+5,344
+
+— 
+(
+5,344
+)
+—
+
+Balances,
+September 30, 2025
+59,970
+
+$
+600
+
+45,886
+
+$
+1
+
+$
+1,034
+
+$
+217,976
+
+$
+111,247
+
+$
+330,858
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+5
+Table of Contents
+
+RED ROCK RESORTS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY (Continued)
+(amounts in thousands)
+(unaudited)
+Red Rock Resorts, Inc. Stockholders’ Equity
+Common stock
+Additional paid-in capital
+Retained earnings
+Noncontrolling interest
+Total stockholders’ equity
+Class A
+Class B
+Shares
+Amount
+Shares
+Amount
+Balances,
+June 30, 2024
+59,548
+
+$
+595
+
+45,986
+
+$
+1
+
+$
+8,282
+
+$
+150,092
+
+$
+66,709
+
+$
+225,679
+
+Net income
+— 
+— 
+— 
+— 
+— 
+28,952
+
+26,437
+
+55,389
+
+Share-based compensation
+— 
+— 
+— 
+— 
+6,873
+
+— 
+— 
+6,873
+
+Distributions
+— 
+— 
+— 
+— 
+— 
+— 
+(
+30,468
+)
+(
+30,468
+)
+Dividends
+— 
+— 
+— 
+— 
+— 
+(
+14,890
+)
+— 
+(
+14,890
+)
+Stock option exercises and issuance of restricted stock, net
+85
+
+1
+
+— 
+— 
+(
+1
+)
+— 
+— 
+—
+
+Withholding tax on share-based compensation
+—
+
+— 
+— 
+— 
+(
+2,629
+)
+— 
+— 
+(
+2,629
+)
+Net deferred tax assets resulting from the redemption of LLC Units
+— 
+— 
+— 
+— 
+(
+159
+)
+— 
+— 
+(
+159
+)
+Rebalancing of ownership percentage between the Company and noncontrolling interests in Station Holdco
+— 
+— 
+— 
+— 
+(
+1,578
+)
+— 
+1,578
+
+—
+
+Balances,
+September 30, 2024
+59,633
+
+$
+596
+
+45,986
+
+$
+1
+
+$
+10,788
+
+$
+164,154
+
+$
+64,256
+
+$
+239,795
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+6
+Table of Contents
+
+RED ROCK RESORTS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY (Continued)
+(amounts in thousands)
+(unaudited)
+Red Rock Resorts, Inc. Stockholders’ Equity
+Common stock
+Additional paid-in capital
+Retained earnings
+Noncontrolling interest
+Total stockholders’ equity 
+Class A
+Class B
+Shares
+Amount
+Shares
+Amount
+Balances,
+December 31, 2024
+59,633
+
+$
+596
+
+45,986
+
+$
+1
+
+$
+18,635
+
+$
+195,834
+
+$
+91,767
+
+$
+306,833
+
+Net income
+— 
+— 
+— 
+— 
+— 
+143,407
+
+127,676
+
+271,083
+
+Share-based compensation
+— 
+— 
+— 
+— 
+24,038
+
+— 
+— 
+24,038
+
+Distributions
+— 
+— 
+— 
+— 
+— 
+— 
+(
+106,404
+)
+(
+106,404
+)
+Dividends
+— 
+— 
+— 
+— 
+— 
+(
+104,493
+)
+— 
+(
+104,493
+)
+Stock option exercises and issuance of restricted stock, net
+1,054
+
+10
+
+— 
+— 
+(
+10
+)
+— 
+— 
+—
+
+Repurchase of Class A common stock
+(
+672
+)
+(
+6
+)
+— 
+— 
+(
+26,242
+)
+(
+4,607
+)
+— 
+(
+30,855
+)
+Exchanges of noncontrolling interests for cash
+— 
+— 
+(
+100
+)
+— 
+(
+5,367
+)
+— 
+(
+215
+)
+(
+5,582
+)
+Recognition of Tax Receivable Agreement liability resulting from exchanges of noncontrolling interests for Class A common stock
+— 
+— 
+— 
+— 
+(
+1,262
+)
+— 
+— 
+(
+1,262
+)
+Net deferred tax assets resulting from exchanges of noncontrolling interests for Class A common stock
+— 
+— 
+— 
+— 
+1,392
+
+— 
+— 
+1,392
+
+Withholding tax on share-based compensation
+(
+45
+)
+— 
+— 
+— 
+(
+11,727
+)
+(
+12,165
+)
+— 
+(
+23,892
+)
+Rebalancing of ownership percentage between the Company and noncontrolling interests in Station Holdco
+— 
+— 
+— 
+— 
+1,577
+
+— 
+(
+1,577
+)
+—
+
+Balances,
+September 30, 2025
+59,970
+
+$
+600
+
+45,886
+
+$
+1
+
+$
+1,034
+
+$
+217,976
+
+$
+111,247
+
+$
+330,858
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+7
+Table of Contents
+
+RED ROCK RESORTS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY (Continued)
+(amounts in thousands)
+(unaudited)
+Red Rock Resorts, Inc. Stockholders’ Equity
+Common stock
+Additional paid-in capital
+Retained earnings
+Noncontrolling interest
+Total stockholders’ equity
+Class A
+Class B
+Shares
+Amount
+Shares
+Amount
+Balances,
+December 31, 2023
+58,866
+
+$
+589
+
+45,986
+
+$
+1
+
+$
+7,345
+
+$
+160,904
+
+$
+75,048
+
+$
+243,887
+
+Net income
+— 
+— 
+— 
+— 
+— 
+107,463
+
+96,107
+
+203,570
+
+Share-based compensation
+— 
+— 
+— 
+— 
+24,815
+
+— 
+— 
+24,815
+
+Distributions
+— 
+— 
+— 
+— 
+— 
+— 
+(
+110,372
+)
+(
+110,372
+)
+Dividends
+— 
+— 
+— 
+— 
+— 
+(
+104,213
+)
+— 
+(
+104,213
+)
+Stock option exercises and issuance of restricted stock, net
+859
+
+8
+
+— 
+— 
+(
+8
+)
+— 
+— 
+—
+
+Repurchases of Class A common stock
+(
+75
+)
+(
+1
+)
+— 
+— 
+(
+3,921
+)
+— 
+— 
+(
+3,922
+)
+Withholding tax on share-based compensation
+(
+17
+)
+— 
+— 
+— 
+(
+13,811
+)
+— 
+— 
+(
+13,811
+)
+Net deferred tax assets resulting from the redemption of LLC Units
+— 
+— 
+— 
+— 
+(
+159
+)
+— 
+— 
+(
+159
+)
+Rebalancing of ownership percentage between the Company and noncontrolling interests in Station Holdco
+— 
+— 
+— 
+— 
+(
+3,473
+)
+— 
+3,473
+
+—
+
+Balances,
+September 30, 2024
+59,633
+
+$
+596
+
+45,986
+
+$
+1
+
+$
+10,788
+
+$
+164,154
+
+$
+64,256
+
+$
+239,795
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+8
+Table of Contents
+
+RED ROCK RESORTS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(amounts in thousands)
+(unaudited)
+Nine Months Ended
+September 30,
+2025
+2024
+Cash flows from operating activities:
+
+Net income
+$
+271,083
+
+$
+203,570
+
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization
+145,295
+
+138,948
+
+Write-downs and other, net 
+402
+
+107
+
+Amortization of debt discount and debt issuance costs
+5,312
+
+5,662
+
+Share-based compensation
+23,664
+
+24,411
+
+Loss on extinguishment/modification of debt
+—
+
+3,047
+
+Change in fair value of derivative instruments
+5,653
+
+11,671
+
+Gain on Native American development
+(
+8,476
+)
+—
+
+Deferred income tax
+20,078
+
+(
+5,189
+)
+Changes in assets and liabilities:
+Receivables, net
+8,284
+
+(
+727
+)
+Inventories and prepaid expenses
+(
+12,788
+)
+(
+12,959
+)
+Accounts payable
+4,078
+
+5,293
+
+Accrued interest payable
+(
+13,690
+)
+(
+1,900
+)
+Income tax receivable/payable
+(
+5,234
+)
+7,723
+
+Other accrued liabilities
+23,077
+
+18,928
+
+Other, net
+(
+13,782
+)
+1,453
+
+Net cash provided by operating activities
+452,956
+
+400,038
+
+Cash flows from investing activities:
+Capital expenditures, net of related payables
+(
+240,118
+)
+(
+257,011
+)
+Acquisition of land held for development
+(
+1,639
+)
+(
+14,971
+)
+Proceeds from repayment of Native American development costs
+110,500
+
+—
+
+Native American development costs
+(
+34,518
+)
+(
+12,661
+)
+Other, net
+(
+530
+)
+(
+1,359
+)
+Net cash used in investing activities
+(
+166,305
+)
+(
+286,002
+)
+9
+Table of Contents
+
+RED ROCK RESORTS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (Continued)
+(amounts in thousands)
+(unaudited)
+Nine Months Ended
+September 30,
+2025
+2024
+Cash flows from financing activities:
+
+Borrowings under credit agreements with original maturity dates greater than three
+   months
+320,000
+
+1,995,853
+
+Payments under credit agreements with original maturity dates greater than three
+   months
+(
+366,775
+)
+(
+2,372,177
+)
+Proceeds from issuance of 6.625% Senior Notes
+—
+
+500,000
+
+Payment of debt issuance costs
+—
+
+(
+23,465
+)
+Distributions to noncontrolling interests
+(
+106,404
+)
+(
+110,372
+)
+Repurchases of Class A common stock
+(
+30,855
+)
+(
+3,922
+)
+Exchanges of noncontrolling interests for cash
+(
+5,582
+)
+—
+
+Withholding tax on share-based compensation
+(
+23,892
+)
+(
+13,811
+)
+Dividends paid
+(
+105,415
+)
+(
+103,610
+)
+Payments on tax receivable agreement liability
+(
+1,355
+)
+(
+1,662
+)
+Other, net
+(
+996
+)
+(
+960
+)
+Net cash used in financing activities
+(
+321,274
+)
+(
+134,126
+)
+Decrease in cash and cash equivalents
+(
+34,623
+)
+(
+20,090
+)
+Balance, beginning of period
+164,383
+
+137,586
+
+Balance, end of period
+$
+129,760
+
+$
+117,496
+
+Supplemental cash flow disclosures:
+
+Cash paid for interest, net of $
+2,282
+ and $
+0
+ capitalized, respectively
+$
+160,707
+
+$
+168,960
+
+Cash paid for income taxes
+$
+20,362
+
+$
+23,593
+
+Non-cash investing and financing activities:
+Capital expenditures incurred but not yet paid
+$
+61,408
+
+$
+12,045
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+10
+Table of Contents
+
+RED ROCK RESORTS, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(UNAUDITED)
+1.    
+Organization, Basis of Presentation and Significant Accounting Policies
+Organization
+Red Rock Resorts, Inc. (“Red Rock,” or the “Company”) was formed as a Delaware corporation in 2015 to own an indirect equity interest in and manage Station Casinos LLC (“Station LLC”), a Nevada limited liability company. Station LLC is a gaming, development and management company established in 1976 that owns and operates 
+seven
+ major gaming facilities and 
+12
+ smaller gaming properties (
+three
+ of which are 
+50
+% owned) in the Las Vegas regional market. 
+The Company owns all of the outstanding voting interests in Station LLC and has an indirect equity interest in Station LLC through its ownership of limited liability interests in Station Holdco LLC (“Station Holdco,” and such interests, “LLC Units”), which owns all of the economic interests in Station LLC. At September 30, 2025, the Company held 
+59
+% of the economic interests and 
+100
+% of the voting power in Station Holdco, subject to certain limited exceptions, and is designated as the sole managing member of both Station Holdco and Station LLC. The Company controls and operates all of the business and affairs of Station Holdco and Station LLC, and conducts all of its operations through these entities.
+Basis of Presentation
+The accompanying condensed consolidated financial statements have been prepared by the Company pursuant to the rules and regulations of the Securities and Exchange Commission. Certain information and footnote disclosures normally included in financial statements prepared in accordance with accounting principles generally accepted in the United States (“GAAP”) have been condensed or omitted pursuant to such rules and regulations, although management believes that the disclosures are adequate to make the information presented not misleading. In the opinion of management, all adjustments necessary for a fair presentation of the results for the interim periods have been made, and such adjustments were of a normal recurring nature. The interim results reflected in these condensed consolidated financial statements are not necessarily indicative of results to be expected for the full fiscal year. These financial statements should be read in conjunction with the audited financial statements and related notes included in the Company’s Annual Report on Form 10-K for the year ended December 31, 2024.
+
+Principles of Consolidation
+Station Holdco and Station LLC are variable interest entities, of which the Company is the primary beneficiary. Accordingly, the Company consolidates the financial position and results of operations of Station LLC and its consolidated subsidiaries and Station Holdco, and presents the interests in Station Holdco not owned by Red Rock within noncontrolling interest in the condensed consolidated financial statements. All significant intercompany accounts and transactions have been eliminated. Investments in all 
+50
+% or less owned affiliated companies are accounted for using the equity method.
+Use of Estimates
+The preparation of condensed consolidated financial statements in conformity with GAAP requires management to make estimates and assumptions that affect amounts reported and disclosed. Actual results could differ from those estimates.
+Significant Accounting Policies
+A description of the Company’s significant accounting policies is included in the audited financial statements within its Annual Report on Form 10-K for the year ended December 31, 2024. For significant accounting policies related to finance leases see Note 12 to the Condensed Consolidated Financial Statements.
+11
+Table of Contents
+RED ROCK RESORTS, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(UNAUDITED) 
+Recently Issued Accounting Standards
+In December 2023, the FASB issued ASU 2023-09, Income Taxes (Topic 740). The ASU is intended to provide more transparency into income tax information through improvements to income tax disclosures, primarily rate reconciliation and income taxes paid. For public entities, the amendments in this update are effective for annual periods beginning after December 15, 2024. Amendments should be applied on a prospective basis. The Company does not anticipate that this ASU will have a material impact on its financial statements. 
+In November 2024, the FASB issued ASU 2024-03, Disaggregation of Income Statement Expenses (DISE). The ASU is intended to improve disclosure of expenses and requires disclosure of specific expenses included in the expense captions presented on the face of the income statement, as well as selling expenses. The guidance is effective for public entities for annual reporting periods beginning after December 15, 2026 and interim reporting periods beginning after December 15, 2027. The guidance can be applied prospectively or retrospectively and early adoption is permitted. The Company is currently evaluating the guidance and its impact on the financial statements.
+2.    
+Noncontrolling Interest in Station Holdco
+As discussed in Note 1, Red Rock holds a controlling interest in and consolidates the financial position and results of operations of Station LLC and its subsidiaries and Station Holdco. The interests in Station Holdco not owned by Red Rock are presented within noncontrolling interest in the condensed consolidated financial statements. During the three months ended September 30, 2025, a noncontrolling interest holder unaffiliated with Red Rock exchanged 100,000 LLC Units, together with an equal number of Class B common shares, for cash at the election of the Company, which increased Red Rock’s percentage ownership in Station Holdco. Entities controlled by Frank J. Fertitta III, the Company’s Chairman of the Board and Chief Executive Officer, and Lorenzo J. Fertitta, the Company’s Vice Chairman of the Board and a vice president of the Company (the “Fertitta Family Entities”), hold 
+99
+% of the noncontrolling interest.
+The ownership of the LLC Units is summarized as follows:
+September 30, 2025
+December 31, 2024
+Units
+Ownership %
+Units
+Ownership %
+Red Rock
+65,116,420
+
+58.7
+
+%
+63,929,318
+
+58.2
+
+%
+Noncontrolling interest holders
+45,885,804
+
+41.3
+
+%
+45,985,804
+
+41.8
+
+%
+Total
+111,002,224
+
+100.0
+
+%
+109,915,122
+
+100.0
+
+%
+The Company uses monthly weighted-average LLC Unit ownership to calculate the pretax income or loss of Station Holdco attributable to Red Rock and the noncontrolling interest holders. Station Holdco equity attributable to Red Rock and the noncontrolling interest holders is rebalanced, as needed, to reflect LLC Unit ownership at period end.
+
+3.    
+Native American Development
+The Company, the North Fork Rancheria of Mono Indians (the “Mono”), a federally recognized Native American tribe located near Fresno, California and the North Fork Rancheria Economic Development Authority (the “Authority”) have entered into a Third Amended and Restated Management Agreement (the “Management Agreement”) and a Third Amended and Restated Development Agreement (the “Development Agreement”), each dated as of November 7, 2023. Pursuant to the Development Agreement, the Company has assisted and will assist the Mono and the Authority in developing a gaming and entertainment facility (the “North Fork Project”) to be located in Madera County, California. Pursuant to the Management Agreement, the Company will assist the Mono and the Authority in operating the North Fork Project. The Company purchased a 
+305
+-acre parcel of land adjacent to Highway 99 north of the city of Madera (the “North Fork Site”), which was taken into trust for the benefit of the Mono by the Department of the Interior (“DOI”) in February 2013. In July 2016, the DOI issued Secretarial procedures (the “Secretarial Procedures”) pursuant to which the Mono may conduct Class III gaming on the North Fork Site. As of January 5, 2024, Mono received the approval of the Management Agreement from the Chair of the National Indian Gaming Commission (“NIGC”).
+As currently contemplated, the North Fork Project is expected to include approximately 
+2,000
+ Class III slot machines and additional Class II slot machines, approximately 
+40
+ table games and several restaurants. Total costs of the project are expected to be approximately $
+750
+ million which includes all design costs, construction costs, preopening expenses and financing and development fees. In September 2024, construction commenced on the site of the North Fork Project. The 
+12
+Table of Contents
+RED ROCK RESORTS, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(UNAUDITED) 
+Company currently estimates that the North Fork Project will be completed and opened for business in the fourth quarter of 2026.
+In March 2016, Picayune Rancheria of Chukchansi Indians (“Picayune”) filed a complaint for declaratory relief and petition for writ of mandate in California Superior Court for the County of Madera against Governor Edmund G. Brown, Jr., alleging that the referendum that invalidated the Compact also invalidated Governor Brown’s concurrence with the Secretary of the Interior’s determination that gaming on the North Fork Site would be in the best interest of the Mono and not detrimental to the surrounding community. The complaint seeks to vacate and set aside the Governor’s concurrence and was stayed from December 2016 to September 2021, when the Supreme Court of California denied the Mono’s and the State of California’s petition for review in Stand Up for California! v. Brown. As a result of the denial, litigation of this matter has resumed and a first amended complaint was filed by Picayune in December 2022. Each of the State of California and the Mono filed demurrers challenging the first amended complaint; in July 2023, the State of California’s demurrer was granted and the Mono’s demurrer was denied. The Mono has answered the first amended complaint and each of the Mono and Picayune have filed motions for summary judgment, which motions are fully briefed. In May 2024, the Superior Court of California granted Picayune’s motion for summary judgment and denied the Mono’s motion for summary judgment. Picayune has appealed the grant of the State of California’s demurrer and the Mono have appealed the grant of Picayune’s motion for summary judgment. The appeals have been consolidated, the briefing of the appeals is completed and oral argument on the appeals is anticipated to be held in December 2025.
+Under the terms of the Development Agreement, the Company agreed to arrange and, effective as of April 4, 2025, has arranged the financing for the ongoing development costs and construction of the facility. The Company received a repayment of $
+110.5
+ million from the initial drawdown of the term loans, representing a portion of the amounts due on its advances to the Mono. In connection with the financing, the Company entered into a completion guaranty and a subordination agreement in favor of the financing parties and released its existing security interests in the assets of the North Fork Project. Under the completion guaranty, the Company has agreed to make reimbursable interest-bearing advances to the Mono for completion of the project in the event that total project costs exceed the financing available under the Mono’s facility loan. The Company’s commitment to make such advances is capped at $
+425.0
+ million. It is not probable that any such funding will be necessary to complete the project.
+Through April 4, 2025, the Company had paid approximately $
+117.1
+ million of reimbursable advances to the Mono, primarily to complete the environmental impact study, purchase the North Fork Site and pay costs of litigation and certain construction costs. The Company accounts for the advances using the cost recovery method, and the Company recognizes no interest on the advances until the carrying amount of the advances has been recovered and the interest is received. Immediately prior to the receipt of the $
+110.5
+ million payment, the carrying amount of the advances was $
+102.0
+ million, which was net of a $
+15.1
+ million fair value adjustment recognized upon the Company’s adoption of fresh-start reporting in 2011. The $
+110.5
+ million repayment reduced the carrying amount of the advances to 
+zero
+ and the Company recognized a gain on Native American development of $
+8.5
+ million, representing the excess of the repayment amount over the net carrying amount of the advances, which is presented in Gain on Native American development in the Condensed Consolidated Statements of Income. 
+At September 30, 2025, there was $
+75.2
+ million in unrecognized amounts due from the Mono. As the Company will continue to use the cost recovery method, the unrecognized amount and future accrued interest will remain on nonaccrual status. The Company will recognize future payments related to unrecognized amounts due from the Mono as Gain on Native American development as they are received. Future repayments of amounts due from the Mono are expected to come from cash flows from the North Fork Project’s operations, from the North Fork Project’s financing, or from a combination of both. 
+Under the terms of the Development Agreement, the Company is entitled to receive a development fee of 
+4
+% of the costs of construction for its development services, which will be paid after the commencement of gaming operations at the facility. After the Mono’s receipt of the construction loan, the Company concluded that collection of this development fee was reasonably certain as this fee is stipulated as a permissible use of funds under the loan agreement. During the three months ended September 30, 2025, the Company recorded $
+3.9
+ million in development fee revenue and the corresponding receivable. During the nine months ended September 30, 2025, the Company recorded $
+13.9
+ million in development fee revenue and the corresponding receivable, which included a $
+10.0
+ million cumulative revenue catch-up. The receivable from the Mono is presented in Other assets, net on the Condensed Consolidated Balance Sheets. The Company will recognize future development fee revenue over time as it satisfies its performance obligations under the Development Agreement.
+13
+Table of Contents
+RED ROCK RESORTS, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(UNAUDITED) 
+The proposed management agreement provides for the Company to receive a management fee of 
+30
+% of the North Fork Project’s net income. The Management Agreement has a term of 
+seven
+ years from the opening of the North Fork Project. The Management Agreement includes termination provisions whereby either party may terminate the agreement for cause, and may also be terminated at any time upon agreement of the parties. There is no provision in the Management Agreement allowing the tribe to buy out the agreement prior to its expiration. The Management Agreement provides that the Company will train the Mono tribal members such that they may assume responsibility for managing the North Fork Project upon the expiration of the agreement.
+While the Company believes that the North Fork Project will be successfully completed and opened, developments of this nature are inherently uncertain and there can be no assurance that the North Fork Project will be successfully completed, that the cash flows from the North Fork Project will be sufficient to repay the remaining amounts due on the advances, including accrued interest thereon, or that the Company will recover all of its investment in the North Fork Project even if it is successfully completed and opened for business.
+4.    
+Other Accrued Liabilities
+Other accrued liabilities consisted of the following (amounts in thousands):
+
+September 30,
+2025
+December 31, 2024
+Contract and customer-related liabilities:
+Unpaid wagers, outstanding chips and other customer-related liabilities
+$
+24,762
+
+$
+27,855
+
+Advance deposits and future wagers
+26,715
+
+20,231
+
+Rewards program liability
+11,374
+
+11,546
+
+Other accrued liabilities:
+Construction payables and equipment purchase accruals
+62,059
+
+33,282
+
+Accrued payroll and related
+59,817
+
+44,166
+
+Accrued gaming and related
+34,367
+
+35,410
+
+Operating lease liabilities, current portion
+5,793
+
+6,444
+
+Other
+36,029
+
+32,804
+
+$
+260,916
+
+$
+211,738
+
+14
+Table of Contents
+RED ROCK RESORTS, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(UNAUDITED) 
+5.    
+Long-term Debt 
+Long-term debt consisted of the following indebtedness of Station LLC (amounts in thousands):
+September 30,
+2025
+December 31, 2024
+Term Loan B Facility due March 14, 2031, interest at margin above SOFR or base rate (
+6.16
+% and 
+6.38
+% at September 30, 2025 and December 31, 2024, respectively), net of unamortized discount and deferred costs of $
+18.5
+ million and $
+20.6
+ million at September 30, 2025 and December 31, 2024, respectively
+$
+1,527,946
+
+$
+1,537,591
+
+Revolving Credit Facility due March 14, 2029, interest at a margin above SOFR or base rate (
+5.66
+% and 
+5.86
+% at September 30, 2025 and December 31, 2024, respectively)
+120,000
+
+155,000
+
+6.625
+% Senior Notes due March 15, 2032, net of unamortized deferred issuance costs of $
+5.7
+ million and $
+6.2
+ million at September 30, 2025 and December 31, 2024, respectively
+494,321
+
+493,810
+
+4.625
+% Senior Notes due December 1, 2031, net of unamortized deferred issuance costs of $
+4.0
+ million and $
+4.5
+ million at September 30, 2025 and December 31, 2024, respectively
+495,954
+
+495,537
+
+4.50
+% Senior Notes due February 15, 2028, net of unamortized discount and deferred issuance costs of $
+2.8
+ million and $
+3.6
+ million at September 30, 2025 and December 31, 2024, respectively
+687,999
+
+687,178
+
+Other long-term debt, weighted-average interest of 
+3.87
+% and 
+3.88
+% at September 30, 2025 and December 31, 2024, respectively, net of unamortized discount and deferred issuance costs of $
+0.1
+ million at December 31, 2024
+37,420
+
+38,364
+
+Total long-term debt
+3,363,640
+
+3,407,480
+
+Current portion of long-term debt
+(
+51,953
+)
+(
+52,913
+)
+Total long-term debt, net
+$
+3,311,687
+
+$
+3,354,567
+
+Credit Facility
+On March 14, 2024, Station LLC incurred (i) a senior secured term “B” loan facility in an aggregate principal amount of $
+1.57
+ billion (the “Term Loan B Facility”) and (ii) a senior secured revolving credit facility with a borrowing capacity of up to $
+1.1
+ billion (the “Revolving Credit Facility” and, together with the Term Loan B Facility, the “Credit Facility”). The Revolving Credit Facility will mature on March 14, 2029 and the Term Loan B Facility will mature on March 14, 2031. As last amended in December 2024, the Term Loan B Facility bears interest at a rate per annum, at Station LLC’s option, equal to either the forward-looking Secured Overnight Financing Rate term (“Term SOFR”) plus 
+2.00
+% or base rate plus 
+1.00
+%. As last amended in March 2024, the Revolving Credit Facility bears interest at a rate per annum, at Station LLC’s option, equal to either Term SOFR plus an amount ranging from 
+1.50
+% to 
+1.75
+% or base rate plus an amount ranging from 
+0.50
+% to 
+0.75
+%, depending on Station LLC’s consolidated senior secured net leverage ratio.
+The Credit Facility contains a number of customary covenants, including requirements that Station LLC maintain throughout the term of such facility and measured as of the end of each quarter, a maximum total secured leverage ratio of 
+5.00
+ to 1.00. A breach of the financial ratio covenants shall only become an event of default if not cured and a Covenant Facility Acceleration has occurred. Management believes the Company was in compliance with all applicable covenants at September 30, 2025.
+Revolving Credit Facility 
+At September 30, 2025, Station LLC’s borrowing availability under the Revolving Credit Facility, subject to continued compliance with the terms of the facility, was $
+933.2
+ million, which was net of $
+120.0
+ million in outstanding borrowings and $
+46.8
+ million in outstanding letters of credit and similar obligations.
+Senior Notes
+On March 14, 2024, Station LLC issued $
+500.0
+ million in aggregate principal amount of 
+6.625
+% senior notes due 2032 (the “
+6.625
+% Senior Notes”) pursuant to an indenture dated as of March 14, 2024, among Station LLC, the guarantors party thereto and Deutsche Bank Trust Company Americas, as trustee. In November 2021, Station LLC issued $
+500.0
+ million in aggregate principal amount of 
+4.625
+% Senior Notes due 2031, (the “
+4.625
+% Senior Notes”) pursuant to an indenture dated as of November 26, 2021, among Station LLC, the guarantors party thereto and Computershare Trust Company, National Association, as trustee. In February 2020, Station LLC issued $
+750.0
+ million in aggregate principal amount of 
+4.50
+% Senior Notes due 2028 (the “
+4.50
+% Senior Notes”) pursuant to an indenture dated as of February 7, 2020, among Station LLC, the 
+15
+Table of Contents
+RED ROCK RESORTS, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(UNAUDITED) 
+guarantors party thereto and Wells Fargo Bank, National Association, as trustee. A description of the 
+6.625
+% Senior Notes, the 
+4.625
+% Senior Notes and the 
+4.50
+% Senior Notes is included in Note 8 to the audited consolidated financial statements included in our Annual Report on Form 10-K for the year ended December 31, 2024.
+6.    
+Derivative Instruments
+The Company’s objective in using derivative instruments is to manage its exposure to interest rate movements associated with its variable interest rate debt. To accomplish this objective, the Company uses interest rate contracts as a primary part of its cash flow hedging strategy. The Company does not use derivative financial instruments for trading or speculative purposes.
+On April 9, 2024, Station LLC entered into two zero cost interest rate collar agreements with an aggregate notional amount of $
+750.0
+ million. Both interest rate collars became effective in April 2024 and include a Term SOFR cap of 
+5.25
+% and a weighted average Term SOFR floor of 
+2.89
+% and will mature in April 2029. Monthly cash settlements are received from or paid to the counterparties when interest rates rise above or fall below the contractual cap or floor rates. The interest rate collars are not designated in hedging relationships for accounting purposes.
+The Company records all derivative instruments on the balance sheet at fair value, which it determines using widely accepted valuation techniques including discounted cash flow analysis on the expected cash flows of each derivative. This analysis reflects the contractual terms of the derivatives, including the period to maturity, and uses observable market-based inputs, including forward interest rate curves. The Company incorporates credit valuation adjustments to appropriately reflect both its own nonperformance risk and the respective counterparty’s nonperformance risk in the fair value measurements. The Company does not offset derivative asset and liability positions when interest rate contracts are held with the same counterparty. 
+As the Company’s derivative instruments are not designated in hedging relationships, the changes in fair value and the related pretax gains and losses are recognized in Change in fair value of derivative instruments in the Condensed Consolidated Statements of Income in the period in which the change occurs. The Company recognizes cash settlements received or paid, if any, on the derivative instruments within Change in fair value of derivative instruments and classifies such cash flows within investing activities in the Condensed Consolidated Statements of Cash Flows.
+
+Station LLC has not posted any collateral related to its interest rate collars; however, its obligations under the interest rate collars are subject to the security and guarantee arrangements applicable to the Credit Facility. The interest rate collar agreements contain cross-default provisions under which Station LLC could be declared in default on its obligations under such agreements if certain conditions of default exist on the Credit Facility. At September 30, 2025, the aggregate termination value of the interest rate collars, including accrued interest, but excluding any adjustment for nonperformance risk, was a liability of $
+5.7
+ million. Had Station LLC been in breach of the provisions of its interest rate collar agreements, it could have been required to pay the termination value to settle the obligations.
+7.    
+Fair Value Measurements
+Information about the Company’s assets and liabilities measured at fair value on a recurring basis, aggregated by the level in the fair value hierarchy within which those measurements fall, is presented below (amounts in thousands):
+Balance Sheet Classification
+September 30,
+2025
+December 31, 2024
+Level of Fair Value Hierarchy
+Assets
+Interest rate collars
+Other current assets
+$
+—
+
+$
+164
+
+Level 2 – Significant unobservable inputs
+Liabilities
+Interest rate collars
+Other accrued liabilities
+$
+393
+
+$
+127
+
+Level 2 – Significant unobservable inputs
+Interest rate collars
+Other long-term liabilities
+$
+5,226
+
+$
+3
+
+Level 2 – Significant unobservable inputs
+16
+Table of Contents
+RED ROCK RESORTS, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(UNAUDITED) 
+Fair Value of Long-term Debt
+The estimated fair value of Station LLC’s long-term debt compared with its carrying amount is presented below (amounts in millions):
+September 30,
+2025
+December 31, 2024
+Aggregate fair value
+$
+3,375
+
+$
+3,371
+
+Aggregate carrying amount
+$
+3,364
+
+$
+3,407
+
+The estimated fair value of Station LLC’s long-term debt is based on quoted market prices from various banks for similar instruments, which is considered a Level 2 input under the fair value measurement hierarchy.
+8.    Stockholders’ Equity
+
+Net Income Attributable to Red Rock Resorts, Inc. and Transfers from (to) Noncontrolling Interests
+The table below presents the effect on Red Rock Resorts, Inc. stockholders’ equity from net income and transfers from (to) noncontrolling interests (amounts in thousands):
+Three Months Ended
+September 30,
+Nine Months Ended
+September 30,
+2025
+2024
+2025
+2024
+Net income attributable to Red Rock Resorts, Inc.
+$
+42,254
+
+$
+28,952
+
+$
+143,407
+
+$
+107,463
+
+Transfers from (to) noncontrolling interests
+Exchanges of noncontrolling interests
+215
+
+—
+
+215
+
+—
+
+Rebalancing of ownership percentage between the Company and noncontrolling interests in Station Holdco 
+5,344
+
+(
+1,578
+)
+1,577
+
+(
+3,473
+)
+Net Transfers from (to) noncontrolling interests
+5,559
+
+(
+1,578
+)
+1,792
+
+(
+3,473
+)
+Change from net income attributable to Red Rock Resorts, Inc. and net transfers from (to) noncontrolling interests
+$
+47,813
+
+$
+27,374
+
+$
+145,199
+
+$
+103,990
+
+Dividends and Distributions
+During the three months ended September 30, 2025 and 2024, the Company declared and paid quarterly cash dividends of $
+0.25
+ per share of Class A common stock, which included $
+2.3
+ million and $
+2.2
+ million, respectively, paid to Fertitta Family Entities. During the nine months ended September 30, 2025 and 2024, the Company declared and paid quarterly cash dividends of $
+0.75
+ per share of Class A common stock, which included $
+6.8
+ million and $
+6.5
+ million, respectively, paid to Fertitta Family Entities.
+Prior to the quarterly cash dividend payments, during the three and nine months ended September 30, 2025 and 2024, Station Holdco paid distributions to noncontrolling interest holders of $
+11.5
+ million and $
+34.5
+ million, respectively, which included $
+11.3
+ million and $
+34.0
+ million, respectively, paid to Fertitta Family Entities. During the three months ended September 30, 2025, Station Holdco paid 
+no
+ tax distributions to noncontrolling interest holders. During the nine months ended September 30, 2025, Station Holdco paid tax distributions to noncontrolling interest holders of $
+26.0
+ million, including $
+25.6
+ million paid to Fertitta Family Entities. During the three and nine months ended September 30, 2024, Station Holdco paid tax distributions to noncontrolling interest holders of $
+18.9
+ million and $
+29.9
+ million, respectively, including $
+18.7
+ million and $
+29.5
+ million, respectively, paid to Fertitta Family Entities. 
+On October 28, 2025, the Company announced that it would pay a dividend of $
+0.26
+ per share to Class A shareholders of record as of December 15, 2025 to be paid on December 31, 2025, of which $
+2.4
+ million is expected to be paid to Fertitta Family Entities. Prior to the payment of the dividend, Station Holdco will make a cash distribution to all LLC Unit holders, including the Company, of $
+0.26
+ per LLC Unit, of which $
+11.8
+ million is expected to be paid to Fertitta Family Entities.
+Special Dividends 
+In May 2025, the Company declared a special cash dividend of $
+1.00
+ per share of Class A common stock to shareholders of record as of May 14, 2025, which was paid on May 21, 2025, and included $
+9.1
+ million paid to Fertitta Family 
+17
+Table of Contents
+RED ROCK RESORTS, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(UNAUDITED) 
+Entities. Prior to the payment of the special dividend, Station Holdco made a cash distribution to all LLC Unit holders, including the Company, of $
+1.00
+ per unit, of which $
+45.4
+ million was paid to Fertitta Family Entities.
+In February 2024, the Company declared a special cash dividend of $
+1.00
+ per share of Class A common stock to shareholders of record as of February 22, 2024, which was paid on March 4, 2024, and included $
+8.5
+ million paid to Fertitta Family Entities. Prior to the payment of the special dividend, Station Holdco made a cash distribution to all LLC unit holders, including the Company, of $
+1.00
+ per unit, of which $
+45.4
+ million was paid to Fertitta Family Entities.
+Equity Repurchase Program
+On May 2, 2024, the Company’s board of directors authorized the extension of the $
+600
+ million equity repurchase program for repurchases of Class A common stock through 
+December 31, 2025
+. During the three and nine months ended September 30, 2025, the Company repurchased 
+92,237
+ shares and 
+763,914
+ shares, respectively, of its Class A common stock for an aggregate purchase price of $
+5.6
+ million and $
+36.4
+ million, respectively and a weighted average price per share of $
+60.51
+ and $
+47.70
+, respectively. The Company made 
+no
+ repurchases during the three months ended September 30, 2024. During the nine months ended September 30, 2024, the Company repurchased 
+75,000
+ shares of its Class A common stock for an aggregate purchase price of $
+3.9
+ million and a weighted average price per share of $
+52.29
+ in open market transactions. At September 30, 2025, the remaining amount authorized for repurchase under the program was $
+272.5
+ million. On October 27, 2025, the Company’s board of directors extended the expiration date of the equity repurchase program to 
+December 31, 2027
+ and authorized the repurchase of an additional $
+300
+ million of its Class A common stock, increasing the remaining amount authorized for repurchases under the program to $
+572.5
+ million.
+9.    
+Share-based Compensation 
+The Company maintains an equity incentive plan designed to attract, retain and motivate employees and align the interests of those individuals with the interests of the Company. A total of 
+24.0
+ million shares of Class A common stock are reserved for issuance under the plan, of which approximately 
+12.4
+ million shares were available for issuance at September 30, 2025. 
+The following table presents information about the Company’s share-based compensation awards:
+Restricted Class A
+ Common Stock
+Stock Options
+Shares
+Weighted-average grant date fair value
+Shares
+Weighted-average exercise price
+Outstanding at January 1, 2025
+536,185
+
+$
+49.14
+
+5,242,236
+
+$
+38.23
+
+Activity during the period:
+Granted
+417,076
+
+52.16
+
+1,207,631
+
+52.11
+
+Vested/exercised (a)
+(
+157,130
+)
+41.49
+
+(
+1,974,734
+)
+27.12
+
+Forfeited/expired
+(
+22,765
+)
+52.16
+
+(
+122,439
+)
+50.36
+
+Antidilution adjustment (b)
+—
+
+— 
+133,183
+
+n/m
+Outstanding at September 30, 2025
+773,366
+
+$
+52.24
+
+4,485,877
+
+$
+45.39
+
+_______________________________________________________________
+n/m = Not meaningful
+(a)
+Stock options exercised included 
+1,316,012
+ options that were not converted into shares due to net share settlements to cover the aggregate exercise price and employee withholding taxes.
+(b)
+As a result of the special dividend paid in May 2025, all outstanding stock option awards were adjusted to decrease the exercise price of the options and increase the number of shares issuable under the awards pursuant to an antidilution provision in the Equity Incentive Plan.
+The Company recognized share-based compensation expense of $
+7.3
+ million and $
+23.7
+ million for the three and nine months ended September 30, 2025, respectively, and $
+6.7
+ million and $
+24.4
+ million for the three and nine months ended September 30, 2024, respectively. At September 30, 2025, unrecognized share-based compensation cost was $
+72.3
+ million, which is expected to be recognized over a weighted-average period of 
+2.8
+ years.
+18
+Table of Contents
+RED ROCK RESORTS, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(UNAUDITED) 
+10.    
+Income Taxes
+Red Rock is a corporation and pays corporate federal, state and local taxes on its income, primarily pass-through income from Station Holdco based upon Red Rock’s economic interest held in Station Holdco. Station Holdco is a partnership for income tax reporting purposes. Station Holdco’s members, including the Company, are liable for federal, state and local income taxes based on their respective share of Station Holdco’s pass-through taxable income.
+The Company’s tax provision or benefit from income taxes for interim periods is determined using an estimate of the Company’s annual effective tax rate, adjusted for discrete items, if any, that are taken into account in the relevant period. Each quarter, the Company updates the estimate of the annual effective tax rate and makes necessary cumulative adjustments to the total tax provision or benefit.
+
+The Company’s effective tax rate for the three and nine months ended September 30, 2025 was 
+7.9
+% and 
+11.5
+%, respectively, as compared to 
+12.7
+% and 
+11.4
+% for the three and nine months ended September 30, 2024. The Company’s effective tax rate for the three and nine months ended September 30, 2025 differs from the 
+21
+% statutory rate primarily because its effective tax rate includes a rate benefit attributable to the fact that Station Holdco operates as a limited liability company, which is not subject to federal income tax. Accordingly, the Company is not taxed on the portion of Station Holdco’s income attributable to noncontrolling interests. Additionally, the effective tax rate is impacted by the permanent tax adjustments.
+As a result of the Company’s 2016 initial public offering (“IPO”) and certain reorganization transactions, the Company recorded a net deferred tax asset resulting from the outside basis difference of its interest in Station Holdco. The Company also recorded a deferred tax asset for its liability related to payments to be made pursuant to the tax receivable agreement (“TRA”) representing 
+85
+% of the tax savings the Company expects to realize from the amortization deductions associated with the step-up in the basis of depreciable assets under Section 754 of the Internal Revenue Code. This deferred tax asset will be recovered as cash payments are made to the TRA participants. In addition, the Company has recorded deferred tax assets related to net operating losses and other tax attributes, as applicable. 
+The Company considers both positive and negative evidence when measuring the need for a valuation allowance. A valuation allowance is not required to the extent that, in management’s judgment, positive evidence exists with a magnitude and duration sufficient to result in a conclusion that it is more likely than not (a likelihood of more than 50%) that the Company’s deferred tax assets will be realized.
+Under the 2017 U.S. federal tax year examination, the Internal Revenue Service (“IRS”) previously issued a Notice of Proposed Adjustment in relation to the 2017 land lease deduction. During 2024, the Company came to a final agreement with the IRS on the 2017 federal tax year examination and made a deposit equal to what the Company expects to owe. During 2025, final determinations with respect to the deposits were received from the IRS, and immaterial differences were recorded through the provision for income taxes. No net liability remains on the balance sheet.
+On July 4, 2025, the One Big Beautiful Bill Act (“OBBBA”), which includes a broad range of tax reform provisions, was signed into law in the United States. The legislation did not have a material impact on the Company’s income tax expense for the three or nine months ended September 30, 2025, and the Company does not expect it to materially impact our effective income tax rate for 2025.  
+Tax Receivable Agreement
+In connection with the IPO, the Company entered into the TRA with certain owners who held LLC Units prior to the IPO. In the event that such parties exchange any or all of their LLC Units for Class A common stock or cash, at the election of the Company, the TRA requires the Company to make payments to such holders for 
+85
+% of the tax benefits realized by the Company as a result of such exchange. The Company expects to realize these tax benefits based on current projections of taxable income. The annual tax benefits are computed by calculating the income taxes due, including such tax benefits, and the income taxes due without such benefits.
+At September 30, 2025 and December 31, 2024, the Company’s liability under the TRA was $
+20.3
+ million and $
+20.4
+ million, respectively, of which $
+5.2
+ million and $
+5.6
+ million, respectively, was payable to Fertitta Family Entities. During the three months ended September 30, 2025, an exchange of LLC Units resulted in an increase in the amount payable under the TRA liability of $
+1.3
+ million, which was recorded through stockholders’ equity. 
+No
+ LLC Units were exchanged during 2024. During the nine months ended September 30, 2025 the Company made payments on the TRA liability of $
+1.4
+ million and expects to pay $
+1.0
+ million of the TRA liability within the next twelve months.
+19
+Table of Contents
+RED ROCK RESORTS, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(UNAUDITED) 
+The timing and amount of aggregate payments due under the TRA may vary based on a number of factors, including the amount and timing of the taxable income the Company generates each year and the tax rate then applicable. The payment obligations under the TRA are Red Rock’s obligations and are not obligations of Station Holdco or Station LLC. Payments are generally due within a specified period of time following the filing of the Company’s annual tax return and interest on such payments will accrue from the original due date (without extensions) of the income tax return until the date paid. Payments not made within the required period after the filing of the income tax return generally accrue interest.
+The TRA will remain in effect until all such tax benefits have been utilized or expired, unless the Company exercises its right to terminate the TRA. The TRA will also terminate if the Company breaches its obligations under the TRA or upon certain mergers, asset sales or other forms of business combinations, or other changes of control. If the Company exercises its right to terminate the TRA, or if the TRA is terminated early in accordance with its terms, the Company’s payment obligations would be accelerated based upon certain assumptions, including the assumption that the Company would have sufficient future taxable income to utilize such tax benefits, and may substantially exceed the actual benefits, if any, the Company realizes in respect of the tax attributes subject to the TRA.
+11.    
+Earnings Per Share 
+Basic earnings per share is calculated by dividing net income attributable to Red Rock by the weighted-average number of shares of Class A common stock outstanding during the period. The calculation of diluted earnings per share gives effect to all potentially dilutive shares, including shares issuable pursuant to outstanding stock options and nonvested restricted shares of Class A common stock, based on the application of the treasury stock method, and outstanding Class B common stock that is exchangeable, along with an equal number of LLC Units, for Class A common stock, based on the application of the if-converted method. Dilutive shares included in the calculation of diluted earnings per share for the three and nine months ended September 30, 2025 and 2024, represented outstanding shares of Class B common stock, nonvested restricted shares of Class A common stock and outstanding stock options. All other potentially dilutive securities have been excluded from the calculation of diluted earnings per share because their inclusion would have been antidilutive.
+A reconciliation of the numerator and denominator used in the calculation of basic and diluted earnings per share is presented below (amounts in thousands):
+Three Months Ended
+September 30,
+Nine Months Ended
+September 30,
+2025
+2024
+2025
+2024
+Net income
+$
+76,880
+
+$
+55,389
+
+$
+271,083
+
+$
+203,570
+
+Less: net income attributable to noncontrolling interests
+(
+34,626
+)
+(
+26,437
+)
+(
+127,676
+)
+(
+96,107
+)
+Net income attributable to Red Rock, basic
+42,254
+
+28,952
+
+143,407
+
+107,463
+
+Effect of dilutive securities
+27,355
+
+20,885
+
+100,864
+
+75,925
+
+Net income attributable to Red Rock, diluted
+$
+69,609
+
+$
+49,837
+
+$
+244,271
+
+$
+183,388
+
+Three Months Ended
+September 30,
+Nine Months Ended
+September 30,
+2025
+2024
+2025
+2024
+Weighted average shares of Class A common stock outstanding, basic
+59,019
+
+59,092
+
+59,060
+
+58,988
+
+Effect of dilutive securities
+43,644
+
+44,594
+
+43,865
+
+44,721
+
+Weighted average shares of Class A common stock outstanding, diluted
+102,663
+
+103,686
+
+102,925
+
+103,709
+
+20
+Table of Contents
+RED ROCK RESORTS, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(UNAUDITED) 
+The calculation of diluted earnings per share of Class A common stock excluded the following potentially dilutive securities that were outstanding at September 30, 2025 and 2024, respectively, because their inclusion would have been antidilutive (amounts in thousands):
+Three Months Ended
+September 30,
+Nine Months Ended
+September 30,
+2025
+2024
+2025
+2024
+Stock options
+1,979
+
+1,824
+
+2,890
+
+1,845
+
+Unvested restricted shares of Class A common stock
+1
+
+87
+
+283
+
+87
+
+Shares of Class B common stock are not entitled to share in the earnings of the Company and are not participating securities. Accordingly, earnings per share of Class B common stock under the two-class method has not been presented.
+12.    Leases
+The Company determines whether an arrangement is or contains a lease at inception, and determines the classification of the lease based on facts and circumstances as of the lease commencement date. For leases with an initial term greater than twelve months, the Company recognizes a right-of-use (“ROU”) asset and a lease liability at the lease commencement date. For leases with an initial term of twelve months or less, the Company has elected not to recognize ROU assets or lease liabilities. The Company measures its ROU assets and lease liabilities at the lease commencement date based on the present value of lease payments over the lease term. To calculate the present value of lease payments that do not contain an implicit interest rate, the Company uses its incremental borrowing rate based on information available at the lease commencement date. For leases under which the Company has options to extend or terminate the lease, such options are included in the lease term when it is reasonably certain that the Company will exercise the option. For arrangements that contain both lease and non-lease components under which the Company is the lessee, the components are not combined for accounting purposes.
+For finance leases, lease payments are allocated between principal and interest expense. The Company recognizes principal payments within financing activities and interest payments within operating activities in the Condensed Consolidated Statements of Cash Flows. The finance lease ROU asset is amortized over the shorter of the lease term or the useful life of the underlying asset. Amortization expense is recognized in depreciation and amortization while interest expense is recognized within interest expense, net in the Condensed Consolidated Statements of Income.
+In September 2025, the Company entered into two finance lease agreements for certain equipment used in its operations. Each lease commenced on September 1, 2025 and has a term of 
+four years
+. The combined fixed monthly payments for the two finance leases is $
+1.0
+ million. The leases do not contain purchase options or residual value guarantees and do not contain significant restrictions or covenants.
+Upon commencement of the leases, the Company recognized finance lease ROU assets and corresponding finance lease liabilities of $
+42.1
+ million, representing the present value of future lease payments discounted at the Company’s incremental borrowing rate of 
+5.795
+%. At September 30, 2025, the carrying amount of the finance lease ROU assets was $
+41.2
+ million and the carrying amount of the finance lease liabilities was $
+42.3
+ million, of which $
+9.7
+ million is classified as current. At September 30, 2025, the finance leases have a weighted-average remaining lease term of four years.
+For the three and nine months ended September 30, 2025, interest expense related to the finance leases was $
+0.2
+ million and amortization of the finance lease right-of-use assets was $
+0.9
+ million. During the nine months ended September 30, 2025, there were 
+no
+ lease payments related to the finance leases. There was 
+no
+ finance lease activity during the three and nine months ended September 30, 2024.
+21
+Table of Contents
+RED ROCK RESORTS, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(UNAUDITED) 
+Future minimum lease payments required under the finance leases as of September 30, 2025 are as follows (amounts in thousands):
+Year Ending December 31,
+2025
+$
+3,936
+
+2026
+11,808
+
+2027
+11,808
+
+2028
+11,808
+
+2029
+7,872
+
+Thereafter
+—
+
+Total future finance lease payments
+47,232
+
+Less imputed interest
+(
+4,961
+)
+Total finance lease liabilities
+$
+42,271
+
+13.    
+Commitments and Contingencies
+The Company and its subsidiaries are defendants in various lawsuits relating to routine matters incidental to their business. No assurance can be provided as to the outcome of any legal matters and litigation inherently involves significant risks. The Company does not believe there are any legal matters outstanding that would have a material impact on its financial condition or results of operations.
+14.    
+Segments
+The Company views each of its Las Vegas casino properties and each of its Native American arrangements as an individual operating segment. The Company aggregates all of its Las Vegas properties into 
+one
+ reportable segment because all of the properties offer similar products, cater to the same customer base, have the same regulatory and tax structure, share the same marketing techniques, are directed by a centralized management structure and have similar economic characteristics. The Company also aggregates its Native American arrangements into 
+one
+ reportable segment. 
+The Company's chief operating decision maker (“CODM”) is its Chief Executive Officer. The Company utilizes adjusted earnings before interest, taxes, depreciation and amortization (“Adjusted EBITDA”) as its primary performance measure. The CODM uses Adjusted EBITDA to evaluate segment performance and make decisions about allocating resources.
+22
+Table of Contents
+RED ROCK RESORTS, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(UNAUDITED) 
+The Company’s segment information and a reconciliation of Adjusted EBITDA to net income are presented below (amounts in thousands):
+Three Months Ended September 30, 2025
+Las Vegas operations
+Native American
+Total
+Net revenues
+Casino
+$
+319,490
+
+$
+—
+
+$
+319,490
+
+Food and beverage
+85,523
+
+—
+
+85,523
+
+Room
+41,568
+
+—
+
+41,568
+
+Development fees
+—
+
+3,894
+
+3,894
+
+Other (a)
+21,995
+
+—
+
+21,995
+
+Segment net revenues
+468,576
+
+3,894
+
+472,470
+
+Corporate and other revenues (b)
+3,102
+
+Net revenues
+$
+475,572
+
+Less:
+Payroll and related
+136,458
+
+—
+
+Cost of sales (c)
+22,636
+
+—
+
+Gaming taxes
+24,289
+
+—
+
+Other segment expenses (d)
+75,786
+
+—
+
+Segment Adjusted EBITDA
+209,407
+
+3,894
+
+213,301
+
+Corporate and other Adjusted EBITDA (e)
+(
+22,433
+)
+Adjusted EBITDA (f)
+$
+190,868
+
+Adjustments and other reconciling items
+Depreciation and amortization
+$
+48,976
+
+Share-based compensation
+7,317
+
+Write-downs and other, net
+2,436
+
+Interest expense, net
+50,486
+
+Change in fair value of derivative instruments
+(
+1,846
+)
+Provision for income tax
+6,619
+
+Net income
+$
+76,880
+
+___________________________________
+(a)
+Primarily revenues from tenant leases, retail outlets, bowling, spas, and entertainment. For the three months ended September 30, 2025, tenant lease revenue was $
+7.3
+ million. Tenant lease revenue is accounted for under the lease accounting guidance and included in Other revenues in the Company’s Condensed Consolidated Statements of Income.
+(b)
+Includes corporate tenant lease revenue and other.
+(c)
+Primarily cost of goods sold for restaurants, bars and catering.
+(d)
+Includes repairs and maintenance, utilities, professional services and other selling, general and administrative expenses.
+(e)
+Primarily corporate expense including payroll and related and other general and administrative expenses.
+(f)
+Adjusted EBITDA includes net income plus depreciation and amortization, share-based compensation, write-downs and other, net (including gains and losses on asset disposals, preopening and development, business innovation and technology enhancements, and non-routine items), interest expense, net, change in fair value of derivative instruments and provision for income tax.
+23
+Table of Contents
+RED ROCK RESORTS, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(UNAUDITED) 
+Three Months Ended September 30, 2024
+Las Vegas operations
+Native American 
+Total
+Net revenues
+Casino
+$
+314,225
+
+$
+—
+
+$
+314,225
+
+Food and beverage
+83,327
+
+—
+
+83,327
+
+Room
+45,165
+
+—
+
+45,165
+
+Other (a)
+21,997
+
+—
+
+21,997
+
+Segment net revenues
+464,714
+
+—
+
+464,714
+
+Corporate and other revenues (b)
+3,302
+
+Net revenues
+$
+468,016
+
+Less:
+Payroll and related
+133,984
+
+—
+
+Cost of sales (c)
+22,183
+
+—
+
+Gaming taxes
+24,098
+
+—
+
+Other segment expenses (d)
+81,892
+
+—
+
+Segment Adjusted EBITDA
+202,557
+
+—
+
+202,557
+
+Corporate and other Adjusted EBITDA (e)
+(
+19,848
+)
+Adjusted EBITDA (f)
+$
+182,709
+
+Adjustments and other reconciling items
+Depreciation and amortization
+$
+47,372
+
+Share-based compensation
+6,730
+
+Write-downs and other, net
+(
+2,585
+)
+Interest expense, net
+57,998
+
+Change in fair value of derivative instruments
+9,748
+
+Provision for income tax
+8,057
+
+Net income
+$
+55,389
+
+___________________________________
+(a)
+Primarily revenues from tenant leases, retail outlets, bowling, spas, and entertainment. For the three months ended September 30, 2024, tenant lease revenue was $
+7.5
+ million. Tenant lease revenue is accounted for under the lease accounting guidance and included in Other revenues in the Company’s Condensed Consolidated Statements of Income.
+(b)
+Includes corporate tenant lease revenue and other.
+(c)
+Primarily cost of goods sold for restaurants, bars and catering.
+(d)
+Includes repairs and maintenance, utilities, professional services and other selling, general and administrative expenses.
+(e)
+Primarily corporate expense including payroll and related and other general and administrative expenses.
+(f)
+Adjusted EBITDA includes net income plus depreciation and amortization, share-based compensation, write-downs and other, net (including gains and losses on asset disposals, preopening and development, business innovation and technology enhancements and non-routine items), interest expense, net, change in fair value of derivative instruments and provision for income tax.
+24
+Table of Contents
+RED ROCK RESORTS, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(UNAUDITED) 
+Nine Months Ended September 30, 2025
+Las Vegas operations
+Native American
+Total
+Net revenues
+Casino
+$
+997,531
+
+$
+—
+
+$
+997,531
+
+Food and beverage
+269,169
+
+—
+
+269,169
+
+Room
+142,925
+
+—
+
+142,925
+
+Development fees
+—
+
+13,902
+
+13,902
+
+Other (a)
+67,166
+
+—
+
+67,166
+
+Segment net revenues
+1,476,791
+
+13,902
+
+1,490,693
+
+Corporate and other revenues (b)
+9,013
+
+Net revenues
+$
+1,499,706
+
+Less:
+Payroll and related
+405,433
+
+—
+
+Cost of sales (c)
+70,249
+
+—
+
+Gaming taxes
+75,842
+
+—
+
+Other segment expenses (d)
+240,516
+
+—
+
+Segment Adjusted EBITDA
+684,751
+
+13,902
+
+698,653
+
+Corporate and other Adjusted EBITDA (e)
+(
+63,346
+)
+Adjusted EBITDA (f)
+$
+635,307
+
+Adjustments and other reconciling items
+Depreciation and amortization
+$
+145,295
+
+Share-based compensation
+23,664
+
+Write-downs and other, net
+10,506
+
+Interest expense, net
+152,228
+
+Change in fair value of derivative instruments
+5,653
+
+Gain on Native American development
+(
+8,476
+)
+Provision for income tax
+35,354
+
+Net income
+$
+271,083
+
+___________________________________
+(a)
+Primarily revenues from tenant leases, retail outlets, bowling, spas, and entertainment. For the nine months ended September 30, 2025, tenant lease revenue was $
+22.1
+ million. Tenant lease revenue is accounted for under the lease accounting guidance and included in Other revenues in the Company’s Condensed Consolidated Statements of Income.
+(b)
+Includes corporate tenant lease revenue and other.
+(c)
+Primarily cost of goods sold for restaurants, bars and catering.
+(d)
+Includes repairs and maintenance, utilities, professional services and other selling, general and administrative expenses.
+(e)
+Primarily corporate expense including payroll and related and other general and administrative expenses.
+(f)
+Adjusted EBITDA includes net income plus depreciation and amortization, share-based compensation, write-downs and other, net (including gains and losses on asset disposals, preopening and development, business innovation and technology enhancements, contract termination and non-routine items), interest expense, net, change in fair value of derivative instruments, gain on Native American development and provision for income tax.
+25
+Table of Contents
+RED ROCK RESORTS, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(UNAUDITED) 
+Nine Months Ended September 30, 2024
+Las Vegas operations
+Native American
+Total
+Net revenues
+Casino
+$
+950,708
+
+$
+—
+
+$
+950,708
+
+Food and beverage
+268,323
+
+—
+
+268,323
+
+Room
+148,195
+
+—
+
+148,195
+
+Other (a)
+66,264
+
+—
+
+66,264
+
+Segment net revenues
+1,433,490
+
+—
+
+1,433,490
+
+Corporate and other revenues (b)
+9,826
+
+Net revenues
+$
+1,443,316
+
+Less:
+Payroll and related
+397,676
+
+—
+
+Cost of sales (c)
+69,464
+
+—
+
+Gaming taxes
+73,165
+
+—
+
+Other segment expenses (d)
+237,722
+
+—
+
+Segment Adjusted EBITDA
+655,463
+
+—
+
+655,463
+
+Corporate and other Adjusted EBITDA (e)
+(
+61,961
+)
+Adjusted EBITDA (f)
+$
+593,502
+
+Adjustments and other reconciling items
+Depreciation and amortization
+$
+138,948
+
+Share-based compensation
+24,411
+
+Write-downs and other, net
+1,749
+
+Interest expense, net
+172,633
+
+Loss on extinguishment/modification of debt
+14,402
+
+Change in fair value of derivative instruments
+11,671
+
+Provision for income tax
+26,118
+
+Net income
+$
+203,570
+
+___________________________________
+(a)
+Primarily revenues from tenant leases, retail outlets, bowling, spas, and entertainment. For the nine months ended September 30, 2024, tenant lease revenue was $
+22.6
+ million. Tenant lease revenue is accounted for under the lease accounting guidance and included in Other revenues in the Company’s Condensed Consolidated Statements of Income.
+(b)
+Includes corporate tenant lease revenue and other.
+(c)
+Primarily cost of goods sold for restaurants, bars and catering.
+(d)
+Includes repairs and maintenance, utilities, professional services and other selling, general and administrative expenses.
+(e)
+Primarily corporate expense including payroll and related and other general and administrative expenses.
+(f)
+Adjusted EBITDA includes net income plus depreciation and amortization, share-based compensation, write-downs and other, net (including gains and losses on asset disposals, preopening and development, business innovation and technology enhancements and non-routine items), interest expense, net, loss on extinguishment/modification of debt, change in fair value of derivative instruments and provision for income tax
+.
+The Company’s total assets for its two reportable segments and Corporate and other are presented in the table below (amounts in thousands):
+September 30, 2025
+December 31, 2024
+Total assets
+Las Vegas operations
+$
+3,407,206
+
+$
+3,282,609
+
+Native American
+15,902
+
+83,673
+
+Corporate and other
+673,122
+
+679,249
+
+$
+4,096,230
+
+$
+4,045,531
+
+26
+Table of Contents
+RED ROCK RESORTS, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(UNAUDITED) 
+15.    Related Party Transactions
+The Company leases retail space from a company affiliated with Robert Lewis, an independent director of the Company, and his family. The lease, which was entered into in January 2023, has an initial term of 
+ten years
+ and the Company has 
+four
+
+five
+-year renewal options. The annual base rent under the lease is $
+209
+ thousand for the first five years of the lease and $
+234
+ thousand for years six through ten. For the four five-year renewal periods, the annual base rent ranges from $
+262
+ thousand to $
+368
+ thousand. The Company is also required to pay additional rent to the lessor representing the proportionate share of real property taxes, insurance and common area expenses associated with the leased premises. The Company recognized an operating lease right-of-use asset and right-of-use liability of $
+1.6
+ million each. For the three and nine months ended September 30, 2025, the Company paid $
+60
+ thousand and $
+228
+ thousand, respectively, to the lessor pursuant to the lease. The Company made 
+no
+ payments to the lessor for the three and nine months ended September 30, 2024.
+27
+Table of Contents
+
+Item 2.    
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following Management’s Discussion and Analysis of the Financial Condition and Results of Operations (the “MD&A”) of Red Rock Resorts, Inc. (“we,” “our,” “us,” “Red Rock” or the “Company”) is intended to help the reader understand the Company’s financial condition and results of operations. The MD&A is provided as a supplement to and should be read in conjunction with our condensed consolidated financial statements and related notes (the “Condensed Consolidated Financial Statements”) included in Part I, Item 1 of this Quarterly Report on Form 10-Q, and with our audited consolidated financial statements and related notes included in our Annual Report on Form 10-K for the year ended December 31, 2024. 
+Overview
+Red Rock was formed as a Delaware corporation in 2015 to own an indirect equity interest in and manage Station Casinos LLC (“Station LLC”), a Nevada limited liability company. Station LLC is a gaming, development and management company established in 1976 that owns and operates seven major gaming and entertainment facilities and 12 smaller gaming properties (three of which are 50% owned) in the Las Vegas regional market. 
+We own all of the outstanding voting interests in Station LLC and have an indirect equity interest in Station LLC through our ownership of limited liability company interests in Station Holdco LLC (“Station Holdco,” and such interests, “LLC Units”), which owns all of the economic interests in Station LLC. At September 30, 2025, we held 59% of the economic interests and 100% of the voting power in Station Holdco, subject to certain limited exceptions, and we are designated as the sole managing member of both Station Holdco and Station LLC. We control and operate all of the business and affairs of Station Holdco and Station LLC, and conduct all of our operations through these entities. Other than assets and liabilities related to income taxes and the tax receivable agreement, our only material assets are our equity interest in Station Holdco, our voting interest in Station LLC and a note receivable from Station LLC. We have no operations outside of our management of Station Holdco and Station LLC. 
+Our Condensed Consolidated Financial Statements reflect the consolidation of Station LLC and its consolidated subsidiaries, and Station Holdco. The financial position and results of operations attributable to LLC Units we do not own are reported separately as noncontrolling interest.
+Our principal source of revenue and operating income is gaming. Our non-gaming offerings include restaurants, hotels and other entertainment amenities. Approximately 80% of our casino revenue is generated from slot play. The majority of our revenue is cash-based and as a result, fluctuations in our revenues have a direct impact on our cash flows from operations. Because our business is capital intensive, we rely heavily on the ability of our properties to generate operating cash flow to repay debt financing and fund capital expenditures.
+A significant portion of our business is dependent upon customers who live and/or work in the Las Vegas metropolitan area. In August 2025, which is the most recently available data, the unemployment rate in the Las Vegas metropolitan area was 5.6% as compared to 5.9% in September 2024. Statewide, the unemployment rate for August 2025 was 5.3% as compared to 5.6% in September 2024. In September 2025, the median price of an existing single-family home in Las Vegas according to the Las Vegas Realtors® was $470,000, down 2.1% from $479,900 in September 2024. Given the ongoing economic uncertainty driven by inflation, heightened interest rates, increased geo-political and regional uncertainty and conflicts, and the current administration’s approach to regulation and oversight, it is difficult to predict whether the trends in unemployment or housing prices in the Las Vegas area will continue.
+We have continued to experience favorable customer trends, including strong carded slot play, strong customer engagement and robust spend per visit across the majority of our properties. These trends, in combination with our operational discipline and our focus on our core local guests, as well as regional and out of town guests, continued to drive consistent operating results in 2025. However, we cannot predict whether these trends will continue, nor can we predict the extent to which impacts of inflation and other economic uncertainties may affect our business in the future.
+Information about our results of operations is included herein and in the notes to our Condensed Consolidated Financial Statements.
+28
+Table of Contents
+
+Key Performance Indicators
+We use certain key indicators to measure our performance.
+Gaming revenue measures:
+•
+Slot handle, table game drop and race and sports write are measures of volume. Slot handle represents the dollar amount wagered in slot machines, and table game drop represents the total amount of cash and net markers issued that are deposited in table game drop boxes.
+•
+Win represents the amount of wagers retained by us.
+•
+Hold represents win as a percentage of slot handle, table game drop or race and sports write.
+As our customers are primarily Las Vegas residents, our hold percentages are generally consistent from period to period. Fluctuations in our casino revenue are primarily due to the volume and spending levels of customers at our properties.
+Food and beverage revenue measures:
+•
+Average guest check is a measure of food sales volume and product offerings at our restaurants, and represents the average amount spent per customer visit.
+•
+Number of guests served is an indicator of volume.
+Room revenue measures:
+•
+Occupancy is calculated by dividing occupied rooms, including complimentary rooms, by rooms available.
+•
+Average daily rate (“ADR”) is calculated by dividing room revenue, which includes the retail value of complimentary rooms, by rooms occupied, including complimentary rooms.
+•
+Revenue per available room is calculated by dividing room revenue by rooms available.
+29
+Table of Contents
+
+Results of Operations
+Information about our results of operations is presented below (amounts in thousands):
+
+Three Months Ended September 30,
+Percent
+change
+Nine Months Ended September 30,
+Percent
+change
+
+2025
+2024
+2025
+2024
+Net revenues
+$
+475,572 
+$
+468,016 
+1.6 
+%
+$
+1,499,706 
+$
+1,443,316 
+3.9 
+%
+Operating income
+131,484 
+130,643 
+0.6 
+%
+453,865 
+426,401 
+6.4 
+%
+Casino revenues
+319,490 
+314,225 
+1.7 
+%
+997,531 
+950,708 
+4.9 
+%
+Casino expenses
+83,263 
+88,141 
+(5.5)
+%
+266,538 
+260,963 
+2.1 
+%
+Margin
+73.9 
+%
+71.9 
+%
+73.3 
+%
+72.6 
+%
+Food and beverage revenues
+85,523 
+83,327 
+2.6 
+%
+269,169 
+268,323 
+0.3 
+%
+Food and beverage expenses
+72,989 
+71,889 
+1.5 
+%
+222,644 
+219,603 
+1.4 
+%
+Margin
+14.7 
+%
+13.7 
+%
+17.3 
+%
+18.2 
+%
+Room revenues
+41,568 
+45,165 
+(8.0)
+%
+142,925 
+148,195 
+(3.6)
+%
+Room expenses
+15,557 
+15,502 
+0.4 
+%
+47,487 
+47,448 
+0.1 
+%
+Margin
+62.6 
+%
+65.7 
+%
+66.8 
+%
+68.0 
+%
+Other revenues
+25,097 
+25,299 
+(0.8)
+%
+76,179 
+76,090 
+0.1 
+%
+Other expenses
+8,014 
+8,013 
+— 
+%
+23,776 
+23,040 
+3.2 
+%
+Development fees
+3,894 
+— 
+n/m
+13,902 
+— 
+n/m
+Selling, general and administrative expenses
+112,853 
+109,041 
+3.5 
+%
+329,595 
+325,164 
+1.4 
+%
+Percent of net revenues
+23.7 
+%
+23.3 
+%
+22.0 
+%
+22.5 
+%
+Depreciation and amortization
+48,976 
+47,372 
+3.4 
+%
+145,295 
+138,948 
+4.6 
+%
+Write-downs and other, net
+2,436 
+(2,585)
+n/m
+10,506 
+1,749 
+n/m
+Interest expense, net
+50,486 
+57,998 
+(13.0)
+%
+152,228 
+172,633 
+(11.8)
+%
+Loss on extinguishment/modification of debt
+— 
+— 
+n/m
+— 
+14,402 
+n/m
+Change in fair value of derivative instruments
+(1,846)
+9,748 
+n/m
+5,653 
+11,671 
+n/m
+Gain on Native American development
+— 
+— 
+n/m
+8,476 
+— 
+n/m
+Net income attributable to noncontrolling interests
+34,626 
+26,437 
+31.0 
+%
+127,676 
+96,107 
+32.8 
+%
+Provision for income tax
+6,619 
+8,057 
+(17.8)
+%
+35,354 
+26,118 
+35.4 
+%
+Net income attributable to Red Rock
+42,254 
+28,952 
+45.9 
+%
+143,407 
+107,463 
+33.4 
+%
+_______________________________________________________________
+n/m = Not meaningful
+We view each of our Las Vegas casino properties as an individual operating segment. We aggregate all of our Las Vegas operating segments into one reportable segment because all of our Las Vegas properties offer similar products, cater to the same customer base, have the same regulatory and tax structure, share the same marketing programs, are directed by a centralized management structure and have similar economic characteristics. We also aggregate our Native American 
+30
+Table of Contents
+
+arrangements into one reportable segment. The results of operations for our Native American segment are discussed in the sections entitled “Development Fees” and “Gain on Native American Development” below. The results for our Las Vegas operations are discussed in the remaining sections below. 
+Net Revenues
+.  Net revenues for the three months ended September 30, 2025 were $475.6 million, up 1.6% as compared to $468.0 million for the prior year period. For the nine months ended September 30, 2025, net revenues were $1.5 billion, an increase of 3.9% compared to $1.4 billion for the prior year period. For the three months ended September 30, 2025, our casino and food and beverage revenues increased by 1.7% and 2.6%, respectively, other revenues was consistent and room revenues decreased by 8.0% as compared to the same quarter in 2024. For the nine months ended September 30, 2025, we achieved year over year growth of 4.9% for casino revenue, while our food and beverage and other revenues remained consistent and our room revenues decreased by 3.6%, all as compared to the prior year period. In addition, during the three and nine months ended September 30, 2025 we recognized development fee revenues of $3.9 million and $13.9 million, respectively, representing fees earned from our agreement with a Native American tribe to develop the North Fork Project.
+Operating Income.
+  For the three and nine months ended September 30, 2025, our operating income was $131.5 million and $453.9 million, respectively. For the three and nine months ended September 30, 2024, our operating income was $130.6 million and $426.4 million, respectively. Additional information about factors impacting our operating income is included below.
+Casino.  
+Casino revenues increased by 1.7% and 4.9% for the three and nine months ended September 30, 2025, respectively, as compared to the same periods in the prior year. For the three months ended September 30, 2025 as compared to the prior year period, our slot handle and race and sports write increased by 5.4% and 3.0%, respectively, and our table games drop decreased by 7.9%. For the nine months ended September 30, 2025 as compared to the prior year period, our slot handle and race and sports write increased by 4.4% and 1.4%, respectively, while our table games drop decreased by 3.1%. For the three months ended September 30, 2025 our table games hold decreased 2.3%, while our slot hold and race and sports hold were both consistent, all as compared to the prior year period. In addition, for the nine months ended September 30, 2025 our table games hold increased 1.1%, while our slot hold and race and sports hold were consistent, all as compared to the prior year period. Casino expenses for the three months ended September 30, 2025 as compared to the same period in the prior year, decreased by 5.5%, primarily due to bad debt recoveries, as well as the impact of our finance lease arrangements which reduced our participation expense. Casino expenses for the nine months ended September 30, 2025 as compared to the same period in the prior year, increased 2.1%, primarily due to higher gaming taxes and employee-related costs, partially offset by bad debt recoveries.
+Food and Beverage.  
+Food and beverage includes revenues and expenses from our restaurants, bars and catering. For the three months ended September 30, 2025, food and beverage revenues increased by 2.6%, as compared to the prior year period due to an increase in catering events. For the nine months ended September 30, 2025, food and beverage revenues were consistent, as compared to the prior year period. For both the three and nine months ended September 30, 2025, the number of restaurant guests served increased by 5.6%. For the three and nine months ended September 30, 2025, the average guest check decreased by 5.7% and 4.8%, respectively, all as compared to the prior year periods. Food and beverage expenses increased slightly for three and nine months ended September 30, 2025, as compared to the prior year periods.
+Room.
+  For the three and nine months ended September 30, 2025 room revenues decreased by 8.0% and 3.6%, respectively, as compared to the prior year periods, primarily due to hotel renovations at Green Valley Ranch. Room expenses for the three and nine months ended September 30, 2025 were in line with the prior year periods. 
+Information about our hotel operations is presented below:
+Three Months Ended September 30,
+Nine Months Ended September 30,
+
+2025
+2024
+2025
+2024
+Occupancy
+88.0 
+%
+85.6 
+%
+90.0 
+%
+87.7 
+%
+Average daily rate
+$
+179.71 
+$
+187.29 
+$
+194.72 
+$
+201.74 
+Revenue per available room
+$
+158.20 
+$
+160.30 
+$
+175.15 
+$
+177.00 
+For the three and nine months ended September 30, 2025, our ADR decreased by 4.0% and 3.5% respectively, while our revenue per available room decreased by 1.3% and 1.0%, respectively, all as compared to the prior year periods. Our occupancy rate for the three and nine months ended September 30, 2025 improved by 2.4 and 2.3 percentage points, respectively, as compared to the prior year periods. 
+31
+Table of Contents
+
+Development Fees.
+  Under the terms of our development agreement with the North Fork Rancheria of Mono Indians (the “Mono”), we are entitled to receive a development fee of 4% of the costs of construction for our development services related to the North Fork Project. In April 2025 the Mono completed its construction financing and we concluded that collection of this development fee was reasonably certain as this fee is stipulated as a permissible use of funds under the loan agreement. As a result, development fee revenue for the nine months ended September 30, 2025 include a $10.0 million cumulative revenue catch-up. Development fee revenue for the three and nine months ended September 30, 2025 was $3.9 million and $13.9 million, respectively. Additional information about our Native American development is included in Note 3 to the Condensed Consolidated Financial Statements.
+Other.
+  Other primarily represents revenues from tenant leases, retail outlets, bowling, spas, and entertainment, and their corresponding expenses. For the three and nine months ended September 30, 2025, other revenues were consistent when compared to the prior year periods. For the three months ended September 30, 2025, other expenses were consistent when compared to the prior year period. For the nine months ended September 30, 2025, other expenses increased by 3.2% as compared to the prior year period, primarily due to entertainer fees.
+Selling, General and Administrative (“SG&A”).  
+For the three and nine months ended September 30, 2025, SG&A expenses increased by 3.5% to $112.9 million and 1.4% to $329.6 million, respectively, as compared to the prior year periods. The increase in SG&A expenses were primarily due to payroll taxes on share-based compensation. As a percentage of net revenue, SG&A expenses for the three and nine months ended September 30, 2025 were in-line with the prior year periods.
+Depreciation and Amortization.
+  For the three and nine months ended September 30, 2025, depreciation and amortization expense increased by 3.4% and 4.6%, respectively, as compared the prior year periods, primarily due to new assets placed in service.
+Write-downs and Other, net.  
+For the three and nine months ended September 30, 2025, write-downs and other, net totaled $2.4 million and $10.5 million, respectively, primarily comprising development and preopening expenses and business innovation development expenses. For the three months ended September 30, 2024, write-downs and other, net included $5.8 million in refunds for previously expensed development costs and $3.2 million in net costs primarily comprising development and preopening expenses and business innovation development expenses. For the nine month ended September 30, 2024, write-downs and other, net totaled $1.7 million, primarily comprising development and preopening expenses (including $5.8 million in refunds for previously expensed development costs) and business innovation development expenses.
+Interest Expense, net.
+  Interest expense, net decreased to $50.5 million and $152.2 million for the three and nine months ended September 30, 2025, respectively, as compared to $58.0 million and $172.6 million, respectively, for the same periods in 2024. The decrease in interest expense was due to a decrease in interest rates and borrowings for the current year period. Additional information about our long-term debt is included in Note 5 to the Condensed Consolidated Financial Statements.
+Change in Fair Value of Derivative Instruments.  
+For the three months ended September 30, 2025, we recognized net gains of $1.8 million in change in fair value of our interest rate collars, primarily due to favorable movements in the forward interest rate curve. For the nine months ended September 30, 2025, we recognized net losses $5.7 million in change in the fair value of our interest rate collars, primarily due to downward movements in the forward interest rate curve. For the three and nine months ended September 30, 2024, we recognized net losses of $9.7 million and $11.7 million, respectively, primarily due to downward movements in the forward interest rate curve.
+Gain on Native American Developmen
+t
+.
+  In April 2025 we arranged the financing for the ongoing development costs and construction of the facility related to the North Fork Project. In connection with the financing, the carrying amount of our reimbursable advances to the Mono was repaid. For the nine months ended September 30, 2025 we recognized a gain on Native American development of $8.5 million, representing the excess of proceeds received over the carrying amount of the reimbursable advances. Additional information about our Native American development is included in Note 3 to the Condensed Consolidated Financial Statements.
+Provision for Income Tax.  
+For the three and nine months ended September 30, 2025, we recognized a provision for income tax of $6.6 million and $35.4 million, respectively. Station Holdco is treated as a partnership for income tax reporting purposes and Station Holdco’s members are liable for federal, state and local income taxes based on their share of Station Holdco’s taxable income. We are not liable for income tax on the noncontrolling interests’ share of Station Holdco’s taxable income or benefit from a taxable loss, and therefore our effective tax rate of 7.9% and 11.5% for the three and nine months ended September 30, 2025, respectively, was less than the statutory rate. Additionally, our effective tax rate is impacted by the 
+32
+Table of Contents
+
+permanent tax adjustments. We recognized income tax expense of $8.1 million and $26.1 million for the three and nine months ended September 30, 2024, respectively.
+Net Income Attributable to Noncontrolling Interests.  
+Net income attributable to noncontrolling interests for the three and nine months ended September 30, 2025 and 2024 represented the portion of net income attributable to the ownership interest in Station Holdco not held by us.
+Adjusted EBITDA
+Adjusted EBITDA for the three and nine months ended September 30, 2025 and 2024 for our two reportable segments and a reconciliation of net income to Adjusted EBITDA are presented below (amounts in thousands). The Las Vegas operations segment includes all of our Las Vegas casino properties and the Native American segment includes our Native American arrangements. 
+Three Months Ended
+September 30,
+Nine Months Ended
+September 30,
+2025
+2024
+2025
+2024
+Net revenues
+Las Vegas operations
+$
+468,576 
+$
+464,714 
+$
+1,476,791 
+$
+1,433,490 
+Native American
+3,894 
+— 
+13,902 
+— 
+Reportable segment net revenues
+472,470 
+464,714 
+1,490,693 
+1,433,490 
+Corporate and other
+3,102 
+3,302 
+9,013 
+9,826 
+Net revenues
+$
+475,572 
+$
+468,016 
+$
+1,499,706 
+$
+1,443,316 
+Net income
+$
+76,880 
+$
+55,389 
+$
+271,083 
+$
+203,570 
+Adjustments
+Depreciation and amortization
+48,976 
+47,372 
+145,295 
+138,948 
+Share-based compensation
+7,317 
+6,730 
+23,664 
+24,411 
+Write-downs and other, net
+2,436 
+(2,585)
+10,506 
+1,749 
+Interest expense, net
+50,486 
+57,998 
+152,228 
+172,633 
+Loss on extinguishment/modification of debt
+— 
+— 
+— 
+14,402 
+Change in fair value of derivative instruments
+(1,846)
+9,748 
+5,653 
+11,671 
+Gain on Native American development
+— 
+— 
+(8,476)
+— 
+Provision for income tax
+6,619 
+8,057 
+35,354 
+26,118 
+Adjusted EBITDA
+$
+190,868 
+$
+182,709 
+$
+635,307 
+$
+593,502 
+Adjusted EBITDA
+Las Vegas operations
+$
+209,407 
+$
+202,557 
+$
+684,751 
+$
+655,463 
+Native American
+3,894 
+— 
+13,902 
+— 
+Corporate and other
+(22,433)
+(19,848)
+(63,346)
+(61,961)
+Adjusted EBITDA
+$
+190,868 
+$
+182,709 
+$
+635,307 
+$
+593,502 
+The year-over-year changes in Adjusted EBITDA were due to the factors described within 
+Results of Operations
+ above.
+Adjusted EBITDA is a non-GAAP measure that is presented solely as a supplemental disclosure. We believe that Adjusted EBITDA is a widely used measure of operating performance in our industry and is a principal basis for valuation of gaming companies. We believe that in addition to net income, Adjusted EBITDA is a useful financial performance measurement for assessing our operating performance because it provides information about the performance of our ongoing core operations. Adjusted EBITDA for the three and nine months ended September 30, 2025 and 2024 includes net income plus depreciation and amortization, share-based compensation, write-downs and other, net (including gains and losses on asset disposals, preopening and development, business innovation and technology enhancements, 
+contract termination
+ and non-routine items), interest expense, net, loss on extinguishment/modification of debt, change in fair value of derivative instruments, gain on Native American development and provision for income tax.
+To evaluate Adjusted EBITDA and the trends it depicts, the components should be considered. Each of these components can significantly affect our results of operations and should be considered in evaluating our operating performance, 
+33
+Table of Contents
+
+and the impact of these components cannot be determined from Adjusted EBITDA. Adjusted EBITDA does not represent net income or cash flows from operating, investing or financing activities as defined by GAAP and should not be considered as an alternative to net income as an indicator of our operating performance. Additionally, Adjusted EBITDA does not consider capital expenditures and other investing activities and should not be considered as a measure of our liquidity. It should be noted that not all gaming companies that report EBITDA or adjustments to this measure may calculate EBITDA or such adjustments in the same manner as we do, and therefore, our measure of Adjusted EBITDA may not be comparable to similarly titled measures used by other gaming companies.
+Holding Company Financial Information
+The indentures governing the 4.50% Senior Notes, 4.625% Senior Notes and 6.625% Senior Notes contain certain covenants that require Station LLC to furnish to the holders of the notes certain annual and quarterly financial information relating to Station LLC and its subsidiaries. The obligation to furnish such information may be satisfied by providing consolidated financial information of the Company along with additional disclosure explaining the differences between such information and the financial information of Station LLC and its subsidiaries on a standalone basis. The following financial information about the Company and its consolidated subsidiaries, exclusive of Station LLC and its subsidiaries (the “Holding Company”), is furnished to explain the differences between the financial information of the Holding Company and the financial information of Station LLC and its subsidiaries for the periods presented in this report. The primary differences between the financial information of the Holding Company and that of Station LLC relate to income taxes, the liability associated with the tax receivable agreement (“TRA”) and a note receivable from Station LLC.
+ At September 30, 2025, the difference between the balance sheet for Station LLC and its consolidated subsidiaries and the balance sheet for the Holding Company is that the Holding Company had cash of $2.7 million, $3.9 million in income tax receivable, $37.7 million of deferred tax assets, net, and a $44.5 million note receivable from Station LLC, which are solely assets of the Holding Company, and liabilities that are solely the Holding Company’s, consisting of a $20.3 million liability under the TRA, of which $1.0 million is expected to be paid in the next twelve months and $4.7 million of other liabilities. The Holding Company’s $44.5 million intercompany note receivable from Station LLC is eliminated in consolidation. At December 31, 2024, the Holding Company had cash of $4.2 million, $56.4 million of deferred tax assets, net, and a $53.9 million note receivable from Station LLC, which are solely assets of the Holding Company, and liabilities that are solely the Holding Company’s, consisting of a $20.4 million liability under the TRA, of which $1.4 million was current and $5.5 million of other liabilities.
+The Holding Company recognized net losses of $6.0 million and $33.4 million for the three and nine months ended September 30, 2025, respectively, and $7.5 million and $24.5 million for the three and nine months ended September 30, 2024, respectively, primarily due to the provision for income taxes.
+Liquidity and Capital Resources
+The following financial condition, capital resources and liquidity discussion contains certain forward-looking statements with respect to our business, financial condition, results of operations, dispositions, acquisitions, expansion projects and issuances of debt and equity, which involve risks and uncertainties that cannot be predicted or quantified, and consequently, actual results may differ materially from those expressed or implied herein. Such risks and uncertainties include, but are not limited to, the risks described in 
+Item 1A—Risk Factors 
+in our Annual Report on Form 10-K for the year ended December 31, 2024.
+At September 30, 2025, we had $129.8 million in cash and cash equivalents. Station LLC maintains its borrowing availability under its Revolving Credit Facility, subject to continued compliance with the terms of the credit facility. At September 30, 2025, Station LLC’s borrowing availability under the Revolving Credit Facility was $933.2 million, which was net of $120.0 million in outstanding borrowings and $46.8 million in outstanding letters of credit and similar obligations. 
+Our primary capital requirements for the near term are expected to be related to the operation and maintenance of our properties, debt service payments, dividends and distributions. Our anticipated uses of cash for the remainder of 2025 include (i) approximately $85 million to $110 million for capital expenditures, (ii) required principal and interest payments on Station LLC’s indebtedness totaling $40.1 million and $49.1 million, respectively, (iii) dividends to our Class A common stockholders, including approximately $15.6 million to be paid in December 2025, and (iv) distributions to noncontrolling interest holders of Station Holdco, including approximately $12.0 million to be paid in December 2025 and including “tax distributions” that may be made quarterly when required and in amounts that may vary from quarter to quarter. Other payment obligations include salaries, wages and employee benefits, service contracts, property taxes, insurance and other obligations.
+34
+Table of Contents
+
+In April 2025, we received a partial repayment of $110.5 million on our advances and related accrued interest for the North Fork Project. The repayment was funded from the initial drawdown of term loans under the Mono’s $750 million credit facility for the project, which we assisted the tribe in obtaining pursuant to the Development Agreement. Repayment of the remaining amounts due on the advances is expected to come from the proceeds of the North Fork Project’s financing, from cash flows from the North Fork Project’s operations, or from a combination of both. In connection with the completion of the Mono’s credit facility, we entered into a completion guaranty and a subordination agreement in favor of the financing parties and released our existing security interests in the assets of the North Fork Project. Under the completion guaranty, we have agreed to make reimbursable interest-bearing advances to the Mono for completion of the project in the event that total project costs exceed the financing available under the Mono’s facility loan. Our commitment to make such advances is capped at $425 million. It is not probable that any such funding will be necessary to complete the project.
+On May 2, 2024, our board of directors extended the expiration date of the equity repurchase program to December 31, 2025. Our board of directors has authorized $600 million for repurchases of Class A common stock under our equity repurchase program. On October 27, 2025, our board of directors extended the expiration date of the equity repurchase program to December 31, 2027 and authorized the repurchase of an additional $300 million of Class A common stock, increasing the remaining amount authorized for repurchases under the program to $573 million. We are not obligated to repurchase any shares under the program. Subject to applicable laws and the provisions of any agreements restricting our ability to do so, repurchases may be made at our discretion from time to time through open market purchases, negotiated transactions or tender offers, depending on market conditions and other factors. During the three and nine months ended September 30, 2025, we repurchased 92,237 shares and 763,914 shares, respectively, of our Class A common stock at a weighted average price per share of $60.51 and $47.70, respectively. At September 30, 2025, we had $273 million of remaining repurchases authorized under the program. From time to time, we may also seek to repurchase our outstanding indebtedness. Any such purchases may be funded by existing cash balances or the incurrence of debt, including borrowings under our credit facility. The amount and timing of any repurchases will be based on business and market conditions, capital availability, compliance with debt covenants and other considerations.
+In September 2025, we entered into two finance lease agreements for certain equipment used in our operations. At September 30, 2025, the carrying amount of the finance lease ROU assets was $41.2 million and the carrying amount of the finance lease liabilities was $42.3 million, of which $9.7 million is classified as current. Each lease commenced on September 1, 2025 and has a term of four years.
+We expect that cash on hand, cash generated from operations and borrowings available under the credit facility will be sufficient to fund our operations and capital requirements and service our outstanding indebtedness for the next twelve months. We regularly assess our projected cash requirements for capital expenditures, repayment of debt obligations, and payment of other general corporate and operational needs. In the long term, we expect that we will fund our capital requirements with a combination of cash generated from operations, borrowings under the credit facility and the issuance of debt or equity as market conditions may permit. However, our cash flow and ability to obtain debt or equity financing on terms that are satisfactory to us, or at all, may be affected by a variety of factors, including competition, general economic and business conditions and financial markets. As a result, we cannot provide any assurance that we will generate sufficient income and liquidity to meet all of our liquidity requirements or other obligations.
+Following is a summary of our cash flow information (amounts in thousands):
+
+Nine Months Ended
+September 30,
+
+2025
+2024
+Net cash provided by (used in):
+Operating activities
+$
+452,956 
+$
+400,038 
+Investing activities
+(166,305)
+(286,002)
+Financing activities
+(321,274)
+(134,126)
+Cash Flows from Operations
+Our operating cash flows primarily consist of operating income generated by our properties (excluding depreciation and other non-cash charges), interest and income tax payments, and changes in working capital accounts such as inventories, prepaid expenses, receivables and payables. The majority of our revenue is generated from our slot machine and table game 
+35
+Table of Contents
+
+play, which is conducted primarily on a cash basis. Our food and beverage, room and other revenues are also primarily cash-based. As a result, fluctuations in our revenues have a direct impact on our cash flow from operations.
+For the nine months ended September 30, 2025, net cash provided by operating activities was $453.0 million as compared to $400.0 million for the prior year period. Cash flows from operating activities for the nine months ended September 30, 2025 and 2024 included $160.7 million and $169.0 million in interest payments, respectively. In addition, our operating cash flows for the nine months ended September 30, 2025 increased as compared to the prior year period due to increase in revenues and changes in working capital accounts. Information about our operating activities is presented within 
+Results of Operations
+ above. 
+Cash Flows from Investing Activities
+For the nine months ended September 30, 2025 and 2024, cash paid for capital expenditures totaled $240.1 million and $257.0 million, respectively. Capital expenditures for the nine months ended September 30, 2025 and 2024 were primarily related to various renovation and expansion projects. Cash paid for Native American development costs related to the North Fork Project totaled $34.5 million and $12.7 million for nine months ended September 30, 2025 and 2024, respectively. In addition, we received $110.5 million in proceeds from the repayment of Native American development costs for the nine months ended September 30, 2025.
+Cash Flows from Financing Activities 
+During the nine months ended September 30, 2025, we paid $105.4 million in dividends to Class A common stockholders and $106.4 million in cash distributions to the noncontrolling interest holders of Station Holdco. We also paid $23.9 million related to tax withholding on share-based compensation and $5.6 million to a noncontrolling interest holder unaffiliated with Red Rock who exchanged 100,000 Class B shares and LLC Units for cash. In addition we reduced our outstanding indebtedness by $46.8 million.
+During the nine months ended September 30, 2024, Station LLC entered into an amended and restated credit agreement pursuant to which it repaid all loans outstanding under the existing credit agreement, borrowed $1,570.0 million under the new Term B Facility and borrowed $280.0 million under the new Revolving Credit Facility. Station LLC also issued $500.0 million in principal amount of 6.625% Senior Notes due 2032 and paid $23.5 million in debt issuance costs. In addition, we paid $103.6 million in dividends to Class A common stockholders and $110.4 million in cash distributions to the noncontrolling interest holders of Station Holdco. We also paid $13.8 million related to tax withholding on share-based compensation.
+Restrictive Covenants
+The agreements governing our credit facility and the indentures governing our senior notes impose significant operating and financial restrictions on us, including certain limitations on our and our subsidiaries’ ability to, among other things, obtain additional debt or equity financing due to applicable financial and restrictive covenants in our debt agreements. The financial ratio covenants contained in the recent amendments to the Credit Agreement include a maximum Consolidated Senior Secured Net Leverage Ratio of 5.00 to 1.00. We believe that as of September 30, 2025, Station LLC was in compliance with the covenants contained in the credit facility and the indentures governing the senior notes. 
+As a result of these covenants and restrictions, we are limited in how we conduct our business and we may be unable to raise additional debt or equity financing to provide liquidity if changes in the economy, discretionary spending, consumer confidence or other external factors negatively affect our business. In addition, such covenants and restrictions may limit our ability to compete effectively or to take advantage of new business opportunities. Further, our ability to comply with covenants and restrictions contained in the agreements governing our indebtedness may be adversely affected by general economic conditions and industry conditions.
+Failure to satisfy the covenants contained in the credit agreements, indentures or other agreements governing our indebtedness would require us to seek waivers or amendments of such covenants. There can be no assurance that we would be able to obtain required waivers or amendments, as such matters depend, in part, on factors outside of our control. If we fail to satisfy our covenants and are unable to obtain such waivers or amendments, our creditors could exercise remedies under the applicable documents governing such indebtedness, including acceleration of such indebtedness.
+36
+Table of Contents
+
+Off-Balance Sheet Arrangements
+At September 30, 2025, we had no variable interests in unconsolidated entities that provide off-balance sheet financing, liquidity, market risk or credit risk support, or that engage in leasing, hedging or research and development arrangements with us, nor did we have retained or contingent interests in assets transferred to an unconsolidated entity. At September 30, 2025, we had outstanding letters of credit and similar obligations totaling $46.8 million.
+Native American Development 
+We have development and management agreements with the North Fork Rancheria of Mono Indians, a federally recognized Native American tribe located near Fresno, California, pursuant to which we will assist the tribe in developing, financing and operating a gaming and entertainment facility to be located on Highway 99 north of the city of Madera, California. See Note 3 to the Condensed Consolidated Financial Statements for additional information.
+Regulation and Taxes 
+We are subject to extensive regulation by Nevada gaming authorities as well as the National Indian Gaming Commission and the California Gambling Control Commission. In addition, we will be subject to regulation, which may or may not be similar to that in Nevada, by any other jurisdiction in which we may conduct gaming activities in the future.
+The gaming industry represents a significant source of tax revenue, particularly to the State of Nevada and its counties and municipalities. From time to time, various state and federal legislators and officials have proposed changes in tax law, or in the administration of such law, affecting the gaming industry. The Nevada legislature meets every two years for 120 days and when special sessions are called by the Governor. The most recent legislative session ended on June 3, 2025. There were no specific legislative proposals to increase taxes on gaming revenue in the most recent session, but there are no assurances that an increase in taxes on gaming or other revenue will not be proposed and passed by the Nevada legislature in the future.
+Description of Certain Indebtedness
+A description of our indebtedness is included in Note 8 to the audited consolidated financial statements included in our Annual Report on Form 10-K for the year ended December 31, 2024 and Note 5 to the Condensed Consolidated Financial Statements. There were no material changes to the terms of our indebtedness during the nine months ended September 30, 2025.
+Critical Accounting Policies and Estimates
+A description of our critical accounting policies and estimates is included in Item 7 of our Annual Report on Form 10-K for the year ended December 31, 2024. There were no material changes to our critical accounting policies and estimates during the nine months ended September 30, 2025.
+Forward-looking Statements
+When used in this report and elsewhere by management from time to time, the words “may,” “might,” “could,” “believes,” “anticipates,” “expects” and similar expressions are intended to identify forward-looking statements with respect to our financial condition, results of operations and our business including our expansions, development and acquisition projects, legal proceedings and employee matters. Certain important factors, including but not limited to, financial market risks, could cause our actual results to differ materially from those expressed in our forward-looking statements. Potential factors which could affect our financial condition, results of operations and business include, without limitation, the impact of rising inflation, higher interest rates and increased energy costs on consumer demand and our business and results of operations, financial results and liquidity; the impact of our substantial indebtedness; the effects of local and national economic, credit and capital market conditions on consumer spending and the economy in general, and on the gaming and hotel industries in particular; the effects of competition, including locations of competitors and operating and market competition; changes in laws, including increased tax rates, regulations or accounting standards, third-party relations and approvals, and decisions of courts, regulators and governmental bodies; risks associated with construction projects, including disruption of our operations, shortages of materials or labor, unexpected costs, unforeseen permitting or regulatory issues and weather; litigation outcomes and judicial actions, including gaming legislative action, referenda and taxation; acts of war or terrorist incidents, pandemics, natural disasters or civil unrest; risks associated with the collection and retention of data about our customers, employees, suppliers and business partners; and other risks described in our filings with the Securities and Exchange Commission. All forward-looking statements are based on our current expectations and projections about future events. Readers are cautioned not to place undue reliance on any forward-looking statements, which speak only as of the date thereof. We undertake no obligation to publicly release any revisions to such forward-looking statements to reflect events or circumstances after the date hereof.
+37
+Table of Contents
+
+Item 3.    Quantitative and Qualitative Disclosures about Market Risk
+Market risk is the risk of loss arising from adverse changes in market rates and prices, such as interest rates, foreign currency exchange rates and commodity prices. Our primary exposure to market risk is interest rate risk associated with our long-term debt. In April 2024, we entered into two zero cost interest rate collars to manage our exposure to interest rate risk. See Note 6 to the Condensed Consolidated Financial Statements for additional information. There have been no material changes in our market risks from those disclosed in Part II, Item 7A of our Annual Report on Form 10-K for the year ended December 31, 2024. 
+Item 4.    Controls and Procedures 
+The Company’s management conducted an evaluation, under the supervision and with the participation of the principal executive officer and principal financial officer, of the effectiveness of the Company’s disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934 (the “Exchange Act”)) as of September 30, 2025. In designing and evaluating disclosure controls and procedures, management recognizes that any controls and procedures, no matter how well designed and operated, can only provide reasonable assurance of achieving the desired control objectives, and management is required to apply its judgment in evaluating the cost-benefit relationship of possible controls and procedures. Based on this evaluation, the principal executive officer and principal financial officer concluded that, as of September 30, 2025, the Company’s disclosure controls and procedures were effective, at the reasonable assurance level, and are designed to ensure that information required to be disclosed by the Company in reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in Securities and Exchange Commission rules and forms, and that such information is accumulated and communicated to management, including our principal executive officer and principal financial officer, to allow timely decisions regarding required disclosure.
+There was no change in the Company’s internal control over financial reporting during the Company’s most recently completed fiscal quarter that materially affected, or is reasonably likely to materially affect, the Company’s internal control over financial reporting.
+Part II.    Other Information
+Item 1.    Legal Proceedings
+The Company and its subsidiaries are defendants in various lawsuits relating to routine matters incidental to their business. No assurance can be provided as to the outcome of such matters and litigation inherently involves significant risks.
+Item 1A.    Risk Factors
+There have been no material changes in the risk factors previously disclosed in Part I, Item 1A of our Annual Report on Form 10-K for the year ended December 31, 2024.
+38
+Table of Contents
+
+Item 2.    Unregistered Sales of Equity Securities and Use of Proceeds
+Issuer Purchases of Equity Securities
+The following table provides information with respect to purchases by the Company of shares of its common stock during the third quarter of 2025.
+Period
+Total number of shares purchased
+(1)
+Average Price Paid per Share
+Total Number of Shares Purchased as Part of a Publicly Announced Program
+(1)
+Approximate
+Dollar Value That
+May Yet Be
+Purchased Under
+the Program 
+(2)
+July 1 to July 31, 2025
+— 
+$
+— 
+— 
+$
+278,115,032 
+August 1 to August 31, 2025
+92,326 
+60.51 
+92,237 
+272,533,771 
+September 1 to September 30, 2025
+— 
+— 
+— 
+272,533,771 
+Total
+92,326 
+$
+60.51 
+92,237 
+$
+272,533,771 
+_______________________________________________________________
+(1)
+    In August 2025, a noncontrolling interest holder unaffiliated with Red Rock exchanged 100,000 LLC Units, together with an equal number of Class B common shares, for 92,237 Class A shares, which we repurchased for $5.6 million. We also repurchased 89 shares of Class A common stock which were withheld in satisfaction of tax withholding obligations on vested restricted stock.
+(2)    Our board of directors has approved an equity repurchase program authorizing the repurchase of our Class A common stock through open market purchases, negotiated transactions or tender offers. The total repurchase authorization of $600 million expires on December 31, 2025. At September 30, 2025, the remaining amount authorized for repurchases under the program was $272.5 million. On October 27, 2025, our board of directors extended the expiration date of the equity repurchase program to December 31, 2027 and authorized the repurchase of an additional $300 million of Class A common stock, increasing the remaining amount authorized for repurchases under the program to $572.5 million.
+Item 3.    Defaults Upon Senior Securities—
+None.
+Item 4.    Mine Safety Disclosures—
+None.
+Item 5.    Other Information
+Pursuant to Item 408(a) of Regulation S-K, none of the Company's directors or executive officers adopted, terminated or modified a Rule 10b5-1 trading arrangement or a non-Rule 10b5-1 trading arrangement during the three months ended September 30, 2025.
+Item 6.    Exhibits 
+(a)
+Exhibits
+No. 31.1—Certification pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+No. 31.2—Certification pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+No. 32.1—Certification pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+No. 32.2—Certification pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+No. 101.INS—XBRL Instance Document — the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
+No. 101.SCH—XBRL Taxonomy Extension Schema Document
+No. 101.CAL—XBRL Taxonomy Extension Calculation Linkbase Document
+No. 101.DEF—XBRL Taxonomy Extension Definition Linkbase Document
+No. 101.LAB—XBRL Taxonomy Extension Label Linkbase Document
+No. 101.PRE—XBRL Taxonomy Extension Presentation Linkbase Document
+No. 104—Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+39
+Table of Contents
+
+SIGNATURE
+    Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+RED ROCK RESORTS, INC.,
+Registrant
+Date:
+November 6, 2025
+/s/ STEPHEN L. COOTEY
+Stephen L. Cootey
+Executive Vice President, Chief Financial Officer and Treasurer 
+(Principal Financial Officer)
+40

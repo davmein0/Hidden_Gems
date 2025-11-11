@@ -1,0 +1,3382 @@
+ITEM 3.    Legal Proceedings 
+We are not currently subject to any material legal proceedings. From time to time, we may be involved in legal proceedings or subject to claims incident to the ordinary course of business. Regardless of the outcome, such proceedings or claims can have an adverse impact on us because of defense and settlement costs, diversion of resources and other factors, and there can be no assurances that favorable outcomes will be obtained.
+ITEM 4.    Mine Safety Disclosures 
+Not applicable.
+89
+Table of Contents
+PART II
+ITEM 5.    Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+Market Information
+Our common stock is listed on the Nasdaq Global Market under the symbol “RNA.” 
+Holders of Common Stock
+As of February 14, 2025, there were approximately 19 holders of record of our common stock. This number was derived from our shareholder records and does not include beneficial owners of our common stock whose shares are held in the name of various dealers, clearing agencies, banks, brokers and other fiduciaries. 
+Dividend Policy
+We have never declared or paid any cash dividends on our capital stock. We intend to retain future earnings, if any, to finance the operation of our business and do not anticipate paying any cash dividends in the foreseeable future. Any future determination related to dividend policy will be made at the discretion of our board of directors after considering our financial condition, results of operations, capital requirements, business prospects and other factors the board of directors deems relevant, and subject to the restrictions contained in any future financing instruments.
+Securities Authorized for Issuance Under Equity Compensation Plans
+See Item 12 of Part III of this Annual Report on Form 10-K for information about our equity compensation plans which is incorporated by reference herein.
+90
+Table of Contents
+Performance Graph
+The following stock performance graph illustrates a comparison from June 12, 2020 (the date our common stock commenced trading on the Nasdaq Global Market) through December 31, 2024, of the total cumulative stockholder return on our common stock, the Nasdaq Composite Index and the Nasdaq Biotechnology Index. The graph assumes an initial investment of $100 on June 12, 2020 at the opening trading price of $18.00 per share, and that all dividends were reinvested, although dividends have not been declared on our common stock. The comparisons in the graph are required by the SEC and are not intended to forecast or be indicative of possible future performance of our common stock. 
+Unregistered Sales of Equity Securities
+None.
+Issuer Repurchases of Equity Securities 
+None.
+ITEM 6.    [Reserved]
+91
+Table of Contents
+ITEM 7.    Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+You should read the following discussion and analysis of our financial condition and results of operations together with our consolidated financial statements and related notes thereto included elsewhere in this annual report. This discussion and analysis contains forward-looking statements based upon our current beliefs, plans and expectations that involve risks, uncertainties and assumptions. Our actual results may differ materially from those anticipated in these forward-looking statements as a result of various factors, including those set forth under “Risk Factors” or in other parts of this annual report. For the comparison of the financial results for the fiscal years ended December 31, 2023 and 2022, see Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations, in our 
+Annual Report on Form 10-K for the fiscal year ended December 31, 2023, filed with the SEC on February 28, 2024
+.
+References to “Avidity,” "the Company," “we,” “us” and “our” refer to Avidity Biosciences, Inc.
+Overview
+We are a biopharmaceutical company committed to delivering a new class of RNA therapeutics called Antibody Oligonucleotide Conjugates, or AOCs. Our proprietary AOC platform is designed to combine the specificity of monoclonal antibodies, or mAbs, with the precision of RNA therapeutics to target the root cause of diseases previously untreatable with such therapeutics. Our pipeline currently has three programs in potentially registrational clinical trials. Delpacibart etedesiran, abbreviated as del-desiran (formerly AOC 1001), is designed to treat people with myotonic dystrophy type 1, or DM1, and is currently in Phase 3 development with the global HARBOR™ trial. Delpacibart braxlosiran, or del-brax (formerly AOC 1020), is the first investigational therapy designed to directly target DUX4 in people living with facioscapulohumeral muscular dystrophy, or FSHD, and is currently in Phase 1/2 development with the FORTITUDE
+TM
+ trial. Delpacibart zotadirsen, or del-zota (formerly AOC 1044), is designed for people with Duchenne muscular dystrophy, or DMD, and is currently in development with the Phase 2 EXPLORE44-OLE
+TM
+ study. Del-zota is specifically designed for people with mutations amenable to exon 44 skipping, or DMD44, and is the first of multiple AOCs we are developing for DMD. Del-desiran, del-brax, and del-zota have all been granted Orphan Designation by the FDA and the European Medicines Agency, or EMA, and Fast Track Designation by the FDA. In addition, the FDA has granted del-desiran Breakthrough Therapy designation for the treatment of DM1 and granted del-zota Rare Pediatric Disease designation. 
+Since our inception in 2012, we have devoted substantially all of our resources to organizing and staffing our company, business planning, raising capital, developing our proprietary AOC platform, identifying potential product candidates, establishing our intellectual property portfolio, conducting research, preclinical and clinical studies, preparing for potential commercial activities, and providing other general and administrative support for these operations. We have not generated any revenue from product sales. We are currently building our capabilities to support potential launches of product candidates currently in clinical development and to potentially operate as a commercial organization. In June 2020, we completed our initial public offering, or IPO, and have since raised capital through additional public offerings, private placements, and under collaboration and research license agreements. Refer to “Liquidity and Capital Resources” for further information on the capital raised since inception and our future capital requirements.
+We have incurred operating losses in each year since inception. Our net losses were $322.3 million, $212.2 million, and $174.0 million for the years ended December 31, 2024, 2023, and 2022, respectively. As of December 31, 2024, we had an accumulated deficit of $893.1 million. We expect our expenses and operating losses will increase substantially as we conduct our ongoing and planned preclinical studies and clinical trials, continue our research and development activities, utilize third parties to manufacture our product candidates and related raw materials, hire additional personnel, and protect our intellectual property. Our net losses may fluctuate significantly from quarter-to-quarter and year-to-year, depending on the timing of our preclinical studies and clinical trials and our expenditures on other research and development activities, as well as the generation of any collaboration and services revenue.
+Based upon our current operating plans, we believe that our existing cash, cash equivalents, and marketable securities will be sufficient to fund our operations for at least 12 months from the date of the filing of this Annual Report on Form 10-K. While we may generate revenue under our current and/or future collaboration agreements, we do not expect to generate any revenues from product sales until we successfully complete development and obtain regulatory approval for one or more of our product candidates. If we obtain regulatory approval for any of our product candidates, we expect to incur significant commercialization expenses related to product sales, marketing, manufacturing, and distribution. Accordingly, until such time as we can generate 
+92
+Table of Contents
+significant revenue from sales of our product candidates, if ever, we expect to finance our cash needs through equity offerings, debt financings, or other capital sources, including potential collaborations, licenses, and other similar arrangements. However, we may be unable to raise additional funds or enter into such other arrangements when needed, on favorable terms or at all. Our failure to raise capital or enter into such other arrangements when needed would have a negative impact on our financial condition and could force us to delay, limit, reduce, or terminate our product development or future commercialization efforts or grant rights to develop and market product candidates that we would otherwise prefer to develop and market ourselves.
+Research Collaboration with Bristol Myers Squibb Company 
+In November 2023, we entered into (i) a Research Collaboration and License Agreement, or the BMS Collaboration Agreement, to expand on the research with MyoKardia for up to five targets utilizing our proprietary AOC platform technology and (ii) a Securities Purchase Agreement with BMS, or the BMS Purchase Agreement, for the purchase by BMS in a private placement of 5,075,304 shares of our common stock at a purchase price of $7.8813 per share, for an aggregate purchase price of approximately $40 million. We refer to the BMS Collaboration Agreement and the BMS Purchase Agreement together as the "BMS Agreements." Under the terms of the BMS Agreements, we received approximately $100 million upfront, which includes a $60 million cash payment under the terms of the BMS Collaboration Agreement, and approximately $40 million for the purchase of our common stock under the terms of the BMS Purchase Agreement. We are also eligible to receive up to approximately $1.35 billion in research and development milestone payments, up to approximately $825 million in commercial milestone payments, and tiered royalties from high single digits to low double-digits on net sales. We are responsible for our own research collaboration costs incurred under the agreement, subject to a cumulative spending limit of $40 million. BMS will fund all future clinical development, regulatory and commercialization activities coming from this collaboration.
+Research Collaboration with Eli Lilly and Company
+In April 2019, we entered into a Research Collaboration and License Agreement, or the Lilly Agreement, with Eli Lilly and Company, or Lilly, for the discovery, development, and commercialization of AOC products in immunology and other select indications on a worldwide basis. Under the Lilly Agreement, we and Lilly will collaborate on preclinical research and discovery activities for such products, with Lilly being responsible for funding the cost of such activities by both parties. Lilly will also lead the clinical development, regulatory approval and commercialization of all such products, at its sole cost. We granted Lilly an exclusive, worldwide, royalty-bearing license, with the right to sublicense, under our technology to research, develop, manufacture, and sell products containing AOCs that are directed to up to six mRNA targets. We retain the right to use our technology to perform our obligations under the agreement and for all purposes not granted to Lilly. Lilly paid us an upfront license fee of $20.0 million in 2019, and we are eligible to receive up to $60.0 million in development milestone payments per target, up to $140.0 million in regulatory milestone payments per target and up to $205.0 million in commercialization milestone payments per target. We are eligible to receive a tiered royalty ranging from the mid-single to low-double digits from Lilly on worldwide annual net sales of licensed products, subject to specified and capped reductions for the market entry of biosimilar products, loss of patent coverage of licensed products, and for payments owed to third parties for additional rights necessary to commercialize licensed products in the territory.
+Components of Results of Operations
+Revenue
+Our revenue to date has been derived from payments received under our license and research collaboration agreements, including revenue from reimbursements of services, as well as a combination of upfront payments and milestone payments under our current and/or future collaboration agreements. We do not expect to generate any revenue from the sale of products unless and until such time that our product candidates have advanced through clinical development and regulatory approval, if ever. We expect that any revenue we generate, if at all, will fluctuate from quarter-to-quarter as a result of the timing and amount of payments relating to such services and milestones and the extent to which any of our products are approved and successfully commercialized. If we fail to complete preclinical and clinical development of product candidates or obtain regulatory approval for our product candidates, our ability to generate future revenues and our results of operations and financial position would be adversely affected.
+93
+Table of Contents
+Operating Expenses 
+Research and Development
+Research and development expenses consist of costs associated with our research and development activities, including our discovery and research efforts, and the preclinical and clinical development of our product candidates. Our research and development expenses include:
+•
+external costs, including expenses incurred under arrangements with third parties, such as contract research organizations, contract manufacturers, consultants, and our scientific advisors; and
+•
+internal costs, including;
+•
+employee-related expenses, including salaries, benefits, and stock-based compensation;
+•
+the costs of laboratory supplies and acquiring, developing, and manufacturing preclinical study materials; and
+•
+facilities, information technology, and depreciation, which include direct and allocated expenses for rent and maintenance of facilities, and depreciation of leasehold improvements and equipment.
+Research and development costs, including costs reimbursed under collaboration agreements, are expensed as incurred, with reimbursements of such amounts being recognized as revenue. We account for nonrefundable advance payments for goods and services that will be used in future research and development activities as expenses when the service has been performed or when the goods have been received.
+At any one time, we are working on multiple programs. Our internal resources, employees, and infrastructure are not directly tied to any one research or drug discovery program and are typically deployed across multiple programs.
+We expect our research and development expenses to increase for the foreseeable future as we continue to conduct ongoing research and development activities, advance preclinical research programs toward clinical development, including IND-enabling studies, and conduct clinical trials. The process of conducting preclinical studies and clinical trials necessary to obtain regulatory approval is costly and time consuming, and can vary significantly for each product candidate and development program. We may never succeed in achieving marketing approval for any of our product candidates.
+We anticipate we will make determinations as to which programs to pursue and how much funding to direct to each program on an ongoing basis in response to preclinical and clinical results, regulatory developments, ongoing assessments as to each program’s commercial potential, and our ability to maintain or enter into new collaborations, to the extent we determine the resources or expertise of a collaborator would be beneficial for a given program. We will need to raise substantial additional capital in the future. In addition, we cannot forecast which development programs may be subject to future collaborations, when such arrangements will be secured, if at all, and to what degree such arrangements would affect our development plans and capital requirements.
+Our development costs may vary significantly based on factors such as:
+•
+the number and scope of clinical, preclinical, and IND-enabling studies;
+•
+per patient trial costs;
+•
+the number of trials required for approval;
+•
+the number of sites included in the trials;
+•
+the countries in which the trials are conducted; 
+•
+the length of time required to enroll eligible patients;
+•
+the number of patients that participate in the trials;
+•
+the number of doses that patients receive;
+•
+the drop-out or discontinuation rates of patients;
+94
+Table of Contents
+•
+potential additional safety monitoring requested by regulatory agencies;
+•
+the duration of patient participation in the trials and follow-up;
+•
+the cost and timing of manufacturing our product candidates;
+•
+the various phases of development of our product candidates; and
+•
+the efficacy and safety profiles of our product candidates.
+General and Administrative
+General and administrative expenses consist primarily of employee-related expenses, including salaries, benefits, and stock-based compensation, for employees in our executive, finance, accounting, legal, business development, and other support functions. Other general and administrative expenses include allocated facility, information technology, and depreciation related costs not otherwise included in research and development expenses, and professional fees for auditing, tax, intellectual property, and legal services. Costs related to filing and pursuing patent applications are recognized as general and administrative expenses as incurred since recoverability of such expenditures is uncertain.
+We expect our general and administrative expenses will increase for the foreseeable future to support our increased research and development activities, commercial readiness initiatives, and other corporate activities.
+Other Income (Expense)    
+Other income (expense) consists primarily of interest earned on our cash, cash equivalents, and marketable securities.
+Results of Operations
+Comparison of the Years Ended December 31, 2024 and 2023 
+The following table summarizes our results of operations for the years presented (in thousands):
+Year Ended December 31,
+Change
+2024
+2023
+Revenue
+$
+10,897 
+$
+9,560 
+$
+1,337 
+Research and development expenses
+303,593 
+190,968 
+112,625 
+General and administrative expenses
+86,240 
+54,190 
+32,050 
+Other income
+56,634 
+23,378 
+33,256 
+Revenue
+Revenue increased by $1.3 million for the year ended December 31, 2024 as compared to the same period in 2023, primarily due to the recognition of revenues under the BMS agreement in the current year for which there were no revenues recognized in the prior year comparative period, partially offset by a decrease in revenues under the Lilly agreement in the current year.
+Research and Development Expenses
+The following tables illustrate the components of our research and development expenses for the years presented (in thousands):
+95
+Table of Contents
+Year Ended December 31,
+Change
+2024
+2023
+External costs:
+Del-desiran
+$
+47,026 
+$
+25,216 
+$
+21,810 
+Del-brax
+33,230 
+18,352 
+14,878 
+Del-zota
+27,073 
+20,137 
+6,936 
+Other programs
+7,617 
+8,884 
+(1,267)
+Unallocated
+74,729 
+31,044 
+43,685 
+Total external costs
+189,675 
+103,633 
+86,042 
+Internal costs:
+Employee-related expenses
+90,935 
+68,136 
+22,799 
+Facilities, lab supplies and other
+22,983 
+19,199 
+3,784 
+Total internal costs
+113,918 
+87,335 
+26,583 
+Total research and development expenses
+$
+303,593 
+$
+190,968 
+$
+112,625 
+Research and development expenses increased by $112.6 million for the year ended December 31, 2024 as compared to the same period in 2023. Research and development expense increased primarily due to increased external costs associated with the progression of clinical trials and preclinical studies, including $41.1 million in higher manufacturing costs related to monoclonal antibodies used across programs, as well as higher internal costs including $22.8 million in higher personnel costs.
+General and Administrative Expenses 
+General and administrative expenses increased by $32.1 million for the year ended December 31, 2024 as compared to the same period in 2023, primarily due to $21.5 million in higher personnel costs and $6.1 million in higher professional fees to support our expanded operations and commercial readiness.
+Other Income
+Other income increased by $33.3 million for the year ended December 31, 2024 as compared to the same period in 2023, due to higher interest income earned on marketable securities investments and cash and cash equivalent balances.
+Liquidity and Capital Resources
+Sources of Liquidity
+On November 8, 2022, we entered into a sales agreement (the 2022 Sales Agreement) with Cowen and Company, LLC (the Sales Agent), under which we could sell shares of our common stock having an aggregate offering price of up to $200.0 million through the Sales Agent. Sales of the shares of common stock were made at prevailing market prices at the time of sale, or as otherwise agreed with the Sales Agent. During the years ended December 31, 2024 and 2023, we sold 418,408 and 4,107,810 shares of its common stock, respectively, pursuant to the Sales Agreement and received net proceeds of $5.6 million and $60.5 million, respectively, after deducting offering-related transaction costs and commissions of $0.1 million and $1.4 million, respectively.
+On March 4, 2024, we completed a private placement of 15,224,773 shares of our common stock at a price of $16.50 per share and pre-funded warrants to purchase an aggregate 9,030,851 shares of our common stock at a price of $16.499 per pre-funded warrant. The net proceeds from the private placement were $379.8 million after deducting placement fees and offering costs of $20.4 million. Each pre-funded warrant has an exercise price of $0.001 per share of common stock, is immediately exercisable, and does not expire.
+On June 17, 2024, we completed a public offering of 12,132,500 shares of our common stock at a public offering price of $38.00 per share. Net proceeds from the offering were approximately $432.8 million, after deducting underwriting discounts and offering expenses of $28.3 million. 
+On August 9, 2024, we entered into a sales agreement, or the 2024 Sales Agreement, with TD Securities (USA) LLC, or the 2024 Sales Agent, with substantially similar terms as the 2022 Sales Agreement. 
+96
+Table of Contents
+The 2022 Sales Agreement was terminated upon effectiveness of the 2024 Sales Agreement. Under the 2024 Sales Agreement, we may, from time to time, sell shares of our common stock having an aggregate offering price of up to $400.0 million through the 2024 Sales Agent. Sales of the shares of common stock, if any, will be made at prevailing market prices at the time of sale, or as otherwise agreed with the 2024 Sales Agent. We are not obligated to sell, and the 2024 Sales Agent is not obligated to buy or sell, any shares of common stock under the 2024 Sales Agreement. As of December 31, 2024, we had sold no shares of our common stock under the 2024 Sales Agreement.
+On August 16, 2024, we completed a public offering of 8,418,000 shares of our common stock at a public offering price of $41.00 per share. Net proceeds from the offering were approximately $323.7 million, after deducting underwriting discounts and offering expenses of $21.4 million. The shares sold in the offering were registered pursuant to our shelf registration statement on Form S-3, which became automatically effective upon filing on May 9, 2024.
+As of December 31, 2024, other significant sources of capital raised to fund our operations were comprised of aggregate gross proceeds of $144.6 million from funding under collaboration and research services agreements of which approximately $40.0 million relates to the sale of 5,075,304 unregistered shares in November 2023 to BMS in a private placement under the terms of the BMS Purchase Agreement. 
+Future Capital Requirements
+As of December 31, 2024, we had cash, cash equivalents, and marketable securities of $1.5 billion. Based upon our current operating plans, we believe that our existing cash, cash equivalents, and marketable securities will be sufficient to fund our operations for at least 12 months from the date of the filing of this Form 10-K. However, our forecast of the period of time through which our financial resources will be adequate to support our operations is a forward-looking statement that involves risks and uncertainties, and actual results could vary materially. We have based this estimate on assumptions that may prove to be wrong, and we could deplete our capital resources sooner than we expect. Additionally, the process of conducting preclinical studies and testing product candidates in clinical trials is costly, and the timing of progress and expenses in these studies and trials is uncertain.
+Our future capital requirements are difficult to forecast and will depend on many factors, including but not limited to:
+•
+the type, number, scope, progress, expansions, results, costs and timing of discovery, preclinical studies and clinical trials of our product candidates that we are pursuing or may choose to pursue in the future;
+•
+the costs and timing of manufacturing for our product candidates and commercial manufacturing if any product candidate is approved;
+•
+the costs, timing, and outcome of regulatory review of our product candidates;
+•
+the terms and timing of establishing and maintaining collaborations, licenses, and other similar arrangements;
+•
+the costs of obtaining, maintaining, and enforcing our patents and other intellectual property rights;
+•
+the costs associated with hiring additional personnel and consultants as we continue to grow our company;
+•
+the timing and amount of the milestone or other payments made to us under current or future research and collaboration agreements;
+•
+the costs and timing of establishing or securing sales and marketing capabilities if any product candidate is approved;
+•
+our ability to achieve sufficient market acceptance, coverage and adequate reimbursement from third-party payors, and adequate market share and revenue for any approved products; and
+•
+costs associated with any products or technologies that we may in-license or acquire.
+97
+Table of Contents
+While we may generate revenue under our current and/or future collaboration agreements, we do not expect to generate any revenues from product sales until we successfully complete development and obtain regulatory approval for one or more of our product candidates, which we do not expect will occur in the immediate near term, and may never occur. If we obtain regulatory approval for any of our product candidates, we expect to incur significant commercialization expenses related to product sales, marketing, manufacturing, and distribution. Accordingly, until such time as we can generate significant revenue from sales of our product candidates, if ever, we expect to finance our cash needs through equity offerings, debt financings or other capital sources, including current and potential future collaborations, licenses and other similar arrangements. However, we may be unable to raise additional funds or enter into such other arrangements when needed, on favorable terms or at all. In addition, we may seek additional capital due to favorable market conditions or strategic considerations even if we believe we have sufficient funds for our current or future operating plans. Our failure to raise capital or enter into such other arrangements when needed would have a negative impact on our financial condition and could force us to delay, limit, reduce or terminate our product development or future commercialization efforts or grant rights to develop and market product candidates that we would otherwise prefer to develop and market ourselves.
+Cash Flows
+The following table summarizes our cash flows for the years presented (in thousands): 
+Year Ended December 31,
+Change
+2024
+2023
+Net cash provided by (used in):
+Operating activities
+$
+(300,870)
+$
+(119,064)
+$
+(181,806)
+Investing activities
+(854,201)
+(130,070)
+(724,131)
+Financing activities
+1,192,357 
+93,864 
+1,098,493 
+Net increase (decrease) in cash, cash equivalents and restricted cash
+$
+37,286 
+$
+(155,270)
+$
+192,556 
+Operating Activities
+Net cash used in operating activities of $300.9 million and $119.1 million for the years ended December 31, 2024 and 2023, respectively, consisted primarily of cash used to fund our operations related to the development of del-desiran, del-brax, del-zota, and other potential programs. The increase in cash used in our operations is primarily due to increases in research and development costs as well as general and administrative expenses as described under “Results of Operations” above.
+Investing Activities
+Net cash used in investing activities of $854.2 million for the year ended December 31, 2024 consisted of $1.4 billion for purchases of marketable securities due to investing the proceeds from the issuance of common stock and pre-funded warrants as well as the reinvestment of proceeds from matured marketable securities, as well as $7.1 million in purchases of property and equipment, offset by $586.4 million of proceeds from maturities of marketable securities. Net cash used in investing activities of $130.1 million for the year ended December 31, 2023 consisted of $461.0 million for purchases of marketable securities and $4.2 million in purchases of property and equipment, partially offset by $335.2 million of proceeds from maturities of marketable securities.
+Financing Activities
+Net cash provided by financing activities of $1.2 billion for the year ended December 31, 2024 consisted primarily of $762.2 million in net proceeds from sales of our common stock, $238.4 million in net proceeds from the issuance of common stock from a private placement transaction, $141.4 million in net proceeds from the sale of pre-funded warrants in a private placement, as well as $50.4 million in proceeds from the issuance of common stock under employee incentive equity plans. Net cash provided by financing activities of $93.9 million for the year ended December 31, 2023 consisted primarily of $60.5 million in net proceeds from the issuance of common stock in public offerings, $31.2 million in net proceeds from the issuance of common stock from a 
+98
+Table of Contents
+private placement transaction, as well as $2.1 million in proceeds from the issuance of common stock under employee incentive equity plans.
+Contractual Obligations and Commitments
+We have operating lease obligations related to our lease for office and laboratory space in San Diego, California. In June 2020, and as amended in December 2020, we entered into a non-cancellable operating lease for approximately 54,597 square feet of office and laboratory space, or the Lease, which commenced in November 2021. The Lease has a five-year initial term with a renewal option for an additional five years. Under the terms of the Lease, the initial monthly base rent of approximately $251,000 will increase to approximately $282,000 during the last year of the Lease's initial term, and the first year includes five months of rent abatement. In June 2023, we further amended the lease to expand our office and laboratory space. The expansion increased monthly base rent by approximately $45,000 increasing to $49,000 per month in the last year of the Lease's term. The total remaining base rent commitment for the initial term under the Lease is $7.5 million.
+In April 2024, we entered into a new sublease agreement to rent office and laboratory space for our future corporate headquarters. The term of the sublease is approximately 9 years, 9 months with payments expected to begin in August 2025. We also have an option and a right of first refusal for an additional 80,000 square feet in an adjacent available building, which we have not exercised. Total aggregate future lease commitments under the sublease agreement are approximately $72.6 million. Refer to Note 7, "Commitments and Contingencies" to our consolidated financial statements included elsewhere in this report.
+We enter into contracts in the normal course of business for contract research services, contract manufacturing services, clinical trials, professional services, and other services and products for operating purposes. These contracts may include certain provisions that could require payments for early termination. The amount of the termination payments vary depending on the timing of the termination and the specific terms of the contract. Therefore, these contracts are considered cancellable contracts.
+Critical Accounting Polices and Estimates
+Our management’s discussion and analysis of our financial condition and results of operations is based on our consolidated financial statements, which have been prepared in accordance with U.S. generally accepted accounting principles, or GAAP. The preparation of these consolidated financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenue and expenses. On an ongoing basis, we evaluate these estimates and judgments. We base our estimates on historical experience and on various assumptions that we believe to be reasonable under the circumstances. These estimates and assumptions form the basis for making judgments about the carrying values of assets and liabilities and the recording of revenue and expenses that are not readily apparent from other sources. Actual results may differ materially from these estimates.
+While our significant accounting policies are described in more detail in Note 2 to our consolidated financial statements included elsewhere in this annual report, we believe that the following accounting policies with financial estimates are the most critical to understanding and evaluating our historical and future performance. 
+Accrued Research and Development Costs
+As part of the process of preparing our consolidated financial statements, we are required to make estimates of our accrued research and development expenses resulting from our obligations under contracts with CROs, manufacturers, vendors and consultants. The financial terms of these contracts vary from contract to contract and may result in payment flows that do not match the periods over which materials or services are provided under such contracts. We reflect research and development expenses in our consolidated financial statements by matching those expenses with the period in which services and efforts are expended. In accruing for these activities, we obtain information from various sources and estimate the level of effort or expense allocated to each period. 
+Although we do not expect our estimates to be materially different from amounts actually incurred, if our estimates of the status and timing of services performed differ from the actual status and timing of services performed, it could result in our reporting amounts that are too high or too low in any particular period. To date, 
+99
+Table of Contents
+there have been no material differences between our estimates of such expenses and the amounts actually incurred.
+Recent Accounting Pronouncements 
+See Note 2 to our consolidated financial statements included elsewhere in this annual report. 
+ITEM 7A.    Quantitative and Qualitative Disclosures about Market Risk
+Interest Rate Risk
+Our cash, cash equivalents, and marketable securities consist of cash held in readily available checking and money market accounts, as well as debt securities. We are exposed to market risk related to fluctuations in interest rates and market prices. Our primary exposure to market risk is interest rate sensitivity, which is affected by changes in the general level of United States interest rates. However, due to the short- and intermediate-term nature of the instruments in our portfolio, we believe an immediate hypothetical 5% change in interest rates would not have had a material effect on our results of operations during the periods presented.
+Effects of Inflation
+Inflation generally affects us by increasing our cost of labor and contract costs included within operating expenses. We do not believe inflation has had a material effect on our results of operations during the periods presented. 
+Foreign Currency Exchange Risk
+We are exposed to market risk related to changes in foreign currency exchange rates. We contract with vendors that are located outside the United States, and certain invoices are denominated in foreign currencies. We are subject to fluctuations in foreign currency exchange rates in connection with these arrangements. To date, we have not experienced any material effects from foreign currency fluctuations. We believe an immediate hypothetical 5% change in foreign currency exchange rates would not have had a material effect on our results of operations during the periods presented.
+ITEM 8.    Financial Statements and Supplementary Data
+The consolidated financial statements required pursuant to this item are incorporated by reference herein from the applicable information included in Item 15 of this annual report and are presented beginning on page F-1. 
+ITEM 9.    Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+None. 
+ITEM 9A.    Controls and Procedures
+Conclusion Regarding the Effectiveness of Disclosure Controls and Procedures 
+We maintain disclosure controls and procedures that are designed to ensure that information required to be disclosed in our periodic and current reports that we file with the SEC is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms, and that such information is accumulated and communicated to our management, including our principal executive officer and principal financial officer, as appropriate, to allow timely decisions regarding required disclosure. In designing and evaluating the disclosure controls and procedures, management recognized that any controls and procedures, no matter how well designed and operated, can provide only reasonable and not absolute assurance of achieving the desired control objectives. In reaching a reasonable level of assurance, management necessarily was required to apply its judgment in evaluating the cost-benefit relationship of possible controls and procedures. In addition, the design of any system of controls also is based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions; over time, controls may become inadequate because of 
+100
+Table of Contents
+changes in conditions, or the degree of compliance with policies or procedures may deteriorate. Because of the inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected.
+Our management, with the participation of our principal executive officer and principal financial officer, has evaluated the effectiveness of our disclosure controls and procedures as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act as of the end of the period covered by this annual report. Based on such evaluation, our principal executive officer and principal financial officer have concluded that as of such date, our disclosure controls and procedures were effective.
+Management’s Annual Report on Internal Control Over Financial Reporting 
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act. Our internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of consolidated financial statements for external purposes in accordance with GAAP. Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions or that the degree of compliance with the policies or procedures may deteriorate.
+Our management assessed the effectiveness of our internal control over financial reporting as of December 31, 2024 based on the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission in its 2013 Internal Control — Integrated Framework. Based on this assessment, our management has concluded that our internal control over financial reporting was effective as of December 31, 2024.
+Remediation of Material Weakness
+A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the Company’s annual or interim financial statements will not be prevented or detected on a timely basis. 
+As disclosed in "Part II Item 9A Controls and Procedures" in our Annual Report on Form 10-K for the year ended December 31, 2023, we identified a material weakness in internal control related to ineffective controls with respect to segregation of duties over certain information technology general controls (ITGCs) related to a module within our enterprise resource planning (ERP) system (the "Material Weakness"). These ITGCs were not operating effectively to (i) restrict access to certain data and the ability to make changes thereto, and (ii) to monitor changes to such data.
+During the year ended December 31, 2024, we have changed the relevant access to address the known segregation of duties issues and have updated our access review controls to include additional procedures. During the fourth quarter of 2024, we completed our testing of the operating effectiveness of the implemented controls and found them to be effective. As a result, we have concluded the Material Weakness has been remediated as of December 31, 2024.
+The Company's independent registered public accounting firm who audited the consolidated financial statements included in the Annual Report on Form 10-K has issued an unqualified report on the effectiveness of the Company's internal control over financial reporting. This attestation report appears on page F-2 of this Annual Report on Form 10-K. 
+Attestation Report of the Registered Public Accounting Firm 
+BDO USA, P.C. has audited the effectiveness of the Company’s internal control over financial reporting as of December 31, 2024, as stated in its report dated February 27, 2025, which is included below.
+Changes in Internal Control Over Financial Reporting 
+Except as described above, there have been no changes in our internal control over financial reporting during the year ended December 31, 2024 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+101
+Table of Contents
+Report of Independent Registered Public Accounting Firm
+Stockholders and Board of Directors
+Avidity Biosciences, Inc. 
+San Diego, California 
+Opinion on Internal Control Over Financial Reporting
+We have audited Avidity Biosciences, Inc.’s (the “Company’s”) internal control over financial reporting as of December 31, 2024, based on criteria established in 
+Internal Control - Integrated Framework (2013)
+ issued by the Committee of Sponsoring Organizations of the Treadway Commission (the “COSO criteria”). In our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 31, 2024, based on the COSO criteria.
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (“PCAOB”), the consolidated balance sheets of the Company as of December 31, 2024 and 2023, the related consolidated statements of operations and comprehensive loss, stockholders’ equity and cash flows for each of the three years in the period ended December 31, 2024 and the related notes and our report dated February 27, 2025 expressed an unqualified opinion thereon.
+Basis for Opinion 
+The Company’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying "Item 9A, Management’s Annual Report on Internal Control over Financial Reporting". Our responsibility is to express an opinion on the Company’s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+We conducted our audit of internal control over financial reporting in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audit also included performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion. 
+Definition and Limitations of Internal Control over Financial Reporting 
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements. 
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+/s/ BDO USA, P.C. 
+San Diego, California
+February 27, 2025 
+102
+Table of Contents
+ITEM 9B.    Other Information 
+Rule 10b5-1 Trading Arrangements
+From time to time, our officers (as defined in Rule 16a–1(f)) and directors may 
+enter into Rule 10b5-1 or non-Rule 10b5-1 trading arrangements
+ (as each such term is defined in Item 408 of Regulation S-K). During the three months ended December 31, 2024, our officers or directors took the following actions with respect to such trading arrangements:
+Action
+Date
+Trading Arrangement
+Total Shares to be Sold
+Expiration Date
+Rule 10b5-1*
+Non-Rule 10b5-1**
+Troy Wilson
+ (
+Ph.D., J.D.
+)
+(1)
+Adopt
+12/4/2024
+X
+190,106
+(2)
+3/31/2026
+Arthur A. Levin
+ (
+Ph.D.
+)
+Adopt
+10/17/2024
+X
+309,096
+12/31/2025
+____________________
+* Intended to satisfy the affirmative defense of Rule 10b5-1(c)
+*
+* Not intended to satisfy the affirmative defense of Rule 10b5-1(c)
+(1)
+This plan was adopted by Mr. Wilson and certain irrevocable trusts for the benefit of Mr. Wilson's family members, none of which Mr. Wilson controls.
+(2)
+Represents the aggregate maximum number of shares to be sold under this plan by Mr. Wilson and all signatories to this plan. The maximum number of shares to be sold under this plan by Mr. Wilson is 59,000.
+ITEM 9C.    Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+Not applicable.
+
+103
+Table of Contents
+PART III
+ITEM 10.    Directors, Executive Officers and Corporate Governance 
+The information required by this item will be contained in our definitive proxy statement to be filed with the SEC in connection with our 2025 Annual Meeting of Stockholders, or the Definitive Proxy Statement, which is expected to be filed not later than 120 days after the end of our fiscal year ended December 31, 2024, under the headings “Election of Directors,” “Corporate Governance,” “Executive Officers,” and, if applicable, “Delinquent Section 16(a) Reports,” and is incorporated herein by reference.
+Code of Business Conduct and Ethics
+We have adopted a Code of Business Conduct and Ethics that applies to our officers, directors, and employees, which is available on our website at www.aviditybiosciences.com. The Code of Business Conduct and Ethics contains general guidelines for conducting the business of our company consistent with the highest standards of business ethics and is intended to qualify as a “code of ethics” within the meaning of Section 406 of Sarbanes-Oxley and Item 406 of Regulation S-K. In addition, we intend to promptly disclose (1) the nature of any amendment to our Code of Business Conduct and Ethics that applies to our principal executive officer, principal financial officer, principal accounting officer or controller or persons performing similar functions and (2) the nature of any waiver, including an implicit waiver, from a provision of our Code of Business Conduct and Ethics that is granted to one of these specified officers, the name of such person who is granted the waiver and the date of the waiver on our website in the future.
+Insider Trading Compliance Policy and Procedures
+We have 
+adopted
+ an Insider Trading Policy and Procedures governing the purchase, sale and other disposition of our securities by our directors, officers, employees and other covered persons, which is designed to promote compliance with insider trading laws, rules and regulations, and the Nasdaq Stock Market LLC listing rules, as applicable. A copy of our Insider Trading Compliance Policy and Procedures is filed as Exhibit 19.1 to this Annual Report on Form 10-K. 
+ITEM 11.    Executive Compensation
+The information required by this item will be contained in our Definitive Proxy Statement under the heading “Executive Compensation and Other Information” and "Compensation Committee Interlocks and Insider Participation" and is incorporated herein by reference. 
+ITEM 12.    Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+The information required by this item will be contained in our Definitive Proxy Statement under the heading “Security Ownership of Certain Beneficial Owners and Management” and is incorporated herein by reference. 
+The information required by Item 201(d) of Regulation S-K will be contained in our Definitive Proxy Statement under the heading “Executive Compensation and Other Information” and is incorporated herein by reference.
+ITEM 13.    Certain Relationships and Related Transactions, and Director Independence 
+The information required by this item will be contained in our Definitive Proxy Statement under the headings “Certain Relationships and Related Person Transactions,” “Board Independence” and “Committees of the Board of Directors” and is incorporated herein by reference. 
+ITEM 14.    Principal Accountant Fees and Services 
+The information required by this item will be contained in our Definitive Proxy Statement under the headings “Independent Registered Public Accountants’ Fees” and "Audit Committee Pre-Approval of Audit and Non-Audit Services" and is incorporated herein by reference. 
+104
+Table of Contents
+PART IV
+ITEM 15.    Exhibits and Financial Statement Schedules 
+1.
+Financial Statements.
+The consolidated financial statements of Avidity Biosciences, Inc., together with the report thereon of BDO USA, P.C., an independent registered public accounting firm, are included in this annual report on Form 10-K beginning on page F-1. 
+2.
+Financial Statement Schedules.
+All schedules have been omitted because the information required to be set forth therein is not applicable or is shown in the consolidated financial statements or notes thereto. 
+3.
+Exhibits.
+A list of exhibits is set forth on the Exhibit Index immediately preceding the signature page of this annual report on Form 10-K and is incorporated herein by reference. 
+ITEM 16.    Form 10-K Summary 
+None.
+105
+Table of Contents
+Avidity Biosciences, Inc.
+Index to Consolidated Financial Statements
+Page
+Report of Independent Registered Public Accounting Firm 
+(BDO USA, P.C.; San Diego, California; PCAOB ID#
+243
+)
+F-
+2
+Consolidated 
+Balance Sheets
+F-
+4
+Consolidated Statements of Operations and Comprehensive Loss
+F-
+5
+Consolidated 
+Statements of Stockholders’ Equity
+F-
+6
+Consolidated 
+Statements of Cash Flows
+F-
+7
+Notes to 
+Consolidated 
+Financial Statements
+F-
+8
+Table of Contents
+Report of Independent Registered Public Accounting Firm
+Stockholders and Board of Directors
+Avidity Biosciences, Inc. 
+San Diego, California 
+Opinion on the Consolidated Financial Statements 
+We have audited the accompanying consolidated balance sheets of Avidity Biosciences, Inc. (the “Company”) as of December 31, 2024 and 2023, the related consolidated statements of operations and comprehensive loss, stockholders’ equity, and cash flows for each of the three years in the period ended December 31, 2024, and the related notes (collectively referred to as the “consolidated financial statements”). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company at December 31, 2024 and 2023, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2024, in conformity with accounting principles generally accepted in the United States of America.
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (“PCAOB”), the Company's internal control over financial reporting as of December 31, 2024, based on criteria established in 
+Internal Control – Integrated Framework (2013)
+ issued by the Committee of Sponsoring Organizations of the Treadway Commission (“COSO”) and our report dated February 27, 2025 expressed an unqualified opinion thereon.
+Basis for Opinion 
+These consolidated financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s consolidated financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud. 
+Our audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audits provide a reasonable basis for our opinion.
+Critical Audit Matter
+The critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the consolidated financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of a critical audit matter does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+Clinical Trial Accruals
+As described in Notes 2 and 6 to the consolidated financial statements, the Company records accruals for estimated costs incurred for ongoing research and development activities, including clinical trial related activities. When evaluating the adequacy of the accrued liabilities, the Company analyzes progress of the services, including the phase or completion of events, invoices received, and contracted costs. As of December 31, 2024, the Company recorded $8.2 million in clinical trial accruals, which was included in accounts payable and accrued expenses on the consolidated balance sheet.
+F-2
+Table of Contents
+We identified the estimation of clinical trial accruals as a critical audit matter. Management’s judgment was required in estimating the progress of services and the associated costs incurred used to determine the accrued liabilities for clinical trial expenses. Auditing clinical trial accruals was especially challenging due to the nature and extent of audit effort required to address the matter.
+The primary procedures we performed to address this critical audit matter included:
+•
+Testing management’s process for estimating clinical trial accruals by: (i) obtaining and inspecting certain agreements and amendments and (ii) confirming total clinical costs incurred and total amounts billed with certain third-party vendors.
+•
+Testing the completeness of the Company’s clinical trial accruals by: (i) evaluating internal materials and publicly available information (such as press releases and public databases that track clinical trials) and (ii) testing invoices received after year-end for certain third-party vendors.
+/s/ 
+BDO USA, P.C.
+We have served as the Company’s auditor since 2016. 
+San Diego, California
+February 27, 2025
+F-3
+Table of Contents
+Avidity Biosciences, Inc.
+Consolidated Balance Sheets
+(in thousands, except par value)
+December 31,
+2024
+2023
+Assets
+Current assets:
+Cash and cash equivalents
+$
+219,868
+
+$
+185,082
+
+Marketable securities
+1,281,629
+
+410,269
+
+Prepaid and other assets
+40,793
+
+15,956
+
+Total current assets
+1,542,290
+
+611,307
+
+Property and equipment, net
+12,670
+
+8,381
+
+Restricted cash
+2,795
+
+295
+
+Right-of-use assets
+5,619
+
+8,271
+
+Other assets
+521
+
+301
+
+Total assets
+$
+1,563,895
+
+$
+628,555
+
+Liabilities and Stockholders' Equity
+Current liabilities:
+Accounts payable and accrued liabilities
+$
+69,524
+
+$
+34,341
+
+Accrued compensation
+3,663
+
+14,335
+
+Lease liabilities, current portion
+3,844
+
+3,639
+
+Deferred revenue, current portion
+20,987
+
+28,365
+
+Total current liabilities
+98,018
+
+80,680
+
+Lease liabilities, net of current portion
+2,957
+
+6,213
+
+Deferred revenue, net of current portion
+37,961
+
+40,898
+
+Total liabilities
+138,936
+
+127,791
+
+Commitments and contingencies (Note 7)
+Stockholders’ equity:
+Common stock, $
+0.0001
+ par value; authorized shares – 
+400,000
+; issued and outstanding shares – 
+119,893
+ and 
+79,275
+ at December 31, 2024 and 2023, respectively
+12
+
+8
+
+Additional paid-in capital
+2,315,111
+
+1,071,395
+
+Accumulated other comprehensive income
+2,902
+
+125
+
+Accumulated deficit
+(
+893,066
+)
+(
+570,764
+)
+Total stockholders’ equity
+1,424,959
+
+500,764
+
+Total liabilities and stockholders’ equity
+$
+1,563,895
+
+$
+628,555
+
+See accompanying notes.
+F-4
+Table of Contents
+Avidity Biosciences, Inc.
+Consolidated Statements of Operations and Comprehensive Loss
+(in thousands, except per share data)
+Year Ended December 31,
+2024
+2023
+2022
+Collaboration revenue
+$
+10,897
+
+$
+9,560
+
+$
+9,224
+
+Operating expenses:
+Research and development
+303,593
+
+190,968
+
+150,404
+
+General and administrative
+86,240
+
+54,190
+
+37,733
+
+Total operating expenses
+389,833
+
+245,158
+
+188,137
+
+Loss from operations
+(
+378,936
+)
+(
+235,598
+)
+(
+178,913
+)
+Other income (expense):
+Interest income
+56,882
+
+23,972
+
+4,975
+
+Other expense
+(
+248
+)
+(
+594
+)
+(
+57
+)
+Total other income
+56,634
+
+23,378
+
+4,918
+
+Net loss
+$
+(
+322,302
+)
+$
+(
+212,220
+)
+$
+(
+173,995
+)
+Net loss per share, basic and diluted
+$
+(
+2.89
+)
+$
+(
+2.91
+)
+$
+(
+3.34
+)
+Weighted-average shares outstanding, basic and diluted
+111,582
+73,012
+52,162
+Other comprehensive income (loss):
+Net unrealized gains (losses) on marketable securities
+2,777
+
+2,823
+
+(
+2,511
+)
+Comprehensive loss
+$
+(
+319,525
+)
+$
+(
+209,397
+)
+$
+(
+176,506
+)
+See accompanying notes.
+F-5
+Table of Contents
+Avidity Biosciences, Inc.
+Consolidated Statements of Stockholders’ Equity
+(in thousands)
+Common Stock
+Additional
+Paid-in
+Capital
+Accumulated
+Other
+Comprehensive Income
+(Loss)
+Accumulated 
+Deficit
+Total
+Stockholders’
+Equity
+Shares
+Amount
+Balance at December 31, 2021
+47,754
+$
+5
+
+$
+566,161
+
+$
+(
+187
+)
+$
+(
+184,549
+)
+$
+381,430
+
+Issuance of common stock in public offerings, net of issuance costs of $
+18,230
+21,572
+2
+
+344,614
+
+— 
+— 
+344,616
+
+Issuance of common stock upon exercise of stock options
+351
+— 
+470
+
+— 
+— 
+470
+
+Issuance of common stock under employee stock purchase plan
+91
+— 
+922
+
+— 
+— 
+922
+
+Vesting of early exercise options
+—
+— 
+4
+
+— 
+— 
+4
+
+Stock-based compensation
+—
+— 
+27,139
+
+— 
+— 
+27,139
+
+Net loss
+—
+— 
+— 
+— 
+(
+173,995
+)
+(
+173,995
+)
+Other comprehensive loss
+—
+— 
+— 
+(
+2,511
+)
+— 
+(
+2,511
+)
+Balance at December 31, 2022
+69,768
+$
+7
+
+$
+939,310
+
+$
+(
+2,698
+)
+$
+(
+358,544
+)
+$
+578,075
+
+Issuance of common stock in a private placement, net of issuance costs of $
+74
+ and allocation to deferred revenues (Note 5)
+5,075
+1
+
+31,189
+
+— 
+— 
+31,190
+
+Issuance of common stock in public offerings, net of issuance costs of $
+1,385
+4,107
+— 
+60,547
+
+— 
+— 
+60,547
+
+Issuance of common stock upon exercise of stock options
+149
+— 
+573
+
+— 
+— 
+573
+
+Issuance of common stock under employee stock purchase plan
+176
+— 
+1,554
+
+— 
+— 
+1,554
+
+Stock-based compensation
+—
+— 
+38,222
+
+— 
+— 
+38,222
+
+Net loss
+—
+— 
+— 
+— 
+(
+212,220
+)
+(
+212,220
+)
+Other comprehensive income
+—
+— 
+— 
+2,823
+
+— 
+2,823
+
+Balance at December 31, 2023
+79,275
+$
+8
+
+$
+1,071,395
+
+$
+125
+
+$
+(
+570,764
+)
+$
+500,764
+
+Issuance of common stock in a private placement, net of issuance costs of $
+12,821
+15,225
+2
+238,386
+—
+—
+238,388
+Issuance of pre-funded warrants in a private placement, net of issuance costs of $
+7,605
+—
+—
+141,395
+—
+—
+141,395
+Issuance of common stock in public offerings, net of issuance costs of $
+49,749
+20,969
+2
+762,159
+—
+—
+762,161
+Issuance of common stock upon exercise of stock options
+3,498
+—
+48,204
+—
+—
+48,204
+Issuance of common stock under employee stock purchase plan
+179
+—
+2,209
+—
+—
+2,209
+Issuance of common stock in connection with vesting of restricted stock units
+747
+—
+—
+—
+—
+—
+Stock-based compensation
+—
+—
+51,363
+—
+—
+51,363
+Net loss
+—
+—
+—
+—
+(
+322,302
+)
+(
+322,302
+)
+Other comprehensive income
+—
+—
+—
+2,777
+—
+2,777
+Balance at December 31, 2024
+119,893
+$
+12
+
+$
+2,315,111
+
+$
+2,902
+
+$
+(
+893,066
+)
+$
+1,424,959
+
+See accompanying notes.
+F-6
+Table of Contents
+Avidity Biosciences, Inc.
+Consolidated Statements of Cash Flows
+(in thousands)
+Year Ended December 31,
+2024
+2023
+2022
+Cash flows from operating activities
+Net loss
+$
+(
+322,302
+)
+$
+(
+212,220
+)
+$
+(
+173,995
+)
+Adjustments to reconcile net loss to net cash used in operating activities:
+Depreciation
+2,776
+
+2,101
+
+1,387
+
+Stock-based compensation expense
+51,363
+
+38,222
+
+27,139
+
+Amortization of premiums and discounts on marketable securities, net
+(
+21,447
+)
+(
+11,274
+)
+(
+615
+)
+Noncash operating lease costs
+3,297
+
+2,978
+
+2,749
+
+Changes in operating assets and liabilities:
+Prepaid and other assets
+(
+25,057
+)
+(
+3,444
+)
+(
+6,616
+)
+Accounts payable and accrued liabilities
+35,183
+
+1,769
+
+18,315
+
+Accrued compensation
+(
+10,672
+)
+3,145
+
+2,250
+
+Operating lease liabilities
+(
+3,696
+)
+(
+3,328
+)
+(
+1,762
+)
+Deferred revenue
+(
+10,315
+)
+62,987
+
+(
+5,120
+)
+Net cash used in operating activities
+(
+300,870
+)
+(
+119,064
+)
+(
+136,268
+)
+Cash flows from investing activities
+Purchases of marketable securities
+(
+1,433,535
+)
+(
+461,002
+)
+(
+355,837
+)
+Maturities of marketable securities
+586,400
+
+335,160
+
+168,705
+
+Purchases of property and equipment
+(
+7,066
+)
+(
+4,228
+)
+(
+2,823
+)
+Net cash used in investing activities
+(
+854,201
+)
+(
+130,070
+)
+(
+189,955
+)
+Cash flows from financing activities
+
+Proceeds from issuance of common stock in public offerings, net of issuance costs
+762,161
+
+60,547
+
+344,779
+
+Proceeds from issuance of common stock in private placements, net of issuance costs and allocation to deferred revenues (Note 5)
+238,388
+
+31,190
+
+—
+
+Proceeds from issuance of pre-funded warrants in a private placement, net of issuance costs
+141,395
+
+—
+
+—
+
+Proceeds from the issuance of common stock under employee incentive equity plans
+50,413
+
+2,127
+
+1,392
+
+Net cash provided by financing activities
+1,192,357
+
+93,864
+
+346,171
+
+Net increase (decrease) in cash, cash equivalents and restricted cash
+37,286
+
+(
+155,270
+)
+19,948
+
+Cash, cash equivalents and restricted cash at beginning of period
+185,377
+
+340,647
+
+320,699
+
+Cash, cash equivalents and restricted cash at end of period
+$
+222,663
+
+$
+185,377
+
+$
+340,647
+
+Supplemental schedule of noncash investing and financing activities:
+
+Right-of-use assets obtained in exchange for operating lease liabilities
+$
+—
+
+$
+1,741
+
+$
+—
+
+Costs incurred, but not paid, in connection with purchases of property and equipment included in accounts payable and accrued liabilities
+$
+3,424
+
+$
+—
+
+$
+233
+
+See accompanying notes.
+F-7
+Table of Contents
+Avidity Biosciences, Inc.
+Notes to Consolidated Financial Statements
+1.    
+Description of Business and Basis of Presentation
+Description of Business
+Avidity Biosciences, Inc. (the Company or Avidity) is a biopharmaceutical company committed to delivering a new class of RNA therapeutics called Antibody Oligonucleotide Conjugates (AOCs). The Company’s proprietary AOC platform is designed to combine the specificity of monoclonal antibodies with the precision of RNA therapeutics to target the root cause of diseases previously untreatable with such therapeutics.
+Liquidity
+Since inception, the Company has relied on various means of raising capital, including public offerings, various sales agreements, the sale and issuance of convertible preferred stock, funding under collaboration agreements, and a private placement of common stock. The Company has devoted substantially all of its resources to organizing and staffing the Company, business planning, raising capital, developing its proprietary AOC platform, identifying potential product candidates, establishing its intellectual property portfolio, conducting research, preclinical studies, advancing its clinical programs and providing other general and administrative support for these operations. In addition, the Company has a limited operating history, has incurred operating losses since inception and expects that it will continue to incur net losses into the foreseeable future as it continues the development of its product candidates and development programs. As of December 31, 2024, the Company had an accumulated deficit of $
+893.1
+ million and cash, cash equivalents, and marketable securities of $
+1.5
+ billion.
+The Company believes that existing cash, cash equivalents and marketable securities will be sufficient to fund the Company’s operations for at least 12 months from the date of the filing of this Form 10-K. The Company plans to finance its future cash needs through equity offerings, debt financings or other capital sources, including potential collaborations, licenses and other similar arrangements. If the Company is not able to secure adequate additional funding, it may be forced to make reductions in spending, extend payment terms with suppliers, liquidate assets where possible, and/or delay or reduce the scope of its planned development programs. Any of these actions could materially harm the Company’s business, results of operations, and future prospects.
+Basis of Presentation
+The accompanying consolidated financial statements have been prepared in accordance with U.S. generally accepted accounting principles (GAAP) and the rules and regulations of the Securities and Exchange Commission (SEC). The consolidated financial statements reflect all adjustments which, in the opinion of management, are necessary for a fair presentation of the results for the periods presented. All such adjustments are of a normal and recurring nature. The operating results presented in these consolidated financial statements are not necessarily indicative of the results that may be expected for any future periods. Certain prior year amounts have been reclassified to conform to the current year presentation.
+In December 2023, the Company formed Avidity Biosciences Ireland Limited, a wholly-owned subsidiary (the Subsidiary). The accompanying consolidated financial statements reflect the operations of Avidity Biosciences, Inc. and the Subsidiary. Intercompany balances and transactions have been eliminated in consolidation. The activity and balances attributable to the Subsidiary for the year ended December 31, 2024 were immaterial.
+2.    
+Summary of Significant Accounting Policies
+Use of Estimates
+The preparation of consolidated financial statements in accordance with GAAP requires the Company to make estimates and assumptions that impact the reported amounts of assets, liabilities, revenues and expenses and the disclosure of contingent assets and liabilities in the consolidated financial statements and accompanying notes. Although estimates are based on the Company’s knowledge of current events and actions 
+F-8
+Table of Contents
+it may undertake in the future, actual results may ultimately materially differ from these estimates and assumptions.
+Cash, Cash Equivalents and Restricted Cash
+The Company considers all highly liquid investments with original maturities of 90 days or less from the date of purchase to be cash equivalents. Cash and cash equivalents include cash in readily available checking and money market accounts. Restricted cash represents cash held as collateral for the letters of credit required under the Company’s facility lease and is reported as a long-term asset in the accompanying consolidated balance sheets. Cash and cash equivalents are considered Level 1 investments.
+Marketable Securities
+The Company’s marketable securities primarily consist of U.S. Government debt securities. The Company classifies its marketable securities as available-for-sale and records such assets at estimated fair value in the consolidated balance sheets, with unrealized gains and losses, if any, reported as a component of other comprehensive income (loss) within the consolidated statements of operations and comprehensive loss and as a separate component of stockholders’ equity. The Company classifies marketable securities with remaining maturities greater than one year as current assets because such marketable securities are available to fund the Company’s current operations. Realized gains and losses are calculated on the specific identification method and recorded as interest income. There were 
+no
+ realized gains and losses recognized during the periods presented.
+At each balance sheet date, the Company assesses available-for-sale debt securities in an unrealized loss position to determine whether the unrealized loss or any potential credit losses should be recognized in net income (loss). For available-for-sale debt securities in an unrealized loss position, the Company first assesses whether it intends to sell, or it is more likely than not that it will be required to sell, the security before recovery of its amortized cost basis. If either of the criteria regarding intent or requirement to sell is met, the security’s amortized cost basis is written down to fair value through net income (loss). For available-for-sale securities that do not meet the aforementioned criteria, the Company evaluates whether the decline in fair value has resulted from credit losses or other factors. In making this assessment, the Company considers the severity of the impairment, any changes in interest rates, underlying credit ratings and forecasted recovery, among other factors. The credit-related portion of unrealized losses, and any subsequent improvements, are recorded as an allowance in interest income. There have been 
+no
+ impairment or credit losses recognized during the periods presented.
+The Company excludes the applicable accrued interest from both the fair value and amortized costs basis of the Company’s available-for-sale securities for purposes of identifying and measuring an impairment. Accrued interest receivable on available-for-sale securities is recorded within 
+prepaid and other assets
+ on the consolidated balance sheets. The Company made an accounting policy election to (1) not measure an allowance for credit loss for accrued interest receivable, and (2) to write-off any uncollectible accrued interest receivable as a reversal of interest income in a timely manner, which the Company considers to be in the period in which it determines the accrued interest will not be collected.
+See Note 4 (Marketable Securities) for further information.
+Concentration of Credit Risk
+Financial instruments that potentially subject the Company to significant concentrations of credit risk consist primarily of cash, cash equivalents and marketable securities. The Company maintains deposits in federally insured financial institutions in excess of federally insured limits. The Company has established guidelines regarding approved investments, credit quality, diversification, liquidity and maturities of investments, which are designed to maintain safety and liquidity. The Company has not experienced any losses in such accounts and believes it is not exposed to significant risk on its cash balances due to the financial position of the depository institutions in which those deposits are held.
+
+Fair Value of Financial Instruments
+Certain assets and liabilities are carried at fair value under GAAP. Fair value is defined as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most 
+F-9
+Table of Contents
+advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date. Valuation techniques used to measure fair value must maximize the use of observable inputs and minimize the use of unobservable inputs. Financial assets and liabilities carried at fair value are to be classified and disclosed in one of the following three levels of the fair value hierarchy, of which the first two are considered observable and the last is considered unobservable:
+•
+Level 1—Quoted prices in active markets for identical assets or liabilities.
+•
+Level 2—Observable inputs, such as quoted prices in active markets for similar assets or liabilities, quoted prices in markets that are not active for identical or similar assets or liabilities, or other inputs that are observable or can be corroborated by observable market data.
+•
+Level 3—Unobservable inputs that are supported by little or no market activity and that are significant to determining the fair value of the assets or liabilities, including pricing models, discounted cash flow methodologies and similar techniques.
+The asset’s or liability’s fair value measurement level within the fair value hierarchy is based on the lowest level of any input that is significant to the fair value measurement.
+None of the Company’s non-financial assets are recorded at fair value on a non-recurring basis. The carrying amounts reflected in the Company’s consolidated balance sheets for prepaid and other assets and accounts payable and accrued liabilities approximate their fair values due to their short-term nature. The Company recognizes transfers between levels of the fair value hierarchy on the date of the event or change in circumstances that caused the transfer. There have been 
+no
+ transfers into or out of Level 3 assets during any of the periods presented.
+See Note 3 (Fair Value Measurements) for information on assets measured at fair value.
+Property and Equipment, net
+Property and equipment, including leasehold improvements, are stated at cost less accumulated depreciation and amortization. Depreciation and amortization are recorded using the straight-line method over the estimated useful lives of the related assets, which ranges from 
+three
+ to 
+five years
+. Leasehold improvements are amortized on a straight-line basis over the shorter of the estimated useful lives of the assets or the remaining lease term. Repairs and maintenance charges that do not increase the useful life of the assets are charged to operating expenses as incurred.
+Impairment of Long-Lived Assets
+Long-lived assets are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of the asset or an asset group may not be recoverable. If such triggering event is determined to have occurred, the asset’s or asset group’s carrying value is compared to the future undiscounted cash flows expected to be generated. The Company has 
+no
+t recognized any impairment losses in any of the periods presented in these consolidated financial statements.
+
+Segment Information
+Our operations constitute a single operating and reportable segment, headquartered in the United States. Operating segments are defined as components of an enterprise for which discrete financial information is available and is evaluated regularly by the chief operating decision maker (“CODM”), in deciding how to allocate resources and assess performance. Our CODM is our Chief Executive Officer, who reviews consolidated financial information for the purposes of allocating resources and assessing performance. 
+All of our property and equipment is located within the United States and all of our revenues were derived within the United States.
+See Note 10 (Segment Information) for further information.
+Revenue Recognition
+To date, all the Company’s revenue has been derived from collaboration and research agreements. The terms of these arrangements include the following types of payments to the Company: non-refundable, upfront 
+F-10
+Table of Contents
+license fees; development, regulatory and commercial milestone payments; payments for research and development services provided by the Company or for manufacturing supply services the Company provides through its contract manufacturers; and royalties on net sales of licensed products.
+At the inception of a collaboration arrangement, the Company first assesses whether the contractual arrangement is within the scope of Accounting Standards Codification (ASC) Topic 808, Collaborative Arrangements (ASC 808) to determine whether the arrangement involves a joint operating activity and involves two (or more) parties that are both active participants in the activity and exposed to significant risks and rewards dependent on the commercial success of such activity. Then the Company determines whether the collaboration arrangement in its entirety represents a contract with a customer as defined by ASC Topic 606 (ASC 606). If only a portion of the collaboration arrangement is potentially with a customer, the Company applies the distinct good or service unit-of-account guidance in ASC 606 to determine whether there is a unit of account that should be accounted for under ASC 606.
+The Company performs the following steps in determining the appropriate amount of revenue to be recognized as it fulfills its obligations under each of these agreements: (i) identification of the promised goods or services in the contract; (ii) determination of whether the promised goods or services are performance obligations, including whether they are distinct in the context of the contract; (iii) measurement of the transaction price, including the constraint on variable consideration; (iv) allocation of the transaction price to the performance obligations; and (v) recognition of revenue when, or as, the Company satisfies each performance obligation. The Company applies significant judgment when making estimates and assumptions under these agreements, including (i) evaluating whether contractual obligations represent distinct performance obligations, ii) the assessment of whether options represent material rights, (iii) determining whether there are observable standalone prices and allocating transaction price to performance obligations within a contract, (iv) assessing whether any licenses are functional or symbolic, (v) determining when performance obligations have been met, and (vi) assessing the recognition of variable consideration. The Company evaluates each performance obligation to determine if it can be satisfied and recognized as revenue at a point in time or over time.
+The Company receives payments from its collaborators based on billing schedules established in each contract. Upfront and other payments may require deferral of revenue recognition to a future period until the Company performs its obligations under its research and collaboration arrangements. Amounts are recorded as accounts receivable when the Company’s right to consideration is unconditional.
+License fees, non-refundable upfront fees, and funding of research activities are considered fixed, while milestone payments are identified as variable consideration and excluded from the transaction price. The Company will recognize revenue for sales-based royalty if and when a subsequent sale occurs.
+See Note 5 (Collaboration, License and Research Agreements) for further information. 
+Research and Development Costs and Accruals
+Research and development costs are expensed as incurred and include salaries, benefits and stock-based compensation associated with research and development personnel, third-party research and development expenses, license fees, laboratory supplies, facilities, overhead costs, and consultants. Nonrefundable advance payments for goods and services that will be used in future research and development activities are capitalized and recorded as expense in the period that the Company receives the goods or when services are performed.
+The Company has entered into various research and development contracts with research institutions, clinical research organizations, clinical manufacturing organizations and other companies. Payments for these activities are based on the terms of the individual agreements, which may differ from the pattern of costs incurred, and payments made in advance of performance are reflected in the accompanying consolidated balance sheets as prepaid and other assets or accrued liabilities. The Company records accruals for estimated costs incurred for ongoing research and development activities. When evaluating the adequacy of these accrued liabilities, the Company analyzes progress of the services, including the phase or completion of events, invoices received, and contracted costs. Significant judgments and estimates may be made in determining the prepaid or accrued balances at the end of any reporting period. Actual results could differ from the Company’s estimates. 
+Upfront and milestone payments to acquire contractual rights to licensed technology are expensed when incurred if there is uncertainty in the Company receiving future economic benefit from the acquired 
+F-11
+Table of Contents
+contractual rights. Certain of these contractual rights may require the Company to make additional milestone payments upon initiation of a pivotal trial and the U.S. Food and Drug Administration approval.
+Patent Costs 
+Costs related to filing and pursuing patent applications are recorded as general and administrative expense and expensed as incurred since recoverability of such expenditures is uncertain.
+
+Income Taxes
+Income taxes are accounted for using the asset and liability method. The Company recognizes deferred tax assets and liabilities for the expected future tax consequences of events that have been included in the consolidated financial statements or tax returns. Deferred tax assets and liabilities are determined based on the differences between the consolidated financial statements and tax basis of assets and liabilities using enacted tax rates in effect for the year in which the differences are expected to reverse. Valuation allowances are provided, if based upon the weight of available evidence, it is more likely than not that some or all of the deferred tax assets will not be realized. The effect of a change in tax rates on deferred tax assets and liabilities is recognized in income in the period that includes the enactment date.
+When uncertain tax positions exist, the Company recognizes the tax benefit of tax positions to the extent that the benefit would more likely than not be realized assuming examination by the taxing authority. The determination as to whether the tax benefit will more likely than not be realized is based upon the technical merits of the tax position as well as consideration of the available facts and circumstances.
+The Company is subject to taxation in the United States and various state jurisdictions. As of December 31, 2024, the Company’s tax years since conversion to a corporation in 2019 are subject to examination by taxing authorities.
+Leases
+The Company determines if an arrangement is a lease at inception. Lease right-of-use assets represent Company's right to use an underlying asset for the lease term and lease liabilities represent Company's obligation to make lease payments arising from the lease. Operating lease right-of-use assets and liabilities are recognized at commencement date based on the present value of lease payments over the lease term. The interest rate used to determine the present value of the future lease payments is our incremental borrowing rate, because the interest rate implicit in most of our leases is not readily determinable. The incremental borrowing rate is estimated to approximate the interest rate on a collateralized basis with similar terms and payments, and in similar economic environments. The operating lease right-of-use asset also includes any lease payments made and excludes lease incentives. The lease terms may include options to extend or terminate the lease when it is reasonably certain that we will exercise that option. Lease expense for lease payments is recognized on a straight-line basis over the lease term. Variable lease payments that do not depend on a rate or index, payments associated with non-lease components, and costs related to leases with terms of less than 12 months are expensed as incurred.
+Warrants
+The Company accounts for warrants as equity-classified instruments based on an assessment of the warrant’s specific terms and applicable authoritative guidance in ASC 480, Distinguishing Liabilities from Equity (ASC 480) and ASC 815, Derivatives and Hedging (ASC 815). The assessment considers whether the warrants are freestanding financial instruments pursuant to ASC 480, meet the definition of a liability pursuant to ASC 480, and whether the warrants meet all of the requirements for equity classification under ASC 815, including whether the warrants are indexed to the Company’s own common stock and whether the warrant holders could potentially require “net cash settlement” in a circumstance outside of the Company’s control, among other conditions for equity classification. This assessment, which requires the use of professional judgment, is conducted at the time of warrant issuance and as of each subsequent quarterly period end date while the warrants are outstanding.
+For warrants that meet all criteria for equity classification, the warrants are required to be recorded as additional paid-in capital in the consolidated balance sheets at the time of issuance. Equity-classified warrants are measured at their estimated fair value on the issuance date.
+F-12
+Table of Contents
+Stock-Based Compensation
+Stock-based compensation expense is incurred related to stock option and restricted stock grants, and to shares sold under the Employee Stock Purchase Plan (ESPP).
+Stock-based compensation expense for stock option grants is determined using the Black-Scholes-Merton (BSM) option pricing model and is recorded at the estimated fair value of the award as of the grant date and recognized as expense on a straight-line basis over the requisite service period (usually the vesting period) of the stock-based award. Stock-based compensation expense for Restricted Stock Units (RSUs) is recorded at the market price of a share of the Company's stock on the date of grant and is recognized as expense on a straight-line basis over the service period. Stock-based compensation expense for Performance Stock Units (PSUs) is recorded at the market price of a share of the Company's stock on the date of grant and recognized on a straight-line basis over the requisite service periods beginning when the achievement of the performance condition is determined to be probable. Stock-based compensation expense for employee stock purchases under the Company’s ESPP is determined using the BSM option pricing model and is recorded at the estimated fair value of the purchase as of the plan enrollment date and is recognized as expense on a straight-line basis over the applicable 
+six-month
+ ESPP offering period. The estimation of fair value for stock-based compensation requires management to make estimates and judgments about, among other things, the estimated life of options and volatility of the Company’s common stock. These judgments directly affect the amount of compensation expense that will be recognized. Forfeitures are accounted for as incurred.
+Comprehensive Loss
+Comprehensive loss is defined as the change in equity during a period from transactions and other events and circumstances from non-owner sources, including cumulative translation adjustments and unrealized gains and losses on marketable securities. Comprehensive gains (losses) have been reflected in the consolidated statements of operation and comprehensive loss for all periods presented.
+Net Loss Per Share
+Basic net loss per share is computed by dividing the net loss by the weighted-average number of common shares outstanding for the period, adjusted for the weighted-average number of common shares outstanding that are subject to repurchase or forfeiture. Diluted net loss per share is computed by dividing the net loss by the weighted-average number of common shares and dilutive common stock equivalents outstanding for the period determined using the treasury-stock and if-converted methods. For all periods presented, there is no difference in the number of shares used to calculate basic and diluted shares outstanding as inclusion of the common stock equivalent securities would be anti-dilutive. The pre-funded common stock warrants are included in the calculation of basic and diluted net loss per share as the exercise price of $
+0.001
+ per share is not substantive and the shares are issuable for little or no consideration.
+Common stock equivalent securities not included in the calculation of diluted net loss per share, because to do so would be anti-dilutive, are as follows (in common stock equivalent shares; in thousands):
+December 31,
+2024
+2023
+2022
+Common stock options issued and outstanding
+12,635
+
+12,495
+
+9,352
+
+Restricted stock units
+2,111
+
+758
+
+—
+
+Performance stock units
+925
+
+750
+
+—
+
+ESPP shares pending issuance
+12
+
+12
+
+5
+
+Total
+15,683
+
+14,015
+
+9,357
+
+Recently Issued Accounting Pronouncements
+In December 2023, the Financial Accounting Standards Board (FASB) issued Accounting Standard Update (ASU) 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures, which enhances income tax disclosures, primarily through standardization and disaggregation of the income tax rate reconciliation and disaggregation of income taxes paid. ASU 2023-09 is effective for annual periods beginning after December 15, 2024. ASU 2023-09 can be applied either prospectively or retrospectively and early 
+F-13
+Table of Contents
+adoption is permitted. The Company is currently evaluating the impact that this guidance will have on the presentation of its consolidated financial statements and accompanying notes.
+In November 2024, the FASB issued ASU 2024-03, Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures (Subtopic 220-40), which requires that public business entities disclose additional information about specific expense captions in the notes to financial statements at interim and annual reporting periods. The amendment in the update does not change or remove current expense disclosures, rather, it requires enhanced disaggregated disclosures of specific expense captions and affects where that information is presented within the notes to the financial statements. ASU 2024-03 is effective for annual periods beginning after December 15, 2026, and interim reporting periods beginning after December 15, 2027. ASU 2024-03 can be applied either prospectively or retrospectively and early adoption is permitted. The Company is currently evaluating the impact that this guidance will have on the presentation of its consolidated financial statements and accompanying notes.
+Recently Adopted Accounting Pronouncements
+In November 2023, the FASB issued ASU 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures, which modifies the disclosure and presentation requirements of reportable segments. The amendments in the update require the disclosure of significant segment expenses that are regularly provided to the CODM and included within each reported measure of segment profit and loss. The amendments also require disclosure of all other segment items by reportable segment and a description of its composition. Additionally, the amendments require disclosure of the title and position of the CODM and an explanation of how the CODM uses the reported measure(s) of segment profit or loss in assessing segment performance and deciding how to allocate resources. Lastly, the amendment requires that a public entity that has a single reportable segment provide all the disclosures required by ASU 2023-07 and all existing segment disclosures in Topic 280. This update is effective for annual periods beginning after December 15, 2023, and interim periods within fiscal years beginning after December 15, 2024. ASU 2023-07 is applied retrospectively, and early adoption is permitted. The Company adopted ASU 2023-07 in the year ended December 31, 2024.
+
+3.    
+Fair Value Measurements
+The following tables summarize the Company’s cash equivalents and marketable securities measured at fair value (in thousands):
+Fair Value Measurements Using
+As of December 31, 2024
+Total
+Quoted Prices in
+Active Markets
+for Identical
+Assets (Level 1)
+Significant
+Other
+Observable
+Inputs (Level 2)
+Significant
+Unobservable
+Inputs
+(Level 3)
+Cash equivalents:
+U.S. Treasury securities
+$
+7,439
+
+$
+7,439
+
+$
+—
+
+$
+—
+
+Marketable securities:
+U.S. Treasury securities
+1,281,139
+
+1,281,139
+
+—
+
+—
+
+Negotiable certificates of deposit
+490
+
+—
+
+490
+
+—
+
+Total
+$
+1,289,068
+
+$
+1,288,578
+
+$
+490
+
+$
+—
+
+Fair Value Measurements Using
+As of December 31, 2023
+Total
+Quoted Prices in
+Active Markets
+for Identical
+Assets (Level 1)
+Significant
+Other
+Observable
+Inputs (Level 2)
+Significant
+Unobservable
+Inputs
+(Level 3)
+Marketable securities:
+U.S. Treasury securities
+$
+399,890
+
+$
+399,890
+
+$
+—
+
+$
+—
+
+U.S. Government agency securities
+4,998
+
+—
+
+4,998
+
+—
+
+Negotiable certificates of deposit
+5,381
+
+—
+
+5,381
+
+—
+
+Total
+$
+410,269
+
+$
+399,890
+
+$
+10,379
+
+$
+—
+
+F-14
+Table of Contents
+4.    
+Marketable Securities
+The Company’s marketable securities, which consist of highly liquid marketable debt securities, are classified as available-for-sale and are stated at fair value. The following tables summarize the Company’s marketable securities (in thousands):
+As of December 31, 2024
+Maturity
+(in years)
+Amortized
+Cost
+Unrealized
+Gains
+Unrealized
+Losses
+Estimated
+Fair Value
+U.S. Treasury securities
+1 or less
+$
+947,916
+
+$
+2,154
+
+$
+(
+80
+)
+$
+949,990
+
+Negotiable certificates of deposit
+1 or less
+490
+
+—
+
+—
+
+490
+
+U.S. Treasury securities
+1 - 2
+330,321
+
+1,218
+
+(
+390
+)
+331,149
+
+Total
+$
+1,278,727
+
+$
+3,372
+
+$
+(
+470
+)
+$
+1,281,629
+
+As of December 31, 2023
+Maturity
+(in years)
+Amortized
+Cost
+Unrealized
+Gains
+Unrealized
+Losses
+Estimated
+Fair Value
+U.S. Treasury securities
+1 or less
+$
+301,053
+
+$
+102
+
+$
+(
+530
+)
+$
+300,625
+
+U.S. Government agency securities
+1 or less
+5,000
+
+—
+
+(
+2
+)
+4,998
+
+Negotiable certificates of deposit
+1 or less
+4,410
+
+1
+
+(
+4
+)
+4,407
+
+U.S. Treasury securities
+1 - 2
+98,701
+
+600
+
+(
+36
+)
+99,265
+
+Negotiable certificates of deposit
+1 - 2
+980
+
+—
+
+(
+6
+)
+974
+
+Total
+$
+410,144
+
+$
+703
+
+$
+(
+578
+)
+$
+410,269
+
+The unrealized losses on the Company’s marketable securities were caused by interest rate increases and resulted in the decrease in market value of these securities. There were 
+no
+ allowances for credit losses at December 31, 2024 and 2023 because (i) the decline in fair value is attributable to changes in interest rates and not credit quality, (ii) the Company does not intend to sell the investments before maturity, and (iii) it is not more likely than not that the Company will be required to sell the investments before recovery of their amortized cost bases.
+
+The following table summarizes marketable securities in a continuous unrealized loss position for which an allowance for credit losses was not recorded (in thousands):
+Less Than 12 Months
+12 Months or Greater
+Total
+As of December 31, 2024
+Fair Value
+Unrealized Losses
+Fair Value
+Unrealized Losses
+Fair Value
+Unrealized Losses
+U.S. Treasury securities
+$
+247,404
+
+$
+(
+470
+)
+$
+—
+
+$
+—
+
+$
+247,404
+
+$
+(
+470
+)
+Total
+$
+247,404
+
+$
+(
+470
+)
+$
+—
+
+$
+—
+
+$
+247,404
+
+$
+(
+470
+)
+Less Than 12 Months
+12 Months or Greater
+Total
+As of December 31, 2023
+Fair Value
+Unrealized Losses
+Fair Value
+Unrealized Losses
+Fair Value
+Unrealized Losses
+U.S. Treasury securities
+$
+214,291
+
+$
+(
+566
+)
+$
+—
+
+$
+—
+
+$
+214,291
+
+$
+(
+566
+)
+U.S. Government agency securities
+4,998
+
+(
+2
+)
+—
+
+—
+
+4,998
+
+(
+2
+)
+Negotiable certificates of deposit
+3,665
+
+(
+10
+)
+—
+
+—
+
+3,665
+
+(
+10
+)
+Total
+$
+222,954
+
+$
+(
+578
+)
+$
+—
+
+$
+—
+
+$
+222,954
+
+$
+(
+578
+)
+Accrued interest receivable on available-for-sale securities was $
+8.7
+ million and $
+2.6
+ million at December 31, 2024 and 2023, respectively. We have 
+not
+ written off any accrued interest receivable in any of the periods presented in these consolidated financial statements.
+F-15
+Table of Contents
+5.    
+Collaboration, License and Research Agreements
+Research Collaboration and License Agreement and Securities Purchase Agreement with Bristol Myers Squibb Company
+In November 2023, the Company entered into (i) a Research Collaboration and License Agreement (the BMS Collaboration Agreement) with Bristol Myers Squibb Company (BMS) to expand on the research with MyoKardia Inc. (MyoKardia) and (ii) a Securities Purchase Agreement (the BMS Purchase Agreement) with BMS for the sale of 
+5,075,304
+ shares of the Company's common stock in a private placement transaction. The BMS Collaboration Agreement and the BMS Purchase Agreement are referred to herein as the "BMS Agreements." Under the terms of the BMS Collaboration Agreement, BMS will have the right to select up to five cardiovascular targets (each a “Target”) for collaborative research programs under which the Company will utilize its proprietary AOC platform to conduct research and development activities in order to identify, generate, and optimize AOC compounds directed to such Targets with the goal of generating an applicable development candidate. On a Target-by-Target basis, after the Company completes specified research activities in accordance with a research plan, BMS will have the right to develop, manufacture and commercialize such compounds generated during the research term, and products containing such compounds, worldwide. The research and activities conducted under the BMS Collaboration Agreement is governed by a joint steering committee comprised of representatives from the Company and BMS. Avidity received approximately $
+100
+ million upfront, including a $
+60
+ million nonrefundable cash payment and approximately $
+40
+ million from the sale of Avidity common stock at $
+7.8813
+ per share, which included an $
+8.7
+ million premium for the per share amount in excess of the fair value at the time of the transaction. Avidity is also eligible to receive up to approximately $
+1.35
+ billion in research and development milestone payments, up to approximately $
+825
+ million in commercial milestone payments, and tiered royalties from high single digits up to low double-digits on net sales. Avidity is responsible for its own research costs incurred under the agreement, subject to a cumulative spending cap of $
+40
+ million. BMS will fund all future clinical development, regulatory and commercialization activities coming from this collaboration.
+We have determined that the BMS Agreements should be accounted for separately from the research collaboration with MyoKardia (the MyoKardia Agreement). We identified two distinct units of accounting under the BMS Agreements. The first distinct unit of accounting includes (i) a license to technology and patents; (ii) collaboration services, including research services and technical and regulatory support; and (iii) participation on research oversight committees. The Company has determined that these elements individually are either not capable of being distinct or are not distinct within the context of the contract and, therefore, will account for them as a single distinct performance obligation for purposes of revenue recognition. The second distinct unit of accounting is related to the sale of common stock, which will be accounted for as an issuance of equity at fair value in accordance with the applicable accounting standards. Consideration received related to the premium on sale of the Company's common stock was allocated to the transaction price for purposes of revenue recognition. 
+At the time the BMS Agreements were entered into, the fixed and determinable amount related to the first unit of accounting was $
+68.7
+ million, which includes the upfront cash payment and premium on sale of the Company's common stock. The Company will recognize revenue using the input method 
+in an amount proportional to the collaboration expenses incurred and the total estimated collaboration expenses 
+over the 
+seven-year
+ period in which it expects to deliver its performance obligation as this method provides the most faithful depiction of the Company's transfer of services under the BMS Agreements. The Company periodically reviews and updates the estimated collaboration expenses, when appropriate, which adjusts the percentage of revenue that is recognized for the period.
+ The remaining 
+$
+31.3
+ million was allocated to the second unit of accounting related to the sale of common stock (Note 8).
+The initial consideration related to the $
+60
+ million cash payment and approximate $
+40
+ million sale of common stock was received prior to December 31, 2023. 
+$
+9.8
+ million in
+ revenues were recognized related to the BMS Agreements in 
+2024.
+
+No
+ revenues were recognized related to the BMS Agreements in 
+2023.
+Research Collaboration and License Agreement with Eli Lilly and Company
+In April 2019, the Company entered into a Research Collaboration and License Agreement (the Lilly Agreement) with Eli Lilly and Company (Lilly) for the discovery, development and commercialization of AOC products directed against certain targets in immunology and other select indications on a worldwide basis. Under the Lilly Agreement, the Company granted Lilly an exclusive, worldwide, royalty-bearing license, with the right to sublicense (subject to certain conditions), under the Company’s technology to research, develop, 
+F-16
+Table of Contents
+manufacture and sell products containing AOCs that are directed to up to 
+six
+ mRNA targets. The Company retains the right to use its technology to perform its obligations under the Lilly Agreement and for all purposes not granted to Lilly. The Company agreed that it will not, itself or with a third party, research, develop, manufacture or commercialize or otherwise exploit any compound or product directed against targets subject to the Lilly Agreement.
+In consideration of the rights granted to Lilly under the Lilly Agreement, the Company received a one-time upfront fee of $
+20.0
+ million and is eligible to receive up to $
+60.0
+ million in development milestone payments, up to $
+140.0
+ million in regulatory milestone payments and up to $
+205.0
+ million in commercialization milestone payments per target. In addition, Lilly is obligated to reimburse the Company for research expenses, as defined in and incurred under the Lilly Agreement. Lilly is obligated to pay the Company a tiered royalty ranging from the mid-single to low-double digits on worldwide annual net sales of licensed products, subject to specified and capped reductions for the market entry of biosimilar products, loss of patent coverage of licensed products, and for payments owed to third parties for additional rights necessary to commercialize licensed products in the territory. Lilly’s royalty obligations and the Lilly Agreement will expire on a licensed product-by-licensed product and country-by-country basis on the later of 
+ten years
+ from the date of the first commercial sale or when there is no longer a valid patent claim covering such licensed product in such country.
+The Company has identified multiple promises to deliver goods and services, which include at inception of the agreement: (i) a license to technology and patents, information and know-how; and (ii) collaboration, including research services and technical and regulatory support provided by the Company. At inception, the Company has identified 
+one
+ performance obligation for the promises under the Lilly Agreement since the elements are either not capable of being distinct or are not distinct within the context of the contract. Accordingly, the Company recognizes revenue for the fixed or determinable collaboration 
+in an amount proportional to the collaboration expenses incurred and the total estimated collaboration expenses 
+over the 
+5-year
+ period in which it expects to deliver its performance obligation. The Company periodically reviews and updates the estimated collaboration expenses, when appropriate, which adjusts the percentage of revenue that is recognized for the period.
+ In
+ connection with the Lilly Agreement, the Company recognized revenue of $
+1.1
+ million, $
+9.5
+ million, and $
+9.0
+ million for the years ended December 31, 2024, 2023, and 2022, respectively. There were 
+no
+ collaboration receivables related to the Lilly Agreement as of December 31, 2024. Collaboration receivables were $
+0.8
+ million related to the Lilly Agreement as of December 31, 2023, which are included in prepaid and other assets on the consolidated balance sheets.
+Research Agreement with MyoKardia, Inc.
+In December 2020, the Company entered into a Research Collaboration (the MyoKardia Agreement) with MyoKardia, a wholly-owned subsidiary of BMS, to demonstrate the potential utility of AOCs in cardiac tissue by leveraging MyoKardia’s genetic cardiomyopathy platform including, among other aspects, its novel target discovery engine and proprietary cardiac disease models. In connection with the MyoKardia Agreement, the Company recognized an immaterial amount of revenue in each of the periods presented. Under the terms of the MyoKardia Agreement, in July 2023, BMS as the successor in interest to MyoKardia, exercised its option to negotiate and enter into a License Agreement covering AOCs that modulate the function of cardiovascular targets. The Research Collaboration with MyoKardia was terminated in November 2023 upon execution of the Research Collaboration and License Agreement with BMS.
+The amounts received that have not yet been recognized as revenue are deferred on the Company’s consolidated balance sheet and will be recognized over the remaining research and development period until the performance obligation is satisfied. 
+A reconciliation of the closing balance of deferred revenue related to all collaboration agreements for the years ended December 31, 2024 and 2023 is as follows (in thousands):
+Revenue recognized that was included in the balance at the beginning of the period
+$
+(
+4,933
+)
+Balance at December 31, 2022
+6,175
+
+Unearned revenue from cash received during the period
+68,736
+
+Revenue recognized that was included in the balance at the beginning of the period
+(
+5,648
+)
+Balance at December 31, 2023
+69,263
+
+Revenue recognized that was included in the balance at the beginning of the period
+(
+10,315
+)
+Balance at December 31, 2024
+$
+58,948
+
+F-17
+Table of Contents
+6.    
+Composition of Certain Consolidated Financial Statement Items
+Prepaid and other assets (in thousands)
+December 31,
+2024
+2023
+Accounts receivable
+$
+—
+
+$
+1,105
+
+Prepaid assets
+12,571
+7,333
+
+Interest receivable and other assets
+28,222
+7,518
+
+Total prepaid and other assets
+$
+40,793
+
+$
+15,956
+
+Property and equipment, net (in thousands)
+December 31,
+2024
+2023
+Laboratory equipment
+$
+14,180
+
+$
+11,208
+
+Computers and software
+261
+
+127
+
+Office furniture and equipment
+1,979
+
+1,979
+
+Leasehold improvements
+288
+
+288
+
+Construction in process
+3,959
+
+—
+
+Property and equipment, gross
+20,667
+
+13,602
+
+Less accumulated depreciation and amortization
+(
+7,997
+)
+(
+5,221
+)
+Total property and equipment, net
+$
+12,670
+
+$
+8,381
+
+Depreciation and amortization expense related to property and equipment was $
+2.8
+ million, $
+2.1
+ million, and $
+1.4
+ million for the years ended December 31, 2024, 2023, and 2022, respectively.
+Accounts payable and accrued liabilities (in thousands)
+December 31,
+2024
+2023
+Accounts payable
+$
+8,461
+
+$
+8,809
+
+Accrued non-clinical liabilities
+17,226
+
+4,054
+
+Accrued manufacturing and technical development
+35,680
+
+15,481
+
+Accrued clinical liabilities
+8,157
+
+5,997
+
+Total accounts payable and accrued liabilities
+$
+69,524
+
+$
+34,341
+
+7.    
+Commitments and Contingencies
+Lease Agreements
+The Company determines if an arrangement is a finance lease, operating lease or short-term lease at inception. During the periods presented, the Company was party to various non-cancellable office and laboratory space operating leases and short-term leases. Short-term leases are not subject to recognition of a right-of-use (ROU) asset or liability or straight-line lease expense requirements.
+F-18
+Table of Contents
+As of December 31, 2024, the Company’s ROU assets and liabilities related to the operating lease for the Company headquarters are as follows (in thousands):
+ROU assets
+$
+5,619
+
+Lease liabilities, current portion
+$
+3,844
+
+Lease liabilities, net of current portion
+2,957
+
+Total lease liabilities
+$
+6,801
+
+As of December 31, 2024, maturities of the lease liabilities due under the operating lease are as follows (in thousands):
+Year ending December 31,
+2025
+$
+3,854
+
+2026
+3,639
+
+Total lease payments
+7,493
+
+Less imputed interest
+(
+692
+)
+Total operating lease liabilities
+6,801
+
+Less lease liabilities, current portion
+(
+3,844
+)
+Lease liabilities, net of current portion
+$
+2,957
+
+Other information related to leases was as follows (in thousands):
+Year Ended December 31,
+2024
+2023
+2022
+Cash paid included in operating cash flows
+$
+3,696
+$
+3,328
+$
+1,762
+Weighted-average remaining lease term (in years)
+1.9
+2.9
+3.9
+Weighted-average discount rate
+5.9
+
+%
+5.9
+
+%
+5.5
+
+%
+Lease cost was $
+3.3
+ million, $
+3.0
+ million and $
+2.7
+ million for the years ended December 31, 2024, 2023, and 2022, respectively. Short-term and variable lease costs were immaterial for all periods presented.
+In April 2024, the Company entered into a sublease agreement with Turning Point Therapeutics, Inc. to rent 
+105,000
+ square feet for office and laboratory space for the Company’s future corporate headquarters. The term of the sublease is approximately 9 years, 9 months with payments expected to begin in August 2025. Pursuant to the terms of the sublease agreement, the sublandlord will provide the Company with a tenant improvement allowance of up to $
+33.6
+ million. An additional tenant improvement allowance of up to $
+5.0
+ million is also available to be repaid in equal installments through monthly rent payments, subject to 
+8
+% interest per annum and annual increases of 
+3
+% per annum. The Company also has an option and a right of first refusal for an additional 
+80,000
+ square feet in an adjacent available building, which has not been exercised. Total aggregate future lease commitments under the sublease agreement are approximately $
+72.6
+ million, excluding the option and refusal for the adjacent available building, and inclusive of a 
+3
+% annual rent increases and various agreed upon rent abatement amounts. The sublease will be measured and recognized upon commencement of the sublease. As of December 31, 2024, the sublease had not commenced because construction of improvements to bring the facility to its intended use was not substantially complete. 
+In connection with the sublease agreement, the Company is required to maintain a letter of credit for the benefit of the sublandlord in the amount of $
+2.5
+ million, which was delivered in April 2024 and is included in restricted cash in the Company’s consolidated balance sheets.
+F-19
+Table of Contents
+Litigation
+Liabilities for loss contingencies arising from claims, assessments, litigation, fines, penalties and other sources are recorded when it is probable that a liability has been incurred and the amount can be reasonably estimated. There are 
+no
+ such matters currently outstanding for which any liabilities have been accrued.
+Contractual Obligations
+The Company enters into contracts in the normal course of business for contract research services, contract manufacturing services, professional services, and other services and products for operating purposes. These contracts may include certain provisions that could require payments for early termination. The amount of any such termination payments will vary depending on the timing of the termination and the specific terms of the contract. Further, the Company has entered into various contracts to acquire contractual rights to licensed technology, some of which may require the Company to make additional milestone payments upon initiation of a pivotal trial and U.S. Food and Drug Administration approval.
+ 8.    
+Stockholders’ Equity
+Amended and Restated Certificate of Incorporation
+On June 16, 2020, the Company’s certificate of incorporation was amended and restated to authorize 
+400,000,000
+ shares of common stock and 
+40,000,000
+ shares of undesignated preferred stock, each with a par value of $
+0.0001
+ per share. There was 
+no
+ preferred stock outstanding as of December 31, 2024, 2023, or 2022. 
+Common Stock
+On November 8, 2022, we entered into a sales agreement (the 2022 Sales Agreement) with the Cowen and Company, LLC (the Sales Agent), under which we could, from time to time, sell shares of our common stock having an aggregate offering price of up to $
+200.0
+ million through the Sales Agent. Sales of the shares of common stock were made at prevailing market prices at the time of sale, or as otherwise agreed with the Sales Agent. During the years ended December 31, 2024 and 2023, we sold 
+418,408
+ and 
+4,107,810
+ shares of its common stock, respectively, pursuant to the Sales Agreement and received net proceeds of $
+5.6
+ million and $
+60.5
+ million, respectively, after deducting offering-related transaction costs and commissions of $
+0.1
+ million and $
+1.4
+ million, respectively.
+On November 27, 2023, we sold 
+5,075,304
+ unregistered shares of our common stock to BMS in a private placement under the terms of the BMS Purchase Agreement. The approximate proceeds related to the sale were $
+40.0
+ million of which $
+31.2
+ million was recorded as common stock and additional paid in capital, net of issuance costs of $
+0.1
+ million, and $
+8.7
+ million was recorded as deferred revenue (Note 5). 
+On March 4, 2024, we sold 
+15,224,773
+ unregistered shares of our common stock and pre-funded warrants in lieu of common stock to purchase up to an aggregate of 
+9,030,851
+ shares of our common stock to investors in a private placement at an offering price of $
+16.50
+ per share and $
+16.499
+ per pre-funded warrant, which represents the offering price per share of common stock less an exercise price of $
+0.001
+ per share. We valued the common stock at the offering price, concluding that the offering price approximated fair value. The net proceeds from the private placement were $
+379.8
+ million after deducting placement fees and offering costs of $
+20.4
+ million. The resale of the shares, including the shares issuable upon exercise of the pre-funded warrants, were subsequently registered on a Registration Statement on Form S-3 filed with the SEC on April 2, 2024, which became automatically effective upon its filing. 
+The pre-funded warrants are a freestanding instrument that do not meet the definition of a liability pursuant to ASC 480 and do not meet the definition of a derivative pursuant to ASC 815. We valued the pre-funded warrants at the offering price, concluding that the offering price approximated fair value. The pre-funded warrants meet the equity classification criteria and were accounted for as a component of additional paid-in capital. The pre-funded warrants are immediately exercisable and do not expire. 
+One of the investors who participated in the private placement met the criteria of a related party as such investor was a principal owner of more than 10% of the voting interest in the Company (the Principal Owner). The Principal Owner purchased 
+2,121,213
+ shares of the Company's common stock for $
+35.0
+ million. The purchase of common stock under the private placement by the Principal Owner was carried out at arm's length as substantiated by the fact that the per share purchase price equaled the price paid by other participants. No amounts were due from the Principal Owner as of December 31, 2024. 
+F-20
+Table of Contents
+On June 17, 2024, we completed a public offering of 
+12,132,500
+ shares of our common stock at a public offering price of $
+38.00
+ per share. Net proceeds from the offering were approximately $
+432.8
+ million, after deducting underwriting discounts and offering expenses of $
+28.3
+ million. The shares sold in the offering were registered pursuant to the Company's shelf registration statement on Form S-3, which became automatically effective upon its filing on May 9, 2024.
+On August 9, 2024, we entered into a sales agreement (the 2024 Sales Agreement) with TD Securities (USA) LLC (the 2024 Sales Agent) which contained substantially similar terms as the 2022 Sales Agreement. The 2022 Sales Agreement was terminated upon effectiveness of the 2024 Sales Agreement. Under the 2024 Sales Agreement, we may, from time to time, sell shares of our common stock having an aggregate offering price of up to $
+400.0
+ million through the 2024 Sales Agent. Sales of the shares of common stock, if any, will be made at prevailing market prices at the time of sale, or as otherwise agreed with the 2024 Sales Agent. We are not obligated to sell, and the 2024 Sales Agent is not obligated to buy or sell, any shares of common stock under the 2024 Sales Agreement. As of December 31, 2024, we had sold 
+no
+ shares of our common stock under the 2024 Sales Agreement.
+On August 16, 2024, we completed a public offering of 
+8,418,000
+ shares of our common stock at a public offering price of $
+41.00
+ per share. Net proceeds from the offering were approximately $
+323.7
+ million, after deducting underwriting discounts and offering expenses of $
+21.4
+ million. The shares sold in the offering were registered pursuant to the Company's shelf registration statement on Form S-3, which became automatically effective upon its filing on May 9, 2024.
+Equity Incentive Plans
+The Company's board of directors adopted, and the company's shareholders approved, the 2013 Equity Incentive Plan (the 2013 Plan) and the 2020 Incentive Award Plan (the 2020 Plan). Under the plans, the Company may grant stock options, restricted stock, dividend equivalents, restricted stock units, stock appreciation rights, and other stock or cash-based awards to individuals who are then employees, officers, non-employee directors or consultants of the Company. The Company ceased granting awards under the 2013 Plan in June 2020 upon adopting the 2020 Plan.
+A total of 
+3,900,000
+ shares of common stock were initially reserved for issuance under the 2020 Plan. The number of shares of common stock available for issuance under the 2020 Plan will be increased annually on the first day of each fiscal year during the term of the 2020 Plan, beginning with the 2021 fiscal year, by an amount equal to the lesser of (a) 
+5
+% of the shares of common stock outstanding on the final day of the immediately preceding calendar year or (b) such smaller number of shares as determined by the Company’s board of directors. At December 31, 2024, 
+1,591,462
+ shares were available for grant under the 2020 Plan, inclusive of 
+3,963,742
+ additional shares which were reserved for issuance during the year ended December 31, 2024.
+In December 2022, the Company’s board of directors adopted the 2022 Employment Inducement Incentive Award Plan, which it amended in June 2024 (the Inducement Plan). Under the Inducement Plan, the Company may grant non-qualified stock options, restricted stock, restricted stock units, stock appreciation rights, and other stock or cash-based awards to an employee in connection with his or her commencement of employment with the Company or an affiliate. A total of 
+4,500,000
+ shares of common stock were reserved for issuance under the Inducement Plan. At December 31, 2024, 
+697,350
+ shares were available for grant under the Inducement Plan, inclusive of 
+3,000,000
+ additional shares which were reserved for issuance during the year ended December 31, 2024.
+Stock Options
+Options granted from the 2013 Plan, 2020 Plan, and the Inducement Plan are exercisable at various dates and will expire no more than 
+ten years
+ from their date of grant. Options generally vest over a 
+four-year
+ period. Prior to the IPO, the exercise price of options was determined by the Company’s board of directors. Following the IPO, the Company grants options with an exercise price equal to the fair market value of the Company’s stock on the date of the option grant. 
+F-21
+Table of Contents
+Stock option activity in 2024 for employee and non-employee awards and related information is as follows (in thousands, except per share and contractual term data):
+Number of Outstanding Options
+Weighted-
+Average
+Exercise
+Price Per
+Share
+Weighted-
+Average
+Remaining
+Contractual
+Term
+(in years)
+Aggregate
+Intrinsic
+Value
+Balance at December 31, 2023
+12,495
+$
+14.91
+
+Granted
+4,162
+27.06
+
+Exercised
+(
+3,498
+)
+13.78
+
+Forfeited/expired
+(
+524
+)
+15.70
+
+Balance at December 31, 2024
+12,635
+$
+19.19
+
+7.88
+$
+149,957
+
+Vested and expected to vest at December 31, 2024
+12,635
+$
+19.19
+
+7.88
+$
+149,957
+
+Exercisable at December 31, 2024
+5,772
+$
+15.32
+
+6.89
+$
+79,900
+
+The aggregate intrinsic values presented in the table above were calculated as the difference between the closing price of the Company’s common stock at December 31, 2024 and the exercise price of stock options that had strike prices below the closing price. 
+The following summarizes additional information regarding stock options (in thousands, except per share data):
+Year Ended December 31,
+2024
+2023
+2022
+Cash received from options exercised
+$
+48,207
+
+$
+573
+
+$
+470
+
+Intrinsic value of options exercised
+$
+83,422
+
+$
+2,421
+
+$
+6,724
+
+Weighted-average grant date fair value per share
+$
+19.26
+
+$
+10.33
+
+$
+11.11
+
+The total intrinsic values of options exercised was calculated as the difference between the fair value of the Company’s common stock at the time of the option exercise and the exercise price of that stock option.
+Restricted Stock Units and Performance Stock Units
+During the year ended December 31, 2024, under the 2020 Incentive Award Plan and the 2022 Employment Inducement Incentive Award Plan, the Company granted Restricted Stock Units (RSUs) and Performance Stock Units (PSUs) to employees of the Company. PSUs were granted to the Company's officers.
+RSUs and PSUs are valued at the market price of a share of the Company’s stock on the date of grant. RSUs vest ratably on an annual basis over a service period and are payable in shares of common stock on the vesting date. Compensation expense for RSUs is recognized on a straight-line basis over the service period. Compensation expense for PSUs is recognized on a straight-line basis over the requisite service periods when the achievement of the performance condition is determined to be probable, using management's best estimate. If a performance condition is not determined to be probable or is not met, no stock-based compensation 
+F-22
+Table of Contents
+expense is recognized, and any previously recognized expense is reversed. Forfeitures are recorded in the period in which they occur.
+The following table summarizes the RSU activity for the year ended December 31, 2024 (in thousands, except per share data):
+Number of Shares
+Weighted-Average Grant Date Fair Value
+Balance at December 31, 2023
+758
+
+$
+18.73
+
+Granted
+1,711
+
+25.51
+
+Vested
+(
+184
+)
+18.79
+
+Forfeited
+(
+174
+)
+14.82
+
+Balance at December 31, 2024
+2,111
+
+$
+24.54
+
+During the years ended December 31, 2024 and 2023, stock-based compensation expense of $
+7.0
+ million and $
+0.9
+ million was recognized, respectively. There was 
+no
+ stock-based compensation expense recognized for the year ended December 31, 2022. During the year ended December 31, 2024, 
+184,293
+ RSUs vested with a total fair value of $
+3.5
+ million. During the years ended December 31, 2023 and 2022, 
+no
+ RSUs vested.
+The following table summarizes the PSU activity for the year ended December 31, 2024 (in thousands, except per share data):
+Number of Shares
+Weighted-Average Grant Date Fair Value
+Balance at December 31, 2023
+750
+
+$
+6.57
+
+Granted
+738
+
+43.22
+
+Vested
+(
+563
+)
+6.57
+
+Forfeited
+—
+
+—
+
+Balance at December 31, 2024
+925
+
+$
+35.80
+
+During the year ended December 31, 2024, the performance conditions related to 
+750,000
+ units of outstanding PSUs were met or deemed probable resulting in (1) the vesting of 
+562,500
+ shares, (2) the expected vesting of 
+187,500
+ shares in March 2025, and (3) the recognition of  $
+4.8
+ million in stock-based compensation expense. No stock-based compensation expense has been recognized for the remaining 
+738,000
+ outstanding PSUs as the performance conditions were not deemed probable. The total fair value of PSU shares vested during the year ended December 31, 2024 was $
+22.1
+ million. During the years ended December 31, 2023 and 2022, 
+no
+ PSUs vested and 
+no
+ stock-based compensation expense was recognized. 
+Employee Stock Purchase Plan
+In June 2020, the Company adopted the ESPP, which permits participants to contribute up to 
+15
+% of their eligible compensation during defined rolling 
+six-month
+ offering periods to purchase the Company’s common stock. The purchase price of the shares will be 
+85
+% of the lower of the fair market value of the Company’s common stock on the first day of trading of the offering period or on the applicable purchase date. The Company issued 
+179,150
+, 
+175,511
+, and 
+90,535
+ shares of common stock under the ESPP during the years ended December 31, 2024, 2023, and 2022, respectively. The Company had an outstanding liability of $
+0.3
+ million at December 31, 2024, which is included in accounts payable and accrued liabilities on the consolidated balance sheet, for employee contributions to the ESPP for shares pending issuance at the end of the current offering period. As of December 31, 2024, 
+193,367
+ shares of common stock were available for issuance under the ESPP.
+F-23
+Table of Contents
+Stock-Based Compensation Expense
+The assumptions used in the Black-Scholes model to determine the fair value of stock option grants and shares purchasable under the ESPP were as follows:
+Options
+ESPP
+Year Ended December 31,
+Year Ended December 31,
+2024
+2023
+2022
+2024
+2023
+2022
+Risk-free interest rate
+3.5
+% - 
+4.7
+%
+3.5
+% - 
+4.9
+%
+1.5
+% - 
+4.2
+%
+4.3
+% - 
+5.4
+%
+5.4
+%
+2.2
+% - 
+4.7
+%
+Expected volatility
+79
+% - 
+82
+%
+78
+% - 
+82
+%
+85
+%
+64
+% - 
+82
+%
+68
+% - 
+76
+%
+78
+% - 
+79
+%
+Expected term (in years)
+5.3
+ - 
+6.1
+5.5
+ - 
+6.1
+5.5
+ - 
+6.1
+0.5
+0.5
+0.5
+Expected dividend yield
+—
+%
+—
+%
+—
+%
+—
+%
+—
+%
+—
+%
+Risk-Free Interest Rate.
+ The Company bases the risk-free interest rate assumption for equity awards on the rates for U.S. Treasury zero-coupon bonds with maturities similar to those of the expected term of the award being valued.
+
+Expected Volatility.
+ The expected volatility of stock options is estimated based on the average historical volatilities of common stock of comparable publicly traded companies and the Company's own volatility. The comparable companies are chosen based on their size and stage in the life cycle. The Company will continue to apply this process until a sufficient amount of historical information regarding the volatility of its own stock price becomes available. Prior to 2023, the Company exclusively used peer group companies to determine expected volatility. The expected volatility for employee stock purchases under the ESPP is based on the Company's own historical volatility for the prior six months to conform with the 
+six-month
+ ESPP offering period.
+Expected Term.
+ The Company's limited option exercise history does not provide a reasonable basis for estimating expected term, therefore the Company has estimated the expected life of its stock options using the simplified method, whereby the expected life equals the average of the vesting term and the original contractual term of the option. The expected life assumption for employee stock purchases under the ESPP is six months to conform with the 
+six-month
+ ESPP offering period.
+Expected Dividend Yield.
+ The Company’s expected dividend yield assumption is 
+zero
+ as it has never paid dividends and has no present intention to do so in the future.
+The allocation of stock-based compensation expense was as follows (in thousands):
+Year Ended December 31,
+2024
+2023
+2022
+Research and development expense
+$
+26,120
+
+$
+22,007
+
+$
+15,222
+
+General and administrative expense
+25,243
+
+16,215
+
+11,917
+
+Total stock-based compensation expense
+$
+51,363
+
+$
+38,222
+
+$
+27,139
+
+As of December 31, 2024, the unrecognized compensation cost related to outstanding time-based options and RSUs was $
+102.5
+ million and $
+45.2
+ million, respectively, which is expected to be recognized over a weighted-average period of 
+2.7
+ years and 
+3.2
+ years, respectively. Unrecognized compensation cost related to PSUs was $
+32.1
+ million as of December 31, 2024 for which $
+0.2
+ million is deemed probable and is expected to be recognized over a weighted-average period of 
+0.2
+ years. As of December 31, 2024, the unrecognized compensation cost related to stock purchase rights under the ESPP was $
+0.9
+ million, which is expected to be recognized over a weighted-average period of 
+0.5
+ years.
+F-24
+Table of Contents
+9.    
+Income Taxes
+The Company operated as a nontaxable partnership until its conversion on March 31, 2019. The Company had deferred tax assets in existence on March 31, 2019 when the Company became a taxable entity. Deferred tax assets were not recognized due to the uncertainty that such assets will be realized. The Company retained the valuation allowance on the deferred tax assets at December 31, 2019.
+No
+ provision for income taxes was recorded for the years ended December 31, 2024, 2023, and 2022. 
+A reconciliation of the federal statutory income tax rate and the Company’s effective income tax rate is as follows (in thousands):
+Year Ended December 31,
+2024
+2023
+2022
+Income tax expense (benefit) at statutory rates
+$
+(
+67,683
+)
+$
+(
+44,566
+)
+$
+(
+36,539
+)
+State income tax, net of federal benefit
+(
+8,170
+)
+(
+5,882
+)
+(
+11,821
+)
+Permanent items
+66
+
+51
+
+1
+
+Reserve for uncertain tax positions
+10,572
+
+5,993
+
+2,583
+
+Research and development tax credits
+(
+42,279
+)
+(
+24,054
+)
+(
+9,983
+)
+Valuation allowance
+98,813
+
+61,332
+
+54,093
+
+Stock-based compensation
+(
+15,264
+)
+3,331
+
+492
+
+Section 162(m) disallowance
+20,604
+
+291
+
+1,077
+
+Rate adjustment
+2,766
+
+2,526
+
+(
+5
+)
+Other
+575
+
+978
+
+102
+
+Income tax expense (benefit)
+$
+—
+
+$
+—
+
+$
+—
+
+Significant components of the Company’s deferred tax assets as of December 31, 2024, and 2023 are shown below (in thousands):
+December 31,
+2024
+2023
+Deferred tax assets:
+Net operating loss carryforwards
+$
+83,371
+
+$
+72,658
+
+Section 174 R&E capitalization
+103,288
+
+52,085
+
+Research and development tax credits
+62,793
+
+31,053
+
+Deferred revenue
+12,529
+
+125
+
+Accrued expenses
+287
+
+2,809
+
+Intangibles and fixed assets
+698
+
+1,265
+
+Lease liabilities
+1,446
+
+2,342
+
+Stock-based compensation
+8,418
+
+12,451
+
+Total deferred tax assets
+272,830
+
+174,788
+
+Less valuation allowance
+(
+271,636
+)
+(
+172,822
+)
+Net deferred tax assets
+1,194
+
+1,966
+
+Deferred tax liabilities:
+Right-of-use assets
+(
+1,194
+)
+(
+1,966
+)
+Total deferred tax liabilities
+(
+1,194
+)
+(
+1,966
+)
+Net deferred tax assets
+$
+—
+
+$
+—
+
+The Company has established a valuation allowance against its net deferred tax assets due to the uncertainty that such assets will be realized. The Company periodically evaluates the recoverability of the deferred tax assets. At such time as it is determined that it is more likely than not that the deferred tax assets 
+F-25
+Table of Contents
+will be realizable, the valuation allowance will be released. The change in the valuation allowance was an increase of $
+98.8
+ million and $
+61.3
+ million for the years ended December 31, 2024 and 2023, respectively.
+At December 31, 2024, the Company had federal and state net operating loss (NOL) carryforwards of $
+249.4
+ million and $
+439.3
+ million, respectively. The federal NOL carryforwards will carryforward indefinitely and can offset 80% of future taxable income each year, and the state NOLs begin to expire in 2039 unless previously utilized.
+At December 31, 2024, the Company had federal and state research and development tax credits of approximately $
+13.3
+ million and $
+15.8
+ million, respectively. The federal research and development tax credits begin to expire in 2039 unless previously utilized, and the California state credits carry forward indefinitely. At December 31, 2024, the Company had federal orphan drug tax credits of $
+58.0
+ million, which begin to expire in 2041. 
+Pursuant to Section 382 and Section 383 of the Internal Revenue Code of 1986, as amended (the "Code"), the Company’s ability to use NOL and R&D tax credit carryforwards (“tax attribute carryforwards”) to offset future taxable income may be limited if the Company experienced a cumulative change in ownership by certain stockholders or groups of stockholders of more than 50 percentage points within a three-year testing period. The Company determined there was one ownership change through December 31, 2023. Limitations as a result of these ownership changes did not impact the Company’s deferred tax assets. Due to the existence of a valuation allowance, impacts to the Company’s deferred tax assets would not impact the Company’s effective tax rate. 
+The following table summarizes the activity related to the Company’s gross unrecognized tax benefits for the years ended December 31, 2024, 2023 and 2022 (in thousands):
+Year Ended December 31,
+2024
+2023
+2022
+Gross unrecognized tax benefits at the beginning of the year
+$
+11,049
+
+$
+4,771
+
+$
+1,996
+
+Increases related to current year positions
+11,110
+
+6,156
+
+2,614
+
+Increases related to prior year positions
+—
+
+122
+
+161
+
+Gross unrecognized tax benefits at the end of the year
+$
+22,159
+
+$
+11,049
+
+$
+4,771
+
+The unrecognized tax benefit amounts are reflected in the determination of the Company’s deferred tax assets. If recognized, 
+none
+ of these amounts would affect the Company’s effective tax rate, since it would be offset by a corresponding adjustment to the deferred tax asset valuation allowance. The Company does not foresee material changes to its liability for uncertain tax benefits within the next twelve months.
+The Company’s policy is to recognize interest and/or penalties related to income tax matters in income tax expense. The Company had 
+no
+ accrual for interest or penalties as of December 31, 2024 or 2023. 
+As of December 31, 2024, the Company’s tax years since conversion to a corporation in 2019 are subject to examination by U.S. federal and various state taxing authorities.
+F-26
+Table of Contents
+10.    
+Segment Information
+Our operations constitute a single operating and reportable segment. Factors considered in determining operating and reportable segments include the organization of our business, the nature of our technology and the information reviewed by our CODM. Operating segments are defined as components of an enterprise for which discrete financial information is available and is evaluated regularly by the CODM, in deciding how to allocate resources and assess performance. Our CODM is our Chief Executive Officer. Our revenues are derived from our research collaboration and license agreements, which are further described in “Note 5 – Collaboration, License and Research Agreements”. The CODM utilizes consolidated net loss in assessing performance and allocating resources by comparing net loss against prior periods and the Company’s forecast. The measure of segment assets is reported on the consolidated balance sheets as total consolidated assets.
+The following table presents financial information, including significant segment expenses, which are regularly provided to the CODM and included within consolidated net loss (in thousands):
+Year Ended December 31,
+2024
+2023
+2022
+Collaboration revenue
+$
+10,897
+
+$
+9,560
+
+$
+9,224
+
+Operating expenses, excluding stock-based compensation and depreciation
+Research and development
+(
+275,176
+)
+(
+167,299
+)
+(
+134,184
+)
+General and administrative
+(
+60,518
+)
+(
+37,536
+)
+(
+25,427
+)
+Total operating expenses, excluding stock-based compensation and depreciation
+(
+335,694
+)
+(
+204,835
+)
+(
+159,611
+)
+Stock-based compensation
+(
+51,363
+)
+(
+38,222
+)
+(
+27,139
+)
+Depreciation
+(
+2,776
+)
+(
+2,101
+)
+(
+1,387
+)
+Total operating expenses
+(
+389,833
+)
+(
+245,158
+)
+(
+188,137
+)
+Other income
+56,634
+
+23,378
+
+4,918
+
+Net loss
+$
+(
+322,302
+)
+$
+(
+212,220
+)
+$
+(
+173,995
+)
+The following table presents the measure of segment assets regularly provided to the CODM (in thousands):
+December 31,
+2024
+2023
+Cash, cash equivalents and marketable securities
+$
+1,501,497
+
+$
+595,351
+
+F-27
+Table of Contents
+EXHIBIT INDEX
+Exhibit
+Number
+Exhibit Description
+Incorporated by Reference
+Field
+Herewith
+Form
+Date
+Number
+3.1
+Amended and Restated Certificate of Incorporation. 
+8-K
+6/16/2020
+3.1
+3.2
+Amended and Restated Bylaws.
+
+8-K
+12/13/2023
+3.1
+4.1
+Form of Common Stock Certificate.
+
+S-1
+5/22/2020
+4.1
+4.2
+Description of Registrant's Securities
+10-K
+3/15/2021
+4.3
+4.3
+F
+orm of Pre-Funded Warrant
+8-K
+2/29/2024
+4.1
+10.1#
+Avidity Biosciences, Inc. 2013 Amended and Restated Equity Incentive Plan, including form of stock option grant notice and stock option agreement thereunder.
+S-1
+5/22/2020
+10.1
+10.2#
+Avidity Biosciences, Inc. 2020 Incentive Award Plan, including forms of grant notices and agreements thereunder.
+10-K
+2/28/2024
+10.2
+10.3#
+Avidity Biosciences, Inc. 2020 Employee Stock Purchase Plan.
+
+S-1/A
+6/8/2020
+10.3
+10.4#
+Amended and Restated 
+Non-Employee Director Compensation Program.
+10-Q
+5/9/2024
+10.1
+10.5#
+Avidity Biosciences, Inc. 2022 Employment Inducement Incentive Award Plan, including form of stock option grant notice and stock option agreement and form of restricted stock unit grant notice and restricted stock unit agreement thereunder.
+10-K
+2/28/2023
+10.5
+10.6#
+Amendment to Avidity Biosciences, Inc. 2022 Employment Inducement Incentive 
+Award Plan.
+8-K
+6/12/2024
+10.1
+10.7#
+Amended and Restated Employment Agreement, dated August 26, 2024, by and between 
+the Registrant
+ and Sarah Boyce.
+10-Q
+11/7/2024
+10.2
+10.8#
+Amended and Restated Employment Agreement, dated August 26, 2024, by and between 
+the R
+egistrant
+ and Michael MacLean.
+10-Q
+11/7/2024
+10.3
+10.9#
+Amended and Restated Employment Agreement, dated August 26, 2024, by and between 
+the Registrant
+ and W. Michael Flanagan.
+10-Q
+11/7/2024
+10.4
+102
+Table of Contents
+10.10#
+Amended and Restated Employment Agreement, dated August 26, 2024, by and between 
+the Registrant
+ and Teresa McCarthy.
+10-Q
+11/7/2024
+10.5
+10.11#
+Amended and Restated Employment Agreement, dated August 26, 2024, by and between 
+the Registrant
+ and John B. Moriarty, Jr.
+10-Q
+11/7/2024
+10.6
+10.12#
+Amended and Restated Employment Agreement, dated
+ August 26, 2024
+, by and between 
+the 
+Registrant
+ and 
+Steve
+n
+ Hughes
+.
+X
+10.13#
+Amended and Restated Employment Agreement, dated 
+August 
+29
+, 2024
+, by and between 
+the Registrant
+ and 
+Kath
+leen
+ Gallagher.
+X
+10.14#
+Amended and Restated Employment Agreement, dated 
+August 26, 2024
+, by and between 
+the Registrant
+ and 
+Eric Mosbrooker.
+X
+10.15#
+Offer of Employment and 
+Employment Agreemen
+t
+, dated 
+December 12, 2024
+, by and between 
+t
+he Registrant
+. and 
+Ch
+arles
+ Calderaro
+ III
+.
+X
+10.16#
+Form of Indemnification Agreement for Directors and Officers.
+
+S-1
+5/22/2020
+10.11
+10.17†
+Research Collaboration and License Agreement, dated April 17, 2019, by and between Eli Lilly and Company and the Registrant.
+S-1
+5/22/2020
+10.12
+10.18†
+Research Collaboration and License Agreement, dated November 27, 2023, by and between Bristol-Myers Squibb Company and the Registrant.
+10-K
+2/28/2024
+10.13
+10.19
+Amended and Restated Lease Agreement, dated December 18, 2020, by and between ARE-SD Region No. 44, LLC and the Registrant.
+10-K
+3/15/2021
+10.14
+10.20
+S
+ublease Agreement, dated April 29, 2024, by and between Turning Point Therapeutics, Inc. and 
+the Registrant.
+X
+10.21
+Sales Agreement, dated August 9, 2024, by and between Avidity Biosciences, Inc. and TD Securities (USA) LLC
+10-Q
+8/9/2024
+10.2
+103
+Table of Contents
+19.1
+Amended and Restated 
+I
+nsider Trading Compliance Policy and Procedures
+X
+21.1
+Subsidiaries of the Registrant.
+10-K
+2/28/2024
+21.1
+23.1
+Consent of BDO USA, P.C., independent registered public accounting firm.
+X
+31.1
+Certification of Chief Executive Officer of Avidity Biosciences, Inc., as required by Rule 13a-14(a) or Rule 15d-14(a) under the Securities Exchange Act of 1934, as amended.
+
+X
+31.2
+Certification of Chief Financial Officer of Avidity Biosciences, Inc., as required by Rule 13a-14(a) or Rule 15d-14(a) under the Securities Exchange Act of 1934, as amended.
+
+X
+32.1*
+Certification of Chief Executive Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+X
+32.2*
+Certification of Chief Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+X
+97.1
+Avidity Biosciences, Inc. Policy for Recovery of Erroneously Awarded Compensation.
+10-K
+2/28/2024
+97.1
+101.INS
+Inline XBRL Instance Document – the instance document does not appear in the Interactive Data File because XBRL tags are embedded within the Inline XBRL document.
+X
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document
+X
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document
+X
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document
+X
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document
+X
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+X
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+X
+#    Indicates management contract or compensatory plan. 
+104
+Table of Contents
+†    Pursuant to Item 601(b)(10) of Regulation S-K, certain confidential portions of this exhibit have been omitted by means of marking such portions with asterisks as the identified confidential portions (i) are not material and (ii) would be competitively harmful if publicly disclosed.
+*    These certifications are being furnished solely to accompany this annual report pursuant to 18 U.S.C. Section 1350, and are not being filed for purposes of Section 18 of the Securities Exchange Act of 1934 and are not to be incorporated by reference into any filing of the Registrant, whether made before or after the date hereof, regardless of any general incorporation language in such filing. 
+105
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this annual report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+AVIDITY BIOSCIENCES, INC.
+/s/ Sarah Boyce
+Sarah Boyce
+President and Chief Executive Officer
+Date: February 27, 2025
+106
+Table of Contents
+Pursuant to the requirements of the Securities Exchange Act of 1934, this annual report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.
+Signature
+Title
+Date
+/s/ Sarah Boyce
+President, Chief Executive Officer and
+February 27, 2025
+Sarah Boyce
+Director (Principal Executive Officer)
+/s/ Michael F. MacLean
+Chief Financial Officer
+February 27, 2025
+Michael F. MacLean
+(Principal Financial and Accounting Officer)
+/s/ Troy Wilson
+Chair of the Board of Directors
+February 27, 2025
+Troy Wilson, Ph.D., J.D.
+/s/ Carsten Boess
+Director
+February 27, 2025
+Carsten Boess
+/s/ Noreen Henig
+Director
+February 27, 2025
+Noreen Henig, M.D.
+/s/ Edward Kaye
+Director
+February 27, 2025
+Edward Kaye, M.D.
+/s/ Jean Kim
+Director
+February 27, 2025
+Jean Kim
+/s/ Arthur A. Levin
+Director
+February 27, 2025
+Arthur A. Levin, Ph.D.
+/s/ Simona Skerjanec
+Director
+February 27, 2025
+Simona Skerjanec
+/s/ Tamar Thompson
+Director
+February 27, 2025
+Tamar Thompson
+107

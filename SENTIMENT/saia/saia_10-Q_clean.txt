@@ -1,0 +1,3577 @@
+10-Q
+
+--12-31
+false
+Q3
+0001177702
+one day
+http://fasb.org/us-gaap/2025#FinanceLeaseLiabilityNoncurrent
+http://fasb.org/us-gaap/2025#FinanceLeaseLiabilityNoncurrent
+0001177702
+us-gaap:AdditionalPaidInCapitalMember
+2025-07-01
+2025-09-30
+0001177702
+us-gaap:DeferredCompensationShareBasedPaymentsMember
+2024-04-01
+2024-06-30
+0001177702
+us-gaap:AdditionalPaidInCapitalMember
+2025-09-30
+0001177702
+us-gaap:RetainedEarningsMember
+2024-07-01
+2024-09-30
+0001177702
+us-gaap:CommonStockMember
+2024-04-01
+2024-06-30
+0001177702
+us-gaap:RevolvingCreditFacilityMember
+srt:MaximumMember
+2024-12-09
+0001177702
+us-gaap:DeferredCompensationShareBasedPaymentsMember
+2024-01-01
+2024-03-31
+0001177702
+2024-09-30
+0001177702
+saia:PrivateShelfAgreementMember
+2023-11-09
+2023-11-09
+0001177702
+us-gaap:CommonStockMember
+2025-09-30
+0001177702
+us-gaap:DeferredCompensationShareBasedPaymentsMember
+2024-06-30
+0001177702
+us-gaap:CommonStockMember
+2025-07-01
+2025-09-30
+0001177702
+us-gaap:RetainedEarningsMember
+2023-12-31
+0001177702
+2025-04-01
+2025-06-30
+0001177702
+srt:MaximumMember
+2024-12-09
+2024-12-09
+0001177702
+us-gaap:BaseRateMember
+srt:MaximumMember
+2024-12-09
+2024-12-09
+0001177702
+us-gaap:RetainedEarningsMember
+2024-12-31
+0001177702
+us-gaap:DeferredCompensationShareBasedPaymentsMember
+2024-12-31
+0001177702
+2024-03-31
+0001177702
+us-gaap:CommonStockMember
+2025-06-30
+0001177702
+us-gaap:AdditionalPaidInCapitalMember
+2024-09-30
+0001177702
+saia:PrivateShelfAgreementMember
+srt:MaximumMember
+2024-05-01
+2024-05-01
+0001177702
+us-gaap:RetainedEarningsMember
+2024-01-01
+2024-03-31
+0001177702
+us-gaap:PropertyPlantAndEquipmentMember
+2025-01-01
+2025-09-30
+0001177702
+us-gaap:DeferredCompensationShareBasedPaymentsMember
+2024-07-01
+2024-09-30
+0001177702
+us-gaap:RetainedEarningsMember
+2025-09-30
+0001177702
+us-gaap:BaseRateMember
+srt:MinimumMember
+2024-12-09
+2024-12-09
+0001177702
+us-gaap:AdditionalPaidInCapitalMember
+2025-01-01
+2025-03-31
+0001177702
+us-gaap:RetainedEarningsMember
+2024-06-30
+0001177702
+2025-01-01
+2025-09-30
+0001177702
+us-gaap:CommonStockMember
+2025-03-31
+0001177702
+us-gaap:CommonStockMember
+2024-09-30
+0001177702
+us-gaap:AdditionalPaidInCapitalMember
+2025-04-01
+2025-06-30
+0001177702
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-03-31
+0001177702
+us-gaap:RevolvingCreditFacilityMember
+2025-09-30
+0001177702
+saia:ShelfAgreementMember
+2025-09-30
+0001177702
+2025-07-01
+2025-09-30
+0001177702
+2024-07-01
+srt:MaximumMember
+2025-09-30
+0001177702
+2024-04-01
+2024-06-30
+0001177702
+2024-01-01
+2024-09-30
+0001177702
+2025-03-31
+0001177702
+us-gaap:CommonStockMember
+2024-12-31
+0001177702
+2025-10-28
+0001177702
+2024-12-31
+0001177702
+srt:MaximumMember
+2025-01-01
+2025-09-30
+0001177702
+2025-01-01
+2025-03-31
+0001177702
+us-gaap:AdditionalPaidInCapitalMember
+2025-06-30
+0001177702
+2024-01-01
+2024-03-31
+0001177702
+us-gaap:RetainedEarningsMember
+2024-03-31
+0001177702
+us-gaap:CommonStockMember
+2023-12-31
+0001177702
+us-gaap:CommonStockMember
+2024-07-01
+2024-09-30
+0001177702
+us-gaap:AdditionalPaidInCapitalMember
+2024-01-01
+2024-03-31
+0001177702
+us-gaap:PropertyPlantAndEquipmentMember
+srt:MaximumMember
+2025-09-30
+0001177702
+srt:MaximumMember
+saia:SecuredOvernightFinancingRateMember
+2024-12-09
+2024-12-09
+0001177702
+us-gaap:RetainedEarningsMember
+2025-04-01
+2025-06-30
+0001177702
+us-gaap:DeferredCompensationShareBasedPaymentsMember
+2025-01-01
+2025-03-31
+0001177702
+2024-06-30
+0001177702
+2025-09-30
+0001177702
+us-gaap:DeferredCompensationShareBasedPaymentsMember
+2025-03-31
+0001177702
+srt:MinimumMember
+2025-01-01
+2025-09-30
+0001177702
+saia:SecuredOvernightFinancingRateMember
+2024-12-09
+2024-12-09
+0001177702
+us-gaap:RetainedEarningsMember
+2024-09-30
+0001177702
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-31
+0001177702
+us-gaap:AdditionalPaidInCapitalMember
+2024-06-30
+0001177702
+us-gaap:RetainedEarningsMember
+2025-07-01
+2025-09-30
+0001177702
+us-gaap:DeferredCompensationShareBasedPaymentsMember
+2025-09-30
+0001177702
+saia:ShelfAgreementMember
+2024-12-31
+0001177702
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0001177702
+us-gaap:CommonStockMember
+2025-04-01
+2025-06-30
+0001177702
+us-gaap:RetainedEarningsMember
+2025-06-30
+0001177702
+srt:MinimumMember
+2024-12-09
+2024-12-09
+0001177702
+2023-12-31
+0001177702
+us-gaap:RetainedEarningsMember
+2024-04-01
+2024-06-30
+0001177702
+us-gaap:DeferredCompensationShareBasedPaymentsMember
+2025-04-01
+2025-06-30
+0001177702
+us-gaap:RevolvingCreditFacilityMember
+saia:ExistingCreditAgreementMember
+2024-12-31
+0001177702
+srt:MinimumMember
+saia:SecuredOvernightFinancingRateMember
+2024-12-09
+2024-12-09
+0001177702
+us-gaap:AdditionalPaidInCapitalMember
+2024-04-01
+2024-06-30
+0001177702
+us-gaap:AdditionalPaidInCapitalMember
+2024-03-31
+0001177702
+us-gaap:RevolvingCreditFacilityMember
+saia:ExistingCreditAgreementMember
+2025-09-30
+0001177702
+us-gaap:RetainedEarningsMember
+2025-03-31
+0001177702
+us-gaap:DeferredCompensationShareBasedPaymentsMember
+2025-06-30
+0001177702
+2024-07-01
+2024-09-30
+0001177702
+us-gaap:PropertyPlantAndEquipmentMember
+srt:MinimumMember
+2025-09-30
+0001177702
+us-gaap:RevolvingCreditFacilityMember
+2024-12-09
+0001177702
+us-gaap:DeferredCompensationShareBasedPaymentsMember
+2025-07-01
+2025-09-30
+0001177702
+2024-05-01
+0001177702
+us-gaap:DeferredCompensationShareBasedPaymentsMember
+2023-12-31
+0001177702
+us-gaap:CommonStockMember
+2024-01-01
+2024-03-31
+0001177702
+us-gaap:AdditionalPaidInCapitalMember
+2024-07-01
+2024-09-30
+0001177702
+us-gaap:CommonStockMember
+2024-06-30
+0001177702
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-31
+0001177702
+2025-06-30
+0001177702
+us-gaap:RevolvingCreditFacilityMember
+srt:MinimumMember
+2024-12-09
+0001177702
+us-gaap:DeferredCompensationShareBasedPaymentsMember
+2024-09-30
+0001177702
+us-gaap:DeferredCompensationShareBasedPaymentsMember
+2024-03-31
+0001177702
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0001177702
+us-gaap:CommonStockMember
+2024-03-31
+xbrli:pure
+xbrli:shares
+iso4217:USD
+xbrli:shares
+iso4217:USD
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM 
+10-Q
+
+(Mark One)
+
+☒
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+FOR THE QUARTERLY PERIOD ENDED 
+SEPTEMBER 30, 
+2025
+OR
+
+☐
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Commission file number: 
+0-49983
+
+Saia, Inc.
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+48-1229851
+
+(State of incorporation)
+
+(I.R.S. Employer
+
+Identification No.)
+
+11465 Johns Creek Parkway
+, 
+Suite 400
+
+Johns Creek
+, 
+GA
+
+30097
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+(
+770
+) 
+232-5067
+(Registrant’s telephone number, including area code)
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock, par value $.001 per share
+
+SAIA
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    
+Yes
+
+☒
+    No  
+☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).     
+Yes
+
+☒
+    No  
+☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+1
+
+Large accelerated filer
+
+☒
+
+Accelerated filer
+
+☐
+
+Non-accelerated filer
+
+☐
+
+Smaller reporting company
+
+☐
+
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes  
+☐
+    No  
+☒
+There were 
+26,642,641
+ shares of Common Stock outstanding at October 28, 2025.
+
+2
+
+SAIA, INC. AND SUBSIDIARIES
+INDEX
+
+PAGE
+
+PART I. FINANCIAL INFORMATION
+
+ITEM 1:
+
+Financial Statements
+
+3
+
+Condensed Consolidated Balance Sheets as of September 30, 2025 and December 31, 2024
+
+3
+
+Condensed Consolidated Statements of Operations for the quarters and nine months ended September 30, 2025 and 2024
+
+4
+
+Condensed Consolidated Statements of Stockholders’ Equity for
+ the quarters and nine months ended
+ September 30, 2025 and 2024
+
+5
+
+Condensed Consolidated Statements of Cash Flows for the nine months ended September 30, 2025 and 2024
+
+7
+
+Notes to Condensed Consolidated Financial Statements
+
+8
+
+ITEM 2:
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+13
+
+ITEM 3:
+
+Quantitative and Qualitative Disclosures About Market Risk
+
+21
+
+ITEM 4:
+
+Controls and Procedures
+
+22
+
+PART II. OTHER INFORMATION
+
+ITEM 1:
+
+Legal Proceedings
+
+23
+
+ITEM 1A:
+
+Risk Factors
+
+23
+
+ITEM 2:
+
+Unregistered Sales of Equity Securities and Use of Proceeds
+
+23
+
+ITEM 5:
+
+Other Information
+
+24
+
+ITEM 6:
+
+Exhibits
+
+25
+
+Signature
+
+26
+
+2
+
+PART I. FINANCI
+AL INFORMATION
+
+Item 1. Financ
+ial Statements
+Saia, Inc. and Subsidiaries
+Condensed Consolida
+ted Balance Sheets
+(unaudited)
+
+September 30, 2025
+
+December 31, 2024
+
+Assets
+
+(in thousands, except share and per share data)
+
+Current Assets:
+
+Cash and cash equivalents
+
+$
+
+35,500
+
+$
+
+19,473
+
+Accounts receivable, net
+
+365,343
+
+322,991
+
+Prepaid expenses
+
+34,830
+
+35,497
+
+Income tax receivable
+
+48,796
+
+44,107
+
+Other current assets
+
+12,525
+
+13,701
+
+Total current assets
+
+496,994
+
+435,769
+
+Property and Equipment, at cost
+
+4,181,930
+
+3,790,069
+
+Less: accumulated depreciation and amortization
+
+1,368,123
+
+1,233,134
+
+Net property and equipment
+
+2,813,807
+
+2,556,935
+
+Operating Lease Right-of-Use Assets
+
+138,845
+
+126,828
+
+Goodwill and Identifiable Intangibles, net
+
+15,802
+
+16,442
+
+Other Noncurrent Assets
+
+35,512
+
+30,883
+
+Total assets
+
+$
+
+3,500,960
+
+$
+
+3,166,857
+
+Liabilities and Stockholders’ Equity
+
+Current Liabilities:
+
+Accounts payable
+
+$
+
+112,534
+
+$
+
+114,560
+
+Wages, vacation and employees’ benefits
+
+72,318
+
+49,953
+
+Claims and insurance accruals
+
+45,437
+
+43,126
+
+Other current liabilities
+
+37,415
+
+38,036
+
+Current portion of long-term debt
+
+1,199
+
+5,313
+
+Current portion of operating lease liability
+
+27,001
+
+27,372
+
+Total current liabilities
+
+295,904
+
+278,360
+
+Other Liabilities:
+
+Long-term debt, less current portion
+
+218,000
+
+194,981
+
+Operating lease liability, less current portion
+
+102,175
+
+96,798
+
+Deferred income taxes
+
+287,123
+
+219,062
+
+Claims, insurance and other
+
+71,731
+
+66,385
+
+Total other liabilities
+
+679,029
+
+577,226
+
+Commitments and Contingencies (Note 3)
+
+Stockholders’ Equity:
+
+Preferred stock, $
+0.001
+ par value, 
+50,000
+ shares authorized, 
+
+none
+ issued and outstanding
+
+-
+
+-
+
+Common stock, $
+0.001
+ par value, 
+100,000,000
+ shares authorized,
+
+26,642,641
+ and 
+26,598,512
+ shares issued and outstanding at
+     September 30, 2025 and December 31, 2024, respectively
+
+27
+
+27
+
+Additional paid-in-capital
+
+303,268
+
+295,106
+
+Deferred compensation trust, 
+69,573
+ and 
+70,100
+ shares of common 
+     stock at cost at September 30, 2025 and December 31, 2024, respectively
+
+(
+8,904
+
+)
+
+(
+7,981
+
+)
+
+Retained earnings
+
+2,231,636
+
+2,024,119
+
+Total stockholders’ equity
+
+2,526,027
+
+2,311,271
+
+Total liabilities and stockholders’ equity
+
+$
+
+3,500,960
+
+$
+
+3,166,857
+
+See accompanying notes to condensed consolidated financial statements.
+
+3
+
+Saia, Inc. and Subsidiaries
+Condensed Consolidated S
+tatements of Operations
+For the quarters and nine months ended September 30, 2025 and 2024
+(unaudited)
+
+Third Quarter
+
+Nine Months
+
+2025
+
+2024
+
+2025
+
+2024
+
+(in thousands, except per share data)
+
+Operating Revenue
+
+$
+
+839,644
+
+$
+
+842,103
+
+$
+
+2,444,334
+
+$
+
+2,420,122
+
+Operating Expenses:
+
+Salaries, wages and employees' benefits
+
+401,058
+
+398,134
+
+1,181,289
+
+1,112,087
+
+Purchased transportation
+
+59,329
+
+65,584
+
+176,877
+
+179,138
+
+Fuel, operating expenses and supplies
+
+165,727
+
+158,733
+
+494,032
+
+475,935
+
+Operating taxes and licenses
+
+20,867
+
+19,942
+
+63,318
+
+59,401
+
+Claims and insurance
+
+23,614
+
+19,274
+
+67,985
+
+55,565
+
+Depreciation and amortization
+
+64,037
+
+54,656
+
+185,626
+
+156,041
+
+Other operating, net
+
+(
+13,598
+
+)
+
+609
+
+(
+12,970
+
+)
+
+1,279
+
+Total operating expenses
+
+721,034
+
+716,932
+
+2,156,157
+
+2,039,446
+
+Operating Income
+
+118,610
+
+125,171
+
+288,177
+
+380,676
+
+Nonoperating (Income) Expenses:
+
+Interest expense
+
+4,483
+
+2,997
+
+13,510
+
+5,951
+
+Interest income
+
+(
+44
+
+)
+
+(
+45
+
+)
+
+(
+117
+
+)
+
+(
+910
+
+)
+
+Other, net
+
+(
+654
+
+)
+
+(
+460
+
+)
+
+(
+1,170
+
+)
+
+(
+1,574
+
+)
+
+Nonoperating expenses, net
+
+3,785
+
+2,492
+
+12,223
+
+3,467
+
+Income Before Income Taxes
+
+114,825
+
+122,679
+
+275,954
+
+377,209
+
+Income Tax Provision
+
+28,509
+
+29,931
+
+68,437
+
+91,247
+
+Net Income
+
+$
+
+86,316
+
+$
+
+92,748
+
+$
+
+207,517
+
+$
+
+285,962
+
+Weighted average common shares outstanding – basic
+
+26,745
+
+26,695
+
+26,735
+
+26,686
+
+Weighted average common shares outstanding – diluted
+
+26,790
+
+26,789
+
+26,784
+
+26,785
+
+Basic Earnings Per Share
+
+$
+
+3.23
+
+$
+
+3.47
+
+$
+
+7.76
+
+$
+
+10.72
+
+Diluted Earnings Per Share
+
+$
+
+3.22
+
+$
+
+3.46
+
+$
+
+7.75
+
+$
+
+10.68
+
+See accompanying notes to condensed consolidated financial statements.
+
+4
+
+Saia, Inc. and Subsidiaries
+Condensed Consolidated Statements of Stockholders’ Equity
+For the quarters and nine months ended September 30, 2025 and 2024
+(unaudited)
+
+Common Shares
+
+Common Stock
+
+Additional Paid-in Capital
+
+Deferred Compensation Trust
+
+Retained Earnings
+
+Total
+
+(in thousands)
+
+Balance at December 31, 2024
+
+26,599
+
+$
+
+27
+
+$
+
+295,106
+
+$
+
+(
+7,981
+
+)
+
+$
+
+2,024,119
+
+$
+
+2,311,271
+
+Stock compensation, including options and long-term incentives
+
+—
+
+—
+
+4,527
+
+—
+
+—
+
+4,527
+
+Exercise of stock options, less shares withheld for taxes
+
+10
+
+—
+
+2,463
+
+—
+
+—
+
+2,463
+
+Shares issued for long-term incentive awards, net of shares withheld for taxes
+
+25
+
+—
+
+(
+7,644
+
+)
+
+—
+
+—
+
+(
+7,644
+
+)
+
+Purchase of shares by Deferred Compensation Trust
+
+—
+
+—
+
+1,007
+
+(
+1,007
+
+)
+
+—
+
+—
+
+Net income
+
+—
+
+—
+
+—
+
+—
+
+49,810
+
+49,810
+
+Balance at March 31, 2025
+
+26,634
+
+$
+
+27
+
+$
+
+295,459
+
+$
+
+(
+8,988
+
+)
+
+$
+
+2,073,929
+
+$
+
+2,360,427
+
+Stock compensation, including options and long-term incentives
+
+—
+
+—
+
+3,727
+
+—
+
+—
+
+3,727
+
+Director deferred share activity
+
+2
+
+—
+
+1,077
+
+—
+
+—
+
+1,077
+
+Shares issued for long-term incentive awards, net of shares withheld for taxes
+
+—
+
+—
+
+(
+100
+
+)
+
+—
+
+—
+
+(
+100
+
+)
+
+Purchase of shares by Deferred Compensation Trust
+
+—
+
+—
+
+566
+
+(
+566
+
+)
+
+—
+
+—
+
+Sale of shares by Deferred Compensation Trust
+
+—
+
+—
+
+(
+136
+
+)
+
+136
+
+—
+
+—
+
+Net income
+
+—
+
+—
+
+—
+
+—
+
+71,391
+
+71,391
+
+Balance at June 30, 2025
+
+26,636
+
+$
+
+27
+
+$
+
+300,593
+
+$
+
+(
+9,418
+
+)
+
+$
+
+2,145,320
+
+$
+
+2,436,522
+
+Stock compensation, including options and long-term incentives
+
+—
+
+—
+
+3,978
+
+—
+
+—
+
+3,978
+
+Shares issued for long-term incentive awards, net of shares withheld for taxes
+
+7
+
+—
+
+(
+789
+
+)
+
+—
+
+—
+
+(
+789
+
+)
+
+Sale of shares by Deferred Compensation Trust
+
+—
+
+—
+
+(
+514
+
+)
+
+514
+
+—
+
+—
+
+Net income
+
+—
+
+—
+
+—
+
+—
+
+86,316
+
+86,316
+
+Balance at September 30, 2025
+
+26,643
+
+$
+
+27
+
+$
+
+303,268
+
+$
+
+(
+8,904
+
+)
+
+$
+
+2,231,636
+
+$
+
+2,526,027
+
+5
+
+Common Shares
+
+Common Stock
+
+Additional Paid-in Capital
+
+Deferred Compensation Trust
+
+Retained Earnings
+
+Total
+
+(in thousands)
+
+Balance at December 31, 2023
+
+26,549
+
+$
+
+27
+
+$
+
+285,092
+
+$
+
+(
+5,679
+
+)
+
+$
+
+1,662,054
+
+$
+
+1,941,494
+
+Stock compensation, including options and long-term incentives
+
+—
+
+—
+
+2,724
+
+—
+
+—
+
+2,724
+
+Exercise of stock options, less shares withheld for taxes
+
+17
+
+—
+
+1,993
+
+—
+
+—
+
+1,993
+
+Shares issued for long-term incentive awards, net of shares withheld for taxes
+
+22
+
+—
+
+(
+7,968
+
+)
+
+—
+
+—
+
+(
+7,968
+
+)
+
+Purchase of shares by Deferred Compensation Trust
+
+—
+
+—
+
+314
+
+(
+314
+
+)
+
+—
+
+—
+
+Sale of shares by Deferred Compensation Trust
+
+—
+
+—
+
+(
+65
+
+)
+
+65
+
+—
+
+—
+
+Net income
+
+—
+
+—
+
+—
+
+—
+
+90,695
+
+90,695
+
+Balance at March 31, 2024
+
+26,588
+
+$
+
+27
+
+$
+
+282,090
+
+$
+
+(
+5,928
+
+)
+
+$
+
+1,752,749
+
+$
+
+2,028,938
+
+Stock compensation, including options and long-term incentives
+
+—
+
+—
+
+3,207
+
+—
+
+—
+
+3,207
+
+Director deferred share activity
+
+2
+
+—
+
+1,422
+
+—
+
+—
+
+1,422
+
+Purchase of shares by Deferred Compensation Trust
+
+—
+
+—
+
+931
+
+(
+931
+
+)
+
+—
+
+—
+
+Sale of shares by Deferred Compensation Trust
+
+—
+
+—
+
+(
+39
+
+)
+
+39
+
+—
+
+—
+
+Net income
+
+—
+
+—
+
+—
+
+—
+
+102,519
+
+102,519
+
+Balance at June 30, 2024
+
+26,590
+
+$
+
+27
+
+$
+
+287,611
+
+$
+
+(
+6,820
+
+)
+
+$
+
+1,855,268
+
+$
+
+2,136,086
+
+Stock compensation, including options and long-term incentives
+
+—
+
+—
+
+3,463
+
+—
+
+—
+
+3,463
+
+Exercise of stock options less shares withheld for taxes
+
+—
+
+—
+
+40
+
+—
+
+—
+
+40
+
+Shares issued for long-term incentive awards, net of shares withheld for taxes
+
+5
+
+—
+
+(
+852
+
+)
+
+—
+
+—
+
+(
+852
+
+)
+
+Purchase of shares by Deferred Compensation Trust
+
+1,572
+
+(
+1,572
+
+)
+
+Sale of shares by Deferred Compensation Trust
+
+—
+
+—
+
+(
+515
+
+)
+
+515
+
+—
+
+—
+
+Net income
+
+—
+
+—
+
+—
+
+—
+
+92,748
+
+92,748
+
+Balance at September 30, 2024
+
+26,595
+
+$
+
+27
+
+$
+
+291,319
+
+$
+
+(
+7,877
+
+)
+
+$
+
+1,948,016
+
+$
+
+2,231,485
+
+See accompanying notes to condensed consolidated financial statements.
+
+6
+
+Saia, Inc. and Subsidiaries
+Condensed Consolidated Statements of Cash Flows
+For the nine months ended September 30, 2025 and 2024
+(unaudited)
+
+Nine Months
+
+2025
+
+2024
+
+(in thousands)
+
+Operating Activities:
+
+Net income
+
+$
+
+207,517
+
+$
+
+285,962
+
+Noncash items included in net income:
+
+Depreciation and amortization
+
+185,626
+
+156,041
+
+Deferred income taxes
+
+68,061
+
+6,026
+
+Other, net
+
+6,101
+
+16,276
+
+Changes in operating assets and liabilities:
+
+Accounts receivable
+
+(
+48,268
+
+)
+
+(
+63,771
+
+)
+
+Accounts payable
+
+10,482
+
+12,095
+
+Change in other assets and liabilities, net
+
+28,146
+
+6,334
+
+Net cash provided by operating activities
+
+457,665
+
+418,963
+
+Investing Activities:
+
+Acquisition of property and equipment
+
+(
+467,814
+
+)
+
+(
+875,302
+
+)
+
+Proceeds from disposal of property and equipment
+
+21,736
+
+2,079
+
+Other
+
+(
+8,394
+
+)
+
+4,999
+
+Net cash used in investing activities
+
+(
+454,472
+
+)
+
+(
+868,224
+
+)
+
+Financing Activities:
+
+Repayments of revolving credit facility
+
+(
+833,000
+
+)
+
+(
+870,100
+
+)
+
+Borrowings of revolving credit facility
+
+857,000
+
+953,100
+
+Borrowings on private shelf agreement
+
+—
+
+100,000
+
+Proceeds from stock option exercises
+
+2,463
+
+2,033
+
+Shares withheld for taxes
+
+(
+8,534
+
+)
+
+(
+8,820
+
+)
+
+Repayment of finance leases
+
+(
+5,095
+
+)
+
+(
+8,525
+
+)
+
+Other financing activity
+
+—
+
+(
+237
+
+)
+
+Net cash provided by financing activities
+
+12,834
+
+167,451
+
+Net (Decrease) Increase in Cash and Cash Equivalents
+
+16,027
+
+(
+281,810
+
+)
+
+Cash and Cash Equivalents, beginning of period
+
+19,473
+
+296,215
+
+Cash and Cash Equivalents, end of period
+
+$
+
+35,500
+
+$
+
+14,405
+
+See accompanying notes to condensed consolidated financial statements.
+
+7
+
+Saia, Inc. and Subsidiaries
+Notes to Condensed Consolid
+ated Financial Statements
+
+(unaudited)
+
+(1) Summary of Significant Accounting Policies
+Basis of Presentation
+The accompanying unaudited condensed consolidated financial statements include the accounts of Saia, Inc. and its wholly-owned subsidiaries (together, the Company or Saia).  All significant intercompany accounts and transactions have been eliminated in the condensed consolidated financial statements.
+The condensed consolidated financial statements have been prepared by the Company without audit by the independent registered public accounting firm.  In the opinion of management, all normal recurring adjustments necessary for a fair presentation of the condensed consolidated balance sheets, statements of operations, stockholders’ equity and cash flows for the interim periods included herein have been made.  These interim condensed consolidated financial statements of the Company have been prepared in accordance with U.S. generally accepted accounting principles for interim financial information, the instructions to Quarterly Report on Form 10-Q and Rule 10-01 of Regulation S-X.  Certain information and note disclosures normally included in financial statements prepared in accordance with U.S. generally accepted accounting principles have been condensed or omitted from these statements.  The accompanying condensed consolidated financial statements should be read in conjunction with the Company’s Annual Report on Form 10-K for the year ended December 31, 2024. Operating results for the quarter and nine months ended September 30, 2025 are not necessarily indicative of the results of operations that may be expected for the year ended December 31, 2025
+.
+Business
+The Company provides national less-than-truckload (LTL) services through a single integrated organization.  While approximately 
+97
+ percent of its revenue has been derived from transporting LTL shipments across the contiguous United States, the Company also offers customers a wide range of other value-added services, including non-asset truckload, expedited transportation and logistics services across North America.  The Company’s customer base is diversified across numerous industries.
+Revenue Recognition
+The Company’s revenues are derived primarily from the transportation of freight as it satisfies performance obligations that arise from contracts with its customers.  The Company’s performance obligations arise when it receives a bill of lading (BOL) to transport a customer's commodities at negotiated prices contained in either a transportation services agreement or a publicly disclosed tariff rate. Once a BOL is received and accepted, a legally-enforceable contract is formed whereby the parties are committed to perform and the rights of the parties, shipping terms and conditions, and payment terms have been identified. Each shipment represents a distinct service that is a separately identified performance obligation.
+
+The typical transit time to complete a shipment is from 
+one
+ to 
+five days
+.  Billing for transportation services normally occurs after completion of the service and payment is generally due within 
+30
+ days after the invoice date. The Company recognizes revenue related to the Company’s LTL, non-asset truckload and expedited transportation services over the transit time of the shipment as it moves from origin to destination based on the transit status at the end of each reporting period.
+Key estimates included in the recognition and measurement of revenue and related accounts receivable are as follows:
+•
+Revenue associated with shipments in transit is recognized ratably over the transit time; and
+•
+Adjustments to revenue for billing adjustments and collectability.
+The portion of the gross invoice related to interline transportation services that involve the services of another party, such as another LTL service provider, is not recorded in the Company’s revenues.  Revenue from logistics services is recognized as the services are provided.
+
+8
+
+Claims and Insurance Accruals
+The Company maintains insurance coverage with third-party insurance carriers that provides various levels of protection for covered risk exposure, including in the areas of workers’ compensation, bodily injury and property damage, casualty, cargo loss and damage and group health, with coverage limits and retention and deductible amounts that vary based on policy periods and claim type.  Claims and insurance accruals related to workers’ compensation, bodily injury and property damage, casualty, cargo loss and damage and group health are established by management based on estimates of losses that the Company will ultimately incur on reported claims and on claims that have been incurred but not yet reported. Accruals are calculated on reported claims based on an evaluation of the nature and severity of the claim, historical loss experience and on legal, economic and other factors. Actuarial analysis is also used in calculating the accruals for workers’ compensation and bodily injury and property damage claims.
+Property and Equipment
+Property and equipment are carried at cost less accumulated depreciation. The Company periodically evaluates estimated useful lives of property and equipment considering its planned and actual usage, planned and actual maintenance and replacement, and other relevant physical and economic factors that may affect our use of the assets. During the second quarter of 2024, the Company determined that the estimated useful lives of certain of its trailers and dollies should be extended from 
+14
+ years to 
+20
+ years. This change is recognized prospectively. The changes in estimates resulted in an increase in income from continuing operations of approximatel
+y $
+2.9
+ million (a $
+2.2
+ mill
+ion increase in net income) for the nine months ended September 30, 2025.
+Segment Reporting
+Saia is comprised of a single reportable segment organized around its transportation services. The measure of segment assets is reported on the balance sheet as total consolidated assets.
+
+The following table presents selected financial information with respect to the Company’s single reportable segment (in thousands):
+
+Third Quarter
+
+Nine Months
+
+2025
+
+2024
+
+2025
+
+2024
+
+Revenue
+
+$
+
+839,644
+
+$
+
+842,103
+
+$
+
+2,444,334
+
+$
+
+2,420,122
+
+Less:
+
+Wages (a)
+
+235,667
+
+243,407
+
+700,636
+
+678,056
+
+Salaries (a)
+
+50,292
+
+48,914
+
+152,118
+
+140,697
+
+Purchased Transportation
+
+59,329
+
+65,584
+
+176,877
+
+179,138
+
+Other Segment items (b)
+
+311,055
+
+303,911
+
+939,730
+
+883,940
+
+Depreciation and Amortization
+
+64,037
+
+54,656
+
+185,626
+
+156,041
+
+Interest Expense
+
+4,483
+
+2,997
+
+13,510
+
+5,951
+
+Interest Income
+
+(
+44
+
+)
+
+(
+45
+
+)
+
+(
+117
+
+)
+
+(
+910
+
+)
+
+Income Tax Expense
+
+28,509
+
+29,931
+
+68,437
+
+91,247
+
+Segment and Consolidated Net Income
+
+$
+
+86,316
+
+$
+
+92,748
+
+$
+
+207,517
+
+$
+
+285,962
+
+(a) 
+Wages includes payroll costs for non-management employees generally paid on an hourly or per-mile basis. Salaries includes payroll costs for exempt employees.
+
+(b) 
+Other segment items include employees' benefits, fuel, operating expenses and supplies, operating taxes and licenses and claims and insurance.
+
+9
+
+(2) Computation of Earnings Per Share
+The calculation of basic earnings per common share and diluted earnings per common share was as follows (in thousands, except per share amounts):
+
+Third Quarter
+
+Nine Months
+
+2025
+
+2024
+
+2025
+
+2024
+
+Numerator:
+
+Net income
+
+$
+
+86,316
+
+$
+
+92,748
+
+$
+
+207,517
+
+$
+
+285,962
+
+Denominator:
+
+Denominator for basic earnings per share–weighted
+     average common shares
+
+26,745
+
+26,695
+
+26,735
+
+26,686
+
+Dilutive effect of share-based awards
+
+45
+
+94
+
+49
+
+99
+
+Denominator for diluted earnings per share–adjusted
+     weighted average common shares
+
+26,790
+
+26,789
+
+26,784
+
+26,785
+
+Basic Earnings Per Share
+
+$
+
+3.23
+
+$
+
+3.47
+
+$
+
+7.76
+
+$
+
+10.72
+
+Diluted Earnings Per Share
+
+$
+
+3.22
+
+$
+
+3.46
+
+$
+
+7.75
+
+$
+
+10.68
+
+For the quarter and nine months ended September 30, 2025, there were 
+11,834
+ anti-dilutive share-based awards. For the quarter and nine months ended September 30, 2024
+, there were 
+no
+ anti-dilutive share-based awards.
+
+(3) Commitments and Contingencies
+The Company is subject to legal proceedings that arise in the ordinary course of its business. Management believes that adequate provisions for the resolution of all contingencies, claims and pending litigation have been made for probable and estimable losses and that the ultimate outcome of these actions will not have a material adverse effect on its financial condition but could have a material adverse effect on the results of operations in a given quarter or annual period.
+(4) Fair Value of Financial Instruments
+The carrying amounts of financial instruments including cash and cash equivalents, accounts receivable, accounts payable and short-term debt approximated fair value as of September 30, 2025 and December 31, 2024, because of the relatively short maturity of these instruments.  Based on the borrowing rates currently available to the Company for debt with similar terms and remaining maturities, the estimated fair value of total debt at September 30, 2025 and December 31, 2024 was $
+220.0
+ million and $
+200.5
+ million, respectively. The fair value of fixed rate debt is based on current market interest rates for similar types of financial instruments, reflective of level two inputs. The carrying amount of the Company’s variable rate debt approximates fair value as interest rates approximate the current rates available to the Company. The carrying value of the debt was $
+219.2
+ million and $
+200.3
+ million at September 30, 2025 and December 31, 2024
+, respectively.
+(5) Debt and Financing Arrangements
+At 
+September 30, 2025 and December 31, 2024, debt consisted of the following (in thousands):
+
+September 30, 2025
+
+December 31, 2024
+
+Credit Arrangements, described below
+
+$
+
+218,000
+
+$
+
+194,000
+
+Finance Leases
+
+1,199
+
+6,294
+
+Total debt
+
+219,199
+
+200,294
+
+Less: current portion of long-term debt
+
+1,199
+
+5,313
+
+Long-term debt, less current portion
+
+$
+
+218,000
+
+$
+
+194,981
+
+The Company’s liquidity needs arise primarily from capital investment in new equipment, land and structures, information technology and letters of credit and surety bonds required under insurance programs, as well as funding working capital requirements.
+
+10
+
+Credit Arrangements
+Revolving Credit Facility
+The Company is a party to an unsecured credit agreement with its banking group (the Revolving Credit Facility). On December 9, 2024, the Company entered into an amendment to the Revolving Credit Facility. The amendment increased commitments under the Revolving Credit Facility by $
+300
+ million to an aggregate commitment of $
+600
+ million and expanded the accordion feature, subject to certain conditions and availability of lender commitments, from $
+150
+ million to $
+300
+ million. This amendment also extended the maturity date of the Revolving Credit Facility from February 3, 2028, to December 9, 2029. Borrowings under the Revolving Credit Facility bear interest at the Company’s election at a variable rate equal to (a) one, three or six month term SOFR (the forward-looking secured overnight financing rate) plus 
+0.10
+%, or (b) an alternate base rate, in each case plus an applicable margin. Additionally, the amendment adjusted the applicable margin such that the applicable margin is now between 
+1.25
+% and 
+2.00
+% per annum for term SOFR loans and between 
+0.25
+% and 
+1.00
+% per annum for alternate base rate loans, in each case based on the Company’s consolidated net lease adjusted leverage ratio. The amendment also modified the fees that the Company accrues based on the daily unused portion of the credit facility, which will now range between 
+0.175
+% and 
+0.30
+% based on the Company’s consolidated net lease adjusted leverage ratio. The Revolving Credit Facility contains certain customary representations and warranties, affirmative and negative covenants and provisions relating to events of default. Under the Revolving Credit Facility, if an event of default occurs, the banks will be entitled to take various actions, including the acceleration of amounts due. Under the Revolving Credit Facility, the Company is subject to a maximum consolidated net lease adjusted leverage ratio of less than 
+3.50
+ to 1.00 with the potential to be temporarily increased in the event the Company makes an acquisition that meets certain criteria. The Company was in compliance with its debt covenants under the Revolving Credit Facility at 
+September 30, 2025.
+At September 30, 2025, the Company had outstanding borrowings of 
+$
+118.0
+ million
+ and outstanding letters of credit of $
+36.4
+ million under the Revolving Credit Facility. At December 31, 2024, the Company had outstanding borrowings of 
+$
+94.0
+ million
+ and outstanding letters of credit of $
+32.2
+ million under the Revolving Credit Facility. At 
+September 30, 2025
+, the Company had $
+445.6
+ million in availability under the Revolving Credit Facility.
+Private Shelf Agreement
+On November 9, 2023, the Company entered into a $
+350
+ million uncommitted Private Shelf Agreement (the Shelf Agreement) with PGIM, Inc. (Prudential) and certain affiliates and managed accounts of Prudential (the Note Purchasers), which allows the Company, from time to time, to offer for sale to Prudential and its affiliates, in one or a series of transactions, senior notes of the Company, through November 9, 2026.
+
+Pursuant to the Shelf Agreement, on May 1, 2024, the Company issued senior promissory notes (the Initial Notes) in an aggregate principal amount of $
+100
+ million to the Note Purchasers. The Initial Notes bear interest at 
+6.09
+% per annum and mature on May 1, 2029, unless repaid earlier by the Company. The Initial Notes are senior unsecured obligations and rank pari passu with borrowings under the Revolving Credit Facility or other senior promissory notes issued pursuant to the Shelf Agreement.
+
+Additional notes issued under the Shelf Agreement, if any, would bear interest at a rate per annum, and would have such other terms, as would be set forth in a confirmation of acceptance executed by the parties prior to the closing of the applicable sale transaction.
+The Shelf Agreement requires that the Company maintain a consolidated net lease adjusted leverage ratio of less than 
+3.50
+ to 1.00, with limited exceptions.  The Shelf Agreement also contains certain customary representations and warranties, affirmative and negative covenants and provisions related to events of default.  Upon the occurrence and continuance of an event of default, the holders of notes issued under the Shelf Agreement may require immediate payment of all amounts owing under such notes. The Company was in compliance with its debt covenants under the Shelf Agreement at 
+September 30, 2025.
+
+11
+
+At September 30, 2025 and December 31, 2024, the Company had outstanding notes under the Shelf Agreement of 
+$
+100.0
+ million
+.
+
+Principal Maturities of Long-Term Debt
+The principal maturities of long-term debt, including interest on finance leases, for the next five years (in thousands) are as follows:
+
+Amount
+
+2025
+
+$
+
+230
+
+2026
+
+991
+
+2027
+
+—
+
+2028
+
+—
+
+2029
+
+218,000
+
+Thereafter
+
+—
+
+Total
+
+219,221
+
+Less: Amounts Representing Interest on Finance Leases
+
+22
+
+Total
+
+$
+
+219,199
+
+12
+
+Item 2. Management's Discussion and Analysis of
+ Financial Condition and Results of Operations
+This Management’s Discussion and Analysis should be read in conjunction with the accompanying unaudited condensed consolidated financial statements and our 2024 audited consolidated financial statements included in the Company’s Annual Report on Form 10-K for the year ended December 31, 2024.  Those consolidated financial statements include additional information about our significant accounting policies, practices and the transactions that underlie our financial results.
+Cautionary Note Regarding Forward-Looking Statements
+The Securities and Exchange Commission (the SEC) encourages companies to disclose forward-looking information so that investors can better understand the future prospects of a company and make informed investment decisions.  This Quarterly Report on Form 10-Q, including "Management's Discussion and Analysis of Financial Condition and Results of Operations,” contains these types of statements, which are forward-looking within the meaning of the Private Securities Litigation Reform Act of 1995. Words such as “anticipate,” “estimate,” “expect,” “project,” “intend,” “may,” “plan,” “predict,” “believe,” “should,” “potential” and similar words or expressions are intended to identify forward-looking statements.  Investors should not place undue reliance on forward-looking statements, and the Company undertakes no obligation to publicly update or revise any forward-looking statements, except as otherwise required by applicable law.  All forward-looking statements reflect the present expectation of future events of our management as of the date of this Quarterly Report on Form 10-Q and are subject to a number of important factors, risks, uncertainties and assumptions that could cause actual results to differ materially from those described in any forward-looking statements.  These factors, risks, uncertainties and assumptions include, but are not limited to, the following:
+•
+general economic conditions including downturns or inflationary periods in the business cycle; 
+•
+operation within a highly competitive industry and the adverse impact from downward pricing pressures, including in connection with fuel surcharges, and other factors;
+•
+industry-wide external factors largely out of our control;
+•
+cost and availability of qualified drivers, dock workers, mechanics and other employees, purchased transportation and fuel;
+•
+inflationary increases in expenses and corresponding reductions of profitability;
+•
+cost and availability of diesel fuel and fuel surcharges;
+•
+cost and availability of insurance coverage and claims expenses and other expense volatility, including for personal injury, cargo loss and damage, workers’ compensation, employment and group health plan claims;
+•
+failure to successfully execute the strategy to expand our service geography;
+•
+unexpected liabilities resulting from the acquisition of real estate assets;
+•
+costs and liabilities from the disruption in or failure of our technology or equipment essential to our operations, including as a result of cyber incidents, security breaches, malware or ransomware attacks;
+•
+risks arising from remote work, including increased risk of related cybersecurity incidents;
+•
+failure to keep pace with technological developments;
+•
+liabilities and costs arising from the use of artificial intelligence;
+•
+labor relations, including the adverse impact should a portion of our workforce become unionized;
+•
+cost, availability and resale value of real property and revenue equipment;
+•
+supply chain disruption and delays on new equipment delivery;
+•
+capacity and highway infrastructure constraints;
+•
+changes in U.S. trade policy and the impact of tariffs; 
+•
+risks arising from international business operations and relationships;
+•
+seasonal factors, harsh weather and disasters caused by climate change;
+•
+the creditworthiness of our customers and their ability to pay for services;
+•
+our need for capital and uncertainty of the credit markets;
+•
+the possibility of defaults under our debt agreements, including violation of financial covenants;
+•
+inaccuracies and changes to estimates and assumptions used in preparing our financial statements;
+•
+failure to operate and grow acquired businesses in a manner that support the value allocated to acquired businesses;
+•
+dependence on key employees;
+•
+employee turnover from changes to compensation and benefits or market factors;
+•
+increased costs of healthcare benefits;
+
+13
+
+•
+damage to our reputation from adverse publicity, including from the use of or impact from social media;
+•
+failure to achieve acquisition synergies or disruption to our business due to such acquisitions;
+•
+the effect of litigation and class action lawsuits arising from the operation of our business, including the possibility of claims or judgments in excess of our insurance coverages or that result in increases in the cost of insurance coverage or that preclude us from obtaining adequate insurance coverage in the future;
+•
+the potential of higher corporate taxes and new regulations, including with respect to climate change, employment and labor law, healthcare and securities regulation;
+•
+the effect of governmental regulations, including hours of service and licensing compliance for drivers, engine emissions, the Compliance, Safety, Accountability (CSA) initiative, regulations of the Food and Drug Administration and Homeland Security, and healthcare and environmental regulations;
+•
+unforeseen costs from new and existing data privacy laws;
+•
+changes to the way LTL freight is categorized;
+•
+costs from new and existing laws regarding how to classify workers;
+•
+changes in accounting and financial standards or practices;
+•
+widespread outbreak of an illness or any other communicable disease;
+•
+international conflicts and geopolitical instability;
+•
+evolving stakeholder expectations regarding environmental and social issues;
+•
+provisions in our governing documents and Delaware law that may have anti-takeover effects;
+•
+issuances of equity that would dilute stock ownership;
+•
+weakness, disruption or loss of confidence in financial or credit markets; and
+•
+other financial, operational and legal risks and uncertainties detailed from time to time in the Company’s SEC filings.
+These factors and risks are described in Part I, Item 1A. “Risk Factors” of the Company’s Annual Report on Form 10-K for the year ended December 31, 2024, as updated by Part II, Item 1A. of this Quarterly Report on Form 10-Q.
+As a result of these and other factors, no assurance can be given as to our future results and achievements.  Accordingly, a forward-looking statement is neither a prediction nor a guarantee of future events or circumstances and those future events or circumstances may not occur.  You should not place undue reliance on the forward-looking statements, which speak only as of the date of this Form 10-Q.  We are under no obligation, and we expressly disclaim any obligation, to update or alter any forward-looking statements, whether as a result of new information, future events or otherwise, except as otherwise required by applicable law.
+Executive Overview
+The Company’s business is highly correlated to non-service sectors of the general economy. The Company’s strategy is to improve profitability by increasing revenue per shipment while also increasing volumes. Components of this strategy include building density in existing geography, and pursuing geographic and terminal expansion in an effort to promote profitable growth while improving our customer value proposition over time. The Company’s business is labor intensive, capital intensive and service sensitive. The Company looks for opportunities to improve safety, cost effectiveness and asset utilization (primarily tractors and trailers). Pricing initiatives over time have had a positive impact on profitability. The Company continues to execute targeted sales and marketing programs along with initiatives to align costs with volumes and improve customer satisfaction. Technology continues to be an important investment as we work towards improving customer experience, operational efficiencies and Company image.
+Third Quarter Overview
+The Company’s operating revenue was relatively flat in the third quarter of 2025 compared to the same period in 2024. In the third quarter of 2025, LTL shipments per workday were down 1.9 percent. LTL revenue per shipment, excluding fuel surcharge, increased 0.3 percent to $294.35 compared to the prior year quarter.
+
+Consolidated operating income was $118.6 million for the third quarter of 2025 compared to $125.2 million for the third quarter of 2024.  These third quarter 2025 results include a real estate gain of $16.4 million and a real estate impairment loss of $1.9 million resulting in a net increase to operating income of $14.5 million. Diluted earnings per share were $3.22 in the third quarter of 2025 compared to diluted earnings per share of $3.46 in the prior year quarter. The operating ratio (operating expenses divided by operating revenue) was 85.9 percent in the third quarter of 2025 compared to 85.1 percent in the third quarter of 2024.  Additionally, the net impact of the real estate gain and the real estate impairment loss resulted in a 170 basis point improvement in the operating ratio for the third quarter of 2025. The Company generated $457.7 million in net cash provided by operating activities in the first nine months of 2025 compared with $419.0 million in the same period last year.
+
+14
+
+General
+This Management’s Discussion and Analysis describes the principal factors affecting the results of operations, financial condition, liquidity and capital resources, as well as the critical accounting policies and estimates of Saia, Inc. and its wholly-owned subsidiaries (together, the Company or Saia).
+Saia is a transportation company headquartered in Johns Creek, Georgia that provides national less-than-truckload (LTL) services through a single integrated organization. While approximately 97 percent of revenue is historically derived from transporting LTL shipments across the contiguous United States, the Company also offers customers a wide range of other value-added services, including non-asset truckload, expedited transportation and logistics services across North America.
+Our business is highly correlated to non-service sectors of the general economy.  Our business also is impacted by a number of other factors as discussed under “Cautionary Note Regarding Forward-Looking Statements” and Part II, Item 1A. “Risk Factors.” The key factors that affect our operating results are the volumes of shipments transported through our network, as measured by our average daily shipments and tonnage; the prices we obtain for our services, as measured by revenue per shipment and revenue per hundredweight (a measure of yield), whether including or excluding fuel surcharge revenue; our ability to manage our cost structure for capital expenditures and operating expenses such as salaries, wages and benefits, purchased transportation, claims and insurance expense, fuel and maintenance; and our ability to match operating costs to shifting volume levels.
+Results of Operations
+Saia, Inc. and Subsidiaries
+Selected Results of Operations and Operating Statistics
+For the quarters ended September 30, 2025 and 2024
+(unaudited)
+
+Percent
+
+Variance
+
+2025
+
+2024
+
+'25 v. '24
+
+(in
+
+thousands, except ratios, workdays, revenue per hundredweight, revenue per shipment, pounds per shipment and length of haul)
+
+Operating Revenue
+
+$
+
+839,644
+
+$
+
+842,103
+
+(0.3
+
+)
+
+%
+
+Operating Expenses:
+
+Salaries, wages and employees’ benefits
+
+401,058
+
+398,134
+
+0.7
+
+Purchased transportation
+
+59,329
+
+65,584
+
+(9.5
+
+)
+
+Fuel and other operating expenses
+
+196,610
+
+198,558
+
+(1.0
+
+)
+
+Depreciation and amortization
+
+64,037
+
+54,656
+
+17.2
+
+Operating Income
+
+118,610
+
+125,171
+
+(5.2
+
+)
+
+Adjusted Operating Income
+1
+
+104,107
+
+125,171
+
+(16.8
+
+)
+
+Operating Ratio
+
+85.9
+
+%
+
+85.1
+
+%
+
+Adjusted Operating Ratio
+1
+
+87.6
+
+%
+
+85.1
+
+%
+
+Nonoperating Expense
+
+3,785
+
+2,492
+
+51.9
+
+Working Capital (as of September 30, 2025 and 2024)
+
+201,090
+
+90,674
+
+Cash Flows provided by Operating Activities (year to date)
+
+457,665
+
+418,963
+
+Net Acquisitions of Property and Equipment (year to date)
+
+446,078
+
+873,223
+
+Saia LTL Freight Operating Statistics:
+
+Workdays
+
+64
+
+64
+
+LTL Tonnage
+
+1,581
+
+1,605
+
+(1.5
+
+)
+
+LTL Shipments
+
+2,333
+
+2,379
+
+(1.9
+
+)
+
+LTL Revenue per hundredweight
+
+$
+
+25.76
+
+$
+
+25.64
+
+0.5
+
+LTL Revenue per hundredweight, excluding fuel surcharge
+
+$
+
+21.72
+
+$
+
+21.75
+
+(0.1
+
+)
+
+LTL Revenue per shipment
+
+$
+
+349.07
+
+$
+
+345.93
+
+0.9
+
+LTL Revenue per shipment, excluding fuel surcharge
+
+$
+
+294.35
+
+$
+
+293.39
+
+0.3
+
+LTL Pounds per shipment
+
+1,355
+
+1,349
+
+0.4
+
+LTL Length of haul
+
+894
+
+890
+
+0.4
+
+1. Adjusted Operating Income and Adjusted Operating Ratio are non-GAAP financial measures and should not be considered alternatives, or superior to, the most directly comparable GAAP financial measures. The Company’s management believes these
+
+15
+
+financial measures provide a greater understanding of ongoing operations and enhance comparability of results with prior periods. Adjusted Operating Income and Adjusted Operating Ratio are reconciled to the most directly comparable GAAP financial measures under "Non-GAAP Financial Disclosure and Reconciliation," below.
+Quarter and nine months ended September 30, 2025 compared to quarter and nine months ended September 30, 2024
+
+Revenue and volume
+Consolidated revenue for the quarter ended September 30, 2025 was relatively flat, at $839.6 million compared to $842.1 million for the third quarter of 2024. For the third quarter of 2025, Saia’s LTL shipments decreased 1.9 percent to 2.3 million shipments, while LTL tonnage was down 1.5 percent to 1.6 million tons. LTL revenue per shipment, excluding fuel surcharge, increased 0.3 percent to $294.35 for the third quarter of 2025 as a result of changes in business mix and pricing actions. For the third quarter of 2025, approximately 75 percent of the Company’s operating revenue was subject to specific customer price negotiations that occur throughout the year.  The remaining 25 percent of operating revenue was subject to a general rate increase.  For customers subject to a general rate increase, Saia implemented a 7.9 percent general rate increase on October 21, 2024. Competitive factors, customer turnover and mix changes impact the extent to which customer rate increases are retained over time.
+Operating revenue includes revenue recognized from the Company’s fuel surcharge program, which is designed to reduce exposure to fluctuations in diesel fuel prices by adjusting total freight charges to account for changes in the price of diesel fuel.  The Company’s fuel surcharge is generally based on the average national price for diesel fuel (as published by the United States Energy Information Administration) and is typically reset weekly.  Fuel surcharges are widely accepted in the industry and are a significant component of revenue and pricing.  Fuel surcharges are an integral part of customer contract negotiations, but represent only one portion of overall customer price negotiations, as customers may negotiate increases in base rates instead of increases in fuel surcharges or vice versa. Fuel surcharge revenue as a percentage of operating revenue increased to 15.2 percent for the quarter ended September 30, 2025 compared to 14.8 percent for the quarter ended September 30, 2024, as a result of increases in the average cost of diesel fuel.
+For the nine months ended September 30, 2025, operating revenues were $2.4 billion, up 1.0 percent from operating revenues for the nine months ended September 30, 2024 as a result of changes in business mix and pricing actions.  Fuel surcharge revenue as a percentage of operating revenue decreased to 15.0 percent for the nine months ended September 30, 2025 compared to 15.3 percent for the nine months ended September 30, 2024, primarily as a result of decreases in the average cost of diesel fuel.
+
+Operating expenses and margin
+Consolidated operating income was $118.6 million and adjusted operating income
+1
+ was $104.1 million in the third quarter of 2025,  compared to $125.2 million in the prior year quarter, as a result of lower revenues, increased employee costs, claims and insurance expense and depreciation expenses related to our network expansion. The third quarter of 2025 operating ratio (operating expenses divided by operating revenue) was 85.9 percent, and the adjusted operating ratio
+1
+ was 87.6 percent compared to an operating ratio of 85.1 percent for the same period in 2024.
+Salaries, wages and employees’ benefits increased $2.9 million in the third quarter of 2025 compared to the third quarter of 2024.  This change was primarily driven by higher employee costs including group health insurance costs, which increased by approximately $7.0 million related to elevated claims activity and average cost of claims, and workers’ compensation costs, which increased $2.0 million as a result of the inflationary costs of claims. These increases were partially offset by a decrease in wages as we continue to match hours to volume. Purchased transportation decreased $6.3 million in the third quarter of 2025 compared to the third quarter of 2024 primarily due to a decrease in purchased transportation miles in addition to a decrease in cost per mile for purchased transportation. Fuel, operating expenses and supplies increased by $7.0 million in the third quarter of 2025 compared to the third quarter of 2024 largely due to increased information technology costs. Claims and insurance expense in the third quarter of 2025 was $4.3 million higher than the third quarter of 2024 primarily due to the development of open cases and increased claim activity. Depreciation and amortization expense increased $9.4 million in the third quarter of 2025 compared to the same period in 2024 due to ongoing investments in revenue equipment, our terminal network and technology. Other operating, net decreased $14.2 million in the third quarter of 2025 compared to the third quarter of 2024 due to the gain on disposal of real estate of $16.4 million, partially offset by a real estate impairment loss of $1.9 million.
+For the nine months ended September 30, 2025 not adjusting for the net real estate gain recorded in the third quarter of 2025, consolidated operating income was $288.2 million, down 24.3 percent compared to $380.7 million for the nine months ended September 30, 2024. This decrease in consolidated operating income during the first nine months of 2025 was the result of increased labor and depreciation expenses related to our network expansion.
+
+1
+ This is a non-GAAP financial measure. Refer to “Non-GAAP Financial Disclosure and Reconciliation” below.
+
+16
+
+Salaries, wages and benefits increased $69.2 million during the first nine months of  2025 compared to the same period last year primarily driven by a $21.3 million increase in group health insurance costs and a $5.0 million increase in workers’ compensation costs, both of which were related to the inflationary costs of claims. Additionally, this increase was driven by a wage increase in July 2024 for all employees, excluding executives, of approximately 4.1 percent and by an increase in average headcount associated with new terminals, largely incurred in the first quarter of 2025.  Purchased transportation decreased $2.3 million for the first nine months of 2025 compared to the same period in the prior year primarily due to a decrease in purchased transportation miles and decreased cost per mile for purchased transportation. Fuel, operating expenses and supplies increased $18.1 million during the first nine months of 2025 compared to the same period last year largely due to increased information technology costs, facility costs, vehicle maintenance costs and due to an expanded footprint, a larger base of revenue equipment and network support. These increases were partially offset by decreased fuel costs during the first nine months of 2025. During the first nine months of 2025, claims and insurance expense was $12.4 million higher than the same period last year primarily due to the development of open cases and increased claim activity.  Depreciation and amortization expense increased $29.6 million during the first nine months of 2025 compared to the same period in 2024 due to ongoing investments in revenue equipment, our terminal network and technology. Other operating, net decreased $14.2 million for the first nine months of 2025 compared to the same period last year due to the gain on disposal of real estate of $16.4 million, partially offset by a real estate impairment loss of $1.9 million.
+Other
+Interest expense for the quarter and nine months ended September 30, 2025 was higher than the same periods in 2024 due to interest expense related to higher average balances under our credit arrangements in the current year.
+Interest income for the quarter and nine months ended September 30, 2025 was lower than the same periods in 2024 due to decreased average interest-bearing deposit balances in the current year.
+The effective tax rate was 24.8 percent and 24.4 percent for the quarters ended September 30, 2025 and 2024, respectively. For the nine months ended September 30, 2025 and 2024, the effective tax rate was 24.8 and 24.2 percent, respectively.
+Net income was $86.3 million, or $3.22 per diluted share and $2.81 adjusted diluted earnings per share
+1
+, in the third quarter of 2025 compared to net income of $92.7 million, or $3.46 per diluted share, in the third quarter of 2024. Net income was $207.5 million, or $7.75 per diluted share and $7.34 adjusted diluted earnings per share
+1
+, for the first nine months of 2025 compared to net income of $286.0 million, or $10.68 per diluted share, for the first nine months of 2024.
+Non-GAAP Financial Disclosure and Reconciliation
+From time to time we supplement the reporting of our financial information determined under generally accepted accounting principles (“GAAP”) with certain non-GAAP financial measures. In this report, these include “adjusted” total operating expenses, “adjusted” operating income, “adjusted” diluted earnings per share and “adjusted” operating ratio. The Company’s management believes that certain non-GAAP financial measures provide a greater understanding of ongoing operations and enhance comparability of results with prior periods. The Company’s management believes that investors may use these non-GAAP financial measures to evaluate the Company’s financial performance without the impact of items that may obscure trends in the Company’s underlying performance. These disclosures should not be viewed as a substitute for financial measures determined in accordance with GAAP, nor are they necessarily comparable to non-GAAP performance measures that may be presented by other companies. A gain from the sale of a terminal of $16.4 million and a loss on real estate impairment of $1.9 million was recorded during the third quarter of 2025. This resulted in a decrease in operating expenses and an increase in operating income of $14.5 million, an increase in diluted earnings per share of $0.41 and an improvement of 170 basis points in the operating ratio for the third quarter of 2025. The terminal sale occurred as the result of management’s efforts towards expanding door count by replacing a smaller facility with a larger facility better positioned to successfully support the Company’s overall strategy. The impairment loss came as a result of management's continued assessment of the recoverability of property and equipment.
+
+1
+ This is a non-GAAP financial measure. Refer to “Non-GAAP Financial Disclosure and Reconciliation.”
+
+17
+
+Saia, Inc. and Subsidiaries
+
+Reconciliation of Certain GAAP and Non-GAAP Statement of Operations Items and Ratios
+
+For the Quarters and Nine Months Ended September 30, 2025 and 2024
+
+(Amounts in thousands, except per share data and operating ratio)
+
+(Unaudited)
+
+Third Quarter
+
+Nine Months
+
+2025
+
+2024
+
+2025
+
+2024
+
+Total operating expenses (GAAP)
+
+$721,034
+
+$716,932
+
+$2,156,157
+
+$2,039,446
+
+Add: Net total operating expense impact of Gain on Real Estate Disposal and Impairment of Real Estate
+
+14,503
+
+-
+
+14,503
+
+-
+
+Adjusted total operating expenses (Non-GAAP)
+
+$735,537
+
+$716,932
+
+$2,170,660
+
+$2,039,446
+
+Operating Income (GAAP)
+
+$118,610
+
+$125,171
+
+$288,177
+
+$380,676
+
+Less: Net Operating Income impact of Gain on Real Estate Disposal and Impairment of Real Estate
+
+(14,503)
+
+-
+
+(14,503)
+
+-
+
+Adjusted operating income (Non-GAAP)
+
+$104,107
+
+$125,171
+
+$273,674
+
+$380,676
+
+Diluted earnings per share  (GAAP)
+
+$3.22
+
+$3.46
+
+$7.75
+
+$10.68
+
+Less: Net Diluted earnings per share impact of Gain on Real Estate Disposal and Impairment of Real Estate
+
+(0.41)
+
+-
+
+(0.41)
+
+-
+
+Adjusted diluted earnings per share  (Non-GAAP)
+
+$2.81
+
+$3.46
+
+$7.34
+
+$10.68
+
+Operating Ratio (1)
+
+85.9%
+
+85.1%
+
+88.2%
+
+84.3%
+
+Add: Net Operating Ratio impact of Gain on Real Estate Disposal and Impairment of Real Estate
+
+1.7%
+
+-
+
+0.6%
+
+-
+
+Adjusted operating ratio
+
+87.6%
+
+85.1%
+
+88.8%
+
+84.3%
+
+(1)
+
+Operating Ratio is total operating expenses divided by operating revenue, using the underlying unrounded amounts.
+
+18
+
+Outlook
+Our business remains highly correlated to non-service sectors of the general economy and competitive pricing pressures, as well as the success of Company-specific improvement initiatives. Our outlook is dependent on a number of external factors, including U.S. and global financial and economic conditions, consumer confidence and strength of the U.S. economy, inflation, changes in regulatory conditions and international trade relations, including higher tariffs, labor availability, diesel fuel prices and supply chain constraints. The potential impact of these factors on our operations, financial performance and financial condition, as well as the impact on our ability to successfully execute our business strategies and initiatives, remains difficult to predict. The U.S. government has made significant changes in U.S. trade policy, including the imposition of a baseline tariff on product imports from almost all countries and the potential for individualized higher tariffs on certain other countries. These changes in U.S. trade policy and tariffs have decreased demand for our services and could have a material adverse effect on our operating results, including as a result of the possibility of higher inflation, an economic slowdown or general economic uncertainty.
+
+We are continuing initiatives to improve and enhance customer service in an effort to support our ongoing pricing and business mix optimization, while seeking to control costs and improve productivity. Planned revenue initiatives include building density in our current geography, targeted marketing initiatives to grow revenue in more profitable areas, further expanding our geographic and terminal network, as well as pricing and mix management. On October 1, 2025 and October 21, 2024, Saia implemented 5.9 and 7.9 percent general rate increases, respectively, for customers comprising approximately 25 percent of Saia’s operating revenue. The extent of success of these revenue initiatives is impacted by what proves to be the underlying economic trends, competitor initiatives and other factors discussed under “Cautionary Note Regarding Forward-Looking Statements” and Part II, Item 1A. “Risk Factors.”
+
+The strategic objective of the Company is to build market share through excellent customer service, continued operating efficiencies and through geographic and terminal expansion which should result in numerous operating leverage cost benefits. However, should the economy continue to soften, we plan to continue to match resources and capacity to shifting volume levels to lessen unfavorable operating leverage. The success of cost improvement initiatives is influenced by several factors, including inflation, the cost and availability of drivers, dock workers, and other personnel, as well as expenses related to purchased transportation, diesel fuel and insurance.
+Effective October 1, 2025, the Company implemented a market competitive salary and wage increase for all employees, excluding executives. The increase was approximately 3.0 percent, and the Company anticipates the impact will be partially offset by productivity and efficiency gains.
+See “Cautionary Note Regarding Forward-Looking Statements” and Part II, Item 1A. “Risk Factors” for a more complete discussion of potential risks and uncertainties that could materially adversely affect our financial condition, results of operations, cash flows and prospects.
+Financial Condition, Liquidity and Capital Resources
+The Company’s liquidity needs arise primarily from capital investment in new equipment, land and structures, information technology and letters of credit and surety bonds required under insurance programs, as well as funding working capital requirements.
+Working capital/capital expenditures
+Working capital at September 30, 2025 was $201.1 million, an increase from $90.7 million at September 30, 2024.
+Current assets at September 30, 2025 increased by $59.6 million as compared to September 30, 2024, driven by an increase in income tax receivable of $40.5 million as a result of the reduction of pre-tax income. Current liabilities decreased by $50.8 million at September 30, 2025 compared to September 30, 2024 largely due to a decrease in accounts payable.
+A summary of our cash activity is presented below:
+
+Nine Months
+
+2025
+
+2024
+
+(in thousands)
+
+Cash and Cash Equivalents, beginning of period
+
+$
+
+19,473
+
+$
+
+296,215
+
+Net Cash flows provided by (used in):
+
+Operating activities
+
+457,665
+
+418,963
+
+Investing activities
+
+(454,472
+
+)
+
+(868,224
+
+)
+
+Financing activities
+
+12,834
+
+167,451
+
+Net (Decrease) Increase in Cash and Cash Equivalents
+
+16,027
+
+(281,810
+
+)
+
+Cash and Cash Equivalents, end of period
+
+$
+
+35,500
+
+$
+
+14,405
+
+19
+
+Cash flows provided by operating activities were $457.7 million for the nine months ended September 30, 2025 versus $419.0 million for the nine months ended September 30, 2024 largely driven by increased deferred income taxes, increased depreciation and changes in operating assets and liabilities, partially offset by decreased net income. For the nine months ended September 30, 2025, net cash used in investing activities was $454.5 million compared to $868.2 million in the same period last year, a $413.7 million decrease. This decrease resulted primarily from the acquisition of terminals from Yellow Corporation in January 2024. For the nine months ended September 30, 2025, net cash provided by financing activities was $12.8 million compared to $167.5 million during the same period last year, as a result of higher borrowings in the first nine months 2024 to fund capital expenditures.
+The Company has historically generated cash flows from operations to fund a large portion of its capital expenditure requirements. The Company believes it has adequate sources of capital to meet short-term liquidity needs through its cash on hand, operating cash flows and availability under its credit arrangements, discussed below. Future operating cash flows are primarily dependent upon the Company’s profitability and its ability to manage its working capital requirements.
+
+The table below sets forth our net capital expenditures for property and equipment for the nine-month period ended September 30, 2025 and the year ended December 31, 2024 (in millions):
+
+Nine Months
+
+Year
+
+2025
+
+2024
+
+(in millions)
+
+Land and structures, net
+
+$
+
+110.1
+
+$
+
+503.8
+
+Revenue equipment, net
+
+305.9
+
+473.1
+
+Technology and other, net
+
+30.1
+
+64.0
+
+Total
+
+$
+
+446.1
+
+$
+
+1,040.9
+
+The Company currently anticipates that net capital expenditures in 2025 will be approximately $550 million to $600 million, subject to ongoing evaluation of market conditions. Anticipated capital expenditures for the remainder of the year include normal replacement cycles of revenue equipment, investments in technology and revenue equipment, and real estate investments to support our growth initiatives. Net capital expenditures were $446.1 million in the first nine months of 2025. Approximately $39.1 million of the 2025 remaining capital budget was committed as of September 30, 2025.
+Credit Arrangements
+Revolving Credit Facility
+The Company is a party to an unsecured credit agreement with its banking group (the Revolving Credit Facility). On December 9, 2024, the Company entered into an amendment to the Revolving Credit Facility. The amendment increased commitments under the Revolving Credit Facility by $300 million to an aggregate commitment of $600 million and expanded the accordion feature, subject to certain conditions and availability of lender commitments, from $150 million to $300 million. This amendment also extended the maturity date of the Revolving Credit Facility from February 3, 2028, to December 9, 2029. Borrowings under the Revolving Credit Facility bear interest at the Company’s election at a variable rate equal to (a) one, three or six month term SOFR (the forward-looking secured overnight financing rate) plus 0.10%, or (b) an alternate base rate, in each case plus an applicable margin. Additionally, the amendment adjusted the applicable margin such that the applicable margin is now between 1.25% and 2.00% per annum for term SOFR loans and between 0.25% and 1.00% per annum for alternate base rate loans, in each case based on the Company’s consolidated net lease adjusted leverage ratio. The amendment also modified the fees that the Company accrues based on the daily unused portion of the credit facility, which will now range between 0.175% and 0.30% based on the Company’s consolidated net lease adjusted leverage ratio. The Revolving Credit Facility contains certain customary representations and warranties, affirmative and negative covenants and provisions relating to events of default. Under the Revolving Credit Facility, if an event of default occurs, the banks will be entitled to take various actions, including the acceleration of amounts due. Under the Revolving Credit Facility, the Company is subject to a maximum consolidated net lease adjusted leverage ratio of less than 3.50 to 1.00 with the potential to be temporarily increased in the event the Company makes an acquisition that meets certain criteria. The Company was in compliance with its debt covenants under the Revolving Credit Facility at September 30, 2025.
+At September 30, 2025 the Company had outstanding borrowings of $118.0 million and outstanding letters of credit of $36.4 million under the Revolving Credit Facility. As of December 31, 2024, the Company had outstanding borrowings of $94.0 million and outstanding letters of credit of $32.2 million under the Revolving Credit Facility. At September 30, 2025, the Company had $445.6 million in availability under the Revolving Credit Facility.
+
+20
+
+Private Shelf Agreement
+On November 9, 2023, the Company entered into a $350 million uncommitted Private Shelf Agreement (the Shelf Agreement) with PGIM, Inc. (Prudential) and certain affiliates and managed accounts of Prudential (the Note Purchasers), which allows the Company, from time to time, to offer for sale to Prudential and its affiliates, in one or a series of transactions, senior notes of the Company, through November 9, 2026.
+
+Pursuant to the Shelf Agreement, on May 1, 2024, the Company issued senior promissory notes (the Initial Notes) in an aggregate principal amount of $100 million to the Note Purchasers. The Initial Notes bear interest at 6.09% per annum and mature on May 1, 2029, unless repaid earlier by the Company. The Initial Notes are senior unsecured obligations and rank pari passu with borrowings under the Revolving Credit Facility or other senior promissory notes issued pursuant to the Shelf Agreement.
+
+Additional notes issued under the Shelf Agreement, if any, would bear interest at a rate per annum, and would have such other terms, as would be set forth in a confirmation of acceptance executed by the parties prior to the closing of the applicable sale transaction.
+
+The Shelf Agreement requires that the Company maintain a consolidated net lease adjusted leverage ratio of less than 3.50 to 1.00, with limited exceptions.  The Shelf Agreement also contains certain customary representations and warranties, affirmative and negative covenants and provisions related to events of default.  Upon the occurrence and continuance of an event of default, the holders of notes issued under the Shelf Agreement may require immediate payment of all amounts owing under such notes. The Company was in compliance with its debt covenants under the Shelf Agreement at September 30, 2025.
+At September 30, 2025 and December 31, 2024, the Company had outstanding notes under the Shelf Agreement of $100.0 million.
+Contractual Obligations
+Contractual obligations for the Company are comprised of lease agreements, purchase obligations and long-term debt obligations. Contractual obligations for operating leases at September 30, 2025 totaled $152.9 million, including operating leases with original maturities of less than one year, which are not recorded in our consolidated balance sheet in accordance with U.S. generally accepted accounting principles. Contractual obligations in the form of finance leases were $1.2 million at September 30, 2025, which includes both principal and interest amounts. For the remainder of 2025, $3.4 million of interest payments are anticipated based on borrowings and commitments outstanding at September 30, 2025. See Note 5, “Debt and Financing Arrangements,” of the accompanying unaudited condensed consolidated financial statements in this Form 10-Q. Purchase obligations at September 30, 2025 were $39.7 million, including commitments of $39.1 million for capital expenditures. As of September 30, 2025, the Revolving Credit Facility had $118.0 million outstanding principal balance and the Shelf Agreement had $100.0 million outstanding principal balance.
+
+Other commercial commitments of the Company typically include letters of credit and surety bonds required for collateral towards insurance agreements. As of September 30, 2025 the Company had total outstanding letters of credit of $36.4 million and $58.6 million in surety bonds.
+The Company has accrued approximately $3.5 million for uncertain tax positions and $0.6 million for interest and penalties related to the uncertain tax positions as of September 30, 2025. At September 30, 2025, the Company has accrued $99.0 million for claims and insurance liabilities.
+
+Critical Accounting Policies and Estimates
+There have been no significant changes to the application of the critical accounting policies and estimates contained in our Annual Report on Form 10-K for the year ended December 31, 2024.  The reader should refer to our 2024 Annual Report on Form 10-K for a full disclosure of all critical accounting policies and estimates of amounts recorded in certain assets, liabilities, revenue and expenses.
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+The Company is exposed to a variety of market risks including the effects of interest rates and diesel fuel prices.  To help mitigate our risk to rising diesel fuel prices, the Company has an established fuel surcharge program.  The detail of the Company’s debt structure is more fully described in Note 5, “Debt and Financing Arrangements,” of the accompanying unaudited condensed consolidated financial statements in this Form 10-Q.
+
+The following table provides information about the Company’s third-party financial instruments as of September 30, 2025.  The table presents annual principal cash flows (in millions) and related weighted average interest rates by contractual maturity dates. The fair value of fixed rate debt is based on current market interest rates for similar types of financial instruments, reflective of level two inputs.
+
+21
+
+The carrying amount of the Company’s variable rate debt approximates fair value as interest rates approximate the current rates available to the Company.
+
+2025
+
+2025
+
+2026
+
+2027
+
+2028
+
+2029
+
+Thereafter
+
+Total
+
+Fair Value
+
+Fixed rate debt
+
+$0.2
+
+$1.0
+
+$—
+
+$—
+
+$100.0
+
+$—
+
+$101.2
+
+$102.0
+
+Average interest rate
+
+—
+
+3.5%
+
+—
+
+—
+
+6.1%
+
+—
+
+6.1%
+
+Variable rate debt
+
+$—
+
+$—
+
+$—
+
+$—
+
+$118.0
+
+$—
+
+$118.0
+
+$118.0
+
+Average interest rate
+
+—
+
+—
+
+—
+
+—
+
+5.8%
+
+—
+
+5.8%
+
+Item 4. Controls and Procedures
+Quarterly Controls Evaluation and Related CEO and CFO Certifications
+As of the end of the period covered by this Quarterly Report on Form 10-Q, the Company conducted an evaluation of the effective
+ness of the design and operation of its “disclosure controls and procedures” (Disclosure Controls). The Disclosure Controls evaluation was performed under the supervision and with the participation of management, including the Company’s Chief Executive Officer (CEO) and Chief Financial Officer (CFO).
+Based upon the controls evaluation, the Company’s CEO and CFO have concluded that, as of the end of the period covered by this Quarterly Report on Form 10-Q, the Company’s Disclosure Controls are effective to ensure that information the Company is required to disclose in reports that the Company files or submits under the Securities Exchange Act of 1934, as amended (the Exchange Act), is recorded, processed, summarized and reported within the time periods specified in SEC rules and forms.
+During the period covered by this Quarterly Report on Form 10-Q, there were no changes in internal control over financial reporting that materially affected, or that are reasonably likely to materially affect, the Company’s internal control over financial reporting.
+Attached as Exhibits 31.1 and 31.2 to this Quarterly Report on Form 10-Q are certifications of the CEO and the CFO, which are required in accordance with Rule 13a-14 of the Exchange Act. This Controls and Procedures section includes the information concerning the controls evaluation referred to in the certifications and it should be read in conjunction with the certifications.
+Definition of Disclosure Controls
+Disclosure Controls are controls and procedures designed to ensure that information required to be disclosed in the Company’s reports filed under the Exchange Act is recorded, processed, summarized and reported timely. Disclosure Controls are also designed to ensure that such information is accumulated and communicated to the Company’s management, including the CEO and CFO, as appropriate to allow timely decisions regarding required disclosure. The Company’s Disclosure Controls include components of its internal control over financial reporting which consists of control processes designed to provide reasonable assurance regarding the reliability of the Company’s financial reporting and the preparation of financial statements in accordance with U.S. generally accepted accounting principles.
+Limitations on the Effectiveness of Controls
+The Company’s management, including the CEO and CFO, does not expect that its Disclosure Controls or its internal control over financial reporting will prevent all errors and all fraud. A control system, no matter how well designed and operated, can provide only reasonable, not absolute, assurance that the control system’s objectives will be met. Further, the design of a control system must reflect the fact that there are resource constraints and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within the Company have been detected. These inherent limitations include the realities that judgments in decision-making can be faulty and that breakdowns can occur because of simple error or mistake. Controls can also be circumvented by the individual acts of some persons, by collusion of two or more people or by management override of the controls. Because of the inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected.
+
+22
+
+PA
+RT II. OTHER INFORMATION
+Item 1. Legal Proceedings
+ — For a description of legal proceedings, see Note 3 “Commitments and Contingencies” of the accompanying unaudited condensed consolidated financial statements.
+
+I
+tem 1A. Risk Factors 
+— In addition to the other information included in this report and in our other reports and statements that we file with the SEC, you should carefully consider the factors discussed in Part I, Item 1A. “Risk Factors” in our Annual Report on Form 10-K for the year ended December 31, 2024, which could materially affect our business, financial condition and/or operating results. The risks discussed in our Annual Report on Form 10-K are not the only risks facing us. Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially adversely affect our business, financial condition and/or operating results.
+Other than the following risk factor, which replaces the risk factor titled "Changes in U.S. international trade relationships, including the imposition of new or higher tariffs, may adversely impact our customers, our industry, and our business," there have been no material changes to the risk factors identified in Part I, Item 1A. “Risk Factors” in our Annual Report on Form 10‑K for the year ended December 31, 2024.
+Changes in U.S. trade policy and the impact of tariffs may continue to adversely impact our customers, our industry, and our business.
+Changes in U.S. trade policy and the impact of tariffs may continue to adversely impact our customers, our industry, and our business.  We transport a significant number of shipments that have either been imported into the U.S. or are destined for export from the United States. The U.S. government has made significant changes in U.S. trade policy, including the imposition of a baseline tariff on product imports from almost all countries and the potential for individualized higher tariffs on certain other countries. Certain foreign governments either have taken or are threatening to take retaliatory actions in response. These changes in U.S. trade policy and tariffs have decreased demand for our services and have caused uncertainty and volatility in financial markets. Tariffs or other trade restrictions may lead to continuing uncertainty and volatility in U.S. and global financial and economic conditions, declining consumer confidence, inflation or an economic slowdown. These tariffs or other trade restrictions, including corresponding actions taken by other countries in response to U.S. governmental actions or continuing uncertainty around the timing or scale of tariffs, could continue to decrease demand for our services or could increase the cost to us of equipment, goods and materials used in our business, which could have a material adverse effect on our financial condition, results of operation, liquidity and cash flows.
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+—
+
+Issuer Purchases of Equity Securities
+
+Period
+
+(a) Total
+Number of
+Shares (or
+Units)
+Purchased (1)
+
+(b) Average
+Price Paid
+per Share
+(or Unit)
+
+(c) Total Number
+of Shares (or Units)
+Purchased as Part
+of Publicly
+Announced Plans
+or Programs
+
+(d) Maximum
+Number (or
+Approximate Dollar
+Value) of Shares (or
+Units) that may Yet
+be Purchased under
+the Plans or Programs
+
+July 1, 2025 through
+
+July 31, 2025
+
+—
+
+(2)
+
+$—
+
+(2)
+
+—
+
+$—
+
+August 1, 2025 through
+
+August 31, 2025
+
+—
+
+(3)
+
+$—
+
+(3)
+
+—
+
+—
+
+September 1, 2025 through
+
+September 30, 2025
+
+—
+
+(4)
+
+$—
+
+(4)
+
+—
+
+—
+
+Total
+
+—
+
+—
+
+(1)
+
+Any shares purchased by the Saia, Inc. Executive Capital Accumulation Plan are open market purchases.  For more information on the Saia, Inc. Executive Capital Accumulation Plan, see the Registration Statement on Form S-8 (No. 333-155805) filed on December 1, 2008.
+
+(2)
+
+The Saia, Inc. Executive Capital Accumulation Plan sold 380 shares of Saia stock at an average price of $303.45 during the period of July 1, 2025 through July 31, 2025.
+
+(3)
+
+The Saia, Inc. Executive Capital Accumulation Plan sold 3,631 shares of Saia stock at an average price of $299.32 during the period of August 1, 2025 through August 31, 2025.
+
+(4)
+
+The Saia, Inc. Executive Capital Accumulation Plan had no sales of Saia stock during the period of September 1, 2025 through September 30, 2025.
+
+23
+
+Item 5. Other Information 
+— During the three months ended September 30, 2025
+, none of our directors or Section 16 officers 
+adopted
+ or 
+terminated
+ any contract, instruction, or written plan for the purchase or sale of our securities that was intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) of the Securities Exchange Act or any non-Rule 10b5-1 trading arrangement (as defined in Item 408(c) of Regulation S-K).
+
+24
+
+Item 6. 
+Exhibits
+
+Exhibit
+
+Number
+
+Description of Exhibit
+
+  3.1
+
+Second Amended and Restated Certificate of Incorporation of Saia, Inc. (incorporated herein by reference to Exhibit 3.1 of Saia, Inc.’s Form 8-K (File No. 0-49983) filed on May 1, 2024).
+
+ 3.2
+
+Amended and Restated By-laws of Saia, Inc. (incorporated herein by reference to Exhibit 3.1 of Saia, Inc.’s Form 8-K (File No. 0-49983) filed on July 29, 2008)
+.
+
+31.1
+
+Certification of Principal Executive Officer Pursuant to Exchange Act Rule 13a-15(e).
+
+31.2
+
+Certification of Principal Financial Officer Pursuant to Exchange Act Rule 13a-15(e).
+
+32.1
+
+Certification of Principal Executive Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+32.2
+
+Certification of Principal Financial Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+101
+
+The following financial information from Saia, Inc.’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2025, formatted in iXBRL (Inline Extensible Business Reporting Language) includes: (i) Condensed Consolidated Balance Sheets as of September 30, 2025 and December 31, 2024 (unaudited), (ii) Condensed Consolidated Statements of Operations for the quarters and nine months ended September 30, 2025 and 2024 (unaudited), (iii) Consolidated Statements of Stockholders’ Equity for the quarters  ended  September 30, 2025 and 2024 (unaudited), (iv) Condensed Consolidated Statements of Cash Flows for the nine months ended September 30, 2025 and 2024 (unaudited), and (v) the Notes to Condensed Consolidated Financial Statements (unaudited). XBRL Instance Document – the XBRL Instance Document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
+
+104
+
+The cover page from Saia’s Quarterly Report on Form 10-Q for the quarter ended 
+September 30, 2025, formatted in Inline XBRL (included as Exhibit 101).
+
+25
+
+SIGNA
+TURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+SAIA, INC.
+
+Date: October 30, 2025
+
+ /s/ Matthew J. Batteh
+
+Matthew J. Batteh
+
+Executive Vice President and Chief Financial Officer
+
+26

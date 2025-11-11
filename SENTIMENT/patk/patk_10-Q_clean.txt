@@ -1,0 +1,5049 @@
+patk-20250928
+0000076605
+12/31
+2025
+Q3
+FALSE
+1.5
+1.5
+1.5
+SUBSEQUENT EVENTS
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+xbrli:pure
+patk:acquisition
+patk:tranche
+patk:segment
+0000076605
+2025-01-01
+2025-09-28
+0000076605
+2025-10-31
+0000076605
+2025-06-30
+2025-09-28
+0000076605
+2024-07-01
+2024-09-29
+0000076605
+2024-01-01
+2024-09-29
+0000076605
+2024-11-18
+2024-11-18
+0000076605
+2025-09-28
+0000076605
+2024-12-31
+0000076605
+2023-12-31
+0000076605
+2024-09-29
+0000076605
+us-gaap:CommonStockMember
+2025-06-29
+0000076605
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-06-29
+0000076605
+us-gaap:RetainedEarningsMember
+2025-06-29
+0000076605
+2025-06-29
+0000076605
+us-gaap:RetainedEarningsMember
+2025-06-30
+2025-09-28
+0000076605
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-06-30
+2025-09-28
+0000076605
+us-gaap:CommonStockMember
+2025-06-30
+2025-09-28
+0000076605
+us-gaap:CommonStockMember
+2025-09-28
+0000076605
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-09-28
+0000076605
+us-gaap:RetainedEarningsMember
+2025-09-28
+0000076605
+us-gaap:CommonStockMember
+2024-06-30
+0000076605
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-06-30
+0000076605
+us-gaap:RetainedEarningsMember
+2024-06-30
+0000076605
+2024-06-30
+0000076605
+us-gaap:RetainedEarningsMember
+2024-07-01
+2024-09-29
+0000076605
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-07-01
+2024-09-29
+0000076605
+us-gaap:CommonStockMember
+2024-07-01
+2024-09-29
+0000076605
+us-gaap:CommonStockMember
+2024-09-29
+0000076605
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-09-29
+0000076605
+us-gaap:RetainedEarningsMember
+2024-09-29
+0000076605
+us-gaap:CommonStockMember
+2024-12-31
+0000076605
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-31
+0000076605
+us-gaap:RetainedEarningsMember
+2024-12-31
+0000076605
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-09-28
+0000076605
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-01-01
+2025-09-28
+0000076605
+us-gaap:CommonStockMember
+2025-01-01
+2025-09-28
+0000076605
+us-gaap:CommonStockMember
+2023-12-31
+0000076605
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-12-31
+0000076605
+us-gaap:RetainedEarningsMember
+2023-12-31
+0000076605
+us-gaap:RetainedEarningsMember
+2024-01-01
+2024-09-29
+0000076605
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-01-01
+2024-09-29
+0000076605
+us-gaap:CommonStockMember
+2024-01-01
+2024-09-29
+0000076605
+patk:RvCustomer1Member
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:SalesRevenueSegmentMember
+2025-06-30
+2025-09-28
+0000076605
+patk:RvCustomer1Member
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:SalesRevenueSegmentMember
+2024-07-01
+2024-09-29
+0000076605
+patk:RvCustomer1Member
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:SalesRevenueSegmentMember
+2025-01-01
+2025-09-28
+0000076605
+patk:RvCustomer1Member
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:SalesRevenueSegmentMember
+2024-01-01
+2024-09-29
+0000076605
+patk:RvCustomer2Member
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:SalesRevenueSegmentMember
+2025-06-30
+2025-09-28
+0000076605
+patk:RvCustomer2Member
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:SalesRevenueSegmentMember
+2024-07-01
+2024-09-29
+0000076605
+patk:RvCustomer2Member
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:SalesRevenueSegmentMember
+2025-01-01
+2025-09-28
+0000076605
+patk:RvCustomer2Member
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:SalesRevenueSegmentMember
+2024-01-01
+2024-09-29
+0000076605
+patk:RvCustomer2Member
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:AccountsReceivableMember
+2025-01-01
+2025-09-28
+0000076605
+patk:RvCustomer2Member
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:AccountsReceivableMember
+2024-01-01
+2024-12-31
+0000076605
+patk:RvCustomer1Member
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:AccountsReceivableMember
+2025-01-01
+2025-09-28
+0000076605
+patk:RvCustomer1Member
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:AccountsReceivableMember
+2024-01-01
+2024-12-31
+0000076605
+patk:RecreationalVehicleMember
+patk:ManufacturingMember
+2025-06-30
+2025-09-28
+0000076605
+patk:RecreationalVehicleMember
+patk:DistributionMember
+2025-06-30
+2025-09-28
+0000076605
+patk:RecreationalVehicleMember
+2025-06-30
+2025-09-28
+0000076605
+patk:MarineMember
+patk:ManufacturingMember
+2025-06-30
+2025-09-28
+0000076605
+patk:MarineMember
+patk:DistributionMember
+2025-06-30
+2025-09-28
+0000076605
+patk:MarineMember
+2025-06-30
+2025-09-28
+0000076605
+patk:PowersportsMember
+patk:ManufacturingMember
+2025-06-30
+2025-09-28
+0000076605
+patk:PowersportsMember
+patk:DistributionMember
+2025-06-30
+2025-09-28
+0000076605
+patk:PowersportsMember
+2025-06-30
+2025-09-28
+0000076605
+patk:ManufacturedHousingMember
+patk:ManufacturingMember
+2025-06-30
+2025-09-28
+0000076605
+patk:ManufacturedHousingMember
+patk:DistributionMember
+2025-06-30
+2025-09-28
+0000076605
+patk:ManufacturedHousingMember
+2025-06-30
+2025-09-28
+0000076605
+patk:IndustrialMember
+patk:ManufacturingMember
+2025-06-30
+2025-09-28
+0000076605
+patk:IndustrialMember
+patk:DistributionMember
+2025-06-30
+2025-09-28
+0000076605
+patk:IndustrialMember
+2025-06-30
+2025-09-28
+0000076605
+patk:ManufacturingMember
+2025-06-30
+2025-09-28
+0000076605
+patk:DistributionMember
+2025-06-30
+2025-09-28
+0000076605
+patk:RecreationalVehicleMember
+patk:ManufacturingMember
+2024-07-01
+2024-09-29
+0000076605
+patk:RecreationalVehicleMember
+patk:DistributionMember
+2024-07-01
+2024-09-29
+0000076605
+patk:RecreationalVehicleMember
+2024-07-01
+2024-09-29
+0000076605
+patk:MarineMember
+patk:ManufacturingMember
+2024-07-01
+2024-09-29
+0000076605
+patk:MarineMember
+patk:DistributionMember
+2024-07-01
+2024-09-29
+0000076605
+patk:MarineMember
+2024-07-01
+2024-09-29
+0000076605
+patk:PowersportsMember
+patk:ManufacturingMember
+2024-07-01
+2024-09-29
+0000076605
+patk:PowersportsMember
+patk:DistributionMember
+2024-07-01
+2024-09-29
+0000076605
+patk:PowersportsMember
+2024-07-01
+2024-09-29
+0000076605
+patk:ManufacturedHousingMember
+patk:ManufacturingMember
+2024-07-01
+2024-09-29
+0000076605
+patk:ManufacturedHousingMember
+patk:DistributionMember
+2024-07-01
+2024-09-29
+0000076605
+patk:ManufacturedHousingMember
+2024-07-01
+2024-09-29
+0000076605
+patk:IndustrialMember
+patk:ManufacturingMember
+2024-07-01
+2024-09-29
+0000076605
+patk:IndustrialMember
+patk:DistributionMember
+2024-07-01
+2024-09-29
+0000076605
+patk:IndustrialMember
+2024-07-01
+2024-09-29
+0000076605
+patk:ManufacturingMember
+2024-07-01
+2024-09-29
+0000076605
+patk:DistributionMember
+2024-07-01
+2024-09-29
+0000076605
+patk:RecreationalVehicleMember
+patk:ManufacturingMember
+2025-01-01
+2025-09-28
+0000076605
+patk:RecreationalVehicleMember
+patk:DistributionMember
+2025-01-01
+2025-09-28
+0000076605
+patk:RecreationalVehicleMember
+2025-01-01
+2025-09-28
+0000076605
+patk:MarineMember
+patk:ManufacturingMember
+2025-01-01
+2025-09-28
+0000076605
+patk:MarineMember
+patk:DistributionMember
+2025-01-01
+2025-09-28
+0000076605
+patk:MarineMember
+2025-01-01
+2025-09-28
+0000076605
+patk:PowersportsMember
+patk:ManufacturingMember
+2025-01-01
+2025-09-28
+0000076605
+patk:PowersportsMember
+patk:DistributionMember
+2025-01-01
+2025-09-28
+0000076605
+patk:PowersportsMember
+2025-01-01
+2025-09-28
+0000076605
+patk:ManufacturedHousingMember
+patk:ManufacturingMember
+2025-01-01
+2025-09-28
+0000076605
+patk:ManufacturedHousingMember
+patk:DistributionMember
+2025-01-01
+2025-09-28
+0000076605
+patk:ManufacturedHousingMember
+2025-01-01
+2025-09-28
+0000076605
+patk:IndustrialMember
+patk:ManufacturingMember
+2025-01-01
+2025-09-28
+0000076605
+patk:IndustrialMember
+patk:DistributionMember
+2025-01-01
+2025-09-28
+0000076605
+patk:IndustrialMember
+2025-01-01
+2025-09-28
+0000076605
+patk:ManufacturingMember
+2025-01-01
+2025-09-28
+0000076605
+patk:DistributionMember
+2025-01-01
+2025-09-28
+0000076605
+patk:RecreationalVehicleMember
+patk:ManufacturingMember
+2024-01-01
+2024-09-29
+0000076605
+patk:RecreationalVehicleMember
+patk:DistributionMember
+2024-01-01
+2024-09-29
+0000076605
+patk:RecreationalVehicleMember
+2024-01-01
+2024-09-29
+0000076605
+patk:MarineMember
+patk:ManufacturingMember
+2024-01-01
+2024-09-29
+0000076605
+patk:MarineMember
+patk:DistributionMember
+2024-01-01
+2024-09-29
+0000076605
+patk:MarineMember
+2024-01-01
+2024-09-29
+0000076605
+patk:PowersportsMember
+patk:ManufacturingMember
+2024-01-01
+2024-09-29
+0000076605
+patk:PowersportsMember
+patk:DistributionMember
+2024-01-01
+2024-09-29
+0000076605
+patk:PowersportsMember
+2024-01-01
+2024-09-29
+0000076605
+patk:ManufacturedHousingMember
+patk:ManufacturingMember
+2024-01-01
+2024-09-29
+0000076605
+patk:ManufacturedHousingMember
+patk:DistributionMember
+2024-01-01
+2024-09-29
+0000076605
+patk:ManufacturedHousingMember
+2024-01-01
+2024-09-29
+0000076605
+patk:IndustrialMember
+patk:ManufacturingMember
+2024-01-01
+2024-09-29
+0000076605
+patk:IndustrialMember
+patk:DistributionMember
+2024-01-01
+2024-09-29
+0000076605
+patk:IndustrialMember
+2024-01-01
+2024-09-29
+0000076605
+patk:ManufacturingMember
+2024-01-01
+2024-09-29
+0000076605
+patk:DistributionMember
+2024-01-01
+2024-09-29
+0000076605
+patk:ManufacturedGoodsMember
+2025-09-28
+0000076605
+patk:ManufacturedGoodsMember
+2024-12-31
+0000076605
+patk:DistributedGoodsMember
+2025-09-28
+0000076605
+patk:DistributedGoodsMember
+2024-12-31
+0000076605
+patk:ManufacturingMember
+2024-12-31
+0000076605
+patk:DistributionMember
+2024-12-31
+0000076605
+patk:ManufacturingMember
+2025-09-28
+0000076605
+patk:DistributionMember
+2025-09-28
+0000076605
+us-gaap:CustomerRelationshipsMember
+2025-09-28
+0000076605
+us-gaap:CustomerRelationshipsMember
+2024-12-31
+0000076605
+us-gaap:NoncompeteAgreementsMember
+2025-09-28
+0000076605
+us-gaap:NoncompeteAgreementsMember
+2024-12-31
+0000076605
+us-gaap:PatentsMember
+2025-09-28
+0000076605
+us-gaap:PatentsMember
+2024-12-31
+0000076605
+us-gaap:TrademarksMember
+2025-09-28
+0000076605
+us-gaap:TrademarksMember
+2024-12-31
+0000076605
+us-gaap:OperatingSegmentsMember
+patk:ManufacturingMember
+2024-12-31
+0000076605
+us-gaap:OperatingSegmentsMember
+patk:DistributionMember
+2024-12-31
+0000076605
+us-gaap:OperatingSegmentsMember
+patk:ManufacturingMember
+2025-01-01
+2025-09-28
+0000076605
+us-gaap:OperatingSegmentsMember
+patk:DistributionMember
+2025-01-01
+2025-09-28
+0000076605
+us-gaap:OperatingSegmentsMember
+patk:ManufacturingMember
+2025-09-28
+0000076605
+us-gaap:OperatingSegmentsMember
+patk:DistributionMember
+2025-09-28
+0000076605
+patk:A2025AcquisitionsMember
+2025-06-30
+2025-09-28
+0000076605
+patk:A2025AcquisitionsMember
+2025-01-01
+2025-09-28
+0000076605
+patk:A2024AcquisitionsMember
+2024-07-01
+2024-09-29
+0000076605
+patk:A2024AcquisitionsMember
+2024-01-01
+2024-09-29
+0000076605
+patk:ContingentConsiderationLiabilityMember
+2025-06-29
+0000076605
+patk:ContingentConsiderationLiabilityMember
+2024-06-30
+0000076605
+patk:ContingentConsiderationLiabilityMember
+2024-12-31
+0000076605
+patk:ContingentConsiderationLiabilityMember
+2023-12-31
+0000076605
+patk:ContingentConsiderationLiabilityMember
+2025-06-30
+2025-09-28
+0000076605
+patk:ContingentConsiderationLiabilityMember
+2024-07-01
+2024-09-29
+0000076605
+patk:ContingentConsiderationLiabilityMember
+2025-01-01
+2025-09-28
+0000076605
+patk:ContingentConsiderationLiabilityMember
+2024-01-01
+2024-09-29
+0000076605
+patk:ContingentConsiderationLiabilityMember
+2025-09-28
+0000076605
+patk:ContingentConsiderationLiabilityMember
+2024-09-29
+0000076605
+2024-01-01
+2024-12-31
+0000076605
+patk:A2024AcquisitionsMember
+2024-01-01
+2024-12-31
+0000076605
+patk:CertainAcquisitionsMember
+2024-01-01
+2024-12-31
+0000076605
+patk:SportechMember
+2024-01-01
+2024-12-31
+0000076605
+patk:AllOtherAcquiredEntitiesMember
+2024-01-01
+2024-12-31
+0000076605
+patk:AcquiredEntitiesMember
+2024-01-01
+2024-12-31
+0000076605
+patk:SportechMember
+2025-01-01
+2025-09-28
+0000076605
+patk:AllOtherAcquiredEntitiesMember
+2025-01-01
+2025-09-28
+0000076605
+patk:AcquiredEntitiesMember
+2025-01-01
+2025-03-30
+0000076605
+patk:A2025AcquisitionsMember
+2025-09-28
+0000076605
+patk:SportechMember
+2024-12-31
+0000076605
+patk:AllOtherAcquiredEntitiesMember
+2024-12-31
+0000076605
+patk:AcquiredEntitiesMember
+2024-12-31
+0000076605
+patk:A2025AcquisitionsMember
+us-gaap:CustomerRelationshipsMember
+2025-09-28
+0000076605
+patk:SportechMember
+us-gaap:CustomerRelationshipsMember
+2024-12-31
+0000076605
+patk:AllOtherAcquiredEntitiesMember
+us-gaap:CustomerRelationshipsMember
+2024-12-31
+0000076605
+patk:AcquiredEntitiesMember
+us-gaap:CustomerRelationshipsMember
+2024-12-31
+0000076605
+patk:A2025AcquisitionsMember
+us-gaap:NoncompeteAgreementsMember
+2025-09-28
+0000076605
+patk:SportechMember
+us-gaap:NoncompeteAgreementsMember
+2024-12-31
+0000076605
+patk:AllOtherAcquiredEntitiesMember
+us-gaap:NoncompeteAgreementsMember
+2024-12-31
+0000076605
+patk:AcquiredEntitiesMember
+us-gaap:NoncompeteAgreementsMember
+2024-12-31
+0000076605
+patk:A2025AcquisitionsMember
+patk:PatentsAndDevelopedTechnologyMember
+2025-09-28
+0000076605
+patk:SportechMember
+patk:PatentsAndDevelopedTechnologyMember
+2024-12-31
+0000076605
+patk:AllOtherAcquiredEntitiesMember
+patk:PatentsAndDevelopedTechnologyMember
+2024-12-31
+0000076605
+patk:AcquiredEntitiesMember
+patk:PatentsAndDevelopedTechnologyMember
+2024-12-31
+0000076605
+us-gaap:TrademarksMember
+patk:A2025AcquisitionsMember
+2025-09-28
+0000076605
+us-gaap:TrademarksMember
+patk:SportechMember
+2024-12-31
+0000076605
+us-gaap:TrademarksMember
+patk:AllOtherAcquiredEntitiesMember
+2024-12-31
+0000076605
+us-gaap:TrademarksMember
+patk:AcquiredEntitiesMember
+2024-12-31
+0000076605
+us-gaap:CustomerRelationshipsMember
+2025-01-01
+2025-09-28
+0000076605
+us-gaap:NoncompeteAgreementsMember
+2025-01-01
+2025-09-28
+0000076605
+us-gaap:PatentsMember
+2025-01-01
+2025-09-28
+0000076605
+srt:MinimumMember
+us-gaap:PatentsMember
+2025-01-01
+2025-09-28
+0000076605
+srt:MaximumMember
+us-gaap:PatentsMember
+2025-01-01
+2025-09-28
+0000076605
+us-gaap:StockAppreciationRightsSARSMember
+2025-02-25
+2025-02-25
+0000076605
+us-gaap:StockAppreciationRightsSARSMember
+2025-02-25
+0000076605
+us-gaap:StockAppreciationRightsSARSMember
+us-gaap:ShareBasedCompensationAwardTrancheOneMember
+2025-02-25
+0000076605
+us-gaap:StockAppreciationRightsSARSMember
+us-gaap:ShareBasedCompensationAwardTrancheTwoMember
+2025-02-25
+0000076605
+us-gaap:StockAppreciationRightsSARSMember
+us-gaap:ShareBasedCompensationAwardTrancheThreeMember
+2025-02-25
+0000076605
+us-gaap:StockAppreciationRightsSARSMember
+patk:ShareBasedPaymentArrangementTrancheFourMember
+2025-02-25
+0000076605
+us-gaap:StockAppreciationRightsSARSMember
+2025-01-01
+2025-09-28
+0000076605
+us-gaap:StockAppreciationRightsSARSMember
+2025-09-28
+0000076605
+2025-02-25
+2025-02-25
+0000076605
+us-gaap:EmployeeStockOptionMember
+2025-02-25
+2025-02-25
+0000076605
+us-gaap:EmployeeStockOptionMember
+2025-09-28
+0000076605
+us-gaap:EmployeeStockOptionMember
+2025-01-01
+2025-09-28
+0000076605
+2025-01-01
+2025-03-30
+0000076605
+patk:TermLoanMember
+2025-09-28
+0000076605
+patk:TermLoanMember
+2024-12-31
+0000076605
+us-gaap:LineOfCreditMember
+2025-09-28
+0000076605
+us-gaap:LineOfCreditMember
+2024-12-31
+0000076605
+patk:ConvertibleNotesDue2028175PercentMember
+2025-09-28
+0000076605
+patk:ConvertibleNotesDue2028175PercentMember
+2024-12-31
+0000076605
+patk:ConvertibleNotesDue2028175PercentMember
+us-gaap:ConvertibleDebtMember
+2025-09-28
+0000076605
+patk:ConvertibleNotesDue2028175PercentMember
+us-gaap:ConvertibleDebtMember
+2024-12-31
+0000076605
+patk:SeniorNotesDue2029475PercentMember
+us-gaap:SeniorNotesMember
+2025-09-28
+0000076605
+patk:SeniorNotesDue2029475PercentMember
+us-gaap:SeniorNotesMember
+2024-12-31
+0000076605
+patk:ConvertibleNotesDue20296.375PercentMember
+us-gaap:SeniorNotesMember
+2024-12-31
+0000076605
+patk:ConvertibleNotesDue20296.375PercentMember
+us-gaap:SeniorNotesMember
+2025-09-28
+0000076605
+patk:A6.375SeniorNotesDue2032Member
+us-gaap:SeniorNotesMember
+2025-09-28
+0000076605
+patk:A6.375SeniorNotesDue2032Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0000076605
+us-gaap:ConvertibleDebtMember
+2025-09-28
+0000076605
+us-gaap:ConvertibleDebtMember
+2024-12-31
+0000076605
+us-gaap:SeniorNotesMember
+2025-09-28
+0000076605
+us-gaap:SeniorNotesMember
+2024-12-31
+0000076605
+us-gaap:RevolvingCreditFacilityMember
+patk:A2024CreditFacilityMember
+us-gaap:LineOfCreditMember
+2025-09-28
+0000076605
+patk:TermLoanDue2029Member
+patk:A2024CreditFacilityMember
+2025-09-28
+0000076605
+us-gaap:RevolvingCreditFacilityMember
+2025-01-01
+2025-09-28
+0000076605
+us-gaap:RevolvingCreditFacilityMember
+2025-09-28
+0000076605
+patk:ConvertibleNotesDue2028175PercentMember
+us-gaap:ConvertibleDebtMember
+2025-01-01
+2025-09-28
+0000076605
+us-gaap:FairValueInputsLevel1Member
+patk:ConvertibleNotesDue2028175PercentMember
+us-gaap:ConvertibleNotesPayableMember
+2025-09-28
+0000076605
+us-gaap:FairValueInputsLevel2Member
+patk:ConvertibleNotesDue2028175PercentMember
+us-gaap:ConvertibleNotesPayableMember
+2025-09-28
+0000076605
+us-gaap:FairValueInputsLevel3Member
+patk:ConvertibleNotesDue2028175PercentMember
+us-gaap:ConvertibleNotesPayableMember
+2025-09-28
+0000076605
+us-gaap:FairValueInputsLevel1Member
+patk:ConvertibleNotesDue2028175PercentMember
+us-gaap:ConvertibleNotesPayableMember
+2024-12-31
+0000076605
+us-gaap:FairValueInputsLevel2Member
+patk:ConvertibleNotesDue2028175PercentMember
+us-gaap:ConvertibleNotesPayableMember
+2024-12-31
+0000076605
+us-gaap:FairValueInputsLevel3Member
+patk:ConvertibleNotesDue2028175PercentMember
+us-gaap:ConvertibleNotesPayableMember
+2024-12-31
+0000076605
+us-gaap:FairValueInputsLevel1Member
+patk:SeniorNotesDue2029475PercentMember
+us-gaap:SeniorNotesMember
+2025-09-28
+0000076605
+us-gaap:FairValueInputsLevel2Member
+patk:SeniorNotesDue2029475PercentMember
+us-gaap:SeniorNotesMember
+2025-09-28
+0000076605
+us-gaap:FairValueInputsLevel3Member
+patk:SeniorNotesDue2029475PercentMember
+us-gaap:SeniorNotesMember
+2025-09-28
+0000076605
+us-gaap:FairValueInputsLevel1Member
+patk:SeniorNotesDue2029475PercentMember
+us-gaap:SeniorNotesMember
+2024-12-31
+0000076605
+us-gaap:FairValueInputsLevel2Member
+patk:SeniorNotesDue2029475PercentMember
+us-gaap:SeniorNotesMember
+2024-12-31
+0000076605
+us-gaap:FairValueInputsLevel3Member
+patk:SeniorNotesDue2029475PercentMember
+us-gaap:SeniorNotesMember
+2024-12-31
+0000076605
+us-gaap:FairValueInputsLevel1Member
+patk:ConvertibleNotesDue20296.375PercentMember
+us-gaap:SeniorNotesMember
+2025-09-28
+0000076605
+us-gaap:FairValueInputsLevel2Member
+patk:ConvertibleNotesDue20296.375PercentMember
+us-gaap:SeniorNotesMember
+2025-09-28
+0000076605
+us-gaap:FairValueInputsLevel3Member
+patk:ConvertibleNotesDue20296.375PercentMember
+us-gaap:SeniorNotesMember
+2025-09-28
+0000076605
+us-gaap:FairValueInputsLevel1Member
+patk:ConvertibleNotesDue20296.375PercentMember
+us-gaap:SeniorNotesMember
+2024-12-31
+0000076605
+us-gaap:FairValueInputsLevel2Member
+patk:ConvertibleNotesDue20296.375PercentMember
+us-gaap:SeniorNotesMember
+2024-12-31
+0000076605
+us-gaap:FairValueInputsLevel3Member
+patk:ConvertibleNotesDue20296.375PercentMember
+us-gaap:SeniorNotesMember
+2024-12-31
+0000076605
+patk:TermLoanDue2029Member
+us-gaap:FairValueInputsLevel1Member
+2025-09-28
+0000076605
+patk:TermLoanDue2029Member
+us-gaap:FairValueInputsLevel2Member
+2025-09-28
+0000076605
+patk:TermLoanDue2029Member
+us-gaap:FairValueInputsLevel3Member
+2025-09-28
+0000076605
+patk:TermLoanDue2029Member
+us-gaap:FairValueInputsLevel1Member
+2024-12-31
+0000076605
+patk:TermLoanDue2029Member
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0000076605
+patk:TermLoanDue2029Member
+us-gaap:FairValueInputsLevel3Member
+2024-12-31
+0000076605
+us-gaap:LineOfCreditMember
+us-gaap:FairValueInputsLevel1Member
+2025-09-28
+0000076605
+us-gaap:LineOfCreditMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-28
+0000076605
+us-gaap:LineOfCreditMember
+us-gaap:FairValueInputsLevel3Member
+2025-09-28
+0000076605
+us-gaap:LineOfCreditMember
+us-gaap:FairValueInputsLevel1Member
+2024-12-31
+0000076605
+us-gaap:LineOfCreditMember
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0000076605
+us-gaap:LineOfCreditMember
+us-gaap:FairValueInputsLevel3Member
+2024-12-31
+0000076605
+patk:ContingentConsiderationMember
+us-gaap:FairValueInputsLevel1Member
+2025-09-28
+0000076605
+patk:ContingentConsiderationMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-28
+0000076605
+patk:ContingentConsiderationMember
+us-gaap:FairValueInputsLevel3Member
+2025-09-28
+0000076605
+patk:ContingentConsiderationMember
+us-gaap:FairValueInputsLevel1Member
+2024-12-31
+0000076605
+patk:ContingentConsiderationMember
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0000076605
+patk:ContingentConsiderationMember
+us-gaap:FairValueInputsLevel3Member
+2024-12-31
+0000076605
+us-gaap:OperatingSegmentsMember
+patk:ManufacturingMember
+2025-06-30
+2025-09-28
+0000076605
+us-gaap:OperatingSegmentsMember
+patk:DistributionMember
+2025-06-30
+2025-09-28
+0000076605
+us-gaap:OperatingSegmentsMember
+2025-06-30
+2025-09-28
+0000076605
+us-gaap:IntersegmentEliminationMember
+2025-06-30
+2025-09-28
+0000076605
+us-gaap:OperatingSegmentsMember
+patk:ManufacturingMember
+2024-07-01
+2024-09-29
+0000076605
+us-gaap:OperatingSegmentsMember
+patk:DistributionMember
+2024-07-01
+2024-09-29
+0000076605
+us-gaap:OperatingSegmentsMember
+2024-07-01
+2024-09-29
+0000076605
+us-gaap:IntersegmentEliminationMember
+2024-07-01
+2024-09-29
+0000076605
+us-gaap:OperatingSegmentsMember
+2025-01-01
+2025-09-28
+0000076605
+us-gaap:IntersegmentEliminationMember
+2025-01-01
+2025-09-28
+0000076605
+us-gaap:OperatingSegmentsMember
+patk:ManufacturingMember
+2024-01-01
+2024-09-29
+0000076605
+us-gaap:OperatingSegmentsMember
+patk:DistributionMember
+2024-01-01
+2024-09-29
+0000076605
+us-gaap:OperatingSegmentsMember
+2024-01-01
+2024-09-29
+0000076605
+us-gaap:IntersegmentEliminationMember
+2024-01-01
+2024-09-29
+0000076605
+srt:ConsolidationEliminationsMember
+2025-06-30
+2025-09-28
+0000076605
+srt:ConsolidationEliminationsMember
+2024-07-01
+2024-09-29
+0000076605
+srt:ConsolidationEliminationsMember
+2025-01-01
+2025-09-28
+0000076605
+srt:ConsolidationEliminationsMember
+2024-01-01
+2024-09-29
+0000076605
+us-gaap:CorporateNonSegmentMember
+2025-06-30
+2025-09-28
+0000076605
+us-gaap:CorporateNonSegmentMember
+2024-07-01
+2024-09-29
+0000076605
+us-gaap:CorporateNonSegmentMember
+2025-01-01
+2025-09-28
+0000076605
+us-gaap:CorporateNonSegmentMember
+2024-01-01
+2024-09-29
+0000076605
+us-gaap:CorporateNonSegmentMember
+2025-09-28
+0000076605
+us-gaap:CorporateNonSegmentMember
+2024-12-31
+0000076605
+us-gaap:MaterialReconcilingItemsMember
+2025-09-28
+0000076605
+us-gaap:MaterialReconcilingItemsMember
+2024-12-31
+0000076605
+patk:ShareholderRepurchaseProgramMember
+srt:BoardOfDirectorsChairmanMember
+2024-11-01
+2024-11-30
+0000076605
+patk:ShareholderRepurchaseProgramMember
+srt:BoardOfDirectorsChairmanMember
+2024-11-30
+0000076605
+patk:ShareholderRepurchaseProgramMember
+2024-11-30
+0000076605
+patk:ShareholderRepurchaseProgramMember
+srt:BoardOfDirectorsChairmanMember
+2025-09-28
+0000076605
+patk:ShareholderRepurchaseProgramMember
+2025-06-30
+2025-09-28
+0000076605
+patk:ShareholderRepurchaseProgramMember
+2024-07-01
+2024-09-29
+0000076605
+patk:ShareholderRepurchaseProgramMember
+2025-01-01
+2025-09-28
+0000076605
+patk:ShareholderRepurchaseProgramMember
+2024-01-01
+2024-09-29
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM 
+10-Q
+
+☒
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+THE SECURITIES EXCHANGE ACT OF 1934
+FOR THE QUARTERLY PERIOD ENDED 
+September 28, 2025
+OR
+☐
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from ……………… to ………………
+
+Commission file number 
+000-03922
+
+PATRICK INDUSTRIES, INC.
+
+(Exact name of registrant as specified in its charter)
+Indiana
+35-1057796
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+
+107 W. Franklin St.
+Elkhart
+, 
+IN
+46516
+(Address of principal executive offices) 
+(ZIP Code)
+ (
+574
+)
+
+294-7511
+
+(Registrant’s telephone number, including area code)
+(Former name, former address and former fiscal year, if changed since last report)
+Securities registered pursuant to Section 12(b) of the Act: 
+Title of each class
+Trading Symbol
+Name of each exchange on which registered
+
+Common Stock, no par value
+
+PATK
+NASDAQ
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    
+Yes
+
+☒
+ No 
+☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).    
+Yes
+
+☒
+ No 
+☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and "emerging growth company" in Rule 12b-2 of the Exchange Act.                             
+Large accelerated filer
+
+☒
+Accelerated filer 
+
+☐
+Non-accelerated filer 
+
+☐
+Smaller reporting company 
+☐
+Emerging growth company 
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes ☐ No 
+☒
+As of October 31, 2025, there were 
+33,276,096
+ shares of the registrant’s common stock outstanding.
+
+PATRICK INDUSTRIES, INC.
+ Table of Contents 
+Page
+Part I. Financial Information
+
+Item 1.
+Financial Statements
+3
+Condensed Consolidated Statements of Income for the Three and 
+Nine
+ Months ended 
+September 28
+, 2025 and 
+September 2
+9
+, 2024 (Unaudited)
+3
+Condensed Consolidated Statements of Comprehensive Income for the Three and 
+Nine
+ Months ended 
+September 28
+, 2025 and 
+September
+ 29
+, 2024 (Unaudited)
+4
+Condensed Consolidated Balance Sheets as of 
+September 28
+, 2025 (Unaudited) and December 31, 2024
+5
+Condensed Consolidated Statements of Cash Flows for the 
+Nin
+e
+ Months ended 
+September 28
+, 2025 and 
+September
+ 2
+9,
+ 2024 (Unaudited)
+6
+Condensed Consolidated Statements of Shareholders' Equity for the Three and 
+Nine
+ Months ended 
+September 28
+, 2025 and 
+September 2
+9
+, 2024 (Unaudited)
+7
+Notes to Condensed Consolidated Financial Statements
+9
+Item 2.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+25
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+35
+Item 4.
+Controls and Proceeds
+36
+Part II. Other Information
+Item 1.
+Legal Proceedings
+38
+Item 1A.
+Risk Factors
+38
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+38
+Item 5.
+Other Information
+38
+Item 6.
+Exhibits
+39
+Signatures
+40
+2
+Table of Contents
+PART 1: FINANCIAL INFORMATION
+ITEM 1. FINANCIAL STATEMENTS
+PATRICK INDUSTRIES, INC. 
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME (Unaudited)
+Third Quarter Ended
+Nine Months Ended
+($ and shares in thousands, except per share data)
+September 28, 2025
+September 29, 2024
+September 28, 2025
+September 29, 2024
+Net sales
+$
+975,631
+
+$
+919,444
+
+$
+3,026,605
+
+$
+2,869,560
+
+Cost of goods sold
+754,667
+
+706,930
+
+2,326,418
+
+2,220,897
+
+Gross profit
+220,964
+
+212,514
+
+700,187
+
+648,663
+
+Operating expenses:
+
+  Warehouse and delivery
+44,449
+
+37,865
+
+135,106
+
+114,053
+
+  Selling, general and administrative
+86,022
+
+75,783
+
+273,159
+
+244,617
+
+  Amortization of intangible assets
+24,200
+
+24,449
+
+73,338
+
+71,545
+
+    Total operating expenses
+154,671
+
+138,097
+
+481,603
+
+430,215
+
+Operating income
+66,293
+
+74,417
+
+218,584
+
+218,448
+
+Interest expense, net
+18,451
+
+20,050
+
+56,432
+
+60,483
+
+Other expenses
+—
+
+—
+
+24,420
+
+—
+
+Income before income taxes
+47,842
+
+54,367
+
+137,732
+
+157,965
+
+Income taxes
+12,539
+
+13,501
+
+31,755
+
+34,122
+
+Net income
+$
+35,303
+
+$
+40,866
+
+$
+105,977
+
+$
+123,843
+
+Basic earnings per common share 
+(1)
+$
+1.09
+
+$
+1.25
+
+$
+3.26
+
+$
+3.80
+
+Diluted earnings per common share 
+(1)
+$
+1.01
+
+$
+1.20
+
+$
+3.08
+
+$
+3.70
+
+Weighted average shares outstanding – Basic 
+(1)
+32,381
+32,610
+32,523
+32,559
+Weighted average shares outstanding – Diluted 
+(1)
+35,081
+33,961
+34,440
+33,445
+(1)
+The prior year periods reflect the impact of the three-for-two stock split paid in December 2024. See Note 1 "Basis of Presentation and Significant Accounting Policies" for further details.
+See accompanying Notes to Condensed Consolidated Financial Statements.
+3
+Table of Contents
+PATRICK INDUSTRIES, INC. 
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (Unaudited)
+Third Quarter Ended
+Nine Months Ended
+($ in thousands)
+September 28, 2025
+September 29, 2024
+September 28, 2025
+September 29, 2024
+Net income
+$
+35,303
+
+$
+40,866
+
+$
+105,977
+
+$
+123,843
+
+Other comprehensive (loss) income, net of tax:
+Foreign currency translation (loss) gain
+(
+4
+)
+43
+
+(
+6
+)
+14
+
+Total other comprehensive (loss) income
+(
+4
+)
+43
+
+(
+6
+)
+14
+
+Comprehensive income
+$
+35,299
+
+$
+40,909
+
+$
+105,971
+
+$
+123,857
+
+See accompanying Notes to Condensed Consolidated Financial Statements.
+4
+Table of Contents
+PATRICK INDUSTRIES, INC. 
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(Unaudited)
+($ in thousands)
+September 28, 2025
+December 31, 2024
+ASSETS
+Current Assets:
+    Cash and cash equivalents
+$
+20,698
+
+$
+33,561
+
+    Trade and other receivables, net
+278,374
+
+178,206
+
+    Inventories
+599,685
+
+551,617
+
+    Prepaid expenses and other
+53,135
+
+59,233
+
+        Total current assets
+951,892
+
+822,617
+
+Property, plant and equipment, net
+412,118
+
+384,903
+
+Operating lease right-of-use assets
+201,192
+
+200,697
+
+Goodwill
+815,121
+
+797,236
+
+Intangible assets, net
+753,484
+
+802,889
+
+Other non-current assets
+13,368
+
+12,612
+
+        Total assets
+$
+3,147,175
+
+$
+3,020,954
+
+LIABILITIES AND SHAREHOLDERS’ EQUITY
+Current Liabilities:
+    Current maturities of long-term debt
+$
+6,250
+
+$
+6,250
+
+    Current operating lease liabilities
+54,643
+
+53,697
+
+    Accounts payable
+222,037
+
+187,915
+
+    Accrued liabilities
+124,648
+
+105,753
+
+        Total current liabilities
+407,578
+
+353,615
+
+Long-term debt, less current maturities, net
+1,320,343
+
+1,311,684
+
+Long-term operating lease liabilities
+150,985
+
+151,026
+
+Deferred tax liabilities, net
+83,140
+
+61,346
+
+Other long-term liabilities
+16,623
+
+14,917
+
+        Total liabilities
+1,978,669
+
+1,892,588
+
+Shareholders' equity
+
+Preferred shares, 
+no
+ par value per share, 
+1,000,000
+ shares authorized, 
+none
+ issued and outstanding
+—
+
+—
+
+Common stock, 
+no
+ par value per share, 
+60,000,000
+ shares authorized, 
+33,276,895
+ and 
+33,567,048
+ issued and outstanding as of September 28, 2025 and December 31, 2024, respectively
+206,324
+
+202,353
+
+Accumulated other comprehensive loss
+(
+932
+)
+(
+926
+)
+Retained earnings
+963,114
+
+926,939
+
+        Total shareholders' equity
+1,168,506
+
+1,128,366
+
+        Total liabilities and shareholders' equity
+$
+3,147,175
+
+$
+3,020,954
+
+See accompanying Notes to Condensed Consolidated Financial Statements.
+5
+Table of Contents
+PATRICK INDUSTRIES, INC. 
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (Unaudited)
+Nine Months Ended
+($ in thousands)
+September 28, 2025
+September 29, 2024
+Cash flows from operating activities
+
+Net income
+$
+105,977
+
+$
+123,843
+
+Adjustments to reconcile net income to net cash provided by operating activities:
+
+Depreciation and amortization 
+127,222
+
+124,002
+
+Stock-based compensation expense
+15,167
+
+14,367
+
+Deferred income taxes
+21,794
+
+—
+
+Amortization of deferred debt financing costs
+2,433
+
+2,428
+
+Loss (gain) on sale of property, plant and equipment
+2,065
+
+(
+402
+)
+Other
+(
+1,332
+)
+309
+
+Change in operating assets and liabilities, net of acquisitions of businesses:
+
+Trade and other receivables, net
+(
+96,274
+)
+(
+67,027
+)
+Inventories
+(
+38,052
+)
+2,803
+
+Prepaid expenses and other assets
+3,904
+
+(
+3,933
+)
+Accounts payable, accrued liabilities and other
+55,667
+
+27,800
+
+Net cash provided by operating activities
+198,571
+
+224,190
+
+Cash flows from investing activities
+Purchases of property, plant and equipment
+(
+64,744
+)
+(
+50,264
+)
+Proceeds from sale of property, plant and equipment
+2,240
+
+2,292
+
+Business acquisitions, net of cash acquired
+(
+70,322
+)
+(
+411,566
+)
+Other investing activities 
+(
+4,069
+)
+(
+25,863
+)
+Net cash used in investing activities
+(
+136,895
+)
+(
+485,401
+)
+Cash flows from financing activities
+Term debt repayments
+(
+3,125
+)
+(
+3,750
+)
+Borrowings on revolver
+619,879
+
+1,155,416
+
+Repayments on revolver
+(
+609,879
+)
+(
+790,416
+)
+Stock repurchases under buyback program
+(
+31,969
+)
+—
+
+Cash dividends paid to shareholders
+(
+39,974
+)
+(
+37,071
+)
+Taxes paid for share-based payment arrangements
+(
+8,919
+)
+(
+17,116
+)
+Payment of contingent consideration from business acquisitions
+(
+48
+)
+(
+4,595
+)
+Proceeds from exercise of common stock options
+—
+
+21
+
+Other financing activities
+(
+504
+)
+(
+81
+)
+Net cash (used in) provided by financing activities
+(
+74,539
+)
+302,408
+
+Net (decrease) increase in cash and cash equivalents
+(
+12,863
+)
+41,197
+
+Cash and cash equivalents at beginning of year
+33,561
+
+11,409
+
+Cash and cash equivalents at end of period
+$
+20,698
+
+$
+52,606
+
+See accompanying Notes to Condensed Consolidated Financial Statements.
+6
+Table of Contents
+PATRICK INDUSTRIES, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY (Unaudited)
+Third Quarter Ended September 28, 2025
+($ in thousands)
+Common
+Stock
+Accumulated Other
+Comprehensive Loss
+Retained
+Earnings
+Total
+Balance at June 29, 2025
+$
+202,765
+
+$
+(
+928
+)
+$
+941,272
+
+$
+1,143,109
+
+Net income
+— 
+— 
+35,303
+
+35,303
+
+Dividends declared
+— 
+— 
+(
+13,461
+)
+(
+13,461
+)
+Other comprehensive loss, net of tax
+— 
+(
+4
+)
+— 
+(
+4
+)
+Repurchase of shares for tax payments related to the vesting and exercising of share-based grants
+(
+308
+)
+— 
+— 
+(
+308
+)
+Stock-based compensation expense
+3,867
+
+— 
+— 
+3,867
+
+Balance at September 28, 2025
+$
+206,324
+
+$
+(
+932
+)
+$
+963,114
+
+$
+1,168,506
+
+Third Quarter Ended September 29, 2024
+($ in thousands)
+Common
+Stock
+Accumulated Other
+Comprehensive Loss
+Retained
+Earnings
+Total
+Balance at June 30, 2024
+$
+198,138
+
+$
+(
+1,028
+)
+$
+901,394
+
+$
+1,098,504
+
+Net income
+— 
+— 
+40,866
+
+40,866
+
+Dividends declared
+— 
+— 
+(
+12,324
+)
+(
+12,324
+)
+Other comprehensive income, net of tax
+— 
+43
+
+— 
+43
+
+Repurchase of shares for tax payments related to the vesting and exercising of share-based grants
+(
+2,233
+)
+— 
+— 
+(
+2,233
+)
+Stock-based compensation expense
+4,625
+
+— 
+— 
+4,625
+
+Balance at September 29, 2024
+$
+200,530
+
+$
+(
+985
+)
+$
+929,936
+
+$
+1,129,481
+
+See accompanying Notes to Condensed Consolidated Financial Statements.
+7
+Table of Contents
+PATRICK INDUSTRIES, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY (Unaudited) (Continued)
+Nine Months Ended September 28, 2025
+($ in thousands)
+Common
+Stock
+Accumulated Other
+Comprehensive Loss
+Retained
+Earnings
+Total
+Balance at December 31, 2024
+$
+202,353
+
+$
+(
+926
+)
+$
+926,939
+
+$
+1,128,366
+
+Net income
+— 
+— 
+105,977
+
+105,977
+
+Dividends declared
+— 
+— 
+(
+40,110
+)
+(
+40,110
+)
+Other comprehensive loss, net of tax
+— 
+(
+6
+)
+— 
+(
+6
+)
+Stock repurchases under buyback program
+(
+2,277
+)
+— 
+(
+29,692
+)
+(
+31,969
+)
+Repurchase of shares for tax payments related to the vesting and exercising of share-based grants
+(
+8,919
+)
+— 
+— 
+(
+8,919
+)
+Stock-based compensation expense
+15,167
+
+— 
+— 
+15,167
+
+Balance at September 28, 2025
+$
+206,324
+
+$
+(
+932
+)
+$
+963,114
+
+$
+1,168,506
+
+Nine Months Ended September 29, 2024
+($ in thousands)
+Common
+Stock
+Accumulated Other
+Comprehensive Loss
+Retained
+Earnings
+Total
+Balance at December 31, 2023
+$
+203,258
+
+$
+(
+999
+)
+$
+843,078
+
+$
+1,045,337
+
+Net income
+— 
+— 
+123,843
+
+123,843
+
+Dividends declared
+— 
+— 
+(
+36,985
+)
+(
+36,985
+)
+Other comprehensive income, net of tax
+— 
+14
+
+— 
+14
+
+Repurchase of shares for tax payments related to the vesting and exercising of share-based grants
+(
+17,116
+)
+— 
+— 
+(
+17,116
+)
+Issuance of shares upon exercise of common stock options
+21
+
+— 
+— 
+21
+
+Stock-based compensation expense
+14,367
+
+— 
+— 
+14,367
+
+Balance at September 29, 2024
+$
+200,530
+
+$
+(
+985
+)
+$
+929,936
+
+$
+1,129,481
+
+See accompanying Notes to Condensed Consolidated Financial Statements.
+8
+Table of Contents
+PATRICK INDUSTRIES, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited)
+NOTE 1. 
+BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES
+Basis of Presentation
+The accompanying unaudited condensed consolidated financial statements of Patrick Industries, Inc. (“Patrick”, the “Company”, "we", "our") contain all adjustments (consisting of normal recurring adjustments) that we believe are necessary to present fairly the Company’s financial position as of September 28, 2025 and December 31, 2024, its results of operations for the third quarter and nine months ended September 28, 2025 and September 29, 2024, and its cash flows for the nine months ended September 28, 2025 and September 29, 2024.
+Patrick's unaudited condensed consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States ("U.S. GAAP"). The accompanying unaudited condensed consolidated financial statements for Patrick do not include all of the information and notes required by U.S. GAAP for complete financial statements. In the opinion of management, all adjustments (consisting of normal recurring accruals) and disclosures considered necessary for a fair presentation have been included.
+ For further information, refer to Patrick’s Audited Consolidated Financial Statements and corresponding notes in the Company’s Annual Report on Form 10-K for the year ended December 31, 2024, filed with the SEC on February 20, 2025.
+The Company maintains its financial records on the basis of a fiscal year ending on December 31, with the fiscal quarters spanning approximately thirteen weeks. The first quarter ends on the Sunday closest to the end of the first thirteen-week period. The second and third quarters are thirteen weeks in duration and the fourth quarter is the remainder of the year. The third quarter of fiscal year 2025 ended on September 28, 2025, and the third quarter of fiscal year 2024 ended on September 29, 2024.
+Earnings Per Common Share
+Basic earnings per common share is computed by dividing net income by the weighted-average number of common shares outstanding. Diluted earnings per common share is computed by dividing net income available for diluted shares by the weighted-average number of common shares outstanding, plus the weighted-average impact of potentially dilutive convertible notes and warrants, plus the dilutive effect of stock options, stock appreciation rights ("SARs"), and certain restricted stock awards (collectively, “Common Stock Equivalents”). The dilutive effect of Common Stock Equivalents is calculated under the treasury stock method using the average market price for the period. Common Stock Equivalents are not included in the computation of diluted earnings per common share if their effect would be anti-dilutive. 
+On November 18, 2024, the Company's Board of Directors (the "Board") declared a three-for-two stock split of the Company's common stock, to be effected in the form of a stock dividend. Shareholders of record as of the close of business on November 29, 2024 received one additional share for every two shares held which was paid on December 13, 2024. The Company's common stock began trading on a post-split basis on December 16, 2024. Cash paid in lieu of fractional shares was immaterial. All share and per share information has been updated on a retrospective basis for all periods presented. See Note 7 "Earnings Per Common Share" for the calculation of both basic and diluted earnings per common share.
+Summary of Significant Accounting Policies
+A summary of significant accounting policies is included in the Company’s Annual Report on Form 10-K for the year ended December 31, 2024, filed with the SEC on February 20, 2025.
+9
+Table of Contents
+Major Customer Concentration
+The Company had two major customers that accounted for the following consolidated net sales for the third quarter and nine months ended September 28, 2025 and September 29, 2024:
+Third Quarter Ended
+Nine Months Ended
+September 28, 2025
+September 29, 2024
+September 28, 2025
+September 29, 2024
+Percentage of total net sales:
+Customer 1
+14
+
+%
+14
+
+%
+15
+
+%
+14
+
+%
+Customer 2
+13
+
+%
+14
+
+%
+15
+
+%
+15
+
+%
+The Company had two major customers that accounted for the following trade receivables as of September 28, 2025 and December 31, 2024:
+As of
+September 28, 2025
+December 31, 2024
+Percentage of trade receivables, net:
+Customer 1
+10
+
+%
+8
+
+%
+Customer 2
+10
+
+%
+6
+
+%
+Other expenses
+During the nine months ended September 28, 2025, the Company recognized a legal settlement expense of $
+24.4
+ million, related to a motor vehicle accident that resulted in two fatalities, within "Other expenses" in the Company's condensed consolidated statements of income. 
+New Accounting Standards
+Changes to U.S. GAAP are established by the Financial Accounting Standards Board (“FASB”) in the form of Accounting Standards Updates (“ASUs”) to the FASB’s Accounting Standards Codification.
+The Company considers the applicability and impact of all ASUs. ASUs not listed below were either assessed and determined to be not applicable or are expected to have an immaterial impact on the Company’s unaudited condensed consolidated financial statements.
+Recently Issued Accounting Pronouncements
+Accounting Standards Not Yet Adopted
+In September 2025, the FASB issued ASU 2025-06
+, "Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Targeted Improvements to the Accounting for Internal-Use Software"
+. This update eliminates the previous stage-based capitalization model for internal-use software projects and instead requires capitalization once management has authorized and committed to funding the software project and it is probable that the project will be completed and the software will be used to perform the function intended. The update permits an entity to apply the new guidance using a prospective transition approach, modified transition approach or a retrospective transition approach. This ASU is effective for fiscal years beginning after December 15, 2027 and interim periods within those fiscal years. Early adoption is permitted. The Company is currently evaluating the effects that the adoption of ASU 2025-06 will have on the Company's consolidated financial statements. 
+In July 2025, the FASB issued ASU 2025-05, 
+"Financial Instruments—Credit Losses (Topic 326): Practical Expedient for Measuring Credit Losses on Current Accounts Receivable and Contract Assets"
+. This update provides a practical expedient that allows entities to measure expected credit losses on current trade receivables and current contract assets by assuming that the current conditions as of the balance sheet date will persist for the life of those assets. An entity that elects the practical expedient should apply the amendments prospectively. This ASU is effective for fiscal years 
+10
+Table of Contents
+beginning after December 15, 2025 and interim periods within those fiscal years. Early adoption is permitted. The Company is currently evaluating the effects that the adoption of ASU 2025-05 will have on the Company's consolidated financial statements. 
+In January 2025, the FASB issued ASU 2025-01
+, "Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures (Subtopic 220-40): Clarifying the Effective Date". 
+This update revises the effective date of ASU 2024-03 to clarify that the guidance is to be adopted by all public entities for annual reporting periods beginning after December 15, 2026 and for interim periods within annual reporting periods beginning after December 15, 2027. The intent of this update is to prevent non-calendar year-end entities from concluding that the initial adoption is required to be in an interim reporting period, rather than an annual reporting period. 
+In November 2024, the FASB issued ASU 2024-04
+, "Debt - Debt with Conversion and Other Options (Subtopic 470-20): Induced Conversions of Convertible Debt Instruments". 
+The amendments in this update are intended to clarify disclosure requirements for determining whether certain settlements of convertible debt instruments should be accounted for as induced conversions rather than as debt extinguishments. This ASU is effective for annual periods beginning after December 15, 2025, including interim periods within those fiscal years. Early adoption is permitted. The Company is currently evaluating the effects that the adoption of ASU 2024-04 will have on the Company's consolidated financial statements.
+In November 2024, the FASB issued ASU 2024-03
+, "Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses". 
+The amendments in this update require public business entities to disclose, on an annual and interim basis, disaggregated information about certain income statement expense line items in the notes to the financial statements. Public business entities are required to apply the guidance prospectively or retrospectively. This ASU is effective for fiscal years beginning after December 15, 2026 and interim periods within fiscal years beginning after December 15, 2027. Early adoption is permitted. The Company is currently evaluating the effects that the adoption of ASU 2024-03 will have on the Company's consolidated financial statements. 
+In December 2023, the FASB issued ASU 2023-09
+, 
+"
+Income Taxes (Topic 740): Improvements to Income Tax Disclosures"
+. This ASU establishes new income tax disclosure requirements in addition to modifying and eliminating certain existing requirements. Under the new guidance, entities must consistently categorize and provide greater disaggregation of information in the rate reconciliation. They must also further disaggregate income taxes paid. The new standard is effective for fiscal years beginning after December 15, 2024, with retrospective application permitted. The Company is currently evaluating this guidance to determine the impact on its disclosures; however, adoption will impact only the notes to our consolidated financial statements.
+
+NOTE 2. 
+REVENUE RECOGNITION
+In the following table, revenue from contracts with customers, net of all intercompany sales, is disaggregated by market type and by reportable segment:
+Third Quarter Ended September 28, 2025
+($ in thousands)
+Manufacturing
+Distribution
+Total
+Market type:
+Recreational Vehicle
+$
+292,557
+
+$
+132,984
+
+$
+425,541
+
+Marine
+141,134
+
+9,349
+
+150,483
+
+Powersports
+93,964
+
+3,854
+
+97,818
+
+Manufactured Housing
+73,115
+
+101,553
+
+174,668
+
+Industrial
+117,831
+
+9,290
+
+127,121
+
+Total
+$
+718,601
+
+$
+257,030
+
+$
+975,631
+
+11
+Table of Contents
+Third Quarter Ended September 29, 2024
+($ in thousands)
+Manufacturing
+Distribution
+Total
+Market type:
+Recreational Vehicle
+$
+275,020
+
+$
+121,476
+
+$
+396,496
+
+Marine
+126,066
+
+9,925
+
+135,991
+
+Powersports
+84,487
+
+2,903
+
+87,390
+
+Manufactured Housing
+76,634
+
+100,780
+
+177,414
+
+Industrial
+113,319
+
+8,834
+
+122,153
+
+Total
+$
+675,526
+
+$
+243,918
+
+$
+919,444
+
+Nine Months Ended September 28, 2025
+($ in thousands)
+Manufacturing
+Distribution
+Total
+Market type:
+Recreational Vehicle
+$
+969,799
+
+$
+413,909
+
+$
+1,383,708
+
+Marine
+424,907
+
+31,115
+
+456,022
+
+Powersports
+262,917
+
+12,219
+
+275,136
+
+Manufactured Housing
+230,979
+
+299,362
+
+530,341
+
+Industrial
+352,432
+
+28,966
+
+381,398
+
+Total
+$
+2,241,034
+
+$
+785,571
+
+$
+3,026,605
+
+Nine Months Ended September 29, 2024
+($ in thousands)
+Manufacturing
+Distribution
+Total
+Market type:
+Recreational Vehicle
+$
+876,170
+
+$
+391,050
+
+$
+1,267,220
+
+Marine
+417,485
+
+31,499
+
+448,984
+
+Powersports
+264,795
+
+9,115
+
+273,910
+
+Manufactured Housing
+223,532
+
+284,618
+
+508,150
+
+Industrial
+344,799
+
+26,497
+
+371,296
+
+Total
+$
+2,126,781
+
+$
+742,779
+
+$
+2,869,560
+
+Contract Liabilities
+Contract liabilities, representing upfront payments from customers received prior to satisfying performance obligations, were immaterial as of the beginning and end of all periods presented and changes in contract liabilities were immaterial during all periods presented.
+12
+Table of Contents
+NOTE 3. 
+INVENTORY
+Inventories consisted of the following: 
+($ in thousands)
+September 28, 2025
+December 31, 2024
+Raw materials
+$
+333,684
+
+$
+292,730
+
+Work in process
+20,616
+
+18,157
+
+Finished goods
+111,584
+
+103,318
+
+Less: reserve for inventory excess and obsolescence
+(
+18,618
+)
+(
+16,456
+)
+  Total manufactured goods, net
+447,266
+
+397,749
+
+Materials purchased for resale (distribution products)
+161,292
+
+161,492
+
+Less: reserve for inventory excess and obsolescence
+(
+8,873
+)
+(
+7,624
+)
+  Total materials purchased for resale (distribution products), net
+152,419
+
+153,868
+
+Total inventories
+$
+599,685
+
+$
+551,617
+
+NOTE 4. 
+GOODWILL AND INTANGIBLE ASSETS
+Changes in the carrying amount of goodwill for the nine months ended September 28, 2025 by segment are as follows: 
+($ in thousands)
+Manufacturing
+Distribution
+Total
+Balance at December 31, 2024
+$
+680,246
+
+$
+116,990
+
+$
+797,236
+
+Acquisitions
+16,696
+
+—
+
+16,696
+
+Adjustments to preliminary purchase price allocations
+109
+
+1,080
+
+1,189
+
+Balance at September 28, 2025
+$
+697,051
+
+$
+118,070
+
+$
+815,121
+
+Intangible assets, net consisted of the following as of September 28, 2025 and December 31, 2024:
+($ in thousands)
+September 28, 2025
+December 31, 2024
+Customer relationships
+$
+940,905
+
+$
+924,720
+
+Non-compete agreements
+26,876
+
+25,776
+
+Patents
+94,040
+
+89,641
+
+Trademarks
+227,777
+
+225,527
+
+Intangible assets, gross
+1,289,598
+
+1,265,664
+
+Less: accumulated amortization
+Customer relationships
+(
+485,239
+)
+(
+419,358
+)
+Non-compete agreements
+(
+21,668
+)
+(
+20,065
+)
+Patents
+(
+29,207
+)
+(
+23,352
+)
+Intangible assets, net
+$
+753,484
+
+$
+802,889
+
+Changes in the carrying value of intangible assets for the nine months ended September 28, 2025 by segment are as follows:
+13
+Table of Contents
+($ in thousands)
+Manufacturing
+Distribution
+Total
+Balance at December 31, 2024
+$
+671,131
+
+$
+131,758
+
+$
+802,889
+
+Additions
+22,338
+
+—
+
+22,338
+
+Amortization
+(
+61,972
+)
+(
+11,366
+)
+(
+73,338
+)
+Adjustments to preliminary purchase price allocations
+357
+
+1,238
+
+1,595
+
+Balance at September 28, 2025
+$
+631,854
+
+$
+121,630
+
+$
+753,484
+
+NOTE 5. 
+ACQUISITIONS
+General
+
+Business combinations generally take place to strengthen Patrick's positions in existing markets and increase its market share and product offerings, expand into additional markets, and gain key technologies. Acquisitions are accounted for under the acquisition method of accounting. For each acquisition, the excess of the purchase consideration over the fair value of the net assets acquired is recorded as goodwill, which generally represents the combined value of the Company’s existing purchasing, manufacturing, sales, and systems resources with the organizational talent and expertise of the acquired companies’ respective management teams to maximize efficiencies, market share growth and net income.
+The Company completed 
+one
+ acquisition in the third quarter of 2025 and 
+three
+ acquisitions in the first nine months of 2025 (the "2025 Acquisitions"). Acquisition-related costs associated with the 2025 Acquisitions were 
+immaterial
+. For the third quarter and nine months ended September 28, 2025, net sales included in the Company's condensed consolidated statements of income related to the 2025 Acquisitions were $
+11.0
+ million and $
+24.2
+ million, respectively, and operating income was $
+0.1
+ million and operating losses were $
+0.3
+ million, respectively. Assets acquired and liabilities assumed in the acquisitions were recorded on the Company's condensed consolidated balance sheet at their estimated fair values as of the respective dates of acquisition. For each acquisition, the Company completes its allocation of the purchase price to the fair value of acquired assets and liabilities within a one year measurement period. 
+The Company completed 
+one
+ acquisition in the third quarter of 2024 and 
+seven
+ acquisitions in the first nine months of 2024. Acquisition-related costs associated with the acquisitions completed in the first nine months of 2024 were approximately $
+5.0
+ million. For the third quarter and nine months ended September 29, 2024, net sales included in the Company's condensed consolidated statements of income related to the acquisitions completed in the first nine months of 2024 were $
+78.6
+ million and $
+216.4
+ million, respectively, and operating income was $
+12.3
+ million and $
+38.9
+ million, respectively. 
+In connection with certain acquisitions, the Company is required to pay additional cash consideration if certain financial results of the acquired businesses are achieved. The Company records a liability for the estimated fair value of the contingent consideration related to each of these acquisitions as part of the initial purchase price based on the present value of the expected future cash flows and the probability of future payments at the date of acquisition.
+Changes in the contingent consideration liability for the third quarter and nine months ended September 28, 2025 and September 29, 2024 are as follows:
+Third Quarter Ended
+Nine Months Ended
+($ in thousands)
+September 28, 2025
+September 29, 2024
+September 28, 2025
+September 29, 2024
+Fair value at beginning of period
+$
+3,776
+
+$
+1,800
+
+$
+3,608
+
+$
+8,510
+
+Additions
+500
+
+3,001
+
+2,300
+
+3,131
+
+Fair value adjustments
+(
+1,098
+)
+—
+
+(
+2,698
+)
+(
+1,900
+)
+Settlements
+(
+16
+)
+(
+36
+)
+(
+48
+)
+(
+4,976
+)
+Fair value at end of period
+$
+3,162
+
+$
+4,765
+
+$
+3,162
+
+$
+4,765
+
+14
+Table of Contents
+The following table shows the balance sheet location of the fair value of contingent consideration and the maximum amount of contingent consideration payments the Company may be subject to: 
+($ in thousands)
+September 28, 2025
+December 31, 2024
+Accrued liabilities
+$
+800
+
+$
+1,665
+
+Other long-term liabilities
+2,362
+
+1,943
+
+Total fair value of contingent consideration
+$
+3,162
+
+$
+3,608
+
+Maximum amount of contingent consideration
+$
+7,360
+
+$
+8,618
+
+2025 Acquisitions
+The Company completed 
+three
+ acquisitions in the first nine months ended September 28, 2025. Total cash consideration for the 2025 Acquisitions was approximately $
+66.0
+ million, plus a working capital holdback and contingent consideration over a 
+two-year
+ period based on future performance in connection with two acquisitions. As the Company finalizes the fair value of the acquired assets and assumed liabilities, additional purchase price adjustments may be recorded during the measurement period. Changes to preliminary purchase accounting estimates recorded in the third quarter and nine months ended September 28, 2025 related to the 2025 Acquisitions were immaterial.
+2024 Acquisitions
+The Company completed 
+seven
+ acquisitions in the year ended December 31, 2024, including the following previously announced acquisitions (collectively, the “2024 Acquisitions”):
+Company
+Segment
+Description
+Sportech, LLC ("Sportech")
+Manufacturing
+Leading designer and manufacturer of high-value, complex component solutions sold to powersports original equipment manufacturers ("OEMs"), adjacent market OEMs and the aftermarket, including integrated door systems, roofs, canopies, bumpers, windshields, fender flares and cowls, based in Elk River, Minnesota, acquired in January 2024.
+ICON Direct LLC, doing business as RecPro ("RecPro") 
+Distribution
+Leading e-commerce business and aftermarket platform specializing in creating and marketing component products, systems, and solutions for the RV and marine end markets, based in Bristol, Indiana, acquired in September 2024.
+Inclusive of 
+five
+ acquisitions not discussed above, total cash consideration for the 2024 Acquisitions was approximately $
+416.1
+ million, plus contingent consideration over a 
+three-year
+ period based on future performance in connection with certain acquisitions. Purchase price allocations and all valuation activities in connection with the 2024 Acquisitions have been finalized. Changes to preliminary purchase accounting estimates recorded in the third quarter and nine months ended September 28, 2025 related to the 2024 Acquisitions were immaterial.
+15
+Table of Contents
+The following table summarizes the fair values of the assets acquired and the liabilities assumed as of the date of each of the 2025 Acquisitions and 2024 Acquisitions:
+2025
+Acquisitions
+2024 
+Acquisitions
+($ in thousands)
+Total
+Sportech
+All Others
+Total
+Consideration:
+Cash, net of cash acquired
+$
+66,012
+
+$
+319,073
+
+$
+96,998
+
+$
+416,071
+
+Working capital holdback and other, net
+481
+
+—
+
+—
+
+—
+
+Contingent consideration 
+(1)
+1,202
+
+—
+
+2,030
+
+2,030
+
+Total consideration
+$
+67,695
+
+$
+319,073
+
+$
+99,028
+
+$
+418,101
+
+Assets Acquired:
+Trade receivables
+$
+3,896
+
+$
+21,587
+
+$
+2,256
+
+$
+23,843
+
+Inventories
+10,317
+
+20,611
+
+19,011
+
+39,622
+
+Prepaid expenses & other
+349
+
+1,719
+
+3,495
+
+5,214
+
+Property, plant & equipment
+24,967
+
+18,766
+
+6,997
+
+25,763
+
+Operating lease right-of-use assets
+—
+
+15,096
+
+1,283
+
+16,379
+
+Identifiable intangible assets:
+Customer relationships
+12,390
+
+152,000
+
+17,560
+
+169,560
+
+Non-compete agreements
+1,100
+
+2,000
+
+2,375
+
+4,375
+
+Patents and developed technology
+4,330
+
+17,500
+
+600
+
+18,100
+
+Trademarks
+2,250
+
+20,500
+
+8,000
+
+28,500
+
+Liabilities Assumed:
+Current portion of operating lease obligations
+—
+
+(
+1,437
+)
+(
+586
+)
+(
+2,023
+)
+Accounts payable & accrued liabilities
+(
+8,600
+)
+(
+32,398
+)
+(
+4,312
+)
+(
+36,710
+)
+Operating lease obligations
+—
+
+(
+13,658
+)
+(
+699
+)
+(
+14,357
+)
+Deferred tax liabilities
+—
+
+(
+21,288
+)
+—
+
+(
+21,288
+)
+Total fair value of net assets acquired
+50,999
+
+200,998
+
+55,980
+
+256,978
+
+Goodwill 
+(2)
+16,696
+
+118,075
+
+43,048
+
+161,123
+
+Total purchase price allocation
+$
+67,695
+
+$
+319,073
+
+$
+99,028
+
+$
+418,101
+
+(1)
+These amounts reflect the acquisition date fair value of contingent consideration based on expected future results relating to certain acquisitions.
+(2)
+Goodwill is tax-deductible for the 2025 Acquisitions and 2024 Acquisitions, except for Sportech which is only partially tax-deductible.
+We estimate the value of acquired property, plant, and equipment using a combination of the income, cost, and market approaches, such as estimates of future income growth, capitalization rates, discount rates, and capital expenditure needs of the acquired businesses. 
+We estimate the value of customer relationships using the multi-period excess earnings method, which is a variation of the income approach, calculating the present value of incremental after-tax cash flows attributable to the asset. Non-compete agreements are valued using a discounted cash flow approach, which is a variation of the income approach, with and without the individual counterparties to the non-compete agreements. Trademarks and patents are valued using the relief-from-royalty method, which applies an estimated royalty rate to forecasted future cash flows, discounted to present value.
+The estimated useful life for customer relationships is 
+10
+ years. The average estimated useful life for non-compete agreements is 
+5
+ years. The estimated useful life for patents is 
+13
+ years, individually ranging from 
+10
+ to 
+18
+ years. Trademarks have an indefinite useful life.
+16
+Table of Contents
+Pro Forma Information (Unaudited)
+The following pro forma information for the third quarter and nine months ended September 28, 2025 and September 29, 2024 assumes the 2025 Acquisitions and 2024 Acquisitions occurred as of the beginning of the year immediately preceding each such acquisition. The pro forma information contains the actual operating results of the 2025 Acquisitions and 2024 Acquisitions combined with the results prior to their respective acquisition dates, adjusted to reflect the pro forma impact of the acquisitions occurring as of the beginning of the year immediately preceding each such acquisition.
+The pro forma information includes financing and interest expense charges based on incremental borrowings incurred in connection with each transaction. 
+In addition, the pro forma information includes incremental amortization expense, in the aggregate, related to intangible assets acquired in connection with the transactions of $
+0.1
+ million and $
+0.6
+ million for the third quarter and nine months ended September 28, 2025, respectively, and $
+0.6
+ million and $
+3.2
+ million for the third quarter and nine months ended September 29, 2024, respectively.
+
+Third Quarter Ended
+Nine Months Ended
+($ in thousands, except per share data)
+September 28, 2025
+September 29, 2024
+September 28, 2025
+September 29, 2024
+Revenue
+$
+978,191
+
+$
+944,823
+
+$
+3,041,645
+
+$
+2,984,213
+
+Net income
+$
+35,941
+
+$
+41,031
+
+$
+107,714
+
+$
+125,789
+
+Basic earnings per common share
+$
+1.11
+
+$
+1.26
+
+$
+3.31
+
+$
+3.86
+
+Diluted earnings per common share
+$
+1.02
+
+$
+1.21
+
+$
+3.13
+
+$
+3.76
+
+The pro forma information is presented for informational purposes only and is not indicative of the results of operations that would have been achieved had the acquisitions been consummated as of the periods indicated above.
+
+NOTE 6. 
+STOCK-BASED COMPENSATION
+
+The Company recorded stock-based compensation expense, net of forfeitures, of approximately $
+3.9
+ million and $
+15.2
+ million in the third quarter and nine months ended September 28, 2025, respectively, and $
+4.7
+ million and $
+14.4
+ million in the third quarter and nine months ended September 29, 2024, respectively. 
+The Board approved various share grants under the Company’s 2009 Omnibus Incentive Plan in the nine months ended September 28, 2025 totaling 
+243,035
+ shares in the aggregate at an average fair value of $
+94.90
+ per share at grant date for a total fair value at grant date of $
+23.1
+ million. 
+Stock Appreciation Rights ("SARs"):
+On February 25, 2025, the Board approved the grant of 
+329,850
+ SARs divided into 
+four
+ tranches at exercise prices of $
+92.72
+, $
+110.76
+, $
+132.31
+ and $
+158.05
+ per share. The SARs vest pro-ratably over 
+four years
+ from the grant date and have 
+nine-year
+ contractual terms. The SARs are to be settled in shares of common stock or, at the sole discretion of the Board, in cash. As of September 28, 2025, the total remaining cost to be expensed over the 
+four-year
+ vesting period will be $
+5.3
+ million which will be expensed ratably over the 
+four-year
+ vesting period.
+Stock Options:
+On February 25, 2025, the Board approved the grant of 
+329,850
+ stock options at an exercise price per share of $
+92.72
+. The stock options vest pro-rata over 
+four years
+ from the grant date and have 
+nine-year
+ contractual terms. As of 
+17
+Table of Contents
+September 28, 2025, the total remaining cost will be $
+7.5
+ million which will be expensed ratably over the 
+four-year
+ vesting period.
+The Company estimates the fair value of the stock options and SARs awards as of the grant date by applying the Black-Scholes option-pricing model. 
+The following are the assumptions that were used in calculating the fair value of stock options and SARs granted during the first quarter of 2025:
+Expected term
+9
+ years
+Expected volatility
+24
+
+%
+Risk-free interest rate
+4.25
+
+%
+Dividend yield
+1.77
+
+%
+NOTE 7. 
+EARNINGS PER COMMON SHARE
+Earnings per common share calculated for the third quarter and first nine months of 2025 and 2024 is as follows:
+($ and shares in thousands, except per share data)
+Third Quarter Ended
+Nine Months Ended
+September 28, 2025
+September 29, 2024
+September 28, 2025
+September 29, 2024
+Numerator:
+Net income attributable to common shares
+$
+35,303
+
+$
+40,866
+
+$
+105,977
+
+$
+123,843
+
+Denominator: 
+(1)
+Weighted average common shares outstanding - basic
+32,381
+32,610
+32,523
+32,559
+Weighted average impact of potentially dilutive convertible notes
+1,492
+831
+1,155
+510
+Weighted average impact of potentially dilutive warrants
+916
+
+175
+
+504
+
+58
+
+Weighted average impact of potentially dilutive securities
+292
+345
+258
+318
+Weighted average common shares outstanding - diluted
+35,081
+33,961
+34,440
+33,445
+Earnings per common share:
+ (1)
+Basic earnings per common share
+$
+1.09
+
+$
+1.25
+
+$
+3.26
+
+$
+3.80
+
+Diluted earnings per common share
+$
+1.01
+
+$
+1.20
+
+$
+3.08
+
+$
+3.70
+
+(1)
+The prior year periods reflect the impact of the three-for-two stock split paid in December 2024. See Note 1 "Basis of Presentation and Significant Accounting Policies" for further details.
+An immaterial amount of securities were not included in the computation of diluted earnings per common share as they are considered anti-dilutive for the periods presented.
+18
+Table of Contents
+NOTE 8. 
+DEBT
+A summary of total debt outstanding at September 28, 2025 and December 31, 2024 is as follows:
+($ in thousands)
+September 28, 2025
+December 31, 2024
+Long-term debt:
+Term loan due 2029
+$
+120,313
+
+$
+123,438
+
+Revolver due 2029
+110,000
+
+100,000
+
+1.75
+% convertible notes due 2028
+258,722
+
+258,750
+
+4.75
+% senior notes due 2029
+350,000
+
+350,000
+
+6.375
+% senior notes due 2032
+500,000
+
+500,000
+
+Total debt
+1,339,035
+
+1,332,188
+
+Less: convertible notes deferred financing costs, net
+(
+3,173
+)
+(
+3,915
+)
+Less: term loan deferred financing costs, net
+(
+458
+)
+(
+543
+)
+Less: senior notes deferred financing costs, net
+(
+8,811
+)
+(
+9,796
+)
+Less: current maturities of long-term debt
+(
+6,250
+)
+(
+6,250
+)
+Total long-term debt, less current maturities, net
+$
+1,320,343
+
+$
+1,311,684
+
+As of September 28, 2025, the Company maintained a senior secured credit facility comprised of a $
+875
+ million revolving credit facility (the "Revolver due 2029") and a $
+125
+ million term loan (the "Term Loan due 2029") and together with the Revolver due 2029, (the "2024 Credit Facility"). 
+The interest rate for incremental borrowings under the Revolver due 2029 as of September 28, 2025 was the Secured Overnight Financing Rate (“SOFR”) plus 
+1.75
+% (or 
+5.91
+%) for the SOFR-based option. The fee payable on committed but unused portions of the Revolver due 2029 was 
+0.225
+% as of September 28, 2025. 
+Total cash interest paid was $
+4.0
+ million and $
+38.6
+ million for the third quarter and nine months ended September 28, 2025, respectively, and $
+4.7
+ million and $
+44.9
+ million for the third quarter and nine months ended September 29, 2024, respectively. 
+Conditional Conversion Feature of the 
+1.75
+% Convertible Senior Notes due 2028
+As of September 28, 2025, the conditional conversion feature of the 
+1.75
+% Convertible Senior Notes due 2028 (the “
+1.75
+% Convertible Notes”) related to the price of our common stock equaling or exceeding 
+130
+% of the conversion price was triggered. As a result, the 
+1.75
+% Convertible Notes are convertible, in whole or in part, at the option of the holders from October 1, 2025 to December 31, 2025. Whether the 
+1.75
+% Convertible Notes will be convertible in subsequent periods will depend on the continued satisfaction of this condition or another conversion condition in the future. The 
+1.75
+% Convertible Notes were also convertible in each calendar quarter beginning with the quarter ended December 31, 2024 based on satisfying this condition in the respective prior calendar quarter. The 
+1.75
+% Convertible Notes converted during the period from January 1, 2025 to September 30, 2025 were immaterial. The Company has the intent and ability to utilize available borrowing capacity under the Revolver due 2029 to satisfy any cash conversion obligations that it may have, should holders choose to exercise their conversion rights during the period noted above.
+19
+Table of Contents
+NOTE 9. 
+FAIR VALUE MEASUREMENTS
+The following table presents fair values of certain assets and liabilities as of September 28, 2025 and December 31, 2024:
+September 28, 2025
+December 31, 2024
+($ in millions)
+Level 1
+Level 2
+Level 3
+Level 1
+Level 2
+Level 3
+1.75
+% convertible notes due 2028 
+(1)
+$
+—
+
+$
+419.0
+
+$
+—
+
+$
+—
+
+$
+351.3
+
+$
+—
+
+4.75
+% senior notes due 2029 
+(1)
+$
+—
+
+$
+344.2
+
+$
+—
+
+$
+—
+
+$
+330.3
+
+$
+—
+
+6.375
+% senior notes due 2032 
+(1)
+$
+—
+
+$
+506.9
+
+$
+—
+
+$
+—
+
+$
+485.0
+
+$
+—
+
+Term loan due 2029 
+(1) (2)
+$
+—
+
+$
+120.3
+
+$
+—
+
+$
+—
+
+$
+123.4
+
+$
+—
+
+Revolver due 2029 
+(1) (2)
+$
+—
+
+$
+110.0
+
+$
+—
+
+$
+—
+
+$
+100.0
+
+$
+—
+
+Contingent consideration 
+(3)
+$
+—
+
+$
+—
+
+$
+3.2
+
+$
+—
+
+$
+—
+
+$
+3.6
+
+(1)
+The amounts of these notes listed above are the fair values for disclosure purposes only, and they are recorded in the Company's condensed consolidated balance sheets as of September 28, 2025 and December 31, 2024 at carrying value. 
+(2)
+The carrying amounts of our term loan and revolving credit facility approximate fair value as of September 28, 2025 and December 31, 2024 based upon their terms and conditions in comparison to the terms and conditions of debt instruments with similar terms and conditions available at those dates.
+(3)
+The estimated fair value of the Company's contingent consideration is discussed further in Note 5 "Acquisitions".
+NOTE 10. 
+INCOME TAXES
+The effective tax rate in the third quarter of 2025 and 2024 was 
+26.2
+% and 
+24.8
+%, respectively, and the effective tax rate for the comparable nine month periods was 
+23.1
+% and 
+21.6
+%, respectively. The first nine months of 2025 and 2024 tax rates include the impact of the recognition of excess tax benefits on share-based compensation that was recorded as a reduction to income tax expense in the amount of $
+3.4
+ million and $
+6.7
+ million, respectively.
+
+Cash paid for income taxes, net of refunds, was $
+1.1
+ million and $
+23.4
+ million in the third quarter and first nine months of 2025, respectively, and $
+18.2
+ million and $
+37.4
+ million in the third quarter and first nine months of 2024, respectively.
+On July 4, 2025, the One Big Beautiful Bill Act (the "OBBBA") was signed into law. The OBBBA makes permanent many of the expired and expiring tax provisions originally enacted in the Tax Cuts and Jobs Act of 2017, including the immediate expensing of domestic research and development expenditures, more favorable business interest deductibility and 100 percent first-year bonus depreciation on qualifying property with effective dates in 2025. In accordance with Accounting Standards Codification (“ASC”) 740, “Income Taxes,” the Company has recognized the effects of the OBBBA during the current quarter for the provisions currently enacted, which has increased the Company’s deferred tax liability. The Company anticipates that the OBBBA will reduce its federal income tax liability and related tax payments for the current and future years but will not have a significant impact on its annual effective tax rate.
+NOTE 11. 
+SEGMENT INFORMATION
+The Company has 
+two
+ reportable segments, Manufacturing and Distribution, which are defined based on the way in which internally reported information is regularly reviewed and evaluated by the Company’s chief operating decision maker (the "CODM"), who is our Chairman and Chief Executive Officer, to allocate resources, evaluate financial results and make decisions. The Company does not measure profitability at the end market (RV, marine, powersports, MH and industrial) level.
+Manufacturing
+ – This segment includes the following products: laminated products that are utilized to produce furniture, shelving, walls, countertops and cabinet products; cabinet doors; fiberglass bath fixtures and tile systems; hardwood furniture; vinyl printing; RV and marine furniture; audio systems and accessories, including amplifiers, tower speakers, soundbars, and subwoofers; decorative vinyl and paper laminated panels; solid surface, granite, and quartz countertop fabrication; RV painting; fabricated aluminum products; fiberglass and plastic components; fiberglass bath fixtures and tile systems; softwoods lumber; custom cabinetry; polymer-based and other flooring; electrical systems 
+20
+Table of Contents
+components including instrument and dash panels; wrapped vinyl, paper and hardwood profile mouldings; interior passage doors; air handling products; slide-out trim and fascia; thermoformed shower surrounds; specialty bath and closet building products; fiberglass and plastic helm systems and components products; treated, untreated and laminated plywood; wiring and wire harnesses; adhesives and sealants; boat towers, tops, trailers and frames; marine hardware and accessories; protective covers for boats, RVs, aircraft, and military and industrial equipment; aluminum and plastic fuel tanks; CNC molds and composite parts; roofs/canopies; wiper systems; integrated door systems; windshield systems; slotwall panels and components; fender flares and rear panels; and other products. 
+Distribution
+ – The Company distributes pre-finished wall and ceiling panels; drywall and drywall finishing products; electronics and audio systems components; appliances; marine accessories and components; wiring, electrical and plumbing products; fiber reinforced polyester products; cement siding; raw and processed lumber; interior passage doors; roofing products; laminate and ceramic flooring; tile; shower doors; furniture; fireplaces and surrounds; interior and exterior lighting products; RV awnings, windows, fiberglass siding and roofing; marine windshields; and other miscellaneous products in addition to providing transportation and logistics services.
+The CODM evaluates the performance of the Company's segments and allocates resources to them based on a variety of indicators including but not limited to net sales, gross profit and operating income. On at least a quarterly basis, the CODM considers actual to budget variances as well as actual to prior year actual performance for both profit measures when making decisions about the allocation of operating and capital resources to each segment. The CODM also uses segment gross profit and segment operating income to assess the performance of each segment by comparing the results of each segment with one another.
+The accounting policies of the segments are the same as those described in Note 1 "Basis of Presentation and Significant Accounting Policies" included in the Company’s Annual Report on Form 10-K for the year ended December 31, 2024 filed with the SEC on February 20, 2025. Segment net sales data includes inter-segment sales. The Company accounts for inter-segment sales similar to third party transactions, which reflect current market prices. Certain income from purchase incentive agreements is not allocated to the segments and instead recorded at the corporate level. Assets are identified to the segments except for cash, prepaid expenses, land and buildings, and certain deferred assets, which are identified with corporate. Corporate charges rent to the segments for use of the land and buildings based upon estimated market rates.
+21
+Table of Contents
+The following tables summarize key financial information by segment:
+Third Quarter Ended September 28, 2025
+($ in thousands)
+Manufacturing
+Distribution
+Total
+Total net sales
+$
+722,826
+
+$
+259,037
+
+$
+981,863
+
+Cost of goods sold
+564,041
+
+199,270
+
+763,311
+
+Gross profit
+$
+158,785
+
+$
+59,767
+
+$
+218,552
+
+Operating expenses
+74,380
+
+36,584
+
+110,964
+
+  Operating income
+$
+84,405
+
+$
+23,183
+
+$
+107,588
+
+Reconciliation of reportable segment operating income to consolidated income before income tax:
+Selling, general and administrative
+20,460
+
+Amortization of intangible assets
+24,108
+
+Interest expense, net
+18,451
+
+Elimination of inter-segment profits
+(
+3,273
+)
+Consolidated income before income taxes
+$
+47,842
+
+Capital expenditures
+$
+19,440
+
+$
+227
+
+$
+19,667
+
+Depreciation and amortization
+$
+35,792
+
+$
+4,531
+
+$
+40,323
+
+ Third Quarter Ended September 29, 2024
+($ in thousands)
+Manufacturing
+Distribution
+Total
+Total net sales
+$
+685,296
+
+$
+239,135
+
+$
+924,431
+
+Cost of goods sold
+531,503
+
+185,905
+
+717,408
+
+Gross Profit
+$
+153,793
+
+$
+53,230
+
+$
+207,023
+
+Operating expenses
+67,364
+
+29,830
+
+97,194
+
+Operating income
+$
+86,429
+
+$
+23,400
+
+$
+109,829
+
+Reconciliation of reportable segment operating income to consolidated income before income tax:
+Selling, general and administrative
+18,277
+
+Amortization of intangible assets
+24,433
+
+Interest expense, net
+20,050
+
+Elimination of inter-segment profits
+(
+7,298
+)
+Consolidated income before income taxes
+$
+54,367
+
+Capital expenditures
+$
+13,477
+
+$
+2,520
+
+$
+15,997
+
+Depreciation and amortization
+$
+36,316
+
+$
+4,017
+
+$
+40,333
+
+22
+Table of Contents
+Nine Months Ended September 28, 2025
+($ in thousands)
+Manufacturing
+Distribution
+Total
+Total net sales
+$
+2,253,833
+
+$
+790,611
+
+$
+3,044,444
+
+Cost of goods sold
+1,746,369
+
+596,969
+
+2,343,338
+
+Gross profit
+$
+507,464
+
+$
+193,642
+
+$
+701,106
+
+Operating expenses
+221,815
+
+113,041
+
+334,856
+
+  Operating income
+$
+285,649
+
+$
+80,601
+
+$
+366,250
+
+Reconciliation of reportable segment operating income to consolidated income before income tax:
+Selling, general and administrative
+76,344
+
+Amortization of intangible assets
+73,084
+
+Interest expense, net
+56,432
+
+Elimination of inter-segment profits
+(
+1,762
+)
+Other expense
+24,420
+Consolidated income before income taxes
+$
+137,732
+
+Capital expenditures
+$
+49,261
+
+$
+781
+
+$
+50,042
+
+Depreciation and amortization
+$
+108,708
+
+$
+13,662
+
+$
+122,370
+
+Nine Months Ended September 29, 2024
+($ in thousands)
+Manufacturing
+Distribution
+Total
+Total net sales
+$
+2,139,598
+
+$
+747,269
+
+$
+2,886,867
+
+Cost of goods sold
+1,650,887
+
+585,850
+
+2,236,737
+
+Gross profit
+$
+488,711
+
+$
+161,419
+
+$
+650,130
+
+Operating expenses
+206,080
+
+84,141
+
+290,221
+
+  Operating income
+$
+282,631
+
+$
+77,278
+
+$
+359,909
+
+Reconciliation of reportable segment operating income to consolidated income before income tax:
+Selling, general and administrative
+70,854
+
+Amortization of intangible assets
+71,521
+
+Interest expense, net
+60,483
+
+Elimination of inter-segment profits
+(
+914
+)
+Consolidated income before income taxes
+$
+157,965
+
+Capital expenditures
+$
+31,757
+
+$
+8,250
+
+$
+40,007
+
+Depreciation and amortization
+$
+107,406
+
+$
+11,405
+
+$
+118,811
+
+A reconciliation of certain line items pertaining to the total reportable segments to the condensed consolidated financial statements in the third quarter and first nine months ended September 28, 2025 and September 29, 2024, and as of September 28, 2025 and December 31, 2024 is as follows: 
+23
+Table of Contents
+Third Quarter Ended 
+Nine Months Ended 
+($ in thousands)
+September 28, 2025
+September 29, 2024
+September 28, 2025
+September 29, 2024
+Net sales:
+
+Total sales for reportable segments
+$
+981,863
+
+$
+924,431
+
+$
+3,044,444
+
+$
+2,886,867
+
+Elimination of inter-segment sales
+(
+6,232
+)
+(
+4,987
+)
+(
+17,839
+)
+(
+17,307
+)
+Consolidated net sales
+$
+975,631
+
+$
+919,444
+
+$
+3,026,605
+
+$
+2,869,560
+
+Depreciation and amortization:
+Depreciation and amortization for reportable segments
+$
+40,323
+
+$
+40,333
+
+$
+122,370
+
+$
+118,811
+
+Corporate depreciation and amortization
+1,644
+
+1,853
+
+4,852
+
+5,191
+
+Consolidated depreciation and amortization
+$
+41,967
+
+$
+42,186
+
+$
+127,222
+
+$
+124,002
+
+Capital expenditures:
+Capital expenditures for reportable segments
+$
+19,667
+
+$
+15,997
+
+$
+50,042
+
+$
+40,007
+
+Corporate capital expenditures
+6,631
+
+1,856
+
+14,702
+
+10,257
+
+Consolidated capital expenditures
+$
+26,298
+
+$
+17,853
+
+$
+64,744
+
+$
+50,264
+
+As of
+($ in thousands)
+September 28, 2025
+December 31, 2024
+Total assets:
+Manufacturing segment assets
+$
+2,536,575
+
+$
+2,402,533
+
+Distribution segment assets
+517,054
+
+524,827
+
+Corporate assets unallocated to segments
+72,848
+
+60,033
+
+Cash and cash equivalents
+20,698
+
+33,561
+
+Consolidated total assets
+$
+3,147,175
+
+$
+3,020,954
+
+The Company's revenue from external customers and long-lived assets are substantially all attributed to the U.S.
+
+NOTE 12. 
+STOCK REPURCHASE PROGRAMS 
+In November 2024, the Board authorized an increase in the amount of the Company's common stock that may be acquired over the next 
+24
+ months under the current stock repurchase program to $
+200
+ million, including the $
+72.9
+ million remaining under the previous authorization. As of September 28, 2025, Patrick had approximately $
+168.0
+ million remaining in the amount of the Company's common stock that may be acquired under the current stock repurchase program.
+Under the stock repurchase plan, the Company made repurchases of common stock as follows for the respective periods:
+
+Third Quarter Ended 
+Nine Months Ended 
+($ in millions, except average price data)
+September 28, 2025
+September 29, 2024
+September 28, 2025
+September 29, 2024
+Shares repurchased
+—
+
+—
+
+377,612
+
+—
+
+Average price
+$
+—
+
+$
+—
+
+$
+84.66
+
+$
+—
+
+Aggregate cost
+$
+—
+
+$
+—
+
+$
+32.0
+
+$
+—
+
+24
+Table of Contents
+NOTE 13. 
+COMMITMENTS AND CONTINGENCIES
+The Company is subject to proceedings, lawsuits, audits, and other claims arising in the normal course of business. All such matters are subject to uncertainties and outcomes that are not predictable with assurance. Accruals for these items, when applicable, have been provided to the extent that losses are deemed probable and are reasonably estimable. These accruals are adjusted from time to time as developments warrant. 
+Although the ultimate outcome of these matters cannot be ascertained, on the basis of present information, amounts already provided, availability of insurance coverage and legal advice received, it is the opinion of management that the ultimate resolution of these proceedings, lawsuits, and other claims will not have a material adverse effect on the Company’s financial position, results of operations, or cash flows.
+In the Company's Form 10-K for the year ended December 31, 2024, the Company described the current status of litigation concerning the Lusher Site Remediation Group. In early July 2023, the Court granted the Company’s Rule 54(b) Motion for Final Judgment on previously dismissed claims and granted the Company’s Motion to Dismiss the plaintiff’s remaining claims against the defendants, without prejudice (the Company’s Motion to Dismiss having been joined by the remaining defendants in the litigation.) The only remaining issue pending in the litigation for the Court’s determination is the plaintiff’s motion to bar contribution claims. The Company has also been named as a potentially responsible party for the related Lusher Street Groundwater Contamination Superfund Site (the "Superfund Site") by the U.S. Environmental Protection Agency (the "EPA"). There has been no change in the status of the proceedings as described in the 10-K for the year ended December 31, 2024, filed with the SEC on February 20, 2025. The Company does not currently believe that the litigation or the Superfund Site matter are likely to have a material adverse impact on its financial condition, results of operations, or cash flows. However, any litigation is inherently uncertain, the EPA has yet to select a final remedy for the Superfund Site, and any judgment or injunctive relief entered against us or any adverse settlement could materially and adversely impact our business, results of operations, financial condition, and prospects.
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+OVERVIEW
+This Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) is intended to help the reader understand the results of operations, financial condition and cash flows of Patrick Industries, Inc. This MD&A should be read in conjunction with the Company’s Condensed Consolidated Financial Statements and Notes thereto included in Item 1 of this Report. In addition, this MD&A contains certain statements relating to future results which are forward-looking statements as that term is defined in the Private Securities Litigation Reform Act of 1995. See “Information Concerning Forward-Looking Statements” on page 
+35
+ of this Report. The Company undertakes no obligation to update these forward-looking statements. 
+OVERVIEW OF MARKETS AND RELATED INDUSTRY PERFORMANCE
+Third Quarter and First Nine Months of 2025 Financial Overview
+Recreational Vehicle ("RV") Industry
+
+The Company’s RV products are sold primarily to major manufacturers of RVs, smaller original equipment manufacturers ("OEMs"), and to a lesser extent, manufacturers in adjacent industries. The principal types of recreational vehicles include (1) towables: conventional travel trailers, fifth wheels, folding camping trailers, and truck campers; and (2) motorized: class A (large motor homes), class B (van campers), and class C (small-to-mid size motor homes). 
+The RV industry is our primary market and comprised 44% and 46% of the Company's net sales in the third quarter and nine months ended September 28, 2025, respectively, and 43% and 44% in the third quarter and nine months ended September 29, 2024. Net sales to the RV industry in the third quarter and nine months ended September 28, 2025 increased 7% and 9%, respectively, compared to the prior year periods. 
+25
+Table of Contents
+According to the RV Industry Association ("RVIA"), RV wholesale unit shipments in the third quarter of 2025 totaled approximately 76,500 units, a decrease of 2% from approximately 77,800 units in the third quarter of 2024. While we estimate RV industry retail unit sales in the third quarter of 2025 remained flat compared to the third quarter of 2024, we estimate that retail unit sales exceeded wholesale unit shipments in the third quarter of 2025 as RV OEMs maintained lower production volumes.
+RV wholesale unit shipments for the first nine months of 2025 totaled approximately 267,200 units, an increase of 4% from approximately 256,400 units in the first nine months of 2024. While we estimate RV industry retail unit sales in the first nine months of 2025 decreased by approximately 1% compared to the first nine months of 2024, we estimate that retail unit sales exceeded wholesale unit shipments which resulted in improved alignment of dealer inventory levels with current retail demand.
+Marine Industry 
+The Company’s sales to the marine industry are primarily focused on the powerboat sector of the market which is comprised of four main categories: fiberglass, aluminum fishing, pontoon and ski & wake. 
+Net sales to the marine industry comprised 15% of the Company's net sales in both the third quarter and nine months ended September 28, 2025 and 15% and 16% in the third quarter and nine months ended September 29, 2024, respectively. Net sales to the marine industry in the third quarter and nine months ended September 28, 2025 increased 11% and 2%, respectively, compared to the prior year periods.
+Our marine revenue is generally correlated to marine industry wholesale powerboat unit shipments. According to Company estimates based on data published by the National Marine Manufacturers Association ("NMMA"), wholesale powerboat unit shipments remained flat in the third quarter of 2025 compared to the third quarter of 2024 and decreased 4% in the first nine months of 2025 compared to the prior year period. 
+We estimate that marine industry retail powerboat unit sales decreased 6% and 8% in the third quarter and first nine months of 2025, respectively, compared to the prior year periods, primarily due to the current macroeconomic environment faced by the end consumer, such as economic uncertainty and elevated interest rates.
+Powersports Industry
+Through acquisitions completed in recent years, the Company entered the powersports end market. Powersports is a category of motorsports which includes vehicles such as motorcycles, all-terrain vehicles ("ATVs"), side-by-sides, snowmobiles, scooters, golf carts and other personal transportation vehicles, and other related categories. Our powersports business is primarily focused on the utility and premium segments of the side-by-side market, which have been outperforming the more discretionary recreational segment. We also participate in the motorcycle and golf cart segments of the market. OEMs and dealers are actively managing field inventory levels to align dealer inventories with retail demand.
+Net sales to the powersports industry comprised 10% and 9% of the Company's net sales in the third quarter and nine months ended September 28, 2025, respectively, and 10% and 9% in the third quarter and nine months ended September 29, 2024, respectively. Net sales to the powersports industry increased 12% in the third quarter of 2025 and remained flat for the nine months ended September 28, 2025 compared to the prior year periods.
+Manufactured Housing ("MH") Industry
+The Company’s products for this market are sold primarily to major manufacturers of manufactured homes, other OEMs, and to a lesser extent, manufacturers in adjacent industries. Factors that may favorably impact demand in this industry include jobs growth, consumer confidence, favorable changes in financing regulations, a narrowing in the difference between interest rates on MH loans and mortgages on traditional residential "site-built" housing, and any improvement in conditions in the asset-backed securities markets for manufactured housing loans.
+26
+Table of Contents
+Net sales to the MH industry comprised 18% and 17% of the Company's net sales in the third quarter and nine months ended September 28, 2025, respectively, and 19% and 18% in the third quarter and nine months ended September 29, 2024, respectively. Net sales to the MH industry in the third quarter and nine months ended September 28, 2025 decreased 2% and increased 4%, respectively, compared to the prior year periods. According to Company estimates based on industry data from the Manufactured Housing Institute, MH industry wholesale unit shipments decreased 2% in the third quarter compared to the prior year quarter, primarily driven by the timing of OEMs production schedules and dealer orders following elevated shipment activity earlier in the year, as well as disciplined dealer inventory management.
+MH industry wholesale unit shipments increased 3% in the first nine months of 2025 compared to the prior year period, primarily driven by OEMs increasing production in the first half of 2025.
+Industrial Market
+The industrial market is comprised primarily of kitchen cabinet, countertop, hospitality, retail and commercial fixtures, and office and household furniture markets and regional distributors. 
+Net sales to the industrial market comprised 13% of the Company's net sales in both the third quarter and nine months ended September 28, 2025 and in both the third quarter and nine months ended September 29, 2024. Net sales to the industrial market in the third quarter and nine months ended September 28, 2025 increased 4% and 3%, respectively, compared to the prior year periods. Overall, our revenues in these markets are focused on residential and multifamily housing, hospitality, high-rise housing and office, commercial construction and institutional furniture markets. We estimate that, in general, approximately 70% to 80% of our industrial business is directly tied to the residential housing market, with the remaining 20% to 30% tied to the non-residential and commercial markets.
+According to the Company estimates based on U.S. Census Bureau data, combined new housing starts decreased 2% in the third quarter of 2025 compared to the prior year quarter, reflecting a decrease in single-family housing starts of 5%, offset by an increase in multifamily housing starts of 7%. 
+For the first nine months of 2025, combined new housing starts decreased 1% compared to the prior year period, reflecting a decrease in single-family housing starts of 5%, offset by an increase in multifamily housing starts of 14%. Our industrial products are generally among the last components installed in new unit construction and as such our related sales typically trail new housing starts by four to six months. 
+RESULTS OF OPERATIONS
+Third Quarter and Nine Months Ended September 28, 2025 Compared to 2024
+The following table sets forth the percentage relationship to net sales of certain items on the Company’s Condensed Consolidated Statements of Income.
+
+Third Quarter Ended
+Amount Change
+% Change
+($ in thousands)
+September 28, 2025
+September 29, 2024
+Net sales
+$
+975,631 
+100.0 
+%
+$
+919,444 
+100.0 
+%
+$
+56,187 
+6 
+%
+Cost of goods sold
+754,667 
+77.4 
+%
+706,930 
+76.9 
+%
+47,737 
+7 
+%
+Gross profit
+220,964 
+22.6 
+%
+212,514 
+23.1 
+%
+8,450 
+4 
+%
+Warehouse and delivery expenses
+44,449 
+4.6 
+%
+37,865 
+4.1 
+%
+6,584 
+17 
+%
+Selling, general and administrative expenses
+86,022 
+8.8 
+%
+75,783 
+8.2 
+%
+10,239 
+14 
+%
+Amortization of intangible assets
+24,200 
+2.5 
+%
+24,449 
+2.7 
+%
+(249)
+(1)
+%
+Operating income
+66,293 
+6.8 
+%
+74,417 
+8.1 
+%
+(8,124)
+(11)
+%
+Interest expense, net
+18,451 
+1.9 
+%
+20,050 
+2.2 
+%
+(1,599)
+(8)
+%
+Income taxes
+12,539 
+1.3 
+%
+13,501 
+1.5 
+%
+(962)
+(7)
+%
+Net income
+$
+35,303 
+3.6 
+%
+$
+40,866 
+4.4 
+%
+$
+(5,563)
+(14)
+%
+27
+Table of Contents
+
+Nine Months Ended
+Amount Change
+% Change
+($ in thousands)
+September 28, 2025
+September 29, 2024
+Net sales
+$
+3,026,605 
+100.0 
+%
+$
+2,869,560 
+100.0 
+%
+$
+157,045 
+5 
+%
+Cost of goods sold
+2,326,418 
+76.9 
+%
+2,220,897 
+77.4 
+%
+105,521 
+5 
+%
+Gross profit
+700,187 
+23.1 
+%
+648,663 
+22.6 
+%
+51,524 
+8 
+%
+Warehouse and delivery expenses
+135,106 
+4.5 
+%
+114,053 
+4.0 
+%
+21,053 
+18 
+%
+Selling, general and administrative expenses
+273,159 
+9.0 
+%
+244,617 
+8.5 
+%
+28,542 
+12 
+%
+Amortization of intangible assets
+73,338 
+2.4 
+%
+71,545 
+2.5 
+%
+1,793 
+3 
+%
+Operating income
+218,584 
+7.2 
+%
+218,448 
+7.6 
+%
+136 
+— 
+%
+Interest expense, net
+56,432 
+1.9 
+%
+60,483 
+2.1 
+%
+(4,051)
+(7)
+%
+Other expenses
+24,420 
+0.8 
+%
+— 
+— 
+%
+24,420 
+N/A
+Income taxes
+31,755 
+1.0 
+%
+34,122 
+1.2 
+%
+(2,367)
+(7)
+%
+Net income
+$
+105,977 
+3.5 
+%
+$
+123,843 
+4.3 
+%
+$
+(17,866)
+(14)
+%
+Net Sales.
+ Net sales in the third quarter of 2025 increased $56.2 million, or 6%, to $975.6 million compared to $919.4 million in the third quarter of 2024. Net sales in the third quarter of 2025 increased due to increased sales to the RV, marine, powersports and industrial markets, partially offset by decreased sales to the MH market. Sales to the RV market increased $29.0 million, or 7%, compared to the prior year quarter, primarily attributable to the Company's acquisition of ICON Direct LLC, doing business as RecPro ("RecPro") in the third quarter of 2024. Sales to the marine market increased $14.5 million, or 11%, primarily attributable to acquisitions completed in the first nine months of 2025. Sales to the powersports market increased $10.4 million, or 12%, compared to the prior year quarter, primarily related to higher OEM production volumes in alignment with retail demand. Sales to the industrial market increased $5.0 million, or 4%, compared to the prior year quarter, which is attributable to market share gains and product mix shifts by certain customers. Sales to the MH market decreased $2.7 million, or 2%, compared to the prior year quarter, primarily due to a decrease in estimated MH industry wholesale unit shipments of approximately 2%.
+Net sales in the first nine months of 2025 increased $157.0 million, or 5%, to $3.03 billion compared to $2.87 billion in the first nine months of 2024. Net sales in the first nine months of 2025 increased due to increased sales to each of our markets. Sales to the RV market increased $116.5 million, or 9%, compared to the first nine months of 2024, due to the Company's acquisition of RecPro in the third quarter of 2024, industry volume growth and market share gain. Sales to the MH market increased $22.2 million, or 4%, compared to the first nine months of 2024, primarily due to an increase in estimated MH industry wholesale unit shipments of approximately 3%. Sales to the industrial market increased $10.1 million, or 3%, compared to the first nine months of 2024, primarily related to product mix shifts by certain customers. Sales to the marine market increased $7.0 million, or 2%, compared to the first nine months of 2024, primarily attributable to acquisitions completed in the first nine months of 2025. Sales to the powersports market increased $1.2 million and flat compared to the first nine months of 2024, primarily related to higher OEM production volumes in alignment with retail demand.
+Revenue attributable to acquisitions completed in the first nine months of 2025 was $11.0 million and $24.2 million in the third quarter and first nine months of 2025, respectively. Revenue attributable to acquisitions completed in the first nine months of 2024 was $78.6 million and $216.4 million in the third quarter and first nine months of 2024, respectively. 
+Cost of Goods Sold.
+ Cost of goods sold increased $47.7 million, or 7%, to $754.7 million in the third quarter of 2025 compared to $706.9 million in the third quarter of 2024. As a percentage of net sales, cost of goods sold increased 50 basis points in the third quarter of 2025 to 77.4% compared to 76.9% in the third quarter of 2024. 
+Cost of goods sold as a percentage of net sales increased in the third quarter of 2025 primarily as a result of an increase in material costs of 110 basis points, partially offset by decreases in labor and manufacturing overhead costs of 40 and 20 basis points, respectively. 
+28
+Table of Contents
+Cost of goods sold increased $105.5 million, or 5%, to $2.33 billion in the first nine months of 2025 from $2.22 billion in the first nine months of 2024. As a percentage of net sales, cost of goods sold decreased 50 basis points in the first nine months of 2025 to 76.9% compared to 77.4% in the first nine months of 2024.
+Cost of goods sold as a percentage of net sales decreased in the first nine months of 2025 primarily as a result of continued cost reduction and automation initiatives we deployed throughout 2024 and into 2025 that had a positive impact on labor and overhead costs. The decrease in cost of goods sold as a percentage of net sales in the first nine months of 2025 primarily reflected a 50 basis point decrease in labor costs. In general, the Company's cost of goods sold percentage can be impacted from quarter-to-quarter by demand changes in certain market sectors that can result in fluctuating costs of certain raw materials and commodity-based components that are utilized in production.
+Gross Profit.
+ Gross profit increased $8.5 million, or 4%, to $221.0 million in the third quarter of 2025 compared to $212.5 million in the prior year period. As a percentage of net sales, gross profit decreased 50 basis points to 22.6% in the third quarter of 2025 compared to 23.1% in the prior year period.
+Gross profit increased $51.5 million, or 8%, to $700.2 million in the first nine months of 2025 compared to $648.7 million in the prior year period. As a percentage of net sales, gross profit increased 50 basis points to 23.1% in the first nine months of 2025 compared to 22.6% in the prior year period. The change in gross profit as a percentage of net sales in the third quarter and first nine months of 2025 compared to the same periods in 2024 reflects the impact of the factors discussed above under "Cost of Goods Sold".
+Warehouse and Delivery Expenses
+. Warehouse and delivery expenses increased $6.6 million, or 17%, to $44.4 million in the third quarter of 2025 compared to $37.9 million in the third quarter of 2024. As a percentage of net sales, warehouse and delivery expenses increased 50 basis points to 4.6% in third quarter of 2025 compared to 4.1% the third quarter of 2024. 
+Warehouse and delivery expenses increased $21.1 million, or 18%, to $135.1 million in the first nine months of 2025 compared to $114.1 million in the prior year period. As a percentage of net sales, warehouse and delivery expenses increased 50 basis points to 4.5% in the first nine months of 2025 compared to 4.0% in the first nine months of 2024.
+The increase in warehouse and delivery expenses in the third quarter and first nine months of 2025 compared to the same periods in 2024 is primarily attributable to the increase in sales, and the increase as a percentage of net sales is primarily related to higher freight costs.
+Selling, General and Administrative ("SG&A") Expenses
+. SG&A expenses increased $10.2 million, or 14%, to $86.0 million in the third quarter of 2025 compared to $75.8 million in the prior year quarter. The increase in SG&A expenses in the third quarter of 2025 compared to the prior year quarter is primarily related to increased incentive compensation and wages. 
+As a percentage of net sales, SG&A expenses increased 60 basis points to 8.8% in the third quarter of 2025 compared to 8.2% in the third quarter of 2024. The increase in SG&A expenses as a percentage of net sales in the third quarter of 2025 is primarily attributable to increased incentive compensation expense as a percentage of net sales, partially offset by decreased administrative expenses as a percentage of net sales. 
+SG&A expenses increased $28.5 million, or 12%, to $273.2 million in the first nine months of 2025 compared to $244.6 million in the prior year period. The increase in SG&A expenses in the first nine months of 2025 compared to 2024 is primarily attributable to the cost profile of certain 2024 acquisitions, increased wages, incentive compensation expenses, insurance expenses, technology expenses, loss on sale of assets, and selling expenses, partially offset by decreased professional fees and administrative expenses. 
+As a percentage of net sales, SG&A expenses increased 50 basis points to 9.0% in the first nine months of 2025 compared to 8.5% in the prior year period. The increase in SG&A expenses as a percentage of net sales in the first nine months of 2025 is primarily attributable to increased selling expenses, insurance expenses, wages, loss on sale of assets, technology expenses, and incentive compensation. 
+29
+Table of Contents
+Amortization of Intangible Assets.
+ Amortization of intangible assets decreased $0.2 million, or 1%, to $24.2 million in the third quarter of 2025 compared to $24.4 million in the prior year quarter. Amortization of intangible assets increased $1.8 million, or 3%, to $73.3 million in the first nine months of 2025 compared to $71.5 million in the prior year period. The increase in the first nine months of 2025 compared to the comparable prior year period primarily reflects the impact of the RecPro acquisition as well as other acquisitions completed in 2025 and 2024. 
+Operating
+
+Income.
+ Operating income decreased $8.1 million, or 11%, to $66.3 million in the third quarter of 2025 compared to $74.4 million in the third quarter of 2024. As a percentage of net sales, operating income decreased to 6.8% in the third quarter of 2025 compared to 8.1% in the third quarter of 2024. The decrease in operating income and operating income as a percentage of net sales is primarily attributable to the items discussed above. 
+Operating income increased $0.1 million to $218.6 million in the first nine months of 2025 compared to $218.4 million in the prior year period. Operating income as a percentage of net sales decreased to 7.2% in the first nine months of 2025 compared to 7.6% in the first nine months of 2024. The increase in operating income is primarily attributable to increased net sales, partially offset by an increase in operating expenses and the items discussed above. The increase in operating income and the decrease in operating income as a percentage of net sales are primarily attributable to the items discussed above.
+Interest Expense, Net.
+ Interest expense decreased $1.6 million, or 8%, to $18.5 million in the third quarter of 2025 compared to $20.1 million in the prior year quarter. Interest expense decreased $4.1 million, or 7%, to $56.4 million in the first nine months of 2025 compared to $60.5 million in the first nine months of 2024. The decrease primarily reflects a lower average interest rate on our outstanding debt compared to the prior year periods.
+Other Expenses.
+ Other expenses were $24.4 million in the first nine months of 2025 compared to zero in the prior year period, reflecting expenses related to a legal settlement.
+Income Taxes.
+ Income tax expense decreased $1.0 million in the third quarter of 2025 to $12.5 million compared to $13.5 million in the prior year quarter. Income tax expense decreased $2.4 million in the first nine months of 2025 to $31.8 million compared to $34.1 million in the prior year period. The effective tax rate was 26.2% and 23.1% in the third quarter and first nine months of 2025, respectively, and 24.8% and 21.6% in the third quarter and first nine months of 2024, respectively. 
+The decrease in income tax expense in the third quarter and the first nine months of 2025 compared to the same periods in 2024 is primarily related to the decrease in income before taxes and decreased excess tax benefits on share-based compensation.
+SEGMENT REPORTING
+The Company's reportable segments, Manufacturing and Distribution, are based on its method of internal reporting. The Company regularly evaluates the performance of the Manufacturing and Distribution segments and allocates resources to them based on a variety of indicators including sales and operating income. The Company does not measure profitability at the customer end market (RV, marine, powersports, MH and industrial) level.
+Third Quarter and Nine Months Ended September 28, 2025 Compared to 2024 
+General
+
+In the discussion that follows, sales attributable to the Company’s reportable segments include inter-segment sales and gross profit includes the impact of inter-segment operating activity.
+30
+Table of Contents
+The table below presents information about the sales, gross profit and operating income of the Company’s reportable segments. A reconciliation of consolidated net sales and operating income is presented in Note 11 "Segment Information" of the Notes to Condensed Consolidated Financial Statements.
+
+Third Quarter Ended 
+Amount Change
+% Change
+($ in thousands)
+September 28, 2025
+September 29, 2024
+Sales
+
+Manufacturing
+$
+722,826 
+$
+685,296 
+$
+37,530 
+5%
+Distribution
+$
+259,037 
+$
+239,135 
+$
+19,902 
+8%
+Gross Profit
+Manufacturing
+$
+158,785 
+$
+153,793 
+$
+4,992 
+3%
+Distribution
+$
+59,767 
+$
+53,230 
+$
+6,537 
+12%
+Operating Income
+Manufacturing
+$
+84,405 
+$
+86,429 
+$
+(2,024)
+(2)%
+Distribution
+$
+23,183 
+$
+23,400 
+$
+(217)
+(1)%
+
+Nine Months Ended
+Amount Change
+% Change
+($ in thousands)
+September 28, 2025
+September 29, 2024
+Sales
+
+Manufacturing
+$
+2,253,833 
+$
+2,139,598 
+$
+114,235 
+5%
+Distribution
+$
+790,611 
+$
+747,269 
+$
+43,342 
+6%
+Gross Profit
+Manufacturing
+$
+507,464 
+$
+488,711 
+$
+18,753 
+4%
+Distribution
+$
+193,642 
+$
+161,419 
+$
+32,223 
+20%
+Operating Income
+Manufacturing
+$
+285,649 
+$
+282,631 
+$
+3,018 
+1%
+Distribution
+$
+80,601 
+$
+77,278 
+$
+3,323 
+4%
+Manufacturing
+Sales.
+ Manufacturing segment sales increased $37.5 million, or 5%, to $722.8 million in the third quarter of 2025 compared to $685.3 million in the prior year quarter. For the first nine months of 2025, sales increased $114.2 million, or 5%, to $2.25 billion compared to $2.14 billion in the prior year period. The manufacturing segment accounted for approximately 74% of the Company’s sales for both the third quarter and first nine months of 2025 and for both the third quarter and first nine months 2024.
+Manufacturing segment sales in the third quarter of 2025 compared to the prior year quarter increased due to increased sales to the RV, marine, powersports and industrial markets, partially offset by decreased sales to the MH market. Sales to the RV market increased 6%, primarily attributable to market share gains. Sales to the marine market increased 12%, primarily attributable to acquisitions completed in the first nine months of 2025. Sales to the powersports market increased 11% compared to the prior year quarter. Sales to the industrial market increased 4% compared to the prior year quarter. Sales to the MH market decreased 5% compared to the prior year quarter, primarily due to a decrease in estimated MH industry wholesale unit shipments of approximately 2%. 
+Manufacturing segment sales in the first nine months of 2025 compared to the same prior year period increased due to increased sales to the RV, industrial, MH and marine markets, partially offset by decreased sales to the powersports market. Sales to the RV market increased 11% compared to the first nine months of 2024, primarily attributable to an increase in estimated wholesale units shipments of 4% and market share gains compared to the first nine months of 2024. Sales to the industrial market increased 2% compared to the first nine months of 2024. Sales to the MH market increased 
+31
+Table of Contents
+3% compared to the first nine months of 2024, primarily due to an increase in estimated MH industry wholesale unit shipments of approximately 3% and market share gains. Sales to the marine market increased 2% compared to the first nine months of 2024, primarily attributable to acquisitions completed in 2024 and 2025. Sales to the powersports market decreased 1% compared to the first nine months of 2024, primarily related to lower OEM production volumes.
+Manufacturing segment sales attributable to acquisitions completed in the first nine months of 2025 were $11.0 million and $24.2 million in the third quarter and first nine months of 2025, respectively. Manufacturing segment sales attributable to acquisitions completed in the first nine months of 2024 were $73.9 million and $211.7 million in the third quarter and first nine months of 2024, respectively. 
+Gross Profit
+. Manufacturing segment gross profit increased $5.0 million, or 3%, to $158.8 million in the third quarter of 2025 compared to $153.8 million in the third quarter of 2024. As a percentage of sales, gross profit decreased 40 basis points to 22.0% in the third quarter of 2025 compared to 22.4% in the prior year quarter. The decrease in gross profit as a percentage of sales in the third quarter of 2025 compared to the same period in 2024 is attributable to increased material costs as a percentage of sales, partially offset by decreased manufacturing overhead costs as a percentage of sales. 
+Manufacturing segment gross profit increased $18.8 million, or 4%, to $507.5 million in the first nine months of 2025 compared to $488.7 million in the first nine months of 2024. As a percentage of sales, gross profit decreased 30 basis points to 22.5% in the first nine months of 2025 compared to 22.8% in the prior year period. The decrease in gross profit as a percentage of sales in the first nine months of 2025 compared to the same period in 2024 is attributable to increased material costs as a percentage of sales, partially offset by decreased labor and overhead costs as a percentage of sales.
+Operating Income.
+ Operating income decreased $2.0 million, or 2%, to $84.4 million in the third quarter of 2025 compared to $86.4 million in the prior year quarter. As a percentage of sales, operating income decreased 90 basis points to 11.7% in the third quarter of 2025 compared to 12.6% in the prior year period. The decrease in operating income and operating income as a percentage of sales is primarily related to the items discussed above combined with an increase in operating expenses and operating expenses as a percentage of sales. 
+Operating income increased $3.0 million, or 1%, to $285.6 million in the first nine months of 2025 compared to $282.6 million in the prior year period. As a percentage of sales, operating income decreased 50 basis points to 12.7% in the first nine months of 2025 compared to 13.2% in the prior year period. The increase in operating income is primarily attributable to increased sales, partially offset by an increase in operating expenses. The decrease in operating income as a percentage of sales is primarily related to the items discussed above combined with an increase in operating expenses. 
+Distribution
+Sales.
+ Distribution segment sales increased $19.9 million, or 8%, to $259.0 million in the third quarter of 2025 compared to $239.1 million in the prior year quarter. For the first nine months of 2025, sales increased $43.3 million, or 6%, to $790.6 million compared to $747.3 million in the prior year period. The distribution segment accounted for approximately 26% of the Company’s sales for both the third quarter and first nine months of 2025 and for both the third quarter and first nine months of 2024.
+Distribution segment sales in the third quarter of 2025 compared to the third quarter of 2024 increased due to increased sales to the RV, powersports, MH, and industrial markets, partially offset by decreased sales to the marine market. Sales to the RV market increased 9% compared to the prior year quarter, primarily attributable to market share gains and acquisitions completed in 2024. Sales to the powersports market increased $1.0 million, or 33%, compared to the prior year quarter, primarily attributable to market share gains. Sales to the MH market increased $0.8 million, or 1%, compared to the prior year quarter. Sales to the industrial market increased $0.5 million, or 5%, compared to the prior year quarter. Sales to the marine market decreased $0.6 million, or 6%, compared to the prior year quarter. 
+Distribution segment sales in the first nine months of 2025 compared to the first nine months of 2024 increased due to increased sales to the RV, MH, powersports and industrial markets, partially offset by decreased sales to the marine market. Sales to the RV market increased 6% compared to the first nine months of 2024, due to industry wholesale unit shipment growth of 4%, market share gains and acquisitions completed in 2024. Sales to the MH market increased 5% compared to the first nine months of 2024, primarily due to an increase in estimated MH industry wholesale unit 
+32
+Table of Contents
+shipments of approximately 3%. Sales to the powersports market increased $3.1 million, or 34%, compared to the first nine months of 2024, primarily attributable to market share gains and acquisitions completed in 2024. Sales to the industrial market increased $2.5 million, or 9%, compared to the first nine months of 2024. Sales to the marine market decreased $0.4 million, or 1%, compared to the first nine months of 2024.
+Distribution segment sales attributable to acquisitions completed in the first nine months of 2024 were approximately $4.7 million in both the third quarter and first nine months of 2024.
+Gross Profit. 
+Distribution segment gross profit increased $6.5 million, or 12%, to $59.8 million in the third quarter of 2025 compared to $53.2 million in the third quarter of 2024. As a percentage of sales, gross profit increased 80 basis points to 23.1% in the third quarter of 2025 compared to 22.3% in the prior year quarter. The increase in gross profit as a percentage of sales in the third quarter of 2025 compared to the same quarter in 2024 is attributable to decreased labor costs as a percentage of sales, partially offset by increased material costs as a percentage of sales. 
+Distribution segment gross profit increased $32.2 million, or 20%, to $193.6 million in the first nine months of 2025 compared to $161.4 million in the first nine months of 2024. As a percentage of sales, gross profit increased 290 basis points to 24.5% in the first nine months of 2025 compared to 21.6% in the prior year period. The increase in gross profit as a percentage of sales in the first nine months of 2025 compared to 2024 is attributable to decreased material and labor costs as a percentage of sales. 
+Operating Income.
+ Operating income decreased $0.2 million, or 1%, to $23.2 million in the third quarter of 2025 compared to $23.4 million in the prior year quarter. As a percentage of sales, operating income decreased 90 basis points to 8.9% in the third quarter of 2025 compared to 9.8% in the same period in 2024. The decrease in operating income and operating income as a percentage of sales is primarily related to the items discussed above, offset by an increase in operating expenses and operating expense as a percentage of sales.
+Operating income increased $3.3 million, or 4%, to $80.6 million in the first nine months of 2025 compared to $77.3 million in the prior year period. As a percentage of sales, operating income decreased 10 basis points to 10.2% in the first nine months of 2025 compared to 10.3% in the same period in 2024. The increase in operating income and the decrease in operating income as a percentage of sales primarily reflect the items discussed above, as well as an increase in operating expenses and operating expense as a percentage of sales.
+LIQUIDITY AND CAPITAL RESOURCES
+The Company's primary sources of liquidity are cash flows from operations, available cash reserves and borrowing capacity available under the revolving credit and term loan facility (the “2024 Credit Facility”), as discussed in Note 8 "Debt" of the Notes to Condensed Consolidated Financial Statements. Our liquidity as of September 28, 2025 consisted of cash and cash equivalents of $20.7 million and $758.0 million of availability under the 2024 Credit Facility, net of $7.0 million of outstanding letters of credit. 
+As of September 28, 2025, the Company's existing cash and cash equivalents, cash generated from operations, and available borrowings under the 2024 Credit Facility are expected to be sufficient to meet anticipated cash needs for working capital and capital expenditures for at least the next 12 months, exclusive of any acquisitions, based on the Company's current cash flow budgets and forecast of short-term and long-term liquidity needs.
+Principal uses of cash are to support working capital demands, meet debt service requirements and support the Company's capital allocation strategy, which includes acquisitions, capital expenditures, dividends and repurchases of the Company’s common stock, among others.
+Working capital requirements vary from period to period depending on manufacturing volumes primarily related to the RV, marine, powersports, MH and industrial markets we serve, the timing of deliveries, and the payment cycles of customers. In the event that operating cash flow is inadequate and one or more of the Company's capital resources were to become unavailable, the Company would seek to revise its operating strategies accordingly. The Company will continue to assess its liquidity position and potential sources of supplemental liquidity in view of operating performance, current economic and capital market conditions, and other relevant circumstances.
+33
+Table of Contents
+In the first nine months of 2025, the Company utilized available borrowing capacity under the Revolver due 2029 and cash on hand to fund three acquisitions, as discussed in Note 5 "Acquisitions" of the Notes to Condensed Consolidated Financial Statements.
+As of and for the reporting period ended September 28, 2025, the Company was in compliance with its financial covenants as required under the terms of the credit agreement that established the 2024 Credit Facility (the “2024 Credit Agreement”). The required maximum consolidated secured net leverage ratio and the required minimum consolidated interest coverage ratio, as such ratios are defined in the 2024 Credit Agreement, compared to the actual amounts as of September 28, 2025 and for the fiscal period then ended are as follows:
+Required
+Actual
+Consolidated secured net leverage ratio (12-month period)
+2.75 
+0.45 
+Consolidated interest coverage ratio (12-month period)
+3.00 
+6.57 
+In addition, as of September 28, 2025, the Company's consolidated total net leverage ratio (12-month period) was 2.84. While this ratio is not a covenant under the 2024 Credit Agreement, it is used in determining the applicable borrowing margin under the 2024 Credit Agreement.
+Cash Flows
+Operating Activities:
+
+Cash flows from operating activities are one of the Company's primary sources of liquidity, representing the net income the Company earned in the reported periods, adjusted for certain non-cash items and changes in operating assets and liabilities. 
+Net cash provided by operating activities decreased $25.6 million, or 11%, to $198.6 million in the first nine months of 2025 compared to $224.2 million in the first nine months of 2024. The decrease in operating cash flows is primarily attributable to a $74.8 million use of cash from operating assets and liabilities, net of business acquisitions compared to a $40.4 million use of cash in the prior year period and a $17.9 million decrease in net income, partially offset by a $21.8 million increase in deferred income taxes and a $2.5 million increase in loss on sale of assets compared to the first nine months of 2024.
+Investing Activities:
+ Net cash used in investing activities decreased $348.5 million to $136.9 million in the first nine months of 2025 compared to $485.4 million in the first nine months of 2024 due to a decrease in cash used in business acquisitions, which were $70.3 million in the first nine months of 2025 compared to $411.6 million in the first nine months of 2024, primarily due to the acquisition of Sportech in January 2024 and RecPro in September 2024.
+Financing Activities: 
+Net cash used in financing activities was $74.5 million in the first nine months of 2025 compared to $302.4 million of net cash provided by financing activities in the first nine months of 2024, primarily due to a decrease in net borrowings under our revolving credit facility to $10.0 million in the first nine months of 2025 compared to $365.0 million in the first nine months of 2024. 
+RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS
+See Note 1, “Basis of Presentation and Significant Accounting Policies” to the accompanying Condensed Consolidated Financial Statements.
+CRITICAL ACCOUNTING POLICIES
+There have been no material changes to our critical accounting policies which are summarized in the MD&A in our Annual Report on Form 10-K for the year ended December 31, 2024, filed with the SEC on February 20, 2025.
+34
+Table of Contents
+OTHER
+Seasonality 
+Manufacturing operations in the RV, marine, powersports and MH industries historically have been seasonal and at their highest levels when the weather is moderate. Accordingly, the Company’s sales and profits had generally been the highest in the second quarter and lowest in the fourth quarter. Seasonal industry trends in the past several years have included the impact related to the addition of major RV manufacturer open houses for dealers in the August-September timeframe and marine open houses in the December-February timeframe, resulting in dealers delaying certain restocking purchases until new product lines are introduced at these shows. In addition, recent seasonal industry trends have been, and future trends may be, different than in prior years due to volatile economic conditions, interest rates, access to financing, cost of fuel, national and regional economic conditions and consumer confidence on retail sales of RVs, powersports and marine units and other products for which the Company sells its components, as well as fluctuations in RV, powersports and marine dealer inventories, increased volatility in demand from RV, powersports and marine dealers, the timing of dealer orders, and from time to time, the impact of severe weather conditions on the timing of industry-wide wholesale shipments.
+INFORMATION CONCERNING FORWARD-LOOKING STATEMENTS
+The Company makes forward-looking statements with respect to financial condition, results of operations, business strategies, operating efficiencies or synergies, competitive position, growth opportunities for existing products, plans and objectives of management, markets for the common stock of Patrick Industries, Inc. and other matters from time to time and desires to take advantage of the “safe harbor” which is afforded such statements under the Private Securities Litigation Reform Act of 1995 when they are accompanied by meaningful cautionary statements identifying important factors that could cause actual results to differ materially from those in the forward-looking statements. The statements contained in the foregoing “Management’s Discussion and Analysis of Financial Condition and Results of Operations”, as well as other statements contained in this quarterly report and statements contained in future filings with the Securities and Exchange Commission (“SEC”), publicly disseminated press releases, quarterly earnings conference calls, and statements which may be made from time to time in the future by management of the Company in presentations to shareholders, prospective investors, and others interested in the business and financial affairs of the Company, which are not historical facts, are forward-looking statements that involve risks and uncertainties that could cause actual results to differ materially from those set forth in the forward-looking statements. Any projections of financial performance or statements concerning expectations as to future developments should not be construed in any manner as a guarantee that such results or developments will, in fact, occur. There can be no assurance that any forward-looking statement will be realized or that actual results will not be significantly different from those set forth in such forward-looking statement. The Company does not undertake to publicly update or revise any forward-looking statements. Information about certain risks that could affect our business and cause actual results to differ from those expressed or implied in the forward-looking statements are contained in the section entitled “Risk Factors” in the Company’s Annual Report on Form 10-K for the year ended December 31, 2024, and in the Company's Forms 10-Q for subsequent quarterly periods, which are filed with the SEC and are available on the SEC’s website at www.sec.gov.
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Debt Obligations 
+As of September 28, 2025, our total debt obligations under our 2024 Credit Agreement were under Secured Overnight Financing Rate ("SOFR")-based interest rates. A 100-basis point increase in the underlying SOFR rates would result in additional annual interest cost of approximately $2.3 million, assuming average borrowings during 2025, including the Revolver due 2029 and Term Loan due 2029, subject to variable rates were equal to the amount of such borrowings outstanding at September 28, 2025, excluding deferred financing costs related to the Revolver due 2029 and Term Loan due 2029.
+35
+Table of Contents
+Commodity Volatility
+The prices of key raw materials, consisting primarily of lauan, gypsum, fiberglass, particleboard, aluminum, softwoods and hardwoods lumber, resin, and petroleum-based products, are influenced by demand and other factors specific to these commodities as well as general inflationary pressures, including those driven by supply chain and logistical disruptions. Prices of certain commodities have historically been volatile and continued to fluctuate in 2025. During periods of volatile commodity prices, we have generally been able to pass both price increases and decreases to our customers in the form of price adjustments. We are exposed to risks during periods of commodity volatility because there can be no assurance future cost increases or decreases, if any, can be partially or fully passed on to customers, or that the timing of such sales price increases or decreases will match raw material cost increases or decreases. We do not believe that commodity price volatility had a material effect on results of operations for the periods presented.
+Equity Price Risk
+The fair value of the 1.75% Convertible Notes is subject to market risk and other factors due to the conditional conversion feature. The fair value of the 1.75% Convertible Notes will generally increase as our common stock price increases and will generally decrease as our common stock price decreases. The 1.75% Convertible Notes are carried at amortized cost and their fair value is presented for disclosure purposes only.
+The Company will satisfy any conversion by paying cash up to the aggregate principal amount of the 1.75% Convertible Notes to be converted and by paying or delivering, as the case may be, cash, shares of the Company’s common stock, or a combination of cash and shares of the Company’s common stock, at its election, in respect of the remainder, if any, of its conversion obligation in excess of the aggregate principal amount of the 1.75% Convertible Notes being converted.
+In connection with the pricing of the 1.75% Convertible Notes, we entered into convertible note hedge transactions with certain of the initial purchasers and/or their respective affiliates (the “option counterparties”). At the same time, we entered into warrant transactions with the option counterparties. The convertible note hedge transactions are expected generally to reduce the potential dilution upon conversion of the 1.75% Convertible Notes and/or offset any cash payments we are required to make in excess of the principal amount of converted notes, as the case may be. However, the warrant transactions could separately have a dilutive effect on our common stock to the extent that the market price per share of our common stock exceeds the strike price of the warrants described in Note 9 "Derivative Financial Instruments" included in the Company’s Annual Report on Form 10-K for the year ended December 31, 2024 filed with the SEC on February 20, 2025.
+ITEM 4. CONTROLS AND PROCEDURES
+Disclosure Controls and Procedures
+The Company maintains “disclosure controls and procedures”, as such term is defined under Securities Exchange Act Rule 13a-15(e) or 15d-15(e), that are designed to ensure that information required to be disclosed in our Securities Exchange Act of 1934, as amended (the “Exchange Act”) reports is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms, and that such information is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate to allow for timely decisions regarding required disclosures. In designing and evaluating the disclosure controls and procedures, the Company’s management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives and the Company’s management necessarily is required to apply its judgment in evaluating the cost-benefit relationship of possible controls and procedures.
+Under the supervision and with the participation of our senior management, including our Chief Executive Officer and Chief Financial Officer, the Company conducted an evaluation of the effectiveness of the design and operation of our disclosure controls and procedures as of the end of the period covered by this report (the “Evaluation Date”). Based on this evaluation, our Chief Executive Officer and Chief Financial Officer concluded as of the Evaluation Date that our disclosure controls and procedures were effective such that the information relating to the Company, including consolidated subsidiaries, required to be disclosed in our reports filed under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the SEC’s rules and forms, and is accumulated and 
+36
+Table of Contents
+communicated to the Company’s management, including our Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure.
+Changes in internal control over financial reporting
+There have been no changes in our internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) that occurred during the third quarter ended September 28, 2025 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+37
+Table of Contents
+PART II: OTHER INFORMATION
+Items 3 and 4 of Part II are not applicable and have been omitted.
+ITEM 1. LEGAL PROCEEDINGS
+We are subject to claims and lawsuits in the ordinary course of business. In management's opinion, currently pending legal proceedings and claims against the Company will not, individually or in the aggregate, have a material adverse effect on its financial condition, results of operations, or cash flows.
+See
+ Note 13 "Commitments and Contingencies" 
+to our Condensed Consolidated Financial Statements in this Quarterly Report on Form 10-Q, which is incorporated herein by reference. 
+ITEM 1A. RISK FACTORS
+There have been no material changes from the risk factors previously disclosed in our Annual Report on Form 10-K for the year ended December 31, 2024, filed with the SEC on February 20, 2025.
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+(a) Recent Sales of Unregistered Securities.  None.
+(b) Use of Proceeds.  None. 
+(c) Issuer Purchases of Equity Securities
+The following table summarizes our purchases of common stock in the three months ended September 28, 2025. 
+Period
+Total Number of Shares Purchased 
+(1)
+Average Price
+Paid Per Share 
+(1)
+
+Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs 
+(2)
+Maximum Dollar Value of Shares that May Yet Be Purchased Under the Plans or Programs 
+(2)
+June 30 - July 27, 2025
+— 
+$
+— 
+— 
+$
+168,031,000 
+July 28 - August 31, 2025
+124 
+$
+103.03 
+— 
+$
+168,031,000 
+September 1 - September 28, 2025
+2,657 
+$
+110.99 
+— 
+$
+168,031,000 
+2,781 
+— 
+(1)
+Amount includes 2,781 shares of common stock purchased by the Company in the period for the purpose of satisfying the minimum tax withholding obligations of employees upon the vesting of stock awards held by the employees.
+(2)
+See Note 12 "Stock Repurchase Programs" of the Notes to Condensed Consolidated Financial Statements for additional information about the Company's stock repurchase program. 
+ITEM 5. OTHER INFORMATION
+During the three months ended September 28, 2025, none of our directors or executive officers 
+adopted
+ or 
+terminated
+ any contract, instruction or written plan for the purchase or sale of our securities that was intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) or any "non-Rule 10b5-1 trading arrangement" (as defined in Item 408(c) of Regulation S-K).
+38
+Table of Contents
+ITEM 6. EXHIBITS
+
+Exhibits (1)
+Description
+31.1
+Certification pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 by Chief Executive Officer
+31.2
+Certification pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 by Chief Financial Officer
+32
+Certification pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 by Chief Executive Officer and Chief Financial Officer
+101
+Interactive Data Files. The following materials are filed electronically with this Quarterly Report on Form 10-Q:
+
+101.INS
+Inline XBRL Instance Document
+
+101.SCH
+Inline XBRL Taxonomy Schema Document
+
+101.CAL
+Inline XBRL Taxonomy Calculation Linkbase Document
+
+101.DEF
+Inline XBRL Taxonomy Definition Linkbase Document
+
+101.LAB
+Inline XBRL Taxonomy Label Linkbase Document
+
+101.PRE
+Inline XBRL Taxonomy Presentation Linkbase Document
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+39
+Table of Contents
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+Date: November 6, 2025
+By:
+/s/ Andrew C. Roeder
+
+Andrew C. Roeder
+
+Executive Vice President - Finance, Chief Financial Officer, and Treasurer
+
+Date: November 6, 2025
+By:
+/s/ Matthew S. Filer
+
+Matthew S. Filer
+
+Senior Vice President - Finance and Chief Accounting Officer
+40

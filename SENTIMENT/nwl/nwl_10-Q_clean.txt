@@ -1,0 +1,4945 @@
+nwl-20250930
+false
+2025
+Q3
+0000814453
+12-31
+false
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+nwl:country
+nwl:segment
+xbrli:pure
+nwl:entity
+nwl:unit
+nwl:recipient
+nwl:party
+nwl:defendant
+0000814453
+2025-01-01
+2025-09-30
+0000814453
+2025-10-27
+0000814453
+2025-07-01
+2025-09-30
+0000814453
+2024-07-01
+2024-09-30
+0000814453
+2024-01-01
+2024-09-30
+0000814453
+2025-09-30
+0000814453
+2024-12-31
+0000814453
+2023-12-31
+0000814453
+2024-09-30
+0000814453
+us-gaap:CommonStockMember
+2025-06-30
+0000814453
+us-gaap:TreasuryStockCommonMember
+2025-06-30
+0000814453
+us-gaap:AdditionalPaidInCapitalMember
+2025-06-30
+0000814453
+us-gaap:RetainedEarningsMember
+2025-06-30
+0000814453
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-06-30
+0000814453
+2025-06-30
+0000814453
+us-gaap:RetainedEarningsMember
+2025-07-01
+2025-09-30
+0000814453
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-07-01
+2025-09-30
+0000814453
+us-gaap:AdditionalPaidInCapitalMember
+2025-07-01
+2025-09-30
+0000814453
+us-gaap:CommonStockMember
+2025-07-01
+2025-09-30
+0000814453
+us-gaap:TreasuryStockCommonMember
+2025-07-01
+2025-09-30
+0000814453
+us-gaap:CommonStockMember
+2025-09-30
+0000814453
+us-gaap:TreasuryStockCommonMember
+2025-09-30
+0000814453
+us-gaap:AdditionalPaidInCapitalMember
+2025-09-30
+0000814453
+us-gaap:RetainedEarningsMember
+2025-09-30
+0000814453
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-09-30
+0000814453
+us-gaap:CommonStockMember
+2024-12-31
+0000814453
+us-gaap:TreasuryStockCommonMember
+2024-12-31
+0000814453
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0000814453
+us-gaap:RetainedEarningsMember
+2024-12-31
+0000814453
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-31
+0000814453
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-09-30
+0000814453
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-01-01
+2025-09-30
+0000814453
+us-gaap:AdditionalPaidInCapitalMember
+2025-01-01
+2025-09-30
+0000814453
+us-gaap:CommonStockMember
+2025-01-01
+2025-09-30
+0000814453
+us-gaap:TreasuryStockCommonMember
+2025-01-01
+2025-09-30
+0000814453
+us-gaap:CommonStockMember
+2024-06-30
+0000814453
+us-gaap:TreasuryStockCommonMember
+2024-06-30
+0000814453
+us-gaap:AdditionalPaidInCapitalMember
+2024-06-30
+0000814453
+us-gaap:RetainedEarningsMember
+2024-06-30
+0000814453
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-06-30
+0000814453
+2024-06-30
+0000814453
+us-gaap:RetainedEarningsMember
+2024-07-01
+2024-09-30
+0000814453
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-07-01
+2024-09-30
+0000814453
+us-gaap:AdditionalPaidInCapitalMember
+2024-07-01
+2024-09-30
+0000814453
+us-gaap:CommonStockMember
+2024-07-01
+2024-09-30
+0000814453
+us-gaap:TreasuryStockCommonMember
+2024-07-01
+2024-09-30
+0000814453
+us-gaap:CommonStockMember
+2024-09-30
+0000814453
+us-gaap:TreasuryStockCommonMember
+2024-09-30
+0000814453
+us-gaap:AdditionalPaidInCapitalMember
+2024-09-30
+0000814453
+us-gaap:RetainedEarningsMember
+2024-09-30
+0000814453
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-09-30
+0000814453
+us-gaap:CommonStockMember
+2023-12-31
+0000814453
+us-gaap:TreasuryStockCommonMember
+2023-12-31
+0000814453
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-31
+0000814453
+us-gaap:RetainedEarningsMember
+2023-12-31
+0000814453
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-12-31
+0000814453
+us-gaap:RetainedEarningsMember
+2024-01-01
+2024-09-30
+0000814453
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-01-01
+2024-09-30
+0000814453
+us-gaap:AdditionalPaidInCapitalMember
+2024-01-01
+2024-09-30
+0000814453
+us-gaap:CommonStockMember
+2024-01-01
+2024-09-30
+0000814453
+us-gaap:TreasuryStockCommonMember
+2024-01-01
+2024-09-30
+0000814453
+nwl:FinancialInstitutionOneMember
+2025-09-30
+0000814453
+nwl:FinancialInstitutionOneMember
+2025-07-01
+2025-09-30
+0000814453
+nwl:FinancialInstitutionOneMember
+2024-07-01
+2024-09-30
+0000814453
+nwl:FinancialInstitutionOneMember
+2025-01-01
+2025-09-30
+0000814453
+nwl:FinancialInstitutionOneMember
+2024-01-01
+2024-09-30
+0000814453
+nwl:FinancialInstitutionOneMember
+2024-12-31
+0000814453
+nwl:FinancialInstitutionTwoMember
+2025-09-30
+0000814453
+nwl:FinancialInstitutionTwoMember
+2025-07-01
+2025-09-30
+0000814453
+nwl:FinancialInstitutionTwoMember
+2024-07-01
+2024-09-30
+0000814453
+nwl:FinancialInstitutionTwoMember
+2025-01-01
+2025-09-30
+0000814453
+nwl:FinancialInstitutionTwoMember
+2024-01-01
+2024-09-30
+0000814453
+nwl:FinancialInstitutionTwoMember
+2024-12-31
+0000814453
+2025-08-01
+2025-08-31
+0000814453
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-12-31
+0000814453
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2024-12-31
+0000814453
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2024-12-31
+0000814453
+us-gaap:AccumulatedTranslationAdjustmentMember
+2025-01-01
+2025-09-30
+0000814453
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2025-01-01
+2025-09-30
+0000814453
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2025-01-01
+2025-09-30
+0000814453
+us-gaap:AccumulatedTranslationAdjustmentMember
+2025-09-30
+0000814453
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2025-09-30
+0000814453
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2025-09-30
+0000814453
+srt:MinimumMember
+nwl:OrganizationalRealignmentPlanMember
+2025-09-30
+0000814453
+srt:MaximumMember
+nwl:OrganizationalRealignmentPlanMember
+2025-09-30
+0000814453
+nwl:OrganizationalRealignmentPlanMember
+2025-07-01
+2025-09-30
+0000814453
+nwl:OrganizationalRealignmentPlanMember
+2024-07-01
+2024-09-30
+0000814453
+nwl:OrganizationalRealignmentPlanMember
+2025-01-01
+2025-09-30
+0000814453
+nwl:OrganizationalRealignmentPlanMember
+2024-01-01
+2024-09-30
+0000814453
+nwl:OrganizationalRealignmentPlanMember
+2025-09-30
+0000814453
+nwl:OtherRestructuringAndRestructuringRelatedCostsMember
+2025-07-01
+2025-09-30
+0000814453
+nwl:OtherRestructuringAndRestructuringRelatedCostsMember
+2024-07-01
+2024-09-30
+0000814453
+nwl:OtherRestructuringAndRestructuringRelatedCostsMember
+2025-01-01
+2025-09-30
+0000814453
+nwl:OtherRestructuringAndRestructuringRelatedCostsMember
+2024-01-01
+2024-09-30
+0000814453
+us-gaap:OperatingSegmentsMember
+nwl:HomeAndCommercialMember
+2025-07-01
+2025-09-30
+0000814453
+us-gaap:OperatingSegmentsMember
+nwl:HomeAndCommercialMember
+2024-07-01
+2024-09-30
+0000814453
+us-gaap:OperatingSegmentsMember
+nwl:HomeAndCommercialMember
+2025-01-01
+2025-09-30
+0000814453
+us-gaap:OperatingSegmentsMember
+nwl:HomeAndCommercialMember
+2024-01-01
+2024-09-30
+0000814453
+us-gaap:OperatingSegmentsMember
+nwl:LearningAndDevelopmentMember
+2025-07-01
+2025-09-30
+0000814453
+us-gaap:OperatingSegmentsMember
+nwl:LearningAndDevelopmentMember
+2024-07-01
+2024-09-30
+0000814453
+us-gaap:OperatingSegmentsMember
+nwl:LearningAndDevelopmentMember
+2025-01-01
+2025-09-30
+0000814453
+us-gaap:OperatingSegmentsMember
+nwl:LearningAndDevelopmentMember
+2024-01-01
+2024-09-30
+0000814453
+us-gaap:OperatingSegmentsMember
+nwl:OutdoorAndRecreationMember
+2025-07-01
+2025-09-30
+0000814453
+us-gaap:OperatingSegmentsMember
+nwl:OutdoorAndRecreationMember
+2024-07-01
+2024-09-30
+0000814453
+us-gaap:OperatingSegmentsMember
+nwl:OutdoorAndRecreationMember
+2025-01-01
+2025-09-30
+0000814453
+us-gaap:OperatingSegmentsMember
+nwl:OutdoorAndRecreationMember
+2024-01-01
+2024-09-30
+0000814453
+us-gaap:CorporateNonSegmentMember
+2025-07-01
+2025-09-30
+0000814453
+us-gaap:CorporateNonSegmentMember
+2024-07-01
+2024-09-30
+0000814453
+us-gaap:CorporateNonSegmentMember
+2025-01-01
+2025-09-30
+0000814453
+us-gaap:CorporateNonSegmentMember
+2024-01-01
+2024-09-30
+0000814453
+us-gaap:LandMember
+2025-09-30
+0000814453
+us-gaap:LandMember
+2024-12-31
+0000814453
+us-gaap:BuildingAndBuildingImprovementsMember
+2025-09-30
+0000814453
+us-gaap:BuildingAndBuildingImprovementsMember
+2024-12-31
+0000814453
+us-gaap:MachineryAndEquipmentMember
+2025-09-30
+0000814453
+us-gaap:MachineryAndEquipmentMember
+2024-12-31
+0000814453
+nwl:HomeAndCommercialMember
+2024-12-31
+0000814453
+nwl:HomeAndCommercialMember
+2025-01-01
+2025-09-30
+0000814453
+nwl:HomeAndCommercialMember
+2025-09-30
+0000814453
+nwl:LearningAndDevelopmentMember
+2024-12-31
+0000814453
+nwl:LearningAndDevelopmentMember
+2025-01-01
+2025-09-30
+0000814453
+nwl:LearningAndDevelopmentMember
+2025-09-30
+0000814453
+nwl:OutdoorAndRecreationMember
+2024-12-31
+0000814453
+nwl:OutdoorAndRecreationMember
+2025-01-01
+2025-09-30
+0000814453
+nwl:OutdoorAndRecreationMember
+2025-09-30
+0000814453
+us-gaap:TradeNamesMember
+2025-09-30
+0000814453
+us-gaap:TradeNamesMember
+2024-12-31
+0000814453
+us-gaap:TradeNamesMember
+2025-09-30
+0000814453
+us-gaap:TradeNamesMember
+2024-12-31
+0000814453
+us-gaap:ComputerSoftwareIntangibleAssetMember
+2025-09-30
+0000814453
+us-gaap:ComputerSoftwareIntangibleAssetMember
+2024-12-31
+0000814453
+us-gaap:CustomerRelatedIntangibleAssetsMember
+2025-09-30
+0000814453
+us-gaap:CustomerRelatedIntangibleAssetsMember
+2024-12-31
+0000814453
+us-gaap:TradeNamesMember
+nwl:HomeAndCommercialMember
+2024-07-01
+2024-09-30
+0000814453
+us-gaap:TradeNamesMember
+nwl:LearningAndDevelopmentMember
+2024-07-01
+2024-09-30
+0000814453
+nwl:SeniorNotes3.90Due2025Member
+2025-09-30
+0000814453
+nwl:SeniorNotes3.90Due2025Member
+2024-12-31
+0000814453
+nwl:SeniorNotes4.20Due2026Member
+2024-12-31
+0000814453
+nwl:SeniorNotes4.20Due2026Member
+2025-09-30
+0000814453
+nwl:SeniorNotes6.375Due2027Member
+2025-09-30
+0000814453
+nwl:SeniorNotes6.375Due2027Member
+2024-12-31
+0000814453
+nwl:SeniorNotes8.500Due2028Member
+2025-09-30
+0000814453
+nwl:SeniorNotes8.500Due2028Member
+2024-12-31
+0000814453
+nwl:SeniorNotes6.625Due2029Member
+2025-09-30
+0000814453
+nwl:SeniorNotes6.625Due2029Member
+2024-12-31
+0000814453
+nwl:SeniorNotes6.375Due2030Member
+2025-09-30
+0000814453
+nwl:SeniorNotes6.375Due2030Member
+2024-12-31
+0000814453
+nwl:SeniorNotes6.625Due2032Member
+2025-09-30
+0000814453
+nwl:SeniorNotes6.625Due2032Member
+2024-12-31
+0000814453
+nwl:SeniorNotes5.375Due2036Member
+2025-09-30
+0000814453
+nwl:SeniorNotes5.375Due2036Member
+2024-12-31
+0000814453
+nwl:SeniorNotes5.50Due2046Member
+2025-09-30
+0000814453
+nwl:SeniorNotes5.50Due2046Member
+2024-12-31
+0000814453
+us-gaap:RevolvingCreditFacilityMember
+2025-09-30
+0000814453
+us-gaap:RevolvingCreditFacilityMember
+2024-12-31
+0000814453
+nwl:SeniorNotes8.500Due2028Member
+2025-05-31
+0000814453
+nwl:SeniorNotes8.500Due2028Member
+2025-05-01
+2025-05-31
+0000814453
+nwl:SeniorNotes4.20Due2026Member
+2025-06-01
+2025-06-30
+0000814453
+us-gaap:RevolvingCreditFacilityMember
+2025-09-30
+0000814453
+us-gaap:LetterOfCreditMember
+2025-09-30
+0000814453
+us-gaap:SeniorNotesMember
+2025-04-14
+0000814453
+srt:MoodysB1RatingMember
+srt:ScenarioForecastMember
+us-gaap:SeniorNotesMember
+2025-10-01
+2025-12-31
+0000814453
+srt:StandardPoorsBPlusRatingMember
+srt:ScenarioForecastMember
+us-gaap:SeniorNotesMember
+2025-10-01
+2025-12-31
+0000814453
+srt:ScenarioForecastMember
+us-gaap:SeniorNotesMember
+2025-10-01
+2025-12-31
+0000814453
+us-gaap:SeniorNotesMember
+2025-06-30
+0000814453
+us-gaap:SeniorNotesMember
+2025-07-01
+2025-09-30
+0000814453
+srt:ScenarioForecastMember
+us-gaap:SeniorNotesMember
+2025-01-01
+2025-12-31
+0000814453
+srt:WeightedAverageMember
+2025-07-01
+2025-09-30
+0000814453
+srt:WeightedAverageMember
+2024-07-01
+2024-09-30
+0000814453
+srt:WeightedAverageMember
+2025-01-01
+2025-09-30
+0000814453
+srt:WeightedAverageMember
+2024-01-01
+2024-09-30
+0000814453
+us-gaap:ShortTermDebtMember
+srt:WeightedAverageMember
+2025-07-01
+2025-09-30
+0000814453
+us-gaap:ShortTermDebtMember
+srt:WeightedAverageMember
+2024-07-01
+2024-09-30
+0000814453
+us-gaap:ShortTermDebtMember
+srt:WeightedAverageMember
+2025-01-01
+2025-09-30
+0000814453
+us-gaap:ShortTermDebtMember
+srt:WeightedAverageMember
+2024-01-01
+2024-09-30
+0000814453
+us-gaap:SeniorNotesMember
+2025-09-30
+0000814453
+us-gaap:SeniorNotesMember
+2024-12-31
+0000814453
+us-gaap:InterestRateSwapMember
+2025-09-30
+0000814453
+nwl:CrossCurrencyInterestRateSwapMember
+2025-09-30
+0000814453
+nwl:CrossCurrencyInterestRateSwapMember
+2025-07-01
+2025-09-30
+0000814453
+nwl:CrossCurrencyInterestRateSwapMember
+2024-07-01
+2024-09-30
+0000814453
+nwl:CrossCurrencyInterestRateSwapMember
+2025-01-01
+2025-09-30
+0000814453
+nwl:CrossCurrencyInterestRateSwapMember
+2024-01-01
+2024-09-30
+0000814453
+us-gaap:ForeignExchangeContractMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-09-30
+0000814453
+us-gaap:ForeignExchangeContractMember
+us-gaap:NondesignatedMember
+2025-09-30
+0000814453
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-09-30
+0000814453
+us-gaap:AccruedLiabilitiesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-09-30
+0000814453
+us-gaap:OtherNoncurrentLiabilitiesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-09-30
+0000814453
+nwl:CrossCurrencyInterestRateSwapMember
+us-gaap:OtherNoncurrentLiabilitiesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-09-30
+0000814453
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-12-31
+0000814453
+us-gaap:OtherAssetsMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-12-31
+0000814453
+us-gaap:AccruedLiabilitiesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-12-31
+0000814453
+us-gaap:OtherNoncurrentLiabilitiesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-12-31
+0000814453
+nwl:CrossCurrencyInterestRateSwapMember
+us-gaap:OtherNoncurrentLiabilitiesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-12-31
+0000814453
+2025-06-01
+2025-06-30
+0000814453
+2025-04-01
+2025-04-30
+0000814453
+2025-03-01
+2025-03-31
+0000814453
+nwl:TransferPricingAdditionalTaxesMember
+2024-07-19
+2024-07-19
+0000814453
+nwl:TransferPricingPenaltiesAndAdditionalInterestMember
+2024-07-19
+2024-07-19
+0000814453
+nwl:PerformanceBasedRestrictedStockUnitsRSUMember
+2025-01-01
+2025-09-30
+0000814453
+nwl:PerformanceBasedRestrictedStockUnitsRSUMember
+2024-01-01
+2024-09-30
+0000814453
+nwl:PerformanceBasedRestrictedStockUnitsRSUMember
+2025-01-01
+2025-09-30
+0000814453
+nwl:TimeBasedRestrictedStockUnitMember
+2025-01-01
+2025-09-30
+0000814453
+us-gaap:OperatingSegmentsMember
+2025-07-01
+2025-09-30
+0000814453
+us-gaap:OperatingSegmentsMember
+2024-07-01
+2024-09-30
+0000814453
+us-gaap:OperatingSegmentsMember
+2025-01-01
+2025-09-30
+0000814453
+us-gaap:OperatingSegmentsMember
+2024-01-01
+2024-09-30
+0000814453
+us-gaap:OperatingSegmentsMember
+nwl:HomeAndCommercialMember
+2025-09-30
+0000814453
+us-gaap:OperatingSegmentsMember
+nwl:HomeAndCommercialMember
+2024-12-31
+0000814453
+us-gaap:OperatingSegmentsMember
+nwl:LearningAndDevelopmentMember
+2025-09-30
+0000814453
+us-gaap:OperatingSegmentsMember
+nwl:LearningAndDevelopmentMember
+2024-12-31
+0000814453
+us-gaap:OperatingSegmentsMember
+nwl:OutdoorAndRecreationMember
+2025-09-30
+0000814453
+us-gaap:OperatingSegmentsMember
+nwl:OutdoorAndRecreationMember
+2024-12-31
+0000814453
+us-gaap:CorporateNonSegmentMember
+2025-09-30
+0000814453
+us-gaap:CorporateNonSegmentMember
+2024-12-31
+0000814453
+nwl:CommercialMember
+nwl:HomeAndCommercialMember
+2025-07-01
+2025-09-30
+0000814453
+nwl:CommercialMember
+nwl:HomeAndCommercialMember
+2024-07-01
+2024-09-30
+0000814453
+nwl:CommercialMember
+nwl:HomeAndCommercialMember
+2025-01-01
+2025-09-30
+0000814453
+nwl:CommercialMember
+nwl:HomeAndCommercialMember
+2024-01-01
+2024-09-30
+0000814453
+nwl:KitchenMember
+nwl:HomeAndCommercialMember
+2025-07-01
+2025-09-30
+0000814453
+nwl:KitchenMember
+nwl:HomeAndCommercialMember
+2024-07-01
+2024-09-30
+0000814453
+nwl:KitchenMember
+nwl:HomeAndCommercialMember
+2025-01-01
+2025-09-30
+0000814453
+nwl:KitchenMember
+nwl:HomeAndCommercialMember
+2024-01-01
+2024-09-30
+0000814453
+nwl:HomeFragranceMember
+nwl:HomeAndCommercialMember
+2025-07-01
+2025-09-30
+0000814453
+nwl:HomeFragranceMember
+nwl:HomeAndCommercialMember
+2024-07-01
+2024-09-30
+0000814453
+nwl:HomeFragranceMember
+nwl:HomeAndCommercialMember
+2025-01-01
+2025-09-30
+0000814453
+nwl:HomeFragranceMember
+nwl:HomeAndCommercialMember
+2024-01-01
+2024-09-30
+0000814453
+nwl:HomeAndCommercialMember
+2025-07-01
+2025-09-30
+0000814453
+nwl:HomeAndCommercialMember
+2024-07-01
+2024-09-30
+0000814453
+nwl:HomeAndCommercialMember
+2024-01-01
+2024-09-30
+0000814453
+nwl:BabyMember
+nwl:LearningAndDevelopmentMember
+2025-07-01
+2025-09-30
+0000814453
+nwl:BabyMember
+nwl:LearningAndDevelopmentMember
+2024-07-01
+2024-09-30
+0000814453
+nwl:BabyMember
+nwl:LearningAndDevelopmentMember
+2025-01-01
+2025-09-30
+0000814453
+nwl:BabyMember
+nwl:LearningAndDevelopmentMember
+2024-01-01
+2024-09-30
+0000814453
+nwl:WritingMember
+nwl:LearningAndDevelopmentMember
+2025-07-01
+2025-09-30
+0000814453
+nwl:WritingMember
+nwl:LearningAndDevelopmentMember
+2024-07-01
+2024-09-30
+0000814453
+nwl:WritingMember
+nwl:LearningAndDevelopmentMember
+2025-01-01
+2025-09-30
+0000814453
+nwl:WritingMember
+nwl:LearningAndDevelopmentMember
+2024-01-01
+2024-09-30
+0000814453
+nwl:LearningAndDevelopmentMember
+2025-07-01
+2025-09-30
+0000814453
+nwl:LearningAndDevelopmentMember
+2024-07-01
+2024-09-30
+0000814453
+nwl:LearningAndDevelopmentMember
+2024-01-01
+2024-09-30
+0000814453
+nwl:OutdoorAndRecreationMember
+2025-07-01
+2025-09-30
+0000814453
+nwl:OutdoorAndRecreationMember
+2024-07-01
+2024-09-30
+0000814453
+nwl:OutdoorAndRecreationMember
+2024-01-01
+2024-09-30
+0000814453
+srt:NorthAmericaMember
+nwl:HomeAndCommercialMember
+2025-07-01
+2025-09-30
+0000814453
+nwl:ForeignCountriesMember
+nwl:HomeAndCommercialMember
+2025-07-01
+2025-09-30
+0000814453
+srt:NorthAmericaMember
+nwl:HomeAndCommercialMember
+2024-07-01
+2024-09-30
+0000814453
+nwl:ForeignCountriesMember
+nwl:HomeAndCommercialMember
+2024-07-01
+2024-09-30
+0000814453
+srt:NorthAmericaMember
+nwl:LearningAndDevelopmentMember
+2025-07-01
+2025-09-30
+0000814453
+nwl:ForeignCountriesMember
+nwl:LearningAndDevelopmentMember
+2025-07-01
+2025-09-30
+0000814453
+srt:NorthAmericaMember
+nwl:LearningAndDevelopmentMember
+2024-07-01
+2024-09-30
+0000814453
+nwl:ForeignCountriesMember
+nwl:LearningAndDevelopmentMember
+2024-07-01
+2024-09-30
+0000814453
+srt:NorthAmericaMember
+nwl:OutdoorAndRecreationMember
+2025-07-01
+2025-09-30
+0000814453
+nwl:ForeignCountriesMember
+nwl:OutdoorAndRecreationMember
+2025-07-01
+2025-09-30
+0000814453
+srt:NorthAmericaMember
+nwl:OutdoorAndRecreationMember
+2024-07-01
+2024-09-30
+0000814453
+nwl:ForeignCountriesMember
+nwl:OutdoorAndRecreationMember
+2024-07-01
+2024-09-30
+0000814453
+srt:NorthAmericaMember
+2025-07-01
+2025-09-30
+0000814453
+nwl:ForeignCountriesMember
+2025-07-01
+2025-09-30
+0000814453
+srt:NorthAmericaMember
+2024-07-01
+2024-09-30
+0000814453
+nwl:ForeignCountriesMember
+2024-07-01
+2024-09-30
+0000814453
+srt:NorthAmericaMember
+nwl:HomeAndCommercialMember
+2025-01-01
+2025-09-30
+0000814453
+nwl:ForeignCountriesMember
+nwl:HomeAndCommercialMember
+2025-01-01
+2025-09-30
+0000814453
+srt:NorthAmericaMember
+nwl:HomeAndCommercialMember
+2024-01-01
+2024-09-30
+0000814453
+nwl:ForeignCountriesMember
+nwl:HomeAndCommercialMember
+2024-01-01
+2024-09-30
+0000814453
+srt:NorthAmericaMember
+nwl:LearningAndDevelopmentMember
+2025-01-01
+2025-09-30
+0000814453
+nwl:ForeignCountriesMember
+nwl:LearningAndDevelopmentMember
+2025-01-01
+2025-09-30
+0000814453
+srt:NorthAmericaMember
+nwl:LearningAndDevelopmentMember
+2024-01-01
+2024-09-30
+0000814453
+nwl:ForeignCountriesMember
+nwl:LearningAndDevelopmentMember
+2024-01-01
+2024-09-30
+0000814453
+srt:NorthAmericaMember
+nwl:OutdoorAndRecreationMember
+2025-01-01
+2025-09-30
+0000814453
+nwl:ForeignCountriesMember
+nwl:OutdoorAndRecreationMember
+2025-01-01
+2025-09-30
+0000814453
+srt:NorthAmericaMember
+nwl:OutdoorAndRecreationMember
+2024-01-01
+2024-09-30
+0000814453
+nwl:ForeignCountriesMember
+nwl:OutdoorAndRecreationMember
+2024-01-01
+2024-09-30
+0000814453
+srt:NorthAmericaMember
+2025-01-01
+2025-09-30
+0000814453
+nwl:ForeignCountriesMember
+2025-01-01
+2025-09-30
+0000814453
+srt:NorthAmericaMember
+2024-01-01
+2024-09-30
+0000814453
+nwl:ForeignCountriesMember
+2024-01-01
+2024-09-30
+0000814453
+nwl:LowerPassaicRiverMatterSelectedRemedyForThePreferredAlternativeMember
+2025-01-01
+2025-09-30
+0000814453
+nwl:LowerPassaicRiverMatterMember
+2017-09-01
+2017-09-30
+0000814453
+2018-06-30
+0000814453
+2018-06-01
+2018-06-30
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 
+10-Q
+
+☒
+
+Quarterly Report Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+For the Quarterly Period Ended 
+September 30, 2025
+Commission File Number 
+1-9608
+
+NEWELL BRANDS INC
+. 
+(Exact name of registrant as specified in its charter)
+Delaware
+36-3514169
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+5 Concourse Parkway NE, 8th Floor,
+
+Atlanta
+, 
+Georgia
+
+30328
+
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code: (
+770
+) 
+418-7000
+
+Securities registered pursuant to Section 12(b) of the Act:
+TITLE OF EACH CLASS
+TRADING SYMBOL
+NAME OF EXCHANGE ON WHICH REGISTERED
+Common stock, $1 par value per share
+NWL
+Nasdaq Stock Market LLC
+Securities registered pursuant to Section 12(g) of the Act:    None
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    
+Yes
+
+☒
+  No 
+☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).    
+Yes
+
+☒
+  No 
+☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act:   
+Large Accelerated Filer
+☒
+Accelerated filer
+☐
+Non-accelerated filer
+☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes 
+☐
+ No 
+☒
+Number of shares of common stock outstanding (net of treasury shares) as of October 27, 2025: 
+419.2
+ million.     
+Table of Contents
+TABLE OF CONTENTS
+PART I. FINANCIAL INFORMATION
+2
+Item 1. Financial Statements
+2
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+22
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+32
+Item 4. Controls and Procedures
+32
+PART II. OTHER INFORMATION
+33
+Item 1. Legal Proceedings
+33
+Item 1A. Risk Factors
+33
+Item 2. Unregistered Sales of Equity Securities, Use of Proceeds and Issuer Purchases of Equity Securities
+33
+Item 5. Other Information
+33
+Item 6. Exhibits
+34
+SIGNATURES
+35
+1
+Table of Contents
+PART I. FINANCIAL INFORMATION
+Item 1. Financial Statements
+NEWELL BRANDS INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE INCOME (LOSS) (Unaudited)
+(Amounts in millions, except per share amounts)
+Three Months Ended 
+September 30, 
+Nine Months Ended
+ September 30,
+2025
+2024
+2025
+2024
+Net sales
+$
+1,806
+
+$
+1,947
+
+$
+5,307
+
+$
+5,633
+
+Cost of products sold
+1,190
+
+1,268
+
+3,503
+
+3,751
+
+Gross profit
+616
+
+679
+
+1,804
+
+1,882
+
+Selling, general and administrative expenses
+492
+
+536
+
+1,471
+
+1,518
+
+Restructuring costs, net
+5
+
+4
+
+22
+
+40
+
+Impairment of goodwill, intangibles and other assets
+—
+
+260
+
+—
+
+266
+
+Operating income (loss)
+119
+
+(
+121
+)
+311
+
+58
+
+Non-operating expenses:
+Interest expense, net
+83
+
+75
+
+237
+
+223
+
+Loss on extinguishment and modification of debt
+—
+
+—
+
+13
+
+1
+
+Other (income) expense, net
+(
+6
+)
+9
+
+3
+
+15
+
+Income (loss) before income taxes
+42
+
+(
+205
+)
+58
+
+(
+181
+)
+Income tax provision (benefit)
+21
+
+(
+7
+)
+28
+
+(
+19
+)
+Net income (loss)
+$
+21
+
+$
+(
+198
+)
+$
+30
+
+$
+(
+162
+)
+Weighted average common shares outstanding:
+Basic
+419.1
+
+416.0
+
+417.9
+
+415.3
+
+Diluted
+423.5
+
+416.0
+
+422.4
+
+415.3
+
+Earnings (loss) per share:
+Basic
+$
+0.05
+
+$
+(
+0.48
+)
+$
+0.07
+
+$
+(
+0.39
+)
+Diluted
+$
+0.05
+
+$
+(
+0.48
+)
+$
+0.07
+
+$
+(
+0.39
+)
+COMPREHENSIVE INCOME (LOSS):
+Net income (loss)
+$
+21
+
+$
+(
+198
+)
+$
+30
+
+$
+(
+162
+)
+Other comprehensive income (loss), net of tax:
+Foreign currency translation adjustments
+1
+
+(
+2
+)
+(
+17
+)
+(
+61
+)
+Pension and postretirement costs
+1
+
+(
+3
+)
+2
+
+5
+
+Derivative financial instruments
+4
+
+(
+1
+)
+(
+12
+)
+13
+
+Total other comprehensive income (loss), net of tax
+6
+
+(
+6
+)
+(
+27
+)
+(
+43
+)
+Total comprehensive income (loss)
+$
+27
+
+$
+(
+204
+)
+$
+3
+
+$
+(
+205
+)
+See Notes to Condensed Consolidated Financial Statements (Unaudited).
+2
+Table of Contents
+NEWELL BRANDS INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited)
+(Amounts in millions, except par values)
+September 30,
+2025
+December 31,
+2024
+Assets:
+Cash and cash equivalents
+$
+229
+
+$
+198
+
+Accounts receivable, net
+943
+
+878
+Inventories
+1,456
+
+1,400
+Prepaid expenses and other current assets
+312
+
+299
+Total current assets
+2,940
+2,775
+Property, plant and equipment, net
+1,211
+
+1,157
+Operating lease assets
+460
+
+466
+Goodwill
+3,100
+
+3,038
+Other intangible assets, net
+1,999
+
+2,008
+Deferred income taxes
+807
+
+806
+Other assets
+770
+
+754
+Total assets
+$
+11,287
+
+$
+11,004
+
+Liabilities:
+Accounts payable
+$
+902
+
+$
+891
+
+Other accrued liabilities
+1,449
+
+1,459
+Short-term debt and current portion of long-term debt
+237
+
+87
+Total current liabilities
+2,588
+2,437
+Long-term debt
+4,540
+
+4,508
+Deferred income taxes
+102
+
+178
+Operating lease liabilities
+436
+
+418
+Other noncurrent liabilities
+924
+
+712
+Total liabilities
+8,590
+8,253
+Commitments and contingencies (
+Footnote 14
+)
+Stockholders’ equity:
+Preferred stock (
+10.0
+ authorized shares, $
+1.00
+ par value, 
+no
+ shares issued at September 30, 2025 and December 31, 2024)
+—
+
+—
+
+Common stock (
+800.0
+ authorized shares, $
+1.00
+ par value, 
+447.0
+ shares and 
+442.3
+ shares issued at September 30, 2025 and December 31, 2024, respectively)
+447
+
+442
+
+Treasury stock, at cost (
+27.8
+ shares and 
+26.2
+ shares at September 30, 2025 and December 31, 2024, respectively)
+(
+644
+)
+(
+634
+)
+Additional paid-in capital
+6,814
+
+6,866
+
+Retained deficit
+(
+2,912
+)
+(
+2,942
+)
+Accumulated other comprehensive loss
+(
+1,008
+)
+(
+981
+)
+Total stockholders’ equity
+2,697
+
+2,751
+
+Total liabilities and stockholders’ equity
+$
+11,287
+
+$
+11,004
+
+See Notes to Condensed Consolidated Financial Statements (Unaudited).
+3
+Table of Contents
+NEWELL BRANDS INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (Unaudited)
+(Amounts in millions)
+Nine Months Ended
+ September 30,
+2025
+2024
+Cash flows from operating activities:
+Net income (loss)
+$
+30
+
+$
+(
+162
+)
+Adjustments to reconcile net income (loss) to net cash provided by operating activities:
+Depreciation and amortization
+231
+
+245
+
+Impairment of goodwill, intangibles and other assets
+—
+
+266
+
+(Gain) loss from sale of businesses and investments
+(
+12
+)
+2
+
+Deferred income taxes
+16
+
+(
+9
+)
+Stock based compensation expense
+46
+
+49
+
+Loss on extinguishment and modification of debt
+13
+
+1
+
+Other, net
+(
+14
+)
+(
+10
+)
+Changes in operating accounts:
+Accounts receivable
+(
+13
+)
+238
+
+Inventories
+(
+2
+)
+(
+138
+)
+Accounts payable
+(
+14
+)
+41
+
+Accrued liabilities and other, net
+(
+178
+)
+(
+177
+)
+Net cash provided by operating activities
+103
+
+346
+
+Cash flows from investing activities:
+Capital expenditures
+(
+177
+)
+(
+163
+)
+Proceeds from sale of divested businesses and investments
+22
+
+14
+
+Proceeds from settlement of swaps
+25
+
+25
+
+Other investing activities, net
+15
+
+17
+
+Net cash used in investing activities
+(
+115
+)
+(
+107
+)
+Cash flows from financing activities:
+Proceeds from short-term debt, net
+150
+
+39
+
+Proceeds from short-term debt with original maturities greater than 90 days
+—
+
+431
+
+Payments on short-term debt with original maturities greater than 90 days
+—
+
+(
+431
+)
+Payments on current portion of long-term debt
+(
+1,235
+)
+—
+
+Net proceeds from issuance of long-term debt
+1,235
+
+—
+
+Debt extinguishment and modification costs
+(
+9
+)
+(
+6
+)
+Cash dividends
+(
+90
+)
+(
+89
+)
+Equity compensation activity and other, net
+8
+
+(
+8
+)
+Net cash provided by (used in) financing activities
+59
+
+(
+64
+)
+Exchange rate effect on cash, cash equivalents and restricted cash
+3
+
+(
+15
+)
+Increase in cash, cash equivalents and restricted cash
+50
+
+160
+
+Cash, cash equivalents and restricted cash at beginning of period
+219
+
+361
+
+Cash, cash equivalents and restricted cash at end of period
+$
+269
+
+$
+521
+
+Supplemental disclosures:
+Restricted cash at beginning of period 
+(Footnote 1)
+$
+21
+
+$
+29
+
+Restricted cash at end of period 
+(Footnote 1)
+40
+
+27
+
+See Notes to Condensed Consolidated Financial Statements (Unaudited).
+4
+Table of Contents
+NEWELL BRANDS INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENT OF STOCKHOLDERS’ EQUITY (Unaudited)
+(Amounts in millions, except per share amounts)
+Common
+Stock
+Treasury
+Stock
+Additional Paid-In Capital
+Retained Earnings (Deficit)
+Accumulated Other Comprehensive Income (Loss)
+Total Stockholders’ Equity
+Balance at June 30, 2025
+$
+445
+
+$
+(
+640
+)
+$
+6,834
+
+$
+(
+2,933
+)
+$
+(
+1,014
+)
+$
+2,692
+
+Comprehensive income
+— 
+— 
+— 
+21
+
+6
+
+27
+
+Dividends declared on common stock - $
+0.07
+ per share
+— 
+— 
+(
+31
+)
+— 
+— 
+(
+31
+)
+Equity compensation, net of tax
+2
+
+(
+4
+)
+11
+
+— 
+— 
+9
+
+Balance at September 30, 2025
+$
+447
+
+$
+(
+644
+)
+$
+6,814
+
+$
+(
+2,912
+)
+$
+(
+1,008
+)
+$
+2,697
+
+Balance at December 31, 2024
+$
+442
+
+$
+(
+634
+)
+$
+6,866
+
+$
+(
+2,942
+)
+$
+(
+981
+)
+$
+2,751
+
+Comprehensive income (loss)
+— 
+— 
+— 
+30
+
+(
+27
+)
+3
+
+Dividends declared on common stock - $
+0.21
+ per share
+— 
+— 
+(
+93
+)
+— 
+— 
+(
+93
+)
+Equity compensation, net of tax
+5
+
+(
+10
+)
+41
+
+— 
+— 
+36
+
+Balance at September 30, 2025
+$
+447
+
+$
+(
+644
+)
+$
+6,814
+
+$
+(
+2,912
+)
+$
+(
+1,008
+)
+$
+2,697
+
+Common
+Stock
+Treasury
+Stock
+Additional Paid-In Capital
+Retained Deficit
+Accumulated Other Comprehensive Loss
+Total Stockholders’ Equity
+Balance at June 30, 2024
+$
+441
+
+$
+(
+631
+)
+$
+6,887
+
+$
+(
+2,690
+)
+$
+(
+927
+)
+$
+3,080
+
+Comprehensive loss
+— 
+— 
+— 
+(
+198
+)
+(
+6
+)
+(
+204
+)
+Dividends declared on common stock - $
+0.07
+ per share
+— 
+— 
+(
+31
+)
+— 
+— 
+(
+31
+)
+Equity compensation, net of tax
+1
+
+(
+2
+)
+16
+
+— 
+— 
+15
+
+Balance at September 30, 2024
+$
+442
+
+$
+(
+633
+)
+$
+6,872
+
+$
+(
+2,888
+)
+$
+(
+933
+)
+$
+2,860
+
+Balance at December 31, 2023
+$
+440
+
+$
+(
+627
+)
+$
+6,915
+
+$
+(
+2,726
+)
+$
+(
+890
+)
+$
+3,112
+
+Comprehensive loss
+— 
+— 
+— 
+(
+162
+)
+(
+43
+)
+(
+205
+)
+Dividends declared on common stock - $
+0.21
+ per share
+— 
+— 
+(
+90
+)
+— 
+— 
+(
+90
+)
+Equity compensation, net of tax
+2
+
+(
+6
+)
+47
+
+— 
+— 
+43
+
+Balance at September 30, 2024
+$
+442
+
+$
+(
+633
+)
+$
+6,872
+
+$
+(
+2,888
+)
+$
+(
+933
+)
+$
+2,860
+
+See Notes to Condensed Consolidated Financial Statements (Unaudited).
+5
+Table of Contents
+NEWELL BRANDS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited)
+Footnote 1 — 
+Basis of Presentation and Significant Accounting Policies
+Description of Business
+Newell Brands Inc. is a leading global consumer goods company with a strong portfolio of well-known brands, including Rubbermaid, Sharpie, Graco, Coleman, Rubbermaid Commercial Products, Yankee Candle, Paper Mate, FoodSaver, Dymo, EXPO, Elmer’s, Oster, NUK, Spontex and Campingaz. Newell Brands is focused on delighting consumers by lighting up everyday moments. The Company sells its products in over 
+150
+ countries around the world and has operations on the ground in over 
+40
+ of these countries, excluding third-party distributors. The Company has 
+three
+ operating segments: Home and Commercial Solutions (“H&CS”), 
+Learning and Development (“L&D”) and Outdoor and Recreation (“O&R”).
+Basis of Presentation
+The accompanying unaudited condensed consolidated financial statements of Newell Brands Inc. (collectively with its subsidiaries, the “Company”) have been prepared pursuant to the rules and regulations of the United States (“U.S.”) Securities and Exchange Commission (the “SEC”) and do not include all of the information and footnotes required by U.S. generally accepted accounting principles (“U.S. GAAP”) for complete financial statements. In the opinion of management, the unaudited condensed consolidated financial statements include all adjustments (including normal recurring accruals) considered necessary for a fair statement of the financial position and the results of operations of the Company. These unaudited condensed consolidated financial statements should be read in conjunction with the financial statements, and the footnotes thereto, included in the Company’s most recent Annual Report on Form 10-K. The Condensed Consolidated Balance Sheet at December 31, 2024 has been derived from the audited financial statements as of that date, but it does not include all the information and footnotes required by U.S. GAAP for a complete financial statement. Certain prior year amounts have been reclassified to conform to the current year presentation.
+Use of Estimates and Risks
+Management’s application of U.S. GAAP in preparing the Company’s condensed consolidated financial statements requires the pervasive use of estimates and assumptions. The Company continues to be impacted by inflationary pressures, soft global demand, major retailers’ focus on tight control over their inventory levels, fluctuating interest rates and indirect macroeconomic impacts from geopolitical conflicts as well as new tariffs imposed by the current U.S. presidential administration and other countries’ retaliatory actions in response to such tariffs. The Company continues to deploy a mitigation strategy designed to offset the impact of this tariff exposure through a number of actions, including pricing, productivity and in some cases relocation of manufacturing. These collective macroeconomic trends, the duration or severity of which are highly uncertain, are still changing the retail and consumer landscape and continue to negatively impact the Company’s operating results, cash flows and financial condition and are to some degree expected to persist into the remainder of the year. As consumers continue to face widespread increases in prices and fluctuating interest rates, their discretionary spending and purchase patterns may continue to be unfavorably impacted. The high level of uncertainty of these factors has resulted in estimates and assumptions that have the potential for more variability and are more subjective. In addition, some of the other inherent estimates and assumptions used in the Company’s forecasted results of operations and cash flows that form the basis of the determination of the fair value of the reporting units for goodwill and indefinite-lived intangible asset impairment testing are outside the control of management, including interest rates, cost of capital, tax rates, tariffs, industry growth, credit ratings, foreign exchange rates and labor inflation. The next goodwill and indefinite-lived tradenames annual test and review for impairment is during the fourth quarter (on December 1). Although management has made its best estimates and assumptions based upon current information, actual results could materially differ given the uncertainty of these factors and may require future changes to such estimates and assumptions, including reserves, which may result in future expense or impairment charges. In addition, the Company has experienced a significant decline in its market capitalization as a result of a decrease in its stock price, resulting in the Company’s market capitalization being less than its consolidated stockholders’ equity. If there are further declines in the Company’s stock price, macroeconomic conditions, or industry and market conditions that may impact the current and forecasted financial performance of each reporting unit, the Company may need to record a non-cash impairment charge, which could be material, in a future period.
+
+Seasonal Variations
+Sales of the Company’s products tend to be seasonal, with sales, operating income and operating cash flow in the first quarter generally lower than any other quarter during the year, driven principally by reduced volume and the mix of products sold in the 
+6
+Table of Contents
+first quarter. The seasonality of the Company’s sales volume combined with the accounting for fixed costs, such as depreciation, amortization, rent, personnel costs and interest expense, impacts the Company’s results on a quarterly basis. Also, the Company typically tends to generate the majority of its operating cash flow in the third and fourth quarters of the year due to seasonal variations in operating results, the timing of annual performance-based compensation payments, customer program payments, working capital requirements and credit terms provided to customers. In addition, uncertainty still remains over the volatility and direction of future consumer and customer demand patterns, as well as inflationary pressures inclusive of the impact of tariffs. Accordingly, the Company’s results of operations and cash flows for the three and nine months ended September 30, 2025 may not necessarily be indicative of the results that may be expected for the year ending December 31, 2025.
+
+Recent Accounting Pronouncements
+Changes to U.S. GAAP are established by the Financial Accounting Standards Board (“FASB”) in the form of accounting standards updates (“ASUs”) to the FASB’s Accounting Standards Codification (“ASC”). The Company considers the applicability and impact of recently issued and proposed ASUs.
+In September 2025, the FASB issued ASU No. 2025-06, “
+Intangibles—Goodwill and Other—Internal-Use Software
+.” This ASU establishes targeted enhancements to 
+Subtopic 350-40
+ improving the operability of the recognition guidance considering different methods of software development. The update is effective for annual reporting periods beginning after December 15, 2027. Early adoption is permitted. Management is currently evaluating the effects this guidance will have on its consolidated financial statements.
+In September 2025, the FASB issued ASU No. 2025-07, 
+“Derivatives and Hedging (Topic 815) and Revenue from Contracts with Customers (Topic 606).”
+ The amendments in the ASU exclude from derivative accounting non-exchange-traded contracts with underlying components that are based on operations or activities specific to one of the parties to the contract. This update is effective for annual reporting periods beginning after December 15, 2026. Early adoption is permitted. Management is currently evaluating the effects this guidance will have on its consolidated financial statements.
+In November 2024, the FASB issued ASU No. 2024-03, “
+Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures
+.” This ASU requires that each interim and annual reporting period, an entity disclose more information about the components of certain expense captions that are currently disclosed in the financial statements. This update is effective for annual reporting periods beginning after December 15, 2026. Early adoption is permitted. Management is currently evaluating the effects this guidance will have on its consolidated financial statements.
+In December 2023, the FASB issued ASU 2023-09, 
+“Income Taxes (Topic 740): Improvements to Income Tax Disclosures.”
+ The standard requires all entities subject to income taxes to disclose disaggregated information about a reporting entity’s effective tax rate reconciliation as well as information on income taxes paid. The new requirement is effective for annual periods beginning after December 15, 2024. The guidance may be applied on a prospective or retrospective basis. Early adoption is permitted. The Company expects to apply the prospective method and has not elected to early adopt the standard. The Company does not expect the adoption of ASU 2023-09 to have a material impact on the consolidated financial statements.
+Sales of Accounts Receivable
+The Company maintains a factoring agreement with a financial institution to sell certain customer receivables (the “Customer Receivables Purchase Agreement”) up to $
+700
+ million, of eligible accounts receivable. During the nine months ended September 30, 2025 and 2024, the Company factored receivables pursuant to the Customer Receivables Purchase Agreement. 
+The following table sets forth proceeds received and amount collected from customers and remitted to the financial institution (in millions):
+Three Months Ended 
+September 30, 
+Nine Months Ended
+ September 30,
+2025
+2024
+2025
+2024
+Proceeds received
+$
+798
+
+$
+826
+
+$
+2,138
+
+$
+2,273
+
+Collected from customers and remitted to financial institution
+870
+
+887
+
+2,030
+
+2,217
+
+Outstanding receivables sold under the Customer Receivables Purchase Agreement at September 30, 2025 and December 31, 2024 were approximately $
+350
+ million and $
+270
+ million, respectively.
+In addition, the Company, through a wholly-owned special purpose entity (“SPE”), has a 
+three-year
+ factoring agreement with a financial institution to sell certain customer receivables up to $
+225
+ million, between February and April of each year, and up to 
+7
+Table of Contents
+$
+275
+ million at all other times, of eligible accounts receivable without recourse on a revolving basis (the “Receivables Facility”). Under the Receivables Facility, certain of the Company’s subsidiaries continuously sell their accounts receivables, originated in the U.S., to the SPE, which then sells the receivables to the financial institution. The SPE is a variable interest entity for which the Company is considered to be the primary beneficiary. The SPE’s sole business consists of the purchase of receivables from certain subsidiaries of the Company and the subsequent transfer of such receivables to the financial institution. Although the SPE is included in the Company’s condensed consolidated financial statements, it is a separate legal entity with separate creditors. The assets of the SPE are not available to pay creditors of the Company or its subsidiaries. The fair value of these servicing arrangements as well as the fees earned was immaterial. During the nine months ended September 30, 2025 and 2024, the Company factored receivables pursuant to the Receivables Facility. 
+The following table sets forth proceeds received and amount collected from customers and remitted to the financial institution (in millions): 
+Three Months Ended 
+September 30, 
+Nine Months Ended
+ September 30,
+2025
+2024
+2025
+2024
+Proceeds received
+$
+303
+
+$
+333
+
+$
+846
+
+$
+944
+
+Collected from customers and remitted to financial institution
+315
+
+340
+
+864
+
+852
+
+Outstanding receivables sold under the Receivables Facility at September 30, 2025 and December 31, 2024 were approximately $
+135
+ million and $
+145
+ million, respectively. 
+Generally, for a receivable to be eligible under either program, the Company must have fulfilled its performance obligations and be contractually entitled to payment for such, based on a valid receivable that is not past due at the time of factoring the underlying receivable. The Company accounts for receivables sold to the financial institutions under both factoring agreements as a sale of financial assets and derecognizes the trade receivables from the Company’s Condensed Consolidated Balance Sheets. The Company classifies the proceeds received from the sales of accounts receivable to the financial institutions as an operating cash flow and collections of accounts receivables not yet remitted to the financial institutions as financing cash flow in the Condensed Consolidated Statements of Cash Flows, and such collections are classified as restricted cash (included in prepaid expenses and other current assets) on the Company’s Condensed Consolidated Balance Sheets.
+ Restricted cash related to both programs was $
+40
+ million and $
+21
+ million at September 30, 2025 and December 31, 2024, respectively. The Company records the discounts as other (income) expense, net in the Condensed Consolidated Statements of Operations. 
+Supplier Finance Program Obligations
+The Company has an arrangement with a third-party vendor which provides a service for the Company’s suppliers, at their sole discretion, to sell their receivables due from the Company to various financial institutions, who at their sole discretion, contract with the third-party vendor to participate in the supplier finance program (the “SFP”).
+The Company and its suppliers agree on contractual terms for the goods and services procured, including prices, quantities and payment terms, regardless of whether the supplier elects to participate in the SFP. The suppliers sell goods or services, as applicable, to the Company and issue the associated invoices to the Company based on the agreed-upon contractual terms. Suppliers that participate in the SFP, at their sole discretion, determine which invoices, if any, they want to sell to the third-party vendor. The suppliers’ voluntary inclusion of invoices in the SFP does not change the Company’s existing contractual terms with its suppliers. The Company does not provide any guarantees or collateral under the SFP, nor does it have any economic interest in a supplier’s decision to participate in the SFP. Amounts due to suppliers participating in the SFP are included in accounts payable in the Condensed Consolidated Balance Sheets and amounts paid to suppliers participating in the SFP are classified as operating cash flows in the Condensed Consolidated Statement of Cash Flows.
+ Supplier payment terms for those participating in the SFP averaged approximately 
+122
+ days.
+The following table sets forth the outstanding payment obligations due to the third-party vendor and activities related to the suppliers who participated in the SFP (in millions):
+Balance at December 31, 2024
+$
+14
+
+Invoices participating in the SFP
+62
+
+Invoices paid to the third-party vendor
+(
+59
+)
+Balance at September 30, 2025
+$
+17
+
+8
+Table of Contents
+Sale of Equity Interest in a Joint Venture
+In August 2025, the Company sold its equity interest in a joint venture for approximately $
+22
+ million, subject to customary working capital and other post-closing adjustments, and recorded a pretax gain of approximately $
+12
+ million, which was included in other (income) expense, net in the Condensed Consolidated Statements of Operations.
+Fair Value Measurements 
+The Company’s financial instruments include cash and cash equivalents, accounts receivable, investment securities, accounts payable, derivative instruments and short and long-term debt. The carrying values for current financial assets and liabilities, including cash and cash equivalents, accounts receivable, accounts payable and short-term debt approximate fair value due to the short maturity of such instruments. For publicly traded investment securities, including mutual funds, fair value is determined on the basis of quoted market prices and, accordingly, such investments are classified as Level 1 of the fair value hierarchy. The fair value of such investments was not material at September 30, 2025 and December 31, 2024. The fair values of the Company’s long-term debt and derivative instruments are disclosed in 
+Footnote 8
+ and 
+Footnote 9
+, respectively. The Company’s nonfinancial assets, which are measured at fair value on a nonrecurring basis, include property, plant and equipment, goodwill, intangible assets and certain other assets. In addition, the Company adjusts its pension asset values to fair value on an annual basis.
+Footnote 2 — 
+Accumulated Other Comprehensive Income (Loss)
+The following table displays the changes in Accumulated Other Comprehensive Income (Loss) (“AOCL”) by component, net of tax, for the nine months ended September 30, 2025 (in millions): 
+Cumulative
+Translation
+Adjustment
+Pension and 
+Postretirement
+Costs
+Derivative
+Financial
+Instruments
+AOCL
+Balance at December 31, 2024
+$
+(
+767
+)
+$
+(
+212
+)
+$
+(
+2
+)
+$
+(
+981
+)
+Other comprehensive income (loss) before reclassifications
+ (1)
+(
+17
+)
+2
+
+(
+14
+)
+(
+29
+)
+Amounts reclassified to earnings 
+(2)
+—
+
+—
+
+2
+
+2
+
+Net current period other comprehensive income (loss)
+(
+17
+)
+2
+
+(
+12
+)
+(
+27
+)
+Balance at September 30, 2025
+$
+(
+784
+)
+$
+(
+210
+)
+$
+(
+14
+)
+$
+(
+1,008
+)
+(1)
+Includes income tax provision (benefit) allocated to AOCL as follows $(
+68
+) million, $(
+3
+) million, $(
+4
+) million and $(
+75
+) million, respectively.
+(2)
+Income tax provision (benefit) for both the three and nine months ended September 30, 2025 and 2024 were not material. Pension and postretirement costs presented are primarily classified in other (income) expense, net within the Condensed Consolidated Statements of Operations. Refer to 
+Footnote 9
+ for the statements of operations classifications of the Company’s various types of derivative financial instruments.
+Reclassifications from AOCL to the results of operations on a before and after-tax basis for the for the three and nine months ended September 30, 2025 and 2024 were not material for any of the periods presented.
+Footnote 3 — 
+Restructuring 
+To better align its resources with its strategy and operating model and to reduce the cost structure of its global operations, the Company commits to restructuring plans as necessary and as follows:
+Organizational Realignment Plan
+In January 2024, the Company announced a plan to strengthen its front-end commercial capabilities, such as consumer understanding and brand communication, in support of the “where to play” and “how to win” strategy choices the Company unveiled in June of 2023 (the “Realignment Plan”). In addition to improving accountability, the Realignment Plan was designed to unlock operational efficiencies and cost savings, reduce complexity and free up funds for reinvestment. As part of the Realignment Plan, the Company has made several operating model changes, which entailed: standing up a cross-functional brand management organization, realigning business unit finance to fully support the new global brand management model, further simplifying and standardizing regional go-to-market organizations, and centralizing domestic retail sales teams, the digital technology team, business-aligned accounting personnel, the Manufacturing Quality team, and the Human Resources functions into the appropriate center-led teams to drive standardization, efficiency and scale with a One Newell approach. The Company has also further optimized the Company’s real estate footprint and pursued other cost reduction initiatives. These actions were primarily implemented by the end of 2024. The remaining actions, subject to applicable local law and consultation requirements, are expected to be implemented by the end of fiscal year 2025. Restructuring and restructuring-related charges associated with 
+9
+Table of Contents
+these actions are estimated to be in the range of $
+75
+ million to $
+90
+ million, mainly for severance payments and other termination benefits, office space reduction and consolidation and other expenses. 
+In connection with the Realignment Plan, the Company recorded restructuring and restructuring-related costs for the periods indicated as follows (in millions):
+Three Months Ended 
+September 30, 
+Nine Months Ended
+ September 30,
+Incurred since inception
+2025
+2024
+2025
+2024
+Restructuring costs
+$
+4
+
+$
+1
+
+$
+21
+
+$
+32
+
+$
+58
+
+Restructuring-related costs
+1
+
+2
+
+5
+
+10
+
+20
+
+Total
+$
+5
+
+$
+3
+
+$
+26
+
+$
+42
+
+$
+78
+
+Other Restructuring and Restructuring-Related Costs
+The Company also incurs other restructuring and restructuring-related costs in connection with various discrete initiatives as well as previously announced but substantially completed restructuring activities. Restructuring-related costs are recorded in cost of products sold, selling, general and administrative expenses (“SG&A”) and impairment of other assets in the Condensed Consolidated Statements of Operations based on the nature of the underlying charges incurred. 
+The Company recorded restructuring costs, net and restructuring-related costs in connection with various discrete initiatives as well as previously announced but substantially completed restructuring activities for the periods indicated as follows (in millions):
+Three Months Ended 
+September 30, 
+Nine Months Ended
+ September 30,
+2025
+2024
+2025
+2024
+Restructuring costs
+$
+1
+
+$
+3
+
+$
+1
+
+$
+8
+
+Restructuring-related costs
+2
+
+16
+
+18
+
+37
+
+Total 
+$
+3
+
+$
+19
+
+$
+19
+
+$
+45
+
+Restructuring costs, net incurred by reportable business segments for all restructuring activities for the periods indicated are as follows (in millions):  
+Three Months Ended 
+September 30, 
+Nine Months Ended
+ September 30,
+2025
+2024
+2025
+2024
+Home and Commercial Solutions
+$
+—
+
+$
+(
+1
+)
+$
+2
+
+$
+9
+
+Learning and Development
+2
+
+4
+
+3
+
+12
+
+Outdoor and Recreation
+1
+
+—
+
+3
+
+3
+
+Corporate
+2
+
+1
+
+14
+
+16
+
+$
+5
+
+$
+4
+
+$
+22
+
+$
+40
+
+Accrued restructuring costs related to all restructuring activities for the nine months ended September 30, 2025 were as follows (in millions): 
+Balance at December 31, 2024
+$
+12
+
+Restructuring costs, net
+22
+
+Payments
+(
+24
+)
+Balance at September 30, 2025
+$
+10
+
+10
+Table of Contents
+Footnote 4 — 
+Inventories
+Inventories are comprised of the following (in millions): 
+September 30, 2025
+December 31, 2024
+Raw materials and supplies
+$
+176
+
+$
+183
+
+Work-in-process
+150
+
+155
+
+Finished products
+1,130
+
+1,062
+
+$
+1,456
+
+$
+1,400
+
+Footnote 5 — 
+Property, Plant and Equipment, Net
+Property, plant and equipment, net, is comprised of the following (in millions): 
+September 30, 2025
+December 31, 2024
+Land
+$
+67
+
+$
+65
+
+Buildings and improvements
+606
+
+522
+
+Machinery and equipment
+2,540
+
+2,392
+
+3,213
+
+2,979
+
+Less: Accumulated depreciation
+(
+2,002
+)
+(
+1,822
+)
+$
+1,211
+
+$
+1,157
+
+Depreciation expense was $
+47
+ million in both the three months ended September 30, 2025 and 2024 and $
+137
+ million and $
+142
+ million for the nine months ended September 30, 2025 and 2024, respectively.
+
+Footnote 6 — 
+Goodwill and Other Intangible Assets, Net
+Goodwill activity for the nine months ended September 30, 2025 is as follows (in millions):  
+September 30, 2025
+Segments
+Net Book Value at December 31, 2024
+Foreign
+Exchange
+Net Book Value
+Gross
+Carrying
+Amount
+Accumulated
+Impairment
+Charges
+Home and Commercial Solutions
+$
+747
+
+$
+—
+
+$
+747
+
+$
+4,052
+
+$
+(
+3,305
+)
+Learning and Development
+2,291
+
+62
+
+2,353
+
+3,440
+
+(
+1,087
+)
+Outdoor and Recreation
+—
+
+—
+
+—
+
+788
+
+(
+788
+)
+$
+3,038
+
+$
+62
+
+$
+3,100
+
+$
+8,280
+
+$
+(
+5,180
+)
+Other intangible assets, net, are comprised of the following (in millions):
+September 30, 2025
+December 31, 2024
+Gross
+Carrying
+Amount
+Accumulated Amortization
+
+Net Book 
+Value
+
+Gross
+Carrying
+Amount
+
+Accumulated
+Amortization
+
+Net Book
+Value
+
+Tradenames — indefinite life
+$
+894
+
+$
+— 
+$
+894
+
+$
+844
+
+$
+— 
+$
+844
+
+Tradenames — other
+538
+
+(
+175
+)
+363
+
+531
+
+(
+135
+)
+396
+
+Capitalized software
+667
+
+(
+549
+)
+118
+
+661
+
+(
+543
+)
+118
+
+Customer relationships and distributor channels
+1,039
+
+(
+415
+)
+624
+
+1,025
+
+(
+375
+)
+650
+
+$
+3,138
+
+$
+(
+1,139
+)
+$
+1,999
+
+$
+3,061
+
+$
+(
+1,053
+)
+$
+2,008
+
+11
+Table of Contents
+Amortization expense for intangible assets was $
+30
+ million and $
+34
+ million for the three months ended September 30, 2025 and 2024, respectively and $
+94
+ million and $
+103
+ million for the nine months ended September 30, 2025 and 2024, respectively.
+During the third quarter of 2024, the Company concluded that triggering events had occurred for indefinite-lived tradenames in the H&CS and L&D segments, as a result of downward revisions of forecasted cash flows primarily due to lower volume and profitability expectations. The Company performed quantitative impairment tests and determined that certain indefinite-lived tradenames in the H&CS and L&D segments were impaired. During the third quarter of 2024, the Company recorded non-cash impairment charges of $
+190
+ million and $
+70
+ million for certain indefinite-lived tradenames in the H&CS and L&D segments, respectively, as the carrying values exceeded their fair values.
+Footnote 7 — 
+Other Accrued Liabilities
+Other accrued liabilities are comprised of the following (in millions):  
+September 30, 2025
+December 31, 2024
+Customer accruals
+$
+640
+
+$
+601
+
+Accrued compensation
+161
+
+249
+
+Operating lease liabilities
+114
+
+110
+
+Other
+534
+
+499
+
+$
+1,449
+
+$
+1,459
+
+Footnote 8 — 
+Debt
+Debt is comprised of the following at the dates indicated (in millions):
+September 30, 2025
+December 31, 2024
+3.900
+% senior notes due 2025 
+(1)
+$
+47
+
+$
+47
+
+4.200
+% senior notes due 2026
+—
+
+1,233
+
+6.375
+% senior notes due 2027
+495
+
+486
+
+8.500
+% senior notes due 2028
+1,238
+
+—
+
+6.625
+% senior notes due 2029
+492
+
+477
+
+6.375
+% senior notes due 2030
+743
+741
+6.625
+% senior notes due 2032
+495
+
+494
+
+5.375
+% senior notes due 2036
+417
+
+417
+
+5.500
+% senior notes due 2046
+658
+
+658
+
+Revolving credit facility 
+(1)
+190
+
+40
+
+Other debt
+2
+
+2
+
+Total debt
+4,777
+
+4,595
+
+Short-term debt and current portion of long-term debt
+(
+237
+)
+(
+87
+)
+Long-term debt
+$
+4,540
+
+$
+4,508
+
+(1)
+Included in short-term debt and current portion of long-term debt at September 30, 2025 and December 31, 2024.
+Senior Notes
+In May 2025, in an offering exempt from the registration requirements of the Securities Act of 1933 and all state securities laws, the Company completed the offering and sale of $
+1.25
+ billion of 
+8.500
+% senior notes due 2028 (the “2028 Notes”) and received proceeds of approximately $
+1.23
+ billion, net of fees and expenses paid. The 2028 Notes were issued pursuant to an indenture, dated as of May 22, 2025, between the Company and U.S. Bank Trust Company, National Association (the “Indenture”). The Indenture provides, among other things that the 2028 Notes are the senior unsecured obligations of the Company and includes covenants that limit the ability of the Company and its subsidiaries to incur or guarantee additional debt, create or permit certain liens, redeem or repurchase certain debt, consummate certain assets sales, make certain loans and investments, consolidate, merge or sell all or substantially all of the Company and its subsidiaries assets, enter into certain transactions with affiliates and pay distributions on, or redeem or repurchase the Company’s capital stock, subject in each case to certain qualifications and 
+12
+Table of Contents
+exceptions, including the termination of certain of these covenants upon the 2028 Notes receiving investment grade credit ratings. The Company used the proceeds of the offering to fully redeem its outstanding 
+4.200
+% senior notes due 2026 (the “2026 Notes”).
+In June 2025, the Company fully redeemed its 2026 Notes at a redemption price equal to 
+100.757
+% of the outstanding aggregate principal amount of the notes, plus accrued unpaid interest to the redemption date. The total consideration was approximately $
+1.25
+ billion. As a result of the redemption, the Company recorded a loss on debt extinguishment of $
+13
+ million.
+Revolving Credit Facility
+The Company maintains a $
+1.00
+ billion senior secured revolving credit facility (the “Credit Revolver”) maturing in August 2027. Under the Credit Revolver, the Company may borrow funds on a variety of interest terms. The Credit Revolver agreement (i) requires the Company to satisfy financial covenants testing the Company’s Collateral Coverage Ratio and Total Net Leverage Ratio (each further defined in the Credit Revolver, as amended), (ii) requires the Company and certain of its domestic and foreign subsidiaries (the “Guarantors”) to guaranty Company obligations under the Credit Revolver and (iii) requires the Company and other Guarantors to grant a lien and security interest in certain assets consisting of eligible accounts receivables, eligible inventory, eligible equipment and eligible intellectual property, and all products and proceeds of the foregoing, subject to certain limitations. Other than outstanding borrowings under the Credit Revolver, availability under the Credit Revolver is subject to change in accordance with the terms of the agreement, including in response to changes in the Company’s pledged collateral value or outstanding letters of credit under the Credit Revolver. At September 30, 2025, there was $
+932
+ million of availability under the Credit Revolver, based on the value of the pledged collateral and prior to giving effect to outstanding borrowings and letters of credit.
+The Credit Revolver provides for the issuance of up to $
+150
+ million of letters of credit, so long as there is sufficient availability for borrowing under the Credit Revolver. At September 30, 2025, the Company had approximately $
+35
+ million of outstanding standby letters of credit issued against the Credit Revolver and $
+190
+ million of outstanding borrowings under the Credit Revolver resulting in a net availability of approximately $
+707
+ million.
+Other
+During the second quarter of 2025, Moody’s Corporation (“Moody’s”) and S&P Global Inc. (“S&P”) downgraded the Company’s senior unsecured debt rating to “B1” and “B+”, respectively. As a result, certain of the Company’s outstanding senior notes aggregating to approximately $
+2.31
+ billion at that time (the “Coupon-Step Notes”) were subject to an interest rate adjustment of 
+25
+ basis points for each downgrade, or 
+50
+ basis points in the aggregate, with such adjustments to take effect in the fourth quarter of this year. The redemption of the 2026 Notes in June 2025 decreased the aggregate amount of the Coupon-Step Notes to $
+1.08
+ billion. The change to the interest rate due to the downgrades will increase the Company’s interest expense by approximately $
+5
+ million on an annualized basis (approximately $
+1
+ million in 2025).
+The indentures governing the Company’s senior notes contain usual and customary nonfinancial covenants, with the 2028 Notes containing additional covenants, such as described above, and the 
+6.375
+% notes due 2027 and the 
+6.625
+% notes due 2032 likewise containing additional covenants consistent with the 2028 Notes, such as described in the Company’s most recent Annual Report on Form 10-K, filed on February 14, 2025. The Company’s borrowing arrangements other than the senior notes contain usual and customary nonfinancial covenants and certain financial covenants, including minimum collateral coverage and net leverage ratios.
+Weighted average interest rates are as follows:
+Three Months Ended 
+September 30, 
+Nine Months Ended
+ September 30,
+2025
+2024
+2025
+2024
+Total debt
+6.6
+
+%
+5.8
+
+%
+6.3
+
+%
+5.8
+
+%
+Short-term debt
+6.8
+
+%
+7.9
+
+%
+6.8
+
+%
+7.8
+
+%
+The fair value of the Company’s senior notes are based upon prices of similar instruments in the marketplace and are as follows (in millions): 
+September 30, 2025
+December 31, 2024
+Fair Value
+Book Value
+Fair Value
+Book Value
+Senior notes
+$
+4,636
+
+$
+4,585
+
+$
+4,624
+
+$
+4,553
+
+13
+Table of Contents
+The carrying amounts of all other debt approximates fair value.
+Footnote 9 —
+Derivatives
+From time to time, the Company enters into derivative transactions to hedge its exposures to interest rate, foreign currency rate and commodity price fluctuations. The Company does not enter into derivative transactions for trading purposes. The Company is not a party to any derivative agreements that require collateral to be posted prior to settlement. 
+Interest Rate Contracts 
+The Company manages its fixed and floating rate debt mix using interest rate swaps. The Company may use fixed and floating rate swaps to alter its exposure to the impact of changing interest rates on its consolidated results of operations and future cash outflows for interest. Floating rate swaps would be used, depending on market conditions, to convert the fixed rates of long-term debt into short-term variable rates. Fixed rate swaps would be used to reduce the Company’s risk of the possibility of increased interest costs. The settlement of interest rate swaps is included in interest expense, net in the Condensed Consolidated Statements of Operations.
+
+At September 30, 2025, the Company had approximately $
+1.00
+ billion notional amount of interest rate swaps due September 2027 and September 2029 that exchange a fixed rate of interest for a variable rate of interest plus a weighted average spread. These floating rate swaps are designated as fair value hedges against the principal of the 
+6.375
+% senior notes due 2027 and the 
+6.625
+% senior notes due 2029 for the remaining life of the notes. The effective portion of the fair value gains or losses on these swaps is offset by fair value adjustments in the underlying debt. 
+Cross-Currency Contracts
+The Company uses cross-currency swaps to hedge foreign currency risk on certain financing arrangements. These swaps mature on dates ranging from November 2026 to September 2029, with an aggregate notional amount of $
+2.13
+ billion. These cross-currency swaps were designated as net investment hedges of the Company’s foreign currency exposure of its net investment in certain Euro-functional currency subsidiaries with Euro-denominated net assets, and the Company pays a fixed or floating rate of Euro-based interest and receives a fixed or floating rate of U.S. dollar interest. The Company has elected the spot method for assessing the effectiveness of these contracts. During the three months ended September 30, 2025 and 2024, the Company recognized income of $
+9
+ million each period, and the Company recognized income of $
+26
+ million in each of the nine months ended September 30, 2025 and 2024, in interest expense, net, related to the portion of cross-currency swaps excluded from hedge effectiveness testing.
+Foreign Currency Contracts
+The Company uses forward foreign currency contracts to mitigate the foreign currency exchange rate exposure on the cash flows related to forecasted inventory purchases and sales with maturity dates through September 2026. The derivatives used to hedge these forecasted transactions that meet the criteria for hedge accounting are accounted for as cash flow hedges. The effective portion of the gains or losses on these derivatives is deferred as a component of AOCL until it is recognized in earnings at the same time that the hedged item affects earnings and is included in the same caption (net sales and cost of products sold) in the Company’s Condensed Consolidated Statement of Operations as the underlying hedged item. At September 30, 2025, the Company had approximately $
+228
+ million notional amount outstanding of forward foreign currency contracts that are designated as cash flow hedges of forecasted inventory purchases and sales.
+The Company also uses foreign currency contracts, primarily forward foreign currency contracts, to mitigate the foreign currency exposure of certain other foreign currency transactions. At September 30, 2025, the Company had approximately $
+1.03
+ billion notional amount outstanding of these foreign currency contracts that are not designated as effective hedges for accounting purposes and have maturity dates through September 2026. Fair market value gains or losses are included in the results of operations and are classified in other (income) expense, net in the Company’s Condensed Consolidated Statement of Operations.  
+Fair Value Measurements of Derivative Instruments
+The Company determines the fair value of its derivative instruments using standard pricing models and market-based assumptions for all significant inputs, such as yield curves and quoted spot and forward exchange rates. Accordingly, the Company’s derivative instruments are classified as Level 2 of the fair value hierarchy. At September 30, 2025 and December 31, 2024, the fair value of the Company’s derivative financial instruments designated as effective hedges were not material by type of instrument, with the exception of cross-currency swaps included in other noncurrent liabilities. At September 30, 2025, the fair 
+14
+Table of Contents
+value of the derivatives, designated as effective hedges, were recorded in prepaid expenses and other current assets, other accrued liabilities, and other noncurrent liabilities of $
+21
+ million, $
+9
+ million and $
+271
+ million (including cross-currency swaps of $
+269
+ million), respectively. At December 31, 2024, the fair value of the derivatives, designated as effective hedges, were recorded in prepaid expenses and other current assets, other assets, other accrued liabilities, and other noncurrent liabilities of $
+39
+ million, $
+38
+ million, $
+8
+ million, and $
+64
+ million (including cross-currency swaps of $
+41
+ million), respectively. The fair value of the Company’s derivative financial instruments not designated as effective hedges were not material at September 30, 2025 and December 31, 2024.
+The gain or loss activity related to the Company’s interest rate swaps and foreign currency contract derivative financial instruments, designated or previously designated as effective hedges, recognized in other comprehensive income (effective portion) were not material to any of the periods presented, except for its cross-currency swaps. The Company recognized gain of $
+14
+ million and loss of $
+88
+ million related to the Company’s cross-currency swaps, designated or previously designated as effective hedges, for the three months ended September 30, 2025 and 2024, respectively and loss of $
+275
+ million and $
+22
+ million for the nine months ended September 30, 2025 and 2024, respectively. 
+The amount reclassified from AOCL to income has been presented in 
+Footnote 2
+. The gain or loss activity recognized related to derivatives that are not designated as hedging instruments were not material for the periods presented. Gains and losses on these derivatives are mostly
+
+offset by foreign currency movement in the underlying exposure. 
+At September 30, 2025, net deferred losses to be reclassified to earnings over the next twelve months are not expected to be material.
+Footnote 10 — 
+Income Taxes
+The Company’s effective income tax rates for the three months ended September 30, 2025 and 2024 were provision of 
+50.0
+% and benefit of 
+3.4
+%, respectively, and a provision of 
+48.3
+% and benefit of 
+10.5
+% for the nine months ended September 30, 2025 and 2024, respectively, due primarily to a decrease in discrete tax benefits year over year for both three- and nine-month periods.
+The differences between the U.S. federal statutory income tax rate of 
+21.0
+% and the Company’s effective income tax rate for the three and nine months ended September 30, 2025 and 2024 were impacted by a variety of factors, primarily resulting from the geographic mix of where the income was earned, as well as certain taxable income inclusion items in the U.S. based on foreign earnings. For the period ended September 30, 2025, these items increased the tax rates more than the prior period due to the lower forecasted pretax book income for 2025. In periods where forecasted pretax income is relatively low, the proportional impact of these items on the effective rate may be significant.
+The three and nine months ended September 30, 2025 were impacted by certain discrete items. Income tax expense for the three months ended September 30, 2025 included discrete benefits of $
+16
+ million due to the finalization of tax returns in various jurisdictions, primarily the U.S. and Switzerland, offset by discrete expense of $
+5
+ million due to the revaluation of deferred tax assets for a statutory rate change in Germany and $
+5
+ million of tax expense related to the disposition of the Company’s equity interest in a joint venture. The nine months ended September 30, 2025 also included certain discrete items totaling $
+2
+ million of additional income tax benefit.
+The three and nine months ended September 30, 2024 were impacted by certain discrete items. Income tax benefit for the three months ended September 30, 2024 included discrete benefits of $
+44
+ million associated with non-cash impairment charges offset by $
+3
+ million of additional income tax expense. The nine months ended September 30, 2024 also included certain discrete items including a benefit of $
+64
+ million associated with a reduction in liabilities for unrecognized tax benefits, as a result of the tax authorities’ examination of its U.S. tax returns for the years 2011 to 2015 and its Brazil tax returns for the years 2015 to 2017, offset by $
+8
+ million of interest expense associated with uncertain tax liabilities, $
+7
+ million of additional tax related to withholding taxes associated with certain previously taxed earnings that are no longer indefinitely reinvested and $
+3
+ million of additional income tax expense.
+In June 2025, the Company filed its amended 2019 U.S. federal income tax return to carry back capital losses generated in 2020. This resulted in an increase in income tax expense of $
+3
+ million and an aggregate increase in noncurrent income taxes receivable of $
+10
+ million, and an increase in deferred tax liabilities of approximately $
+13
+ million.
+In April 2025, the Company paid $
+31
+ million of tax for the one-time toll charge incurred in 2017 related to the Tax Credits and Jobs Act, due to the Internal Revenue Service (“IRS”) having not yet processed the amended 2017 return, which the Company filed during the year ended December 31, 2022. This resulted in an increase to the Company’s noncurrent income tax receivable.
+15
+Table of Contents
+In March 2025, the Company finalized its amended 2023 U.S. federal income tax return and updated its estimate of the 2024 U.S. federal income tax return. This resulted in an aggregate reduction in current income taxes payable and an increase in deferred tax liabilities of approximately $
+31
+ million.
+The Company files numerous consolidated and separate income tax returns in the U.S. federal jurisdiction and various state and foreign jurisdictions. The statute of limitations for the Company’s U.S. federal income tax returns has expired for years prior to 2011 and for 2016. With few exceptions, the Company is no longer subject to other income tax examinations for years before 2016.  
+Other Matters
+On July 4, 2025, the U.S. enacted the One Big Beautiful Bill Act (the “OBBBA”). The OBBBA makes permanent key elements of the Tax Cuts and Jobs Act, including modifications to the international tax framework, and allows immediate expensing of domestic research and development costs and changes limitations related to the expensing of business interest expense. Based on the Company’s current analysis of the OBBBA, management does not expect these tax law changes to have a material impact on the Company’s consolidated financial statements. However, management will continue to evaluate the effects the OBBBA will have on its consolidated financial statements. 
+On July 19, 2024, the Company filed a petition in the U.S. Tax Court disputing a proposed assessment by the IRS of 
+$
+80
+ million
+ in additional taxes and 
+$
+34
+ million
+ in penalties plus the additional interest calculated upon final settlement related to the transfer pricing of services performed by certain of the Company’s foreign affiliates for the tax years 2011 to 2015. The Company believes that adequate amounts have been reserved for any adjustments that may ultimately result. If the IRS prevails in the assessment of additional tax, interest and penalties in excess of the Company’s current reserves, such outcome could have a material adverse effect on the Company’s financial position and results.
+Footnote 11 — 
+Weighted Average Shares Outstanding
+Three Months Ended 
+September 30, 
+Nine Months Ended
+ September 30,
+2025
+2024
+2025
+2024
+Basic weighted average shares outstanding
+419.1
+
+416.0
+
+417.9
+
+415.3
+
+Dilutive securities 
+(1)
+4.4
+
+—
+
+4.5
+
+—
+
+Diluted weighted average shares outstanding
+423.5
+
+416.0
+
+422.4
+
+415.3
+
+(1)
+The three and nine months ended September 30, 2024 excludes 
+2.5
+ million and 
+2.8
+ million, respectively, of potentially dilutive share-based awards as their effect would be anti-dilutive.
+At September 30, 2025, there were 
+no
+ potentially dilutive share awards with performance-based targets that were not met. At September 30, 2024, there were 
+0.7
+ million potentially dilutive share awards with performance-based targets that were not met and as such, were excluded from the computation of diluted earnings per share.
+Footnote 12 — 
+Share-Based Compensation
+During the nine months ended September 30, 2025, primarily in connection with its annual grant, the Company granted 
+2.0
+ million performance-based restricted stock units (“RSUs”), with an aggregate grant date fair value of $
+14
+ million. These performance-based RSUs entitle the recipients to shares of the Company’s common stock and vest primarily at the end of a 
+three
+-year
+ period, subject to continued employment. The actual number of shares that will ultimately be paid upon vesting is dependent on the level of achievement of the specified performance conditions. 
+During the 
+nine months ended
+ September 30, 2025, primarily in connection with its annual grant, the Company also granted 
+6.4
+ million time-based RSUs with an aggregate grant date fair value of $
+45
+ million. These time-based RSUs entitle recipients to shares of the Company’s common stock and primarily vest in annual installments over a 
+three-year
+ period, 
+subject to continued employment.
+16
+Table of Contents
+Footnote 13 — 
+Segment Information
+The Company’s 
+three
+ reportable segments are:
+Segment
+Key Brands
+Description of Primary Products
+Home and Commercial Solutions
+Ball
+(1)
+, Calphalon, Crockpot, FoodSaver, Mapa, Mr. Coffee, Oster, Rubbermaid, Rubbermaid Commercial Products, Sistema, Spontex, Sunbeam, WoodWick and Yankee Candle
+Commercial cleaning and maintenance solutions; closet and garage organization; hygiene systems and material handling solutions; household products, including kitchen appliances; food and home storage products; fresh preserving products; vacuum sealing products; gourmet cookware, bakeware and cutlery and home fragrance products
+Learning and  Development
+Dymo, Elmer’s, EXPO, Graco, NUK, Paper Mate, Parker and Sharpie
+Baby gear and infant care products; writing instruments, including markers and highlighters, pens and pencils; art products; activity-based products and labeling solutions
+Outdoor and Recreation
+Campingaz, Coleman, Contigo and Marmot
+Active lifestyle products for outdoor and outdoor-related activities; technical apparel and on-the-go beverageware
+(1)
+
+and Ball®, TMs of Ball Corporation, used under license.
+The President and Chief Executive Officer of the Company, who is the Chief Operating Decision Maker (the “CODM”) reviews the businesses as 
+three
+
+operating segments: 
+Home and Commercial Solutions, 
+Learning and Development and Outdoor and Recreation. This structure reflects the manner in which the CODM regularly assesses information for decision-making purposes, including the allocation of resources. 
+The Company also provides general corporate services to its segments which is reported as a non-operating segment, Corporate.
+The CODM evaluates the segments’ operating performance based on segment operating income, defined as net sales minus cost of products sold, segment SG&A (including 
+share-based compensation at target for operating segment employees)
+ and other segment costs. 
+Segment SG&A includes an allocation of center-led corporate functions including the bonus for such corporate functions based on achieving 
+100
+% of the respective target. However, any variability in expense from such targets, favorable or unfavorable, is retained at corporate, and would be reflected as a corporate expense. Segment SG&A also does not include any allocation of share-based compensation related to such center-led corporate functions or any adjustments, favorable or unfavorable, between the actual share-based compensation achieved versus the share-based compensation at target for operating segment employees, which items are also reflected in corporate expense. 
+The CODM considers budget-to-current forecast and prior actuals-to-current forecast variances for segment operating income on a periodic basis for evaluating performance of each segment and making decisions about allocating capital and other resources to each segment.
+The Company’s results by segment are as follows (in millions): 
+Three Months Ended September 30, 2025
+Three Months Ended September 30, 2024
+Consolidated
+Home and Commercial Solutions
+Learning and Development
+Outdoor and Recreation
+Consolidated
+Home and Commercial Solutions
+Learning and Development
+Outdoor and Recreation
+Net sales 
+(1)
+$
+1,806
+
+$
+942
+
+$
+681
+
+$
+183
+
+$
+1,947
+
+$
+1,047
+
+$
+717
+
+$
+183
+
+Cost of products sold
+1,190
+
+669
+
+383
+
+138
+
+1,268
+
+721
+
+400
+
+147
+
+Segment SG&A
+457
+
+233
+
+172
+
+52
+
+458
+
+231
+
+168
+
+59
+
+Other segment costs 
+(2)
+3
+
+—
+
+2
+
+1
+
+263
+
+189
+
+74
+
+—
+
+Segment operating income (loss)
+$
+156
+
+$
+40
+
+$
+124
+
+$
+(
+8
+)
+$
+(
+42
+)
+$
+(
+94
+)
+$
+75
+
+$
+(
+23
+)
+Corporate expenses 
+(3)
+37
+
+79
+
+Operating income (loss)
+$
+119
+
+$
+(
+121
+)
+Interest expense, net
+83
+
+75
+
+Other income (expense), net
+(
+6
+)
+9
+
+Income (loss) before income taxes
+$
+42
+
+$
+(
+205
+)
+17
+Table of Contents
+Nine Months Ended September 30, 2025
+Nine Months Ended September 30, 2024
+Consolidated
+Home and Commercial Solutions
+Learning and Development
+Outdoor and Recreation
+Consolidated
+Home and Commercial Solutions
+Learning and Development
+Outdoor and Recreation
+Net sales 
+(1)
+$
+5,307
+
+$
+2,646
+
+$
+2,062
+
+$
+599
+
+$
+5,633
+
+$
+2,902
+
+$
+2,089
+
+$
+642
+
+Cost of products sold
+3,503
+
+1,897
+
+1,159
+
+447
+
+3,751
+
+2,066
+
+1,167
+
+518
+
+Segment SG&A
+1,315
+
+685
+
+476
+
+154
+
+1,306
+
+667
+
+466
+
+173
+
+Other segment costs 
+(2)
+8
+
+2
+
+3
+
+3
+
+284
+
+199
+
+82
+
+3
+
+Segment operating income (loss)
+$
+481
+
+$
+62
+
+$
+424
+
+$
+(
+5
+)
+$
+292
+
+$
+(
+30
+)
+$
+374
+
+$
+(
+52
+)
+Corporate expenses 
+(3)
+170
+
+234
+
+Operating income
+$
+311
+
+$
+58
+
+Interest expense, net
+237
+
+223
+
+Loss on extinguishment and modification of debt
+13
+
+1
+
+Other expense, net
+3
+
+15
+
+Income (loss) before income taxes
+$
+58
+
+$
+(
+181
+)
+(1)
+All intercompany transactions have been eliminated.
+(2)
+Other segment costs primarily include segment restructuring costs, net and impairment of acquired intangible assets (see 
+Footnotes 3 
+and 
+6, 
+respectively, for further information). 
+(3)
+Corporate expenses primarily include costs of operating as a public company, including retained costs of center-led corporate functions, corporate restructuring and restructuring-related costs (see 
+Footnote 3
+ for further information) and impairment of other assets. In addition, corporate expense includes all share-based compensation and all adjustments, favorable or unfavorable, between the actual bonus achieved versus the bonus at target for center-led corporate functions, as well as all adjustments, favorable or unfavorable, between the actual share-based compensation achieved versus the share-based compensation at target for operating segment employees. 
+Depreciation and amortization by segment are as follows (in millions):
+Three Months Ended September 30,
+Nine Months Ended
+ September 30,
+2025
+2024
+2025
+2024
+Home and Commercial Solutions
+$
+35
+
+$
+36
+
+$
+106
+
+$
+115
+
+Learning and Development
+18
+
+19
+
+51
+
+52
+
+Outdoor and Recreation
+8
+
+11
+
+23
+
+31
+
+Corporate
+16
+
+15
+
+51
+
+47
+
+$
+77
+
+$
+81
+
+$
+231
+
+$
+245
+
+Capital expenditures by segment are as follows (in millions):
+Three Months Ended September 30,
+Nine Months Ended
+ September 30,
+2025
+2024
+2025
+2024
+Home and Commercial Solutions
+$
+20
+
+$
+21
+
+$
+56
+
+$
+57
+
+Learning and Development
+10
+
+9
+
+31
+
+29
+
+Outdoor and Recreation
+6
+
+3
+
+15
+
+9
+
+Corporate
+23
+
+18
+
+75
+
+68
+
+$
+59
+
+$
+51
+
+$
+177
+
+$
+163
+
+18
+Table of Contents
+Assets by segment are as follows at (in millions):
+September 30, 2025
+December 31, 2024
+Home and Commercial Solutions
+$
+4,183
+
+$
+4,110
+
+Learning and Development
+3,868
+
+3,786
+
+Outdoor and Recreation
+525
+
+541
+
+Corporate
+2,711
+
+2,567
+
+$
+11,287
+
+$
+11,004
+
+The following table disaggregates net sales
+(1)
+ by major product grouping for the periods indicated (in millions): 
+Three Months Ended September 30,
+Nine Months Ended
+ September 30,
+2025
+2024
+2025
+2024
+Commercial
+$
+331
+
+$
+355
+
+$
+976
+
+$
+1,028
+
+Kitchen
+475
+
+527
+
+1,290
+
+1,461
+
+Home Fragrance
+136
+
+165
+
+380
+
+413
+
+Home and Commercial Solutions 
+942
+
+1,047
+
+2,646
+
+2,902
+
+Baby
+273
+
+280
+
+749
+
+751
+
+Writing
+408
+
+437
+
+1,313
+
+1,338
+
+Learning and Development
+681
+
+717
+
+2,062
+
+2,089
+
+Outdoor and Recreation
+183
+
+183
+
+599
+
+642
+
+$
+1,806
+
+$
+1,947
+
+$
+5,307
+
+$
+5,633
+
+(1)
+All intercompany transactions have been eliminated.   
+The following table disaggregates net sales
+(1)
+ by geography
+(2)
+ for the periods indicated (in millions):
+Three Months Ended September 30, 2025
+Three Months Ended September 30, 2024
+North
+America
+International
+TOTAL
+North
+America
+International 
+TOTAL
+Home and Commercial Solutions
+$
+607
+
+$
+335
+
+$
+942
+
+$
+691
+
+$
+356
+
+$
+1,047
+
+Learning and Development
+509
+
+172
+
+681
+
+531
+
+186
+
+717
+
+Outdoor and Recreation
+93
+
+90
+
+183
+
+97
+
+86
+
+183
+
+$
+1,209
+
+$
+597
+
+$
+1,806
+
+$
+1,319
+
+$
+628
+
+$
+1,947
+
+Nine Months Ended September 30, 2025
+Nine Months Ended September 30, 2024
+North
+America
+International 
+TOTAL
+North
+America
+International
+TOTAL
+Home and Commercial Solutions 
+$
+1,671
+
+$
+975
+
+$
+2,646
+
+$
+1,892
+
+$
+1,010
+
+$
+2,902
+
+Learning and Development
+1,549
+
+513
+
+2,062
+
+1,552
+
+537
+
+2,089
+
+Outdoor and Recreation
+292
+
+307
+
+599
+
+340
+
+302
+
+642
+
+$
+3,512
+
+$
+1,795
+
+$
+5,307
+
+$
+3,784
+
+$
+1,849
+
+$
+5,633
+
+(1)
+All intercompany transactions have been eliminated.
+(2)
+Geographic sales information is based on the region from which the products are shipped and invoiced.
+
+Footnote 14 — 
+Litigation and Contingencies
+The Company is subject to various claims and lawsuits in the ordinary course of business, including from time to time, contractual disputes, employment and environmental matters, product and general liability claims, claims that the Company has infringed on the intellectual property rights of others, and consumer and employment class actions. Some of the legal proceedings include claims for punitive as well as compensatory damages. In the ordinary course of business, the Company is also subject to 
+19
+Table of Contents
+legislative requests, regulatory and governmental examinations, information requests and subpoenas, inquiries, investigations, and threatened legal actions and proceedings. In connection with such formal and informal inquiries, the Company receives numerous requests, subpoenas, and orders for documents, testimony and information in connection with various aspects of its activities. 
+Environmental Matters
+The Company is involved in various matters concerning federal and state environmental laws and regulations, including matters in which the Company has been identified by the U.S. Environmental Protection Agency (“U.S. EPA”) and certain state environmental agencies as a potentially responsible party (“PRP”) at contaminated sites under the Comprehensive Environmental Response Compensation and Liability Act (“CERCLA”) and equivalent state laws. In assessing its environmental response costs, the Company has considered several factors, including the extent of the Company’s volumetric contribution at each site relative to that of other PRPs; the kind of waste; the terms of existing cost sharing and other applicable agreements; the financial ability of other PRPs to share in the payment of requisite costs; the Company’s prior experience with similar sites; environmental studies and cost estimates available to the Company; the effects of inflation on cost estimates; and the extent to which the Company’s and other parties’ status as PRPs is disputed.
+The Company’s estimate of environmental remediation costs associated with these matters at September 30, 2025 was $
+33
+ million which is included in other accrued liabilities and other noncurrent liabilities in the Condensed Consolidated Balance Sheets. No insurance recovery was taken into account in determining the Company’s cost estimates or reserves, nor do the Company’s cost estimates or reserves reflect any discounting for present value purposes, except with respect to certain long-term operations and maintenance CERCLA matters. Because of the uncertainties associated with environmental investigations and response activities, the possibility that the Company could be identified as a PRP at sites identified in the future that require the incurrence of environmental response costs and the possibility that sites acquired in business combinations may require environmental response costs, actual costs to be incurred by the Company may vary from the Company’s estimates.
+Lower Passaic River Matter
+Over 
+100
+ entities, including the Company and its subsidiary, Berol Corporation (together, the “Company Parties”), have been identified as PRPs at the Diamond Alkali Superfund Site (the “Site”) pursuant to CERCLA. The Site is divided into 
+four
+ “operable units,” and the Company Parties have received notice letters in connection with operable Unit 4 and operable Unit 2 (which is geographically subsumed within Unit 4). The U.S. EPA has issued records of decision for Units 2 and 4 with selected remedies that are estimated to cost approximately $
+1.8
+ billion in the aggregate. In September 2017, the U.S. EPA announced an allocation process involving roughly 
+80
+ PRPs, with the intent of offering cash-out settlements to a number of parties. The allocation process has concluded, and the Company Parties were placed in the lowest tier of relative responsibility among allocation parties. On January 31, 2024, U.S. EPA filed a motion to enter a modified consent decree to resolve the liability of the Company Parties and other settlement parties for past and future CERCLA response costs at Unit 2 and Unit 4 (“Consent Decree”), which the court granted on December 18, 2024. The Court’s order entering the Consent Decree has been appealed. As of the date of this filing, the Company does not expect that its share of payments toward the Consent Decree, if the Consent Decree is upheld following any appellate review, will be material to the Company. 
+In June 2018, Occidental Chemical Corporation (“OCC”) sued over 
+100
+ parties, including the Company Parties, in the U.S. District Court in New Jersey pursuant to CERCLA, requesting cost recovery, including past and future costs for investigation, design and remediation of Units 2 and 4, as well as contribution and a declaratory judgement (the “OCC Litigation”). The defendants, in turn, filed claims against 
+42
+ third-party defendants and counterclaims against OCC. OCC has also stated that it anticipates asserting claims against defendants regarding Newark Bay, which is also part of the Site, after the U.S. EPA has selected the Newark Bay remedy. The OCC Litigation is stayed pending the Court’s adjudication of the entry of the Consent Decree. At this time, the Company cannot predict the eventual outcome of the OCC Litigation.
+In addition, federal trustees, including the U.S. Department of Commerce and Department of the Interior, continue to undertake a Natural Resource Damage Assessment with respect to the Site, having previously identified the Company Parties, along with numerous other entities, as PRPs.
+Based on currently known facts and circumstances, the Company does not believe that the Lower Passaic River matter is reasonably likely to have a material impact on the Company’s results of operations. However, in the event of one or more adverse determinations related to this matter, including the OCC Litigation and Natural Resource Damage Assessment noted above (for which the Company cannot currently estimate the range of possible losses), it is possible that the ultimate liability resulting from this matter and the impact on the Company’s results of operations could be material.
+20
+Table of Contents
+Because of the uncertainties associated with environmental investigations and response activities, the possibility that the Company could be identified as a PRP at sites identified in the future that require the incurrence of environmental response costs and the possibility that sites acquired in business combinations may require environmental response costs, actual costs to be incurred by the Company may vary from the Company’s estimates.
+French Door Countertop Ovens Recall
+On September 25, 2025, the Company announced a recall in the U.S. and Canada of certain of its Oster French Door Countertop Ovens in the H&CS segment. The Company determined that the recalled product may present users with a potential safety concern, as the doors could unexpectedly close and pose a burn hazard to users, and the recall offers a repair kit to address the hazard. During the quarter ended September 30, 2025, the Company recorded a reserve of $
+6
+ million relating to this recall representing its best estimate of risk of loss.
+Other Matters
+In the normal course of business and as part of its acquisition and divestiture strategy, the Company may provide certain representations and indemnifications related to legal, environmental, product liability, tax or other types of issues. Based on the nature of these representations and indemnifications, it is not possible to predict the maximum potential payments under all of these agreements due to the conditional nature of the Company’s obligations and the unique facts and circumstances involved in each particular agreement. Historically, payments made by the Company under these agreements did not have a material effect on the Company’s business, financial condition or results of operations. In connection with the Company’s sale of The United States Playing Card Company (“USPC”), Cartamundi, Inc. and Cartamundi España, S.L., (the “Buyers”) have notified the Company of their contention that certain representations and warranties in the Stock Purchase Agreement, dated June 4, 2019, were inaccurate and/or breached, and have sought indemnification to the extent that the Buyers are required to pay related damages arising out of a third party lawsuit that was filed against USPC in 2021.
+Although the Company cannot predict the ultimate outcome of other proceedings with certainty, it believes that the ultimate resolution of the Company’s proceedings, including any amounts it may be required to pay in excess of amounts reserved, will not have a material effect on the Company’s Condensed Consolidated Financial Statements, except as otherwise described in this 
+Footnote 14
+.
+At September 30, 2025, the Company had approximately $
+49
+ million in standby letters of credit primarily related to the Company’s self-insurance programs, including workers’ compensation, product liability and medical expenses.
+21
+Table of Contents
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion and analysis provides information which management believes is relevant to an assessment and understanding of Newell Brands Inc.’s (“Newell Brands,” the “Company,” “we,” “us” or “our”) consolidated financial condition and results of operations. The discussion should be read in conjunction with the accompanying condensed consolidated financial statements and notes thereto.
+Forward-Looking Statements
+This report contains forward-looking statements within the meaning of the federal securities law. These statements generally can be identified by the use of words such as “intend,” “anticipate,” “believe,” “estimate,” “project,” “target,” “plan,” “expect,” “setting up,” “beginning to,” “will,” “should,” “would,” “could,” “resume,” “are confident that,” “remain optimistic that,” “seek to,” or similar statements. The Company cautions that forward-looking statements are not guarantees because there are inherent difficulties in predicting future results. Actual results may differ materially from those expressed or implied in the forward-looking statements. Important factors that could cause actual results to differ materially from those suggested by the forward-looking statements include, but are not limited to:
+•
+the Company’s ability to optimize costs and cash flow and mitigate the impact of soft global demand and retailers’ inventory rebalancing through discretionary and overhead spend management, advertising and promotion expense optimization, demand forecast and supply plan adjustments and actions to improve working capital;
+•
+the Company’s dependence on the strength of retail and consumer demand and commercial and industrial sectors of the economy in various countries around the world;
+•
+the Company’s ability to improve productivity, reduce complexity and streamline operations;
+•
+risks related to the Company’s substantial indebtedness, potential increases in interest rates or changes in the Company’s credit ratings including the failure to maintain financial covenants which if breached could subject us to cross-default and acceleration provisions in our debt documents;
+•
+the impact on the Company’s operations and financial condition resulting from the current global macroeconomic environment, including the impact of tariffs imposed by the U.S. and retaliatory tariffs imposed by foreign countries, and the Company’s ability to effectively execute its mitigation plans;
+•
+competition with other manufacturers and distributors of consumer products;
+•
+major retailers’ strong bargaining power and consolidation of the Company’s customers;
+•
+supply chain and operational disruptions in the markets in which we operate, including as a result of geopolitical and macroeconomic conditions and any global military conflicts including those between Russia and Ukraine and in the Middle East;
+•
+changes in the prices and availability of labor, transportation, raw materials and sourced products, including significant inflation, and the Company’s ability to offset cost increases through pricing and productivity in a timely manner;
+•
+the Company’s ability to effectively execute its turnaround plan, including the Realignment Plan and other restructuring and cost saving initiatives;
+•
+the Company’s ability to develop innovative new products, to develop, maintain and strengthen end-user brands and to realize the benefits of increased advertising and promotion spend; 
+•
+the risks inherent to the Company’s foreign operations, including currency fluctuations, exchange controls and pricing restrictions;
+•
+future events that could adversely affect the value of the Company’s assets and/or stock price and require additional impairment charges;
+•
+unexpected costs or expenses associated with dispositions;
+•
+the cost and outcomes of governmental investigations, inspections, lawsuits, legislative requests or other actions by third parties, including but not limited to those described in 
+Footnote 14 of the Notes to Unaudited Condensed Consolidated Financial Statements
+, the potential outcomes of which could exceed policy limits, to the extent insured; 
+•
+the Company’s ability to maintain effective internal control over financial reporting;
+•
+risk associated with the use of artificial intelligence in the Company’s operations and the Company’s ability to properly manage such use;
+•
+a failure or breach of one of the Company’s key information technology systems, networks, processes or related controls or those of the Company’s service providers;
+•
+the impact of U.S. and foreign regulations on the Company’s operations, including environmental remediation costs and legislation and regulatory actions related to product safety, data privacy and climate change;
+•
+the potential inability to attract, retain and motivate key employees;
+•
+changes in tax laws and the resolution of tax contingencies resulting in additional tax liabilities;
+•
+product liability, product recalls or related regulatory actions;
+22
+Table of Contents
+•
+the Company’s ability to protect its intellectual property rights;  
+•
+the impact of climate change and the increased focus of governmental and non-governmental organizations and customers on sustainability issues, as well as external expectations related to environmental, social and governance considerations;  
+•
+significant increases in the funding obligations related to the Company’s pension plans; and
+•
+other factors listed from time to time in our SEC filings, including but not limited to our Annual Report on Form 10-K and Quarterly Reports on Form 10-Q and other filings.
+The information contained in this Report is as of the date indicated. The Company assumes no obligation to update any forward-looking statements contained in this Report as a result of new information or future events or developments. In addition, there can be no assurance that the Company has correctly identified and assessed all of the factors affecting the Company or that the publicly available and other information the Company receives with respect to these factors is complete or correct.
+Overview
+Newell Brands Inc. is a leading global consumer goods company with a strong portfolio of well-known brands, including Rubbermaid, Sharpie, Graco, Coleman, Rubbermaid Commercial Products, Yankee Candle, Paper Mate, FoodSaver, Dymo, EXPO, Elmer’s, Oster, NUK, Spontex and Campingaz. Newell Brands is focused on delighting consumers by lighting up everyday moments. The Company sells its products in over 150 countries around the world and has operations on the ground in over 40 of these countries, excluding third-party distributors. The Company has three operating segments: Home and Commercial Solutions (“H&CS”), 
+Learning and Development (“L&D”) and Outdoor and Recreation (“O&R”).
+Business Strategy
+In 2023, the Company initiated a multi-year turnaround plan based on a comprehensive capability assessment and a clear set of “where to play” and “how to win” strategic choices with the goal of improving the Company’s top line, expanding margins and improving cash flow. During 2024, the Company fully deployed its strategy, transitioned to a new operating model, rebuilt its front-end capabilities and continued with its simplification agenda. 
+The Company is implementing this strategy while continuing to address key global challenges such as shifting consumer preferences and behaviors; a highly competitive operating environment; a rapidly changing retail and consumer landscape; continued macroeconomic and geopolitical volatility; a soft macro backdrop; significant cumulative inflationary pressures on consumers; recently announced and imposed tariffs by the current U.S. presidential administration and other countries’ retaliatory actions in response to such tariffs; and an evolving regulatory landscape. 
+In order to successfully navigate these challenges and deliver strong performance, the Company intends to continue creating and leveraging scale to unlock the full potential of the Company’s portfolio of leading brands through maintaining a disciplined approach and executing with excellence on the Company’s key priorities for 2025 including:
+•
+Returning to profitable top line growth through product and commercial innovation, distribution expansion and international market penetration;
+•
+Expanding gross and operating margin, building on the significant gains achieved in 2024;
+•
+Further deleveraging the balance sheet and improving cash flow efficiency;
+•
+Driving operational excellence through complexity reduction, technology standardization and continued stock-keeping unit (“SKU”) optimization; and
+•
+Strengthening our high-performance culture, emphasizing accountability, innovation and inclusion.
+The Company is deeply committed to sustaining its turnaround momentum and driving long-term profitable growth. 
+Execution of these strategic imperatives, in combination with other initiatives aimed to build operational excellence, will better position the Company for long-term sustainable growth. One such initiative is the organizational realignment (“Realignment Plan”), which was designed to strengthen the Company’s front-end commercial capabilities, such as consumer understanding and brand communication, in support of the “where to play” and “how to win” strategies the Company initiated in 2023. In addition to improving accountability, the Realignment Plan was designed to unlock operational efficiencies and cost savings, reduce complexity and free up funds for reinvestment. As part of the Realignment Plan, the Company has made several operating model changes, which entailed: standing up a cross-functional brand management organization, realigning business unit finance to fully support the new global brand management model, further simplifying and standardizing regional go-to-market organizations, and centralizing domestic retail sales teams, the digital technology team, business-aligned accounting personnel, the Manufacturing Quality team, and the Human Resources functions into the appropriate center-led teams to drive standardization, efficiency and 
+23
+Table of Contents
+scale with a One Newell approach. The Company has also further optimized the Company’s real estate footprint and pursued other cost reduction initiatives. These actions were primarily implemented by the end of 2024. The remaining actions, subject to applicable local law and consultation requirements, are expected to be implemented by the end of fiscal year 2025.
+In addition, the Company continues to review its operating footprint and non-core brands, which will result in future restructuring and restructuring-related charges.
+Recent Developments
+Update on Tariffs
+The current U.S. presidential administration has announced and/or imposed a series of new tariffs on foreign imports into the U.S., including without limitation significant tariffs on products manufactured in China. Tariffs on imports into the U.S., most significantly from China, and any retaliatory tariffs on exports from the U.S. to other countries, will increase costs for the Company and could impact the level of trade between the U.S. and its various trading partners around the globe in general. 
+We believe that the Company is well positioned to respond to the current tariff environment, primarily because the Company maintains a significant U.S. manufacturing presence of 15 production facilities and manufactures, in the U.S. and two of its facilities in Mexico, products representing over half of the Company’s U.S. revenues that are not presently subject to the recently announced U.S. tariffs. This manufacturing presence is expected to provide a competitive advantage to the Company in certain categories where its competitors are exposed to import tariffs. The Company also has a scaled, centralized procurement team that is proficient in sourcing raw materials and finished products from over 50 countries around the world.   
+Based on the currently announced and imposed tariffs as well as any retaliatory tariffs on U.S. exports, the Company anticipates an incremental cash tariff cost of approximately $180 million in 2025 prior to any offsetting impact from mitigating actions. There will be a timing difference between the operating cash outflow and the recognition of cost of products sold arising from the tariffs. As a result, the Company anticipates recognizing approximately $115 million of incremental costs of products sold (including $10 million in the second quarter and $55 million in the third quarter) in the Consolidated Statement of Operations in 2025. The Company continues to deploy a mitigation strategy designed to offset the impact of this tariff exposure through a number of actions, including pricing, productivity and in some cases relocation of manufacturing. At this time, it is difficult to predict the rate or duration of these tariffs, and there can be no assurance as to the extent to which the Company will be able to offset the impact through mitigation actions. Additional tariffs or further increases to the U.S. tariffs, retaliatory actions taken by other countries, or failure to effectively deploy the Company’s mitigation plans could have a significant negative impact on the Company.
+Sale of Equity Interest in Joint Venture
+In August 2025, the Company sold its equity interest in a joint venture for approximately $22 million, subject to customary working capital and other post-closing adjustments, and recorded a pretax gain of approximately $12 million, which was included in other (income) expense, net in the Condensed Consolidated Statements of Operations.
+24
+Table of Contents
+Results of Operations 
+Three Months Ended September 30, 2025 vs. Three Months Ended September 30, 2024
+Consolidated Operating Results
+Three Months Ended September 30,
+(in millions)
+2025
+2024
+$ Change
+% Change
+Net sales
+$
+1,806 
+$
+1,947 
+$
+(141)
+(7.2)%
+Gross profit
+616 
+679 
+(63)
+(9.3)%
+Gross margin
+34.1 
+%
+34.9 
+%
+Operating income (loss)
+119
+
+(121)
+240
+
+NM
+Operating margin
+6.6 
+%
+(6.2)
+%
+Interest expense, net
+83 
+75 
+8 
+10.7%
+Other (income) expense, net
+(6)
+9 
+(15)
+NM
+Income (loss) before income taxes
+42
+
+(205)
+247
+
+NM
+Income tax provision (benefit)
+21 
+(7)
+28 
+NM
+Income tax rate
+50.0 
+%
+3.4 
+%
+Net income (loss)
+$
+21
+
+$
+(198)
+$
+219
+
+NM
+Diluted earnings (loss) per share
+$
+0.05
+
+$
+(0.48)
+NM - NOT MEANINGFUL
+Net sales for the three months ended September 30, 2025 decreased 7%. Net sales were unfavorably impacted primarily by continued softness in global demand in the H&CS segment. In addition, net sales were unfavorably impacted by reduced retailer inventory levels primarily in the L&D segment and to a lesser extent in the H&CS segment. These unfavorable factors were partially mitigated by launches of product innovations in the H&CS and L&D segments. Changes in foreign currency favorably impacted net sales by $11 million, or less than 1%.
+Gross profit decreased 9% compared to the prior year. Gross margin declined to 34.1% as compared with 34.9% in the prior year. The impact of lower sales volume, additional tariffs of approximately $55 million, inflation and approximately $6 million of costs associated with a product recall in the H&CS segment, were partially offset by gross productivity, pricing actions and lower restructuring-related charges of approximately $13 million. Changes in foreign currency exchange rates favorably impacted gross profit by $2 million, or less than 1%.  
+Notable items, other than those noted above, impacting operating income (loss) for the three months ended September 30, 2025 and 2024 were as follows (in millions):
+Three Months Ended September 30,
+2025
+2024
+$ Change
+Impairment of intangible assets 
+(1)
+$
+— 
+$
+260 
+$
+(260)
+Restructuring and restructuring-related costs  
+(2) 
+8 
+22 
+(14)
+Transaction costs and other  
+(3)
+11 
+6 
+5 
+(1)
+The three months ended September 30, 2024 includes non-cash impairment charges of $190 million and $70 million for certain indefinite-lived tradenames in the H&CS and L&D segments, respectively. See 
+Footnote 6 of the Notes to Unaudited Condensed Consolidated Financial Statements 
+for further information.
+25
+Table of Contents
+(2)
+For the three months ended September 30, 2025, restructuring-related costs reported in selling, general and administrative expenses (“SG&A”) were $3 million and primarily relate to facility closures associated with various discrete initiatives as well as previously disclosed but substantially completed restructuring activities. For the three months ended September 30, 2024, restructuring-related costs reported in cost of products sold and SG&A were $13 million and $5 million, respectively, primarily related to facility closures associated with previously disclosed Network Optimization Project and Project Phoenix, as well as the Realignment Plan and other discrete initiatives. Restructuring costs were $5 million and $4 million for the three months ended September 30, 2025 and 2024, respectively, primarily related to the Realignment Plan. See 
+Footnote 3 of the Notes to Unaudited Condensed Consolidated Financial Statements 
+for further information.
+(3)
+Transaction costs and other for the three months ended September 30, 2025 includes expenses for certain legal proceedings and completed divestitures, costs of a product recall (see 
+Footnote 14 of the Notes to Unaudited Condensed Consolidated Financial Statements 
+for further information), fire-related losses and hyperinflationary currency movements. For the three months ended September 30, 2024 transaction and other costs related to hyperinflationary currency movements and to accelerated amortization and write-off of other assets associated with integration projects.
+Operating income was $119 million as compared to operating loss of $121 million in the prior year period. The operating results in the prior year period included non-cash impairment charges of $260 million for certain indefinite-lived tradenames in the H&CS and L&D segments. The improvement in the current period also reflects the impact of savings from restructuring actions primarily related to the Realignment Plan and lower incentive compensation expense of approximately $36 million, partially offset by lower gross profit of $63 million and higher advertising and promotion costs of $6 million.
+Interest expense, net increased by $8 million due to higher interest rates and lower interest income. The weighted average interest rates for the three months ended September 30, 2025 and 2024 were approximately 6.6% and 5.8%, respectively. See 
+Footnote 8 of the Notes to Unaudited Condensed Consolidated Financial Statements
+ for further information.
+Other (income) expense, net for the three months ended September 30, 2025 and 2024 includes the following items (in millions):
+Three Months Ended September 30,
+2025
+2024
+Foreign exchange losses, net
+$
+6 
+$
+6 
+(Gain) loss on disposition of businesses and investments
+(12)
+2 
+Discount on factored receivables and other, net
+— 
+1 
+$
+(6)
+$
+9
+
+During the three months ended September 30, 2025, the Company sold its equity interest in a joint venture and realized a pretax gain of $12 million.  
+The income tax provision for the three months ended September 30, 2025 was $21 million as compared to benefit of $7 million for the three months ended September 30, 2024. The Company’s effective income tax rates for the three months ended September 30, 2025 and 2024 were provision of 50.0% and benefit of 3.4% respectively. The increase in the tax rate is primarily due to a decrease in discrete benefits in the current period and lower forecasted pretax book income for 2025. In periods where forecasted pretax income is relatively low, the proportional impact of these items on the effective rate may be significant. See 
+Footnote 10 of the Notes to Unaudited Condensed Consolidated Financial Statements
+ for further information. 
+
+Business Segment Operating Results 
+Home and Commercial Solutions
+Three Months Ended September 30,
+(in millions)
+2025
+2024
+$ Change
+% Change
+Net sales
+$
+942 
+$
+1,047 
+$
+(105)
+(10.0)%
+Operating income (loss)
+40 
+(94)
+134 
+NM
+Operating margin
+4.2 
+%
+(9.0)
+%
+NM - NOT MEANINGFUL
+H&CS net sales for the three months ended September 30, 2025 decreased 10%. The net sales decrease in H&CS was driven by soft global demand in the Kitchen business and distribution losses in the Commercial business, as well as the timing of retailer orders for relaunched Home Fragrance products and a decrease in the Company’s retail store sales. In addition, business exits primarily in the Kitchen business unfavorably impacted net sales by approximately 1%. These unfavorable factors were partially mitigated by launches of product innovations. Changes in foreign currency favorably impacted net sales by approximately $5 
+26
+Table of Contents
+million, or less than 1%.
+Operating income for the three months ended September 30, 2025 was $40 million as compared to operating loss of $94 million in the prior year. The improvement in operating results is primarily due to the absence of $190 million of non-cash impairment charge for an indefinite-lived tradename in the prior year and savings from restructuring actions mostly related to the Realignment Plan, partially offset by lower gross profit of $53 million, primarily due to the impact of lower sales volume, additional tariffs and inflation. 
+Learning and Development 
+Three Months Ended September 30,
+(in millions)
+2025
+2024
+$ Change
+% Change
+Net sales
+$
+681 
+$
+717 
+$
+(36)
+(5.0)%
+Operating income
+124 
+75 
+49 
+65.3%
+Operating margin
+18.2 
+%
+10.5 
+%
+L&D net sales for the three months ended September 30, 2025 decreased 5%. Net sales in the Writing business decreased primarily due to softer international demand and to a lesser extent, a shift of certain order activity to the second quarter, partially offset by contributions from launches of product innovations. Net sales in the Baby business declined primarily due to retailer inventory actions, including delivery preferences shifting away from direct import, partially offset by contributions from launches of product innovations. Changes in foreign currency favorably impacted net sales by approximately $4 million, or 1%.
+Operating income for the three months ended September 30, 2025 increased to $124 million as compared to $75 million in the prior-year period. The increase in operating income is primarily due to the absence of $70 million of non-cash impairment charge for an indefinite-lived tradename in the prior year as well as savings from restructuring actions primarily related to the Realignment Plan. These favorable drivers were partially offset by lower gross profit of $19 million, reflecting the impact of lower net sales, additional tariffs and inflation. 
+Outdoor and Recreation 
+Three Months Ended September 30,
+(in millions)
+2025
+2024
+$ Change
+% Change
+Net sales
+$
+183 
+$
+183 
+$
+— 
+—%
+Operating loss
+(8)
+(23)
+15 
+65.2%
+Operating margin
+(4.4)
+%
+(12.6)
+%
+O&R net sales for the three months ended September 30, 2025 remained relatively unchanged compared to the same period last year, as soft global demand and business exits were partially offset by contributions from product innovations. Changes in foreign currency favorably impacted net sales by approximately $2 million, or 1%.
+Operating loss for the three months ended September 30, 2025 was $8 million as compared to $23 million in the prior-year period. The improvement in operating performance was mainly due to higher gross profit of $9 million driven primarily by gross productivity, pricing actions and mix. Savings from restructuring actions also contributed to the improvement in operating performance.
+27
+Table of Contents
+Results of Operations
+Nine Months Ended September 30, 2025 vs. Nine Months Ended September 30, 2024
+Consolidated Operating Results
+Nine Months Ended September 30,
+(in millions)
+2025
+2024
+$ Change
+% Change
+Net sales
+$
+5,307 
+$
+5,633 
+$
+(326)
+(5.8)%
+Gross profit
+1,804 
+1,882 
+(78)
+(4.1)%
+Gross margin
+34.0 
+%
+33.4 
+%
+Operating income
+311
+
+58
+
+253
+
+NM
+Operating margin
+5.9 
+%
+1.0 
+%
+Interest expense, net
+237 
+223 
+14 
+6.3%
+Loss on extinguishment and modification of debt
+13 
+1 
+12 
+NM
+Other expense, net
+3 
+15 
+(12)
+(80.0)%
+Income (loss) before income taxes
+58
+
+(181)
+239
+
+NM
+Income tax provision (benefit)
+28 
+(19)
+47 
+NM
+Income tax rate
+48.3 
+%
+10.5 
+%
+Net income (loss)
+$
+30
+
+$
+(162)
+$
+192
+
+NM
+Diluted earnings (loss) per share
+$
+0.07
+
+$
+(0.39)
+NM - NOT MEANINGFUL
+Net sales for the nine months ended September 30, 2025 decreased approximately 6%. Net sales were unfavorably impacted by soft global demand across all segments. Business exits, primarily in the H&CS segment also unfavorably impacted net sales. In addition, net sales were also unfavorably impacted by reduced retailer inventory levels primarily in the L&D segment. These unfavorable factors were partially mitigated by launches of product innovations in the H&CS and L&D segments and to a lesser extent in the O&R segment. Changes in foreign currency unfavorably impacted net sales by $37 million, or 1%.
+Gross profit decreased by approximately $78 million, or 4% compared to the prior year. Gross margin improved to 34.0% as compared with 33.4% in the prior year. The improvement in gross margin was driven by gross productivity, pricing and lower restructuring-related charges of approximately $24 million, partially offset by the volume impact of lower sales, additional tariffs of approximately $65 million and inflation. Changes in foreign currency exchange rates unfavorably impacted gross profit by $6 million, or less than 1%.  
+Notable items, other than those noted above, impacting operating income for the nine months ended September 30, 2025 and 2024 were as follows (in millions):
+Nine Months Ended September 30,
+2025
+2024
+$ Change
+Impairment of intangible assets 
+(1)
+$
+— 
+$
+260 
+$
+(260)
+Restructuring and restructuring-related costs  
+(2) 
+45 
+87 
+(42)
+Transaction costs and other  
+(3)
+15 
+7 
+8 
+(1)
+The nine months ended September 30, 2024 includes non-cash impairment charges of $190 million and $70 million for certain indefinite-lived tradenames in the H&CS and L&D segments, respectively. See 
+Footnote 6 of the Notes to Unaudited Condensed Consolidated Financial Statements 
+for further information.
+(2)
+For the nine months ended September 30, 2025, restructuring-related costs reported in cost of products sold and SG&A were $4 million and $19 million, respectively, and primarily relate to facility closures associated with various discrete initiatives as well as previously announced but substantially completed restructuring activities. For the nine months ended September 30, 2024, restructuring-related costs reported in cost of products sold, SG&A and impairment of other assets were $28 million, $13 million and $6 million, respectively, primarily related to facility closures associated with previously disclosed Network Optimization Project and Project Phoenix, as well as the Realignment Plan and other discrete initiatives. Restructuring costs were $22 million and $40 million for the nine months ended September 30, 2025 and 2024, respectively, primarily related to the Realignment Plan. See 
+Footnote 3 of the Notes to Unaudited Condensed Consolidated Financial Statements 
+for further information.
+28
+Table of Contents
+(3)
+Transaction costs and other for the nine months ended September 30, 2025 includes expenses for certain legal proceedings and completed divestitures, costs of a product recall (see 
+Footnote 14 of the Notes to Unaudited Condensed Consolidated Financial Statements 
+for further information), fire-related losses and hyperinflationary currency movements. For the nine months ended September 30, 2024 transaction and other costs primarily related to a release of a bad debt reserve due to a recovery of a receivable from an international customer, hyperinflationary currency movements and accelerated amortization and write-off of other assets associated with integration projects.
+Operating income was $311 million as compared to $58 million in the prior year period. The operating results in the prior year period included non-cash impairment charges of $260 million for certain indefinite-lived tradenames in the H&CS and L&D segments. The improvement also reflects the impact of savings from restructuring actions primarily related to the Realignment Plan, lower incentive compensation expense of approximately $53 million, lower restructuring and restructuring-related charges of $18 million and lower amortization of tradenames of $5 million, partially offset by lower gross profit of $78 million and higher advertising and promotion costs of $5 million.
+Interest expense, net increased by $14 million due to higher interest rates and lower interest income. The weighted average interest rates for the nine months ended September 30, 2025 and 2024 were approximately 6.3% and 5.8%, respectively. 
+The loss on extinguishment of debt of $13 million is related to the redemption of the Company’s 4.200% senior notes due 2026 (the “2026 Notes”) during June 2025. 
+See 
+Footnote 8 of the Notes to Unaudited Condensed Consolidated Financial Statements
+ for further information on interest expense and loss on extinguishment of debt.
+Other expense, net for nine months ended September 30, 2025 and 2024 includes the following items (in millions):
+Nine Months Ended September 30,
+2025
+2024
+Foreign exchange losses, net
+$
+8 
+$
+8 
+Gain on disposition of businesses and investments
+(12)
+(1)
+Discount on factored receivables and other, net
+7 
+8 
+$
+3
+
+$
+15
+
+During the nine months ended September 30, 2025, the Company sold its equity interest in a joint venture and realized a pretax gain of $12 million.  
+The income tax provision for the nine months ended September 30, 2025 was $28 million as compared to benefit of $19 million for the nine months ended September 30, 2024. The Company’s effective income tax rates for the nine months ended September 30, 2025 and 2024 were provision of 48.3% and benefit of 10.5% respectively. The increase in the tax rate was primarily driven by decrease in discrete benefits in the current year and lower forecasted pretax book income for 2025. In periods where forecasted pretax income is relatively low, the proportional impact of these items on the effective rate may be significant. See 
+Footnote 10 of the Notes to Unaudited Condensed Consolidated Financial Statements
+ for further information. 
+
+Business Segment Operating Results 
+Home and Commercial Solutions
+Nine Months Ended September 30,
+(in millions)
+2025
+2024
+$ Change
+% Change
+Net sales
+$
+2,646 
+$
+2,902 
+$
+(256)
+(8.8)%
+Operating income (loss)
+62 
+(30)
+92 
+NM
+Operating margin
+2.3 
+%
+(1.0)
+%
+NM - NOT MEANINGFUL
+29
+Table of Contents
+H&CS net sales for the nine months ended September 30, 2025 decreased 9%, which reflected soft global demand across all businesses. In addition, net sales were unfavorably impacted by distribution losses in the Commercial business, as well as the timing of retailer orders for relaunched Home Fragrance products and a decrease in the Company’s retail store sales. Business exits also unfavorably impacted net sales by approximately 1%. These unfavorable factors were partially mitigated by launches of product innovations. Changes in foreign currency unfavorably impacted net sales by $32 million, or 1%.
+Operating income for the nine months ended September 30, 2025 was $62 million as compared to operating loss of $30 million in the prior year. The improvement in operating results is primarily due to the absence of $190 million of non-cash impairment charge for an indefinite-lived tradename in the prior year and savings from restructuring actions mostly related to the Realignment Plan. These favorable drivers were partially offset by lower gross profit of $87 million, resulting from unfavorable fixed cost leverage associated with lower sales volume, additional tariffs and inflation, partially offset by gross productivity. 
+Learning and Development 
+Nine Months Ended September 30,
+(in millions)
+2025
+2024
+$ Change
+% Change
+Net sales
+$
+2,062 
+$
+2,089 
+$
+(27)
+(1.3)%
+Operating income
+424 
+374 
+50 
+13.4%
+Operating margin
+20.6 
+%
+17.9 
+%
+L&D net sales for the nine months ended September 30, 2025 decreased approximately 1%. Net sales in the Writing business decreased primarily due to softer demand, which was partially offset by contributions from launches of product innovations. Changes in foreign currency unfavorably impacted net sales by $6 million, or less than 1%.
+Operating income for the nine months ended September 30, 2025 increased to $424 million as compared to $374 million in the prior-year period. The increase in operating income is primarily due to the absence of $70 million of non-cash impairment charge for an indefinite-lived tradename in the prior year as well as savings from restructuring actions primarily related to the Realignment Plan. These favorable drivers were partially offset by lower gross profit of approximately $19 million, primarily due to additional tariffs and inflation, partially offset by gross productivity and pricing.
+Outdoor and Recreation 
+Nine Months Ended September 30,
+(in millions)
+2025
+2024
+$ Change
+% Change
+Net sales
+$
+599 
+$
+642 
+$
+(43)
+(6.7)%
+Operating loss
+(5)
+(52)
+47 
+90.4%
+Operating margin
+(0.8)
+%
+(8.1)
+%
+O&R net sales for the nine months ended September 30, 2025 decreased 7% primarily due to net distribution losses, soft global demand and business exits. These declines were partially offset by contribution from launches of product innovation. Changes in foreign currency favorably impacted net sales by $1 million, or less than 1%.
+Operating loss for the nine months ended September 30, 2025 was $5 million as compared to $52 million in the prior-year period. The improvement in operating performance was due to higher gross profit of $28 million driven primarily by gross productivity, pricing actions and mix. Savings from restructuring actions and lower amortization of certain tradenames of approximately $5 million also contributed to the improvement of operating income.
+Liquidity and Capital Resources
+Liquidity
+The Company regularly assesses its cash requirements and the available sources to fund these needs. The Company believes the extent of the impact of this rapidly changing retail and consumer landscape, which reflects major retailers’ focus on tight control over their inventory levels, fluctuating interest rates and indirect macroeconomic impacts from geopolitical conflicts as well as recently imposed tariffs by the current U.S. presidential administration, including those most recently announced reciprocal 
+30
+Table of Contents
+tariffs, some of which are currently delayed, and countries’ retaliatory actions in response to such tariffs, will continue to be driven by numerous evolving factors the Company cannot accurately predict and which will vary. 
+For further information, refer to 
+Risk Factors in Part I - Item 1A and Recent Developments in Part II - Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operation
+s of the Company's most recent Annual Report on Form 10-K, filed on February 14, 2025.
+At September 30, 2025, the Company had cash and cash equivalents of approximately $229 million, of which approximately $205 million was held by the Company’s non-U.S. subsidiaries. 
+Cash, cash equivalents and restricted cash increased (decreased) as follows for the nine months ended September 30, 2025 and 2024 (in millions): 
+2025
+2024
+Increase (Decrease)
+Cash provided by operating activities
+$
+103 
+$
+346 
+$
+(243)
+Cash used in investing activities
+(115)
+(107)
+(8)
+Cash provided by (used in) financing activities
+59 
+(64)
+123 
+Exchange rate effect on cash, cash equivalents and restricted cash
+3 
+(15)
+18 
+Increase in cash, cash equivalents and restricted cash
+$
+50
+
+$
+160
+
+$
+(110)
+The Company has historically generated the majority of its operating cash flow in the third and fourth quarters of the year due to seasonal variations in operating results, the timing of annual performance-based compensation payments, customer program payments, working capital requirements and credit terms provided to customers. 
+Cash Flows from Operating Activities
+The change in net cash provided by operating activities reflects higher working capital requirements of the Company due to lapping of prior year reductions, the cash impact of additional tariffs and higher incentive compensation payments in the current year, partially offset by lower restructuring payments. 
+Cash Flows from Investing Activities
+The change in net cash used in investing activities was primarily due to $14 million increase in capital expenditures, partially offset by higher proceeds from the sale of divested businesses and investments. 
+Cash Flows from Financing Activities
+The change in net cash provided by financing activities was primarily due to higher utilization of the Credit Revolver (defined hereafter) during the current period. 
+See
+ Footnote 8 of the Notes to the Unaudited Condensed Consolidated Financial Statements
+ for further information.
+Capital Resources
+Credit Revolver
+The Company maintains a $1.00 billion senior secured revolving credit facility (the “Credit Revolver”) maturing in August 2027. Under the Credit Revolver, the Company may borrow funds on a variety of interest terms. The Credit Revolver agreement (i) requires the Company to satisfy financial covenants testing the Company’s Collateral Coverage Ratio and Total Net Leverage Ratio (each further defined in the Credit Revolver, as amended), (ii) requires the Company and certain of its domestic and foreign subsidiaries (the “Guarantors”) to guaranty Company obligations under the Credit Revolver and (iii) requires the Company and other Guarantors to grant a lien and security interest in certain assets consisting of eligible accounts receivables, eligible inventory, eligible equipment and eligible intellectual property, and all products and proceeds of the foregoing, subject to certain limitations. Other than outstanding borrowings under the Credit Revolver, availability under the Credit Revolver is subject to change in accordance with the terms of the agreement, including in response to changes in the Company’s pledged collateral value or outstanding letters of credit under the Credit Revolver. At September 30, 2025, there was $932 million of availability 
+31
+Table of Contents
+under the Credit Revolver, based on the value of the pledged collateral and prior to giving effect to outstanding borrowings and letters of credit.
+The Credit Revolver provides for the issuance of up to $150 million of letters of credit, so long as there is sufficient availability for borrowing under the Credit Revolver. At September 30, 2025, the Company had approximately $35 million of outstanding standby letters of credit issued against the Credit Revolver and $190 million of outstanding borrowings under the Credit Revolver resulting in a net availability of approximately $707 million. 
+Senior Notes
+In May 2025, the Company completed the offering and sale of 8.500% senior notes due 2028. In June 2025, the Company used the proceeds of the offering to fully redeem its 2026 Notes. 
+Also during the second quarter of 2025, Moody’s and S&P downgraded the Company’s senior unsecured debt rating. As a result, certain of the Company’s outstanding senior notes were subject to interest rate adjustments, with such adjustments to take effect in the fourth quarter of this year. 
+See
+ Footnote 8 of the Notes to the Unaudited Condensed Consolidated Financial Statements 
+for further information. 
+The Company was in compliance with all of its debt covenants at September 30, 2025.
+Risk Management
+From time to time, the Company enters into derivative transactions to hedge its exposures to interest rate, foreign currency rate and commodity price fluctuations. The Company does not enter into derivative transactions for trading purposes. 
+See 
+Footnote 9
+
+of the Notes to Unaudited Condensed Consolidated Financial Statements
+
+for further information on the Company's derivative instruments.
+Significant Accounting Policies and Critical Estimates
+For further information on significant accounting policies and critical estimates, refer to the Company's most recent Annual Report on Form 10-K, filed on February 14, 2025 and 
+Footnote 1 
+of the Notes to Unaudited Condensed Consolidated Financial Statements 
+in this Quarterly Report on Form 10-Q. 
+Item 3. Quantitative and Qualitative Disclosures about Market Risk
+There have been no material changes from the information previously reported under 
+Part II, Item 7A.
+ in the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2024.
+Item 4. Controls and Procedures
+The Company maintains disclosure controls and procedures that are designed to provide reasonable assurance that information which is required to be disclosed by the issuer in the reports that it files or submits under the Securities Exchange Act of 1934, as amended (the “Exchange Act”), is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms, and that such information is accumulated and communicated to management, including its Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure. In designing and evaluating such controls and procedures, the Company recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives. 
+As required by Rule 13a-15(b) of the Exchange Act, the Company’s management, including the Company’s Chief Executive Officer and Chief Financial Officer, have evaluated the effectiveness of the Company’s disclosure controls and procedures as of the end of the period covered by this Quarterly Report. Based on that evaluation, the Company’s Chief Executive Officer and Chief Financial Officer have concluded that the Company’s disclosure controls and procedures were effective as of September 30, 2025.
+32
+Table of Contents
+Changes in Internal Control Over Financial Reporting
+There have been no changes in the Company’s internal control over financial reporting during the quarter ended September 30, 2025, that have materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
+PART II. OTHER INFORMATION
+Item 1. Legal Proceedings
+Information required under this Item is contained above in Part I. Financial Information, Item 1 and is incorporated herein by reference.
+Item 1A. Risk Factors
+There have been no material changes in our risk factors from those disclosed in 
+Part I, Item 1A.
+ of the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2024.
+Item 2. Unregistered Sales of Equity Securities, Use of Proceeds and Issuer Purchases of Equity Securities
+Issuer Purchases of Equity Securities
+The following table provides information about the Company’s purchases of equity securities during the three months ended September 30, 2025: 
+Calendar Month
+Total Number
+of Shares
+Purchased
+ (1)
+Average
+Price Paid
+Per Share
+Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs
+Maximum
+Approximate Dollar Value of
+Shares that May Yet Be Purchased
+Under the Plans or Programs
+July
+708,676 
+$
+5.84 
+— 
+$
+— 
+August
+— 
+— 
+— 
+— 
+September
+33,799 
+5.92 
+— 
+— 
+Total
+742,475
+
+$
+5.84
+
+—
+
+(1)
+Shares purchased during the three months ended September 30, 2025 were acquired by the Company based on their fair market value on the vesting date in order to satisfy employees’ tax withholding and payment obligations in connection with the vesting of awards of restricted stock units. 
+Item 5. Other Information
+None of the Company’s directors and officers 
+adopted
+, modified or 
+terminated
+ a Rule 10b5-1 trading arrangement or a non-Rule 10b5-1 trading arrangement during the Company’s fiscal quarter ended September 30, 2025.
+33
+Table of Contents
+Item 6. Exhibits                 
+Exhibit Number
+Description of Exhibit
+ITEM 31 — RULE 13a-14(a)/15d-14(a) CERTIFICATIONS
+31.1†
+Certification of Chief Executive Officer Pursuant to Rule 13a-14(a) or Rule 15d-14(a), as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+31.2†
+Certification of Chief Financial Officer Pursuant to Rule 13a-14(a) or Rule 15d-14(a), as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+ITEM 32 — SECTION 1350 CERTIFICATIONS
+32.1†
+Certification of Chief Executive Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+32.2†
+Certification of Chief Financial Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+ITEM 101 — INTERACTIVE DATA FILE
+101.SCH
+XBRL Taxonomy Extension Schema
+101.CAL
+XBRL Taxonomy Extension Calculation Linkbase
+101.DEF
+XBRL Taxonomy Extension Definition Linkbase
+101.LAB
+XBRL Taxonomy Extension Label Linkbase
+101.PRE
+XBRL Taxonomy Extension Presentation Linkbase
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101).
+†
+ Filed herewith.
+* 
+Represents management contracts and compensatory plans and arrangements.
+34
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+NEWELL BRANDS INC.
+Registrant
+Date:
+October 31, 2025
+/s/ Mark J. Erceg       
+
+Mark J. Erceg
+Chief Financial Officer
+Date:
+October 31, 2025
+/s/ Robert A. Schmidt
+Robert A. Schmidt
+Chief Accounting Officer
+35

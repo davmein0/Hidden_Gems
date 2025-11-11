@@ -1,0 +1,5447 @@
+midd-20250927
+0000769520
+1/3
+2025
+Q3
+FALSE
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+xbrli:pure
+0000769520
+2024-12-29
+2025-09-27
+0000769520
+2025-11-03
+0000769520
+2025-09-27
+0000769520
+2024-12-28
+0000769520
+2025-06-29
+2025-09-27
+0000769520
+2024-06-30
+2024-09-28
+0000769520
+2023-12-31
+2024-09-28
+0000769520
+midd:UnitedStatesAndCanadaMember
+2024-06-30
+2024-09-28
+0000769520
+us-gaap:CommonStockMember
+2025-06-28
+0000769520
+us-gaap:AdditionalPaidInCapitalMember
+2025-06-28
+0000769520
+us-gaap:TreasuryStockCommonMember
+2025-06-28
+0000769520
+us-gaap:RetainedEarningsMember
+2025-06-28
+0000769520
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-06-28
+0000769520
+2025-06-28
+0000769520
+us-gaap:CommonStockMember
+2025-06-29
+2025-09-27
+0000769520
+us-gaap:AdditionalPaidInCapitalMember
+2025-06-29
+2025-09-27
+0000769520
+us-gaap:TreasuryStockCommonMember
+2025-06-29
+2025-09-27
+0000769520
+us-gaap:RetainedEarningsMember
+2025-06-29
+2025-09-27
+0000769520
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-06-29
+2025-09-27
+0000769520
+us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember
+2025-06-29
+2025-09-27
+0000769520
+us-gaap:CommonStockMember
+2025-09-27
+0000769520
+us-gaap:AdditionalPaidInCapitalMember
+2025-09-27
+0000769520
+us-gaap:TreasuryStockCommonMember
+2025-09-27
+0000769520
+us-gaap:RetainedEarningsMember
+2025-09-27
+0000769520
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-09-27
+0000769520
+us-gaap:CommonStockMember
+2024-12-28
+0000769520
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-28
+0000769520
+us-gaap:TreasuryStockCommonMember
+2024-12-28
+0000769520
+us-gaap:RetainedEarningsMember
+2024-12-28
+0000769520
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-28
+0000769520
+us-gaap:CommonStockMember
+2024-12-29
+2025-09-27
+0000769520
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-29
+2025-09-27
+0000769520
+us-gaap:TreasuryStockCommonMember
+2024-12-29
+2025-09-27
+0000769520
+us-gaap:RetainedEarningsMember
+2024-12-29
+2025-09-27
+0000769520
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-29
+2025-09-27
+0000769520
+us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember
+2024-12-29
+2025-09-27
+0000769520
+us-gaap:CommonStockMember
+2024-06-29
+0000769520
+us-gaap:AdditionalPaidInCapitalMember
+2024-06-29
+0000769520
+us-gaap:TreasuryStockCommonMember
+2024-06-29
+0000769520
+us-gaap:RetainedEarningsMember
+2024-06-29
+0000769520
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-06-29
+0000769520
+2024-06-29
+0000769520
+us-gaap:CommonStockMember
+2024-06-30
+2024-09-28
+0000769520
+us-gaap:AdditionalPaidInCapitalMember
+2024-06-30
+2024-09-28
+0000769520
+us-gaap:TreasuryStockCommonMember
+2024-06-30
+2024-09-28
+0000769520
+us-gaap:RetainedEarningsMember
+2024-06-30
+2024-09-28
+0000769520
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-06-30
+2024-09-28
+0000769520
+us-gaap:CommonStockMember
+2024-09-28
+0000769520
+us-gaap:AdditionalPaidInCapitalMember
+2024-09-28
+0000769520
+us-gaap:TreasuryStockCommonMember
+2024-09-28
+0000769520
+us-gaap:RetainedEarningsMember
+2024-09-28
+0000769520
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-09-28
+0000769520
+2024-09-28
+0000769520
+us-gaap:CommonStockMember
+2023-12-30
+0000769520
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-30
+0000769520
+us-gaap:TreasuryStockCommonMember
+2023-12-30
+0000769520
+us-gaap:RetainedEarningsMember
+2023-12-30
+0000769520
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-12-30
+0000769520
+2023-12-30
+0000769520
+us-gaap:CommonStockMember
+2023-12-31
+2024-09-28
+0000769520
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-31
+2024-09-28
+0000769520
+us-gaap:TreasuryStockCommonMember
+2023-12-31
+2024-09-28
+0000769520
+us-gaap:RetainedEarningsMember
+2023-12-31
+2024-09-28
+0000769520
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-12-31
+2024-09-28
+0000769520
+us-gaap:FairValueInputsLevel1Member
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-27
+0000769520
+us-gaap:FairValueInputsLevel2Member
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-27
+0000769520
+us-gaap:FairValueInputsLevel3Member
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-27
+0000769520
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:InterestRateSwapMember
+2025-09-27
+0000769520
+us-gaap:FairValueInputsLevel1Member
+midd:ContingentConsiderationMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-27
+0000769520
+us-gaap:FairValueInputsLevel2Member
+midd:ContingentConsiderationMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-27
+0000769520
+us-gaap:FairValueInputsLevel3Member
+midd:ContingentConsiderationMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-27
+0000769520
+us-gaap:FairValueMeasurementsRecurringMember
+midd:ContingentConsiderationMember
+2025-09-27
+0000769520
+us-gaap:FairValueInputsLevel1Member
+us-gaap:ForeignExchangeForwardMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-27
+0000769520
+us-gaap:FairValueInputsLevel2Member
+us-gaap:ForeignExchangeForwardMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-27
+0000769520
+us-gaap:FairValueInputsLevel3Member
+us-gaap:ForeignExchangeForwardMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-27
+0000769520
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:ForeignExchangeForwardMember
+2025-09-27
+0000769520
+us-gaap:FairValueInputsLevel1Member
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-28
+0000769520
+us-gaap:FairValueInputsLevel2Member
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-28
+0000769520
+us-gaap:FairValueInputsLevel3Member
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-28
+0000769520
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:InterestRateSwapMember
+2024-12-28
+0000769520
+us-gaap:FairValueInputsLevel1Member
+midd:ContingentConsiderationMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-28
+0000769520
+us-gaap:FairValueInputsLevel2Member
+midd:ContingentConsiderationMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-28
+0000769520
+us-gaap:FairValueInputsLevel3Member
+midd:ContingentConsiderationMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-28
+0000769520
+us-gaap:FairValueMeasurementsRecurringMember
+midd:ContingentConsiderationMember
+2024-12-28
+0000769520
+us-gaap:FairValueInputsLevel1Member
+us-gaap:ForeignExchangeForwardMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-28
+0000769520
+us-gaap:FairValueInputsLevel2Member
+us-gaap:ForeignExchangeForwardMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-28
+0000769520
+us-gaap:FairValueInputsLevel3Member
+us-gaap:ForeignExchangeForwardMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-28
+0000769520
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:ForeignExchangeForwardMember
+2024-12-28
+0000769520
+2025-09-01
+2025-09-01
+0000769520
+2025-09-01
+0000769520
+midd:A2024AcquisitionsMember
+srt:ScenarioPreviouslyReportedMember
+2025-09-27
+0000769520
+midd:A2024AcquisitionsMember
+us-gaap:ScenarioAdjustmentMember
+2025-09-27
+0000769520
+midd:A2024AcquisitionsMember
+2025-09-27
+0000769520
+midd:A2024AcquisitionsMember
+midd:TradenamesAndTrademarksMember
+2025-09-27
+0000769520
+midd:A2024AcquisitionsMember
+us-gaap:CustomerRelationshipsMember
+2025-09-27
+0000769520
+midd:A2024AcquisitionsMember
+us-gaap:DevelopedTechnologyRightsMember
+2025-09-27
+0000769520
+midd:A2024AcquisitionsMember
+us-gaap:OrderOrProductionBacklogMember
+2025-09-27
+0000769520
+midd:A2024AcquisitionsMember
+us-gaap:CustomerRelationshipsMember
+srt:MinimumMember
+2024-12-29
+2025-09-27
+0000769520
+midd:A2024AcquisitionsMember
+us-gaap:CustomerRelationshipsMember
+srt:MaximumMember
+2024-12-29
+2025-09-27
+0000769520
+midd:A2024AcquisitionsMember
+us-gaap:DevelopedTechnologyRightsMember
+2024-12-29
+2025-09-27
+0000769520
+midd:A2024AcquisitionsMember
+us-gaap:DevelopedTechnologyRightsMember
+srt:MinimumMember
+2024-12-29
+2025-09-27
+0000769520
+midd:A2024AcquisitionsMember
+us-gaap:DevelopedTechnologyRightsMember
+srt:MaximumMember
+2024-12-29
+2025-09-27
+0000769520
+midd:A2024AcquisitionsMember
+midd:FoodProcessingGroupMember
+2025-09-27
+0000769520
+midd:A2024AcquisitionsMember
+midd:CommercialFoodserviceEquipmentGroupMember
+2025-09-27
+0000769520
+midd:A2025AcquisitionsMember
+srt:ScenarioPreviouslyReportedMember
+2025-09-27
+0000769520
+midd:A2025AcquisitionsDomain
+2025-09-27
+0000769520
+midd:A2025AcquisitionsDomain
+midd:BookAndTaxDifferenceIdentifiableIntangibleAssetsMember
+2025-09-27
+0000769520
+midd:A2025AcquisitionsDomain
+midd:BookAndTaxDifferenceIdentifiableTangibleAssetsAndLiabilitiesMember
+2025-09-27
+0000769520
+midd:A2025AcquisitionsMember
+midd:TradenamesAndTrademarksMember
+2025-09-27
+0000769520
+midd:A2025AcquisitionsMember
+us-gaap:CustomerRelationshipsMember
+2025-09-27
+0000769520
+midd:A2025AcquisitionsMember
+us-gaap:DevelopedTechnologyRightsMember
+2025-09-27
+0000769520
+midd:A2025AcquisitionsMember
+us-gaap:OrderOrProductionBacklogMember
+2025-09-27
+0000769520
+midd:A2025AcquisitionsMember
+us-gaap:CustomerRelationshipsMember
+srt:MinimumMember
+2024-12-29
+2025-09-27
+0000769520
+midd:A2025AcquisitionsMember
+us-gaap:DevelopedTechnologyRightsMember
+srt:MinimumMember
+2024-12-29
+2025-09-27
+0000769520
+midd:A2025AcquisitionsMember
+us-gaap:OrderOrProductionBacklogMember
+srt:MinimumMember
+2024-12-29
+2025-09-27
+0000769520
+midd:A2025AcquisitionsMember
+midd:FoodProcessingGroupMember
+2025-09-27
+0000769520
+midd:A2025AcquisitionsMember
+2025-09-27
+0000769520
+midd:UnitedStatesAndCanadaMember
+midd:CommercialFoodserviceEquipmentGroupMember
+2025-06-29
+2025-09-27
+0000769520
+midd:UnitedStatesAndCanadaMember
+midd:FoodProcessingGroupMember
+2025-06-29
+2025-09-27
+0000769520
+midd:UnitedStatesAndCanadaMember
+midd:ResidentialKitchenMember
+2025-06-29
+2025-09-27
+0000769520
+midd:UnitedStatesAndCanadaMember
+2025-06-29
+2025-09-27
+0000769520
+srt:AsiaMember
+midd:CommercialFoodserviceEquipmentGroupMember
+2025-06-29
+2025-09-27
+0000769520
+srt:AsiaMember
+midd:FoodProcessingGroupMember
+2025-06-29
+2025-09-27
+0000769520
+srt:AsiaMember
+midd:ResidentialKitchenMember
+2025-06-29
+2025-09-27
+0000769520
+srt:AsiaMember
+2025-06-29
+2025-09-27
+0000769520
+midd:EuropeAndMiddleEastMember
+midd:CommercialFoodserviceEquipmentGroupMember
+2025-06-29
+2025-09-27
+0000769520
+midd:EuropeAndMiddleEastMember
+midd:FoodProcessingGroupMember
+2025-06-29
+2025-09-27
+0000769520
+midd:EuropeAndMiddleEastMember
+midd:ResidentialKitchenMember
+2025-06-29
+2025-09-27
+0000769520
+midd:EuropeAndMiddleEastMember
+2025-06-29
+2025-09-27
+0000769520
+srt:LatinAmericaMember
+midd:CommercialFoodserviceEquipmentGroupMember
+2025-06-29
+2025-09-27
+0000769520
+srt:LatinAmericaMember
+midd:FoodProcessingGroupMember
+2025-06-29
+2025-09-27
+0000769520
+srt:LatinAmericaMember
+midd:ResidentialKitchenMember
+2025-06-29
+2025-09-27
+0000769520
+srt:LatinAmericaMember
+2025-06-29
+2025-09-27
+0000769520
+midd:CommercialFoodserviceEquipmentGroupMember
+2025-06-29
+2025-09-27
+0000769520
+midd:FoodProcessingGroupMember
+2025-06-29
+2025-09-27
+0000769520
+midd:ResidentialKitchenMember
+2025-06-29
+2025-09-27
+0000769520
+midd:UnitedStatesAndCanadaMember
+midd:CommercialFoodserviceEquipmentGroupMember
+2024-12-29
+2025-09-27
+0000769520
+midd:UnitedStatesAndCanadaMember
+midd:FoodProcessingGroupMember
+2024-12-29
+2025-09-27
+0000769520
+midd:UnitedStatesAndCanadaMember
+midd:ResidentialKitchenMember
+2024-12-29
+2025-09-27
+0000769520
+midd:UnitedStatesAndCanadaMember
+2024-12-29
+2025-09-27
+0000769520
+srt:AsiaMember
+midd:CommercialFoodserviceEquipmentGroupMember
+2024-12-29
+2025-09-27
+0000769520
+srt:AsiaMember
+midd:FoodProcessingGroupMember
+2024-12-29
+2025-09-27
+0000769520
+srt:AsiaMember
+midd:ResidentialKitchenMember
+2024-12-29
+2025-09-27
+0000769520
+srt:AsiaMember
+2024-12-29
+2025-09-27
+0000769520
+midd:EuropeAndMiddleEastMember
+midd:CommercialFoodserviceEquipmentGroupMember
+2024-12-29
+2025-09-27
+0000769520
+midd:EuropeAndMiddleEastMember
+midd:FoodProcessingGroupMember
+2024-12-29
+2025-09-27
+0000769520
+midd:EuropeAndMiddleEastMember
+midd:ResidentialKitchenMember
+2024-12-29
+2025-09-27
+0000769520
+midd:EuropeAndMiddleEastMember
+2024-12-29
+2025-09-27
+0000769520
+srt:LatinAmericaMember
+midd:CommercialFoodserviceEquipmentGroupMember
+2024-12-29
+2025-09-27
+0000769520
+srt:LatinAmericaMember
+midd:FoodProcessingGroupMember
+2024-12-29
+2025-09-27
+0000769520
+srt:LatinAmericaMember
+midd:ResidentialKitchenMember
+2024-12-29
+2025-09-27
+0000769520
+srt:LatinAmericaMember
+2024-12-29
+2025-09-27
+0000769520
+midd:CommercialFoodserviceEquipmentGroupMember
+2024-12-29
+2025-09-27
+0000769520
+midd:FoodProcessingGroupMember
+2024-12-29
+2025-09-27
+0000769520
+midd:ResidentialKitchenMember
+2024-12-29
+2025-09-27
+0000769520
+midd:UnitedStatesAndCanadaMember
+midd:CommercialFoodserviceEquipmentGroupMember
+2024-06-30
+2024-09-28
+0000769520
+midd:UnitedStatesAndCanadaMember
+midd:FoodProcessingGroupMember
+2024-06-30
+2024-09-28
+0000769520
+midd:UnitedStatesAndCanadaMember
+midd:ResidentialKitchenMember
+2024-06-30
+2024-09-28
+0000769520
+midd:UnitedStatesAndCanadaMember
+2024-06-30
+2024-09-28
+0000769520
+srt:AsiaMember
+midd:CommercialFoodserviceEquipmentGroupMember
+2024-06-30
+2024-09-28
+0000769520
+srt:AsiaMember
+midd:FoodProcessingGroupMember
+2024-06-30
+2024-09-28
+0000769520
+srt:AsiaMember
+midd:ResidentialKitchenMember
+2024-06-30
+2024-09-28
+0000769520
+srt:AsiaMember
+2024-06-30
+2024-09-28
+0000769520
+midd:EuropeAndMiddleEastMember
+midd:CommercialFoodserviceEquipmentGroupMember
+2024-06-30
+2024-09-28
+0000769520
+midd:EuropeAndMiddleEastMember
+midd:FoodProcessingGroupMember
+2024-06-30
+2024-09-28
+0000769520
+midd:EuropeAndMiddleEastMember
+midd:ResidentialKitchenMember
+2024-06-30
+2024-09-28
+0000769520
+midd:EuropeAndMiddleEastMember
+2024-06-30
+2024-09-28
+0000769520
+srt:LatinAmericaMember
+midd:CommercialFoodserviceEquipmentGroupMember
+2024-06-30
+2024-09-28
+0000769520
+srt:LatinAmericaMember
+midd:FoodProcessingGroupMember
+2024-06-30
+2024-09-28
+0000769520
+srt:LatinAmericaMember
+midd:ResidentialKitchenMember
+2024-06-30
+2024-09-28
+0000769520
+srt:LatinAmericaMember
+2024-06-30
+2024-09-28
+0000769520
+midd:CommercialFoodserviceEquipmentGroupMember
+2024-06-30
+2024-09-28
+0000769520
+midd:FoodProcessingGroupMember
+2024-06-30
+2024-09-28
+0000769520
+midd:ResidentialKitchenMember
+2024-06-30
+2024-09-28
+0000769520
+midd:UnitedStatesAndCanadaMember
+midd:CommercialFoodserviceEquipmentGroupMember
+2023-12-31
+2024-09-28
+0000769520
+midd:UnitedStatesAndCanadaMember
+midd:FoodProcessingGroupMember
+2023-12-31
+2024-09-28
+0000769520
+midd:UnitedStatesAndCanadaMember
+midd:ResidentialKitchenMember
+2023-12-31
+2024-09-28
+0000769520
+midd:UnitedStatesAndCanadaMember
+2023-12-31
+2024-09-28
+0000769520
+srt:AsiaMember
+midd:CommercialFoodserviceEquipmentGroupMember
+2023-12-31
+2024-09-28
+0000769520
+srt:AsiaMember
+midd:FoodProcessingGroupMember
+2023-12-31
+2024-09-28
+0000769520
+srt:AsiaMember
+midd:ResidentialKitchenMember
+2023-12-31
+2024-09-28
+0000769520
+srt:AsiaMember
+2023-12-31
+2024-09-28
+0000769520
+midd:EuropeAndMiddleEastMember
+midd:CommercialFoodserviceEquipmentGroupMember
+2023-12-31
+2024-09-28
+0000769520
+midd:EuropeAndMiddleEastMember
+midd:FoodProcessingGroupMember
+2023-12-31
+2024-09-28
+0000769520
+midd:EuropeAndMiddleEastMember
+midd:ResidentialKitchenMember
+2023-12-31
+2024-09-28
+0000769520
+midd:EuropeAndMiddleEastMember
+2023-12-31
+2024-09-28
+0000769520
+srt:LatinAmericaMember
+midd:CommercialFoodserviceEquipmentGroupMember
+2023-12-31
+2024-09-28
+0000769520
+srt:LatinAmericaMember
+midd:FoodProcessingGroupMember
+2023-12-31
+2024-09-28
+0000769520
+srt:LatinAmericaMember
+midd:ResidentialKitchenMember
+2023-12-31
+2024-09-28
+0000769520
+srt:LatinAmericaMember
+2023-12-31
+2024-09-28
+0000769520
+midd:CommercialFoodserviceEquipmentGroupMember
+2023-12-31
+2024-09-28
+0000769520
+midd:FoodProcessingGroupMember
+2023-12-31
+2024-09-28
+0000769520
+midd:ResidentialKitchenMember
+2023-12-31
+2024-09-28
+0000769520
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-12-29
+2025-06-28
+0000769520
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2024-12-29
+2025-06-28
+0000769520
+us-gaap:InterestRateSwapMember
+2024-12-29
+2025-06-28
+0000769520
+2024-12-29
+2025-06-28
+0000769520
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-12-29
+2025-09-27
+0000769520
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2024-12-29
+2025-09-27
+0000769520
+us-gaap:InterestRateSwapMember
+2024-12-29
+2025-09-27
+0000769520
+us-gaap:AccumulatedTranslationAdjustmentMember
+2023-12-31
+2024-06-29
+0000769520
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2023-12-31
+2024-06-29
+0000769520
+us-gaap:InterestRateSwapMember
+2023-12-31
+2024-06-29
+0000769520
+2023-12-31
+2024-06-29
+0000769520
+us-gaap:AccumulatedTranslationAdjustmentMember
+2023-12-31
+2024-09-28
+0000769520
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2023-12-31
+2024-09-28
+0000769520
+us-gaap:InterestRateSwapMember
+2023-12-31
+2024-09-28
+0000769520
+midd:CommercialFoodserviceEquipmentGroupMember
+2024-12-28
+0000769520
+midd:FoodProcessingGroupMember
+2024-12-28
+0000769520
+midd:ResidentialKitchenMember
+2024-12-28
+0000769520
+midd:CommercialFoodserviceEquipmentGroupMember
+2025-09-27
+0000769520
+midd:FoodProcessingGroupMember
+2025-09-27
+0000769520
+midd:ResidentialKitchenMember
+2025-09-27
+0000769520
+midd:ResidentialKitchenMember
+2024-12-29
+2025-09-27
+0000769520
+us-gaap:CustomerListsMember
+2025-09-27
+0000769520
+us-gaap:CustomerListsMember
+2024-12-28
+0000769520
+us-gaap:OrderOrProductionBacklogMember
+2025-09-27
+0000769520
+us-gaap:OrderOrProductionBacklogMember
+2024-12-28
+0000769520
+us-gaap:DevelopedTechnologyRightsMember
+2025-09-27
+0000769520
+us-gaap:DevelopedTechnologyRightsMember
+2024-12-28
+0000769520
+midd:TradenamesAndTrademarksMember
+2025-09-27
+0000769520
+midd:TradenamesAndTrademarksMember
+2024-12-28
+0000769520
+midd:TradenamesAndTrademarksMember
+midd:ResidentialKitchenMember
+2024-12-29
+2025-09-27
+0000769520
+us-gaap:DevelopedTechnologyRightsMember
+midd:ResidentialKitchenMember
+2024-12-29
+2025-09-27
+0000769520
+midd:ForeignMember
+2025-09-27
+0000769520
+midd:ForeignMember
+2024-12-28
+0000769520
+us-gaap:RevolvingCreditFacilityMember
+2024-12-29
+2025-09-27
+0000769520
+midd:DebtExcludingConvertibleSeniorNotesMember
+2025-09-27
+0000769520
+midd:DebtExcludingConvertibleSeniorNotesMember
+2024-12-28
+0000769520
+us-gaap:ConvertibleDebtMember
+2020-08-21
+0000769520
+us-gaap:ConvertibleDebtMember
+2024-12-28
+0000769520
+us-gaap:ConvertibleDebtMember
+2025-06-29
+2025-09-27
+0000769520
+us-gaap:ConvertibleDebtMember
+2024-06-30
+2024-09-28
+0000769520
+us-gaap:ConvertibleDebtMember
+2024-12-29
+2025-09-27
+0000769520
+us-gaap:ConvertibleDebtMember
+2023-12-31
+2024-09-28
+0000769520
+midd:A2021CappedCallTransactionOneMember
+2024-12-29
+2025-09-27
+0000769520
+midd:A2022CappedCallTransactionMember
+2024-12-29
+2025-09-27
+0000769520
+midd:A2021CappedCallTransactionOneMember
+us-gaap:ConvertibleDebtMember
+2021-12-16
+0000769520
+midd:A2021CappedCallTransactionTwoMember
+us-gaap:ConvertibleDebtMember
+2021-12-22
+0000769520
+midd:A2022CappedCallTransactionMember
+us-gaap:ConvertibleDebtMember
+2022-03-22
+0000769520
+us-gaap:ForeignExchangeForwardMember
+2025-09-27
+0000769520
+us-gaap:ForeignExchangeForwardMember
+2024-12-28
+0000769520
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+us-gaap:InterestRateSwapMember
+2025-09-27
+0000769520
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+us-gaap:InterestRateSwapMember
+2024-12-28
+0000769520
+us-gaap:OtherNoncurrentAssetsMember
+us-gaap:InterestRateSwapMember
+2025-09-27
+0000769520
+us-gaap:OtherNoncurrentAssetsMember
+us-gaap:InterestRateSwapMember
+2024-12-28
+0000769520
+us-gaap:OtherComprehensiveIncomeMember
+us-gaap:InterestRateSwapMember
+2025-06-29
+2025-09-27
+0000769520
+us-gaap:OtherComprehensiveIncomeMember
+us-gaap:InterestRateSwapMember
+2024-06-30
+2024-09-28
+0000769520
+us-gaap:OtherComprehensiveIncomeMember
+us-gaap:InterestRateSwapMember
+2024-12-29
+2025-09-27
+0000769520
+us-gaap:OtherComprehensiveIncomeMember
+us-gaap:InterestRateSwapMember
+2023-12-31
+2024-09-28
+0000769520
+us-gaap:InterestExpenseMember
+us-gaap:InterestRateSwapMember
+2025-06-29
+2025-09-27
+0000769520
+us-gaap:InterestExpenseMember
+us-gaap:InterestRateSwapMember
+2024-06-30
+2024-09-28
+0000769520
+us-gaap:InterestExpenseMember
+us-gaap:InterestRateSwapMember
+2024-12-29
+2025-09-27
+0000769520
+us-gaap:InterestExpenseMember
+us-gaap:InterestRateSwapMember
+2023-12-31
+2024-09-28
+0000769520
+us-gaap:CorporateAndOtherMember
+2025-06-29
+2025-09-27
+0000769520
+us-gaap:CorporateAndOtherMember
+2024-12-29
+2025-09-27
+0000769520
+us-gaap:CorporateAndOtherMember
+2025-09-27
+0000769520
+us-gaap:CorporateAndOtherMember
+2024-06-30
+2024-09-28
+0000769520
+us-gaap:CorporateAndOtherMember
+2023-12-31
+2024-09-28
+0000769520
+midd:CommercialFoodserviceEquipmentGroupMember
+2024-09-28
+0000769520
+midd:FoodProcessingGroupMember
+2024-09-28
+0000769520
+midd:ResidentialKitchenMember
+2024-09-28
+0000769520
+us-gaap:CorporateAndOtherMember
+2024-09-28
+0000769520
+midd:UnitedStatesAndCanadaMember
+2025-09-27
+0000769520
+midd:UnitedStatesAndCanadaMember
+2024-09-28
+0000769520
+srt:AsiaMember
+2025-09-27
+0000769520
+srt:AsiaMember
+2024-09-28
+0000769520
+midd:EuropeAndMiddleEastMember
+2025-09-27
+0000769520
+midd:EuropeAndMiddleEastMember
+2024-09-28
+0000769520
+srt:LatinAmericaMember
+2025-09-27
+0000769520
+srt:LatinAmericaMember
+2024-09-28
+0000769520
+midd:TotalInternationalMember
+2025-09-27
+0000769520
+midd:TotalInternationalMember
+2024-09-28
+0000769520
+midd:NonUSPlansMember
+2025-06-29
+2025-09-27
+0000769520
+midd:NonUSPlansMember
+2024-06-30
+2024-09-28
+0000769520
+midd:NonUSPlansMember
+2024-12-29
+2025-09-27
+0000769520
+midd:NonUSPlansMember
+2023-12-31
+2024-09-28
+0000769520
+midd:A2017ProgramMember
+2017-11-07
+0000769520
+midd:A2017ProgramMember
+2022-05-13
+0000769520
+midd:A2017ProgramMember
+2025-05-05
+0000769520
+midd:A2017ProgramMember
+2025-06-29
+2025-09-27
+0000769520
+midd:A2017ProgramMember
+2024-12-29
+2025-09-27
+0000769520
+midd:A2017ProgramMember
+2025-09-27
+0000769520
+us-gaap:RestrictedStockMember
+2025-06-29
+2025-09-27
+0000769520
+us-gaap:RestrictedStockMember
+2024-12-29
+2025-09-27
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 
+10-Q
+
+(Mark One)
+☒
+Quarterly Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+For the quarterly period ended 
+September 27, 2025
+or
+☐
+Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Commission File No. 
+1-9973
+
+THE MIDDLEBY CORPORATION
+
+(Exact name of registrant as specified in its charter)  
+Delaware
+36-3352497
+(State or other jurisdiction of incorporation or organization)
+(IRS Employer Identification Number)
+
+1400 Toastmaster Drive,
+Elgin,
+Illinois
+60120
+(Address of principal executive offices)
+(Zip Code)
+Registrant's telephone number, including area code:
+(847)
+741-3300
+
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+
+x
+ No 
+o
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+
+x
+   No 
+o
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “accelerated filer," "large accelerated filer," "smaller reporting company," and "emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☒
+Accelerated filer
+☐
+Non-accelerated filer
+☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+o
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes 
+☐
+ No 
+☒
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol(s)
+Name of Each Exchange on Which Registered
+Common Stock
+MIDD
+Nasdaq Global Select Market
+As of November 3, 2025, there were 
+50,371,250
+ shares of the registrant's common stock outstanding.
+THE MIDDLEBY CORPORATION
+
+QUARTER ENDED SEPTEMBER 27, 2025
+
+INDEX
+DESCRIPTION
+PAGE
+PART I.  FINANCIAL INFORMATION
+
+Item 1.
+Condensed Consolidated Financial Statements (unaudited)
+
+CONDENSED CONSOLIDATED BALANCE SHEETS as of SEPTEMBER 27, 2025 and DECEMBER 28, 2024
+1
+
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME for the three and nine months ended SEPTEMBER 27, 2025 and SEPTEMBER 28, 2024
+2
+
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY for the three and nine months ended SEPTEMBER 27, 2025 and SEPTEMBER 28, 2024
+3
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS for the nine months ended SEPTEMBER 27, 2025 and SEPTEMBER 28, 2024
+4
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+5
+
+Item 2.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+26
+
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+35
+
+Item 4.
+Controls and Procedures
+36
+
+PART II. OTHER INFORMATION
+
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+37
+
+Item 6.
+Exhibits
+38
+PART I. FINANCIAL INFORMATION
+Item 1. Condensed Consolidated Financial Statements
+THE MIDDLEBY CORPORATION
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(In Thousands, Except Share Data)
+(
+Unaudited
+)
+
+ASSETS
+Sep 27, 2025
+Dec 28, 2024
+Current assets:
+
+Cash and cash equivalents
+$
+175,130
+
+$
+689,533
+
+Accounts receivable, net of reserve for doubtful accounts of $
+26,711
+ and $
+24,597
+673,857
+
+643,355
+
+Inventories, net
+919,551
+
+841,567
+
+Prepaid expenses and other
+138,993
+
+131,566
+
+Prepaid taxes
+61,828
+
+24,022
+
+Total current assets
+1,969,359
+
+2,330,043
+
+Property, plant and equipment, net of accumulated depreciation of $
+421,288
+ and $
+377,408
+
+577,909
+
+525,965
+
+Goodwill
+2,025,358
+
+2,518,222
+
+Other intangibles, net of amortization of $
+693,378
+ and $
+633,842
+1,470,424
+
+1,611,037
+
+Long-term deferred tax assets
+6,893
+
+6,281
+
+Pension benefits assets
+104,202
+
+91,207
+
+Other assets
+200,515
+
+200,396
+
+Total assets
+$
+6,354,660
+
+$
+7,283,151
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Current liabilities:
+
+Current maturities of long-term debt
+$
+42,110
+
+$
+43,949
+
+Accounts payable
+257,949
+
+208,908
+
+Accrued expenses
+651,498
+
+576,465
+
+Total current liabilities
+951,557
+
+829,322
+
+Long-term debt
+2,025,027
+
+2,351,118
+
+Long-term deferred tax liability
+229,684
+
+252,062
+
+Accrued pension benefits
+9,042
+
+9,573
+
+Other non-current liabilities
+201,565
+
+202,645
+
+Stockholders' equity:
+
+Preferred stock, $
+0.01
+ par value; nonvoting; 
+2,000,000
+ shares authorized; 
+none
+ issued
+—
+
+—
+
+Common stock, $
+0.01
+ par value; 
+64,961,936
+ and 
+64,264,828
+ shares issued in 2025 and 2024, respectively
+153
+
+148
+
+Paid-in capital
+596,651
+
+520,177
+
+Treasury stock, at cost; 
+14,592,228
+ and 
+10,574,619
+ shares in 2025 and 2024, respectively
+(
+1,523,231
+)
+(
+940,691
+)
+Retained earnings
+4,013,517
+
+4,328,187
+
+Accumulated other comprehensive loss
+(
+149,305
+)
+(
+269,390
+)
+Total stockholders' equity
+2,937,785
+
+3,638,431
+
+Total liabilities and stockholders' equity
+$
+6,354,660
+
+$
+7,283,151
+
+See accompanying notes
+1
+THE MIDDLEBY CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(In Thousands, Except Per Share Data)
+(
+Unaudited
+)
+
+Three Months Ended
+Nine Months Ended
+
+Sep 27, 2025
+Sep 28, 2024
+Sep 27, 2025
+Sep 28, 2024
+Net sales
+$
+982,131
+
+$
+942,809
+
+$
+2,866,617
+
+$
+2,861,281
+
+Cost of sales
+620,825
+
+587,375
+
+1,788,087
+
+1,779,847
+
+Gross profit
+361,306
+
+355,434
+
+1,078,530
+
+1,081,434
+
+Selling, general and administrative expenses
+203,617
+
+179,476
+
+619,834
+
+584,108
+
+Restructuring expenses
+2,822
+
+2,519
+
+7,839
+
+11,046
+
+Impairments
+709,116
+
+—
+
+709,116
+
+—
+
+Income (loss) from operations
+(
+554,249
+)
+173,439
+
+(
+258,259
+)
+486,280
+
+Interest expense and deferred financing amortization, net
+25,147
+
+21,399
+
+63,355
+
+72,239
+
+Net periodic pension benefit
+(
+1,576
+)
+(
+3,876
+)
+(
+4,653
+)
+(
+11,244
+)
+Other expense, net
+1,132
+
+1,239
+
+7,540
+
+995
+
+Earnings before income taxes
+(
+578,952
+)
+154,677
+
+(
+324,501
+)
+424,290
+
+Provision for income taxes
+(
+65,974
+)
+40,511
+
+(
+9,831
+)
+108,161
+
+Net earnings
+$
+(
+512,978
+)
+$
+114,166
+
+$
+(
+314,670
+)
+$
+316,129
+
+Net earnings per share:
+
+Basic
+$
+(
+10.15
+)
+$
+2.12
+
+$
+(
+6.02
+)
+$
+5.88
+
+Diluted
+$
+(
+10.15
+)
+$
+2.11
+
+$
+(
+6.02
+)
+$
+5.84
+
+Weighted average number of shares
+
+Basic
+50,521
+
+53,770
+
+52,244
+
+53,730
+
+Dilutive common stock equivalents
+—
+
+267
+
+—
+
+438
+
+Diluted
+50,521
+
+54,037
+
+52,244
+
+54,168
+
+Comprehensive income
+$
+(
+539,029
+)
+$
+162,648
+
+$
+(
+194,585
+)
+$
+331,171
+
+See accompanying notes
+2
+THE MIDDLEBY CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY
+(amounts in thousands)
+(
+Unaudited
+)
+Common
+Stock
+Paid-in
+Capital
+Treasury
+Stock
+Retained
+Earnings
+Accumulated
+Other
+Comprehensive
+Income/(loss)
+Total
+Stockholders'
+Equity
+Balance, June 28, 2025
+$
+148
+
+$
+528,889
+
+$
+(
+1,309,723
+)
+$
+4,526,495
+
+$
+(
+123,254
+)
+$
+3,622,555
+
+Net earnings
+—
+
+—
+
+—
+
+(
+512,978
+)
+—
+
+(
+512,978
+)
+Currency translation adjustments
+—
+
+—
+
+—
+
+—
+
+(
+26,247
+)
+(
+26,247
+)
+Change in unrecognized pension benefit costs, net of tax of $(
+579
+)
+—
+
+—
+
+—
+
+—
+
+2,796
+
+2,796
+
+Unrealized loss on interest rate swap, net of tax of $(
+811
+)
+—
+
+—
+
+—
+
+—
+
+(
+2,600
+)
+(
+2,600
+)
+Stock compensation
+—
+
+(
+104
+)
+—
+
+—
+
+—
+
+(
+104
+)
+Conversion of Convertible Notes
+5
+
+2,968
+
+—
+
+—
+
+—
+
+2,973
+
+Purchase of treasury stock
+—
+
+—
+
+(
+148,610
+)
+—
+
+—
+
+(
+148,610
+)
+Exercise of Capped Calls
+— 
+64,898
+
+(
+64,898
+)
+— 
+— 
+— 
+Balance, September 27, 2025
+$
+153
+
+$
+596,651
+
+$
+(
+1,523,231
+)
+$
+4,013,517
+
+$
+(
+149,305
+)
+$
+2,937,785
+
+Balance, December 28, 2024
+$
+148
+
+$
+520,177
+
+$
+(
+940,691
+)
+$
+4,328,187
+
+$
+(
+269,390
+)
+$
+3,638,431
+
+Net earnings
+—
+
+—
+
+—
+
+(
+314,670
+)
+—
+
+(
+314,670
+)
+Currency translation adjustments
+—
+
+—
+
+—
+
+—
+
+135,229
+
+135,229
+
+Change in unrecognized pension benefit costs, net of tax of $
+360
+—
+
+—
+
+—
+
+—
+
+(
+3,378
+)
+(
+3,378
+)
+Unrealized loss on interest rate swap, net of tax of $(
+3,614
+)
+—
+
+—
+
+—
+
+—
+
+(
+11,766
+)
+(
+11,766
+)
+Stock compensation
+—
+
+8,608
+
+—
+
+—
+
+—
+
+8,608
+
+Conversion of Convertible Notes
+5
+
+2,968
+
+—
+
+—
+
+—
+
+2,973
+
+Purchase of treasury stock
+—
+
+—
+
+(
+517,642
+)
+—
+
+—
+
+(
+517,642
+)
+Exercise of Capped Calls
+$
+— 
+$
+64,898
+
+$
+(
+64,898
+)
+$
+— 
+$
+— 
+$
+— 
+Balance, September 27, 2025
+$
+153
+
+$
+596,651
+
+$
+(
+1,523,231
+)
+$
+4,013,517
+
+$
+(
+149,305
+)
+$
+2,937,785
+
+Common
+Stock
+Paid-in
+Capital
+Treasury
+Stock
+Retained
+Earnings
+Accumulated
+Other
+Comprehensive
+Income/(loss)
+Total
+Stockholders'
+Equity
+Balance, June 29,2024
+$
+148
+
+$
+500,686
+
+$
+(
+924,002
+)
+$
+4,101,717
+
+$
+(
+256,638
+)
+$
+3,421,911
+
+Net earnings
+—
+
+—
+
+—
+
+114,166
+
+—
+
+114,166
+
+Currency translation adjustments
+—
+
+—
+
+—
+
+—
+
+67,366
+
+67,366
+
+Change in unrecognized pension benefit costs, net of tax of $
+464
+—
+
+—
+
+—
+
+—
+
+(
+5,711
+)
+(
+5,711
+)
+Unrealized loss on interest rate swap, net of tax of $(
+4,120
+)
+—
+
+—
+
+—
+
+—
+
+(
+13,173
+)
+(
+13,173
+)
+Stock compensation
+—
+
+8,669
+
+—
+
+—
+
+—
+
+8,669
+
+Purchase of treasury stock
+—
+
+—
+
+(
+287
+)
+—
+
+—
+
+(
+287
+)
+Balance, September 28, 2024
+$
+148
+
+$
+509,355
+
+$
+(
+924,289
+)
+$
+4,215,883
+
+$
+(
+208,156
+)
+$
+3,592,941
+
+Balance, December 30, 2023
+$
+148
+
+$
+479,216
+
+$
+(
+906,031
+)
+$
+3,899,754
+
+$
+(
+223,198
+)
+$
+3,249,889
+
+Net earnings
+—
+
+—
+
+—
+
+316,129
+
+—
+
+316,129
+
+Currency translation adjustments
+—
+
+—
+
+—
+
+—
+
+31,352
+
+31,352
+
+Change in unrecognized pension benefit costs, net of tax of $
+800
+—
+
+—
+
+—
+
+—
+
+(
+4,136
+)
+(
+4,136
+)
+Unrealized loss on interest rate swap, net of tax of $(
+4,976
+)
+—
+
+—
+
+—
+
+—
+
+(
+12,174
+)
+(
+12,174
+)
+Stock compensation
+—
+
+30,139
+
+—
+
+—
+
+—
+
+30,139
+
+Purchase of treasury stock
+—
+
+—
+
+(
+18,258
+)
+—
+
+—
+
+(
+18,258
+)
+Balance, September 28, 2024
+$
+148
+
+$
+509,355
+
+$
+(
+924,289
+)
+$
+4,215,883
+
+$
+(
+208,156
+)
+$
+3,592,941
+
+See accompanying notes
+3
+THE MIDDLEBY CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In Thousands)
+(
+Unaudited)
+
+Nine Months Ended
+
+Sep 27, 2025
+Sep 28, 2024
+Cash flows from operating activities--
+
+Net earnings
+$
+(
+314,670
+)
+$
+316,129
+
+Adjustments to reconcile net earnings to net cash provided by operating activities--
+
+Depreciation and amortization
+97,165
+
+94,836
+
+Non-cash share-based compensation
+8,608
+
+30,139
+
+Deferred income taxes
+(
+32,228
+)
+27,659
+
+Net periodic pension benefit
+(
+4,653
+)
+(
+11,244
+)
+Impairments
+709,116
+
+—
+
+Other non-cash items
+(
+132
+)
+661
+
+Changes in assets and liabilities, net of acquisitions
+
+Accounts receivable, net
+(
+1,146
+)
+31,354
+
+Inventories, net
+(
+32,946
+)
+33,045
+
+Prepaid expenses and other assets
+(
+26,654
+)
+(
+20,073
+)
+Accounts payable
+28,650
+
+(
+13,706
+)
+Accrued expenses and other liabilities
+8,368
+
+(
+41,718
+)
+Net cash provided by operating activities
+439,478
+
+447,082
+
+Cash flows from investing activities--
+
+Net additions to property, plant and equipment
+(
+74,917
+)
+(
+36,169
+)
+Purchase of intangible assets
+(
+1,114
+)
+(
+80
+)
+Acquisitions, net of cash acquired
+(
+34,526
+)
+(
+7,750
+)
+Net cash used in investing activities
+(
+110,557
+)
+(
+43,999
+)
+Cash flows from financing activities--
+
+Proceeds under Credit Facility
+865,500
+
+—
+
+Repayments under Credit Facility
+(
+449,264
+)
+(
+21,875
+)
+Payment of principal upon maturity of Convertible Notes
+(
+744,527
+)
+—
+
+Net repayments under foreign bank loan
+(
+1,434
+)
+(
+1,611
+)
+Payments of deferred purchase price
+(
+19,033
+)
+(
+3,878
+)
+Repurchase of treasury stock
+(
+514,301
+)
+(
+18,258
+)
+Debt issuance costs on Credit Facility
+(
+3,167
+)
+—
+
+Other, net
+187
+
+(
+167
+)
+Net cash used in financing activities
+(
+866,039
+)
+(
+45,789
+)
+Effect of exchange rates on cash and cash equivalents
+22,715
+
+1,214
+
+Changes in cash and cash equivalents--
+
+Net (decrease) increase in cash and cash equivalents
+(
+514,403
+)
+358,508
+
+Cash and cash equivalents at beginning of year
+689,533
+
+247,496
+
+Cash and cash equivalents at end of period
+$
+175,130
+
+$
+606,004
+
+See accompanying notes
+4
+THE MIDDLEBY CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+SEPTEMBER 27, 2025
+(
+Unaudited
+)
+1)
+Summary of Significant Accounting Policies
+a)
+Basis of Presentation
+The condensed consolidated financial statements have been prepared by The Middleby Corporation (the "company" or “Middleby”), pursuant to the rules and regulations of the Securities and Exchange Commission ("SEC"). The financial statements are unaudited and certain information and footnote disclosures normally included in financial statements prepared in accordance with accounting principles generally accepted in the United States of America have been condensed or omitted pursuant to such rules and regulations, although the company believes that the disclosures are adequate to make the information not misleading. These financial statements should be read in conjunction with the financial statements and related notes contained in the company's 2024 Form 10-K. The company’s interim results are not necessarily indicative of future full year results for the fiscal year 2025.
+In the opinion of management, the financial statements contain all adjustments, which are normal and recurring in nature, necessary to present fairly the financial position of the company as of September 27, 2025 and December 28, 2024, the results of operations for the three and nine months ended September 27, 2025 and September 28, 2024, cash flows for the nine months ended September 27, 2025 and September 28, 2024 and statement of stockholders' equity for the three and nine months ended September 27, 2025 and September 28, 2024.
+Certain prior year amounts have been reclassified to be consistent with current year presentation, including beginning to report the results of a division within the company's Food Processing segment as a result of a change in internal management and potential synergies in operations to be consistent with the reporting of financial information used to assess performance and allocate resources. These operations were previously reported in the Commercial Foodservice segment and are now managed and reported in the Food Processing segment. All prior period segment disclosures have been recast to reflect this change.
+Proposed Separation Transaction
+On February 25, 2025, the company announced its intent to separate its Food Processing business through a spin-off of the Food Processing business, under which the stock of Food Processing, as a new independent publicly traded company, will be distributed to Middleby’s shareholders. As of the date hereof, Middleby is targeting completion of the separation by first half of 2026, subject to certain customary conditions, including, among others, final approval by the company’s Board of Directors and the effectiveness of appropriate filings with the SEC. The spin-off of Food Processing is expected to be tax-free for U.S. federal income tax purposes. There can be no assurance that any separation transaction will ultimately occur or, if one does occur, of its terms or timing.
+Use of Estimates 
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America (“GAAP”) requires the company to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent liabilities at the date of the condensed consolidated financial statements and the reported amounts of revenues and expenses. Significant estimates and assumptions are used for, but are not limited to, allowances for doubtful accounts, reserves for excess and obsolete inventories, long-lived and intangible assets, warranty reserves, insurance reserves, income tax reserves, non-cash share-based compensation and post-retirement obligations. Such estimates and assumptions could change in the future as more information becomes known, which could impact the amounts reported and disclosed in the notes herein.
+b)
+Non-Cash Share-Based Compensation
+The company estimates the fair value of market-based stock awards and stock options at the time of grant and recognizes compensation cost over the vesting period of the awards and options. Non-cash share-based compensation expense was $(
+0.1
+) million and $
+8.7
+ million for the three months period ended September 27, 2025 and September 28, 2024, respectively. Non-cash share-based compensation expense was $
+8.6
+ million and $
+30.1
+ million for the nine months period ended September 27, 2025 and September 28, 2024, respectively.
+5
+c)
+Income Taxes
+A tax benefit of $(
+66.0
+) million, at an effective rate of 
+11.4
+%, was recorded during the three months period ended September 27, 2025, as compared to a tax provision of $
+40.5
+ million at an effective rate of 
+26.2
+% in the prior year period. A tax benefit of $(
+9.8
+) million, at an effective rate of 
+3.0
+%, was recorded during the nine months period ended September 27, 2025, as compared to a tax provision of $
+108.2
+ million at an effective rate of 
+25.5
+% in the prior year period. During the three months period ended September 27, 2025, the effective tax rate was less than prior period due to a portion of the impairment charges within the Residential Kitchen Equipment Group being non-deductible goodwill. The effective tax rate for the three months period ended September 27, 2025, when excluding the impairment charges within the Residential Kitchen Equipment Group, was 
+23.7
+% and is higher than the U.S. statutory tax rate of 
+21.0
+% primarily due to state taxes and foreign tax rate differentials.
+d)
+Fair Value Measures
+
+Accounting Standards Codification ("ASC") 820 "Fair Value Measurements and Disclosures" defines fair value as the price that would be received for an asset or paid to transfer a liability (an exit price) in the principal most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date. ASC 820 establishes a fair value hierarchy, which prioritizes the inputs used in measuring fair value into the following levels:
+Level 1 – Quoted prices in active markets for identical assets or liabilities.
+Level 2 – Inputs, other than quoted prices in active markets, that are observable either directly or indirectly.
+Level 3 – Unobservable inputs based the company's own assumptions.
+The fair value hierarchy also requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value.
+The company’s financial assets and liabilities that are measured at fair value and are categorized using the fair value hierarchy are as follows (in thousands):
+Fair Value
+Level 1
+Fair Value
+Level 2
+Fair Value
+Level 3
+Total
+As of September 27, 2025
+Financial Assets:
+ Interest rate swaps
+$
+—
+
+$
+14,572
+
+$
+—
+
+$
+14,572
+
+Financial Liabilities:
+    Contingent consideration
+$
+—
+
+$
+—
+
+$
+35,969
+
+$
+35,969
+
+    Foreign exchange derivative contracts
+$
+—
+
+$
+414
+
+$
+—
+
+$
+414
+
+As of December 28, 2024
+Financial Assets:
+    Interest rate swaps
+$
+—
+
+$
+29,952
+
+$
+—
+
+$
+29,952
+
+Financial Liabilities:
+    Contingent consideration
+$
+—
+
+$
+—
+
+$
+53,228
+
+$
+53,228
+
+    Foreign exchange derivative contracts
+$
+—
+
+$
+1,400
+
+$
+—
+
+$
+1,400
+
+The contingent consideration as of September 27, 2025 and December 28, 2024 relates to the earnout provisions recorded in conjunction with various purchase agreements. 
+6
+Earnout liabilities are classified within Level 3 in the fair value hierarchy, as the methodology used to estimate fair value includes significant unobservable inputs reflecting management’s own assumptions. The earnout provisions associated with these acquisitions are based upon performance measurements related to sales and EBITDA, as defined in the respective purchase agreement. On a quarterly basis, the company assesses the projected results for each of the acquisitions in comparison to the earnout targets and adjusts the liability accordingly. Discount rates for valuing contingent consideration are determined based on the company rates and specific acquisition risk considerations. Changes in fair value associated with the earnout provisions are recognized in Selling, general and administrative expenses within the Condensed Consolidated Statements of Comprehensive Income. The earnout liabilities are included in accrued expenses and other non-current liabilities.
+The following table represents changes in the fair value of the contingent consideration liabilities:
+September 27, 2025
+Beginning balance
+$
+53,228
+
+Payments of contingent consideration
+(
+21,593
+)
+New contingent consideration
+4,698
+
+Changes in fair value
+(
+364
+)
+Ending balance
+$
+35,969
+
+e)    Consolidated Statements of Cash Flows
+Cash paid for interest was $
+71.4
+ million and $
+75.6
+ million for the nine months ended September 27, 2025 and September 28, 2024, respectively. Cash payments totaling $
+63.5
+ million and $
+83.3
+ million were made for income taxes for the nine months ended September 27, 2025 and September 28, 2024, respectively. 
+f)    
+Earnings Per Share
+“Basic earnings per share” is calculated based upon the weighted average number of common shares actually outstanding, and “diluted earnings per share” is calculated based upon the weighted average number of common shares outstanding and other dilutive securities.
+The company’s potentially dilutive securities consist of shares issuable upon vesting of restricted stock grants, computed using the treasury method, and amounted to 
+53,000
+ and 
+24,000
+ for the three months ended September 27, 2025 and September 28, 2024.
+The company’s potentially dilutive securities consist of shares issuable upon vesting of restricted stock grants, computed using the treasury method, and amounted to 
+27,000
+ and 
+11,000
+ for the nine months ended September 27, 2025 and September 28, 2024.
+For the nine months ended September 27, 2025 and September 28, 2024, the average market price of the company's common stock exceeded the exercise price of the Convertible Notes (as defined below) resulting in 
+624,000
+ and 
+427,000
+ diluted common stock equivalents to potentially be included in the diluted net earnings per share, respectively.
+ On September 1, 2025, the Convertible Notes matured and the company settled the principal amount in cash and the excess conversion value by delivering 
+493,917
+ of its common stock, and the company exercised its rights under the Capped Call Transactions (as defined below) which resulted in the receipt of 
+472,432
+ shares of its common stock to be held in treasury. 
+See Note 12 - Financing Arrangements for further details on the Convertible Notes and the Capped Call Transactions.
+For the three and nine months ended September 27, 2025, shares issuable upon vesting of restricted stock grants and conversion of the Convertible Notes for the excess conversion value have been excluded from the calculation of diluted earnings per share because their effects would be anti-dilutive.
+7
+2)    
+Acquisitions and Purchase Accounting
+The company accounts for all business combinations using the acquisition method to record a new cost basis for the assets acquired and liabilities assumed. The difference between the purchase price and the fair value of the assets acquired and liabilities assumed has been recorded as goodwill in the financial statements. The company recognizes identifiable intangible assets, primarily trade names and customer relationships, at their fair value using a discounted cash flow model. The significant assumptions used to estimate the value of the intangible assets include revenue growth rates, projected profit margins, discount rates, royalty rates, and customer attrition rates. These significant assumptions are forward-looking and could be affected by future economic and market conditions. The results of operations are reflected in the consolidated financial statements of the company from the dates of acquisition.
+2024 Acquisitions
+During 2024, the company completed various acquisitions that were not individually material. 
+The following estimated fair values of assets acquired and liabilities assumed are based on the information that was available as of the acquisition date for the
+ 2024 acquisitions and are summarized as follows (in thousands):
+Preliminary Opening Balance Sheet
+Measurement
+Period
+Adjustments
+Adjusted Opening Balance Sheet
+Cash
+$
+7,868
+
+$
+9
+
+$
+7,877
+
+Current assets
+41,836
+
+(
+1,630
+)
+40,206
+
+Property, plant and equipment
+31,515
+
+(
+504
+)
+31,011
+
+Goodwill
+61,046
+
+1,580
+
+62,626
+
+Other intangibles
+32,248
+
+—
+
+32,248
+
+Long-term deferred tax asset
+9
+
+96
+
+105
+
+Other assets
+266
+
+1,029
+
+1,295
+
+Current portion of long-term debt
+(
+290
+)
+—
+
+(
+290
+)
+Current liabilities
+(
+42,304
+)
+1,898
+
+(
+40,406
+)
+Long-term debt
+(
+369
+)
+—
+
+(
+369
+)
+Long-term deferred tax liability
+(
+1,132
+)
+—
+
+(
+1,132
+)
+Other non-current liabilities
+(
+10,763
+)
+(
+466
+)
+(
+11,229
+)
+Consideration paid at closing
+$
+119,930
+
+$
+2,012
+
+$
+121,942
+
+Deferred payments
+—
+
+76
+
+76
+
+Contingent consideration
+8,681
+
+—
+
+8,681
+
+Net assets acquired and liabilities assumed
+$
+128,611
+
+$
+2,088
+
+$
+130,699
+
+The net long-term deferred tax liability amounted to 
+$
+1.1
+ million
+. 
+The net long-term deferred tax liability is related to the difference between the book and tax basis of identifiable intangible assets.
+The goodwill and $
+16.7
+ million of other intangibles associated with the trade names are subject to the non-amortization provisions of ASC 350. Other intangibles also include $
+12.1
+ million allocated to customer relationships, $
+1.1
+ million allocated to developed technology, and $
+2.3
+ million allocated to backlog, which are being amortized over periods of 
+5
+ years to 
+7
+ years, 
+7
+ years, and 
+3
+ months to 
+9
+ months
+, respectively. Goodwill of $
+49.4
+ million and other intangibles of $
+24.0
+ million are allocated to the Food Processing Equipment Group for segment reporting purposes. Goodwill of $
+13.2
+ million and other intangibles of $
+8.2
+ million are allocated to the Commercial Foodservice Equipment Group for segment reporting purposes.  Of these assets, goodwill of $
+53.3
+ million and intangibles of $
+28.0
+ million are expected to be deductible for tax purposes.
+8
+Two purchase agreements include earnout provisions providing for a contingent payment due to the sellers for the achievement of certain targets. Two earnouts are payable to the extent certain sales and EBITDA targets are met with measurement dates ending between 2026 and 2027. The contractual obligation associated with the contingent earnout provisions recognized on the acquisition date amounts to
+ $
+8.7
+ million. One purchase agreement includes a deferred payment due to the sellers payable in 2030. 
+The contractual obligation associated with the deferred payment on the acquisition date amounts to 
+$
+0.1
+ million.
+The company believes that information gathered to date provides a reasonable basis for estimating the fair values of assets acquired and liabilities assumed, but the company is waiting for additional information necessary to finalize those fair values for the acquisitions completed during 2024. Certain intangible assets are preliminarily valued using historical information. Specifically, the company estimated the fair values of the intangible assets based on the percentage of purchase price assigned to similar intangible assets in previous acquisitions within the Food Processing Equipment Group 
+and Commercial Foodservice Equipment Group
+. Thus, the provisional measurements of fair values set forth above are subject to change. The company expects to complete the purchase price allocation as soon as practicable but no later than one year from the acquisition date.
+2025 Acquisitions
+During 
+2025, the company 
+completed various acquisitions that were not individually material. 
+The following estimated fair values of assets acquired and liabilities assumed are based on the information that was available as of the acquisition date for the 2025 acquisitions and are summarized as follows (in thousands):
+Preliminary Opening Balance Sheet
+Cash
+$
+7,434
+
+Current assets
+41,749
+
+Property, plant and equipment
+6,073
+
+Goodwill
+13,419
+
+Other intangibles
+10,263
+
+Other assets
+44
+
+Current portion of long-term debt
+(
+875
+)
+Current liabilities
+(
+36,513
+)
+Long-term debt
+(
+696
+)
+Long-term deferred tax liability
+(
+2,304
+)
+Other non-current liabilities
+(
+5,077
+)
+Consideration paid at closing
+$
+33,517
+
+Contingent consideration
+4,698
+
+Net assets acquired and liabilities assumed
+$
+38,215
+
+The net long-term deferred tax liability amounted to 
+$
+2.3
+ million
+. 
+The net long-term deferred tax liability is comprised of $
+1.3
+ million related to the difference between the book and tax basis of identifiable intangible assets and $
+1.0
+ million related to the difference between the book and tax basis of identifiable tangible asset and liability accounts.
+The goodwill and 
+$
+4.6
+ million
+ of other intangibles associated with the tradenames are subject to the non-amortization provisions of ASC 350. Other intangibles also include 
+$
+2.6
+ million
+ allocated to customer relationships, 
+$
+1.1
+ million
+ allocated to developed technology, and 
+$
+2.0
+ million
+ allocated to backlog, which are being amortized over periods of 
+7
+ years, 
+7
+ years, and 
+6
+ months
+,
+ respectively. Goodwill of 
+$
+13.4
+ million
+ and other intangibles of 
+$
+10.3
+ million
+ are allocated to the Food Processing Equipment Group for segment reporting purposes. Of these assets, goodwill of 
+$
+7.6
+ million
+ and intangibles of 
+$
+5.5
+ million
+ are expected to be deductible for tax purposes.
+9
+Two purchase agreements include earnout provisions providing for a contingent payment due to the sellers for the achievement of certain targets. The earnouts are payable to the extent certain EBITDA targets are met with measurement dates ending in 2028. The contractual obligation associated with the contingent earnout provisions recognized on the acquisition date amounts to
+
+$
+4.7
+ million
+. 
+The company believes that information gathered to date provides a reasonable basis for estimating the fair values of assets acquired and liabilities assumed, but the company is waiting for additional information necessary to finalize those fair values for the acquisitions completed during 2025. Certain intangible assets are preliminarily valued using historical information. Specifically, the company estimated the fair values of the intangible assets based on the percentage of purchase price assigned to similar intangible assets in previous acquisitions within the Food Processing Equipment Group. Thus, the provisional measurements of fair values set forth above are subject to change. The company expects to complete the purchase price allocation as soon as practicable but no later than one year from the acquisition date.
+Pro Forma Financial Informa
+tion
+
+In accordance with ASC 805 
+Business Combinations, 
+the following unaudited pro forma results of operations for the nine months ended September 27, 2025 and September 28, 2024, assumes the 2024 and 2025 acquisitions described above were completed on December 31, 2023 (first day of fiscal year 2024). The following pro forma results include adjustments to reflect amortization of intangibles associated with the acquisitions and the effects of adjustments made to the carrying value of certain assets (in thousands, except per share data): 
+Nine Months Ended
+
+September 27, 2025
+September 28, 2024
+Net sales
+$
+2,886,659
+
+$
+2,957,528
+
+Net earnings
+(
+314,285
+)
+298,196
+
+Net earnings per share:
+
+Basic
+$
+(
+6.02
+)
+$
+5.55
+
+Diluted
+$
+(
+6.02
+)
+$
+5.51
+
+Pro forma data may not be indicative of the results that would have been obtained had these acquisitions occurred at the beginning of the periods presented, nor is it intended to be a projection of future results. Additionally, the pro forma financial information does not reflect the costs which the company has incurred or may incur to integrate the acquired businesses.
+3)    
+Litigation Matters
+Legal Proceedings and Contingencies
+From time to time, the company is subject to proceedings, lawsuits and other claims related to products, suppliers, employees, customers and competitors. The company maintains insurance to partially cover product liability, workers compensation, property and casualty, and general liability matters. The company is required to assess the likelihood of any adverse judgments or outcomes to these matters as well as potential ranges of probable losses.
+A determination of the amount of accrual required, if any, for these contingencies is made after assessment of each matter and the related insurance coverage. The required accrual may change in the future due to new developments or changes in approach, such as a change in settlement strategy in dealing with these mat
+ters. The company does not believe that any pending litigation will have a material adverse effect on its financial condition, results of operations or cash flows.
+10
+4)    
+Recently Issued Accounting Standards
+In December 2023, the FASB issued Accounting Standard Update ASU No. 2023-09 Income Taxes (Topic 740): Improvements to Income Tax Disclosures, which expands the disclosures required in an entity’s income tax rate reconciliation table. This ASU requires consistent categories and greater disaggregation of information presented in the effective tax rate reconciliation and requires disclosure of income taxes paid in both domestic and foreign jurisdictions. The guidance is effective for the company for annual periods after December 15, 2024 and is required to be applied prospectively, with retrospective application to prior periods allowed. Early adoption is permitted. The company is currently evaluating the impact of this amendment on its consolidated financial statements.
+In November 2024, the FASB issued ASU 2024-03, Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures: Disaggregation of Income Statement Expenses, which requires disclosure of disaggregated information about specific categories underlying certain income statement expense line items in the footnotes to the financial statements for both annual and interim periods. This ASU is effective for fiscal years beginning after December 15, 2026, and interim reporting periods beginning after December 15, 2027. Early adoption is permitted. The company is currently evaluating the impact of the adoption of this standard.
+11
+5)    
+Revenue Recognition
+Disaggregation of Revenue 
+The company disaggregates its net sales by reportable operating segment and geographical location as the company believes it best depicts how the nature, timing and uncertainty of its net sales and cash flows are affected by economic factors. In general, the Commercial Foodservice Equipment and Residential Foodservice Equipment Groups recognize revenue at the point in time control transfers to their customers based on contractual shipping terms. Revenue from equipment sold under the company's long-term contracts within the Food Processing Equipment group is recognized over time as the equipment is manufactured and assembled.
+
+The following table summarizes the company's net sales by reportable operating segment and geographical location (in thousands):
+
+Commercial 
+ Foodservice
+Food Processing
+Residential Kitchen 
+Total
+Three Months Ended September 27, 2025
+
+United States and Canada
+$
+433,705
+
+$
+120,827
+
+$
+110,781
+
+$
+665,313
+
+Asia
+53,904
+
+8,338
+
+4,500
+
+66,742
+
+Europe and Middle East
+95,349
+
+52,730
+
+57,067
+
+205,146
+
+Latin America
+23,043
+
+19,458
+
+2,429
+
+44,930
+
+Total
+$
+606,001
+
+$
+201,353
+
+$
+174,777
+
+$
+982,131
+
+Nine Months Ended September 27, 2025
+
+United States and Canada
+$
+1,260,140
+
+$
+338,940
+
+$
+334,754
+
+$
+1,933,834
+
+Asia
+154,454
+
+19,498
+
+10,506
+
+184,458
+
+Europe and Middle East
+273,644
+
+172,641
+
+180,660
+
+626,945
+
+Latin America
+61,085
+
+54,375
+
+5,920
+
+121,380
+
+Total
+$
+1,749,323
+
+$
+585,454
+
+$
+531,840
+
+$
+2,866,617
+
+Three Months Ended September 28, 2024
+United States and Canada
+$
+418,398
+
+$
+104,508
+
+$
+112,912
+
+$
+635,818
+
+Asia
+53,057
+
+8,105
+
+5,994
+
+67,156
+
+Europe and Middle East
+93,058
+
+51,716
+
+52,952
+
+197,726
+
+Latin America
+27,204
+
+13,545
+
+1,360
+
+42,109
+
+Total
+$
+591,717
+
+$
+177,874
+
+$
+173,218
+
+$
+942,809
+
+Nine Months Ended September 28, 2024
+United States and Canada
+$
+1,285,806
+
+$
+317,711
+
+$
+344,731
+
+$
+1,948,248
+
+Asia
+159,838
+
+22,022
+
+12,433
+
+194,293
+
+Europe and Middle East
+266,121
+
+159,563
+
+176,577
+
+602,261
+
+Latin America
+71,175
+
+39,164
+
+6,140
+
+116,479
+
+Total
+$
+1,782,940
+
+$
+538,460
+
+$
+539,881
+
+$
+2,861,281
+
+Contract Balances
+Contract assets primarily relate to the company's right to consideration for work completed but not billed at the reporting date and are recorded in prepaid expenses and other in the Condensed Consolidated Balance Sheet. Contract assets are transferred to receivables when the right to consideration becomes unconditional. Accounts receivable are not considered contract assets under the revenue standard as contract assets are conditioned upon the company's future satisfaction of a performance obligation. Accounts receivable, in contracts, are unconditional rights to consideration.
+12
+Contract liabilities relate to advance consideration received from customers for which revenue has not been recognized. Current contract liabilities are recorded in accrued expenses in the Condensed Consolidated Balance Sheet. Non-current contract liabilities are recorded in other non-current liabilities in the Condensed Consolidated Balance Sheet. Contract liabilities are reduced when the associated revenue from the contract is recognized.
+The following table provides information about contract assets and contract liabilities from contracts with customers (in thousands):
+
+Sep 27, 2025
+Dec 28, 2024
+Contract assets
+$
+64,879
+
+$
+68,025
+
+Contract liabilities
+$
+176,896
+
+$
+120,503
+
+Non-current contract liabilities
+$
+21,607
+
+$
+19,930
+
+During the nine months period ended September 27, 2025, the company reclassified $
+41.2
+ million to receivables, which was included in the contract asset balance at the beginning of the period. During the nine months period ended September 27, 2025, the company recognized revenue of $
+90.1
+ million, which was included in the contract liability balance at the beginning of the period. Additions to contract liabilities representing amounts billed to clients in excess of revenue recognized to date were $
+124.6
+ million during the nine months period ended September 27, 2025. Additions to contract liabilities include $
+20.5
+ million related to companies acquired during the nine months period ended September 27, 2025.
+Remaining Performance Obligations
+Substantially all of the company's outstanding performance obligations will be satisfied within 12 to 36 months. There were 
+no
+ contract asset impairments during the nine months period ended September 27, 2025.
+13
+6)    
+Other Comprehensive Income
+Changes in accumulated other comprehensive income
+(1)
+ were as follows (in thousands):
+
+Currency Translation Adjustment
+Pension Benefit Costs
+Unrealized Gain/(Loss) Interest Rate Swap
+Total
+Balance as of December 28, 2024
+$
+(
+213,255
+)
+$
+(
+78,534
+)
+$
+22,399
+
+$
+(
+269,390
+)
+Other comprehensive income before reclassification
+135,229
+
+(
+4,966
+)
+1,521
+
+131,784
+
+Amounts reclassified from accumulated other comprehensive income
+—
+
+1,588
+
+(
+13,287
+)
+(
+11,699
+)
+Net current-period other comprehensive income
+$
+135,229
+
+$
+(
+3,378
+)
+$
+(
+11,766
+)
+$
+120,085
+
+Balance as of September 27, 2025
+$
+(
+78,026
+)
+$
+(
+81,912
+)
+$
+10,633
+
+$
+(
+149,305
+)
+Balance as of December 30, 2023
+$
+(
+145,490
+)
+$
+(
+109,713
+)
+$
+32,005
+
+$
+(
+223,198
+)
+Other comprehensive income before reclassification
+31,352
+
+(
+5,671
+)
+9,135
+
+34,816
+
+Amounts reclassified from accumulated other comprehensive income
+—
+
+1,535
+
+(
+21,309
+)
+(
+19,774
+)
+Net current-period other comprehensive income
+$
+31,352
+
+$
+(
+4,136
+)
+$
+(
+12,174
+)
+$
+15,042
+
+Balance as of September 28, 2024
+$
+(
+114,138
+)
+$
+(
+113,849
+)
+$
+19,831
+
+$
+(
+208,156
+)
+(1) As of September 27, 2025, pension and unrealized loss on interest rate swap amounts, net of tax, were $
+14.2
+ million and $
+4.4
+ million, respectively. During the nine months ended September 27, 2025, the adjustments to pension and unrealized loss on interest rate swap amounts, net of tax, were $
+0.4
+ million and $(
+3.6
+) million, respectively. As of September 28, 2024, pension and unrealized gain on interest rate swap amounts, net of tax, were $
+4.8
+ million and $
+6.2
+ million, respectively. During the nine months ended September 28, 2024, the adjustments to pension and unrealized gain on interest rate swap amounts, net of tax, were $
+0.8
+ million and $(
+5.0
+) million, respectively.
+Components of other comprehensive income were as follows (in thousands):
+
+Three Months Ended
+Nine Months Ended
+
+Sep 27, 2025
+Sep 28, 2024
+Sep 27, 2025
+Sep 28, 2024
+Net earnings
+$
+(
+512,978
+)
+$
+114,166
+
+$
+(
+314,670
+)
+$
+316,129
+
+Currency translation adjustment
+(
+26,247
+)
+67,366
+
+135,229
+
+31,352
+
+Pension liability adjustment, net of tax
+2,796
+
+(
+5,711
+)
+(
+3,378
+)
+(
+4,136
+)
+Unrealized loss on interest rate swaps, net of tax
+(
+2,600
+)
+(
+13,173
+)
+(
+11,766
+)
+(
+12,174
+)
+Comprehensive income
+$
+(
+539,029
+)
+$
+162,648
+
+$
+(
+194,585
+)
+$
+331,171
+
+7)    
+Inventories
+Inventories at September 27, 2025 and December 28, 2024 are as follows (in thousands): 
+
+Sep 27, 2025
+Dec 28, 2024
+Raw materials and parts
+$
+458,993
+
+$
+453,273
+
+Work-in-process
+110,933
+
+76,601
+
+Finished goods
+349,625
+
+311,693
+
+$
+919,551
+
+$
+841,567
+
+14
+8)    
+Goodwill
+Changes in the carrying amount of goodwill for the nine months ended September 27, 2025 are as follows (in thousands):
+Commercial
+Foodservice
+Food
+Processing
+Residential Kitchen
+Total
+Balance as of December 28, 2024
+$
+1,312,085
+
+$
+432,161
+
+$
+773,976
+
+$
+2,518,222
+
+Goodwill acquired during the year
+—
+
+13,419
+
+—
+
+13,419
+
+Measurement period adjustments to
+goodwill acquired in prior year
+(
+985
+)
+2,679
+
+—
+
+1,694
+
+Impairments
+—
+
+—
+
+(
+572,638
+)
+(
+572,638
+)
+Exchange effect and other
+(
+15,517
+)
+52,094
+
+28,084
+
+64,661
+
+Balance as of September 27, 2025
+$
+1,295,583
+
+$
+500,353
+
+$
+229,422
+
+$
+2,025,358
+
+See Note 1 - Summary of Significant Accounting Policies, Basis of Presentation regarding reclassifications in the current year and prior year segment balances.  
+The annual impairment assessment for goodwill and indefinite-lived intangible assets is performed as of the first day of the fourth quarter, or more frequently if events or changes in circumstances indicate that goodwill may be impaired.
+During the third quarter of 2025, the company identified an impairment indicator impacting the fair value of Residential Kitchen Equipment Group in connection with conducting a strategic review of its business portfolio, considering a broad range of strategic options. As a result, the company performed an interim quantitative goodwill impairment test for the Residential Kitchen Equipment Group reporting unit as of September 27, 2025. Based on this assessment, the company determined that the carrying amount of the Residential Kitchen Equipment Group reporting unit exceeded its estimated fair value and recorded a non-cash goodwill impairment charge of $
+572.6
+ million, which is included within Impairments on the Condensed Consolidated Statements of Comprehensive Income. The impairment was driven by a combination of factors, including macroeconomic conditions such as high interest rates, international tariffs, challenging housing market conditions and higher carrying costs of inventory levels in the channel, which led to lower than expected revenue in the current year and corresponding reductions of future revenue due to lowered expectations for recovery in demand.
+At the time the interim impairment test was performed, the company estimated the fair value of the Residential Kitchen Equipment Group reporting unit by considering both a market approach and an income approach using a discounted cash flow model, which use level 3 inputs in the fair value hierarchy. For the income approach, key valuation inputs included projected future cash flows, risk-adjusted discount rates and long-term growth rates, which are based on management’s estimates and assumptions believed to be reasonable and reflective of known market conditions as of the interim impairment test date. 
+The estimates of future cash flows used in determining the fair value of the Residential Kitchen Equipment Group reporting unit involves significant management judgment and are based upon assumptions about expected future operating performance, economic conditions, market conditions and cost of capital. Inherent in estimating the future cash flows are uncertainties beyond our control, such as changes in capital markets. The actual cash flows could differ materially from management's estimates due to changes in business conditions, operating performance and economic conditions.
+15
+9)    
+Intangibles
+Intangible assets consist of the following (in thousands):
+
+September 27, 2025
+December 28, 2024
+Estimated
+Weighted Avg
+Remaining
+Life
+Gross
+Carrying
+Amount
+Accumulated
+Amortization
+Estimated
+Weighted Avg
+Remaining
+Life
+Gross
+Carrying
+Amount
+Accumulated
+Amortization
+Amortized intangible assets:
+
+Customer relationships
+5.8
+$
+866,145
+
+$
+(
+629,828
+)
+6.4
+$
+850,540
+
+$
+(
+581,301
+)
+Backlog
+0.4
+3,455
+
+(
+2,072
+)
+0.3
+2,192
+
+(
+804
+)
+Developed technology
+6.9
+102,879
+
+(
+61,478
+)
+7.4
+98,921
+
+(
+51,737
+)
+
+$
+972,479
+
+$
+(
+693,378
+)
+
+$
+951,653
+
+$
+(
+633,842
+)
+Indefinite-lived assets:
+
+Trademarks and tradenames
+
+$
+1,191,323
+
+$
+1,293,226
+
+As discussed in Note 8 – Goodwill, during the third quarter the company, in connection with conducting a strategic review of its business portfolio, identified an impairment indicator for indefinite-lived and amortized intangible assets within the Residential Kitchen Equipment Group and performed quantitative impairment tests as of September 27, 2025.
+Based on the results of the quantitative tests of indefinite-lived trademarks and tradenames, the company recorded a non-cash impairment charge of 
+$131.8 million
+ associated with several trademarks and tradenames within the Residential Kitchen Equipment Group, which is included within Impairments in the Condensed Consolidated Statements of Comprehensive Income. The gross value of all indefinite-lived trademarks and tradenames tested was approximately 
+$473.0 million
+, including those which were impaired. The diminution in fair value for the trademarks and tradenames was due to macroeconomic conditions such as high interest rates, international tariffs, challenging housing market conditions and higher carrying costs of inventory levels in the channel. This led to lower than expected revenue in the current year and corresponding reductions of future revenue due to lowered expectations for recovery in demand. The company estimated the fair value of trademarks and tradenames using a relief from royalty method under the income approach. In performing the quantitative analyses on the trademarks and tradenames, significant assumptions include revenue growth rates, assumed royalty rates and discount rates, which are considered level 3 inputs in the fair value hierarchy. The company believes the assumptions utilized within the quantitative analysis are reasonable and consistent with assumptions that would be used by other marketplace participants.
+The estimates of future cash flows used in determining the fair value of the indefinite-lived intangible assets involve significant management judgment and are based upon assumptions about expected future operating performance, economic conditions, market conditions and cost of capital. Inherent in estimating the future cash flows are uncertainties beyond our control, such as changes in capital markets. The actual cash flows could differ materially from management's estimates due to changes in business conditions, operating performance and economic conditions.
+Based on the results of quantitative tests over amortized intangible assets, the company recorded an impairment charge of 
+$3.5 million
+ related to developed technology.  
+16
+The aggregate intangible amortization expense was $
+15.5
+ million and $
+15.0
+ million for the three months period ended September 27, 2025 and September 28, 2024, respectively. The aggregate intangible amortization expense was $
+46.9
+ million and $
+48.7
+ million for the nine months period ended September 27, 2025 and September 28, 2024, respectively. The estimated future amortization expense of intangible assets is as follows (in thousands):
+
+Twelve Month Period coinciding with the end of the company's Fiscal Third Quarter
+Amortization Expense
+
+2026
+$
+59,968
+
+2027
+49,239
+
+2028
+43,618
+
+2029
+37,510
+
+2030
+33,119
+
+Thereafter
+55,647
+
+$
+279,101
+
+10)    
+Accrued Expenses
+Accrued expenses consist of the following (in thousands):
+
+Sep 27, 2025
+Dec 28, 2024
+Contract liabilities
+$
+176,896
+
+$
+120,503
+
+Accrued payroll and related expenses
+114,549
+
+107,061
+
+Accrued warranty
+103,456
+
+98,306
+
+Accrued customer rebates
+59,766
+
+54,558
+
+Accrued short-term leases
+28,227
+
+27,938
+
+Accrued sales and other tax
+22,227
+
+20,626
+
+Accrued professional fees
+18,299
+
+13,973
+
+Accrued contingent consideration
+18,148
+
+25,748
+
+Accrued agent commission
+17,970
+
+16,730
+
+Accrued product liability and workers compensation
+9,639
+
+10,386
+
+Other accrued expenses
+82,321
+
+80,636
+
+$
+651,498
+
+$
+576,465
+
+11)    
+Warranty Costs
+In the normal course of business, the company issues product warranties for specific product lines and provides for the estimated future warranty cost in the period in which the sale is recorded. The estimate of warranty cost is based on contract terms and historical warranty loss experience that is periodically adjusted for recent actual experience. Because warranty estimates are forecasts that are based on the best available information, actual claims costs may differ from amounts provided. Adjustments to initial obligations for warranties are made as changes in the obligations become reasonably estimable.
+17
+A rollforward of the warranty reserve is as follows (in thousands):
+
+Nine Months Ended
+
+Sep 27, 2025
+Balance as of December 28, 2024
+$
+98,306
+
+Warranty reserve related to acquisitions
+359
+
+Warranty expense
+67,205
+
+Warranty claims
+(
+62,414
+)
+Balance as of September 27, 2025
+$
+103,456
+
+12)    Financing Arrangements
+
+Sep 27, 2025
+Dec 28, 2024
+
+(in thousands)
+Senior secured revolving credit line
+$
+595,000
+
+$
+—
+
+Term loan facility
+817,361
+
+928,542
+
+Delayed draw term loan facility
+645,200
+
+712,500
+
+Convertible senior notes
+—
+
+745,074
+
+Foreign loans
+9,576
+
+8,489
+
+Other debt arrangement
+—
+
+462
+
+Total debt
+2,067,137
+
+2,395,067
+
+Less:  Current maturities of long-term debt
+42,110
+
+43,949
+
+Long-term debt
+$
+2,025,027
+
+$
+2,351,118
+
+Credit Facility
+As of September 27, 2025, the company had $
+2.1
+ billion of borrowings outstanding under its credit facility (the "Credit Facility"), including $
+819.8
+ million outstanding under the term loan ($
+817.4
+ million, net of unamortized issuance fees) and $
+645.2
+ million outstanding under the delayed draw term loan. The company also had $
+5.2
+ million in outstanding letters of credit as of September 27, 2025, which reduces the borrowing availability under the Credit Facility. Remaining borrowing capacity under this facility was $
+1.8
+ billion at September 27, 2025.
+On August 19, 2025, the company and its lenders entered into an agreement to amend the Credit Facility which, among other things, extended the maturity date of the Credit Agreement from October 21, 2026 to April 28, 2028, and made certain changes that, subject to the satisfaction of specified conditions, give the company and its subsidiaries the ability to consummate the company’s previously announced plan to separate its Food Processing business through a spin-off as a new independent publicly traded company. The company also repaid a portion of outstanding principal of the term loan facility and delayed draw term loan facility as part of the amendment. There were no changes to borrowing rates or covenants as part of the amendment.
+At September 27, 2025, borrowings under the Credit Facility accrued interest at a rate of 
+1.375
+% above the daily simple or term Secured Overnight Financing Rate (“SOFR”) per annum or 
+0.375
+% above the highest of the prime rate, the federal funds rate plus 
+0.50
+% and one month Term SOFR plus 
+1.00
+%. The interest rates on borrowings under the Credit Facility may be adjusted quarterly based on the company’s Funded Debt less Unrestricted Cash to Pro Forma EBITDA (the “Leverage Ratio”) on a rolling four-quarter basis. Additionally, a commitment fee based upon the Leverage Ratio is charged on the unused portion of the commitments under the Credit Facility. As of September 27, 2025, borrowings under the Credit Facility accrued interest at a minimum of 
+1.375
+% above SOFR (with an additional spread adjustment of 
+0.10
+%) and the variable unused commitment fee will be at a minimum of 
+0.20
+%. The average interest rate per annum, inclusive of hedging instruments, on the debt under the Credit Facility was equal to 
+4.97
+% at the end of the period and the variable commitment fee was equal to 
+0.20
+% per annum as of September 27, 2025.
+18
+The term loan and delayed draw term loan facilities had an average interest rate per annum, inclusive of hedging instruments, of 
+4.70
+% as of September 27, 2025.
+In addition, the company has international credit facilities to fund working capital needs outside the United States. At September 27, 2025, these foreign credit facilities amounted to $
+9.6
+ million in U.S. Dollars with a weighted average per annum interest rate of approximately 
+2.30
+%.
+The company’s debt is reflected on the balance sheet at cost. The fair values of the Credit Facility, term debt and foreign and other debt is based on the amount of future cash flows associated with each instrument discounted using the company's incremental borrowing rate. The company believes its interest rate margins, based on the company’s Leverage Ratio, on its existing debt are consistent with current market conditions and therefore the carrying value of debt reflects the fair value. The carrying value and estimated aggregate fair value, a level 2 measurement, based primarily on market prices, of debt excluding the Convertible Notes is as follows (in thousands):
+
+Sep 27, 2025
+Dec 28, 2024
+
+Carrying Value
+Fair Value
+Carrying Value
+Fair Value
+Total debt excluding convertible senior notes
+$
+2,067,137
+
+$
+2,069,562
+
+$
+1,649,994
+
+$
+1,652,702
+
+The company uses floating-to-fixed interest rate swap agreements to hedge variable interest rate risk associated with the Credit Facility. At September 27, 2025, the company had outstanding floating-to-fixed interest rate swaps totaling $
+155.0
+ million notional amount carrying an average interest rate of 
+1.11
+% maturing in less than 12 months and $
+315.0
+ million notional amount carrying an average interest rate of 
+1.28
+% that mature in more than 12 months but less than 29 months.
+At September 27, 2025, the company was in compliance with all covenants pursuant to its borrowing agreements. 
+Convertible Notes
+On August 21, 2020, the company issued $
+747.5
+ million aggregate principal amount of 
+1.00
+% Convertible Senior Notes due September 1, 2025 in a private offering pursuant to an indenture, dated August 21, 2020 (the "Indenture"), between the company and U.S. Bank National Association, as trustee. Interest was payable semi-annually in arrears on March 1 and September 1 of each year. The company could settle the conversions of the Convertible Notes in cash, shares of the company's common stock or any combination thereof at its election. The Convertible Notes were convertible based upon an initial conversion rate of 
+7.7746
+ shares of the company's common stock per $
+1,000
+ principal amount of the Convertible Notes, which was equivalent to an initial conversion price of approximately $
+128.62
+ per share of the company's common stock, subject to adjustment upon occurrence of certain specified events in accordance with the Indenture. The Convertible Notes were general unsecured obligations of the company.
+The Convertible Notes matured on September 1, 2025. The company settled the principal amount in cash and the excess conversion value by delivering 
+493,917
+ shares of its common stock. The shares of common stock delivered to settle the excess conversion value of the Convertible Notes were offset by shares received under the Capped Call Transactions described below. 
+The following table summarizes the outstanding principal amount and carrying value of the Convertible Notes:
+
+Dec 28, 2024
+
+(in thousands)
+Principal amounts:
+Principal
+$
+747,499
+
+Unamortized issuance costs
+(
+2,425
+)
+Net carrying amount
+$
+745,074
+
+19
+The following table summarizes total interest expense recognized related to the Convertible Notes: 
+
+Three Months Ended
+Nine Months Ended
+
+Sep 27, 2025
+Sep 28, 2024
+Sep 27, 2025
+Sep 28, 2024
+Contractual interest expense
+$
+1,308
+
+$
+1,849
+
+$
+5,046
+
+$
+5,565
+
+Interest cost related to amortization of issuance costs
+629
+
+889
+
+2,425
+
+2,675
+
+Total interest expense
+$
+1,937
+
+$
+2,738
+
+$
+7,471
+
+$
+8,240
+
+Capped Call Transactions
+In connection with the pricing of the Convertible Notes, the company entered into privately negotiated Capped Call Transactions (the "2020 Capped Call Transactions") and the company used the net proceeds of the offering of the Convertible Notes to pay the aggregate amount of $
+104.7
+ million for them. The company entered into two tranches of privately negotiated Capped Call Transactions in December 2021 (the "2021 Capped Call Transactions") in the aggregate amount of $
+54.6
+ million. On March 15, 2022, the company entered into an additional tranche of privately negotiated Capped Call Transactions (the "2022 Capped Call Transactions") in the amount of $
+9.7
+ million
+. 
+The 2020, 2021, and 2022 Capped Call Transactions (collectively, the "Capped Call Transactions") were expected generally to reduce the potential dilution and/or offset the cash payments the company was required to make in excess of the principal amount of the Convertible Notes upon conversion of the Convertible Notes in the event that the market price per share of the company's common stock was greater than the strike price of the Capped Call Transactions (which initially corresponds to the initial conversion price of the Convertible Notes and is subject to certain adjustments under the terms of the Capped Call Transactions), with such reduction and/or offset subject to a cap based on the cap price of the Capped Call Transactions. The 2020 Capped Call Transactions have an initial cap price of $
+207.93
+ per share of the company's common stock. The 2021 Capped Call Transactions have initial cap prices of $
+216.50
+ and $
+225.00
+ per share of the company's common stock. The 2022 Capped Call Transactions have an initial cap price of $
+229.00
+ per share. The Capped Call Transactions cover, initially, the number of shares of the company's common stock underlying the Convertible Notes, subject to anti-dilution adjustments substantially similar to those applicable to the Convertible Notes.
+The Capped Call Transactions are separate transactions entered into by the company with the capped call counterparties, and are not part of the terms of the Convertible Notes and will not affect any holder's right under the Convertible Notes. Holders of the Convertible Notes will not have any rights with respect to the Capped Call Transactions. The Capped Call Transactions do not meet the criteria for separate accounting as a derivative as they are indexed to the company's stock. The premiums paid of the Capped Call Transactions have been included as a net reduction to additional paid-in capital with stockholders' equity.
+The company exercised its rights under the Capped Call Transactions upon maturity of the Convertible Notes, which resulted in the receipt of 
+472,432
+ shares of its common stock to be held in treasury. These transactions resulted in a $
+64.9
+ million increase in treasury stock, which was measured based on the fair market value of the shares received, offset by an equivalent increase in additional paid-in capital with no net impact to equity.
+20
+13)    
+Financial Instruments
+Foreign Exchange
+: The company uses foreign currency forward, foreign exchange swaps and option purchase and sales contracts to hedge its exposure to changes in foreign currency exchange rates. The company’s primary hedging activities are to mitigate its exposure to changes in exchange rates on intercompany and third-party trade receivables and payables. The company does not currently enter into derivative financial instruments for speculative purposes. In managing its foreign currency exposures, the company identifies and aggregates naturally occurring offsetting positions and then hedges residual balance sheet exposures. The notional amount of foreign currency contracts outstanding was $
+187.0
+ million and $
+239.3
+ million as of September 27, 2025 and December 28, 2024, respectively. The fair value of the forward and option contracts was a loss of $
+0.4
+ million at the end of the third quarter of 2025.
+Interest Rate:
+ The company has entered into interest rate swaps to fix the interest rate applicable to certain of its variable-rate debt. The agreements swapped one-month LIBOR for fixed rates. In February 2022, the company entered into an additional floating-to-fixed interest rate swap agreement that uses a daily SOFR in lieu of LIBOR. In April 2023, all outstanding LIBOR swap agreements were amended to one month term SOFR. The company has designated these swaps as cash flow hedges and all changes in fair value of the swaps are recognized in accumulated other comprehensive income. As of September 27, 2025, the fair value of these instruments was an asset of $
+14.6
+ million. The change in fair value of these swap agreements in the first nine months of 2025 was a loss of $
+11.8
+ million, net of taxes.
+The following table summarizes the company’s fair value of interest rate swaps (in thousands):
+Condensed Consolidated
+Balance Sheet Presentation
+Sep 27, 2025
+Dec 28, 2024
+Fair value
+Prepaid expense and other
+$
+2,120
+
+$
+1,986
+
+Fair value
+Other assets
+$
+12,452
+
+$
+27,966
+
+The impact on earnings from interest rate swaps was as follows (in thousands):
+
+Three Months Ended
+Nine Months Ended
+
+Presentation of Gain/(loss)
+Sep 27, 2025
+Sep 28, 2024
+Sep 27, 2025
+Sep 28, 2024
+Gain/(loss) recognized in accumulated other comprehensive income
+Other comprehensive income
+$
+616
+
+$
+(
+10,409
+)
+$
+(
+2,093
+)
+$
+4,159
+
+Gain reclassified from accumulated other comprehensive income (effective portion)
+Interest expense
+$
+4,027
+
+$
+6,884
+
+$
+13,287
+
+$
+21,309
+
+Interest rate swaps are subject to default risk to the extent the counterparties are unable to satisfy their settlement obligations under the interest rate swap agreements. As a result, the company has counterparty credit exposure to large global financial institutions, which the company monitors on a regular basis.
+14)    
+Segment Information
+An operating segment is defined as a component of an enterprise, which has discrete financial information that is evaluated regularly. The company determined that its Chief Executive Officer is the Chief Operating Decision Maker (the "CODM"), who possesses the ultimate authority with respect to assessment of performance, allocation of resources, and all strategic actions of the company. In performing this responsibility, the CODM regularly reviews key internal management reports, financial information including forecasts, and quarterly results, which are prepared at the operating segment level.
+In accordance with ASC 280-10, Segment Reporting, the company operates in three reportable operating segments defined by management reporting structure and operating activities. The company’s reportable segments are: (i) the Commercial Foodservice Equipment Group, (ii) the Food Processing Equipment Group, and (iii) the Residential Kitchen Equipment Group. 
+21
+Adjusted EBITDA is the profitability metric reported to the CODM for the purposes of making decisions about allocation of resources to each segment and assessing performance of each segment. The company defines Adjusted EBITDA as operating income less depreciation, intangible amortization, restructuring, acquisition related adjustments, impairments, stock compensation and other non-recurring items, which management considers to be outside core operating results. The CODM reviews this metric regularly to compare the profitability of segments, identify trends, and evaluate which segments require additional resources or strategic adjustments. The CODM uses Adjusted EBITDA to support the allocation of resources predominantly in the annual budget and forecasting process. The company believes that investors find this measure useful in comparing our operating performance to that of other companies in our industry because this measure generally illustrates the underlying performance of the business.  
+Management believes that inter-segment sales are made at established arm's length transfer prices. All inter-segment transactions are eliminated and values are presented net of eliminations. The accounting policies of the segments are the same as those described in the summary of significant accounting policies.
+Additional detail about each of the reportable segments and its corporate income and expenses is set forth below:
+The Commercial Foodservice Equipment Group manufactures, sells, and distributes foodservice equipment for the restaurant and institutional kitchen industry. The Food Processing Equipment Group manufactures preparation, cooking, packaging food handling and food safety equipment for the food processing industry. The Residential Kitchen Equipment Group manufactures, sells and distributes kitchen equipment for the residential market.
+See Note 1 - Summary of Significant Accounting Policies, Basis of Presentation regarding reclassifications in the current year and prior year segment balances. 
+Net Sales Summary
+(dollars in thousands)
+
+Three Months Ended
+Nine Months Ended
+
+Sep 27, 2025
+Sep 28, 2024
+Sep 27, 2025
+Sep 28, 2024
+
+Sales
+Percent
+Sales
+Percent
+Sales
+Percent
+Sales
+Percent
+Business Segments:
+
+Commercial Foodservice
+$
+606,001
+
+61.7
+
+%
+$
+591,717
+
+62.7
+
+%
+$
+1,749,323
+
+61.0
+
+%
+$
+1,782,940
+
+62.3
+
+%
+Food Processing
+201,353
+
+20.5
+
+177,874
+
+18.9
+
+585,454
+
+20.4
+
+538,460
+
+18.8
+
+Residential Kitchen
+174,777
+
+17.8
+
+173,218
+
+18.4
+
+531,840
+
+18.6
+
+539,881
+
+18.9
+
+    Total
+$
+982,131
+
+100.0
+
+%
+$
+942,809
+
+100.0
+
+%
+$
+2,866,617
+
+100.0
+
+%
+$
+2,861,281
+
+100.0
+
+%
+22
+The following table summarizes the results of operations for the company's business segments
+(1) 
+(dollars in thousands):
+
+Commercial 
+ Foodservice
+Food Processing
+Residential Kitchen 
+Corporate
+and Other
+(2)
+Total
+Three Months Ended September 27, 2025
+
+Net sales
+$
+606,001
+
+$
+201,353
+
+$
+174,777
+
+$
+—
+
+$
+982,131
+
+Cost of sales
+367,878
+
+132,314
+
+120,486
+
+147
+
+620,825
+
+Other segment items 
+(3)
+76,501
+
+31,420
+
+37,152
+
+19,829
+
+164,902
+
+Segment adjusted EBITDA 
+(4)
+161,622
+
+37,619
+
+17,139
+
+(
+19,976
+)
+196,404
+
+Depreciation expense 
+(5)
+7,095
+
+3,298
+
+4,291
+
+551
+
+15,235
+
+Amortization expense 
+(6)
+10,657
+
+3,013
+
+1,858
+
+2,067
+
+17,595
+
+Net capital expenditures
+7,016
+
+9,478
+
+3,505
+
+267
+
+20,266
+
+Nine Months Ended September 27, 2025
+Net sales
+$
+1,749,323
+
+$
+585,454
+
+$
+531,840
+
+$
+—
+
+$
+2,866,617
+
+Cost of sales
+1,044,777
+
+374,546
+
+369,005
+
+(
+241
+)
+1,788,087
+
+Other segment items 
+(3)
+234,969
+
+97,377
+
+106,477
+
+61,030
+
+499,853
+
+Segment adjusted EBITDA 
+(4)
+469,577
+
+113,531
+
+56,358
+
+(
+60,789
+)
+578,677
+
+Depreciation expense 
+(5)
+20,636
+
+9,284
+
+12,595
+
+2,074
+
+44,589
+
+Amortization expense 
+(6)
+32,903
+
+8,556
+
+5,477
+
+5,640
+
+52,576
+
+Net capital expenditures
+22,219
+
+35,201
+
+17,092
+
+405
+
+74,917
+
+Total assets
+3,572,486
+
+1,384,806
+
+1,258,818
+
+138,550
+
+6,354,660
+
+Three Months Ended September 28, 2024
+
+Net sales
+$
+591,717
+
+$
+177,874
+
+$
+173,218
+
+$
+—
+
+$
+942,809
+
+Cost of sales
+357,922
+
+108,647
+
+120,421
+
+385
+
+587,375
+
+Other segment items 
+(3)
+70,533
+
+26,340
+
+32,063
+
+13,526
+
+142,462
+
+Segment adjusted EBITDA 
+(4)
+163,262
+
+42,887
+
+20,734
+
+(
+13,911
+)
+212,972
+
+Depreciation expense 
+(5)
+6,897
+
+2,722
+
+3,906
+
+450
+
+13,975
+
+Amortization expense 
+(6)
+11,479
+
+1,736
+
+1,814
+
+1,776
+
+16,805
+
+Net capital expenditures
+5,967
+
+3,667
+
+1,809
+
+46
+
+11,489
+
+Nine Months Ended September 28, 2024
+
+Net sales
+$
+1,782,940
+
+$
+538,460
+
+$
+539,881
+
+$
+—
+
+$
+2,861,281
+
+Cost of sales
+1,073,670
+
+328,618
+
+378,925
+
+(
+1,366
+)
+1,779,847
+
+Other segment items 
+(3)
+222,493
+
+81,459
+
+111,515
+
+50,822
+
+466,289
+
+Segment adjusted EBITDA 
+(4)
+486,777
+
+128,383
+
+49,441
+
+(
+49,456
+)
+615,145
+
+Depreciation expense 
+(5)
+20,419
+
+7,435
+
+11,680
+
+1,295
+
+40,829
+
+Amortization expense 
+(6)
+37,801
+
+5,451
+
+5,415
+
+5,341
+
+54,008
+
+Net capital expenditures
+16,221
+
+8,058
+
+10,828
+
+1,062
+
+36,169
+
+Total assets
+3,687,621
+
+1,015,528
+
+1,963,444
+
+534,488
+
+7,201,081
+
+23
+(1)
+Non-operating expenses are not allocated to the reportable segments. Non-operating expenses consist of interest expense and deferred financing amortization, foreign exchange gains and losses and other income and expense items outside of income from operations.
+(2)
+Includes corporate and other general company assets and operations.
+(3)
+Other segment items for each reportable segment includes operating expenses, which primarily consist of selling, general and administrative expenses. Other segment items excludes the impact of depreciation, intangible amortization, restructuring, impairments, stock compensation and other items that neither relate to the ordinary course of the company’s business nor reflect the company’s underlying business performance.
+(4)
+Excludes the impacts mentioned in Other segment items.  
+(5)
+Includes depreciation on right of use assets.
+(6)
+Includes amortization of deferred financing costs and Convertible Notes issuance costs.
+A reconciliation of our segment information for earnings before income taxes to the corresponding amounts in the Consolidated Statements of Earnings is shown in the table below for the periods presented:
+Three Months Ended
+Nine Months Ended
+
+Sep 27, 2025
+Sep 28, 2024
+Sep 27, 2025
+Sep 28, 2024
+Adjusted EBITDA
+$
+196,404
+
+$
+212,972
+
+$
+578,677
+
+$
+615,145
+
+Less:  Other segment operating expenses 
+(1)
+750,653
+
+39,533
+
+836,936
+
+128,865
+
+Income from operations
+(
+554,249
+)
+173,439
+
+(
+258,259
+)
+486,280
+
+Interest expense and deferred financing amortization, net
+25,147
+
+21,399
+
+63,355
+
+72,239
+
+Net periodic pension benefit
+(
+1,576
+)
+(
+3,876
+)
+(
+4,653
+)
+(
+11,244
+)
+Other expense (income), net
+1,132
+
+1,239
+
+7,540
+
+995
+
+Earnings before income taxes
+(
+578,952
+)
+154,677
+
+(
+324,501
+)
+424,290
+
+Provision for income taxes
+(
+65,974
+)
+40,511
+
+(
+9,831
+)
+108,161
+
+Net earnings
+$
+(
+512,978
+)
+$
+114,166
+
+$
+(
+314,670
+)
+$
+316,129
+
+(1) Consists of the impact of depreciation, intangible amortization, restructuring, impairments, stock compensation and other items that neither relate to the ordinary course of the company’s business nor reflect the company’s underlying business performance.
+Geographic Information
+Long-lived assets, not including goodwill and other intangibles (in thousands):
+
+Sep 27, 2025
+Sep 28, 2024
+United States and Canada
+$
+521,052
+
+$
+473,941
+
+Asia
+38,088
+
+40,953
+
+Europe and Middle East
+319,620
+
+225,847
+
+Latin America
+10,759
+
+10,958
+
+Total international
+$
+368,467
+
+$
+277,758
+
+$
+889,519
+
+$
+751,699
+
+24
+15)    
+Employee Retirement Plans
+The following table summarizes the company's net periodic pension benefit related to the AGA Group pension plans (in thousands):
+Three Months Ended
+Nine Months Ended
+Sep 27, 2025
+Sep 28, 2024
+Sep 27, 2025
+Sep 28, 2024
+Net Periodic Pension Benefit:
+
+Interest cost
+$
+12,141
+
+$
+11,225
+
+$
+35,875
+
+$
+32,814
+
+Expected return on assets
+(
+14,567
+)
+(
+15,930
+)
+(
+43,043
+)
+(
+46,567
+)
+Amortization of net loss
+16
+
+14
+
+46
+
+40
+
+Amortization of prior service cost
+701
+
+686
+
+2,072
+
+2,005
+
+$
+(
+1,709
+)
+$
+(
+4,005
+)
+$
+(
+5,050
+)
+$
+(
+11,708
+)
+The pension costs for all other plans of the company were not material during the period. All components of pension benefit are included within Net periodic pension benefit in the Condensed Consolidated Statements of Comprehensive Income.
+
+16)    
+Share Repurchases
+In November 2017, the company's Board of Directors approved a stock repurchase program authorizing the company to repurchase in the aggregate up to 
+2,500,000
+ shares of its outstanding common stock. In May 2022, July 2024 and May 2025, the company's Board of Directors approved the repurchase of an additional 
+2,500,000
+, 
+2,500,000
+ and 
+7,500,000
+ shares of its outstanding common stock under the current program, respectively. 
+During three and nine months ended September 27, 2025, the company repurchased 
+1,049,354
+ and 
+3,462,088
+ shares of its common stock under the program for $
+148.6
+ million and $
+500.4
+ million, respectively. As of September 27, 2025, 
+6,695,978
+ shares had been purchased under the stock repurchase program and 
+8,304,022
+ shares remained authorized for repurchase.
+
+The company also treats shares withheld for tax purposes on behalf of employees in connection with the vesting of restricted share grants as common stock repurchases because they reduce the number of shares that would have been issued upon vesting. During the three and nine months ended September 27, 2025, the company repurchased 
+105
+ and 
+83,089
+ shares of its common stock that were surrendered to the company for withholding taxes related to restricted stock vestings for less than $
+0.1
+ million and $
+13.9
+ million, respectively.
+25
+Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
+Special Note Regarding Forward-Looking Statements
+
+This report contains forward-looking statements subject to the safe harbor created by the Private Securities Litigation Reform Act of 1995. The company cautions readers that these projections are based upon future results or events and are highly dependent upon a variety of important factors which could cause such results or events to differ materially from any forward-looking statements which may be deemed to have been made in this report, or which are otherwise made by or on behalf of the company. Such factors include, but are not limited to, the outcome of our strategic review; the possibility that the proposed spin-off of the company’s Food Processing business will not be consummated within the anticipated time period or at all and that the company may not realize all or any of the expected benefits of the spin-off; volatility in earnings resulting from goodwill impairment losses, which may occur irregularly and in varying amounts; variability in financing costs and interest rates; quarterly variations in operating results; dependence on key customers; international exposure; risks associated with the company’s foreign operations, including foreign exchange, tariffs and political risks affecting international sales; unfavorable tax law changes and tax authority rulings; ability to protect trademarks, copyrights and other intellectual property; cybersecurity attacks and other breaches in security; changing market conditions, including inflation; the impact of competitive products and pricing; the impact of announced management and organizational changes; the state of the residential construction, housing and home improvement markets; the state of the credit markets, including mortgages, home equity loans and consumer credit; intense competition in the company's business segments including the impact of both new and established global competitors; the timely development and market acceptance of the company’s products; the availability and cost of raw materials; the company's continued ability to realize profitable growth through the sourcing and completion of strategic acquisitions; and other risks detailed herein and from time-to-time in the company’s SEC filings, including the company’s 2024 Annual Report on Form 10-K. All forward-looking statements are expressly qualified in their entirety by these cautionary statements. The forward-looking statements included in this report are made only as of the date hereof and, except as required by federal securities laws and rules and regulations of the SEC, the company undertakes no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise.
+Proposed Separation Transaction
+On February 25, 2025, the company announced its intent to separate its Food Processing business through a spin-off of the Food Processing business, under which the stock of Food Processing, as a new independent publicly traded company, will be distributed to Middleby’s shareholders. As of the date hereof, Middleby is targeting completion of the separation by first half of 2026, subject to certain customary conditions, including, among others, final approval by the company’s Board of Directors and the effectiveness of appropriate filings with the SEC. The spin-off of Food Processing is expected to be tax-free for U.S. federal income tax purposes. There can be no assurance that any separation transaction will ultimately occur or, if one does occur, of its terms or timing.
+Current Events
+The current domestic and international political environment have contributed to uncertainty surrounding the future state of the global economy. Recent significant trade policy and tariff actions by the U.S. government and many other countries are creating significant uncertainty and potential risks for the company. The tariffs imposed to date have increased the cost of certain raw materials and components, and while the company is actively exploring opportunities to mitigate these increased costs, there can be no assurance of the company’s ability to offset the impact of these tariffs, fully or at all. Furthermore, the imposition of retaliatory tariffs from other countries on the company's exported products could negatively affect demand and future sales volumes. The long-term effects of current and future tariffs and any future trade policy changes on the global economy and the industries in which the company operates remain uncertain and could have a material adverse effect on our financial statements in any particular reporting period. Even in light of such headwinds, we remain focused on delivering strong financial results and executing on our long-term strategy and profitability objectives, as well as continuing to identify operational efficiencies in all aspects of our business. 
+In addition to tariffs, the company has been negatively impacted by inflation in wages, logistics, energy, raw materials and component costs. Price increases and pricing strategies have been implemented to mitigate the impact of cost inflation on margins and the company continues to actively monitor costs. Recently announced interest rate cuts are expected to reduce demand headwinds in the long term; however consumer demand in the near term has and may continue to be impacted by higher inflation levels and uncertainty surrounding the Federal Reserve’s future interest rate policy decisions. 
+26
+The company continues to actively monitor global supply chain, labor and logistics constraints, which have had a negative impact on the company's ability to source parts and complete and ship units. While the company is seeing improvement on certain supply chain and logistics constraints, supply chains for certain key components remain distressed and uncertain given trade policy and tariff actions. The decreased availability of resources and inflationary costs have resulted in heightened inventory levels. To combat these pressures, the company has evaluated alternative sourcing, dual sourcing and collaborated across the organization, where appropriate, without materially presenting new risks or increasing current risks around quality and reliability. Our capital resources have been and the company expects they will continue to be sufficient to address these challenges.
+Net Sales Summary
+(dollars in thousands)
+
+Three Months Ended
+Nine Months Ended
+
+Sep 27, 2025
+Sep 28, 2024
+Sep 27, 2025
+Sep 28, 2024
+
+Sales
+Percent
+Sales
+Percent
+Sales
+Percent
+Sales
+Percent
+Business Segments:
+
+Commercial Foodservice
+$
+606,001 
+61.7 
+%
+$
+591,717 
+62.7 
+%
+$
+1,749,323 
+61.0 
+%
+$
+1,782,940 
+62.3 
+%
+Food Processing
+201,353 
+20.5 
+177,874 
+18.9 
+585,454 
+20.4 
+538,460 
+18.8 
+Residential Kitchen
+174,777 
+17.8 
+173,218 
+18.4 
+531,840 
+18.6 
+539,881 
+18.9 
+    Total
+$
+982,131 
+100.0 
+%
+$
+942,809 
+100.0 
+%
+$
+2,866,617 
+100.0 
+%
+$
+2,861,281 
+100.0 
+%
+Results of Operations
+The following table sets forth certain consolidated statements of earnings items as a percentage of net sales for the periods:
+
+Three Months Ended
+Nine Months Ended
+
+Sep 27, 2025
+Sep 28, 2024
+Sep 27, 2025
+Sep 28, 2024
+Net sales
+100.0 
+%
+100.0 
+%
+100.0 
+%
+100.0 
+%
+Cost of sales
+63.2 
+62.3 
+62.4 
+62.2 
+Gross profit
+36.8 
+37.7 
+37.6 
+37.8 
+Selling, general and administrative expenses
+20.6 
+19.0 
+21.6 
+20.4 
+Restructuring
+0.3 
+0.3 
+0.3 
+0.4 
+Impairments
+72.2 
+— 
+24.7 
+— 
+Income (loss) from operations
+(56.3)
+18.4 
+(9.0)
+17.0 
+Interest expense and deferred financing amortization, net
+2.6 
+2.3 
+2.2 
+2.5 
+Net periodic pension benefit
+(0.2)
+(0.4)
+(0.2)
+(0.4)
+Other expense, net
+0.1 
+0.1 
+0.3 
+— 
+Earnings before income taxes
+(58.8)
+16.4 
+(11.3)
+14.9 
+Provision for income taxes
+(6.7)
+4.3 
+(0.3)
+3.8 
+Net earnings
+(52.1)
+%
+12.1 
+%
+(11.0)
+%
+11.1 
+%
+27
+Three Months Ended September 27, 2025 as compared to Three Months Ended September 28, 2024
+NET SALES
+. Net sales for the three months period ended September 27, 2025 increased by $39.3 million or 4.2% to $982.1 million, as compared to $942.8 million in the three months period ended September 28, 2024. Net sales increased by $30.8 million, or 3.3%, from the fiscal 2024 acquisitions of Emery Thompson, JC Ford, and Gorreri and the fiscal 2025 acquisitions of Frigomeccanica and Oka. Excluding acquisitions, net sales increased $8.5 million, or 0.9%, from the prior year period. The impact of foreign exchange rates on foreign sales translated into U.S. Dollars for the three months period ended September 27, 2025 increased net sales by approximately $9.8 million or 1.0%. Excluding the impact of foreign exchange and acquisitions, sales decreased 0.1% for the three months period ended September 27, 2025 as compared to the prior year period, including a net sales increase of 1.6% at the Commercial Foodservice Equipment Group, a net sales decrease of 5.6% at the Food Processing Equipment Group and a net sales decrease of 0.6% at the Residential Kitchen Equipment Group. 
+•
+Net sales of the Commercial Foodservice Equipment Group increased by $14.3 million, or 2.4%, to $606.0 million in the three months period ended September 27, 2025, as compared to $591.7 million in the prior year period. Excluding the acquisition of Emery Thompson, net sales increased $12.6 million, or 2.1%, at the Commercial Foodservice Equipment Group. Excluding the impact of foreign exchange and the acquisition, net sales increased $9.6 million, or 1.6%. Domestically, the company realized a sales increase of $15.3 million, or 3.7%, to $433.7 million, as compared to $418.4 million in the prior year period. Excluding the acquisition, the increase in domestic sales was $13.7 million, or 3.3%. The increase in domestic sales is related to improved market conditions. International sales decreased $1.0 million, or 0.6%, to $172.3 million, as compared to $173.3 million in the prior year period. Excluding the impact of foreign exchange and the acquisition, the decrease in international sales was $4.1 million, or 2.4%. The decrease in international sales is related to slow market conditions, primarily in the Latin American markets.
+•
+Net sales of the Food Processing Equipment Group increased by $23.4 million, or 13.2%, to $201.3 million in the three months period ended September 27, 2025, as compared to $177.9 million in the prior year period. Net sales from the acquisitions of JC Ford, Gorreri, Frigomeccanica and Oka, accounted for an increase of $29.1 million during the three months period ended September 27, 2025. Excluding the impact of foreign exchange and acquisitions, net sales decreased $9.9 million, or 5.6%, at the Food Processing Equipment Group. Domestically, the company realized a sales increase of $16.3 million, or 15.6%, to $120.8 million, as compared to $104.5 million in the prior year period. Excluding acquisitions, the increase in domestic sales was $1.0 million, or 1.0%. The increase in domestic sales is primarily driven by higher sales volumes of protein products. International sales increased $7.1 million, or 9.7%, to $80.5 million, as compared to $73.4 million in the prior year period. Excluding the impact of foreign exchange and acquisitions, the decrease in international sales was $10.9 million, or 14.9%. The decrease in international sales is primarily related to slower market conditions in the European markets for the sale of protein products and Asian markets for the sale of bakery products.
+•
+Net sales of the Residential Kitchen Equipment Group increased by $1.6 million, or 0.9%, to $174.8 million in the three months period ended September 27, 2025, as compared to $173.2 million in the prior year period. Excluding the impact of foreign exchange, net sales decreased $1.0 million, or 0.6% at the Residential Kitchen Equipment Group. Domestically, the company realized a sales decrease of $2.1 million, or 1.9%, to $110.8 million, as compared to $112.9 million in the prior year period. The decrease in domestic sales is primarily driven by challenging market conditions. International sales increased $3.7 million, or 6.1%, to $64.0 million, as compared to $60.3 million in the prior year period. Excluding the impact of foreign exchange, the increase in international sales was $1.1 million, or 1.8%. The increase in international sales is primarily driven by improved market conditions, primarily in the Latin American and European markets.
+28
+GROSS PROFIT
+. Gross profit increased to $361.3 million in the three months period ended September 27, 2025, as compared to $355.4 million in the prior year period, primarily driven by higher sales volumes. The impact of foreign exchange rates increased gross profit by approximately $3.7 million. The gross margin rate was 36.8% in the three months period ended September 27, 2025, as compared to 37.7% in the prior year period, primarily impacted by tariffs and product mix.
+•
+Gross profit at the Commercial Foodservice Equipment Group increased by $4.3 million, or 1.8%, to $238.1 million in the three months period ended September 27, 2025, as compared to $233.8 million in the prior year period. 
+Excluding the acquisition of Emery Thompson, gross profit 
+increased
+ by 
+$3.4 million. The impact of foreign exchange rates increased gross profit by approximately $1.3 million. The gross margin rate decreased to 39.3%, as compared to 39.5% in the prior year period, primarily driven by tariffs. The gross margin rate, excluding the impact of foreign exchange and the acquisition, was 39.2%.
+•
+Gross profit at the Food Processing Equipment Group decreased by $0.2 million, or 0.3%, to $69.0 million in the 
+three months period ended September 27, 2025, as compared to $69.2 million in the prior year period. Gross profit from the acquisitions of
+ JC Ford, Gorreri, Frigomeccanica and Oka increased gross profit by $6.2 million. The impact of foreign exchange rates increased gross profit by approximately $1.3 million.
+ Excluding the impact of foreign exchange rates and acquisitions, gross profit decreased by 
+$7.7 million. The gross profit margin rate decreased to 34.3%, as compared to 38.9% in the prior year period, primarily related to tariffs and product mix. The gross margin rate, excluding the impact of foreign exchange and acquisitions, was 36.6%.
+•
+Gross profit at the Residential Kitchen Equipment Group increased by $1.5 million, or 2.8%, to $54.3 million in the three months period ended September 27, 2025, as compared to $52.8 million in the prior year period. The impact of foreign exchange rates increased gross profit by approximately $1.1 million. Gross profit increased related to higher sales volume. The gross margin rate increased to 31.1%, as compared to 30.5% in the prior year period, primarily related to product mix and benefits from cost reduction initiatives, offset by tariffs. The gross margin rate excluding the impact of foreign exchange was 30.9%. 
+SELLING, GENERAL AND ADMINISTRATIVE EXPENSES
+. Combined selling, general and administrative expenses increased to $203.6 million in the three months period ended September 27, 2025, as compared to $179.5 million in the three months period ended September 28, 2024. As a percentage of net sales, selling, general, and administrative expenses were 20.6% in the three months period ended September 27, 2025 as compared to 19.0% in the three months period ended September 28, 2024. 
+Selling, general and administrative expenses reflect increased costs of $7.1 million associated with acquisitions, including $1.3 million of intangible amortization expense. Selling, general and administrative expenses reflect increases in strategic transaction costs of $5.9 million, professional fees of $2.5 million, advertising and trade shows of $3.8 million, commissions of $2.0 million, contingent consideration of $1.8 million and travel expenses of $1.7 million; offset by a decrease of $2.9 million in combined compensation costs and share-based compensation. Foreign exchange rates had an unfavorable impact of $2.2 million. 
+RESTRUCTURING EXPENSES
+.
+
+Restructuring expenses increased $0.3 million to $2.8 million for the three months period ended September 27, 2025, as compared to $2.5 million for the three months period ended September 28, 2024. Restructuring expenses in the three months period ended September 27, 2025 related primarily to headcount reductions and facility consolidations within the Residential Kitchen Equipment Group. Restructuring expenses in the three months period ended September 28, 2024 related primarily to headcount reductions and facility consolidations within all three segments. 
+IMPAIRMENTS
+.  The company recognized non-cash impairment of $709.1 million in the three months period ended September 27, 2025 primarily associated with the interim quantitative impairment tests of goodwill of the Residential Kitchen Equipment Group reporting unit and several trademarks within Residential Kitchen Equipment Group. See Note 8 - Goodwill and Note 9 - Intangibles to the Condensed Consolidated Financial Statements for further information on impairments. There was no impairment expense in the prior year period. 
+NON-OPERATING EXPENSES
+. Interest and deferred financing amortization costs were $25.1 million in the three months period ended September 27, 2025, as compared to $21.4 million in the prior year period, primarily reflecting the increase in interest rates and net debt levels. Net periodic pension benefit decreased $2.3 million to $1.6 million in the three months period ended September 27, 2025, as compared to $3.9 million in the prior year period, related to the increase in discount rate used to calculate the interest cost and decrease in expected return on assets as a result of the lower asset value and slightly lower assumed return on assets than in prior years. Other expense was $1.1 million in the three months period ended September 27, 2025, as compared to $1.2 million in the prior year period and consists mainly of net foreign exchange gains and losses.
+29
+INCOME TAXES
+. A tax benefit of $(66.0) million, at an effective rate of 11.4%, was recorded during the three months period ended September 27, 2025, as compared to a tax provision of $40.5 million at an effective rate of 26.2%, in the prior year period. During the three months period ended September 27, 2025, the effective tax rate was less than the prior year period due to a portion of the impairment charges within the Residential Kitchen Equipment Group being non-deductible goodwill. 
+The effective tax rate for the 
+three months period ended September 27, 2025, when excluding the impairment charges within the Residential Kitchen Equipment Group, was 23.7% and
+ is higher than the U.S. statutory tax rate of 21% primarily due to state taxes and foreign tax rate differentials.
+On July 4, 2025, P.L. 119-21, commonly known as the One Big Beautiful Bill Act, was enacted into law in the United States. The company is currently evaluating the tax law changes and does not expect a material impact to its effective tax rate.
+30
+Nine Months Ended September 27, 2025 as compared to Nine Months Ended September 28, 2024 
+NET SALES
+. Net sales for the nine months period ended September 27, 2025 increased by $5.4 million, or 0.2%, to $2,866.7 million, as compared to $2,861.3 million in the nine months period ended September 28, 2024. Net sales increased by $84.7 million, or 3.0%, from the fiscal 2024 acquisitions of GBT GmbH Bakery, MaxMac, Emery Thompson, JC Ford and Gorreri and the fiscal 2025 acquisitions of Frigomeccanica and Oka. Excluding acquisitions, net sales decreased $79.3 million, or 2.8%, from the prior year period. The impact of foreign exchange rates on foreign sales translated into U.S. Dollars for the nine months period ended September 27, 2025 increased net sales by approximately $10.7 million. Excluding the impact of foreign exchange and acquisitions, sales decreased 3.1% for the nine months period ended September 27, 2025 as compared to the prior year period, including a net sales decrease of 2.2% at the Commercial Foodservice Equipment Group, a net sales decrease of 7.0% at the Food Processing Equipment Group and a net sales decrease of 2.3% at the Residential Kitchen Equipment Group. 
+•
+Net sales of the Commercial Foodservice Equipment Group decreased by $33.6 million, or 1.9%, to $1,749.3 million in the nine months period ended September 27, 2025, as compared to $1,782.9 million in the prior year period. Excluding the acquisition of Emery Thompson, net sales of the Commercial Foodservice Equipment Group decreased $39.7 million, or 2.2%, as compared to the prior year period. Excluding the impact of foreign exchange and the acquisition, net sales decreased $39.9 million, or 2.2%, at the Commercial Foodservice Equipment Group. Domestically, the company realized a sales decrease of $25.7 million, or 2.0%, to $1,260.1 million, as compared to $1,285.8 million in the prior year period. Excluding the acquisition, the decrease in domestic sales was $31.6 million, or 2.5%, as compared to the prior year period. The decrease in domestic sales is related to slower market conditions particularly with lower chain customer store traffic and replacement demand. International sales decreased $7.9 million, or 1.6%, to $489.2 million, as compared to $497.1 million in the prior year period. Excluding the impact of foreign exchange and the acquisition, the decrease in international sales was $8.3 million, or 1.7%. The decrease in international sales is related to slow market conditions, primarily in the Latin American and Asian markets.
+•
+Net sales of the Food Processing Equipment Group increased by $47.0 million, or 8.7%, to $585.5 million in the nine months period ended September 27, 2025, as compared to $538.5 million in the prior year period. Net sales from the acquisitions of GBT GmbH Bakery, MaxMac, JC Ford, Gorreri, Frigomeccanica and Oka accounted for an increase of $78.6 million during the nine months period ended September 27, 2025. Excluding the impact of acquisitions, net sales of the Food Processing Equipment Group decreased $31.6 million, or 5.9%, as compared to the prior year period. Excluding the impact of foreign exchange and acquisitions, net sales decreased $37.6 million, or 7.0%, at the Food Processing Equipment Group. Domestically, the company realized a sales increase of $21.3 million, or 6.7%, to $339.0 million, as compared to $317.7 million in the prior year period. This includes an increase of $38.7 million from acquisitions. Excluding acquisitions, the decrease in domestic sales was $17.4 million, or 5.5%, as compared to the prior year period. The decrease in domestic sales was driven primarily by protein products. International sales increased $25.7 million, or 11.6%, to $246.5 million, as compared to $220.8 million in the prior year period. This includes an increase of $39.9 million from acquisitions and an increase of $6.0 million related to the favorable impact of foreign exchange rates. Excluding the impact of foreign exchange and acquisitions, the sales decrease in international sales was $20.2 million, or 9.1%. The decrease in international sales reflects slower market conditions in the European and Asian markets.
+•
+Net sales of the Residential Kitchen Equipment Group decreased by $8.0 million, or 1.5%, to $531.8 million in the nine months period ended September 27, 2025, as compared to $539.9 million in the prior year period. Excluding the impact of foreign exchange, net sales decreased $12.5 million, or 2.3%, at the Residential Kitchen Equipment Group. Domestically, the company realized a sales decrease of $9.9 million, or 2.9%, to $334.8 million, as compared to $344.7 million in the prior year period. International sales increased $1.9 million, or 1.0%, to $197.1 million, as compared to $195.2 million in the prior year period. Excluding the impact of foreign exchange, the net sales decrease in international sales was $2.6 million, or 1.3%. The decrease in net sales is primarily driven by challenging market conditions domestically and in the European markets.
+GROSS PROFIT
+. Gross profit decreased to $1,078.5 million in the nine months period ended September 27, 2025 as compared to $1,081.4 million in the prior year period. The impact of foreign exchange rates increased gross profit by approximately $4.8 million. The gross margin rate was 37.6% in the nine months period ended September 27, 2025, as compared to 37.8% in the nine months period ended September 28, 2024. 
+
+31
+•
+Gross profit at the Commercial Foodservice Equipment Group decreased by $4.6 million, or 0.6%, to $704.6 million in the nine months period ended September 27, 2025, as compared to $709.2 million in the prior year period. Excluding the acquisition of Emery Thompson, gross profit decreased by $8.0 million related to lower sales volume. The impact of foreign exchange rates increased gross profit by approximately $0.6 million. The gross margin rate increased to 40.3%, as compared to 39.8% in the prior year period, primarily related to profitability initiatives. The gross margin rate, excluding the acquisition and the impact of foreign exchange, was 40.2%.
+•
+Gross profit at the Food Processing Equipment Group increased by $1.1 million, or 0.5%, to $210.9 million in the nine months period ended September 27, 2025, as compared to $209.8 million in the prior year period. Gross profit from the acquisitions of GBT GmbH Bakery, MaxMac, JC Ford, Gorreri, Frigomeccanica and Oka increased gross profit by $23.4 million. Excluding acquisitions, gross profit decreased by $22.3 million due to lower sales volume and product mix. The impact of foreign exchange rates increased gross profit by approximately $2.3 million. The gross profit margin rate decreased to 36.0%, as compared to 39.0% in the prior year period, primarily related to product mix. The gross margin rate, excluding acquisitions and the impact of foreign exchange, was 37.0%.
+•
+Gross profit at the Residential Kitchen Equipment Group increased by $1.8 million, or 1.1%, to $162.8 million in the nine months period ended September 27, 2025, as compared to $161.0 million in the prior year period. The impact of foreign exchange rates increased gross profit by approximately $1.9 million. The gross margin rate increased to 30.6%, as compared to 29.8% in the prior year period, primarily related to product mix and benefits from cost reduction initiatives, offset by tariffs. The gross margin rate, excluding acquisitions and the impact of foreign exchange, was 30.5%. 
+SELLING, GENERAL AND ADMINISTRATIVE EXPENSES
+. Combined selling, general and administrative expenses increased to $619.8 million in the nine months period ended September 27, 2025, as compared to $584.1 million in the nine months period ended September 28, 2024. As a percentage of net sales, selling, general, and administrative expenses were 21.6% in the nine months period ended September 27, 2025, as compared to 20.4% in the nine months period ended September 28, 2024.  
+Selling, general and administrative expenses reflect increased costs of $18.1 million associated with acquisitions, including $3.6 million of intangible amortization expense. Selling, general and administrative expenses reflects increases in strategic costs of  $15.9 million, advertising and trade shows of $6.4 million, professional fees of $6.3 million, commissions of $5.7 million and travel expenses of $2.0 million. This was offset by a decrease of $15.0 million related to the combined impact of compensation costs and share-based compensation, and $5.4 million related to intangible amortization expense. Foreign exchange rates had an unfavorable impact of $1.9 million. 
+RESTRUCTURING EXPENSES
+.
+
+Restructuring expenses decreased $3.2 million to $7.8 million in the nine months period ended September 27, 2025 from $11.0 million in the nine months period ended September 28, 2024. Restructuring expenses in the nine months period ended September 27, 2025 related primarily to headcount reductions and facility consolidations within the Residential Kitchen Equipment Group and Commercial Foodservice Equipment Group. Restructuring expenses in the nine months period ended September 28, 2024 related primarily to headcount reductions and facility consolidations within all three segments.
+IMPAIRMENTS
+.  The company recognized non-cash impairment of $709.1 million in the nine months period ended September 27, 2025 primarily associated with the interim quantitative impairment tests of goodwill of the Residential Kitchen Equipment Group reporting unit and several trademarks within Residential Kitchen Equipment Group. See Note 8 - Goodwill and Note 9 - Intangibles to the Condensed Consolidated Financial Statements for further information on impairments. There was no impairment expense in the prior year period. 
+NON-OPERATING EXPENSES
+. Interest and deferred financing amortization costs were $63.4 million in the nine months period ended September 27, 2025, as compared to $72.2 million in the prior year period, primarily reflecting the decrease in interest rates and net debt levels. Net periodic pension benefit decreased $6.5 million to $4.7 million in the nine months period ended September 27, 2025, as compared to $11.2 million in the prior year period related to the increase in discount rate used to calculate the interest cost and decrease in expected return on assets as a result of the lower asset value and slightly lower assumed return on assets than in prior years. Other expense was $7.5 million in the nine months period ended September 27, 2025, as compared to other expense of $1.0 million in the prior year period and consists mainly of foreign exchange gains and losses.
+32
+INCOME TAXES
+. A tax benefit of $(9.8) million, at an effective rate of 3.0%, was recorded during the nine months period ended September 27, 2025, as compared to a tax provision of $108.2 million at an effective rate of 25.5%, in the prior year period. During the nine months period ended September 27, 2025, the effective tax rate was less than the prior period ending due to a portion of the impairment charges within the Residential Kitchen Equipment Group being non-deductible goodwill. The effective tax rate for the nine months period ended September 27, 2025, when excluding the impairment charges within the Residential Kitchen Equipment Group, was 22.6% and 
+is higher than the U.S. statutory tax rate of 21% primarily due to state taxes and foreign tax rate differentials.
+33
+Financial Condition and Liquidity
+Total cash and cash equivalents decreased by $514.4 million to $175.1 million at September 27, 2025 from $689.5 million at December 28, 2024. Total debt decreased to $2.1 billion at September 27, 2025 from $2.4 billion at December 28, 2024.
+
+OPERATING ACTIVITIES
+. Net cash provided by operating activities after changes in assets and liabilities amounted to $439.5 million as compared to $447.1 million in the prior year. 
+During the nine months period ended September 27, 2025, working capital changes impacted operating cash flows primarily driven by increased inventory levels of $32.9 million, an increase in prepaid expenses and other assets of $26.7 million due to impacts from the timing of tax payments and status of over-time revenue contracts, an increase in accounts payable of $28.7 million and an increase of $8.4 million in accrued expenses and other liabilities, including impacts from the timing of payments made for taxes, various customer programs and incentive programs.
+INVESTING ACTIVITIES.
+ During the nine months period ended September 27, 2025, net cash used for investing activities amounted to $110.6 million. Cash used to fund acquisitions and investments amounted to $34.5 million. 
+Additionally,
+ $74.9 million was expended, primarily 
+to upgrade production equipment, manufacturing facilities, and investments in innovation centers.
+FINANCING ACTIVITIES.
+ Net cash flows used for financing activities amounted to $866.0 million during the nine months period ended September 27, 2025. The company’s borrowing activities during 2025 included $865.5 million of net proceeds under its Credit Facility, $449.3 million of net repayments under its Credit Facility and $744.5 million of payments of principal of convertible notes. On August 19, 2025, the company and its lenders entered into an agreement to amend the Credit Facility which, among other things, extended the maturity date of the Credit Agreement from October 21, 2026 to April 28, 2028. 
+Additionally, in 2025 the company repurchased $514.3 million of Middleby common stock shares. This was comprised of $13.9 million to repurchase 83,089 shares of Middleby common stock that were surrendered to the company for withholding taxes related to restricted stock vestings and $500.4 million used to repurchase 3,462,088 shares of its common stock under a repurchase program.  
+At September 27, 2025, the company was in compliance with all covenants pursuant to its borrowing agreements. The company believes that its current capital resources, including cash and cash equivalents, cash expected to be generated from operations, funds available from its current lenders and access to the credit and capital markets will be sufficient to finance its operations, debt service obligations, capital expenditures, product development and expenditures for the foreseeable future.
+Recently Issued Accounting Standards
+See Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 4 - Recently Issued Accounting Standards, of this Quarterly Report on Form 10-Q.
+Critical Accounting Policies and Estimates
+Management's discussion and analysis of financial condition and results of operations are based upon the company's consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States. The preparation of these financial statements requires the company to make significant estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses as well as related disclosures. On an ongoing basis, the company evaluates its estimates and judgments based on historical experience and various other factors that are believed to be reasonable under the circumstances. Actual results may differ from these estimates under different assumptions or conditions and any such differences could be material to the company's consolidated financial statements. There have been no changes in the company's critical accounting policies, which include revenue recognition, inventories, goodwill and indefinite-life intangibles, convertible debt, pensions benefits, and income taxes, as discussed in the company's Annual Report on Form 10-K for the year ended December 28, 2024 (the “2024 Annual Report on Form 10-K”), except for goodwill and indefinite-lived intangibles as discussed in Note 8 - Goodwill and Note 9 - Intangibles to the Condensed Consolidated Financial Statements.
+34
+Item 3.  Quantitative and Qualitative Disclosures About Market Risk 
+Interest Rate Risk
+
+The company is exposed to market risk related to changes in interest rates. The following table summarizes the maturity of the company’s debt obligations:
+Twelve Month Period coinciding with the end of the company's Fiscal Third Quarter
+Variable Rate
+Debt
+
+2026
+$
+42,110 
+2027
+41,687 
+2028
+1,978,311 
+2029
+786 
+2030 and thereafter
+4,243 
+
+$
+2,067,137 
+The company is exposed to interest rate risk on its floating-rate debt. The company has entered into interest rate swaps to fix the interest rate applicable to certain of its variable-rate debt. Prior to July 1, 2023, the company amended its Credit Facility and the existing interest rate swap agreements to transition the interest reference rate from one-month LIBOR to one-month Secured Overnight Financing Rate ("SOFR"). There were no other changes to the company's Credit Facility or timing of cash flows. The amendment was entered into because the LIBOR rate historically used was no longer published after June 30, 2023. The company utilized expedients within ASC 848 to conclude that this amendment should be treated as a non-substantial modification of the existing contract, resulting in no impact to the company's consolidated financial statements. The company has designated these swaps as cash flow hedges and all changes in fair value of the swaps are recognized in accumulated other comprehensive income. As of September 27, 2025, the fair value of these instruments was an asset of $14.6 million. The change in fair value of these swap agreements in the first nine months of 2025 was a loss of $11.8 million, net of taxes. The potential net loss on fair value for such instruments from a hypothetical 10% adverse change in quoted interest rates would not have a material impact on the company's financial position, results of operations and cash flows.
+Foreign Exchange Derivative Financial Instruments
+The company uses derivative financial instruments, principally foreign currency forward purchase and sale contracts with terms of less than one year, to hedge its exposure to changes in foreign currency exchange rates. The company’s primary hedging activities are to mitigate its exposure to changes in exchange rates on intercompany and third-party trade receivables and payables. The company does not currently enter into derivative financial instruments for speculative purposes. In managing its foreign currency exposures, the company identifies and aggregates naturally occurring offsetting positions and then hedges residual balance sheet exposures. The potential net loss on fair value for such instruments from a hypothetical 10% adverse change in quoted foreign exchange rates would not have a material impact on the company's financial position, results of operations and cash flows. The fair value of the forward and option contracts was a loss of $0.4 million at the end of the third quarter of 2025.
+
+Derivative financial instruments are recognized on the balance sheet as either an asset or a liability measured at fair value. Changes in the market value and the related foreign exchange gains and losses are recorded in the statement of earnings.
+35
+Item 4. Controls and Procedures
+The company maintains disclosure controls and procedures that are designed to ensure that information required to be disclosed in the company's Exchange Act reports is recorded, processed, summarized and reported within the time periods specified in the SEC's rules and forms, and that such information is accumulated and communicated to the company's management, including its Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure.
+As of September 27, 2025, the company's management, with the participation of the company's Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of the company's disclosure controls and procedures. Based on the foregoing, the company's Chief Executive Officer and Chief Financial Officer concluded that the company's disclosure controls and procedures were effective as of the end of this period. 
+During the quarter ended September 27, 2025, there has been no change in the company's internal control over financial reporting that has materially affected, or is reasonably likely to materially affect, the company's internal control over financial reporting.
+36
+PART II. OTHER INFORMATION
+The company was not required to report the information pursuant to Items 1 through 6 of Part II of Form 10-Q for the nine months ended September 27, 2025, except as follows:
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+c) Issuer Purchases of Equity Securities
+
+Total
+Number of
+Shares
+Purchased
+Average
+Price Paid
+per Share
+Total Number
+of Shares
+Purchased as
+Part of Publicly
+Announced
+Plan or
+Program
+Maximum
+Number of
+Shares that May
+Yet be
+Purchased
+Under the Plan
+or Program 
+(1)
+June 29, 2025 to July 26, 2025
+551,091 
+$
+147.00 
+551,091 
+8,802,285 
+July 27, 2025 to August 23, 2025
+498,263 
+135.64 
+498,263 
+8,304,022 
+August 24, 2025 to September 27, 2025
+— 
+— 
+— 
+8,304,022 
+Quarter ended September 27, 2025
+1,049,354 
+$
+141.60 
+1,049,354 
+8,304,022 
+(1) On November 7, 2017, the company's Board of Directors resolved to terminate the company's existing share repurchase program, effective as of such date, which was originally adopted in 1998, and approved a new stock repurchase program. This program authorizes the company to repurchase in the aggregate up to 2,500,000 shares of its outstanding common stock. In May 2022, July 2024 and May 2025, the company's Board of Directors approved the repurchase of an additional 2,500,000, 2,500,000 and 7,500,000 shares of its outstanding common stock under the current program, respectively. As of September 27, 2025, the total number of shares authorized for repurchase under the program is 15,000,000 shares. As of September 27, 2025, 6,695,978 shares had been purchased under the stock repurchase program and 8,304,022 shares remained authorized for repurchase. 
+In the consolidated financial statements, the company also treats shares withheld for tax purposes on behalf of employees in connection with the vesting of restricted share grants as common stock repurchases because they reduce the number of shares that would have been issued upon vesting. These withheld shares are not considered common stock repurchases under the authorized common stock repurchase plan and accordingly are not included in the common stock repurchase totals in the preceding table.
+37
+Item 6. Exhibits
+Exhibits:
+Exhibit 10.1
+Third Amendment to Eighth Amended and Restated Credit Agreement, dated as of August 19, 2025, among Middleby Marshall Inc., The Middleby Corporation, the Loan Parties named therein, the lenders named therein and Bank of America, N.A., as administrative agent for the lenders, incorporated by reference to the company’s Form 8-K Exhibit 10.1 filed on August 21, 2025.
+Exhibit 31.1 –  
+Rule 13a-14(a)/15d -14(a) Certification of the Chief Executive Officer as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+Exhibit 31.2 –
+Rule 13a-14(a)/15d -14(a) Certification of the Chief Financial Officer as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+
+Exhibit 32.1 –
+Certification by the Principal Executive Officer of The Middleby Corporation Pursuant to Rule 13A-14(b) under the Exchange Act and Section 906 of the Sarbanes-Oxley Act of 2002(18 U.S.C. 1350).
+Exhibit 32.2 –
+Certification by the Principal Financial Officer of The Middleby Corporation Pursuant to Rule 13A-14(b) under the Exchange Act and Section 906 of the Sarbanes-Oxley Act of 2002(18 U.S.C. 1350).
+Exhibit 101 –
+Financial statements on Form 10-Q for the quarter ended September 27, 2025, filed on November 6, 2025, formatted in Inline Extensive Business Reporting Language (iXBRL); (i) condensed consolidated balance sheets, (ii) condensed consolidated statements of earnings, (iii) condensed statements of cash flows, (iv) notes to the condensed consolidated financial statements.
+Exhibit 104 –
+Cover Page Interactive Data File (formatted as Inline Extensive Business Reporting Language (iXBRL) and contained in Exhibit 101).
+38
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+THE MIDDLEBY CORPORATION
+
+(Registrant)
+Date:
+November 6, 2025
+By:
+/s/ Bryan E. Mittelman
+
+Bryan E. Mittelman
+
+Chief Financial Officer
+39

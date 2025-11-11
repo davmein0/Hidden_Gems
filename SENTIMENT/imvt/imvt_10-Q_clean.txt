@@ -1,0 +1,2927 @@
+imvt-20250930
+0001764013
+FALSE
+--03-31
+Q2
+2026
+1
+0
+0
+0
+0
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+xbrli:pure
+imvt:segment
+0001764013
+2025-04-01
+2025-09-30
+0001764013
+2025-11-03
+0001764013
+2025-09-30
+0001764013
+2025-03-31
+0001764013
+us-gaap:SeriesAPreferredStockMember
+2025-09-30
+0001764013
+us-gaap:SeriesAPreferredStockMember
+2025-03-31
+0001764013
+imvt:PreferredStockExcludingSeriesAPreferredStockMember
+2025-03-31
+0001764013
+imvt:PreferredStockExcludingSeriesAPreferredStockMember
+2025-09-30
+0001764013
+2025-07-01
+2025-09-30
+0001764013
+2024-07-01
+2024-09-30
+0001764013
+2024-04-01
+2024-09-30
+0001764013
+us-gaap:SeriesAPreferredStockMember
+us-gaap:PreferredStockMember
+2025-03-31
+0001764013
+us-gaap:CommonStockMember
+2025-03-31
+0001764013
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-31
+0001764013
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-03-31
+0001764013
+us-gaap:RetainedEarningsMember
+2025-03-31
+0001764013
+us-gaap:CommonStockMember
+2025-04-01
+2025-06-30
+0001764013
+us-gaap:AdditionalPaidInCapitalMember
+2025-04-01
+2025-06-30
+0001764013
+2025-04-01
+2025-06-30
+0001764013
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-04-01
+2025-06-30
+0001764013
+us-gaap:RetainedEarningsMember
+2025-04-01
+2025-06-30
+0001764013
+us-gaap:SeriesAPreferredStockMember
+us-gaap:PreferredStockMember
+2025-06-30
+0001764013
+us-gaap:CommonStockMember
+2025-06-30
+0001764013
+us-gaap:AdditionalPaidInCapitalMember
+2025-06-30
+0001764013
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-06-30
+0001764013
+us-gaap:RetainedEarningsMember
+2025-06-30
+0001764013
+2025-06-30
+0001764013
+us-gaap:CommonStockMember
+2025-07-01
+2025-09-30
+0001764013
+us-gaap:AdditionalPaidInCapitalMember
+2025-07-01
+2025-09-30
+0001764013
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-07-01
+2025-09-30
+0001764013
+us-gaap:RetainedEarningsMember
+2025-07-01
+2025-09-30
+0001764013
+us-gaap:SeriesAPreferredStockMember
+us-gaap:PreferredStockMember
+2025-09-30
+0001764013
+us-gaap:CommonStockMember
+2025-09-30
+0001764013
+us-gaap:AdditionalPaidInCapitalMember
+2025-09-30
+0001764013
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-09-30
+0001764013
+us-gaap:RetainedEarningsMember
+2025-09-30
+0001764013
+us-gaap:SeriesAPreferredStockMember
+us-gaap:PreferredStockMember
+2024-03-31
+0001764013
+us-gaap:CommonStockMember
+2024-03-31
+0001764013
+us-gaap:AdditionalPaidInCapitalMember
+2024-03-31
+0001764013
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-03-31
+0001764013
+us-gaap:RetainedEarningsMember
+2024-03-31
+0001764013
+2024-03-31
+0001764013
+us-gaap:CommonStockMember
+2024-04-01
+2024-06-30
+0001764013
+us-gaap:AdditionalPaidInCapitalMember
+2024-04-01
+2024-06-30
+0001764013
+2024-04-01
+2024-06-30
+0001764013
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-04-01
+2024-06-30
+0001764013
+us-gaap:RetainedEarningsMember
+2024-04-01
+2024-06-30
+0001764013
+us-gaap:SeriesAPreferredStockMember
+us-gaap:PreferredStockMember
+2024-06-30
+0001764013
+us-gaap:CommonStockMember
+2024-06-30
+0001764013
+us-gaap:AdditionalPaidInCapitalMember
+2024-06-30
+0001764013
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-06-30
+0001764013
+us-gaap:RetainedEarningsMember
+2024-06-30
+0001764013
+2024-06-30
+0001764013
+us-gaap:CommonStockMember
+2024-07-01
+2024-09-30
+0001764013
+us-gaap:AdditionalPaidInCapitalMember
+2024-07-01
+2024-09-30
+0001764013
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-07-01
+2024-09-30
+0001764013
+us-gaap:RetainedEarningsMember
+2024-07-01
+2024-09-30
+0001764013
+us-gaap:SeriesAPreferredStockMember
+us-gaap:PreferredStockMember
+2024-09-30
+0001764013
+us-gaap:CommonStockMember
+2024-09-30
+0001764013
+us-gaap:AdditionalPaidInCapitalMember
+2024-09-30
+0001764013
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-09-30
+0001764013
+us-gaap:RetainedEarningsMember
+2024-09-30
+0001764013
+2024-09-30
+0001764013
+us-gaap:MoneyMarketFundsMember
+us-gaap:FairValueInputsLevel1Member
+2025-09-30
+0001764013
+us-gaap:MoneyMarketFundsMember
+us-gaap:FairValueInputsLevel1Member
+2025-03-31
+0001764013
+us-gaap:ConvertiblePreferredStockMember
+2025-04-01
+2025-09-30
+0001764013
+us-gaap:ConvertiblePreferredStockMember
+2024-04-01
+2024-09-30
+0001764013
+us-gaap:EmployeeStockOptionMember
+2025-04-01
+2025-09-30
+0001764013
+us-gaap:EmployeeStockOptionMember
+2024-04-01
+2024-09-30
+0001764013
+us-gaap:RestrictedStockUnitsRSUMember
+2025-04-01
+2025-09-30
+0001764013
+us-gaap:RestrictedStockUnitsRSUMember
+2024-04-01
+2024-09-30
+0001764013
+2017-12-19
+2017-12-19
+0001764013
+2017-12-19
+0001764013
+srt:MaximumMember
+imvt:UponAchievementOfDevelopmentRegulatoryAndSalesMilestonesMember
+2017-12-19
+0001764013
+2018-12-07
+2018-12-07
+0001764013
+us-gaap:RelatedPartyMember
+2018-08-01
+2018-08-31
+0001764013
+srt:MaximumMember
+us-gaap:SeriesAPreferredStockMember
+2025-09-30
+0001764013
+imvt:StockOptionsAndStockOptionsNotSettledMember
+2025-09-30
+0001764013
+imvt:StockOptionsAndStockOptionsNotSettledMember
+2025-03-31
+0001764013
+us-gaap:RestrictedStockUnitsRSUMember
+2025-09-30
+0001764013
+us-gaap:RestrictedStockUnitsRSUMember
+2025-03-31
+0001764013
+imvt:StockOptionNotSettledMember
+2025-04-01
+2025-09-30
+0001764013
+imvt:RestrictedStockUnitsNotSettledMember
+2025-09-30
+0001764013
+imvt:EquityInducementPlan2023Member
+2025-04-01
+2025-09-30
+0001764013
+imvt:EquityIncentivePlan2019Member
+2019-12-31
+0001764013
+imvt:EquityIncentivePlan2019Member
+2019-12-01
+2019-12-31
+0001764013
+2025-04-01
+0001764013
+imvt:EquityIncentivePlan2019Member
+2025-09-30
+0001764013
+imvt:EquityIncentivePlan2019Member
+us-gaap:RestrictedStockUnitsRSUMember
+2025-09-30
+0001764013
+imvt:EquityIncentivePlan2018Member
+2025-09-30
+0001764013
+imvt:EquityInducementPlan2023Member
+2023-02-01
+0001764013
+imvt:EquityInducementPlan2023Member
+2025-09-30
+0001764013
+2024-04-01
+2025-03-31
+0001764013
+us-gaap:RestrictedStockUnitsRSUMember
+2025-04-01
+2025-09-30
+0001764013
+us-gaap:PerformanceSharesMember
+2025-07-01
+2025-09-30
+0001764013
+us-gaap:ResearchAndDevelopmentExpenseMember
+2025-07-01
+2025-09-30
+0001764013
+us-gaap:ResearchAndDevelopmentExpenseMember
+2024-07-01
+2024-09-30
+0001764013
+us-gaap:ResearchAndDevelopmentExpenseMember
+2025-04-01
+2025-09-30
+0001764013
+us-gaap:ResearchAndDevelopmentExpenseMember
+2024-04-01
+2024-09-30
+0001764013
+us-gaap:GeneralAndAdministrativeExpenseMember
+2025-07-01
+2025-09-30
+0001764013
+us-gaap:GeneralAndAdministrativeExpenseMember
+2024-07-01
+2024-09-30
+0001764013
+us-gaap:GeneralAndAdministrativeExpenseMember
+2025-04-01
+2025-09-30
+0001764013
+us-gaap:GeneralAndAdministrativeExpenseMember
+2024-04-01
+2024-09-30
+0001764013
+us-gaap:EmployeeStockOptionMember
+2025-09-30
+0001764013
+us-gaap:EmployeeStockOptionMember
+2025-04-01
+2025-09-30
+0001764013
+us-gaap:RestrictedStockUnitsRSUMember
+us-gaap:RelatedPartyMember
+2025-07-01
+2025-09-30
+0001764013
+us-gaap:RestrictedStockUnitsRSUMember
+us-gaap:RelatedPartyMember
+2025-04-01
+2025-09-30
+0001764013
+us-gaap:RestrictedStockUnitsRSUMember
+us-gaap:RelatedPartyMember
+2025-09-30
+0001764013
+us-gaap:RestrictedStockUnitsRSUMember
+us-gaap:RelatedPartyMember
+2024-07-01
+2024-09-30
+0001764013
+us-gaap:RestrictedStockUnitsRSUMember
+us-gaap:RelatedPartyMember
+2024-04-01
+2024-09-30
+0001764013
+imvt:ReportableSegmentMember
+imvt:EndocrineDiseasesMember
+2025-07-01
+2025-09-30
+0001764013
+imvt:ReportableSegmentMember
+imvt:EndocrineDiseasesMember
+2024-07-01
+2024-09-30
+0001764013
+imvt:ReportableSegmentMember
+imvt:EndocrineDiseasesMember
+2025-04-01
+2025-09-30
+0001764013
+imvt:ReportableSegmentMember
+imvt:EndocrineDiseasesMember
+2024-04-01
+2024-09-30
+0001764013
+imvt:ReportableSegmentMember
+imvt:NeurologicalDiseasesMember
+2025-07-01
+2025-09-30
+0001764013
+imvt:ReportableSegmentMember
+imvt:NeurologicalDiseasesMember
+2024-07-01
+2024-09-30
+0001764013
+imvt:ReportableSegmentMember
+imvt:NeurologicalDiseasesMember
+2025-04-01
+2025-09-30
+0001764013
+imvt:ReportableSegmentMember
+imvt:NeurologicalDiseasesMember
+2024-04-01
+2024-09-30
+0001764013
+imvt:ReportableSegmentMember
+imvt:RheumatologyDiseasesMember
+2025-07-01
+2025-09-30
+0001764013
+imvt:ReportableSegmentMember
+imvt:RheumatologyDiseasesMember
+2024-07-01
+2024-09-30
+0001764013
+imvt:ReportableSegmentMember
+imvt:RheumatologyDiseasesMember
+2025-04-01
+2025-09-30
+0001764013
+imvt:ReportableSegmentMember
+imvt:RheumatologyDiseasesMember
+2024-04-01
+2024-09-30
+0001764013
+imvt:ReportableSegmentMember
+imvt:DermatologyDiseasesMember
+2025-07-01
+2025-09-30
+0001764013
+imvt:ReportableSegmentMember
+imvt:DermatologyDiseasesMember
+2024-07-01
+2024-09-30
+0001764013
+imvt:ReportableSegmentMember
+imvt:DermatologyDiseasesMember
+2025-04-01
+2025-09-30
+0001764013
+imvt:ReportableSegmentMember
+imvt:DermatologyDiseasesMember
+2024-04-01
+2024-09-30
+0001764013
+imvt:ReportableSegmentMember
+imvt:OtherClinicalAndNonclinicalMember
+2025-07-01
+2025-09-30
+0001764013
+imvt:ReportableSegmentMember
+imvt:OtherClinicalAndNonclinicalMember
+2024-07-01
+2024-09-30
+0001764013
+imvt:ReportableSegmentMember
+imvt:OtherClinicalAndNonclinicalMember
+2025-04-01
+2025-09-30
+0001764013
+imvt:ReportableSegmentMember
+imvt:OtherClinicalAndNonclinicalMember
+2024-04-01
+2024-09-30
+0001764013
+imvt:ReportableSegmentMember
+imvt:OtherUnallocatedResearchAndDevelopmentMember
+2025-07-01
+2025-09-30
+0001764013
+imvt:ReportableSegmentMember
+imvt:OtherUnallocatedResearchAndDevelopmentMember
+2024-07-01
+2024-09-30
+0001764013
+imvt:ReportableSegmentMember
+imvt:OtherUnallocatedResearchAndDevelopmentMember
+2025-04-01
+2025-09-30
+0001764013
+imvt:ReportableSegmentMember
+imvt:OtherUnallocatedResearchAndDevelopmentMember
+2024-04-01
+2024-09-30
+0001764013
+imvt:ReportableSegmentMember
+imvt:PersonnelRelatedResearchAndDevelopmentMember
+2025-07-01
+2025-09-30
+0001764013
+imvt:ReportableSegmentMember
+imvt:PersonnelRelatedResearchAndDevelopmentMember
+2024-07-01
+2024-09-30
+0001764013
+imvt:ReportableSegmentMember
+imvt:PersonnelRelatedResearchAndDevelopmentMember
+2025-04-01
+2025-09-30
+0001764013
+imvt:ReportableSegmentMember
+imvt:PersonnelRelatedResearchAndDevelopmentMember
+2024-04-01
+2024-09-30
+0001764013
+imvt:ReportableSegmentMember
+2025-07-01
+2025-09-30
+0001764013
+imvt:ReportableSegmentMember
+2024-07-01
+2024-09-30
+0001764013
+imvt:ReportableSegmentMember
+2025-04-01
+2025-09-30
+0001764013
+imvt:ReportableSegmentMember
+2024-04-01
+2024-09-30
+0001764013
+us-gaap:ResearchAndDevelopmentExpenseMember
+imvt:ReportableSegmentMember
+2025-07-01
+2025-09-30
+0001764013
+us-gaap:ResearchAndDevelopmentExpenseMember
+imvt:ReportableSegmentMember
+2025-04-01
+2025-09-30
+0001764013
+us-gaap:ResearchAndDevelopmentExpenseMember
+imvt:ReportableSegmentMember
+2024-07-01
+2024-09-30
+0001764013
+us-gaap:ResearchAndDevelopmentExpenseMember
+imvt:ReportableSegmentMember
+2024-04-01
+2024-09-30
+0001764013
+us-gaap:GeneralAndAdministrativeExpenseMember
+imvt:ReportableSegmentMember
+2025-07-01
+2025-09-30
+0001764013
+us-gaap:GeneralAndAdministrativeExpenseMember
+imvt:ReportableSegmentMember
+2025-04-01
+2025-09-30
+0001764013
+us-gaap:GeneralAndAdministrativeExpenseMember
+imvt:ReportableSegmentMember
+2024-07-01
+2024-09-30
+0001764013
+us-gaap:GeneralAndAdministrativeExpenseMember
+imvt:ReportableSegmentMember
+2024-04-01
+2024-09-30
+0001764013
+imvt:SamsungBiologicsCoLtdMember
+2025-09-30
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 
+10-Q
+
+(Mark One)
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended 
+September 30, 2025
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Commission File Number 
+001-38906
+
+IMMUNOVANT, INC.
+
+(Exact name of registrant as specified in its charter)
+Delaware
+83-2771572
+(State or other jurisdiction
+of incorporation or organization)
+(I.R.S. Employer
+Identification No.)
+320 West 37th Street
+10018
+New York,
+NY
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code: (
+917
+) 
+580-3099
+
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading
+Symbol(s)
+Name of each exchange
+on which registered
+Common Stock, $0.0001 par value per share
+IMVT
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    
+Yes
+
+☒
+    No  
+☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).    
+Yes
+
+☒
+    No  
+☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☒
+Accelerated filer
+☐
+Non-accelerated Filer
+☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes  
+☐
+    No  
+☒
+As of November 3, 2025, there were 
+175,276,526
+ shares of the Registrant’s common stock, $0.0001 par value per share, outstanding.
+i
+Table of Contents
+IMMUNOVANT, INC.
+QUARTERLY REPORT ON FORM 10-Q
+FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+Table of Contents
+
+Page
+PART I.
+FINANCIAL INFORMATION
+Item 1.
+Financial Statements (unaudited)
+2
+Condensed Consolidated Balance Sheets as of September 30, 2025 and March 31, 2025
+2
+Condensed Consolidated Statements of Operations for the Three and Six Months Ended September 30, 2025 and 2024
+3
+Condensed Consolidated Statements of Comprehensive Loss for the Three and Six Months Ended September 30, 2025 and 2024
+4
+Condensed Consolidated Statements of Stockholders’ Equity for the Three and Six Months Ended September 30, 2025 and 2024
+5
+Condensed Consolidated Statements of Cash Flows for the Three and Six Months Ended September 30, 2025 and 2024
+6
+Notes to Condensed Consolidated Financial Statements
+7
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+17
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+28
+Item 4.
+Controls and Procedures
+28
+PART II.
+OTHER INFORMATION
+Item 1.
+Legal Proceedings
+29
+Item 1A.
+Risk Factors
+29
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+30
+Item 3.
+Defaults Upon Senior Securities
+30
+Item 4.
+Mine Safety Disclosures
+30
+Item 5.
+Other Information
+30
+Item 6.
+Exhibits
+31
+SIGNATURES
+32
+Where You Can Find More Information
+Investors and others should note that we may announce material business and financial information to our investors using our investor relations website (www.immunovant.com), filings we make with the Securities and Exchange Commission, webcasts, press releases, and conference calls. We use these mediums, including our website, to communicate with our stockholders and the public about our company, our product candidates, and other matters. It is possible that the information that we make available may be deemed to be material information. We therefore encourage investors and others interested in our company to review the information that we make available on our website. 
+The information contained on the website referenced in this Quarterly Report on Form 10-Q is not incorporated by reference into this filing, and the website address is provided only as an inactive textual reference.
+All trademarks, trade names, service marks, and copyrights appearing in this Quarterly Report on Form 10-Q are the property of their respective owners.
+1
+Table of Contents
+PART I—FINANCIAL INFORMATION
+Item 1. Financial Statements
+IMMUNOVANT, INC.
+Condensed Consolidated Balance Sheets
+(Unaudited, in thousands, except share and per share data)
+September 30, 2025
+March 31, 2025
+Assets
+Current assets:
+Cash and cash equivalents
+$
+521,870
+
+$
+713,971
+
+Accounts receivable
+1,970
+
+2,084
+
+Prepaid expenses and other current assets
+49,706
+
+51,705
+
+Total current assets
+573,546
+
+767,760
+
+Property and equipment, net
+632
+
+844
+
+Other assets
+8,781
+
+7,618
+
+Total assets
+$
+582,959
+
+$
+776,222
+
+Liabilities and Stockholders’ Equity
+Current liabilities:
+Accounts payable
+$
+6,916
+
+$
+17,656
+
+Accrued expenses and other current liabilities
+56,338
+
+51,119
+
+Total current liabilities
+63,254
+
+68,775
+
+Total liabilities
+63,254
+
+68,775
+
+Commitments and contingencies (Note 10)
+Stockholders’ equity:
+Series A preferred stock, par value $
+0.0001
+ per share, 
+10,000
+ shares authorized, issued and outstanding at September 30, 2025 and March 31, 2025
+—
+
+—
+
+Preferred stock, par value $
+0.0001
+ per share, 
+10,000,000
+ shares authorized, 
+no
+ shares issued and outstanding at September 30, 2025 and March 31, 2025
+—
+
+—
+
+Common stock, par value $
+0.0001
+ per share, 
+500,000,000
+ shares authorized, 
+174,532,710
+ shares issued and outstanding at September 30, 2025 and 
+500,000,000
+ shares authorized, 
+170,111,593
+ shares issued and outstanding at March 31, 2025
+17
+
+16
+
+Additional paid-in capital
+2,004,876
+
+1,945,495
+
+Accumulated other comprehensive income
+1,450
+
+1,459
+
+Accumulated deficit
+(
+1,486,638
+)
+(
+1,239,523
+)
+Total stockholders’ equity
+519,705
+
+707,447
+
+Total liabilities and stockholders’ equity
+$
+582,959
+
+$
+776,222
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+2
+Table of Contents
+IMMUNOVANT, INC.
+Condensed Consolidated Statements of Operations
+(Unaudited, in thousands, except share and per share data)
+
+Three Months Ended
+September 30,
+Six Months Ended
+September 30,
+
+2025
+2024
+2025
+2024
+Operating expenses:
+Research and development 
+$
+114,249
+
+$
+97,272
+
+$
+215,449
+
+$
+172,745
+
+General and administrative
+17,513
+
+18,471
+
+43,537
+
+37,279
+
+Total operating expenses
+131,762
+
+115,743
+
+258,986
+
+210,024
+
+Interest income, net
+(
+5,604
+)
+(
+6,073
+)
+(
+11,941
+)
+(
+13,254
+)
+Other income, net
+(
+250
+)
+(
+629
+)
+(
+1,437
+)
+(
+657
+)
+Loss before provision for income taxes
+(
+125,908
+)
+(
+109,041
+)
+(
+245,608
+)
+(
+196,113
+)
+Provision for income taxes
+594
+
+78
+
+1,507
+
+156
+
+Net loss
+$
+(
+126,502
+)
+$
+(
+109,119
+)
+$
+(
+247,115
+)
+$
+(
+196,269
+)
+Net loss per common share – basic and diluted
+$
+(
+0.73
+)
+$
+(
+0.74
+)
+$
+(
+1.43
+)
+$
+(
+1.34
+)
+Weighted-average common shares outstanding – basic and diluted
+173,643,829
+
+146,468,991
+
+172,295,320
+
+146,313,696
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+3
+Table of Contents
+IMMUNOVANT, INC.
+Condensed Consolidated Statements of Comprehensive Loss
+(Unaudited, in thousands)
+
+Three Months Ended
+September 30,
+Six Months Ended
+September 30,
+
+2025
+2024
+2025
+2024
+Net loss
+$
+(
+126,502
+)
+$
+(
+109,119
+)
+$
+(
+247,115
+)
+$
+(
+196,269
+)
+Other comprehensive income (loss):
+Foreign currency translation adjustments
+(
+287
+)
+90
+
+(
+9
+)
+2
+
+Total other comprehensive income (loss)
+(
+287
+)
+90
+
+(
+9
+)
+2
+
+Comprehensive loss
+$
+(
+126,789
+)
+$
+(
+109,029
+)
+$
+(
+247,124
+)
+$
+(
+196,267
+)
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+4
+Table of Contents
+IMMUNOVANT, INC.
+Condensed Consolidated Statements of Stockholders’ Equity
+(Unaudited, in thousands except share data)
+
+Series A 
+preferred stock
+Common 
+stock
+Additional
+paid-in capital
+Accumulated
+other
+comprehensive income (loss)
+Accumulated deficit
+Total
+stockholders’ equity
+
+Shares
+Amount
+Shares
+Amount
+Balance at March 31, 2025
+10,000
+
+$
+—
+
+170,111,593
+
+$
+16
+
+$
+1,945,495
+
+$
+1,459
+
+$
+(
+1,239,523
+)
+$
+707,447
+
+Stock options exercised and restricted stock units vested and settled
+— 
+— 
+957,583
+
+— 
+2,918
+
+— 
+— 
+2,918
+
+Capital contribution – stock-based compensation
+— 
+— 
+— 
+— 
+115
+
+— 
+— 
+115
+
+Stock-based compensation
+— 
+— 
+— 
+— 
+18,395
+
+— 
+— 
+18,395
+
+Foreign currency translation adjustments
+— 
+— 
+— 
+— 
+— 
+278
+
+— 
+278
+
+Net loss
+— 
+— 
+— 
+— 
+— 
+— 
+(
+120,613
+)
+(
+120,613
+)
+Balance at June 30, 2025
+10,000
+
+$
+—
+
+171,069,176
+
+$
+16
+
+$
+1,966,923
+
+$
+1,737
+
+$
+(
+1,360,136
+)
+$
+608,540
+
+Stock options exercised and restricted stock units vested and settled
+— 
+— 
+3,463,534
+
+1
+
+24,595
+
+— 
+— 
+24,596
+
+Capital contribution – stock-based compensation
+— 
+— 
+— 
+— 
+172
+
+— 
+— 
+172
+
+Stock-based compensation
+— 
+— 
+— 
+— 
+13,186
+
+— 
+— 
+13,186
+
+Foreign currency translation adjustments
+— 
+— 
+— 
+— 
+— 
+(
+287
+)
+— 
+(
+287
+)
+Net loss
+— 
+— 
+— 
+— 
+— 
+— 
+(
+126,502
+)
+(
+126,502
+)
+Balance at September 30, 2025
+10,000
+
+$
+—
+
+174,532,710
+
+$
+17
+
+$
+2,004,876
+
+$
+1,450
+
+$
+(
+1,486,638
+)
+$
+519,705
+
+Series A 
+preferred stock
+Common 
+stock
+Additional
+paid-in capital
+Accumulated
+other
+comprehensive income (loss)
+Accumulated deficit
+Total
+stockholders’ equity
+
+Shares
+Amount
+Shares
+Amount
+Balance at March 31, 2024
+10,000
+
+$
+—
+
+145,582,999
+
+$
+14
+
+$
+1,441,518
+
+$
+1,908
+
+$
+(
+825,683
+)
+$
+617,757
+
+Stock options exercised and restricted stock units vested and settled
+— 
+— 
+612,674
+
+— 
+686
+
+— 
+— 
+686
+
+Capital contribution – stock-based compensation
+— 
+— 
+— 
+— 
+12
+
+— 
+— 
+12
+
+Stock-based compensation
+— 
+— 
+— 
+— 
+13,443
+
+— 
+— 
+13,443
+
+Foreign currency translation adjustments
+— 
+— 
+— 
+— 
+— 
+(
+88
+)
+— 
+(
+88
+)
+Net loss
+— 
+— 
+— 
+— 
+— 
+— 
+(
+87,150
+)
+(
+87,150
+)
+Balance at June 30, 2024
+10,000
+
+$
+—
+
+146,195,673
+
+$
+14
+
+$
+1,455,659
+
+$
+1,820
+
+$
+(
+912,833
+)
+$
+544,660
+
+Stock options exercised and restricted stock units vested and settled
+— 
+— 
+369,376
+
+— 
+730
+
+— 
+— 
+730
+
+Capital contribution – stock-based compensation
+— 
+— 
+— 
+— 
+8
+
+— 
+— 
+8
+
+Stock-based compensation
+— 
+— 
+— 
+— 
+12,685
+
+— 
+— 
+12,685
+
+Foreign currency translation adjustments
+— 
+— 
+— 
+— 
+— 
+90
+
+— 
+90
+
+Net loss
+— 
+— 
+— 
+— 
+— 
+— 
+(
+109,119
+)
+(
+109,119
+)
+Balance at September 30, 2024
+10,000
+
+$
+—
+
+146,565,049
+
+$
+14
+
+$
+1,469,082
+
+$
+1,910
+
+$
+(
+1,021,952
+)
+
+$
+449,053
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+5
+Table of Contents
+IMMUNOVANT, INC.
+Condensed Consolidated Statements of Cash Flows
+(Unaudited, in thousands)
+
+Six Months Ended September 30,
+
+2025
+2024
+Cash flows from operating activities
+Net loss
+$
+(
+247,115
+)
+$
+(
+196,269
+)
+Adjustments to reconcile net loss to net cash used in operating activities:
+Stock-based compensation
+31,868
+
+26,148
+
+Depreciation on property and equipment
+212
+
+169
+
+Non-cash lease expense
+48
+
+88
+
+Changes in operating assets and liabilities:
+Accounts receivable
+104
+
+3,344
+
+Prepaid expenses and other current assets
+1,662
+
+(
+6,541
+)
+Other assets
+(
+1,194
+)
+(
+8,071
+)
+Accounts payable
+(
+10,466
+)
+13,248
+
+Accrued expenses and other current liabilities
+4,955
+
+3,038
+
+Net cash used in operating activities
+(
+219,926
+)
+(
+164,846
+)
+Cash flows from investing activities
+Purchase of property and equipment
+—
+
+(
+378
+)
+Net cash used in investing activities
+—
+
+(
+378
+)
+Cash flows from financing activities
+Proceeds from stock options exercised
+27,513
+
+1,416
+
+Net cash provided by financing activities
+27,513
+
+1,416
+
+Effect of exchange rate changes on cash and cash equivalents
+312
+
+1,384
+
+Net change in cash and cash equivalents
+(
+192,101
+)
+(
+162,424
+)
+Cash and cash equivalents – beginning of period
+713,971
+
+635,365
+
+Cash and cash equivalents – end of period
+$
+521,870
+
+$
+472,941
+
+Supplemental disclosure of cash paid:
+Income taxes
+$
+801
+
+$
+301
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+6
+Table of Contents
+IMMUNOVANT, INC.
+Notes to Unaudited Condensed Consolidated Financial Statements
+Note 1 — 
+Description of Business and Liquidity
+[A] Description of Business
+Immunovant, Inc. (together with its wholly-owned subsidiaries, the “Company” or “Immunovant”) is a clinical-stage immunology company dedicated to enabling normal lives for people with autoimmune diseases. The Company’s innovative product pipeline includes its product candidates, IMVT-1402 and batoclimab (formerly referred to as IMVT-1401), both of which are novel, fully human, monoclonal antibodies that target the neonatal fragment crystallizable receptor (“FcRn”). Designed to be optimized as simple, subcutaneous injections, IMVT-1402 and batoclimab have been observed to reduce immunoglobulin G (“IgG”) antibody levels, which has provided evidence supporting the use of an anti-FcRn antibody in disease areas associated with high levels of pathogenic IgG antibodies.
+[B] Liquidity
+The Company has incurred significant losses and negative cash flows from operations since its inception. As of September 30, 2025, the Company’s cash and cash equivalents totaled
+
+$
+521.9
+ million
+ and its accumulated deficit was 
+$
+1,486.6
+ million.
+The Company has not generated any revenues to date and does not anticipate generating any revenues unless and until it successfully completes development and obtains regulatory approval for IMVT-1402, batoclimab or any future product candidate. Management expects to incur additional losses in the future to fund its operations and conduct product research and development and recognizes the need to raise additional capital to fully implement its business plan.
+The Company intends to raise such additional capital through the issuance of equity securities, debt financings, potential collaboration, license or development agreements or other sources in order to further implement its business plan. However, if such financing is not available at adequate levels, the Company will need to reevaluate its operating plan and may be required to delay the development of its product candidates.
+Note 2 — 
+Summary of Significant Accounting Policies
+[A] 
+Basis of Presentation
+The Company’s fiscal year ends on March 31, and its first three fiscal quarters end on June 30, September 30, and December 31, respectively. The accompanying condensed consolidated financial statements are unaudited. The unaudited condensed consolidated financial statements of the Company have been prepared in accordance with generally accepted accounting principles in the United States (“U.S. GAAP”) and follow the requirements of the U.S. Securities and Exchange Commission (“SEC”) for interim financial reporting. Accordingly, they do not include all of the information and disclosures required by U.S. GAAP for complete financial statements as certain footnotes or other financial information that are normally required by U.S. GAAP can be condensed or omitted. The unaudited condensed consolidated financial statements have been prepared on the same basis as the audited consolidated financial statements. The unaudited condensed consolidated financial statements include the accounts of the Company and its wholly-owned subsidiaries. The Company has no unconsolidated subsidiaries. All intercompany balances and transactions have been eliminated in consolidation. Certain amounts in the consolidated financial statements of the prior year have been reclassified to conform to current year unaudited condensed presentation. Any reference in these notes to applicable guidance is meant to refer to the authoritative U.S. GAAP as found in the Accounting Standards Codification (“ASC”) and Accounting Standards Updates (“ASU”) of the Financial Accounting Standards Board (“FASB”).
+In the opinion of management, the unaudited condensed consolidated financial statements include all normal and recurring adjustments that are considered necessary for the fair statement of results for the interim periods. The results for the three and six months ended September 30, 2025 are not necessarily indicative of those expected for the year ending March 31, 2026 or for any future period. The condensed consolidated balance sheet as of March 31, 2025 included herein was derived from the audited consolidated financial statements as of that date. These unaudited condensed consolidated financial statements should be read in conjunction with the Company’s audited consolidated financial statements included in the Company’s Annual Report on Form 10-K filed with the SEC on May 29, 2025.
+7
+Table of Contents
+[B] 
+Use of Estimates
+The preparation of unaudited condensed consolidated financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the amounts reported in the unaudited condensed consolidated financial statements and accompanying notes. The Company regularly evaluates estimates and assumptions related to assets, liabilities, stock-based compensation, litigation accruals, clinical trial accruals, research and development costs and income taxes. The Company bases its estimates and assumptions on historical experience and on various other factors that it believes to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results could differ from those estimates.
+Additionally, the Company assessed the impact of macroeconomic and geopolitical factors on its operations and financial results as of September 30, 2025 and through the issuance of these unaudited condensed consolidated financial statements. The Company’s analysis was informed by the facts and circumstances as they were known to the Company. This assessment considered the impact that these uncertainties may have on financial estimates and assumptions that affect the reported amounts of assets and liabilities and expenses.
+[C] 
+Risks and Uncertainties
+The Company is subject to risks common to early-stage companies in the biopharmaceutical industry including, but not limited to, uncertainties related to clinical effectiveness of products, commercialization of products, regulatory approvals, dependence on key products, key personnel and third-party service providers such as contract research organizations (“CROs”), protection of intellectual property rights, the need and ability to obtain additional financing and the ability to make milestone, royalty or other payments due under any license, collaboration or supply agreements.
+[D] 
+Concentration of Credit Risk
+Financial instruments that potentially subject the Company to concentration of credit risk include cash and cash equivalents. As of September 30, 2025, the cash and cash equivalents balance is kept in banking institutions that the Company believes are of high credit quality and are in excess of federally insured levels. The Company maintains its cash and cash equivalents with accredited financial institutions and accordingly, such funds are subject to minimal credit risk. The Company has not experienced any losses on its cash and cash equivalents.
+[E] 
+Cash and Cash Equivalents
+The Company considers all highly liquid investments with original maturities of three months or less from the date of purchase to be cash equivalents. At September 30, 2025 and March 31, 2025, cash and cash equivalents included $
+500.4
+ million and $
+687.6
+ million, respectively, of money market funds invested in high-quality, short-term securities that are issued and guaranteed by the U.S. government and its agencies that are classified within Level 1 of the fair value hierarchy because they are valued using quoted market prices.
+
+[F] 
+Research and Development Expenses
+Research and development costs with no alternative future use are expensed as incurred. Research and development expenses primarily consist of employee-related costs and expenses from third parties who conduct research and development activities (including manufacturing) on behalf of the Company. The Company accrues costs for clinical trial activities based upon estimates of the services received and related expenses incurred that have yet to be invoiced by CROs. In making these estimates, the Company considers various factors, including status and timing of services performed, the number of patients enrolled and the rate of patient enrollment. The Company accrues costs for non-clinical studies and contract manufacturing activities over the service periods specified in the contracts and adjusts these accruals as necessary based upon an ongoing review of the level of effort and costs actually incurred. The estimate of the work completed is developed through discussions with internal personnel and external services providers as to the progress toward completion of the services and the agreed-upon fee to be paid for such services. As actual costs become known, the accrued estimates are adjusted. Such estimates are not expected to be materially different from amounts actually incurred.
+The Company participates in cost-sharing arrangements with third parties, whereby the third parties have agreed to share a portion of the costs incurred by the Company, related to batoclimab drug manufacturing and clinical trials. The Company records the third parties’ share of the costs as a reduction of research and development expenses and an increase to accounts receivable in the accompanying unaudited condensed consolidated financial statements based on actual amounts incurred by the Company and billable to the third parties. These cost-sharing arrangements do not contemplate any future revenue-generating activity or global commercialization efforts of batoclimab benefiting any of the parties.
+8
+Table of Contents
+[G] 
+Stock-based Compensation
+Stock-based awards to employees and directors, including stock options, restricted stock units (“RSUs”), performance restricted stock units (“PSUs”) and capped value appreciation rights (“CVARs”), are valued at fair value on the date of grant and that fair value is recognized as stock-based compensation expense over the requisite service period. For awards with only service conditions, the grant-date fair value of the stock-based awards with graded vesting is recognized on a straight-line basis over the requisite service period, which is generally the vesting period of the respective awards. 
+If awards with graded vesting contain performance or market conditions, then the Company records share-based compensation expense using the accelerated attribution method. The estimated fair value of awards that contain performance conditions is expensed when the Company concludes that it is probable that the performance conditions will be achieved.
+The Company values its stock options that only have service vesting requirements using the Black-Scholes option pricing model. Stock-based compensation related to RSUs and PSUs without market conditions is based on the fair value of the Company’s common stock on the date of grant. For CVARs with market conditions, the Company determines the fair value of the awards on the date of grant using a Monte Carlo simulation model. When determining the grant-date fair value of stock-based awards, management further considers whether an adjustment is required to the observable market price or volatility of the Company’s common stock that is used in the valuation as a result of material non-public information, if that information is expected to result in a material increase in share price.
+Certain assumptions need to be made with respect to utilizing the Black-Scholes option pricing model and the Monte Carlo simulation model, including the expected life of the award, volatility of the underlying shares, the risk-free interest rate, expected dividend yield and the fair value of the Company’s common stock. Since the Company has limited option exercise history, it has generally elected to estimate the expected life of an award based upon the “simplified method” with the continued use of this method extended until such time as the Company has sufficient exercise history. In the prior fiscal year, the expected share price volatility for the Company’s common stock was estimated using a weighted blend of the Company’s historical price volatility and the average historical price volatility for comparable publicly traded peer companies. Beginning on April 1, 2025, the Company determined that its common stock had sufficient trading activity to solely utilize the Company’s historical price volatility. The risk-free interest rate is based on the rates paid on securities issued by the U.S. Treasury with a term approximating the expected life of the equity award. As the Company has never paid and does not anticipate paying cash dividends on its common stock, the expected dividend yield is assumed to be
+
+zero
+. The Company accounts for pre-vesting award forfeitures when they occur.
+[H] 
+Net Loss per Common Share
+Basic net loss per common share is computed by dividing net loss applicable to common stockholders by the weighted-average number of common stock outstanding during the period. Diluted net loss per common share is computed by dividing the net loss applicable to common stockholders by the diluted weighted-average number of common stock outstanding during the period. In periods in which the Company reports a net loss, all common stock equivalents are deemed anti-dilutive such that basic net loss per common share and diluted net loss per common share are equivalent. Potentially dilutive common stock has been excluded from the diluted net loss per common share computations in all periods presented because such securities have an anti-dilutive effect on net loss per common share due to the Company’s net loss. There are no reconciling items used to calculate the weighted-average number of total common stock outstanding for basic and diluted net loss per common share data.
+The following potentially dilutive securities, presented based on amounts outstanding at period end, have been excluded from the calculation of diluted net loss per share due to their anti-dilutive effect:
+
+Six Months Ended September 30,
+
+2025
+2024
+Preferred stock as converted
+10,000
+
+10,000
+
+Stock options
+12,892,136
+
+13,596,262
+
+Restricted stock units
+4,309,560
+
+3,650,581
+
+Total
+17,211,696
+
+17,256,843
+
+9
+Table of Contents
+[I] 
+Segment Information
+Operating segments are defined as components of an enterprise about which separate discrete financial information is available for evaluation by the chief operating decision maker in deciding how to allocate resources and in assessing performance. The Company operates in a single operating segment and has 
+one
+ reportable segment, which includes all activities related to the research, development and manufacturing of its product candidates. The accounting policies of the segment are the same as those described in the summary of significant accounting policies.
+ See Note 9 – Segment Information for additional details.
+[J] 
+Recently Issued Accounting Pronouncements Not Yet Adopted
+In December 2023, the FASB issued ASU 2023-09, “Income Taxes (Topic 740): Improvements to Income Tax Disclosures,” which requires disaggregated information on the effective rate reconciliation as well as information on income taxes paid by jurisdiction. The amendments are effective for fiscal years beginning after December 15, 2024 for public entities, with early adoption permitted, and will be applicable to the Company’s Annual Report on Form 10-K for the fiscal year ending March 31, 2026. The amendments are to be applied prospectively, with the option to apply them retrospectively. The Company expects adoption of this ASU will result in additional disclosures in line with the requirements of ASU 2023-09.
+In November 2024, the FASB issued ASU 2024-03, “Income Statement-Reporting Comprehensive Income-Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses,” which requires disclosures about specific types of expenses included in the expense captions presented on the face of the income statement as well as disclosures about selling expenses. The amendments are effective for public entities for fiscal years beginning after December 15, 2026, and will be applicable for the Company’s Annual Report on Form 10-K for the fiscal year ending March 31, 2028 and subsequent interim periods. Early adoption is permitted. The guidance is to be applied prospectively, with the option for retrospective application. The Company expects adoption of this ASU will result in additional disclosures in line with the requirements of ASU 2024-03.
+Other recent authoritative guidance issued by the FASB (including technical corrections to the ASC), the American Institute of Certified Public Accountants, and the SEC did not, or are not expected to, have a material impact on the Company’s unaudited condensed consolidated financial statements and related disclosures.
+Note 3 — 
+License Agreement
+On December 19, 2017, Roivant Sciences GmbH (“RSG”), a wholly-owned subsidiary of Roivant Sciences Ltd. (“RSL”), entered into a license agreement (the “HanAll Agreement”) with HanAll Biopharma Co., Ltd. (“HanAll”). Under the HanAll Agreement, RSG received (1) the non-exclusive right to manufacture and (2) the exclusive, royalty-bearing right to develop, import, use and commercialize the antibody referred to as batoclimab and certain back-up and next-generation antibodies (including IMVT-1402), and products containing such antibodies, in the United States of America (the “U.S.”), Canada, Mexico, the European Union, the United Kingdom, Switzerland, the Middle East, North Africa and Latin America (the “Licensed Territory”). 
+In exchange for this license, RSG provided or agreed to provide the following consideration:
+•
+Upfront, non-refundable payment of $
+30.0
+ million;
+•
+Up to $
+20.0
+ million in shared (
+50
+%) research, development, and out-of-pocket costs incurred by HanAll, which obligation has since expired;
+•
+Up to an aggregate of $
+420.0
+ million (after an aggregate amount of $
+32.5
+ million paid for milestone events achieved as of September 30, 2025) upon the achievement of certain regulatory and sales milestones; and
+•
+Tiered royalties ranging from the mid-single digits to mid-teens percentage of net sales of licensed products, subject to standard offsets and reductions, on a product-by-product and country-by-country basis, until the later of (1) expiration of patent and regulatory exclusivity or (2) the 11th anniversary of the first commercial sale of such product in such country.
+10
+Table of Contents
+On August 18, 2018, RSG entered into a sublicense agreement (the “Sublicense Agreement”) with Immunovant Sciences GmbH (“ISG”), a wholly-owned subsidiary of the Company, to sublicense this technology, as well as RSG’s know-how and patents necessary for the development, manufacture or commercialization of any compound or product that pertains to immunology. On December 7, 2018, RSG issued a notice to terminate the Sublicense Agreement with ISG and entered into an assignment and assumption agreement to assign to ISG all of the rights, title, interest, and future obligations under the HanAll Agreement from RSG, including all rights to IMVT-1402 and batoclimab in the Licensed Territory, for an aggregate purchase price of $
+37.8
+ million. Each party to the HanAll Agreement has agreed that neither it nor certain of its affiliates will clinically develop or commercialize certain competitive products in the Licensed Territory.
+
+Note 4 — 
+Accrued Expenses and Other Current Liabilities
+Accrued expenses and other current liabilities consist of the following (in thousands):
+September 30, 2025
+March 31, 2025
+Research and development expenses
+$
+42,651
+
+$
+32,622
+
+Accrued bonuses
+9,523
+
+15,618
+
+Legal and other professional fees
+857
+
+789
+
+Employee severance
+958
+
+263
+
+Due to Roivant Sciences Ltd.
+671
+
+273
+
+Other expenses
+1,678
+
+1,554
+
+Total accrued expenses and other current liabilities
+$
+56,338
+
+$
+51,119
+
+Note 5 — 
+Related Party Transactions
+RSL and RSG Services Agreements
+In August 2018, the Company entered into amended and restated services agreements (each a “Services Agreement” and together the “Services Agreements”) with Roivant Sciences, Inc. (“RSI”) and RSG, under which RSI and RSG agreed to provide services related to development, administrative and financial activities to the Company. RSI assigned its Services Agreement to RSL effective April 1, 2025. Under each Services Agreement, the Company will pay or reimburse RSL or RSG, as applicable, for any expenses it, or third parties acting on its behalf, incurs for the Company. For any general and administrative and research and development activities performed under the Services Agreements, the service provider will charge the service recipient a fully loaded cost based upon employee costs plus a pre-determined mark-up, except where otherwise negotiated. Any external services cross charged through the Services Agreements will be invoiced at cost. The term of the Services Agreements will continue until terminated by the Company, RSL or RSG, as applicable, upon 
+90
+ days’ written notice. 
+For the three months ended September 30, 2025, expenses recorded by the Company under the Services Agreements were de minimis. For the six months ended September 30, 2025, the Company recorded $
+0.8
+ million under the Services Agreements, which are included in the accompanying unaudited condensed consolidated statements of operations. For the three and six months ended September 30, 2024, the Company recorded $
+0.3
+ million and $
+0.4
+ million, respectively under the Services Agreements. 
+RSL Information Sharing and Cooperation Agreement 
+In December 2018, the Company entered into an amended and restated information sharing and cooperation agreement (the “Cooperation Agreement”) with RSL. The Cooperation Agreement, among other things: (1) obligates the Company to deliver to RSL periodic financial statements and other information upon reasonable request and to comply with other specified financial reporting requirements; (2) requires the Company to supply certain material information to RSL to assist it in preparing any future SEC filings; and (3) requires the Company to implement and observe certain policies and procedures related to applicable laws and regulations. The Company has agreed to indemnify RSL and its affiliates and their respective officers, employees and directors against all losses arising out of, due to or in connection with RSL’s status as a stockholder under the Cooperation Agreement and the operations of or services provided by RSL or its affiliates or their respective officers, employees or directors to the Company or any of its subsidiaries, subject to certain limitations set forth in the Cooperation Agreement. No amounts have been paid or received under this agreement.
+11
+Table of Contents
+Subject to specified exceptions, the Cooperation Agreement will terminate upon the earlier of (1) the mutual written consent of the parties or (2) the later of when RSL no longer (a) is required by U.S. GAAP to consolidate the Company’s results of operations and financial position, account for its investment in the Company under the equity method of accounting or, by any rule of the SEC, include the Company’s separate financial statements in any filings it may make with the SEC and (b) has the right to elect directors constituting a majority of the Company’s board of directors.
+Note 6 — 
+Income Taxes
+The Company’s effective tax rates were (
+0.47
+)% and (
+0.07
+)% for the three months ended September 30, 2025 and 2024, respectively, and (
+0.61
+)% and (
+0.08
+)% for the six months ended September 30, 2025 and 2024, respectively. The Company’s effective rate is primarily driven by its jurisdictional earnings by location and a valuation allowance that eliminates the Company’s global net deferred tax assets.
+The Company assesses the realizability of its deferred tax assets at each balance sheet date based on available positive and negative evidence in order to determine the amount which is more likely than not to be realized and records a valuation allowance as necessary.
+On July 4, 2025, the One Big Beautiful Bill Act (“OBBBA”) was signed into law in the U.S., which includes a broad range of tax reform provisions. ASC 740, “Income Taxes”, requires the effects of changes in tax rates and laws on deferred tax balances to be recognized in the period in which the legislation is enacted. The impact of the OBBBA on the Company’s accompanying condensed consolidated financial statements is not material.
+Note 7 — 
+Stockholders’ Equity
+Series A Preferred Stock
+As of September 30, 2025, 
+10,000
+ shares of Series A preferred stock, par value $
+0.0001
+ per share, were outstanding and held by RSL.
+Each share of Series A preferred stock will automatically convert into 
+one
+ share of common stock at such time as the holder(s) of Series A preferred stock hold less than 
+25
+% of the total voting power of the Company’s outstanding shares. In the event of the Company’s liquidation, dissolution, or winding up, the holder(s) of the Series A preferred stock will receive first an amount per share equal to $
+0.01
+ and then will be entitled to share ratably in the assets legally available for distribution to all stockholders.
+Preferred Stock
+As of September 30, 2025, the Company has authorized 
+10,010,000
+ shares of preferred stock, par value $
+0.0001
+ per share. Other than the 
+10,000
+ shares of preferred stock designated as Series A preferred stock, there were 
+no
+ issued and outstanding shares of preferred stock as of September 30, 2025.
+Common Stock
+As of September 30, 2025, the Company has authorized 
+500,000,000
+ shares of common stock, par value $
+0.0001
+ per share and has 
+174,532,710
+ shares of common stock issued and outstanding. 
+The Company has reserved the following shares of common stock for issuance:
+September 30, 2025
+March 31, 2025
+Conversion of Series A preferred stock
+10,000
+
+10,000
+
+Stock options outstanding
+12,910,132
+
+12,963,834
+
+Restricted stock units outstanding
+5,130,074
+
+4,043,674
+
+Equity awards available for future grants
+7,377,683
+
+6,027,035
+
+Total
+25,427,889
+
+23,044,543
+
+12
+Table of Contents
+The reserved shares underlying stock options above include 
+17,996
+ stock options that were exercised but were not settled as of September 30, 2025. The reserved shares underlying restricted stock units above include 
+820,514
+ restricted stock units that vested but were not settled as of September 30, 2025. In addition, the Company has reserved 
+5,000,000
+ shares of its common stock that may be issued under its 2023 Inducement Plan as of September 30, 2025. See Note 8 – Stock-Based Compensation for further details.
+Note 8 — 
+Stock-Based Compensation
+2019 Equity Incentive Plan
+In December 2019, the Company’s stockholders approved the 2019 Equity Incentive Plan (the “2019 Plan”) and reserved 
+5,500,000
+ shares of common stock for issuance thereunder. The maximum number of shares of common stock that may be issued pursuant to the exercise of incentive options under the 2019 Plan is 
+16,500,000
+. The number of shares of common stock reserved for issuance under the 2019 Plan will automatically increase on April 1 of each year, continuing through April 1, 2029, by 
+4.0
+% of the total number of shares of common stock outstanding on the last day of the preceding month, or a lesser number of shares as may be determined by the board of directors on or prior to March 31 of such year. On April 1, 2025, 
+6,804,463
+
+shares of common stock were added to the 2019 Plan pool in accordance with the evergreen provision of the 2019 Plan. As of September 30, 2025, options to purchase 
+11,782,406
+ shares of common stock and 
+4,309,560
+ RSUs were outstanding under the 2019 Plan and 
+7,377,683
+ s
+hares of common stock remained available for future grant under the 2019 Plan.
+2018 Equity Incentive Plan
+As of the effective date of the 2019 Plan, no further stock awards have been or will be made under the 2018 Equity Incentive Plan (the “2018 Plan”). As of September 30, 2025, options to purchase 
+1,109,730
+ shares of common stock were outstanding under the 2018 Plan. 
+2023 Inducement Plan
+On February 1, 2023, the Company’s board of directors approved the adoption of the 2023 Inducement Plan (the “Inducement Plan”), which is to be used exclusively for grants of awards to individuals who were not previously employees or directors of the Company (or following a bona fide period of non-employment) as a material inducement to such individuals’ entry into employment with the Company, pursuant to Nasdaq Listing Rule 5635(c)(4). The Company has reserved 
+5,000,000
+ shares of its common stock that may be issued under the Inducement Plan. The terms and conditions of the Inducement Plan are substantially similar to those of the 2019 Plan. As of September 30, 2025, 
+no
+ awards were granted or outstanding under the Inducement Plan.
+Stock Option Activity
+A summary of the stock option activity under the Company’s equity incentive plans is as follows:
+
+Number of Stock
+Options
+Weighted-
+Average
+Exercise Price
+Remaining
+Contractual
+Term (Years)
+Aggregate
+Intrinsic Value
+(in thousands)
+Balance - March 31, 2025
+12,963,834
+
+$
+12.00
+
+6.25
+$
+88,960
+
+Granted
+4,386,776
+
+$
+15.79
+
+Exercised
+(
+3,630,680
+)
+$
+7.62
+
+Forfeited
+(
+795,175
+)
+$
+16.64
+
+Expired
+(
+32,619
+)
+$
+22.10
+
+Balance - September 30, 2025
+12,892,136
+
+$
+14.23
+
+6.34
+$
+48,091
+
+Exercisable - September 30, 2025
+6,745,560
+
+$
+11.29
+
+4.82
+$
+40,856
+
+13
+Table of Contents
+The Company estimated the fair value of each option on the date of grant using the Black-Scholes option pricing model applying the weighted-average assumptions in the following table:
+
+Three Months Ended September 30,
+Six Months Ended September 30,
+
+2025
+2024
+2025
+2024
+Risk-free interest rate
+4.06
+%
+3.85
+%
+4.00
+%
+4.34
+%
+Expected term, in years
+6.11
+6.11
+6.08
+6.11
+Expected volatility
+77.42
+%
+
+80.41
+%
+78.13
+%
+
+83.00
+%
+Expected dividend yield
+—
+%
+—
+%
+—
+%
+—
+%
+Restricted Stock Unit Awards
+A summary of the RSU activity under the Company’s equity incentive plans is as follows:
+Number of RSUs
+Weighted- Average Grant- Date Fair Value
+Nonvested as of March 31, 2025
+3,239,901
+
+$
+21.70
+
+Issued
+2,610,075
+
+$
+15.28
+
+Vested
+(
+825,174
+)
+$
+20.66
+
+Forfeited
+(
+715,242
+)
+$
+18.47
+
+Nonvested as of September 30, 2025
+4,309,560
+
+$
+18.54
+
+Performance Restricted Stock Units
+During the three months ended September 30, 2025, the Company granted 
+820,000
+ PSUs, which were valued at $
+12.5
+ million on the date of grant. The vesting of these PSUs requires that certain performance conditions be achieved during the performance period. These PSUs were determined to be improbable of vesting and therefore no expense was recorded for the three and six months ended September 30, 2025. 
+Stock-based Compensation Expense
+For the three and six months ended September 30, 2025 and 2024, stock-based compensation expense under the Company’s equity incentive plans was as follows (in thousands):
+
+Three Months Ended
+September 30,
+Six Months Ended
+September 30,
+
+2025
+2024
+2025
+2024
+Research and development expenses
+$
+7,706
+
+$
+6,756
+
+$
+15,571
+
+$
+13,941
+
+General and administrative expenses
+5,480
+
+5,929
+
+16,010
+
+12,187
+
+Total stock-based compensation
+$
+13,186
+
+$
+12,685
+
+$
+31,581
+
+$
+26,128
+
+As of September 30, 2025, total unrecognized compensation expense related to nonvested stock options and RSUs was $
+60.8
+ million and $
+61.4
+ million, respectively, which is expected to be recognized over the remaining weighted-average service period of 
+2.86
+ years and 
+2.76
+ years, respectively.
+Stock-based Compensation Allocated to the Company by RSL
+In relation to RSL RSUs issued by RSL to employees of the Company, stock-based compensation expense was $
+0.2
+ million and $
+0.3
+ million for the three and six months ended September 30, 2025, respectively. These RSUs are vesting over a period of 
+four years
+. For the three and six months ended September 30, 2024, stock-based compensation expense recorded by the Company related to RSL RSUs was de minimis. As of September 30, 2025, the amount of unrecognized compensation expense related to unvested RSL RSUs was $
+1.6
+ million.
+
+14
+Table of Contents
+Note 9 — 
+Segment Information
+The Company operates in a single operating segment and has 
+one
+ reportable segment, which includes all activities related to the discovery, development and manufacturing of its product candidates. The determination of a single segment is consistent with the consolidated financial information regularly provided to the Company’s chief operating decision maker (“CODM”). The Company’s CODM is its chief executive officer. T
+he CODM, in alignment with the Company’s strategic goals, uses consolidated net loss to monitor budget to actual results and cash forecast models for assessing performance and making operating decisions. The measurement of segment assets is reported on the consolidated balance sheet as total assets.
+The Company’s significant segment expenses are as follows (in thousands):
+Three months ended September 30,
+Six Months Ended September 30,
+2025
+2024
+2025
+2024
+Therapeutic area-specific research and development:
+Endocrine diseases
+$
+24,895
+
+$
+14,887
+
+$
+44,224
+
+$
+30,800
+
+Neurological diseases
+23,087
+
+29,614
+
+44,024
+
+48,093
+
+Rheumatology diseases
+13,611
+
+9,045
+
+21,820
+
+9,045
+
+Dermatology diseases
+7,952
+
+4,943
+
+13,097
+
+4,943
+
+Other clinical and nonclinical
+319
+
+1,134
+
+2,711
+
+7,535
+
+Other unallocated research and development
+11,747
+
+11,330
+
+22,432
+
+21,490
+
+Personnel-related research and development 
+(1)
+32,638
+
+26,319
+
+67,141
+
+50,839
+
+Personnel-related general and administrative 
+(2)
+11,387
+
+10,560
+
+29,218
+
+21,256
+
+Other general and administrative 
+(3)
+6,126
+
+7,911
+
+14,319
+
+16,023
+
+Interest income, net
+(
+5,604
+)
+(
+6,073
+)
+(
+11,941
+)
+(
+13,254
+)
+Other segment items 
+(4)
+344
+
+(
+551
+)
+70
+
+(
+501
+)
+Net loss
+$
+126,502
+
+$
+109,119
+
+$
+247,115
+
+$
+196,269
+
+___________
+(1)
+Includes stock-based compensation expense of $
+7,706
+ and $
+15,571
+ for the three and six months ended September 30, 2025, respectively, and $
+6,756
+ and $
+13,941
+ for the three and six months ended September 30, 2024, respectively.
+(2)
+Includes stock-based compensation expense of $
+5,652
+ and $
+16,297
+ for the three and six months ended September 30, 2025, respectively, and $
+5,937
+ and $
+12,207
+ for the three and six months ended September 30, 2024, respectively.
+(3)
+Other general and administrative expenses primarily include legal and other professional fees, information technology costs and market research costs.
+(4)
+Other segment items include other income, net and provision for income taxes.
+15
+Table of Contents
+Note 10 — 
+Commitments and Contingencies
+Litigation
+The Company may be subject to various lawsuits, claims and other legal matters from time to time that arise in the ordinary course of conducting business. The Company records a liability when a particular contingency is probable and estimable. As of September 30, 2025, the Company was not party to any material legal proceedings and thus no contingent liabilities were recorded.
+Commitments
+As of September 30, 2025, the Company has a remaining minimum obligation for the contract manufacturing of batoclimab drug substance of approximately $
+39.1
+ million, of which $
+1.0
+ million, $
+10.1
+ million, $
+14.0
+ million and $
+14.0
+ million is expected to be paid, subject to the terms of such contract manufacturing agreement, during the remainder of the fiscal year ending March 31, 2026, and for the fiscal years ending March 31, 2028, 2029 and 2030, respectively. 
+As of September 30, 2025, the Company did not have any other ongoing material contractual obligations for which cash flows were fixed and determinable. In the normal course of business, the Company enters into agreements with CROs for clinical trials and with vendors for nonclinical studies, manufacturing and other services and products for operating purposes, which agreements are generally cancellable by the Company at any time, subject to payment of remaining obligations under binding purchase orders and, in certain cases, nominal early-termination fees. These commitments are not deemed significant. There are certain contracts wherein the Company has a minimum purchase commitment, however, most of it is due and payable within 
+one year
+.
+Contingencies
+The extent of the impact of geopolitical tensions, changes in inflation and interest rates, changes in international trade policies and tariffs and any resulting economic slowdown or recession on the Company’s future operational and financial performance will depend on certain developments, including the potential impact on the Company’s clinical trial plans and timelines, such as the enrollment, activation of additional clinical trial sites, and the results of the Company’s clinical trials, all of which are uncertain and cannot be predicted. At this point, the extent to which these events may impact the Company’s future financial condition or results of operations is uncertain.
+16
+Table of Contents
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+You should read the following discussion and analysis of our financial condition and results of operations together with our (1) unaudited condensed consolidated financial statements and related notes thereto included elsewhere in this Quarterly Report on Form 10-Q (“Quarterly Report”), and (2) audited consolidated financial statements and the related notes thereto and management’s discussion and analysis of financial condition and results of operations for the fiscal year ended March 31, 2025, included in our Annual Report on Form 10-K (“Annual Report”), filed with the Securities and Exchange Commission (the “SEC”) on May 29, 2025. Unless the context requires otherwise, references in this Quarterly Report to “Immunovant,” the “Company,” “we,” “us,” and “our” refer to Immunovant, Inc. and its wholly owned subsidiaries.
+Forward-Looking Statements
+This Quarterly Report contains “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). These statements are often identified by the use of words such as “anticipate,” “believe,” “can,” “continue,” “could,” “estimate,” “expect,” “forecast,” “goal,” “hope,” “intend,” “likely,” “may,” “might,” “objective,” “ongoing,” “plan,” “potential,” “predict,” “project,” “should,” “target,” “to be,” “will,” “would,” or the negative or plural of these words, or similar expressions or variations, although not all forward-looking statements contain these words. We cannot assure you that the events and circumstances reflected in the forward-looking statements will be achieved or occur and actual results could differ materially from those expressed or implied by these forward-looking statements.
+Factors that could cause or contribute to such differences include, but are not limited to, those identified herein, and those discussed in the section titled “Risk Factors” set forth in Part I, Item 1A. of our Annual Report and in our other filings with the SEC. These risks are not exhaustive. New risk factors emerge from time to time and it is not possible for our management to predict all risk factors, nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements. In addition, statements that “we believe” and similar statements reflect our beliefs and opinions on the relevant subject. These statements are based upon information available to us as of the date of this Quarterly Report, and while we believe such information forms a reasonable basis for such statements, such information may be limited or incomplete, and our statements should not be read to indicate that we have conducted an exhaustive inquiry into, or review of, all potentially available relevant information. These statements are inherently uncertain and investors are cautioned not to unduly rely upon these statements. Except as required by law, we undertake no obligation to update any forward-looking statements to reflect events or circumstances after the date of such statements.
+Overview
+Immunovant is a clinical-stage immunology company dedicated to enabling normal lives for people with autoimmune diseases. Our focus is on developing IMVT-1402, a potentially best-in-class inhibitor of the neonatal fragment crystallizable receptor (“FcRn”), to address autoimmune diseases driven by high levels of pathogenic immunoglobulin G (“IgG”) antibodies. FcRn is involved in preventing the degradation of IgG antibodies, and inhibition of FcRn has been shown to reduce levels of total IgG and pathogenic IgG antibodies. 
+We believe that FcRn inhibition has broad therapeutic and commercial potential to address pathogenic IgG-mediated autoimmune diseases in several therapeutic areas, including but not limited to, endocrinology, neurology, rheumatology and dermatology. Third-party estimates suggest over four million patients in the United States and Europe could benefit from anti-FcRn treatments across more than 20 indications currently being evaluated in clinical trials by multiple companies, with two indications that are already approved and launched quickly reaching billions of dollars in global annual sales.
+In a Phase 1 clinical trial, healthy adults dosed with IMVT-1402 showed deep, dose-dependent IgG reductions. We expect to be able to reach approximately 80% IgG reductions with continued weekly dosing of 600 mg of IMVT-1402, offering deeper IgG reductions than observed with other competitor anti-FcRn programs. There has been consistent evidence observed across the class in eight indications in Phase 2 and 3 trials with FcRn inhibitors that deeper IgG reductions correlate with meaningful improvements in clinical outcomes. This has also been validated with Immunovant’s own Phase 2 and 3 studies evaluating its first-generation anti-FcRn antibody, batoclimab, formerly referred to as IMVT-1401, in Graves’ disease (“GD”), myasthenia gravis (“MG”) and chronic inflammatory demyelinating polyneuropathy (“CIDP”) which showed that IgG reductions of greater than or equal to 70% led to meaningfully better outcomes compared to reductions below 70% across a range of clinical measures.
+17
+Table of Contents
+In the Phase 1 clinical trial, across all evaluated doses, IMVT-1402 demonstrated no or minimal reductions in albumin and no or minimal increases in LDL cholesterol levels, which are off-target effects observed in some anti-FcRn antibodies, including batoclimab. We are pursuing the rapid development of IMVT-1402 because of its best-in-class potential, with the 600 mg dose expected to reach approximately 80% IgG reduction. We believe IMVT-1402’s profile has the potential to offer best-in-class efficacy, in addition to its potentially favorable safety profile and convenient administration with a simple self-administered auto-injector expected at launch. As previously disclosed, we will make a final decision about the further development and regulatory submissions for batoclimab in the future based on the aggregate information available at the time in consultation with our partner HanAll Biopharma Co., Ltd. (“HanAll”). Data and insights from batoclimab, including our operational trial experience, relationships with investigators and prior results, have been and continue to be leveraged to inform and potentially accelerate our development programs for IMVT-1402. 
+We are currently progressing a broad set of programs for IMVT-1402 and have initiated and are currently enrolling studies in six indications, including potentially registrational trials in GD, difficult-to-treat rheumatoid arthritis (“D2T RA”), MG, CIDP and Sjögren’s disease (“SjD”), and a proof-of-concept trial in cutaneous lupus erythematosus (“CLE”). Our primary focus is to execute these six indications first, with plans to assess new indications for IMVT-1402 in the future. All studies evaluating IMVT-1402 are being conducted using the intended commercial drug formulation and delivery device, the YpsoMate® autoinjector developed by Ypsomed AG, which is utilized for multiple approved products.
+IMVT-1402 and batoclimab are fully human monoclonal antibodies that target FcRn. These antibodies are the result of a multi-step, multi-year research program conducted in collaboration with HanAll to design highly potent anti-FcRn antibodies that may be optimized as a simple, subcutaneous injection with dosing that has been shown to deliver better efficacy at the high dose and similar efficacy at the low dose compared to standard FcRn inhibition by competitors. 
+Recent Developments in Our Clinical Programs
+Endocrine Diseases
+IMVT-1402 Potentially Registrational Trials in GD
+We initiated two potentially registrational trials (NCT06727604 and NCT07018323) evaluating IMVT-1402 in adults with GD in December 2024 and June 2025, respectively. We expect to report top-line results from these trials in 2027. 
+Batoclimab Phase 2 Proof-of-Concept Trial in GD
+In September 2025, we announced and presented six-month off-treatment data generated from our proof-of-concept Phase 2 clinical trial (NCT05907668) of batoclimab for the treatment of uncontrolled GD at the American Thyroid Association Annual Meeting. The study included a 24-week treatment period with a dose step-down midway through the treatment period (Weeks 0-12 at 680 mg weekly (“QW”) subcutaneously (“SC”) and Weeks 13-24 at 340 mg QW SC), followed by a 24-week off-treatment follow-up period. The study enrolled participants with active Graves’ disease as documented by presence of elevated thyrotropin receptor autoantibodies (“TRAb”) and who were hyperthyroid despite current treatment with standard of care antithyroid drug (“ATD”) therapy. Response was measured by the primary endpoint of the study as the proportion of participants who at Week 24 achieved normalization of free triiodothyronine (“T3”) and free thyroxine (“T4”), or have T3/T4 below the lower limit of normal (“LLN”), without an increase in ATD dose from baseline.
+A total of 25 subjects were enrolled in the treatment period and 21 subjects entered the 24-week off-treatment follow-up period and could be assessed for maintenance of response. At completion of the follow-up period at Week 48 (i.e., subjects off-treatment for 24 weeks), approximately 80% (17/21) of those subjects maintained T3/T4 values ≤ upper limit of normal (“ULN”), suggestive of strong durability of the response observed at Week 24 as evaluated at approximately six months off treatment at Week 48. Of these 17 subjects, approximately 50% (8/17) were ATD-free and an additional approximately 30% (5/17) were on ATD doses of 2.5 mg/day at six months off batoclimab treatment. Total IgG and TRAb levels declined through Week 24, consistent with previous observations, and while total IgG rebounded after treatment ended, pathogenic TRAb levels remained suppressed at Week 48. Safety and tolerability were observed to be consistent with prior batoclimab studies.
+Batoclimab Phase 3 Clinical Program in Thyroid Eye Disease (“TED”)
+In the quarter ended December 31, 2022, we initiated our Phase 3 clinical program to evaluate batoclimab as a treatment for active moderate-to-severe TED. 
+
+We remain on track for the first of the two batoclimab Phase 3 TED studies to read out before the end of calendar year 2025. However, due to evolving competitive dynamics, we anticipate sharing top-line results from both TED studies concurrently in the first half of calendar year 2026. 
+18
+Table of Contents
+Neurological Diseases
+IMVT-1402 Potentially Registrational Trial in MG
+We initiated a potentially registrational trial (NCT07039916) evaluating IMVT-1402 in adults with MG in March 2025. This trial is a randomized, placebo-controlled, 26-week trial. We expect to report top-line results from this trial in 2027.
+IMVT-1402 Potentially Registrational Trial in CIDP
+We initiated a potentially registrational trial (NCT07032662) evaluating IMVT-1402 in adults with CIDP in March 2025. This trial is a randomized, placebo-controlled, 24-week trial in participants with active CIDP. We expect to report top-line results from this trial in 2028.
+Rheumatology Diseases
+IMVT-1402 Potentially Registrational Trial in D2T RA
+We initiated a potentially registrational trial (NCT06754462) evaluating IMVT-1402 in anti-citrullinated protein autoantibody (“ACPA”) positive D2T RA in December 2024. We expect to report initial results from the period 1 open label portion of this trial in 2026.
+IMVT-1402 Potentially Registrational Trial in SjD
+We initiated a potentially registrational trial (NCT06979531) evaluating IMVT-1402 in SjD in June 2025. We expect to report top-line results from this trial in 2028.
+Dermatology Diseases 
+IMVT-1402 Proof-of-Concept Trial in CLE
+We initiated a proof-of-concept trial (NCT6980805) evaluating IMVT-1402 in CLE in February 2025. We expect to report top-line results from this trial in 2026.
+Macroeconomic Considerations
+Unfavorable conditions in the economy in the U.S., Canada and abroad may negatively affect the growth of our business and our results of operations. For example, macroeconomic events, including changes in inflation and interest rates, changes in international trade policies and tariffs and geopolitical tensions, such as the Russia-Ukraine war and conflict in the Middle East, have led to economic uncertainty globally. The effect of macroeconomic conditions may not be fully reflected in our results of operations until future periods. If, however, economic uncertainty increases or the global economy worsens, our business, financial condition and results of operations may be harmed.
+For additional information about risks and uncertainties related to macroeconomic events that may impact our business, financial condition and results of operations, see the section titled “Risk Factors” under Part II, Item 1A in this Quarterly Report.
+Our Key Agreements
+License Agreement with HanAll (“HanAll Agreement”)
+For a description of our transactions under the HanAll Agreement, refer to “
+Note 3 – License Agreement
+”
+
+in our unaudited condensed consolidated financial statements in Part I, Item 1 of this Quarterly Report.
+Related Party Transactions
+For a description of our transactions under agreements with related parties, refer to “
+Note 5 – Related Party Transactions
+”
+
+in our unaudited condensed consolidated financial statements in Part I, Item 1 of this Quarterly Report.
+19
+Table of Contents
+Financial Operations Overview
+Revenue
+We have not generated any revenue and have incurred significant operating losses since inception, and we do not expect to generate any revenue from the sale of any products unless or until we obtain regulatory approval of and commercialize IMVT-1402, batoclimab or any future product candidates. Our ability to generate revenue sufficient to achieve profitability will depend completely on the successful development and eventual commercialization of IMVT-1402 and any other product candidates.
+Research and Development Expenses
+We have been primarily engaged in preparing for and conducting clinical trials. Research and development expenses include therapeutic area-specific costs, as well as unallocated costs, and are net of costs reimbursable to the Company pursuant to cost-sharing arrangements with third parties.
+Therapeutic area-specific costs include direct third-party costs, which include expenses incurred under agreements with contract research organizations and the cost of consultants who assist with the development of our product candidates with respect to a specific therapeutic area, investigator grants, sponsored research, and any other third-party expenses directly attributable to the development of the product candidates. Therapeutic area-specific costs also include contract manufacturing costs in connection with producing materials for use in conducting nonclinical and clinical studies to the extent they can be allocated to a specific therapeutic area.
+Unallocated costs include:
+•
+personnel-related expenses for research and development personnel, which include employee-related expenses such as salaries, benefits and other staff-related costs;
+•
+stock-based compensation expenses for research and development personnel;
+•
+costs allocated to us under our services agreements with Roivant Sciences Ltd. (“RSL”) and Roivant Sciences GmbH (“RSG”) (the “Services Agreements”); and
+•
+other expenses, which include the cost of consultants and information technology related to our research and development but are not allocated to a specific therapeutic area.
+Research and development activities will continue to be central to our business model. We expect to incur research and development expenses with respect to our IMVT-1402 development activities and we initiated potentially registrational trials for IMVT-1402 in GD, D2T RA, MG, CIDP and SjD, and a proof-of-concept trial in CLE. We expect to continue to incur research and development expenses over the next several years as we execute IMVT-1402 trials, manufacture IMVT-1402, complete our batoclimab trials and prepare to seek regulatory approval. It is not possible to determine with certainty the duration and completion costs of any clinical trial we may conduct. 
+The duration, costs and timing of clinical trials of IMVT-1402, any potential future batoclimab trials, and any future product candidates will depend on a variety of factors that include, but are not limited to:
+•
+the number of trials required for approval;
+•
+the per patient trial costs;
+•
+the number of patients that participate in the trials;
+•
+the number of sites included in the trials;
+•
+the countries in which the trial is conducted;
+•
+the length of time required to enroll eligible patients;
+•
+the number of doses that patients receive;
+•
+the drop-out or discontinuation rates of patients;
+•
+the potential additional safety monitoring or other studies requested by regulatory authorities;
+•
+the duration of patient follow-up;
+•
+the timing and receipt of regulatory approvals;
+•
+the potential impact of macroeconomic events, including changes in inflation, interest rates and international trade policies and tariffs and geopolitical tensions, such as the Russia-Ukraine war and the conflict in the Middle East;
+20
+Table of Contents
+•
+the efficacy and safety profile of the product candidate; and
+•
+the cost of manufacturing.
+In addition, the probability of success for our product candidates will depend on numerous factors, including our product’s efficacy, safety, ease of use, competition, manufacturing capability and commercial viability.
+General and Administrative Expenses
+General and administrative expenses consist primarily of employee salaries and related benefits, stock-based compensation for general and administrative personnel, legal and accounting fees, consulting services, costs allocated under the Services Agreements and other operating costs relating to corporate matters and daily operations.
+We anticipate that our general and administrative expenses will continue to support our ongoing research and development activities. These expenses will likely include patent-related costs, including legal and professional fees for filing, prosecution and maintenance of patents and patent applications claiming our product candidates and fees to outside consultants for professional services. In addition, if IMVT-1402 or any other product candidate obtains regulatory approval, we expect that we would incur significant additional expenses associated with market research activities and building commercial teams.
+Results of Operations for the Three Months Ended September 30, 2025 and 2024
+The following table sets forth our results of operations for the three months ended September 30, 2025 and 2024 (in thousands):
+
+Three Months Ended September 30,
+
+2025
+2024
+Change
+Operating expenses:
+Research and development
+$
+114,249 
+$
+97,272 
+$
+16,977 
+General and administrative
+17,513 
+18,471 
+(958)
+Total operating expenses
+131,762 
+115,743 
+16,019 
+Interest income, net
+(5,604)
+(6,073)
+469 
+Other income, net
+(250)
+(629)
+379 
+Loss before provision for income taxes
+(125,908)
+(109,041)
+(16,867)
+Provision for income taxes
+594 
+78 
+516 
+Net loss
+$
+(126,502)
+$
+(109,119)
+$
+(17,383)
+21
+Table of Contents
+Research and Development Expenses
+
+for the Three Months Ended September 30, 2025 and 2024
+
+The following table summarizes the period-over-period changes in research and development expenses for the three months ended September 30, 2025 and 2024 (in thousands):
+Three Months Ended September 30,
+2025
+2024*
+Change
+Therapeutic area-specific costs:
+Endocrine diseases
+$
+24,895 
+$
+14,887 
+$
+10,008 
+Neurological diseases
+23,087 
+29,614 
+(6,527)
+Rheumatology diseases
+13,611 
+9,045 
+4,566 
+Dermatology diseases
+7,952 
+4,943 
+3,009 
+Other clinical and nonclinical
+319 
+1,134 
+(815)
+           Total therapeutic area-specific costs
+69,864 
+59,623 
+10,241 
+Unallocated costs:
+Personnel-related expenses including stock-based compensation
+32,638 
+26,319 
+6,319 
+Other
+11,747 
+11,330 
+417 
+Total research and development expenses
+$
+114,249
+
+$
+97,272
+
+$
+16,977
+
+___________
+*Certain prior year amounts have been reclassified to conform to current year presentation.
+For the three months ended September 30, 2025, research and development expenses increased $17.0 million as compared with the prior-year period.
+For the three months ended September 30, 2025, therapeutic area-specific research and development costs, including contract manufacturing costs, increased $10.2 million as compared with the prior-year period. Research and development costs related to endocrine diseases, which include GD and TED, increased $10.0 million. This increase was primarily due to the initiation of our potentially registrational trials of IMVT-1402 in endocrine diseases, partially offset by lower overall clinical trial costs related to our batoclimab clinical trials. Research and development costs related to neurological diseases, which include MG and CIDP, decreased $6.5 million. This decrease was primarily due to lower overall clinical trial costs related to our batoclimab Phase 3 and Phase 2b clinical trials. Research and development costs related to rheumatology diseases, which include RA and SjD, increased $4.6 million, reflecting expenses incurred with the initiation of our potentially registrational trials of IMVT-1402. Research and development costs related to dermatology diseases increased $3.0 million, reflecting the initiation of our proof-of-concept trial in CLE. Research and development costs related to other clinical and nonclinical activities decreased $0.8 million, primarily reflecting the transition of IMVT-1402 clinical activities targeting specific therapeutic areas.
+For the three months ended September 30, 2025, unallocated research and development costs increased $6.7 million as compared with the prior-year period. This increase reflected higher personnel-related expenses of $6.3 million, driven by higher headcount hired to conduct a higher number of clinical trials. 
+General and Administrative Expenses for the Three Months Ended September 30, 2025 and 2024
+For the three months ended September 30, 2025, general and administrative expenses decreased $1.0 million as compared with the prior-year period, primarily reflecting the streamlining of administrative processes to drive effective cost management strategies.
+Interest Income, net for the Three Months Ended September 30, 2025 and 2024
+For the three months ended September 30, 2025, interest income decreased $0.5 million as compared with the prior-year period, primarily reflecting lower average interest rates, partially offset by higher average money market fund balances.
+22
+Table of Contents
+Results of Operations for the Six Months Ended September 30, 2025 and 2024 
+
+The following table sets forth our results of operations for the six months ended September 30, 2025 and 2024 (in thousands):
+
+Six Months Ended September 30,
+
+2025
+2024
+Change
+Operating expenses:
+Research and development
+$
+215,449 
+$
+172,745 
+$
+42,704 
+General and administrative
+43,537 
+37,279 
+6,258 
+Total operating expenses
+258,986 
+210,024 
+48,962 
+Interest income, net
+(11,941)
+(13,254)
+1,313 
+Other income, net
+(1,437)
+(657)
+(780)
+Loss before provision for income taxes
+(245,608)
+(196,113)
+(49,495)
+Provision for income taxes
+1,507 
+156 
+1,351 
+Net loss
+$
+(247,115)
+$
+(196,269)
+$
+(50,846)
+Research and Development Expenses
+
+for the Six Months Ended September 30, 2025 and 2024
+
+The following table summarizes the period-over-period changes in research and development expenses for the six months ended September 30, 2025 and 2024 (in thousands):
+Six Months Ended September 30,
+2025
+2024*
+Change
+Therapeutic area-specific costs:
+Endocrine diseases
+$
+44,224 
+$
+30,800 
+$
+13,424 
+Neurological diseases
+44,024 
+48,093 
+(4,069)
+Rheumatology diseases
+21,820 
+9,045 
+12,775 
+Dermatology diseases
+13,097 
+4,943 
+8,154 
+Other clinical and nonclinical
+2,711 
+7,535 
+(4,824)
+           Total therapeutic area-specific costs
+125,876 
+100,416 
+25,460 
+Unallocated costs:
+
+Personnel-related expenses including stock-based compensation
+67,141 
+50,839 
+16,302 
+Other
+22,432 
+21,490 
+942 
+Total research and development expenses
+$
+215,449
+
+$
+172,745
+
+$
+42,704
+
+___________
+*Certain prior year amounts have been reclassified to conform to current year presentation.
+For the six months ended September 30, 2025, research and development expenses increased $42.7 million as compared with the prior-year period.
+For the six months ended September 30, 2025, therapeutic area-specific research and development costs, including contract manufacturing costs, increased $25.5 million as compared with the prior-year period. Research and development costs related to endocrine diseases, which include GD and TED, increased $13.4 million. This increase was primarily due to the initiation of our potentially registrational trials of IMVT-1402 in endocrine diseases, partially offset by lower overall clinical trial costs related to our batoclimab clinical trials. Research and development costs related to neurological diseases, which include MG and CIDP, decreased $4.1 million, primarily due to lower overall clinical trial costs related to our batoclimab Phase 3 and Phase 2b clinical trials, partially offset by costs related to the initiation of our potentially registrational trials of IMVT-1402 in neurological diseases. Research and development costs related to rheumatology diseases, which include RA and SjD, increased $12.8 million, reflecting expenses incurred with the initiation of our potentially registrational trials of IMVT-1402. Research and development costs related to dermatology diseases increased $8.2 million, reflecting the initiation of our proof-of-concept trial in CLE. Research and development costs related to other clinical and nonclinical activities decreased $4.8 million, primarily reflecting the transition of IMVT-1402 clinical activities targeting specific therapeutic areas.
+23
+Table of Contents
+For the six months ended September 30, 2025, unallocated research and development costs increased $17.2 million as compared with the prior-year period. This increase reflected higher personnel-related expenses of $16.3 million, driven by higher headcount hired to conduct a higher number of clinical trials. 
+General and Administrative Expenses
+
+for the Six Months Ended September 30, 2025 and 2024
+For the six months ended September 30, 2025, general and administrative expenses increased $6.3 million as compared with the prior-year period, primarily reflecting higher personnel-related expenses, driven by a one-time stock-based compensation charge related to the retirement of our former chief executive officer.
+Interest Income for the Six Months Ended September 30, 2025 and 2024
+For the six months ended September 30, 2025, interest income decreased $1.3 million as compared with the prior-year period, primarily reflecting lower average interest rates, partially offset by higher average money market fund balances.
+Liquidity and Capital Resources
+Sources of Liquidity
+We had cash and cash equivalents of $521.9 million and $714.0 million as of September 30, 2025 and March 31, 2025, respectively. For the three months ended September 30, 2025 and 2024, we had net losses of $126.5 million and $109.1 million, respectively, and for the six months ended September 30, 2025 and 2024, we had net losses of $247.1 million and $196.3 million, respectively. We expect to continue to incur significant expenses at least for the next several years. We have never generated any revenue and we do not expect to generate product revenue unless and until we successfully complete development and obtain regulatory approval for IMVT-1402, batoclimab or any future product candidate. 
+To date, we have financed our operations primarily from equity offerings. Until such time, if ever, as we can generate substantial product revenue from sales of IMVT-1402 or any other product candidate, we expect to finance our cash needs through a combination of equity offerings, debt financings and potential collaboration, license or development agreements. Our ability to raise additional capital may be adversely impacted by worsening global economic conditions and the continuing disruptions to, and volatility in, the credit and financial markets in the U.S. and worldwide, disruptions resulting from geopolitical tensions, including the ongoing military conflict between Russia and Ukraine and in the Middle East, and changes in inflation, interest rates and international trade policies and tariffs.
+We do not currently have any committed external source of funds. Debt financing and preferred equity financing, if available, may involve agreements that include covenants limiting or restricting our ability to take specific actions, such as incurring additional debt, making capital expenditures or declaring dividends.
+We have a sales agreement with Leerink Partners LLC (“Leerink Partners”), as sales agent, pursuant to which we may offer and sell, from time to time, shares of our common stock (the “ATM Shares”), subject to certain conditions as specified in the sales agreement. We agreed to pay Leerink Partners up to 3% of the gross proceeds from each sale of ATM Shares sold through the sales agreement. The ATM Shares would be sold at prevailing market prices at the time of the sale and, as a result, prices may vary. The ATM Shares to be sold under the sales agreement, if any, would be issued and sold pursuant to an automatic shelf registration statement on Form S-3, which we filed with the SEC on November 9, 2023, along with a prospectus supplement relating to the offer and sale of up to $150.0 million of ATM Shares pursuant to the sales agreement. We have not issued or sold any ATM Shares pursuant to the ATM offering program.
+If we raise additional funds through collaborations, strategic alliances or marketing, distribution or licensing arrangements with third parties, we may be required to relinquish valuable rights to future revenue streams, research programs or product candidates or to grant licenses on terms that may not be favorable to us. Adequate additional funding may not be available to us on acceptable terms, or at all. If we are unable to raise capital in sufficient amounts or on terms acceptable to us, we may be required to delay, limit, reduce or terminate our drug development or future commercialization efforts or grant rights to develop and market product candidates that we would otherwise prefer to develop and market ourselves or potentially discontinue operations.
+24
+Table of Contents
+Cash Flows
+The following table sets forth a summary of our cash flows for the six months ended September 30, 2025 and 2024 (in thousands):
+
+Six Months Ended September 30,
+
+2025
+2024
+Net cash used in operating activities
+$
+(219,926)
+$
+(164,846)
+Net cash used in investing activities
+— 
+(378)
+Net cash provided by financing activities
+27,513 
+1,416 
+Operating Activities
+For the six months ended September 30, 2025, $219.9 million of cash was used in operating activities, primarily reflecting a net loss from operations for the period of $247.1 million and a net change in operating assets and liabilities of $4.9 million, partially offset by non-cash charges of $32.1 million. The non-cash charges consisted mainly of stock-based compensation of $31.9 million, reflecting the higher headcount and incentive equity awards as compared with the prior year, as well as a one-time stock-based compensation charge related to the retirement of our former chief executive officer. The change in operating assets and liabilities reflected a decrease in accounts payable of $10.5 million, primarily related to payments for clinical trial costs and contract manufacturing. These changes were partially offset by an increase in accrued expenses and other current liabilities of $5.0 million, primarily reflecting costs incurred for our ongoing clinical trials.
+For the six months ended September 30, 2024, $164.8 million of cash was used in operating activities, primarily reflecting a net loss from operations for the period of $196.3 million, partially offset by non-cash charges of $26.4 million and a net change in operating assets and liabilities of $5.0 million. The non-cash charges consisted mainly of stock-based compensation of $26.1 million, reflecting the higher headcount and incentive equity awards as compared with the prior year. The change in operating assets and liabilities reflected an increase in accounts payable of $13.2 million, primarily related to clinical trial and contract manufacturing costs and a decrease in accounts receivable of $3.3 million, reflecting the collection of amounts owed to us under research and development cost-sharing arrangements with a third party. In addition, accrued expenses increased $3.1 million, primarily reflecting the timing of payments and services related to contract manufacturing and our ongoing clinical trials, partially offset by payments related to employee incentive compensation. These changes were partially offset by an increase in other assets of $8.1 million as a result of prepaid expenses related to planned contract manufacturing activities, as well as higher prepaid expenses and other current assets of $6.5 million, driven primarily by the timing of payments and services performed related to our ongoing and planned clinical trials.
+Investing Activities
+For the three months ended September 30, 2024, cash used in investing activities was related to the purchase of property and equipment.
+Financing Activities
+For the six months ended September 30, 2025 and 2024, cash provided by financing activities consisted of proceeds from the exercise of stock options, primarily from our former executive officers.
+Material Cash Requirements
+Our primary uses of capital have been, and we expect will continue to be, for advancing our clinical and nonclinical development programs. We have based our estimates on assumptions that may prove to be wrong, and we may use our available capital resources sooner than we currently expect. Our net losses and operating cash flows may fluctuate significantly from quarter-to-quarter and year-to-year, depending on the timing of our planned clinical trials, timing of IMVT-1402 or batoclimab manufacturing, HanAll milestone payments and our expenditures on other research and development activities. 
+Because of the numerous risks and uncertainties associated with the development and commercialization of product candidates, we are unable to estimate the amounts of increased capital outlays and operating expenditures necessary to complete the development of product candidates.
+25
+Table of Contents
+Our short-term and long-term material cash requirements as of September 30, 2025 primarily consisted of those related to our clinical trials and clinical development activities, which we expect to fund primarily with our existing cash balance. Our most significant cash requirements are described below: 
+Commitments
+As of September 30, 2025, we have a remaining minimum obligation for the contract manufacturing of batoclimab drug substance of approximately $39.1 million, of which $1.0 million, $10.1 million, $14.0 million and $14.0 million is expected to be paid, subject to the terms of such contract manufacturing agreement, during the remainder of the fiscal year ending March 31, 2026, and for the fiscal years ending March 31, 2028, 2029 and 2030, respectively. 
+HanAll Agreement
+Potential future payments due under the HanAll Agreement are contingent upon future events. As of 
+September 30, 2025
+, the aggregate maximum amount of milestone payments we could be required to make under the HanAll Agreement is $420.0 million (after an aggregate amount of $32.5 million paid for milestone events achieved as of September 30, 2025) upon the achievement of certain regulatory and sales milestone events.
+Outlook
+We currently expect that our existing cash and cash equivalents as of September 30, 2025 of $521.9 million will be sufficient to fund our operating expenses and capital expenditure requirements for announced indications to date through our GD readout expected in 2027.
+Except as discussed above, we did not have any other ongoing material contractual obligations for which cash flows were fixed and determinable. We expect to enter into other commitments as the business further develops. In the normal course of business, we enter into agreements with CROs for clinical trials and with vendors for nonclinical studies, manufacturing and other services and products for operating purposes, which agreements are generally cancellable by us at any time, subject to payment of remaining obligations under binding purchase orders and, in certain cases, nominal early-termination fees. These commitments are not deemed significant. There are certain contracts wherein we have a minimum purchase commitment, however, most of it is due and payable within one year.
+We anticipate that our short-term and long-term future capital requirements will increase as we:
+•
+fund our clinical development programs;
+•
+launch any potential clinical trials of IMVT-1402 in additional indications;
+•
+increase manufacturing of IMVT-1402 drug substance and drug product to support clinical trials;
+•
+achieve milestones under our agreements with third parties, including the HanAll Agreement, that will require us to make substantial payments to those parties;
+•
+integrate acquired technologies into a comprehensive regulatory and product development strategy;
+•
+maintain, expand and protect our intellectual property portfolio;
+•
+hire scientific, clinical, quality control and administrative personnel;
+•
+add operational, financial and management information systems and personnel, including personnel to support our drug development efforts;
+•
+commence the number of clinical trials required for approval;
+•
+seek regulatory approvals for any product candidates that successfully complete clinical trials;
+•
+seek to identify, acquire, develop and commercialize additional product candidates;
+•
+ultimately establish a sales, marketing and distribution infrastructure and scale up external manufacturing capabilities to commercialize any drug candidates for which we may obtain regulatory approval; and
+•
+incur insurance, legal and other regulatory compliance expenses to operate as a public company.
+26
+Table of Contents
+Our primary use of cash is to fund our clinical trials, clinical development and manufacturing activities. Our current funds will not be sufficient to enable us to complete all necessary development and, if approved, commercially launch IMVT-1402 or batoclimab. We anticipate that we will continue to incur net losses for the foreseeable future.
+Critical Accounting Estimates
+Our management’s discussion and analysis of our financial condition and results of operations is based on our consolidated financial statements, which have been prepared in accordance with U.S. GAAP. The preparation of these consolidated financial statements requires us to make estimates, judgments and assumptions that affect the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities as of the date of the balance sheet, and the reported amounts of expenses during the reporting period. In accordance with U.S. GAAP, we evaluate our estimates and judgments on an ongoing basis. We base our estimates on historical experience and on various other factors that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions.
+We define our critical accounting estimates as those under U.S. GAAP that require us to make subjective estimates and judgments about matters that are uncertain and are likely to have a material impact on our financial condition and results of operations, as well as the specific manner in which we apply those principles. During the three and six months ended September 30, 2025, there were no material changes to our critical accounting estimates from those disclosed in the audited consolidated financial statements for the year ended March 31, 2025 included in our Annual Report.
+Recent Accounting Pronouncements
+For information with respect to recently issued accounting standards and the impact of these standards on our unaudited condensed consolidated financial statements, refer to “
+Note 2 – Summary of Significant Accounting Policies
+” in our unaudited condensed consolidated financial statements in Part I, Item 1 of this Quarterly Report.
+27
+Table of Contents
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+Interest Rate Risk
+As of September 30, 2025, we had cash and cash equivalents of $521.9 million, all of which are maintained in accredited financial institutions. Our cash equivalents consist of money market funds invested in high-quality, short-term securities that are issued and guaranteed by the U.S. government. Our primary exposure to market risk is interest income volatility, which is sensitive to changes in the general level of interest rates; however, due to the nature of our account portfolio, an immediate hypothetical 10% change in interest rates would not have a material effect on our liquidity.
+Foreign Currency Exchange Rate Risk
+Our employees and our operations are currently primarily located in the United States and our expenses are generally denominated in U.S. dollars. We therefore are not currently exposed to significant market risk related to changes in foreign currency exchange rates. However, we are exposed to fluctuations in foreign currency exchange rate risk as a result of entering into transactions denominated in currencies other than U.S. dollars as we have contracted with and may continue to contract with foreign vendors. We believe an immediate hypothetical 10% change in exchange rates during any of the periods presented would not have a material effect on our liquidity or our consolidated financial statements.
+Effects of Inflation
+Inflation generally affects us by increasing our research and development and contract manufacturing costs. We do not believe that inflation had a material effect on our business, financial condition or results of operations as of September 30, 2025.
+Item 4. Controls and Procedures
+Evaluation of Disclosure Controls and Procedures
+We maintain “disclosure controls and procedures” (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) that are designed to provide reasonable assurance that information required to be disclosed by us in the reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms.
+Disclosure controls and procedures include, without limitation, controls and procedures designed to provide reasonable assurance that information required to be disclosed by us in the reports that we file or submit under the Exchange Act is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow for timely decisions regarding required disclosure.
+Our management, with the participation of our Chief Executive Officer and our Chief Financial Officer, evaluated the effectiveness of our disclosure controls and procedures as of September 30, 2025, the end of the period covered by this Quarterly Report. Based on this evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective as of September 30, 2025, at the reasonable assurance level.
+Changes in Internal Control Over Financial Reporting
+There was no change in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) that occurred during the fiscal quarter ended September 30, 2025 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+Inherent Limitation on the Effectiveness of Internal Control
+Our management, including our Chief Executive Officer and Chief Financial Officer, does not expect that our disclosure controls and procedures, or our internal controls, will prevent all error and all fraud. A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within our company have been detected.
+28
+Table of Contents
+PART II – OTHER INFORMATION
+Item 1. Legal Proceedings
+From time to time, we may become involved in legal or regulatory proceedings arising in the ordinary course of our business. We do not currently, however, expect such legal proceedings to have a material adverse effect on our business, operating results or financial condition. However, depending on the nature and timing of a given dispute, an unfavorable resolution could materially affect our current or future results of operations or cash flows.
+For a description of our legal proceedings, refer to “
+Note 10 – Commitments and Contingencies
+” in our unaudited condensed consolidated financial statements in Part I, Item I of this Quarterly Report. 
+Item 1A. Risk Factors
+Our business involves a high degree of risk. You should carefully consider the risks described in “Part I, Item 1A. Risk Factors” of our Annual Report filed with the SEC on May 29, 2025, together with the other information contained in this Quarterly Report, including our unaudited condensed consolidated financial statements and the related notes appearing elsewhere in this Quarterly Report. We cannot assure you that any of the events discussed in these risk factors will not occur. These risks could have a material and adverse impact on our business, results of operations, financial condition and cash flows and, if so, our future prospects would likely be materially and adversely affected. If any of such events were to happen, the trading price of shares of our common stock could decline, and you could lose all or part of your investment. During the quarter ended September 30, 2025, our risk factors have not changed materially from those described in our Annual Report, except for the risk factors noted below.
+Risks Related to Our Business, Financial Position and Capital Requirements
+We rely on the HanAll Agreement to provide us rights to the core intellectual property relating to IMVT-1402 and batoclimab. Any termination or loss of significant rights under the HanAll Agreement would adversely affect our development and commercialization of IMVT-1402 and batoclimab.
+We have licensed our core intellectual property relating to IMVT-1402 and batoclimab from HanAll under the HanAll Agreement. The HanAll Agreement imposes a variety of obligations on us, including those relating to exclusivity, territorial rights, development, commercialization, funding, payment, diligence, sublicensing, insurance, intellectual property protection and other matters. If we materially breach any of our obligations under the HanAll Agreement and are unable to cure that breach within the time frame specified under the HanAll Agreement, we may be required to pay damages to HanAll and they may have the right to terminate the HanAll Agreement, which would result in us being unable to develop or manufacture our products.
+Biotechnology and pharmaceutical license agreements are complex and certain provisions in the HanAll Agreement may be susceptible to multiple interpretations. The resolution of any contract interpretation or disagreement that may arise could affect the scope of our rights to our product candidates or affect financial or other obligations under the HanAll Agreement, either of which could harm our business, financial condition, results of operations and prospects.
+We continue to expect the first of the two batoclimab Phase 3 TED studies to read out before the end of calendar year 2025. However, due to evolving competitive dynamics, we anticipate sharing top-line results from both TED studies concurrently in the first half of calendar year 2026. As previously disclosed, we will make a final decision about the future development and regulatory submissions for batoclimab in the future based on the aggregate information available at the time in consultation with our partner HanAll. HanAll has a variety of interests in the licensed products including under the HanAll Agreement and outside of our licensed territories, and may as a result of those interests disagree with, or initiate a dispute with respect to, our development or commercialization plans for batoclimab. While the HanAll Agreement gives us final control over development and regulatory decisions relating to batoclimab in our licensed territories, to the extent HanAll disagrees with our future plans for batoclimab, they could initiate a dispute for alleged breach of the HanAll Agreement and the dispute may result in arbitration or litigation. While HanAll can assert breach at any time, we do not believe there is any basis for such a claim, and we would vigorously contest such a claim if made. Any potential dispute with HanAll could be very expensive and time-consuming, may divert our management’s attention from our core business, and may result in unfavorable results that materially impact our business. Further, our decision with respect to the future development and regulatory submissions for batoclimab could impact and result in disputes with third parties such as with respect to the contract manufacturing of batoclimab which similarly may be time consuming and expensive to resolve.
+29
+Table of Contents
+Risks Related to Our Intellectual Property
+If we fail to comply with our obligations under any license, collaboration or other agreements, including the HanAll Agreement, we may be required to pay damages and could lose intellectual property rights that are necessary for developing and protecting our product candidates. 
+We have licensed certain intellectual property rights, including certain intellectual property rights covering IMVT-1402 and batoclimab from HanAll. We depend, and will continue to depend, on the HanAll Agreement for the rights to develop, manufacture and commercialize our product candidates. If, for any reason, the rights granted to us under the HanAll Agreement are terminated or we otherwise lose those rights, it would adversely affect our business. The HanAll Agreement also imposes, and any future collaboration agreements or license agreements we enter into are likely to impose, various development, commercialization, funding, milestone payment, royalty, diligence, sublicensing, insurance, patent prosecution and enforcement or other obligations on us. 
+If we materially breach any of those obligations, or use the intellectual property licensed to us in an unauthorized manner, we may be required to pay damages and HanAll, as the licensor, may have the right to terminate the HanAll Agreement, which could result in us being unable to develop, manufacture and sell products that are covered by the HanAll Agreement or having to negotiate new or reinstated licenses on less favorable terms or enable a competitor to gain access to the licensed technology. 
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+None.
+Item 3. Defaults Upon Senior Securities.
+None.
+Item 4. Mine Safety Disclosures.
+Not applicable.
+Item 5. Other Information.
+Insider Trading Arrangements
+During the three months ended September 30, 2025, none of our directors or Section 16 reporting officers 
+adopted
+, modified or 
+terminated
+ any Rule 10b5-1 trading arrangement or non-Rule 10b5-1 trading arrangement (as such terms are defined in Item 408 of the SEC's Regulation S-K).
+30
+Table of Contents
+Item 6. Exhibits
+
+Incorporated by Reference
+
+Exhibit
+Number
+Description
+Form
+File No.
+Exhibit
+Filing Date
+2.1+
+Share Exchange Agreement, dated September 29, 2019, by and among Immunovant Sciences Ltd., the stockholders of Immunovant Sciences Ltd., Roivant Sciences Ltd., and Health Sciences Acquisitions Corporation.
+8-K
+001-38906
+2.1
+October 2, 2019
+3.1
+Amended and Restated Certificate of Incorporation of Immunovant, Inc.
+8-K
+001-38906
+3.1
+December 20, 2019
+3.2
+Amended and Restated Bylaws of Immunovant, Inc.
+8-K
+001-38906
+3.2
+December 20, 2019
+10.1†
+Employment Agreement with Eric Venker, dated as of July 28, 2025.
+10-Q
+001-38906
+10.4
+August 11, 2025
+31.1*
+Certification of Chief Executive Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+31.2*
+Certification of Chief Financial Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+32.1#
+Certification of Chief Executive Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+32.2#
+Certification of Chief Financial Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+101.INS*
+Inline XBRL Instance Document
+101.SCH*
+Inline XBRL Taxonomy Extension Schema with Embedded Linkbase Documents
+104*
+Cover Page Interactive Data (embedded within the Inline XBRL document)
+*   Filed herewith.
++   The annexes, schedules, and certain exhibits to the Share Exchange Agreement have been omitted pursuant to 
+Item 601 of Regulation S-K.
+†
+
+Indicates a management contract or compensatory plan, contract or arrangement.
+#   In accordance with Item 601(b)(32)(ii) of Regulation S-K and SEC Release Nos. 33-8238 and 34-47986, Final Rule:
+Management’s Reports on Internal Control Over Financial Reporting and Certification of Disclosure in Exchange Act Periodic Reports, the certifications furnished in Exhibits 32.1 and 32.2 hereto are deemed to accompany this Quarterly Report on Form 10-Q and will not be deemed “filed” for purpose of Section 18 of the Exchange Act. Such certifications will not be deemed to be incorporated by reference into any filing under the Securities Act or the Exchange Act, except to the extent that the registrant specifically incorporates it by reference.
+31
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+Immunovant, Inc.
+Date: November 10, 2025
+By:
+
+/s/ Eric Venker, M.D., Pharm.D.
+
+Eric Venker, M.D., Pharm.D.
+
+Chief Executive Officer
+By:
+
+/s/ Tiago Girao
+
+Tiago Girao
+
+Chief Financial Officer
+32
