@@ -5,14 +5,13 @@ import time
 import os
 import logging
 from tqdm import tqdm
+from datetime import datetime, timedelta
 
+# =====================
+# CONFIGURATION
+# =====================
 MIN_MARKET_CAP = 2e9
 MAX_MARKET_CAP = 1e10
-
-MIDCAP_FILE = "midcaps.csv"
-FINANCIALS_FILE = "financials.csv"
-FILINGS_FILE = "10k_filings.csv"
-MERGED_FILE = "merged_dataset.csv"
 
 SEC_API_KEY = "0311835e514a4e40f0dbcea8f2007b53e2e05ad23e34947e453e22181870f75d"
 SEC_BASE_URL = "https://api.sec-api.io"
@@ -21,9 +20,15 @@ YF_SLEEP = 0.22
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s: %(message)s")
 
+
+# =====================
+# CORE FUNCTIONS
+# =====================
+
 def fetch_nasdaq_list():
+    """Retrieve NASDAQ tickers list."""
     try:
-        url="https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt"
+        url = "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt"
         r = requests.get(url, timeout=20)
         r.raise_for_status()
         text = r.text
@@ -33,64 +38,77 @@ def fetch_nasdaq_list():
         return tickers
     except Exception as e:
         logging.warning("NASDAQ HTTPS fetch failed (%s). Falling back to Wikipedia list.", e)
-
         headers = {"User-Agent": "Mozilla/5.0"}
         html = requests.get("https://en.wikipedia.org/wiki/NASDAQ-100", headers=headers).text
         nasdaq = pd.read_html(html)[4]
         tickers = nasdaq["Ticker"].dropna().unique().tolist()
         logging.info("Using %d NASDAQ-100 tickers from Wikipedia fallback", len(tickers))
         return tickers
-    
-def find_midcap_tickers(tickers, min_cap=MIN_MARKET_CAP, max_cap=MAX_MARKET_CAP, limit=None):
+
+
+def get_historical_market_cap(ticker, target_date):
+    """Compute historical market cap as of target_date using price × sharesOutstanding."""
+    try:
+        tk = yf.Ticker(ticker)
+        info = tk.info
+        shares = info.get("sharesOutstanding")
+        hist = tk.history(start=target_date, end=pd.to_datetime(target_date) + pd.Timedelta(days=1))
+        if hist.empty or shares is None:
+            return None
+        price = hist["Close"].iloc[0]
+        return price * shares
+    except Exception as e:
+        logging.debug("Historical market cap fetch failed for %s: %s", ticker, e)
+        return None
+
+
+def find_midcap_tickers(tickers, as_of_date, min_cap=MIN_MARKET_CAP, max_cap=MAX_MARKET_CAP, limit=None):
+    """Find tickers whose market cap was midcap on a specific historical date."""
     results = []
-    count = 0
-    logging.info("Scanning tickers for marketCap between %s and %s", min_cap, max_cap)
-    for t in tqdm(tickers[:limit] if limit else tickers, desc="Scanning tickers"):
-        try:
-            tk = yf.Ticker(t)
-            info = tk.info
-            cap = info.get("marketCap")
-            if cap and (min_cap <= cap <= max_cap):
+    logging.info("Scanning tickers for marketCap between %s and %s as of %s", min_cap, max_cap, as_of_date)
+    for t in tqdm(tickers[:limit] if limit else tickers, desc=f"Scanning tickers {as_of_date}"):
+        cap = get_historical_market_cap(t, as_of_date)
+        if cap and (min_cap <= cap <= max_cap):
+            try:
+                tk = yf.Ticker(t)
+                info = tk.info
                 results.append({
                     "Ticker": t,
                     "Name": info.get("shortName") or info.get("longName") or "",
                     "MarketCap": cap,
                     "Sector": info.get("sector", ""),
-                    "Industry": info.get("industry", "")
+                    "Industry": info.get("industry", ""),
+                    "AsOfDate": as_of_date,
+                    "DataCollectedAt": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
                 })
-
-            time.sleep(YF_SLEEP)
-        except Exception as e:
-            logging.debug("yfinance error for %s: %s", t, str(e))
-            time.sleep(YF_SLEEP)
-        count += 1
-
+            except Exception as e:
+                logging.debug("yfinance info error for %s: %s", t, str(e))
+        time.sleep(YF_SLEEP)
     df = pd.DataFrame(results).sort_values("MarketCap", ascending=False).reset_index(drop=True)
-    logging.info("Found %d mid-cap tickers", len(df))
-    df.to_csv(MIDCAP_FILE, index=False)
+    logging.info("Found %d midcap tickers for %s", len(df), as_of_date)
+    df.to_csv(f"midcaps_{as_of_date}.csv", index=False)
     return df
 
-def fetch_financials_for_ticker(ticker):
+
+def fetch_financials_for_ticker(ticker, as_of_date):
+    """Retrieve basic financial ratios (current snapshot — yfinance doesn’t provide historical fundamentals)."""
     try:
         tk = yf.Ticker(ticker)
         info = tk.info
     except Exception as e:
         logging.debug("yfinance.info failed for %s: %s", ticker, str(e))
         return None
-    
-    pe = info.get("trailingPE") or info.get("forwardPE") or None
-    pb = info.get("priceToBook") or None
+
+    pe = info.get("trailingPE") or info.get("forwardPE")
+    pb = info.get("priceToBook")
     de = info.get("debtToEquity") or info.get("debtEquity")
-    peg = info.get("pegRatio") or None
-    fcf = info.get("freeCashflow") or info.get("freeCashFlow") or None
+    peg = info.get("pegRatio")
+    fcf = info.get("freeCashflow") or info.get("freeCashFlow")
 
     if de is None:
         try:
             bs = tk.balance_sheet
-
             if not bs.empty:
-                labels = bs.index.str.lower()
-
                 total_liab = None
                 total_equity = None
                 for cand in ["totalStockholderEquity", "Total Stockholder Equity"]:
@@ -99,48 +117,40 @@ def fetch_financials_for_ticker(ticker):
                 for cand in ["Total Liab", "TotalLiab", "totalLiab", "totalLiabilities", "Total liabilities"]:
                     if cand in bs.index:
                         total_liab = bs.loc[cand].iat[0]
-                if total_equity and total_equity != 0:
-                    if total_liab is None:
-                        try:
-                            td = 0
-                            for cand in ["Long Term Debt", "longTermDebt"]:
-                                if cand in bs.index:
-                                    td += bs.loc[cand].iat[0] or 0
-                            if td and total_equity:
-                                de = float(td) / float(total_equity)
-                        except Exception:
-                            pass
-                    else:
-                        de = float(total_liab) / float(total_equity)
+                if total_equity and total_equity != 0 and total_liab:
+                    de = float(total_liab) / float(total_equity)
         except Exception:
             pass
 
-    out = {
+    return {
         "Ticker": ticker,
         "PE_Ratio": float(pe) if pe not in (None, "None") else None,
         "PB_Ratio": float(pb) if pb not in (None, "None") else None,
         "DE_Ratio": float(de) if de not in (None, "None") else None,
         "PEG_Ratio": float(peg) if peg not in (None, "None") else None,
-        "FreeCashFlow": float(fcf) if fcf not in (None, "None") else None
+        "FreeCashFlow": float(fcf) if fcf not in (None, "None") else None,
+        "AsOfDate": as_of_date,
+        "DataCollectedAt": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
     }
 
-    return out
 
-def collect_financials(midcap_df):
+def collect_financials(midcap_df, as_of_date):
+    """Collect financial metrics for all midcaps."""
     records = []
-    logging.info("Collecting financial metrics for %d tickers", len(midcap_df))
-    for t in tqdm(midcap_df["Ticker"], desc="Collect financials"):
-        entry = fetch_financials_for_ticker(t)
+    logging.info("Collecting financial metrics for %d tickers (%s)", len(midcap_df), as_of_date)
+    for t in tqdm(midcap_df["Ticker"], desc=f"Collect financials {as_of_date}"):
+        entry = fetch_financials_for_ticker(t, as_of_date)
         if entry:
             records.append(entry)
         time.sleep(YF_SLEEP)
     df = pd.DataFrame(records)
-    df.to_csv(FINANCIALS_FILE, index=False)
-    logging.info("Saved financials to %s", FINANCIALS_FILE)
-    
+    df.to_csv(f"financials_{as_of_date}.csv", index=False)
+    logging.info("Saved financials to financials_%s.csv", as_of_date)
     return df
 
-def fetch_10k_filings_secapi(ticker, limit=3):
+
+def fetch_10k_filings_secapi(ticker, as_of_date, limit=3):
+    """Retrieve 10-K filings before as_of_date."""
     if not SEC_API_KEY:
         return []
     query = {
@@ -150,7 +160,7 @@ def fetch_10k_filings_secapi(ticker, limit=3):
         "sort": [{"filedAt": {"order": "desc"}}]
     }
     try:
-        r = requests.post(f"{SEC_BASE_URL}/query", headers={"Authorization": f"Bearer {SEC_API_KEY}"}, json=query, timeout=30) 
+        r = requests.post(f"{SEC_BASE_URL}/query", headers={"Authorization": f"Bearer {SEC_API_KEY}"}, json=query, timeout=30)
     except Exception as e:
         logging.warning("SEC API request failed for %s: %s", ticker, e)
         return []
@@ -160,58 +170,88 @@ def fetch_10k_filings_secapi(ticker, limit=3):
     filings = r.json().get("filings", [])
     rows = []
     for f in filings:
+        filed_at = f.get("filedAt")
+        if filed_at and filed_at > f"{as_of_date}T23:59:59Z":
+            continue  # skip future filings
         rows.append({
             "Ticker": ticker,
-            "FiledAt": f.get("filedAt"),
-            "FilingURL": f.get("linkToFiling")
+            "FiledAt": filed_at,
+            "FilingURL": f.get("linkToFiling"),
+            "AsOfDate": as_of_date,
+            "DataCollectedAt": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
         })
     return rows
 
-def collect_filings(midcap_df):
+
+def collect_filings(midcap_df, as_of_date):
+    """Collect SEC 10-K filings with timestamps."""
     if not SEC_API_KEY:
         logging.info("No SEC_API_KEY set. Skipping filings collection.")
-        return pd.DataFrame(columns=["Ticker", "FiledAt", "FilingURL"])
+        return pd.DataFrame(columns=["Ticker", "FiledAt", "FilingURL", "AsOfDate", "DataCollectedAt"])
     all_filings = []
-    logging.info("Collecting 10-K filings via sec-api for %d tickers", len(midcap_df))
-    for t in tqdm(midcap_df["Ticker"], desc="SEC filings"):
+    logging.info("Collecting 10-K filings via sec-api for %d tickers (%s)", len(midcap_df), as_of_date)
+    for t in tqdm(midcap_df["Ticker"], desc=f"SEC filings {as_of_date}"):
         try:
-            rows = fetch_10k_filings_secapi(t)
+            rows = fetch_10k_filings_secapi(t, as_of_date)
             all_filings.extend(rows)
         except Exception as e:
             logging.warning("Error fetching filings for %s: %s", t, e)
         time.sleep(0.2)
     df = pd.DataFrame(all_filings)
-    df.to_csv(FILINGS_FILE, index=False)
-    logging.info("Saved filings to %s", FILINGS_FILE)
-
+    df.to_csv(f"filings_{as_of_date}.csv", index=False)
+    logging.info("Saved filings to filings_%s.csv", as_of_date)
     return df
 
-def merge_and_save(midcap_df, financials_df, filings_df):
-    merged = pd.merge(midcap_df, financials_df, on="Ticker", how="left")
+
+def merge_and_save(midcap_df, financials_df, filings_df, as_of_date):
+    """Merge datasets and save merged CSV."""
+    merged = pd.merge(midcap_df, financials_df, on=["Ticker", "AsOfDate", "DataCollectedAt"], how="left")
     if not filings_df.empty:
-        filing_links = filings_df.groupby("Ticker")["FilingURL"].first().reset_index()
+        filing_links = filings_df.groupby("Ticker")[["FilingURL", "FiledAt"]].first().reset_index()
         merged = pd.merge(merged, filing_links, on="Ticker", how="left")
-    merged.to_csv(MERGED_FILE, index=False)
-    logging.info("Saved merged dataset to %s", MERGED_FILE)
-    
+    out_file = f"merged_dataset_{as_of_date}.csv"
+    merged.to_csv(out_file, index=False)
+    logging.info("Saved merged dataset to %s", out_file)
     return merged
 
-def main(limit_tickers=None):
+
+# =====================
+# MAIN PIPELINE
+# =====================
+
+def run_pipeline(as_of_date, limit_tickers=None):
     tickers = fetch_nasdaq_list()
+    midcaps = find_midcap_tickers(tickers, as_of_date, limit=limit_tickers)
+    financials = collect_financials(midcaps, as_of_date)
+    filings = collect_filings(midcaps, as_of_date)
+    merged = merge_and_save(midcaps, financials, filings, as_of_date)
+    return merged
 
-    midcaps = find_midcap_tickers(tickers, limit=limit_tickers)
 
-    financials = collect_financials(midcaps)
+def main():
+    logging.info("Starting scrape pipeline for current and last year snapshots.")
+    snapshots = [
+        "2024-10-17",  # last year snapshot
+        datetime.today().strftime("%Y-%m-%d")  # current snapshot
+    ]
 
-    filings = collect_filings(midcaps)
+    merged_files = []
+    for date in snapshots:
+        merged = run_pipeline(date, limit_tickers=100)  # you can adjust limit
+        merged_files.append(f"merged_dataset_{date}.csv")
 
-    merged = merge_and_save(midcaps, financials, filings)
+    # Combine both years into one dataset
+    dfs = [pd.read_csv(f) for f in merged_files if os.path.exists(f)]
+    if dfs:
+        combined = pd.concat(dfs, ignore_index=True)
+        combined.to_csv("merged_combined.csv", index=False)
+        logging.info("Saved combined dataset (both years) to merged_combined.csv")
+
     print("\nDone. Files written:")
-    for f in [MIDCAP_FILE, FINANCIALS_FILE, FILINGS_FILE, MERGED_FILE]:
+    for f in merged_files + ["merged_combined.csv"]:
         if os.path.exists(f):
             print(" -", f)
-    print("\nSample (first 10 rows):\n")
-    print(merged.head(10).to_string(index=False))
+
 
 if __name__ == "__main__":
     main()
