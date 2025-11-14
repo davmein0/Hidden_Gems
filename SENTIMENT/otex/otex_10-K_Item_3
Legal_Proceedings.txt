@@ -1,0 +1,197 @@
+Item 3.
+Legal Proceedings
+41
+Item 4.
+Mine Safety Disclosures
+41
+Part II
+Item 5.
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+42
+Item 6.
+Reserved
+47
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+48
+Item 7A.
+Quantitative and Qualitative Disclosures about Market Risk
+85
+Item 8.
+Financial Statements and Supplementary Data
+87
+Item 9.
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+87
+Item 9A.
+Controls and Procedures
+87
+Item 9B.
+Other Information
+88
+Item 9C.
+Disclosure
+
+Regarding Foreign Jurisdictions that Prevent Inspections
+88
+Part III
+Item 10.
+Directors, Executive Officers and Corporate Governance
+89
+Item 11.
+Executive Compensation
+97
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+130
+Item 13.
+Certain Relationships and Related Transactions, and Director Independence
+132
+Item 14.
+Principal Accounting Fees and Services
+133
+Part IV
+Item 15.
+Exhibits and Financial Statement Schedules
+134
+Item 16.
+Form 10-K Summary
+197
+Signatures
+198
+2
+Tab
+le 
+of
+ C
+ontents
+Part I
+Forward-Looking Statements
+This Annual Report on Form 10-K contains forward-looking statements or information (forward-looking statements) within the meaning of the Private Securities Litigation Reform Act of 1995, Section 21E of the U.S. Securities Exchange Act of 1934, as amended (the Exchange Act), Section 27A of the U.S. Securities Act of 1933, as amended (the Securities Act), and other applicable securities laws of the United States and Canada, and is subject to the safe harbors created by those provisions. Words such as “anticipates”, “expects”, “intends”, “plans”, “believes”, “seeks”, “estimates”, “may”, “could”, “would”, “might”, “will” and variations of these words or similar expressions are intended to identify forward-looking statements. In addition, any statements or information that refer to expectations, beliefs, plans, projections, objectives, performance or other characterizations of future events or circumstances, including any underlying assumptions, are forward-looking statements, and based on our current expectations, forecasts and projections about the operating environment, economies and markets in which we operate. Forward-looking statements reflect our current estimates, beliefs and assumptions, which are based on management’s perception of historic trends, current conditions and expected future developments, as well as other factors it believes are appropriate in the circumstances. The forward-looking statements contained in this report are based on certain assumptions including the following: (i) countries continuing to implement and enforce existing and additional customs and security regulations relating to the provision of electronic information for imports and exports; (ii) our continued operation of a secure and reliable business network; (iii) the stability of general political, economic and market conditions, including any potential recession and current or threatened tariffs or trade restrictions; (iv) our ability to manage inflation, including increased labour costs associated with attracting and retaining employees and higher interest rates; (v) our continued ability to manage certain foreign currency risk through hedging; (vi) equity and debt markets continuing to provide us with access to capital; (vii) our continued ability to identify, source and finance attractive and executable business combination opportunities, as well as our ability to continue to successfully integrate any such opportunities, including in accordance with the expected timeframe and/or cost budget for such integration; (viii) our continued ability to avoid infringing third-party intellectual property rights; and (ix) our ability to successfully implement our restructuring plans. Management’s estimates, beliefs and assumptions are inherently subject to significant business, economic, competitive and other uncertainties and contingencies regarding future events and, as such, are subject to change. We can give no assurance that such estimates, beliefs and assumptions will prove to be correct. 
+These forward-looking statements involve known and unknown risks as well as uncertainties, which include (i) the impact of the Russia-Ukraine and Middle East conflicts and other geopolitical disputes on our business; and (ii) those discussed herein and in the Notes to Consolidated Financial Statements for the year ended June 30, 2025, which are set forth in Part II, Item 8 of this Annual Report on Form 10-K. The actual results that we achieve may differ materially from any forward-looking statements, which reflect management's current expectations and projections about future results only as of the date hereof. We undertake no obligation to revise or publicly release the results of any revisions to these forward-looking statements. A number of factors may materially affect our business, financial condition, operating results and prospects. These factors include, but are not limited to, those set forth in Part I, Item 1A “Risk Factors”, and forward-looking statements set forth in Part II, Item 7 “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and elsewhere in this Annual Report on Form 10-K as well as other documents we file from time to time with the United States Securities and Exchange Commission (the SEC) and Canadian securities regulators. Any one of these factors may cause our actual results to differ materially from recent results or from our anticipated future results. You should not rely too heavily on the forward-looking statements contained in this Annual Report on Form 10-K because these forward-looking statements are relevant only as of the date they were made. 
+The Company's fiscal year begins on July 1 and ends on June 30. Unless otherwise noted, any reference to a year preceded by the word “Fiscal” refers to the fiscal year ended June 30 of that year. For example, references to “Fiscal 2025” refer to the fiscal year ended June 30, 2025.
+Our Consolidated Financial Statements are presented in U.S. dollars and, unless otherwise indicated, all amounts included in this Annual Report on Form 10-K are expressed in thousands of U.S. dollars. Due to rounding, certain totals and subtotals may not foot and certain percentages may not reconcile. References herein to the “Company”, “OpenText”, “we” or “us” refer to Open Text Corporation and, unless context requires otherwise, its subsidiaries.
+3
+Tab
+le 
+of
+ C
+ontents
+Summary of Risk Factors
+The following is a summary of material risks described below in Part I, Item 1A “Risk Factors” in this Annual Report on Form 10-K. The following summary should not be considered an exhaustive summary of the material risks facing us, is not necessarily presented in order of importance, and it should be read in conjunction with the “Risk Factors” section and other information contained in this Annual Report on Form 10-K.
+Risks Related to our Business and Industry
+•
+If we do not continue to develop technologically advanced products that successfully integrate with the software products and enhancements used by our customers, future revenues and our operating results may be negatively affected.
+•
+Product development is a long, expensive and uncertain process, and we may terminate one or more of our development programs.
+•
+Our investment in our current research and development efforts may not provide a sufficient or timely return.
+•
+If our software products and services do not gain market acceptance, our operating results may be negatively affected.
+•
+Failure to protect our intellectual property could harm our ability to compete effectively.
+•
+Other companies may claim that we infringe their intellectual property, which could materially increase costs and materially harm our ability to generate future revenues and profits.
+•
+Our software products and services may contain defects that could harm our reputation, be costly to correct, delay revenues and expose us to litigation.
+•
+Our software products rely on the stability of infrastructure software that, if not stable, could negatively impact the effectiveness of our products, resulting in harm to our reputation and business.
+•
+Risks associated with the evolving use of the Internet, including changing standards, competition and regulation and associated compliance efforts, may adversely impact our business.
+•
+Unauthorized disclosures, cyber-attacks, breaches of data security and other information technology risks may adversely affect our operations.
+•
+Our success depends on our relationships with strategic partners, distributors and third-party service providers and any reduction in the sales efforts by distributors, cooperative efforts from our partners or service from third-party providers could materially impact our revenues.
+•
+Business disruptions, including those arising from disasters, pandemics or catastrophic events, may adversely affect our operations.
+•
+The loss of licenses to resell or use third-party software or the lack of support or enhancement of such software could adversely affect our business.
+•
+Current and future competitors could have a significant impact on our ability to generate future revenues and profits.
+•
+The length of our sales cycle can fluctuate significantly which could result in significant fluctuations in revenues being recognized from quarter to quarter.
+•
+Our existing customers might cancel contracts with us, fail to renew contracts on their renewal dates and/or fail to purchase additional services and products, and we may be unable to attract new customers, which could adversely affect our operating results.
+•
+Consolidation in the industry, particularly by large, well-capitalized companies, could place pressure on our operating margins which could, in turn, have a material adverse effect on our business.
+•
+We may be unable to maintain or expand our base of small and medium-sized businesses (SMBs) and consumer customers, which could adversely affect our anticipated future growth and operating results.
+•
+Our sales to government clients expose us to business volatility and risks, including government budgeting cycles and appropriations, early termination, audits, investigations, sanctions, penalties and changes in government spending and policies.
+•
+Geopolitical instability, political unrest, war and other global conflicts, including the Russia-Ukraine and Middle East conflicts, have affected and may continue to affect our business.
+•
+Our global operations expose us to risks associated with an evolving international trade and tariff environment, which may adversely affect our business, financial condition, and results of operations.
+•
+The restructuring of certain of our operations may be ineffective, may adversely affect our business and our finances, and we may incur additional restructuring charges in connection with such actions.
+•
+We must continue to manage our internal resources during periods of company growth, or our operating results could be adversely affected.
+•
+If we lose the services of our executive officers or other key employees or if we are not able to attract or retain top employees, our business could be significantly harmed.
+•
+Our compensation structure may hinder our efforts to attract and retain vital employees.
+4
+Tab
+le 
+of
+ C
+ontents
+•
+Increasing corporate citizenship expectations, regulatory complexity, and disclosure obligations may negatively impact our business, financial performance, and reputation. 
+•
+Our workforce includes both remote and hybrid employees, which subjects us to certain operational challenges and risks.
+Risks Related to Acquisitions and Divestitures
+•
+Acquisitions, investments, joint ventures and other business initiatives may negatively affect our operating results.
+•
+We may fail to realize all of the anticipated benefits of our acquisitions and divestitures, or those benefits may take longer to realize than expected.
+•
+We may be unable to successfully integrate acquired businesses or do so within the intended timeframes, which could have an adverse effect on our financial condition, results of operations and business prospects.
+•
+Loss of key personnel could impair the integration of acquired businesses, lead to loss of customers and a decline in revenues, or otherwise could have an adverse effect on our operations.
+•
+Businesses we acquire may have disclosure controls and procedures and internal controls over financial reporting, cybersecurity and compliance with data privacy laws that are weaker than or otherwise not in conformity with ours.
+Risks Related to Laws and Regulatory Compliance
+•
+Our provision for income taxes and effective income tax rate may vary significantly and may adversely affect our results of operations and cash resources. 
+•
+As part of the ongoing audit of our Canadian tax returns by the Canada Revenue Agency (CRA), we have received notices of, and are appealing, reassessments for Fiscal 2012 through Fiscal 2020. An adverse outcome of these ongoing audits could have a material adverse effect on our financial position and results of operations.
+•
+Risks associated with data privacy issues, including evolving laws and regulations and associated compliance efforts, may adversely impact our business.
+•
+Certain of our products may be perceived as, or determined by the courts to be, a violation of privacy rights and related laws. Any such perception or determination could adversely affect our revenues and results of operations.
+•
+Artificial Intelligence (AI) and other machine learning technology is being integrated into some of our products, systems or solutions, which could present risks and challenges to our business.
+Risks Related to our Financial Condition
+•
+We may not generate sufficient cash flow to satisfy our unfunded pension obligations.
+•
+Fluctuations in foreign currency exchange rates could materially affect our financial results.
+•
+Our indebtedness could limit our operations and opportunities.
+Risks Related to Ownership of our Common Stock
+•
+Our revenues and operating results are likely to fluctuate, which could materially impact the market price of our Common Shares.
+•
+Changes in the market price of our Common Shares and credit ratings of our outstanding debt securities could lead to losses for shareholders and debt holders.
+General Risks
+•
+Unexpected events may materially harm our ability to align when we incur expenses with when we recognize revenues.
+•
+We may fail to achieve our financial forecasts due to inaccurate sales forecasts or other factors.
+•
+Our international operations expose us to business, political and economic risks.
+•
+We may become involved in litigation that may materially adversely affect us.
+•
+The declaration, payment and amount of dividends will be made at the discretion of our Board of Directors and will depend on a number of factors.
+•
+Our operating results could be adversely affected by any weakening of economic conditions.
+•
+Stress in the global financial system may adversely affect our finances and operations.
+5
+Tab
+le 
+of
+ C
+ontents

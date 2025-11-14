@@ -1,0 +1,2134 @@
+Item 1A. Risk Factors.
+
+Risks Related to Nukkleus’s Business
+
+Failure to complete the acquisition of Star may result in paying
+a termination fee to Star and could harm our common stock price and future business and operations.
+
+If the acquisition of Star is not completed, we are subject to the
+following risks:
+
+●
+if the Star Agreement is terminated under specified circumstances,
+we could be required to pay Star a termination fee of $1.0 million;
+
+●
+the price of our common stock may decline and could fluctuate
+significantly; and
+
+●
+costs related to the proposed acquisition, such as legal
+and accounting fees, a majority of which must be paid even if the agreement is not completed.
+
+If the Star Agreement is terminated and the board of directors of the
+Company determines to seek another business combination, there can be no assurance that we will be able to find another third party to
+transact a business combination with, yielding comparable or greater benefits.
+
+If the conditions to the Star Agreement are not satisfied or
+waived, the acquisition may not occur.
+
+Even if the Star acquisition is approved by the stockholders of the
+Company, specified conditions must be satisfied or, to the extent permitted by applicable law, waived to complete the acquisition. These
+conditions are set forth in the Star Agreement. We cannot assure you that all of the conditions to the consummation of the acquisition
+will be satisfied or waived. If the conditions are not satisfied or waived, the acquisition may not occur or the closing may be delayed.
+
+We have a limited operating history in an
+evolving and highly volatile industry, which makes it difficult to evaluate our future prospects and may increase the risk that we will
+not be successful.
+
+Nukkleus, the wholly owned
+operating subsidiary, was formed in 2013 and since then our business model has continued to evolve. In 2021, we acquired a controlling
+interest in Match. In 2019, our Digital RFQ indirect subsidiary, and wholly owned subsidiary of Match, began to operate a payment processing
+business partly using blockchain technology. The comparability of our results in prior quarterly or annual periods should not be viewed
+as an indication of future performance. The “blockchain technology” used by Digital RFQ in its payment processing business
+and referred to throughout this annual report is intended to refer to stablecoins operated on the Bitcoin, Ethereum and Tron networks,
+or such other blockchain networks as Digital RFQ may determine to be reliable and well established in the financial services industry,
+at an advanced stage and fully tested and collaterialized based on certain criteria summarized below. The blockchain networks used by
+Digital RFQ in its payment processing business are maintained and operated by third parties.
+
+Because Digital RFQ makes
+use of blockchain technology only to process payments and does not hold digital assets, the criteria for the adoption and use of any blockchain
+network may differ from those of investors in stablecoins. Digital RFQ evaluates each blockchain and/or stablecoin on a daily and transaction-by-transaction
+basis, to minimize any risk associated with the blockchain or stablecoin and to ensure that Digital RFQ can reliably complete the transaction
+in and out of the stablecoin quickly to minimize such risk. Digital RFQ determines that a blockchain or stablecoin is suitable for use
+in its payment processing services by assessing the following criteria:
+
+●
+First, how widely supported is the blockchain stablecoin combination by Digital RFQ’s trading partners,
+including the banks and financial institutions Digital RFQ uses to support its business. Having sufficient trading partners that support
+the blockchain or stablecoin means there may be multiple choices of blockchain to use for any given trade.
+
+●
+Second, whether there is sufficient liquidity in those partners’ holdings of the stablecoin to ensure Digital RFQ is able to
+trade in or out without exposure to volatility and price risk.
+
+To determine whether any blockchain technology
+meets Digital RFQ’s requirements and is a suitable candidate for use in Digital RFQ’s payment processing business, we assess
+the following criteria. We monitor these criteria for each blockchain or stablecoin we use regularly on an ongoing basis:
+
+●
+Market share
+. Digital RFQ assesses a blockchain or stablecoin’s share of the stablecoin market
+as a whole and market capitalization from publicly available information. Some stablecoins have been in existence longer than others and
+may have a larger market share and market capitalization. These factors also have an influence on the market perception of such stablecoins.
+For example, USDT ‘Tether’ is the most prominent stablecoin measured by market capitalization but has faced auditing issues,
+while newer products such as GBPT have had professional Big Four auditors from inception but do not have material market share to date
+and thus would not be perceived or assessed as at an advanced stage or well established.
+
+11
+
+●
+Auditing and Collateralization
+. Auditing is paramount to the security and stability of stablecoins
+and for this reason Digital RFQ will only work with firms that adhere to full collateralization that is independently verified by an outside
+auditor. Digital RFQ believes that collateralization is key in maturing stablecoins. For example, the UST Terra Luna ‘collapse’
+showed that algorithmically-backed stability creates vulnerability to counterparty mismanagement and influence, driven by the difficulty
+and lack of auditing and intrinsic connection to the Terra network itself. In contrast, collateralized stablecoins such as USDT and USDC
+are fully backed by reserve fiat currency holdings and can be redeemed by holders for such fiat currency. Digital RFQ also views traditional
+markets, while much more established, as not completely free of risk since they rely substantially on fractional reserve banking to maintain
+the market.
+
+●
+Counterparty Risk
+. Digital RFQ assesses counterparty risk in its stablecoin and blockchain selection
+in the issuer of the stablecoin and its governance and in the banks and financial institutions it uses to source liquidity. Digital RFQ
+assesses the degree of governance decentralization that may give direct control over funds (as backing, for example) or attack vectors
+to the governance architecture that could expose control over funds, and determines the degree of counterparty risk from the level of
+centralization. To assess the degree of centralization, Digital RFQ examines the number of parties controlling the blockchain protocol,
+the number of holders and the level of founder backing (demonstrated by founders holding a significant amount of the stablecoin). Digital
+RFQ is able to remain operationally stable throughout any given payment processing transaction due primarily to a robust counterparty
+infrastructure and minimal exposure to these ‘transit’ legs of the transaction (for more information on the third parties
+involved in Digital RFQ’s payment processing business, please refer to the section titled “
+We rely on connectivity to blockchain
+networks for our Platforms
+”.
+
+●
+Smart Contract Risk
+. Smart contract risk relates to the technical security of a blockchain or stablecoin
+based on its underlying code. If one of the supported stablecoins or other digital currencies is compromised, collateral will be affected,
+thus threatening the solvency of the blockchain protocol. Projects must have undergone audits to be considered. We assess maturity based
+on the number of days and the number of transactions of the smart contract as a representation of use, community and development. These
+proxies show how strong the code is.
+
+However, because Digital
+RFQ makes use of blockchain technology only to process payments, and does not hold digital assets, we are able to constantly monitor the
+status of any blockchain network or stablecoin before, during and after a payment is processed, and determine which of the available blockchain
+networks is suitable for a particular transaction. We therefore do not believe we are exposed to material risks associated with holding
+stablecoins or other digital assets. Furthermore, we do not use stablecoins of an algorithmic nature, and in the event that we determine
+any particular stablecoin presents a threat or risk to the security of our business, customers or the transactions we process, we promptly
+move to another stablecoin network. We do not accept payment in digital assets and do not hold digital assets for investment or offer
+digital wallet services.
+
+Because we have a limited
+history operating our business at its current scale and scope, it is difficult to evaluate our current business and future prospects,
+including our ability to plan for and model future growth. For example, recently launched services require substantial resources and there
+is no guarantee that such expenditures will result in profit or growth of our business. The rapidly evolving nature of the market in which
+we operate, substantial uncertainty concerning how these markets may develop, and other economic factors beyond our control, reduces our
+ability to accurately forecast quarterly or annual revenue. Failure to manage our current and future growth effectively could have an
+adverse effect on our business, operating results, and financial condition.
+
+If we do not effectively manage our growth
+and the associated demands on our operational, risk management, sales and marketing, technology, compliance and finance and accounting
+resources, our business may be adversely impacted.
+
+In our recent acquisitions,
+including our acquisition of Match and our proposed acqisition of Star, our business has become increasingly complex by expanding the
+services we offer to include financial services and payment processing services. To effectively manage and capitalize on our growth, we
+must continue to expand our information technology and financial, operating, and administrative systems and controls, and continue to
+manage headcount, capital, and processes efficiently. Our continued growth could strain our existing resources, and we could experience
+ongoing operating difficulties in managing our business as it expands across numerous jurisdictions, including difficulties in hiring,
+training, and managing an employee base. Failure to scale and preserve our company culture with growth could harm our future success,
+including our ability to retain and recruit personnel and to effectively focus on and pursue our corporate objectives. If we do not adapt
+to meet these evolving challenges, or if our management team does not effectively scale with our growth, we may experience erosion to
+our brand, the quality of our products and services may suffer, and our company culture may be harmed. Moreover, the failure of our systems
+and processes could undermine our ability to provide accurate, timely, and reliable reports on our financial and operating results, including
+the financial statements provided herein, and could impact the effectiveness of our internal controls over financial reporting. In addition,
+our systems and processes may not prevent or detect all errors, omissions, or fraud, though we have experienced no such material errors,
+omissions or fraud in the past. For example, our employees may fail to identify transaction errors or fraudulent information provided
+by our customers. Any of the foregoing operational failures could lead to noncompliance with laws, loss of operating licenses or other
+authorizations, or loss of bank relationships that could substantially impair or even suspend company operations.
+
+We intend to continue to
+develop our technology, in particular our blockchain-enabled payment processing offering. Successful implementation of this strategy may
+require significant expenditures before any substantial associated revenue is generated and we cannot guarantee that these increased investments
+will result in corresponding and offsetting revenue growth. Our growth may not be sustainable and depends on our ability to retain existing
+customers, attract new customers, expand product offerings, and increase processed volumes and revenue from both new and existing customers.
+
+12
+
+The future growth of our
+business depends on its ability to retain existing customers, attract new customers as well as getting existing customers and new customers
+to increase the volumes processed through our payments platform and therefore grow revenue. Our customers are not subject to any minimum
+volume commitments and they have no obligation to continue to use our services, and we cannot be sure that customers will continue to
+use our services or that we will be able to continue to attract new volumes at the same rate as we have in the past.
+
+A customer’s use of
+our services may decrease for a variety of reasons, including the customer’s level of satisfaction with our products and services,
+the expansion of business to offer new products and services, the effectiveness of our support services, the pricing of our products and
+services, the pricing, range and quality of competing products or services, the effects of global economic conditions, regulatory or financial
+institution limitations, trust, perception and interest in foreign exchange and payment processing services and in our products and services,
+or reductions in the customer’s payment and transfer activity. Furthermore, the complexity and costs associated with switching to
+a competitor may not be significant enough to prevent a customer from switching service providers, especially for larger customers who
+commonly engage more than one payment service provider at any one time.
+
+Any failure by us to retain
+existing customers, attract new customers, and increase revenue from both new and existing customers could materially and adversely affect
+our business, financial condition, results of operations and prospects. These efforts may require substantial financial expenditures,
+commitments of resources, developments of our processes, and other investments and innovations.
+
+We face intense and increasing competition and, if we do not
+compete effectively, our competitive positioning and our operating results will be harmed.
+
+We operate in a rapidly changing
+and highly competitive industry, and our results of operations and future prospects depend on, among other things:
+
+●
+the growth of our customer base,
+
+●
+our ability to monetize our customer base,
+
+●
+our ability to acquire customers at a lower cost, and
+
+●
+our ability to increase the overall value to us of each of our customers while they use our products and services.
+
+Despite the regulatory barriers
+to enter the markets we serve, we expect our competition to continue to increase. In addition to established enterprises, we may also
+face competition from early-stage companies attempting to capitalize on the same, or similar, opportunities as we are. Some of our current
+and potential competitors have longer operating histories, particularly with respect to our digital financial services products, significantly
+greater financial, technical, marketing and other resources, and a larger customer base than we do. This allows them, among others, to
+potentially offer more competitive pricing or other terms or features, a broader range of digital financial products, or a more specialized
+set of specific products or services, as well as respond more quickly than we can to new or emerging technologies and changes in customer
+preferences.
+
+Our existing or future competitors
+may develop products or services that are similar to our products and services or that achieve greater market acceptance than our products
+and services. This could attract new customers away from our services and reduce our market share in the future. Additionally, when new
+competitors seek to enter our markets, or when existing market participants seek to increase their market share, these competitors sometimes
+undercut, or otherwise exert pressure on, the pricing terms prevalent in that market, which could adversely affect our market share and/or
+ability to capitalize on new market opportunities.
+
+13
+
+We currently compete at multiple levels with a variety of competitors,
+including:
+
+●
+payment platforms;
+
+●
+banks and non-bank financial institutions (including without limitation those using the Society for Worldwide Interbank Financial
+Telecommunication (SWIFT) payment system); and
+
+●
+foreign exchange and derivative, including contract for difference (“CFD”), transfer processors.
+
+Because we do not currently
+control a bank or a bank holding company, we may be subject to regulation by a variety of state, federal and international regulators
+across our products and services and we rely on third-party banks to provide payment-processing services to our customers. This regulation
+by federal, state and international authorities increases our compliance costs, as we navigate multiple regimes with different examination
+schedules and processes and varying disclosure requirements.
+
+We believe that our ability to compete depends upon many factors,
+both within and beyond our control, including the following:
+
+●
+the size, diversity and activity levels of our customer base;
+
+●
+the timing and market acceptance of products and services, including developments and enhancements to those products and services
+offered by us and our competitors;
+
+●
+customer service and support efforts;
+
+●
+selling and marketing efforts;
+
+●
+the ease of use, performance, price and reliability of solutions developed either by us or our competitors;
+
+●
+changes in economic conditions, regulatory and policy developments;
+
+●
+our ability to successfully execute on our business plans;
+
+●
+our ability to enter new markets;
+
+●
+general digital payments, capital markets, blockchain and stablecoin market conditions;
+
+●
+the ongoing impact of the COVID-19 pandemic; and
+
+●
+our brand strength relative to our competitors.
+
+Our current and future business
+prospects demand that we act to meet these competitive challenges but, in doing so, our revenue and results of operations could be adversely
+affected if we, for example, increase marketing expenditures or make other expenditures. All of the foregoing factors and events could
+adversely affect our business, financial condition, results of operations, cash flows and future prospects.
+
+14
+
+Cyberattacks and security breaches of our
+systems, or those impacting our customers or third parties, could adversely impact our brand and reputation and our business, operating
+results and financial condition.
+
+Our business involves the
+collection, storage, processing and transmission of confidential information, customer, employee, service provider and other personal
+data, as well as information required to access customer assets. We have built our reputation on the premise that our products and services
+offer customers a secure way to accept and make payments and store value. As a result, any actual or perceived security breach of us or
+our third-party partners may:
+
+●
+harm our reputation and brand;
+
+●
+result in our systems or services being unavailable and interrupt our operations;
+
+●
+result in improper disclosure of data and violations of applicable privacy and other laws;
+
+●
+result in significant regulatory scrutiny, investigations, fines, penalties, and other legal, regulatory and financial exposure;
+
+●
+cause us to incur significant remediation costs;
+
+●
+lead to theft or irretrievable loss of our or our customers’ assets;
+
+●
+reduce customer confidence in, or decreased use of, our products and services;
+
+●
+divert the attention of management from the operation of our business;
+
+●
+result in significant compensation or contractual penalties from us to our customers or third parties as a result of losses to them
+or claims by them; and
+
+●
+adversely affect our business and operating results.
+
+Further, any actual or perceived
+breach or cybersecurity attack directed at other financial institutions or blockchain companies, whether or not we are directly impacted,
+could lead to a general loss of customer confidence in the use of technology to conduct financial transactions, which could negatively
+impact us including the market perception of the effectiveness of our security measures and technology infrastructure.
+
+An increasing number of organizations,
+including large businesses, technology companies and financial institutions, as well as government institutions, have disclosed breaches
+of their information security systems, some of which have involved sophisticated and highly targeted attacks, including on their websites,
+mobile applications, and infrastructure. Attacks upon systems across a variety of industries, including the payment processing, forex
+and CFD industry, are increasing in their frequency, persistence, and sophistication, and, in many cases, are being conducted by sophisticated,
+well-funded, and organized groups and individuals, including state actors. The techniques used to obtain unauthorized, improper, or illegal
+access to systems and information (including customers’ personal data and digital assets), disable or degrade services, or sabotage
+systems are constantly evolving, may be difficult to detect quickly, and often are not recognized or detected until after they have been
+launched against a target. These attacks may occur on our systems or those of our third-party service providers or partners. Certain types
+of cyberattacks could harm us even if our systems are left undisturbed. For example, attacks may be designed to deceive employees and
+service providers into releasing control of our systems to a hacker, while others may aim to introduce computer viruses or malware into
+our systems with a view to stealing confidential or proprietary data. Additionally, certain threats are designed to remain dormant or
+undetectable until launched against a target and we may not be able to implement adequate preventative measures.
+
+Although we do not have a
+past history of material security breaches or cyberattacks, and do not believe we are a target of such breaches or attacks, we have developed
+systems and processes designed to protect the data we manage, prevent data loss and other security breaches, effectively respond to known
+and potential risks. We expect to continue to expend significant resources to bolster these protections, but there can be no assurance
+that these security measures will provide absolute security or prevent breaches or attacks. Threats can come from a variety of sources,
+including criminal hackers, hacktivists, state-sponsored intrusions, industrial espionage, and insiders. Certain threat actors may be
+supported by significant financial and technological resources, making them even more sophisticated and difficult to detect. As a result,
+our costs and the resources we devote to protecting against these advanced threats and their consequences may increase over time.
+
+15
+
+Although we maintain insurance
+coverage that we believe is adequate for our business, it may be insufficient to protect us against all losses and costs stemming from
+security breaches, cyberattacks, and other types of unlawful activity, or any resulting disruptions from such events. Outages and disruptions
+of our systems, including any caused by cyberattacks, may harm our reputation and our business, operating results, and financial condition.
+
+Any significant disruption in our technology
+could adversely impact our brand and reputation and our business, operating results, and financial condition.
+
+Our reputation and ability
+to grow our business depends on our ability to operate our service at high levels of reliability, scalability, and performance, including
+the ability to process and monitor, on a daily basis, a large number of transactions that occur at high volume and frequencies across
+multiple systems. The proper functioning of our products and services, the ability of our customers to make and receive payments, and
+our ability to operate at a high level, are dependent on our ability to access the blockchain networks underlying our Platforms and other
+supported blockchain-based products and technology, for which access is dependent on our systems’ ability to access the internet.
+Further, the successful and continued operations of such blockchain networks will depend on a network of computers, miners, or validators,
+and their continued operations, all of which may be impacted by service interruptions.
+
+Our systems, the systems
+of our third-party service providers and partners, and certain blockchain networks, have experienced from time to time and may experience
+in the future service interruptions or degradation because of hardware and software defects or malfunctions, distributed denial-of-service
+and other cyberattacks, insider threats, break-ins, sabotage, human error, vandalism, earthquakes, hurricanes, floods, fires, and other
+natural disasters, power losses, disruptions in telecommunications services, fraud, military or political conflicts, terrorist attacks,
+computer viruses or other malware, or other events. In addition, extraordinary site usage could cause our computer systems to operate
+at an unacceptably slow speed or even fail. Some of our systems, including systems of companies we have acquired, or the systems of our
+third-party service providers and partners are not fully redundant, and our or their disaster recovery planning may not be sufficient
+for all possible outcomes or events.
+
+If any of our systems, or
+those of our third-party service providers, are disrupted for any reason, our products and services may fail, resulting in unanticipated
+disruptions, slower response times and delays in our services, including our customers’ payments through our Platforms. This could
+lead to failed or unauthorized payments, incomplete or inaccurate accounting, loss of customer information, increased demand on limited
+customer support resources, customer claims, and complaints with regulatory organizations, lawsuits, or enforcement actions.
+
+A prolonged interruption
+in the availability or reduction in the availability, speed, or functionality of our products and services could harm our business. Frequent
+or persistent interruptions in our services could cause current or potential customers or partners to believe that our systems are unreliable,
+leading them to switch to our competitors or to avoid or reduce the use of our products and services, and could permanently harm our reputation
+and brands.
+
+Moreover, to the extent that
+any system failure or similar event results in damages to our customers or their business partners, these customers or partners could
+seek significant compensation or contractual penalties from us for their losses, and those claims, even if unsuccessful, are likely to
+be time-consuming and costly for us to address. Problems with the reliability or security of our systems would harm our reputation, and
+damage to our reputation and the cost of remedying these problems could negatively affect our business, operating results, and financial
+condition.
+
+16
+
+In addition, we are continually
+improving and upgrading our information systems and technologies. Implementation of new systems and technologies is complex, expensive,
+time-consuming, and may not be successful. If we fail to timely and successfully implement new information systems and technologies, or
+improvements or upgrades to existing information systems and technologies, or if such systems and technologies do not operate as intended,
+it could have an adverse impact on our business, internal controls (including internal controls over financial reporting), operating results,
+and financial condition.
+
+Because we are subject to
+regulation in certain jurisdictions, frequent or persistent interruptions could also lead to regulatory scrutiny, significant fines and
+penalties, and mandatory and costly changes to our business practices, and ultimately could cause us to lose existing licenses or banking
+relationships that we need to operate, or prevent or delay us from obtaining additional licenses that may be required for our business.
+
+We rely on third parties in critical aspects
+of our business, which creates additional risk. Our ability to offer our services depends on relationships with other financial services
+institutions and entities, and our inability to maintain existing relationships or to enter into new such relationships could impact our
+ability to offer services to customers.
+
+We depend on various third-party
+partners and payment systems. More specifically, our offering of payments and transfer services depends on our ability to offer blockchain
+transaction processing, Automated Clearing House network (“ACH”) transaction processing, wire transfer and other payment processing
+services to our customers.
+
+In order to provide such
+transaction processing services, we have established relationships with financial institutions whereby such financial institutions provide
+us with access into the relevant payment networks (e.g., the card networks and the ACH). Our ability to offer our core services depends
+on our ability to maintain existing relationships with financial institutions and to seek out and obtain new such relationships.
+
+Also, critical aspects of
+our technology rely on third-party technologies, including blockchain networks. Our regulatory status, the status of our Platforms and
+of blockchain technologies more generally, may be an impediment to our ability to receive or obtain services from financial institutions.
+Should our partners cease providing access to such technologies and networks, we would be at risk of being unable to provide the payment
+processing services that are core to our customer offering.
+
+Third parties upon which
+we rely to process transactions may refuse to process transactions adequately, may breach their agreements with us, refuse to renew agreements
+on commercially reasonable terms, take actions that degrade the functionality of our services, impose additional costs or requirements
+on us, or give preferential treatment to competitive services or suffer outages in their systems, any of which could disrupt our operations
+and materially and adversely affect our business, financial condition, results of operations and prospects.
+
+Some third parties that provide
+services to us may have or gain market power and be able to increase their prices to us without competitive constraint. In addition, there
+can be no assurance that third parties that provide services directly to us will continue to do so on acceptable terms, or at all, or
+will not suffer from outages to their systems. If any third parties were to stop providing services to us on acceptable terms, we may
+be unable to procure alternatives from other third parties in a timely and efficient manner and on acceptable terms, or at all, which
+may materially and adversely affect our business, financial condition, results of operations and prospects.
+
+We are subject to credit risks in respect of counterparties,
+including financial institutions.
+
+We are and will continue
+to be subject to the risk of actual or perceived deterioration of the commercial and financial soundness, or perceived soundness, of other
+financial institutions, in particular in relation to receivables from financial institutions regarding settled payment transactions, and
+cash and cash-equivalents held at financial institutions. One institution defaulting, failing a stress test or requiring mail-in by its
+shareholders and/or creditors and/or bail-out by a government could lead to significant liquidity problems and losses or defaults by other
+institutions. Even the perceived lack of creditworthiness of, or questions about, a counterparty or major financial institution may lead
+to market-wide liquidity problems and losses or defaults by financial institutions on which we have an exposure. This risk resulting from
+the interdependence on financial institutions is sometimes referred to as “systemic risk” and may adversely affect financial
+intermediaries, such as industry payment systems and banks, with whom we interact on a daily basis. Systemic risk, particularly within
+the United States, could have a material adverse effect on our ability to raise new funding and on our business, financial condition,
+results of operations and prospects.
+
+17
+
+Our banking relationships for transaction processing are concentrated
+in a small number of partners.
+
+We use a small number of
+banks and financial institutions as banking services providers. Should our relationships with such banks and financial institutions deteriorate,
+we may be limited in our ability to offer the payment processing services that are core to our offerings. While we have multiple such
+banking partners and are working to diversify these relationships further, we do not have written agreements with such banks and financial
+institutions and there remains some risk that, in the short term, our ability to provide payment processing services may be affected by
+any interruption in the banking services we receive. As such, should our relationships with our existing banking and financial institution
+partners deteriorate or if such banks and financial institutions make a decision to discontinue the services they provide us, we could
+lose our ability to process payments, financial transfers and other transactions. In such an event, the value of our services would be
+negatively impacted and our institutional investor clients could be forced to process smaller transaction volume with us or to cease transaction
+processing through us entirely.
+
+Certain large customers provide a significant
+share of our revenue and the termination of such agreements or reduction in business with such customers could harm our business. If we
+lose or are unable to renew these and other marketplace and enterprise client contracts at favorable terms, our results of operations
+and financial condition may be adversely affected.
+
+The largest customer of our
+FX operations which is no longer operating, TCM, provided significant contribution to our revenue. For the year ended September 30,
+2024, our largest customer, TCM, represented 81.1% of our revenue. The agreement with TCM has been terminated which could potentially
+have an adverse affect on our operations.
+
+Our products and services may be exploited
+to facilitate illegal activity such as fraud, money laundering, gambling, tax evasion, and scams. If any of our customers use our products
+or services to further such illegal activities, we could be subject to liability and our business could be adversely affected. Our efforts
+to detect and monitor such transactions for compliance with law may require significant costs, and our failure to effectively deal with
+bad, fraudulent or fictitious transactions and material internal or external fraud could negatively impact our business.
+
+We may in the future be subject
+to liability for illegal transactions, including fraudulent payments initiated by our customers, money laundering, gambling, tax evasion,
+and scams. Examples of fraud include when a party knowingly uses stolen or otherwise illicitly acquired access information to a transaction.
+In addition, we are subject to the risk that our employees, counterparties or third-party service providers commit fraudulent activity
+against us or our customers.
+
+Criminals are using increasingly
+sophisticated methods to engage in illegal activities such as counterfeiting, account takeover and fraud. It is possible that incidents
+of fraud could increase in the future. The use of our products or services for illegal or improper purposes could subject us to claims,
+individual and class action lawsuits, and government and regulatory investigations, prosecutions, enforcement actions, inquiries, or requests
+that could result in liability and reputational harm for us. In addition, our efforts to detect and monitor such transactions for compliance
+with law may require significant costs.
+
+18
+
+Moreover, certain activities
+that may be legal in one jurisdiction may be illegal in another jurisdiction, and certain activities that are at one time legal may in
+the future be deemed illegal in the same jurisdiction. As a result, there is significant uncertainty and cost associated with detecting
+and monitoring transactions for compliance with local laws. In the event that a customer is found responsible for intentionally or inadvertently
+violating the laws in any jurisdiction, we may be subject to governmental inquiries, enforcement actions, prosecuted, or otherwise held
+secondarily liable for aiding or facilitating such activities. Changes in law have also increased the penalties for money transmitters,
+e-money issuers, broker-dealers and alternative trading systems for certain illegal activities, and government authorities may consider
+increased or additional penalties from time to time. Owners of intellectual property rights or government authorities may seek to bring
+legal action against us for involvement in the sale of infringing or allegedly infringing items. Any threatened or resulting claims could
+result in reputational harm, and any resulting liabilities, loss of transaction volume, or increased costs could harm our business.
+
+Moreover, while fiat currencies
+can be used to facilitate illegal activities, blockchain technologies, such those used in our Platforms are relatively new and, in many
+jurisdictions, may be lightly regulated or largely unregulated. Many blockchains have characteristics such as the speed with which digital
+asset transactions can be conducted, the ability to conduct transactions without the involvement of regulated intermediaries, the ability
+to engage in transactions across multiple jurisdictions, the irreversible nature of certain blockchain transactions, and encryption technology
+that anonymizes these transactions, which may make blockchain technology susceptible to use in illegal activity.
+
+U.S. federal and state and
+foreign regulatory authorities and law enforcement agencies, such as the Department of Justice, the SEC, the Commodity Futures Trading
+Commission, The Federal Trade Commission, the IRS and various state securities and financial regulators investigate, issue subpoenas and
+civil investigative demands, and take legal action against persons and entities alleged to be engaged in fraudulent schemes or other illicit
+activity involving blockchain technologies.
+
+While we believe that our
+risk management and compliance framework is designed to detect significant illicit activities conducted by our potential or existing customers,
+we cannot ensure that we will be able to detect all illegal activity on our systems. If any of our customers use our products and services
+to further such illegal activities, our business could be adversely affected. We have not detected any material illicit activities in
+the past.
+
+Our risk management and compliance
+framework is key to our operations and is designed to address Anti Money Laundering (“AML”) and Counter Terrorist Finance
+(“CTF”) considerations consistent with our authorization by the Financial Conduct Authority as an Electronic Money Directive
+Agent, among others. The key elements of the regulatory framework that impact us include, but are not limited to, the following U.K. legislation:
+
+●
+The European Union 5
+th
+
+and 6
+th
+
+Money Laundering
+Directives. 
+The main components of the 5
+th
+
+Money Laundering Directive was to (i) grant access to the general public to beneficial ownership information
+of EU based companies; (ii) requires regulated entities to consult the beneficial ownership register when performing AML due diligence;
+(iii) obliges EU member states to create a list of national public offices and functions that qualify as politically exposed persons (PEP);
+and (iv) introduces strict enhanced due diligence measures for financial flows from high risk third countries. The 6
+th
+
+Money Laundering Directive introduced a harmonized list of 22 predicate offences that constitute money laundering
+and expanded its regulatory scope and criminal definition to include “aiding and abetting”. Regulated entities such as Digital
+RFQ are required to ensure that their AML/CFT programs address those offences. Criminal liability for those laundering money has been
+extended to legal persons, which means that organizations can be punished for offences committed by the people that work for them. The
+change means that responsibility for corporate criminal conduct falls on management personnel in addition to individual employees.
+
+●
+The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer), Regulation 2017.
+
+●
+Proceeds of Crime Act 2002. Digital RFQ is required to ensure sufficient controls are in place to enable its employees to recognize
+money laundering.
+
+●
+Terrorism Act 2000 and Counter Terrorism Act 2008
+. Digital RFQ is required to ensure sufficient controls are in place so that
+the firm can recognise terrorist financing.
+
+●
+Fraud Act 2006
+. Digital RFQ is required to ensure controls are in place to identify the risk of both internal and external
+fraud and the necessary controls are implemented.
+
+●
+Bribery Act 2010
+. Digital RFQ is required to ensure controls are in place to identify the risk of bribery and corruption and
+the necessary controls are implemented.
+
+19
+
+The primary objectives in establishing our AML/CTF policy
+are to:
+
+●
+Conduct regular assessments to continually understand the money laundering and terrorist financing (“ML/TF”) risks associated
+with our business activities;
+
+●
+Prevent Digital RFQ’s services from being used for tax evasion purposes;
+
+●
+Ensure Digital RFQ has appropriate controls to mitigate the ML/TF and tax evasion risks faced by the business;
+
+●
+Establish minimum standards of customer due diligence to be obtained for all entities we conduct business with, including to:
+
+●
+Identify and verify legal existence;
+
+●
+Understand who are the natural persons that ultimately own or control the entity;
+
+●
+Understand the risks posed by higher risks clients, business relationships or transactions; and
+
+●
+Establish standards to allow us to identify unusual or potential suspicious behavior and report suspicions of ML/TF or other financial
+crime, as advised by law.
+
+DigitalRFQ’s risk-based approach to AML/CTF
+is driven by the clients risk rating. DigitalRFQ operates a three-tiered classification of a potential client relationship:
+
+1.
+Low Risk — applying simplified due diligence of customers
+
+2.
+Medium Risk — applying standard client due diligence
+
+3.
+High Risk — applying enhanced due diligence
+
+Standard customer due diligence
+is conducted on the majority of customers, who present a normal level of risk. Where enough low risk factors from the customer are identified,
+Digital RFQ employs simplified due diligence, which is a light touch approach involving less stringent checks. Conversely, if high risk
+factors are identified, then the firm employs enhanced due diligence, which involves a thorough ‘deep dive’ review of the
+customer. These customers, if approved, are then subject to ongoing monitoring.
+
+20
+
+Simplified due diligence is for customers who present a very
+low risk:
+
+1.
+Timing — the general rule is to verify identity before the establishment of a business relationship.
+However, there is now an exemption to this if there is little risk of money laundering. With simplified due diligence, the verification
+can take place later, so we do not interrupt the normal flow of business, provided that the verification is completed as soon as practicable
+after contact is first established.
+
+2.
+Electronic — a customer’s identification can be based purely on electronic identification
+if the verification software used is of sufficient, accredited standard and that they can corroborate some of the information obtained
+with the customer. This could even be the case in some non-face-to-face relationships, if there are sufficient low risk factors in place.
+
+3.
+Documentation — this can be done with one document only and need not be independently certified.
+
+Enhanced due diligence is followed in all circumstances
+where a customer is identified as high-risk, and this involves seven specific tasks:
+
+1.
+Conduct enhanced monitoring of the business relationship by increasing the number and timing of controls applied, and selecting patterns
+of transactions that need further examination.
+
+2.
+Obtaining additional information about the customer.
+
+3.
+Capturing additional information about the intended nature of the business relationship.
+
+4.
+Finding out about the source of the funds or wealth of the customer.
+
+5.
+Understanding the reasons for the intended or performed transactions.
+
+6.
+Getting the approval of senior management for continuing the business relationship.
+
+7.
+Requiring the first payment to be carried out through an account in the customer’s name with a bank subject to similar customer
+due diligence standards.
+
+Digital RFQ performs a customer
+risk assessment to determine whether a specific customer is high, medium or low risk and will take into consideration the customer type,
+their geographic location and the product or service being provided. When assessing the risk, Digital RFQ considers the following risk
+factors:
+
+Risk
+    Type
+
+High
+    Risk Factors
+
+Low
+    Risk Factors
+
+Customer
+
+The
+        business relationship is conducted in unusual circumstances
+
+Customers
+    that are resident in jurisdictions considered to present a ‘higher’ risk
+
+Legal
+    persons or arrangements that are personal asset-holding vehicles Companies that have nominee shareholders or shares in bearer
+    form
+
+Businesses
+    that are cash-intensive
+
+The
+    ownership structure of the company appears unusual or excessively complex given the nature of the company’s business
+
+Public
+        companies listed on a stock exchange and subject to disclosure requirements (either by stock exchange rules or through law or
+        enforceable means), which impose requirements to ensure adequate transparency of beneficial ownership
+
+Public
+    administrations or enterprises Customers that are resident in jurisdictions considered to present a ‘lower’ risk
+
+Geographic Location
+
+Countries
+        identified by credible sources as not having effective anti-money laundering (AML) or Combating the Financing of Terrorism
+        (CFT) systems (such as mutual evaluations, detailed assessment reports or published follow-up reports)
+
+Countries
+    identified by credible sources as having significant levels of corruption or other criminal activity
+
+Countries
+    subject to sanctions, embargos or similar measures issued by, for example, the European Union or the United Nations
+
+Countries
+    providing funding or support for terrorist activities, or that have designated terrorist organisations operating within their country
+
+EU
+        Member States
+
+Third
+    leg countries having effective AML/CFT systems
+
+Third
+    leg countries identified by credible sources as having a low level of corruption or other criminal activity
+
+Third
+    leg countries which, on the basis of credible sources such as mutual evaluations, detailed assessment reports or published follow-up reports,
+    have requirements to combat money laundering and terrorist financing consistent with the revised FATF recommendations and effectively
+    implement those requirements
+
+21
+
+Risk
+    Type
+
+High
+    Risk Factors
+
+Low
+    Risk Factors
+
+Product or Service
+
+Products or transactions
+    that might favour anonymity
+
+Life insurance policies
+    for which the premium is low
+
+Non-face-to-face business
+    relationships or transactions, without certain safeguards, such as electronic signatures
+
+Insurance policies for
+    pension schemes, if there is no early surrender option and the policy cannot be used as collateral
+
+Payments
+        received from unknown or un-associated third parties
+
+New
+    products and new business practices
+
+Financial products or services
+    that provide appropriately defined and limited services to certain types of customers, so as to increase access for financial inclusion
+    purposes
+
+Digital
+RFQ undertakes ongoing monitoring regardless of the customer risk level and whether the onboarding process involved simple, standard
+or enhanced due diligence. This is carried out using a risk-based approach that focuses on reviewing customer data and monitoring transactions:
+
+Low
+    risk factors
+
+Normal
+    risk factors
+
+High
+    risk factors
+
+Simplified Due Diligence at onboarding, with ongoing
+    DD monitoring conducted on a real-time suspicion basis only. 
+
+Standard Due Diligence at onboarding and then real
+    time transaction checks as well as full customer review every couple of years.
+
+Enhanced Due Diligence at onboarding and then real
+    time transaction checks as well as retrospective transaction checks on a monthly basis. A full customer review every 6 months.
+
+All checks with regards to Peps, Sanctions and adverse media take place
+    and are refreshed every 6 months.
+
+All checks with regards to Peps, Sanctions and adverse media take place
+    and are refreshed every 3 months or every transaction in some circumstances.
+
+All checks with regards to Peps, Sanctions and adverse media take place
+    and are reviewed every transaction that takes place.
+
+Transaction monitoring on a daily basis
+
+Transaction monitoring on a daily basis
+
+Transaction monitoring on a daily basis
+
+Wallet verification and analysis when we whitelist the wallet
+
+Wallet verification and analysis every transaction
+
+Wallet verification and analysis on a regular basis
+
+KYC refresh every 12 months for updated KYC for Directors, Shareholders,
+    UBO’s
+
+KYC refresh every 6 months for updated KYC for Directors, Shareholders,
+    UBO’s
+
+KYC refresh every 3 months for updated KYC for Directors, Shareholders,
+    UBO’s
+
+6 month review of client and transactions
+
+6 month review of client and transactions
+
+Monthly review of client and transactions
+
+Internal
+
+External
+
+Raised
+        by employee to the nominated officer
+
+Suspicious
+    activity is irrespective of amount and derives from red flags that have been identified by the employee throughout the course of their working life
+
+An
+    official Internal SAR form should be completed
+
+Nominated
+    officer decides to authorise or raise an external SAR
+
+Raised
+        by nominated officer to the National Crime Agency (NCA)
+
+Can
+    contain details identified in internal SAR or from risk assessments
+
+Must
+    wait for approval from NCA to continue
+
+Details
+    of all SARs (internal and external) must be recorded
+
+Company
+    must have documented procedures
+
+22
+
+The
+client risk rating reflects DRFQ’s assessment of the money laundering and terrorist financing risk the client poses and is determined
+by a combination of factors including:
+
+●
+Country risk — Jurisdictions involved with respect to the domicile, operation and control of the client entity and personal
+links to the beneficial owners and controllers;
+
+●
+Sector risk — Links to sectors associated with higher risk corruption or links to sectors that involve significant amounts of
+cash as certain businesses are considered to present a higher risk of potential financial crime;
+
+●
+Entity risk — the legal form of the entity and its level of transparency including ownership and source of wealth;
+
+●
+Product or service risk — the nature of the client’s business and the products or services that the client will require
+as far as can be assessed throughout the relationship and the risk classifications that Digital RFQ has attributed to them;
+
+●
+Reputation — any adverse media such as allegations or criminality, frozen assets or concerns of beneficial owner/director integrity;
+and
+
+●
+PEP risk — all client relationships that have one or more PEPs either as their ultimate beneficial owner or a controller will
+be classified as a PEP relationship or may be designated as high risk.
+
+●
+Sanctions risk — individuals and related organizations may have sanctions imposed.
+
+The above factors have a
+cumulative effect on risk rating; multiple adverse factors will increase the risk rating of the client and must be referred to compliance
+for assessment. The client risk rating drives the frequency of periodic reviews. All due diligence is completed inline with our AML policy
+and procedures and is documented and stored for five years.
+
+Digital RFQ performs an annual risk assessment covering the
+following risk categories:
+
+Risk Types
+
+Assessment factors
+
+Information sources
+
+Product Risk
+
+The inherent financial crime risks presented by the product(s) and services that we are offering — being in financial services we are subject to be a target for money laundering or helping to facilitate money laundering.
+
+UK National Risk Assessment
+
+Customer Risk
+
+Separate to the Customer Risk Assessment, this is an integral part of the business wide risk assessment, which considers the customer base that is being targeted and the risks that they will bring due to Peps/sanctions lists and adverse media.
+
+Financial Actions Task Force (FATF)
+
+FCA Thematic Reviews  
+
+National Crime Agency  
+
+The European Commission
+
+Organizational Risk
+
+The inherent organizational risks in relation to financial crime and convoluted organizational structures in relation to shareholdings and establishing the UBO’s.
+
+Geographical Risk
+
+The inherent geographical risks our company faces by medium or high risk jurisdictions. This also includes sanctioned countries and those listed on OFAC or FAFT in relation to their risk for money laundering
+
+Digital RFQ follows internal controls that are
+proportionate to its businesses size and nature and consist of a number of controls including senior management oversight, training and
+record keeping.
+
+23
+
+Our compliance and risk management methods
+might not be effective and may result in outcomes that could adversely affect our reputation, operating results, and financial condition.
+We rely on third parties for some of our KYC and other compliance obligations.
+
+Our ability to comply with
+applicable complex and evolving laws, regulations, and rules is largely dependent on the establishment and maintenance of our compliance,
+audit, and reporting systems, as well as our ability to attract and retain qualified compliance and other risk management personnel. While
+we have devoted significant resources to develop policies and procedures to identify, monitor, and manage our risks, and expect to continue
+to do so in the future, we cannot assure that our policies and procedures will always be effective or that we will always be successful
+in monitoring or evaluating the risks to which we are or may be exposed in all market environments or against all types of risks, including
+unidentified or unanticipated risks. Our risk management policies and procedures rely on a combination of technical and human controls
+and supervision that are subject to error and failure.
+
+Some of our methods for managing risk are discretionary
+by nature and are based on internally developed controls, observed historical market behavior, and standard industry practices. These
+methods may not adequately prevent losses, particularly as they relate to extreme market movements which may be significantly greater
+than historical fluctuations in the market. Our risk management policies and procedures also may not adequately prevent losses due to
+technical errors if our testing and quality control practices are not effective in preventing failures. In addition, we may elect to adjust
+our risk management policies and procedures to allow for an increased risk tolerance, which could expose us to the risk of greater losses.
+
+Regulators periodically review
+our compliance with our own policies and procedures and with a variety of laws and regulations. Though we believe we have robust risk
+management and compliance procedures, and have received no findings from any applicable regulator of any violations of applicable laws
+and regulations, if we fail to comply with these in future, or do not adequately remediate certain findings, regulators could take a variety
+of actions that could impair our ability to conduct our business, including delaying, denying, withdrawing, or conditioning approval of
+our licenses, or certain products and services. In addition, regulators have broad enforcement powers to censure, fine, issue cease-and-desist
+orders or prohibit us from engaging in some of our business activities. In the case of non-compliance or alleged non-compliance, we could
+be subject to investigations and proceedings that may result in substantial penalties or civil lawsuits, including by customers, for damages,
+which can be significant. Any of these outcomes would adversely affect our reputation and brand and our business, operating results, and
+financial condition. Some of these outcomes could adversely affect our ability to conduct our business.
+
+Furthermore, we rely on third
+parties for some of our KYC and other compliance obligations. If these third parties fail to effectively provide these services, we may
+be subject to adverse consequences as described above.
+
+We rely on connectivity with blockchain networks for our Platforms.
+
+Our connectivity with existing
+blockchain networks, including the Bitcoin, Ethereum, Tron and other stablecoin networks, will enable our customers to derive the benefit
+such networks may provide them in facilitating our payment processing services. Providing such connectivity presents a risk that we may,
+under derivative theories of liability, be held responsible for the bad acts, failures or violations of law of the blockchain networks.
+
+Although we seek to minimize
+risks associated with any one blockchain network by electing which network to use for a given transaction and by determining which network
+is appropriate for such transaction, based on our assessment of whether such blockchain technology is at an advanced-stage, is fully tested,
+well-established and fully collateralized, we may be exposed to risks that affect blockchain networks generally, or we may not be aware
+of or be able to identify risks associated with any individual network (for a summary of Digital RFQ’s considerations in assessing
+which blockchain networks to use in its payment processing business. Each blockchain network has only been in existence for a limited
+number of years, and digital assets markets have a limited performance record, making them part of a new and rapidly evolving industry
+that is subject to a variety of factors that are difficult to evaluate. For example, the following are some of the risks could materially
+adversely affect Digital RFQ’s financial performance and results of operations:
+
+●
+As a blockchain network continues to develop and grow, certain technical issues might be uncovered and
+the trouble-shooting and resolution of such issues requires the attention and efforts of blockchains’ global development community.
+Like all software, blockchain networks are at risk of vulnerabilities and bugs that can potentially be exploited by malicious actors.
+For example, in 2010, the Bitcoin network underwent a fork to reverse the effects of a hack in which an unknown attacker took advantage
+of a software vulnerability in the early source code of the Bitcoin network to fraudulently mint a large amount of digital assets.
+
+24
+
+●
+Different blockchain networks are subject to material changes in their structure as technology and markets
+for digital assets evolve, and such changes may lead to adverse consequences. As an example, the Ethereum network expects to complete,
+by the end of 2021, a change from the “proof-of-work” consensus method to a “proof-of-stake” consensus method.
+The consequences of such change cannot be entirely foreseen, and flaws resulting from that transition could negatively affect the Ethereum
+network.
+
+●
+Certain privacy-preserving features have been or are expected to be introduced to blockchain networks,
+such as the Ethereum network. This could damage the public perception of blockchain networks generally or any one blockchain network in
+particular, and their or its utility in Digital RFQ’s payment processing system.
+
+●
+Networks rely on the internet. A significant disruption of internet connectivity (i.e., one that affects large numbers of users or
+geographic regions) could disrupt blockchain networks’ functionality and operations until the disruption in the internet is resolved.
+
+●
+The governance of decentralized networks, such as certain blockchain networks, is by voluntary consensus
+and open competition. In other words, a typical network has no central decision- making body or clear manner in which participants can
+come to an agreement other than through voluntary, widespread consensus. As a result, a lack of widespread consensus in the governance
+of a network may adversely affect the network’s utility and ability to adapt and face challenges, including technical and scaling
+challenges. The decentralized governance of a network may make it difficult to find or implement solutions or marshal sufficient effort
+to overcome existing or future problems, especially protracted ones requiring substantial directed effort and resource commitment over
+a long period of time, such as scaling challenges. A network’s failure to overcome governance challenges could exacerbate problems
+experienced by the network or cause the network to fail to meet the needs of its users, and could cause users, miners, and developer talent
+to abandon the network or lead to a drop in speculative interest, which could cause the value of a digital currency to decline.
+
+●
+A network may use a cryptographic protocol to govern the interactions within it. In the case of Bitcoin,
+a loose community known as the “core developers” has evolved to informally manage the source code for the protocol. The core
+developers can propose amendments to the network’s source code that, if accepted by users, could alter the protocols and software
+of the network. These alterations would occur through software upgrades, and could potentially include changes to the irreversibility
+of transactions. Alternatively, software upgrades and other changes to the protocols of the network could fail to work as intended or
+could introduce bugs, security risks, or otherwise adversely affect, the network. Similar dynamics occur in other blockchain networks.
+
+●
+Networks that operate based on an open-source protocol are often maintained by the core developers and
+other contributor. As blockchain network protocols generally are not sold or made available subject to licensing or subscription fees
+and their use does not generate revenues for their development team, the core developers are generally not compensated for maintaining
+and updating the source code for the network protocol. Consequently, there is a lack of financial incentive for developers to maintain
+or develop a blockchain network and the core developers may lack the resources to adequately address emerging issues with the network
+protocol. Although blockchain networks are typically supported by core developers, there can be no guarantee that such support will continue
+or be sufficient in the future. Alternatively, some developers may be funded by entities, such as foundations or corporations, whose interests
+are at odds with other participants in the network. In addition, a bad actor could also attempt to interfere with the operation of a network
+by attempting to exercise a malign influence over a core developer. To the extent that material issues arise with a network protocol and
+the core developers and open-source contributors are unable to address the issues adequately or in a timely manner, a blockchain network
+may be adversely affected.
+
+●
+Blockchain technologies are premised on theoretical conjectures as to the impossibility, in practice,
+of solving certain mathematical problems quickly. Those conjectures remain unproven, however, and mathematical or technological advances
+could conceivably prove them to be incorrect. Blockchain technology may also be negatively affected by cryptography or other technological
+or mathematical advances, such as the development of quantum computers with significantly more power than computers presently available,
+that undermine or vitiate the cryptographic consensus mechanism underpinning the blockchain and other distributed ledger protocols. If
+either of these events were to happen, markets and processes that rely on blockchain technologies, such as Digital RFQ’s blockchain-enabled
+payment processing operations, could be adversely affected.
+
+25
+
+If we fail to develop, maintain, and enhance
+our brand and reputation, our business, operating results, and financial condition may be adversely affected. Moreover, unfavorable media
+coverage could negatively affect our business.
+
+We receive a high degree
+of media coverage. Unfavorable publicity regarding, for example, our product changes, product quality, litigation or regulatory activity,
+privacy practices, terms of service, employment matters, the use of our products, services, or supported blockchain technologies for illicit
+or objectionable ends, the actions of our customers, or the actions of other companies that provide similar services to ours, has in the
+past, and could in the future, adversely affect our reputation.
+
+In addition, actions by,
+or unfavorable publicity about, Menachem Shalom, a director and Chief Executive Officer, or other officers and managers of Nukkleus and
+its subsidiaries may adversely impact our brand and reputation. Such negative publicity also could have an adverse effect on the size
+and engagement of our customers and could result in decreased revenue, which could have an adverse effect on our business, operating results,
+and financial condition. Further may be the target of social-media campaigns criticizing actual or perceived actions or inactions that
+are disfavored by our customers, employees, or society at-large, which campaigns could materially impact our customers’ decisions
+to use our products and services. Any such negative publicity could have an adverse effect on the size, activity, and loyalty of our customers
+and result in a decrease in net revenue, which could adversely affect our business, operating results, and financial condition.
+
+Concerns about the environmental impacts
+of blockchain technology could adversely impact usage and perceptions of Nukkleus, its subsidiaries and our Platforms.
+
+The energy usage and environmental
+impact of blockchain technology, particularly in relation to proof of work mining, has attracted considerable recent attention. Government
+scrutiny related to restrictions on such energy consumption may increase, resulting in additional regulation that could adversely impact
+usage of our Platforms and harm our business. The considerable consumption of electricity by mining operators may also have a negative
+environmental impact, including contribution to climate change, which could create a negative consumer sentiment and perception of blockchain
+technology generally and adversely affect our business, prospects, financial condition, and operating results.
+
+As a remote-first company, we are subject to heightened operational
+and cybersecurity risks.
+
+As a remote-first company,
+we are subject to heightened operational and cybersecurity risks. We are a remote-first company, meaning that for all existing roles many
+of our employees work from their homes or other non-company dwellings. For example, technologies in our employees’ and service providers’
+homes and shared office spaces may not be as robust and could cause the networks, information systems, applications, and other tools available
+to employees and service providers to be more limited or less reliable. Further, the security systems in place at our employees’
+and service providers’ homes and shared office spaces may be less secure than those used in corporate offices, and while we have
+implemented technical and administrative safeguards to help protect our systems as our employees and service providers work from home,
+we may be subject to increased cybersecurity risk which could expose us to risks of data or financial loss, and could disrupt our business
+operations. There is no guarantee that the data security and privacy safeguards we have put in place will be completely effective or that
+we will not encounter risks associated with employees and service providers accessing company data and systems remotely. We also face
+challenges due to the need to operate with a remote workforce and are addressing so to minimize the impact on our ability to operate.
+
+26
+
+Risks Related to Nukkleus’s Platforms
+
+The future development and growth of our
+Platforms is subject to a variety of factors that are difficult to predict and evaluate and may be in the hands of third parties to a
+substantial extent. If our Platforms do not grow as we expect, our business, operating results, and financial condition could be adversely
+affected.
+
+We introduced fund transfer
+and payment processing using blockchain technologies only in 2019, and such technology remains in the early stages of development while
+continuing to evolve. The further growth and development of any such technology and the underlying networks and other cryptographic and
+algorithmic protocols governing such technology and products represent a new and evolving paradigm that is subject to a variety of factors
+that are difficult to evaluate, including:
+
+●
+Any blockchain-enabled process or product, like our Platforms, rely on third parties, including financial
+institutions and counterparties, to hold funds, cash equivalents, and other assets. Those third parties have their own policies and may
+change their view and acceptance of any blockchain or stablecoin at any time. This may result in delays and other barriers to payment
+processing through our Platforms.
+
+●
+Many blockchain networks have limited operating histories, have not been validated in production, and
+are still in the process of developing and making significant decisions that will affect the underlying blockchain, any of which could
+adversely affect the blockchain technologies on which our Platforms rely.
+
+●
+The governance of many blockchain networks is by voluntary consensus and open competition, and many developers
+are not directly compensated for their contributions. As a result, there may be a lack of consensus or clarity on the governance of any
+particular blockchain network, a lack of incentives for developers to maintain or develop the network, and other unforeseen issues, any
+of which could result in unexpected or undesirable errors, bugs, or changes, or stymie such network’s utility and ability to respond
+to challenges and grow.
+
+These risks are fundamentally
+beyond our control and could materially and adversely affect our Platforms and our business, financial condition and operating results.
+
+Due to unfamiliarity and some negative publicity
+associated with blockchain technology, our customer base may lose confidence in products and services that utilize blockchain technology.
+
+Products and services that
+are based on blockchain technologies are relatively new. Many of our competitors are unlicensed, unregulated, operate without supervision
+by any governmental authorities, and do not provide the public with significant information regarding their ownership structure, management
+team, corporate practices, cybersecurity, and regulatory compliance. As a result, customers and the general public may lose confidence
+in blockchain technology, including regulated products and services like ours.
+
+Since the inception of blockchain
+technologies, numerous blockchain-enabled businesses and platforms have been sued, investigated, or shut down due to fraud, illegal activities,
+the sale or issuance of unregistered securities, manipulative practices, business failure, and security breaches. In many of these instances,
+customers of these platforms, products and services were not compensated or made whole for their losses. We may be a target of hackers
+and malware and may also be more likely to be targets of regulatory enforcement actions.
+
+Negative perception, a lack
+of stability and standardized regulation, and the closure or temporary shutdown of blockchain-enabled platforms, including our Platforms,
+due to fraud, business failure, hackers or malware, or government mandated regulation, and associated losses suffered by customers may
+reduce confidence in blockchain technologies and result in greater volatility of the prices of assets, including significant depreciation
+in value. Any of these events could have a material and adverse impact on our business.
+
+Our Platforms and blockchain-enabled payment
+processing services are innovative and are difficult to analyze vis-à-vis existing financial services laws and regulations around
+the world. Our platforms involve certain risks, including reliance on third parties, which could limit or restrict our ability to offer
+the product in certain jurisdictions.
+
+Our ability to offer our
+Platforms in jurisdictions around the world is unclear from a regulatory perspective. Further, our Platforms are dependent on certain
+partners who will provide liquidity and the regulatory requirements with respect to those partners are uncertain. Our dependency on the
+performance of those partners raises risk that turns upon their performance. If our partners fail to perform, both we and our customers
+could be subject to losses, and we may be required to cease offering such Platform.
+
+27
+
+Risks Related to Nukkleus’s Financial Condition
+
+There is no assurance that we will maintain profitability or
+that our revenue and business models will be successful.
+
+Our ability to achieve and
+maintain profitability is based on numerous factors, many of which are beyond our control. We may not be able to generate sufficient revenue
+to maintain profitability in the short or long-term. Our revenue growth may slow, or our revenue may decline for a number of other reasons,
+including reduced demand for our offerings, increased competition, a decrease in the usage of blockchain technologies generally, or any
+failure to capitalize on growth opportunities.
+
+We are continually refining
+our revenue and business model and have shifted our focus to the development and commercialization of our Platforms. There is no assurance
+that these efforts will be successful or that we will generate revenues commensurate with our efforts and expectations or become or stay
+profitable. We may be forced to make significant changes to our revenue and business model to compete with our competitors’ offerings,
+and even if such changes are undertaken, there is no guarantee that they will be successful or profitable. Additionally, we will need
+to hire, train, and integrate qualified personnel to meet and further such changes to our business objectives at potentially significant
+additional expense. Failure to successfully implement revenue and business models or manage related expenses could cause us to be unprofitable
+and have an adverse effect on our business, operating results and financial condition.
+
+Changes in U.S. and foreign tax laws, as well as the application
+of such laws, could adversely impact our financial position and operating results.
+
+We are subject to complex
+income and non-income tax laws and regulations in the United States and a variety of foreign jurisdictions. Both the United States and
+foreign jurisdictions may revise corporate income tax and other non-income tax laws which could impact the amount of tax due in such jurisdiction.
+
+Our determination of our
+corporate income tax liability is subject to review and may be challenged by applicable U.S. and foreign tax authorities. Any adverse
+outcome of such challenge could harm our operating results and financial condition. The determination of our worldwide provision for income
+taxes and other tax liabilities requires significant judgment and, in the ordinary course of business, there are many transactions and
+calculations where the ultimate tax determination is complex and uncertain. Moreover, as a multinational business, we have subsidiaries
+that engage in many intercompany transactions in a variety of tax jurisdictions where the ultimate tax determination is complex and uncertain.
+Our existing corporate structure and intercompany arrangements have been implemented in a manner we believe is in compliance with current
+prevailing tax laws. Furthermore, as we operate in multiple taxing jurisdictions, the application of tax laws can be subject to diverging
+and sometimes conflicting interpretations by tax authorities of these jurisdictions. It is not uncommon for taxing authorities in different
+countries to have conflicting views with respect to, among other things, the characterization and source of income or other tax items,
+the manner in which the arm’s-length standard is applied for transfer pricing purposes, or with respect to the valuation of intellectual
+property. The taxing authorities of the jurisdictions in which we operate may challenge our tax treatment of certain items or the methodologies
+we use for valuing developed technology or intercompany arrangements, which could impact our worldwide effective tax rate and harm our
+financial position and operating results.
+
+28
+
+We are also subject to non-income
+taxes, such as payroll, sales, use, value-added, net worth, property, and goods and services taxes in the United States and various foreign
+jurisdictions. A change in the tax law could impact tax positions which could result in an increased exposure related to such tax liabilities.
+Such changes could have an adverse effect on our operating results and financial condition.
+
+In addition, under Section
+382 of the Internal Revenue Code of 1986, as amended (the “Code”), a corporation that undergoes an “ownership change”
+(as defined under Sections 382 and 383 of the Code and applicable Treasury Regulations) is subject to limitations on its ability to utilize
+its pre-change NOLs and certain other tax attributes to offset post-change taxable income or taxes.
+
+We have not performed a study
+to determine whether our NOLs are currently subject to Section 382 limitations. We may also experience a future ownership change under
+Section 382 of the Code that could affect our ability to utilize our NOLs to offset our income.
+
+If our estimates or judgment relating to our critical accounting
+policies prove to be incorrect, our operating results could be adversely affected.
+
+The preparation of financial
+statements in conformity with GAAP requires management to make estimates and assumptions that affect the amounts reported in the consolidated
+financial statements and accompanying notes. We base our estimates on historical experience and on various other assumptions that we believe
+to be reasonable under the circumstances, as provided in the section titled “Management’s Discussion and Analysis of Financial
+Condition and Results of Operations of Nukkleus — Critical Accounting Policies”. The results of these estimates form the basis
+for making judgments about the carrying values of assets, liabilities, and equity, and the amount of revenue and expenses that are not
+readily apparent from other sources. Significant estimates and judgments involve the identification of performance obligations in revenue
+recognition, evaluation of tax positions, inter-company transactions, and the valuation of stock-based awards and the fiat reserves we
+hold, among others. Our operating results may be adversely affected if our assumptions change or if actual circumstances differ from those
+in our assumptions, which could cause our operating results to fall below the expectations of analysts and investors, resulting in a decline
+in the trading price of Nukkleus Common Stock.
+
+The nature of our business requires the
+application of complex financial accounting rules, and there is limited guidance from accounting standard setting bodies. If financial
+accounting standards undergo significant changes, our operating results could be adversely affected.
+
+The accounting rules and
+regulations that we must comply with are complex and subject to interpretation by the Financial Accounting Standards Board, the SEC, and
+various bodies formed to promulgate and interpret appropriate accounting principles. A change in these principles or interpretations could
+have a significant effect on our reported financial results and may even affect the reporting of transactions completed before the announcement
+or effectiveness of a change. Recent actions and public comments from the FASB and the SEC have focused on the integrity of financial
+reporting and internal controls. In addition, many companies’ accounting policies are being subject to heightened scrutiny by regulators
+and the public.
+
+For example, on March 31,
+2022, the staff of the SEC issued Staff Accounting Bulletin No. 121, or SAB 121, which represents a significant change regarding how a
+company safeguarding digital assets held for its platform users reports such digital assets on its balance sheet and requires retrospective
+application as of January 1, 2022. Moreover, recent actions and public comments from the FASB and the SEC have focused on the integrity
+of financial reporting and internal controls. In addition, many companies’ accounting policies are being subjected to heightened
+scrutiny by regulators and the public. Further, there has been limited precedent for the financial accounting of digital assets and related
+valuation and revenue recognition, and no official guidance has been provided by the FASB or the SEC, with the exception of SAB 121. In
+May 2022, the FASB added a project to its technical agenda to improve the accounting for and disclosure of certain digital assets. In
+October 2022, the FASB decided to require fair value measurement of digital assets that fall within the scope of this project. While the
+FASB has begun deliberating on the scope of this project, there has been no formal proposal or guidance issued related to the project
+and no timeline has been publicly communicated for the issuance of such guidance.
+
+At certain times, the funds
+of customers of Digital RFQ that we use to make payments on behalf of our customers, remain in the form of digital assets in our customers’
+wallets at our licensed trust companies awaiting final conversion and/or transfer to the customer’s payment final destination. These
+indirectly held digital assets, may consist of USDT (Stablecoin), Bitcoin, and Ethereum (collectively, “our customers’ digital
+assets”). We engage third parties, which are licensed trust companies, to provide certain custodial services, including holding
+our customers’ digital token identifiers, securing our customers’ digital assets, and protecting them from loss or theft,
+including indemnification against certain types of losses such as theft. Our third-party custodian holds the digital assets in a custodial
+account in Digital RFQ’s name for the benefit of Digital RFQ’s customers. We maintain the internal recordkeeping of our customers’
+digital assets, including the amount and type of digital asset owned by each of our customers and digital token identifiers in that custodial
+account. Given that we currently utilize one third-party custodian, there is concentration risk in the event the custodian is not able
+to perform in accordance with our agreement.
+
+29
+
+There remains uncertainty
+on how companies can account for blockchain transactions, value, and related revenue. Uncertainties in or changes to regulatory or financial
+accounting standards could result in the need to change our accounting methods, restate our financial statements or impair our ability
+to provide timely and accurate financial information, which could adversely affect our financial statements, result in a loss of investor
+confidence, and more generally impact our business, operating results, and financial condition.
+
+Business metrics and other estimates are
+subject to inherent challenges in measurement, and our business, operating results, and financial condition could be adversely affected
+by real or perceived inaccuracies in those metrics.
+
+We regularly review business
+metrics and other measures to evaluate growth trends, measure our performance, and make strategic decisions. For example, we measure transaction
+volumes and concentration. These metrics are calculated using internal company data and have not been validated by an independent third
+party. While these numbers are based on what we currently believe to be reasonable estimates for the applicable period of measurement,
+there are inherent challenges in such measurements. If we fail to maintain an effective analytics platform, our calculations may be inaccurate,
+and we may not be able to identify those inaccuracies.
+
+Our business metrics may
+also be impacted by compliance or fraud-related bans, technical incidents, or false or spam accounts in existence on our platform. Our
+customers are primarily institutional and, though we believe there is no reason for them to establish multiple accounts with us unless
+such accounts serve a different business purpose for them, we permit our customers to hold and access multiple accounts, which could overstate
+the number of customers we serve. Though we rely predominantly on transaction volumes to make projections about our business, such customer
+metrics may also be used in our models. If our metrics provide us with incorrect or incomplete information about customers and their behavior,
+we may make inaccurate conclusions about our business.
+
+We are subject to changes in financial reporting
+standards or policies, including as a result of choices made by us, which could materially adversely affect our reported results of operations
+and financial condition and may have a corresponding material adverse impact on capital ratios.
+
+Our consolidated financial
+statements are prepared in accordance with GAAP, which are periodically revised or expanded. Accordingly, from time to time we are required
+to adopt new or revised accounting standards issued by recognized bodies. It is possible that future accounting standards and financial
+reporting standards or policies, including as a result of choices made by us, which we are required to adopt, could change the current
+accounting treatment that applies to our consolidated financial statements and that such changes could have a material adverse effect
+on our reported results of operations and financial condition, and may have a corresponding material adverse effect on capital ratios.
+
+As a public company, we are required to
+develop and maintain proper and effective internal controls over financial reporting, and any failure to maintain the adequacy of these
+internal controls may adversely affect investor confidence in our company and, as a result, the value of our stock.
+
+We are required to furnish
+a report by management on, among other things, the effectiveness of our internal control over financial reporting. This assessment includes
+disclosure of any material weaknesses identified by our management in our internal control over financial reporting. During the evaluation
+and testing process of our internal controls, if we identify one or more material weaknesses in our internal control over financial reporting,
+we will be unable to certify that our internal control over financial reporting is effective. We cannot assure that there will not be
+material weaknesses or significant deficiencies in our internal control over financial reporting in the future. Any failure to maintain
+internal control over financial reporting could severely inhibit our ability to accurately report our financial condition or results of
+operations. If we are unable to conclude that our internal control over financial reporting is effective, or if our independent registered
+public accounting firm determines we have a material weakness or significant deficiency in our internal control over financial reporting,
+we could lose investor confidence in the accuracy and completeness of our financial reports, the market price of our stock could decline,
+and we could be subject to sanctions or investigations by the exchange on which shares of our stock are listed, the SEC or other regulatory
+authorities. Failure to remedy any material weakness in our internal control over financial reporting, or to implement or maintain other
+effective control systems required of public companies, could also restrict our future access to the capital markets.
+
+We might require additional capital to support business growth,
+and this capital might not be available or may require stockholder approval to obtain.
+
+We have funded our operations
+since inception primarily through equity financings, convertible notes, and revenue generated by our products and services. We intend
+to continue to make investments in our business to respond to business challenges, including developing new products and services, enhancing
+our operating infrastructure, expanding our international operations, and acquiring complementary businesses and technologies, all of
+which may require us to secure additional funds.
+
+Additional financing may
+not be available on terms favorable to us, if at all. If we incur additional debt, the debt holders would have rights senior to holders
+of Nukkleus’s commons stock to make claims on our assets, and the terms of any debt could restrict our operations.
+
+30
+
+We may be affected by fluctuations in currency exchange rates
+
+We are potentially exposed
+to adverse as well as beneficial movements in currency exchange rates. An increase in the value of the dollar could increase the real
+cost to our customers of our products in those markets outside the U.S. where we sell in dollars, and a weakened dollar could increase
+the cost of local operating expenses from sources outside the United States, and overseas capital expenditures. We also conduct certain
+investing and financing activities in local currencies. Therefore, changes in exchange rates could harm our financial condition and results
+of operations.
+
+Risks Related to Nukkleus’s Employees and Other Service Providers
+
+In the event of employee or service provider misconduct or error,
+our business may be adversely impacted.
+
+Employee or service provider
+misconduct or error could subject us to legal liability, financial losses, and regulatory sanctions, and could seriously harm our reputation
+and negatively affect our business. Such misconduct could include engaging in improper or unauthorized transactions or activities, misappropriation
+of customer funds, and misappropriation of information, failing to supervise other employees or service providers, or improperly using
+confidential information.
+
+Employee or service provider
+errors, including mistakes in executing, recording, or processing transactions for customers, could expose us to the risk of material
+losses even if the errors are detected. Although we have implemented processes and procedures and provide trainings to our employees and
+service providers to reduce the likelihood of misconduct and error, these efforts may not be successful. Moreover, the risk of employee
+or service provider error or misconduct may be even greater for novel products and services, and is compounded by the fact that many of
+our employees and service providers are accustomed to working at tech companies which generally do not maintain the same compliance customs
+and rules as financial services firms.
+
+This can lead to high risk
+of confusion among employees and service providers, particularly in a fast growth company like ours, with respect to compliance obligations
+particularly including confidentiality, data access, trading, and conflicts. It is not always possible to deter misconduct and the precautions
+we take to prevent and detect this activity may not be effective in all cases. If we were found not to have met our regulatory oversight
+and compliance and other obligations, we could be subject to regulatory sanctions, financial penalties and restrictions on our activities
+for failure to properly identify, monitor and respond to potentially problematic activity, which could seriously damage our reputation.
+Our employees, contractors, and agents could also commit errors that subject us to financial claims for negligence, as well as regulatory
+actions, or result in financial liability. Further, allegations by regulatory or criminal authorities of improper transactions could affect
+our brand and reputation.
+
+The loss of one or more of our key personnel,
+or our failure to attract and retain other highly qualified personnel in the future, could adversely impact our business, operating results,
+and financial condition.
+
+We operate in a relatively
+new industry that is not widely understood and requires highly skilled and technical personnel. We believe that our future success is
+highly dependent on the talents and contributions of our senior management team, including Menachem Shalom, our Chief Executive Officer
+and a director and other key service providers across finance, compliance, legal, talent and marketing.
+
+Our future success depends
+on our ability to attract, develop, motivate, and retain highly qualified and skilled employees and service providers. The pool of qualified
+talent is extremely limited, particularly with respect to executive talent, engineering, risk management, and financial regulatory expertise.
+We face intense competition for qualified individuals from numerous software and other technology companies. To attract and retain key
+personnel, we incur significant costs, including salaries and benefits and equity incentives. Even so, these measures may not be enough
+to attract and retain the personnel we require to operate our business effectively. The loss of even a few qualified employees, or an
+inability to attract, retain and motivate additional highly skilled employees required for the planned expansion of our business, could
+adversely impact our operating results and impair our ability to grow.
+
+Our culture emphasizes innovation, and if we cannot maintain
+this culture as we grow, our business and operating results could be adversely impacted.
+
+We believe that our entrepreneurial
+and innovative corporate culture has been a key contributor to our success. We encourage and empower our employees and service providers
+to develop and launch new and innovative products and services, which we believe is essential to attracting high quality talent, partners,
+and developers, as well as serving the best, long-term interests of our company. If we cannot maintain this culture as we grow, we could
+lose the innovation, creativity and teamwork that has been integral to our business, in which case our products and services may suffer
+and our business, operating results, and financial condition could be adversely impacted.
+
+31
+
+Risks Related to Government Regulation
+
+We are subject to various laws and regulations,
+and any adverse changes to, or our failure to comply with, any laws and regulations could adversely affect our brand, reputation, business,
+operating results, and financial condition.
+
+Our business is subject to
+laws, rules, regulations, policies, orders, determinations, directives, treaties, and legal and regulatory interpretations and guidance
+in the markets in which we operate, which may include those governing financial services and banking, securities, broker-dealers, cross-border
+and domestic money transmission, blockchain technologies, privacy, data governance, data protection, cybersecurity, fraud detection, payment
+services, escheatment, antitrust and competition, bankruptcy, tax, anti-bribery, economic and trade sanctions, anti-money laundering,
+and counter-terrorist financing.
+
+The key elements of the regulatory framework that impact us
+include, but are not limited to, the following U.K. legislation:
+
+●
+The European Union 5
+th
+
+and
+6
+th
+
+Money Laundering Directives,
+
+●
+The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer), Regulation 2017,
+
+●
+Proceeds of Crime Act 2002,
+
+●
+Terrorism Act 2000,
+
+●
+Counter Terrorism Act 2008,
+
+●
+Fraud Act 2006, and
+
+●
+Bribery Act 2010.
+
+These legal and regulatory
+regimes, including the laws, rules, and regulations thereunder, evolve frequently and may be modified, interpreted, and applied in an
+inconsistent manner from one jurisdiction to another, and may conflict with one another. For a discussion of our risk management framework
+and more detailed descriptions of the legislation and regulations applicable to Digital RFQ’s business.
+
+We are currently regulated
+in the United Kingdom by the Financial Conduct Authority. We plan to expand our operations to other countries in future, including Dubai
+and Lithuania, in which case we would be subject to regulation in those jurisdictions. From our UK operations, we currently offer cross-border
+payment processing services, in numerous countries in Europe, Dubai, Sub-Saharan Africa and Asia. We offer payment processing services
+using blockchain technologies in the United Kingdom, the United States and Sub-Saharan Africa, and intend to develop such products and
+services across other regions. As a business, we do not differentiate between cross-border and domestic payment processing, so generally
+offer cross-border services in the countries in which we operate. While we believe our risk management and compliance frameworks are sufficient
+to ensure we remain in material compliance with the applicable laws, and regulations of the jurisdictions in which we operate, to the
+extent we do not comply with such laws, rules, and regulations, we could be subject to fines, revocation of licenses, limitations on our
+products and services, reputational harm, and other regulatory consequences, each of which may be significant and could adversely affect
+our business, operating results, and financial condition.
+
+In addition to existing laws
+and regulations, various governmental and regulatory bodies, including legislative and executive bodies in the United States, United Kingdom
+and in other countries, may adopt new laws and regulations, or new interpretations of existing laws and regulations may be issued by such
+bodies or the judiciary, which may adversely impact the development of blockchain as a whole and our legal and regulatory status in particular
+by changing how we operate our business, how our products and services are regulated, and what products or services we and our competitors
+can offer, requiring changes to our compliance and risk mitigation measures, imposing new licensing requirements, or imposing a total
+ban on transactions using blockchain technologies.
+
+Legislative and regulatory actions taken
+now or in the future may increase our costs and impact our business, governance structure, financial condition or results of operations.
+
+Federal, state and international
+regulatory agencies frequently adopt changes to their regulations or change the way existing regulations are applied. Regulatory or legislative
+changes to laws applicable to the financial industry, if enacted or adopted, may impact the profitability of our business activities,
+require more oversight or change certain of our business practices, including the ability to offer new products and to continue offering
+our current products, and could expose us to additional costs, including increased compliance costs. These changes also may require us
+to invest significant management attention and resources to make any necessary changes to operations to comply and could have a material
+adverse effect on our business, financial condition and results of operations.
+
+Various U.S. federal, state,
+and local and foreign governmental organizations and public advocacy groups have been examining the operations of businesses using blockchain
+technologies and networks, and the safety and soundness of platforms and other service providers that hold use such networks and technologies
+on behalf of users. Many of these entities have called for heightened regulatory oversight and have issued advisories describing the risks
+posed by blockchain technologies to users and investors. Use of blockchain technologies is novel and there is limited access to policymakers
+and lobbying organizations in many jurisdictions. Competitors from other, more established industries, including traditional financial
+services, may have greater access to lobbyists or governmental officials, and regulators that are concerned about the potential for stablecoins
+for illicit usage may affect statutory and regulatory changes. As a result, new laws and regulations may be proposed and adopted in the
+United States and internationally, or existing laws and regulations may be interpreted in new ways that harm the stablecoin and blockchain
+industry, which could adversely impact our business.
+
+32
+
+The regulatory environment to which we are
+subject gives rise to various licensing requirements, legal and financial compliance costs and management time, and non-compliance could
+result in monetary and reputational damages, all of which could have a material adverse effect on our business, financial position and
+results of operations.
+
+There can be no assurance
+that we will be able to maintain our existing, or obtain additional, required regulatory licenses, certifications and regulatory approvals
+in the countries where we provide services or want to expand to. Furthermore, where we have obtained such regulatory licenses, certifications
+and regulatory approvals, there are costs and potential product changes involved in maintaining such regulatory licenses, certifications,
+and approvals, and we could be subject to fines or other enforcement action if we are found to violate disclosure, reporting, anti-money
+laundering, capitalization, corporate governance or other requirements of such licenses. These factors could impose substantial additional
+costs and involve considerable delay to the development or provision of our products or services, or could require significant and costly
+operational changes or prevent us from providing any products or services in a given market.
+
+These laws, regulations and
+standards are subject to varying interpretations, in many cases due to their lack of specificity or unclear application to the business
+of non-traditional financial services. As a result, their application in practice may evolve over time as new guidance is provided by
+supervisory authorities and the interpretation of requirements by supervisory authorities and courts may be further clarified over time.
+If our efforts to comply with new laws, regulations and standards differ from the activities intended by regulatory bodies or supervisory
+authorities due to ambiguities related to their interpretation, application and practice, supervisory authorities may initiate legal and
+regulatory proceedings against us and our business, reputation, financial condition, results of operations and cash flow could be materially
+and adversely affected.
+
+In certain countries, it
+may not be clear whether we are required to be licensed as a money transmitter, payment services provider, bank, financial institution,
+custodian, broker-dealer, exchange, or otherwise. Local regulators may use their power to slow or halt payments or otherwise prohibit
+us from doing business in a country. We and our local businesses do not only need to comply with the local laws and regulations, but also
+with certain laws and regulations with worldwide application. Further, because our services are accessible worldwide, one or more jurisdictions
+may claim that we or our customers or partners are required to comply with their laws. Laws regulating the internet, mobile and related
+technologies outside the United States may impose different, more specific, or even conflicting obligations on us, as well as broader
+liability.
+
+If we are unable to commit
+sufficient resources to regulatory compliance, this could lead to delays and errors and may force us to choose between prioritizing compliance
+matters over administrative support for business activities, or may ultimately force us to cease offering certain products or services
+globally or in certain jurisdictions. Any delays or errors in implementing regulatory compliance could lead to substantial monetary damages
+and fines, public reprimands, a material adverse effect on our reputation, regulatory measures in the form of cease and desists orders,
+increased regulatory compliance requirements or other potential regulatory restrictions on our business, enforced suspension of operations
+and in extreme cases, withdrawal of regulatory licenses or authorizations to operate particular businesses, or criminal prosecution in
+certain circumstances.
+
+In addition to non-compliance
+by us ourselves, we may in the future suffer negative consequences of non-compliance by third parties that use our payments and transfer
+infrastructure. We may also suffer negative consequences of customers operating businesses or schemes in violation of applicable rules
+and regulations whose activities we could be held responsible for monitoring and, where applicable, to denounce, interrupt or terminate
+the extension of services to such customers. We may be required to incur greater expenditures and devote additional resources and management
+time to addressing these liabilities and requirements, which could have an adverse effect on our business, financial position and results
+of operations.
+
+The financial services industry is subject
+to intensive regulation. Major changes in laws and regulations, as well as enforcement actions, could adversely affect our business, financial
+position, results of operations and prospects.
+
+In pursuit of a broad reform
+and restructuring of financial services regulation, national and supra-national legislatures and supervisory authorities, predominantly
+in the United States and Europe but also elsewhere, continue to introduce and implement a wide range of proposals that could result in
+major changes to the way our global operations are regulated and could have adverse consequences for our business, business model, financial
+position, results of operations, reputation and prospects. These changes could materially impact the profitability of our businesses or
+the value of our assets, require changes to business practices or force us to discontinue businesses and expose us to additional costs,
+taxes, liabilities, enforcement actions and reputational risk and are likely to have a material impact on us.
+
+The timing and full impact
+of new laws and regulations cannot be determined and are beyond our control. The introduction of these and other new rules and requirements
+could significantly impact the manner in which we operate, particularly in situations where regulatory legislation can interfere with
+or even set aside national private law. New requirements may adversely affect our business, capital and risk management strategies and
+may result in us deciding to modify our legal entity structure, capital and funding structures and business mix or exit certain business
+activities altogether, or determine not to expand in certain business areas despite their otherwise attractive potential.
+
+The large number of legislative
+initiatives, in particular with respect to the financial services industry, requires constant attention from our senior management and
+consumes significant levels of resources to identify and analyze the implications of these initiatives. We may have to adapt our strategy,
+operations and businesses, including policies, procedures and documentation, to comply with these new legal requirements. Based on the
+volume of existing initiatives, it cannot be excluded that certain new requirements will not be implemented in a timely fashion or implemented
+without errors, or in a manner satisfactory to the applicable supervisory authority, resulting in non-compliance and possible associated
+negative consequences such as administrative fine or public reprimands. Additionally, we may be forced to cease to serve certain types
+of customers or cease to offer certain services or products as a result of new requirements. Any of the other above factors, events or
+developments may materially adversely affect our businesses, financial position and results of operations and prospects.
+
+33
+
+We are subject to laws, regulations, and
+executive orders regarding economic and trade sanctions, anti-bribery, anti-money laundering, and counter-terror financing that could
+impair our ability to compete in international markets or subject us to criminal or civil liability if we violate them. As we continue
+to expand and localize our international activities, our obligations to comply with the laws, rules, regulations, and policies of a variety
+of jurisdictions will increase and we may be subject to investigations and enforcement actions by U.S. and non-U.S. regulators and governmental
+authorities.
+
+As we expand and localize
+our international activities, we have and will become increasingly obligated to comply with the laws, rules, regulations, policies, and
+legal interpretations both of the jurisdictions in which we operate and those into which we offer services on a cross-border basis. Laws
+regulating financial services, the internet, mobile technologies, blockchain technologies, and related technologies outside the United
+States often impose different, more specific, or even conflicting obligations on us, as well as broader liability.
+
+We are subject to various
+anti-money laundering and counter-terrorist financing laws and regulations around the world that prohibit, among other things, our involvement
+in transferring the proceeds of criminal activities. In the United States, most of our services are subject to anti-money laundering laws
+and regulations, including the Bank Secrecy Act of 1970, as amended by the USA PATRIOT Act of 2001, and its implementing regulations (collectively,
+the “BSA”) and other similar laws and regulations. The BSA, among other things, requires money transmitters to develop and
+implement risk-based anti-money laundering programs, to report large cash transactions and suspicious activity, and, in some cases, to
+collect and maintain information about customers who use their services and maintain other transaction records. Regulators in the United
+States and globally continue to increase their scrutiny of compliance with these obligations, which may require us to further revise or
+expand our compliance program including the procedures we use to verify the identity of our customers and to monitor transactions on our
+system, including payments to persons outside of the United States. Regulators regularly re-examine the transaction volume thresholds
+at which we must obtain and keep applicable records or verify identities of customers, and any change in such thresholds could result
+in greater costs for compliance. We could be subject to potentially significant fines, penalties, inquiries, audits, investigations, enforcement
+actions, and criminal and civil liability if regulators or third-party auditors identify gaps in our anti-money laundering program and
+such gaps are not sufficiently remediated, or if our anti-money laundering program is found to violate the BSA by a regulator.
+
+Despite our efforts to comply
+with the applicable laws, rules, and regulations, there can be no guarantee that these measures will be viewed as compliant. If we were
+to be found to have violated sanctions, or become involved in government investigations, that could result in negative consequences for
+us, including costs related to government investigations, financial penalties, and harm to our reputation. The impact on us related to
+these matters could be substantial. Although we have implemented controls and screening tools designed to prevent similar activity, there
+is no guarantee that we will not inadvertently provide our products and services to individuals, entities, or governments prohibited by
+U.S. sanctions or those of another jurisdiction to whose laws and regulations we may be subject.
+
+Regulators worldwide frequently
+study each other’s approaches to the regulation of any novel or developing industry, including those using blockchain-enabled technologies.
+Consequently, developments in any jurisdiction may influence other jurisdictions. New developments in one jurisdiction may be extended
+to additional services and other jurisdictions. The European Commission, for example, has proposed revisions to the Anti-Money Laundering
+Directives, which could make compliance more costly and operationally difficult to manage. As a result, the risks created by any new law
+or regulation in one jurisdiction are magnified by the potential that they may be replicated, affecting our business in another place
+or involving another service. Conversely, if regulations diverge worldwide, we may face difficulty adjusting our products, services, and
+other aspects of our business with the same effect. These risks are heightened as we face increased competitive pressure from other similarly
+situated businesses that engage in regulatory arbitrage to avoid the compliance costs associated with regulatory changes.
+
+We may operate our business
+in foreign countries where companies often engage in business practices that are prohibited by regulations applicable to us. We are subject
+to anti-corruption laws and regulations, including the FCPA and other laws that prohibit the making or offering of improper payments to
+foreign government officials and political figures. We have implemented policies, procedures, systems, and controls designed to identify
+and address potentially impermissible transactions under such laws and regulations; however, there can be no assurance that all of our
+employees, consultants and agents, including those that may be based in or from countries where practices that violate U.S. or other laws
+may be customary, will not take actions in violation of our policies, for which we may be ultimately responsible.
+
+Our consolidated balance sheets may not
+contain sufficient amounts or types of regulatory capital to meet the changing requirements of our various regulators worldwide, which
+could adversely affect our business, operating results, and financial condition.
+
+Effective management of our
+capital and liquidity is critical to our ability to operate our businesses, to grow organically and to pursue our strategy. As a regulated
+and licensed entity in various jurisdictions, we may be required to possess sufficient financial soundness and strength to adequately
+support our regulated affiliate entities. The maintenance of adequate capital and liquidity is also necessary for our financial flexibility
+in the face of turbulence and uncertainty in the global economy. We may from time to time incur indebtedness and other obligations which
+could make it more difficult to meet applicable regulatory requirements.
+
+34
+
+In addition, although we
+are not a bank holding company for purposes of United States law or the law of any other jurisdiction, as a global provider of financial
+services and in light of the changing regulatory environment in various jurisdictions, we could become subject to new capital requirements
+introduced or imposed by U.S. federal, state or international regulators. The changes to applicable current or future capital and liquidity
+requirements may require us to raise additional regulatory capital or hold additional liquidity buffers, for example because of different
+interpretations of or methods for calculating risk exposure amounts or liquidity outflows or inflows, or because we do not comply with
+ratios and levels, or instruments and collateral requirements that currently qualify as capital or capital risk mitigating techniques
+no longer do so in the future because of changes to the requirements or interpretations thereof. Any change or increase in these regulatory
+requirements could have an adverse effect on our business, operating results, and financial condition.
+
+If we are unable to raise
+the requisite regulatory capital, we may be required to reduce the amount of our risk exposure amount or business levels, restrict certain
+activities or engage in the disposition of core and other non-core businesses, which may not occur on a timely basis or at prices which
+would otherwise be attractive to us, and such inability to raise sufficient regulatory capital could have an adverse effect on the market’s
+trust in respect of the long-term viability of our products and services, which could, for example, result in customers transferring to
+use our competitors’ platforms for financial transfer and payment infrastructure. As a result of stricter liquidity requirements
+or higher liquidity buffers, we may be required to optimize our funding composition which may result in higher funding costs for us, and
+in having to maintain buffers of liquid assets which may result in lower returns than less liquid assets. Furthermore, if we are unable
+to adequately manage our liquidity position, this may prevent us from meeting our short-term financial obligations. It is possible we
+may experience errors in currency handling, accounting, and regulatory reporting that leads us to be out of compliance with those requirements.
+
+The above changes and any
+other changes that limit our ability to manage effectively our balance sheet, liquidity position and capital resources going forward,
+or to access funding sources, could have a material adverse impact on our financial position, regulatory capital position and liquidity
+provision.
+
+We obtain and process a large amount of
+sensitive customer data. Any real or perceived improper use of, disclosure of, or access to such data could harm our reputation, as well
+as have an adverse effect on our business.
+
+Our operations involve the
+storage and/or transmission of sensitive information, including highly personal data of our customers. Consequently, we are subject to
+complex and evolving UK, European, and other jurisdictions’ laws, rules, regulations, orders and directives (referred to as “privacy
+laws”) relating to the collection, use, retention, security, processing and transfer (referred to as “process”) of personally
+identifiable information (referred to as “personal data”) in the countries where we operate. Much of the personal data that
+we process, especially financial information, is regulated by multiple privacy laws and, in some cases, the privacy laws of multiple jurisdictions.
+In many cases, these laws apply not only to third-party transactions, but also to transfers of information between or among us and our
+subsidiaries. Any failure, or perceived failure, by us to comply with our privacy policies or with any applicable privacy laws in one
+or more jurisdictions could result in proceedings or actions against us by governmental entities or others, including class action privacy
+litigation in certain jurisdictions, significant fines, penalties, judgments and reputational damages to us, requiring us to change our
+business practices, increasing the costs and complexity of compliance, any of which could materially and adversely affect its business,
+financial condition, results of operations and prospects.
+
+Data protection, privacy
+and information security have become the subject of increasing public, media and legislative concern. If our customers were to reduce
+their use of our products and services as a result of these concerns, our business could be materially harmed. In addition, we are also
+subject to the possibility of security breaches, which themselves may result in a violation of these privacy laws. Any failure of us or
+our partners or others who use our services to adequately protect sensitive data could have a material and adverse effect on its reputation,
+business, financial condition, results of operations and prospects.
+
+We
+are subject to complex and evolving laws, regulations, and industry requirements related to data privacy, data protection and information
+security across different markets where we conduct our business, including in the European Economic Area,
+such laws, regulations, and industry requirements are constantly evolving and changing. Our actual or perceived failure to comply with
+such laws, regulations, and industry requirements, or our privacy policies/notices could harm our business by impairing customer trust
+and could subject us to fines and reputational harm.
+
+Various local, state, federal,
+and international laws, directives, and regulations apply to our collection, use, retention, protection, disclosure, transfer, and any
+other processing of personal data. There is uncertainty and inconsistency in how these data protection and privacy laws and regulations
+are interpreted and applied, and they continue to evolve in ways that could adversely impact our business. These laws have a substantial
+impact on our operations directly as a data controller/business and as a data processor/service provider and handler for various offshore
+entities.
+
+In the United States, state
+and federal lawmakers and regulatory authorities have increased their attention on the collection and use of consumer data. While our
+current product offering does not target retail consumers, some of our prior products have been offered to retail consumers. In the United
+States, non-sensitive consumer data generally may be used under current rules and regulations, subject to certain restrictions, so long
+as the consumer does not affirmatively “opt out” of the collection or use of such data. If an “opt-in” model or
+additional required “opt-outs” were to be adopted in the United States, less data could be available, and the cost of data
+would be higher.
+
+35
+
+California has enacted the
+California Consumer Privacy Act, or the CCPA, along with related regulations, in 2020 and the California Privacy Rights Act, or the CPRA,
+which has been passed and became effective on January 1, 2023. The CCPA gives California residents new rights to access and request deletion
+of their personal data, opt out of the sale of personal data, and receive detailed information about how their personal data is processed.
+The CCPA provides for civil penalties for violations, as well as a private right of action for data breaches that involving the loss of
+personal data. This private right of action may increase the likelihood of, and risks associated with, data breach litigation. The CPRA
+significantly modifies the CCPA, including by expanding consumers’ rights with respect to certain personal data and creating a new
+state agency to oversee implementation and enforcement efforts. The CCPA and CPRA may increase our compliance costs and potential liability,
+particularly in the event of a data breach, and could have a material adverse effect on our business, including how we use personal data,
+our financial condition, and our operating results.
+
+Additionally, the CCPA has
+prompted a number of proposals for new federal and state-level privacy legislation, such as in Nevada, Virginia, Colorado, and others.
+Virginia’s legislation, the Consumer Data Protection Act, or CDPA, passed and becomes effective January 1, 2023. On June 8, 2021,
+the state of Colorado passed its bill, which is pending signature by the state governor. As of June 11, 2021, five states have proposed
+legislation under consideration in the local legislatures. As each new state law is passed, it could add increasing complexity to and
+significantly expand the scope of our compliance efforts, impact our business strategies, increase our potential liability, increase our
+compliance costs, and adversely affect our business.
+
+As a result of our presence
+in Europe and our service offering in the European Union, we are subject to the European General Data Protection Regulation, which imposes
+stringent EU data protection requirements, and could increase the risk of non-compliance and the costs of providing our products and services
+in a compliant manner. A breach of the GDPR could result in regulatory investigations, reputational damage, fines and sanctions, orders
+to cease or change our processing of our data, enforcement notices, or assessment notices (for a compulsory audit). We may also face civil
+claims including representative actions and other class action type litigation (where individuals have suffered harm), potentially amounting
+to significant compensation or damages liabilities, as well as associated costs, diversion of internal resources, and reputational harm.
+
+Additionally, the UK Data
+Protection Act contains provisions, including its own derogations, for how GDPR is applied in the UK. We have to continue to comply with
+the GDPR and also the Data Protection Act, with each regime having the ability to fine up to the greater of €20 million (£17
+million) or 4% of annual global turnover. The relationship between the UK and the EU remains uncertain, for example how data transfers
+between the UK and the EU and other jurisdictions will be treated and the role of the UK’s supervisory authority. On June 28, 2021,
+the European Commission issued the UK with an “adequacy decision” to facilitate the continued free flow of personal data from
+EU member states to the UK. However, this adequacy decision has a limited duration of four years in case there is a future divergence
+between EU and UK data protection laws. In the event that the UK maintains an equivalent standard.at the end of the four year period,
+it is open to the European Commission to renew its finding. In the event that the adequacy decisions is not renewed after this time, the
+adjustments required to facilitate data transfers from EU member states to the UK will lead to additional costs as we try to ensure compliance
+with new privacy legislation and will increase our overall risk exposure.
+
+In addition, the GDPR imposes
+strict rules on the transfer of personal data out of the EU to a “third country”, including the United Kingdom or the United
+States. These obligations may be interpreted and applied in a manner that is inconsistent from one jurisdiction to another and may conflict
+with other requirements or our practices. On July 16, 2020, the Court of Justice of the European Union invalidated the European Union-United
+States “Privacy Shield” (under which personal data could be transferred from the EU to U.S. entities that had self-certified
+under the Privacy Shield scheme) on the grounds that the Privacy Shield failed to offer adequate protections to EU personal data transferred
+to the United States. In addition, while the ECJ upheld the adequacy of the standard contractual clauses (a standard form of contract
+approved by the European Commission as an adequate personal data transfer mechanism, and potential alternative to the Privacy Shield),
+it made clear that reliance on them alone may not necessarily be sufficient in all circumstances.
+
+Use of the standard contractual
+clauses must now be assessed on a case by case basis taking into account the legal regime applicable in the destination country, in particular
+applicable surveillance laws and rights of individuals. The use of standard contractual clauses for the transfer of personal data specifically
+to the United States remains under review by a number of European data protection supervisory authorities, along with those of some other
+E.U. member states.
+
+German and Irish supervisory
+authorities have indicated, and enforced in recent rulings, that the standard contractual clauses alone provide inadequate protection
+for E.U.-U.S. data transfers. As supervisory authorities continue to issue further guidance on personal data, we could suffer additional
+costs, complaints, or regulatory investigations or fines, and if we are otherwise unable to transfer personal data between and among countries
+and regions in which we operate, it could affect the manner in which we provide our services, the geographical location or segregation
+of our relevant systems and operations, and could adversely affect our financial results.
+
+We are also subject to evolving
+EU privacy laws on cookies and e-marketing. In the European Union, regulators are increasingly focusing on compliance with requirements
+in the online behavioral advertising ecosystem, and an EU regulation known as the ePrivacy Regulation will significantly increase fines
+for non-compliance once in effect. In the European Union informed consent, including a prohibition on pre-checked consents and a requirement
+to ensure separate consents for each cookie, is required for the placement of a cookie or similar technologies on a user’s device
+and for direct electronic marketing. As regulators start to enforce the strict approach in recent guidance, this could lead to substantial
+costs, require significant systems changes, limit the effectiveness of our marketing activities, divert the attention of our technology
+personnel, negatively impact our efforts to understand customers, adversely affect our margins, increase costs, and subject us to additional
+liabilities.
+
+36
+
+As these and other laws and
+regulations may continue to evolve and be enacted, or new interpretations of existing laws and regulations apply, it may require us to
+modify our data-processing practices, agreements and policies and to incur substantial costs in order to comply with this evolving regulatory
+landscape. Restrictions on the collection, use, sharing or disclosure of personal information or additional requirements and liability
+for security and data integrity could require us to materially modify our solutions and features, could limit our ability to develop new
+services and features and could subject us to increased compliance obligations and regulatory scrutiny. We use a variety of technical
+and organizational security measures and other measures to protect the data we process, in particular personal data pertaining to our
+customers, employees and business partners. Despite measures we put in place, we may be unable to anticipate or prevent unauthorized access
+to such personal data.
+
+There is a risk that as we
+expand, we may assume liabilities for breaches experienced by the companies we acquire. Despite our efforts to comply with applicable
+laws, regulations and other obligations relating to privacy, data protection, and information security, it is possible that our practices
+or technology could fail, or be alleged to fail to meet applicable requirements. For instance, the overall regulatory framework governing
+the application of privacy laws to blockchain technology is still highly undeveloped and likely to evolve. Despite our efforts to choose
+vendors that meet applicable laws, regulations and other obligations relating to privacy, data protection, and information security and
+maintain robust security controls, it is possible that a vendor could fail to comply or experience a data breach impacting our data and
+our business. Our failure, or the failure by our third-party providers or partners, to comply with applicable laws or regulations and
+to prevent unauthorized access to, or use or release of personal data, or the perception that any of the foregoing types of failure has
+occurred, could damage our reputation or result in fines or proceedings by governmental agencies and private claims and litigation, any
+of which could adversely affect our business, operating results, and financial condition.
+
+We are and may continue to be subject to
+litigation, including individual and class action lawsuits, as well as regulatory audits, disputes, inquiries, investigations and enforcement
+actions by regulators and governmental authorities.
+
+We have been and may from
+time to time become subject to material claims, arbitrations, individual and class action lawsuits, government and regulatory investigations,
+inquiries, actions or requests and other proceedings alleging violations of laws, rules, and regulations, both foreign and domestic, involving
+competition and antitrust law, intellectual property, privacy, data protection, information security, anti-money laundering, counter terrorist
+financing, sanctions, anti-corruption, accessibility claims, securities, tax, labor and employment, payment network rules, commercial
+disputes, services, and other matters.
+
+The laws, rules and regulations
+affecting our business, including those pertaining to blockchain technologies, payment processing and financial transaction services,
+and other financial services, are subject to ongoing interpretation by the courts and governmental and supervisory authorities, and the
+resulting uncertainty in the scope and application of these laws, rules and regulations increases the risk that we will be subject to
+private claims, governmental and regulatory actions alleging violations of those laws, rules, and regulations.
+
+The scope, determination,
+and impact of claims, lawsuits, government and regulatory investigations, enforcement actions, disputes, and proceedings to which we are
+subject cannot be predicted with certainty, and may result in:
+
+●
+substantial payments to satisfy judgments, fines, or penalties;
+
+●
+substantial outside counsel legal fees and costs;
+
+●
+additional compliance and licensure requirements;
+
+●
+loss or non-renewal of existing licenses or authorizations, or prohibition from or delays in obtaining additional licenses or authorizations,
+required for our business;
+
+●
+loss of productivity and high demands on employee time;
+
+●
+civil or criminal sanctions or consent decrees;
+
+●
+termination of certain employees, including members of our executive team;
+
+●
+barring of certain employees from participating in our business in whole or in part;
+
+●
+orders that restrict our business or prevent us from offering certain products or services;
+
+●
+changes to our business model and practices;
+
+●
+delays to planned transactions, product launches or improvements; and
+
+●
+damage to our brand and reputation.
+
+Any such matters can have an adverse impact, which
+may be material, on our business, operating results, or financial condition because of legal costs, diversion of management resources,
+reputational damage, and other factors.
+
+37
+
+Risks Related to Nukkleus’s Intellectual Property
+
+In the future we may be sued by third parties for alleged infringement
+of their proprietary rights.
+
+In recent years, there has
+been considerable patent, copyright, trademark, domain name, trade secret and other intellectual property development activity, as well
+as litigation, based on allegations of infringement or other violations of intellectual property, including by large financial institutions.
+Furthermore, individuals and groups can purchase patents and other intellectual property assets for the purpose of making claims of infringement
+to extract settlements from companies like ours. Our use of third-party intellectual property rights also may be subject to claims of
+infringement or misappropriation.
+
+We cannot guarantee that
+our internally developed or acquired technologies and content do not or will not infringe the intellectual property rights of others.
+From time to time, our competitors or other third parties may claim that we are infringing upon or misappropriating their intellectual
+property rights, and we may be found to be infringing upon such rights. Any claims or litigation could cause us to incur significant expenses
+and, if successfully asserted against us, could require that we pay substantial damages or ongoing royalty payments, prevent us from offering
+our products or services or using certain technologies, force us to implement expensive work-arounds, or impose other unfavorable terms.
+Our exposure to damages resulting from infringement claims could increase and this could further exhaust our financial and management
+resources. Further, during the course of any litigation, we may make announcements regarding the results of hearings and motions, and
+other interim developments. If securities analysts and investors regard these announcements as negative, the market price of Nukkleus
+Common Stock may decline. Even if intellectual property claims do not result in litigation or are resolved in our favor, these claims,
+and the time and resources necessary to resolve them, could divert the resources of our management and require significant expenditures.
+Any of the foregoing could prevent us from competing effectively and could have an adverse effect on our business, operating results,
+and financial condition.
+
+Our and our ecosystem partners’
+products and services, including the blockchain technologies on which our Platforms are built, contain third-party open source software
+components, and failure to comply with the terms of the underlying open source software licenses could harm our business.
+
+Our products and services
+contains software modules licensed to us by third-party authors under “open source” licenses. Also, the blockchain technologies
+on which our Platforms are built rely on open source licenses to operate. We also make certain of our own software available to customers
+for free under various open source licenses. Use and distribution of open source software may entail greater risks than use of third-party
+commercial software, as open source licensors generally do not provide support, warranties, indemnification or other contractual protections
+regarding infringement claims or the quality of the code. In addition, the public availability of such software may make it easier for
+others to compromise our products and services.
+
+Some open-source licenses
+contain requirements that we make available source code for modifications or derivative works we create based upon the type of open source
+software we use, or grant other licenses to our intellectual property. If we combine our proprietary software with open source software
+in a certain manner, we could, under certain open source licenses, be required to release the source code of our proprietary software
+to the public. This would allow our competitors to create similar offerings with lower development effort and time and ultimately could
+result in a loss of our competitive advantages. Alternatively, to avoid the public release of the affected portions of our source code,
+we could be required to expend substantial time and resources to re-engineer some or all of our software.
+
+38
+
+Although we monitor our use
+of open-source software to avoid subjecting our products and services to conditions we do not intend, we have not recently conducted an
+extensive audit of our use of open source software and, as a result, we cannot assure you that our processes for controlling our use of
+open source software in our products and services are, or will be, effective. If we are held to have breached or failed to fully comply
+with all the terms and conditions of an open source software license, we could face litigation or infringement or other liability, or
+be required to seek costly licenses from third parties to continue providing our offerings on terms that are not economically feasible,
+to re-engineer our products or services, to discontinue or delay the provision of our offerings if re-engineering could not be accomplished
+on a timely basis or to make generally available, in source code form, our proprietary code, any of which could adversely affect our business,
+operating results, and financial condition.
+
+Moreover, the terms of many
+open-source licenses have not been interpreted by U.S. or foreign courts. As a result, there is a risk that these licenses could be construed
+in a way that could impose unanticipated conditions or restrictions on our ability to provide or distribute our products and services.
+From time to time, there have been claims challenging the ownership of open source software against companies that incorporate open source
+software into their solutions. As a result, we could be subject to lawsuits by parties claiming ownership of what we believe to be open-source
+software.
+
+General Risk Factors
+
+Adverse economic conditions may adversely affect our business.
+
+Our performance is subject
+to general economic conditions, and their impact on the foreign exchange transfer and payments markets, as well as our customers. The
+United States and other key European and other international economies have experienced cyclical downturns from time to time in which
+economic activity declined resulting in lower consumption rates, restricted credit, reduced profitability, weaknesses in financial markets,
+bankruptcies, and overall uncertainty with respect to the economy. The impact of general economic conditions on our business is highly
+uncertain and dependent on a variety of factors, including market activity, global trends in the blockchain economy, central bank monetary
+policies, and other events beyond our control. Geopolitical developments, such as trade wars and foreign exchange limitations can also
+increase the severity and levels of unpredictability globally and increase the volatility of global financial markets. To the extent that
+conditions in the general economic and digital asset markets materially deteriorate, our ability to attract and retain customers may suffer.
+
+We may be adversely affected by natural
+disasters, pandemics, and other catastrophic events, and by man-made problems such as war or terrorism, that could disrupt our business
+operations, and our business continuity and disaster recovery plans may not adequately protect us from a serious disaster.
+
+Natural disasters or other
+catastrophic events may also cause damage or disruption to our operations, international commerce, and the global economy, and could have
+an adverse effect on our business, operating results, and financial condition. Our business operations are subject to interruption by
+natural disasters, fire, power shortages, and other events beyond our control.
+
+In addition, our global operations expose us to risks associated with
+public health crises, such as pandemics and epidemics, which could harm our business and cause our operating results to suffer. For example,
+the effects of the COVID-19 pandemic resulted in difficulties and changes to our customer support, and created operational
+challenges, which have in the past, adversely impacted our business and operating results.
+
+Further, war, acts of terrorism,
+labor activism and other geopolitical unrest could cause disruptions in our business or the businesses of our partners or the economy
+as a whole. In the event of a natural disaster, including a major earthquake, blizzard, or hurricane, or a catastrophic event such as
+a fire, power loss, or telecommunications failure, we may be unable to continue our operations and may endure system interruptions, reputational
+harm, delays in development of our products and services, lengthy interruptions in service, breaches of data security, and loss of critical
+data, all of which could have an adverse effect on our future operating results.
+
+39
+
+Acquisitions, joint ventures or other strategic
+transactions create certain risks and may adversely affect our business, financial condition or results of operations.
+
+Acquisitions, partnerships
+and joint ventures are part of our growth strategy. We evaluate and expect in the future to evaluate potential strategic acquisitions
+of, and partnerships or joint ventures with, complementary businesses, services or technologies. We may not be successful in identifying
+acquisition, partnership and joint venture targets. In addition, we may not be able to successfully finance or integrate any businesses,
+services or technologies that we acquire or with which we form a partnership or joint venture.
+
+We may not be able to identify
+suitable acquisition candidates or complete acquisitions in the future, which could adversely affect our future growth; or businesses
+that we acquire may not perform as well as expected or may be more difficult or expensive to integrate and manage than expected, which
+could adversely affect our business and results of operations. In addition, the process of integrating these acquisitions may disrupt
+our business and divert our resources.
+
+In addition, acquisitions outside our current operating jurisdictions
+often involve additional or increased risks including, for example:
+
+●
+managing geographically separated organizations, systems and facilities;
+
+●
+integrating personnel with diverse business backgrounds and organizational cultures;
+
+●
+complying with foreign regulatory requirements;
+
+●
+fluctuations in exchange rates;
+
+●
+enforcement and protection of intellectual property in some foreign countries;
+
+●
+difficulty entering new foreign markets due to, among other things, customer acceptance and business knowledge of these new markets;
+and
+
+●
+general economic and political conditions.
+
+These risks may arise for
+a number of reasons: we may not be able to find suitable businesses to acquire at affordable valuations or on other acceptable terms;
+we may face competition for acquisitions from other potential acquirers; we may need to borrow money or sell equity or debt securities
+to the public to finance acquisitions and the terms of these financings may be adverse to us; changes in accounting, tax, securities or
+other regulations could increase the difficulty or cost for us to complete acquisitions; we may incur unforeseen obligations or liabilities
+in connection with acquisitions; we may need to devote unanticipated financial and management resources to an acquired business; we may
+not realize expected operating efficiencies or product integration benefits from an acquisition; we could enter markets where we have
+minimal prior experience; and we may experience decreases in earnings as a result of non-cash impairment charges.
+
+We cannot ensure that any
+acquisition, partnership or joint venture we make will not have a material adverse effect on our business, financial condition and results
+of operations.
+
+Delaware law and our Certificate of Incorporation
+and Bylaws will contain certain provisions, including anti-takeover provisions that limit the ability of stockholders to take certain
+actions and could delay or discourage takeover attempts that stockholders may consider favorable.
+
+Nukkleus’s Certificate
+of Incorporation and bylaws contains provisions that could have the effect of rendering more difficult, delaying, or preventing an acquisition
+deemed undesirable by the Nukkleus Board and therefore depress the trading price of Nukkleus Common Stock. In addition, as a Delaware
+corporation, the Company will generally be subject to provisions of Delaware law, including the DGCL. These provisions could also make
+it difficult for stockholders to take certain actions, including electing directors who are not nominated by the current members of the
+Nukkleus Board or taking other corporate actions, including effecting changes in management.
+
+Such provisions, alone or
+together, could delay or prevent hostile takeovers and changes in control or changes in the Nukkleus Board or management.
+
+Any provision of Nukkleus’s
+Certificate of Incorporation or bylaws or Delaware law that has the effect of delaying or preventing a change in control could limit the
+opportunity for stockholders to receive a premium for their shares of the Company’s capital stock and could also affect the price
+that some investors are willing to pay for Nukkleus Common Stock.
+
+40
+
+Item 1B. Unresolved Staff Comments.
+
+We are a smaller reporting company as defined by Rule 12b-2
+of the Exchange Act and are not required to provide the information under this item.
+
+Item 1C. Cybersecurity.
+
+At this time, the Company does not have formal processes in place for
+assessing, identifying, and managing material risks from cybersecurity threats. Our approach to cybersecurity is currently informal and
+primarily reactive, involving basic security measures such as:
+
+●
+Basic Security Software: We use standard antivirus and anti-malware software for protection against common threats.
+
+●
+Password Policies: Simple password policies are in place to protect access to our systems.
+
+However, we recognize the importance of cybersecurity and are in the
+process of developing more robust strategies. We plan to:
+
+●
+Develop a Cybersecurity Framework: Establish a formal risk assessment process to identify vulnerabilities.
+
+●
+Engage Cybersecurity Expertise: Consider hiring or consulting with cybersecurity professionals to guide our strategy.
+
+●
+Implement Training: Begin employee training on cybersecurity awareness to prevent common threats like phishing.
+
+We acknowledge that the absence of comprehensive cybersecurity processes
+could potentially expose the company to risks, which might materially affect our operations, financial condition, or strategic decisions
+in the future. We are committed to improving our cybersecurity posture as our resources allow.
+
+Governance
+
+●
+Board Oversight: Currently, our sole director does not have a formal structure for overseeing cybersecurity risks. We plan to review
+this oversight in the near future to ensure appropriate governance is established.
+
+●
+Management’s Role: Day-to-day management of cybersecurity is handled by our IT staff, who do not have specialized training in cybersecurity.
+We are considering enhancing this role or outsourcing to professionals with specific cybersecurity expertise.
+
+●
+Expertise: Our current management and Board do not have in-depth cybersecurity expertise. We are considering educational opportunities
+or consulting to address this gap.
+
+Material Effect from Cybersecurity Threats
+
+To date, no known cybersecurity incidents have materially affected
+our business strategy, results of operations, or financial condition. However, due to our limited cybersecurity measures, we acknowledge
+that our company could be at higher risk of material impact from cybersecurity threats. We are actively working to mitigate these risks.

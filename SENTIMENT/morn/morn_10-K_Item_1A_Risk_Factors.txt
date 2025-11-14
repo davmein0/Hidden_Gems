@@ -1,0 +1,17 @@
+Item 1A. Risk Factors — Risks Related to Our Information Technology and Security” in this Report.
+Governance
+Our experienced InfoSec Team is headed by our 
+CISO
+, who reports to a member of our executive leadership team. Our CISO holds a Ph.D. in Computer Science with a focus on Cybersecurity and Privacy and has more than 15 years of information security experience. The 
+InfoSec Team
+ is responsible for assessing and managing cybersecurity risks and threats. The InfoSec Team manages our Information Security Program (InfoSec Program), which has oversight of IT risk governance, IT third-party risk management, software and product security, security operations and incident management, IT compliance, technical disaster recovery, and establishing enterprise-wide information security policies and procedures.
+49
+Table of Contents
+
+Our CISO also meets regularly with senior leaders from the IT, Legal, Audit, and Compliance departments to discuss environmental, regulatory, and technological changes and associated risks to the security and confidentiality of our information.
+Our Board of Directors has delegated oversight of cybersecurity risks to the Audit Committee. The Audit Committee reviews and discusses with management risks relating to our cybersecurity and data privacy practices and has oversight of our cybersecurity risks. Our Chief Information Officer (CIO) and CISO provide an update to the Audit Committee at each of its regular meetings, which covers recent trends, identifies emergent risks to our technology infrastructure, DR plan statistics, employee training metrics, and major updates on security assessments and threat landscape as needed. The Audit Committee is also provided a summary of events and reporting on how any such events were resolved. 
+Cybersecurity Event Management
+We have instituted a specific event management process for the monitoring, prevention, detection, identification, mitigation, and remediation of cybersecurity incidents. Cybersecurity incidents are responded to and managed by our 24-hour Security Operations Center (SOC), and technical outages/accidental occurrences are reviewed and managed by operational teams at the relevant Morningstar product and by the SOC. Upon resolution of a cybersecurity incident, we conduct a retrospective analysis to inform our security and operational efforts going forward. 
+We engage third parties
+, such as incident response service providers, as appropriate, based on the severity of the cybersecurity event and/or the work required to remediate. Upon identification of a cybersecurity event, we assign a significance rating to the event. All cybersecurity events that meet or exceed designated criteria are escalated to the CISO or CIO. Cybersecurity events which may be significant are further escalated to the Cyber Incident Disclosure Committee (Cyber Committee).
+The Cyber Committee consists of the CIO, the CISO, the chief privacy officer, the chief legal officer, the head of corporate communications, representatives of the affected business unit and/or their respective delegates.

@@ -1,0 +1,6625 @@
+ITEM 3. 
+LEGAL
+ PROCEEDINGS
+
+Patent Related Challenges and Oppositions
+
+Each major jurisdiction in the world that issues patents provides both third parties and applicants an opportunity to seek a further review of an issued patent. The process for requesting and considering such reviews is specific to the jurisdiction that issued the patent in question, and generally does not provide for claims of monetary damages or a review of specific claims of infringement. The conclusions made by the reviewing administrative bodies tend to be appealable and generally are limited in scope and applicability to the specific claims and jurisdiction in question.
+
+We believe that opposition proceedings are frequently commenced in the ordinary course of business by third parties who may believe that one or more claims in a patent do not comply with the technical or legal requirements of the specific jurisdiction in which the patent was issued. We view these proceedings as reflective of its goal of obtaining the broadest legally permissible patent coverage permitted in each jurisdiction. Once a proceeding is initiated, as a general matter, the issued patent continues to be presumed valid until the jurisdiction’s applicable administrative body issues a final non-appealable decision. Depending on the jurisdiction, the outcome of these proceedings could include affirmation, denial or modification of some or all of the originally issued claims. We believe that as OLED technology becomes more established and its patent portfolio increases in size, so will the number of these proceedings.
+
+ITEM 4. 
+MINE SAF
+ETY DISCLOSURES
+
+Not applicable.
+
+29
+
+PART
+ II
+
+ITEM 5. 
+MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOC
+KHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+
+Our Common Stock
+
+Our common stock is quoted on the Nasdaq Global Select Market website under the symbol “OLED.” As of February 20, 2025, there were approximately 239 holders of record of our common stock.
+
+During 2022, 2023 and 2024, we declared and paid cash dividends on our common stock. While we intend to pay regular quarterly dividends in the future, payment of future cash dividends will be at the discretion of our Board of Directors and will depend upon our results of operations, earnings, capital requirements, contractual restrictions and other factors deemed relevant by our Board of Directors. As such, we may modify, suspend or cancel our cash dividend policy in any manner and at any time.
+
+30
+
+Performance Graph
+
+The performance graph below compares the change in the cumulative shareholder return of our common stock from December 31, 2019 to December 31, 2024, with the percentage change in the cumulative total return over the same period on (i) the Russell 2000 Index, and (ii) the S&P 500 Electronics Components Index. This performance graph assumes an initial investment of $100 on December 31, 2019 in each of our common stock, the Russell 2000 Index and the S&P 500 Electronics Components Index.
+
+Cumulative Total Return
+
+12/19
+
+12/20
+
+12/21
+
+12/22
+
+12/23
+
+12/24
+
+Universal Display Corp.
+
+$
+
+100.00
+
+$
+
+111.93
+
+$
+
+80.71
+
+$
+
+53.38
+
+$
+
+95.35
+
+$
+
+73.54
+
+Russell 2000
+
+100.00
+
+119.96
+
+137.74
+
+109.59
+
+128.14
+
+142.93
+
+S&P 500 Electronic Components
+
+100.00
+
+124.37
+
+152.97
+
+134.97
+
+162.17
+
+237.86
+
+Securities Authorized for Issuance under Equity Compensation Plans
+
+The information required by this item with respect to our equity compensation plans will be set forth in our definitive Proxy Statement for the 2025 Annual Meeting of Shareholders, and herein by reference.
+
+IT
+EM 6
+.
+
+[RESERVED]
+
+None.
+
+31
+
+ITEM 7. 
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+ FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with the section entitled “Selected Financial Data” in this report and our Consolidated Financial Statements and related notes to this report. This discussion and analysis contains forward-looking statements based on our current expectations, assumptions, estimates and projections. These forward-looking statements involve risks and uncertainties. Our actual results could differ materially from those indicated in these forward-looking statements as a result of certain factors, as more fully discussed in Item 1A of this report, entitled “Risk Factors.”
+
+OVERVIEW
+
+We are a leader in the research, development and commercialization of organic light emitting diode (OLED) technologies and materials for use in display applications, such as mobile phones, televisions, monitors, wearables, tablets, portable media devices, notebook computers, personal computers and automotive applications, as well as specialty and general lighting products. Since 1994, we have been engaged and expect to continue to be primarily engaged, in funding and performing research and development activities relating to OLED technologies and materials, and commercializing these technologies and materials. We derive our revenue primarily from the following:
+
+•
+sales of OLED materials for evaluation, development and commercial manufacturing;
+
+•
+intellectual property and technology licensing;
+
+•
+technology development and support, including third-party collaboration efforts and providing support to third parties for commercialization of their OLED products; and
+
+•
+contract research services in the areas of chemical materials synthesis research, development and commercialization for non-OLED applications.
+
+Material sales relate to our sale of OLED materials for incorporation into our customers’ commercial OLED products or for their OLED development and evaluation activities. Material sales are generally recognized at the time title passes, which is typically at the time of shipment or at the time of delivery, depending upon the contractual agreement between the parties.
+
+We receive license and royalty payments under certain commercial, development and technology evaluation agreements, some of which are non-refundable advances. These payments may include royalty and license fees made pursuant to license agreements and also license fees included as part of certain commercial supply agreements. These payments are included in the estimate of total contract consideration by customer and recognized as revenue over the contract term based on material units sold at the estimated per unit fee over the life of the contract.
+
+On December 2, 2022, we entered into a commercial patent license agreement with Samsung Display Co., Ltd. (SDC), replacing a previous license agreement that had been in place since 2018. This agreement, which covers the manufacture and sale of specified OLED display materials, was effective as of January 1, 2023 and lasts through the end of 2027 with an additional two-year extension option for SDC. Under this agreement, we are being paid a license fee, which includes quarterly and annual payments over the agreement term. The agreement conveys to SDC the non-exclusive right to use certain of our intellectual property assets for a limited period of time that is less than the estimated life of the assets.
+
+At the same time that we entered into the current commercial license agreement with SDC, we also entered into a material purchase agreement with SDC, which lasts for the same term as the license agreement and is subject to the same extension option. This new material purchase agreement replaced a previous purchase agreement that had been in place since 2018. Under the material purchase agreement, SDC agrees to purchase from us a minimum amount of red and green phosphorescent emitter materials for use in the manufacture of licensed products. This minimum commitment is subject to SDC’s requirements for phosphorescent emitter materials and our ability to meet these requirements over the term of the supplemental agreement.
+
+In 2015, we entered into an OLED patent license agreement and an OLED commercial supply agreement with LG Display Co., Ltd. (LG Display). The terms of these agreements have been extended through the end of 2025. The patent license agreement provides LG Display a non-exclusive, royalty bearing portfolio license to make and sell OLED displays under our patent portfolio. The patent license calls for license fees, prepaid royalties and running royalties on licensed products. The OLED commercial supply agreement provides for the sales of materials for use by LG Display, which may include phosphorescent emitters and host materials. The agreements provide for certain other minimum obligations relating to the volume of material sales anticipated over the life of the agreements as well as minimum royalty revenue.
+
+32
+
+In 2023, we entered into new long-term, multi-year agreements with BOE Technology Group Co., Ltd. (BOE). Under these agreements, we have granted BOE non-exclusive license rights under various patents owned or controlled by us to manufacture and sell OLED display products. We also supply phosphorescent OLED materials to BOE for use in its licensed products.
+
+In 2019, we entered into an evaluation and commercial supply relationship with Wuhan China Star Optoelectronics Semiconductor Display Technology Co., Ltd. (CSOT). In 2020, we entered into long-term, multi-year agreements with CSOT. Under these agreements, we have granted CSOT non-exclusive license rights under various patents owned or controlled by us to manufacture and sell OLED display products. We also supply phosphorescent OLED materials to CSOT for use in its licensed products.
+
+In 2024, we entered into new long-term, multi-year agreements with Visionox Technology, Inc. (Visionox). Under these agreements, we have granted Visionox non-exclusive license rights under various patents owned or controlled by us to manufacture and sell OLED display products. Additionally, we supply phosphorescent OLED materials to Visionox for use in its licensed products.
+
+In 2016, we entered into long-term, multi-year OLED patent license and material purchase agreements with Tianma Micro-electronics Co., Ltd. (Tianma). Under the license agreement, we have granted Tianma non-exclusive license rights under various patents owned or controlled by us to manufacture and sell OLED display products. The license agreement calls for license fees and running royalties on Tianma’s sales of licensed products. Additionally, we supply phosphorescent OLED materials to Tianma for use in its licensed products. In 2021, we mutually agreed to extend the terms of both the patent license and material purchase agreements for an additional multi-year term.
+
+In 2016, we acquired Adesis, Inc. (Adesis) which has operations in New Castle and Wilmington, Delaware. Adesis is a contract development and manufacturing organization (CDMO) that provides support services on a contractual basis to third-party customers in the OLED, pharma, biotech, catalysis and other industries. As of December 31, 2024, Adesis employed a team of 139 research scientists, chemists, engineers and laboratory technicians. Prior to our acquisition of Adesis, we utilized more than 50% of Adesis’ technology service and production output. We continue to utilize a significant portion of its technology research capacity for the benefit of our OLED technology development, and Adesis uses the remaining capacity to operate as a CDMO by providing contract research services for non-OLED applications to third-party customers in the above-mentioned industries. Contract research services revenue is earned by providing chemical materials synthesis research, development and commercialization for non-OLED applications on a contractual basis for those third-party customers.
+
+In June 2020, we formed a wholly-owned subsidiary, OVJP Corporation (OVJP Corp) in California, as a Delaware corporation, which was founded to advance the commercialization of our proprietary Organic Vapor Jet Printing (OVJP) technology. In December 2024, we announced that the OVJP Corp facility in California would be closing and OVJP operations would be relocated to our newly formed subsidiary, Universal Vapor Jet Corporation Pte. Ltd. (UVJC) in Singapore, as well as continued operations in our Tech and Innovation Center in New Jersey. While we continue to focus on the long-term opportunity in the large-area display market for OVJP, the industry’s current focus is on the growing demand for IT capacity. Our UVJC subsidiary plans to assess additional market opportunities where this technology may be transformative. As a result of the planned closure of the OVJP Corp location in California, we determined to record $8.9 million of restructuring costs for the year ended December 31, 2024.
+
+In February 2021, we announced the establishment of a new manufacturing site in Shannon, Ireland and an agreement between UDC Ireland Limited and PPG for the production of our OLED materials. We purchased the site during September 2023. When fully operational, the new facility is expected to double our production capacity and allow for the diversification of our manufacturing base for phosphorescent emitters. The first phase of facility improvements has been completed and operations commenced in June 2022.
+
+We also generate technology development and support revenue earned from development and technology evaluation agreements and commercialization assistance fees.
+
+We anticipate fluctuations in our annual and quarterly results of operations due to uncertainty regarding, among other factors:
+
+•
+the timing, cost and volume of sales of our OLED materials;
+
+•
+the timing of our receipt of license fees and royalties, as well as fees for future technology development and evaluation;
+
+•
+the timing and magnitude of expenditures we may incur in connection with our ongoing research and development and patent-related activities; and
+
+•
+the timing and financial consequences of our formation of new business relationships and alliances.
+
+33
+
+Critical Accounting Policies and Estimates
+
+The discussion and analysis of our financial condition and results of operations is based on our Consolidated Financial Statements, which have been prepared in accordance with U.S. generally accepted accounting principles. The preparation of these financial statements requires us to make estimates and judgments that affect our reported assets and liabilities, revenues and expenses, and other financial information. Actual results may differ significantly from our estimates under other assumptions and conditions.
+
+We believe that our accounting policies related to revenue recognition and deferred revenue and income taxes, as described below, are our “critical accounting policies” as contemplated by the SEC. These policies, which have been reviewed with our Audit Committee, are discussed in greater detail below.
+
+Revenue Recognition and Deferred Revenue
+
+Material sales relate to the sale of our OLED materials for incorporation into our customers’ commercial OLED products or for their OLED development and evaluation activities. Revenue associated with material sales is generally recognized at the time title passes, which is typically at the time of shipment or at the time of delivery, depending upon the contractual agreement between the parties. Revenue may be recognized after control of the material passes in the event the transaction price includes variable consideration. For example, a customer may be provided an extended opportunity to stock materials prior to use in mass production and given a general right of return not conditioned on breaches of warranties associated with the specific product. In such circumstances, revenue will be recognized at the earlier of the expiration of the customer’s general right of return or once it becomes unlikely that the customer will exercise its right of return.
+
+The vast majority of revenue attributed to material sales is determined through technology license agreements and material supply agreements the terms of which are jointly agreed upon with our customers. The remaining revenue recognized is in the form of contract research services revenue earned by our subsidiary, Adesis, Inc., and our occasional material sales to smaller customers. None of the revenue recognized during the years ended December 31, 2024, 2023 or 2022 resulted solely from royalty or license fee arrangements as to which there were not associated material sales.
+
+The rights and benefits to our OLED technologies are conveyed to the customer through technology license agreements and material supply agreements. We believe that the licenses and materials sold under these combined agreements are not distinct from each other for financial reporting purposes and as such, are accounted for as a single performance obligation. Accordingly, total contract consideration is estimated and recognized over the contract term based on material units sold at the estimated per unit fee over the life of the contract. Total contract consideration is allocated to material sales and royalty and licensing fees on the Consolidated Statements of Income based on contract pricing.
+
+Various estimates are relied upon to recognize revenue. We estimate total material units to be purchased by our customers over the contract term based on historical trends, industry estimates and our forecast process. Our management uses the expected value method to estimate the material per unit fee. Additionally, our management estimates the sales-based portion of royalty revenue based on the estimated net sales revenue of our customers over the contract term.
+
+Accounting for Income Taxes
+
+We are subject to income taxes in both the U.S. and foreign jurisdictions. Significant judgments and estimates are required in evaluating our tax positions for future realization and determining our provision for income taxes. Our income tax expense, deferred tax assets and liabilities, and reserves for unrecognized tax benefits reflect management's best assessment of estimated future taxes to be paid.
+
+In assessing the realizability of deferred tax assets, we consider whether it is more likely than not that some portion or all of our deferred tax assets will not be realized. The ultimate realization of deferred tax assets is dependent on our ability to generate future taxable income to obtain benefit from the reversal of temporary differences, net operating loss carryforwards and tax credits. As part of our assessment, we consider the scheduled reversal of deferred tax assets and liabilities, projected future taxable income, and tax planning strategies.
+
+During the year ended December 31, 2024, based on our previous earnings history, a current evaluation of expected future taxable income and other evidence, we determined to retain the valuation allowance that relates to New Jersey research and development credits and unrealized loss on investments. In addition, a portion of the investment loss was realized resulting in a capital loss carryforward that is not more likely than not to be used within the carryforward period. As such, we provided a valuation allowance against the capital loss. There are no indicators against the realizability of the remaining net deferred tax assets. Actual results could differ from our assessments if adequate taxable income is generated in future periods. To the extent we establish a new valuation allowance or change a previously established valuation allowance in a future period, income tax expense will be impacted.
+
+34
+
+RESULTS OF OPERATIONS
+
+For a discussion of our results of operations comparison for the years ended December 31, 2023 and 2022, refer to our Annual Report on Form 10-K for the fiscal year ended December 31, 2023 filed on February 22, 2024.
+
+Comparison of the Years Ended December 31, 2024 and 2023
+
+Year Ended December 31,
+
+2024
+
+2023
+
+(Decrease) Increase
+
+REVENUE:
+
+Material sales
+
+$
+
+365,419
+
+$
+
+322,029
+
+$
+
+43,390
+
+Royalty and license fees
+
+266,820
+
+238,389
+
+28,431
+
+Contract research services
+
+15,445
+
+16,011
+
+(566
+
+)
+
+Total revenue
+
+647,684
+
+576,429
+
+71,255
+
+COST OF SALES
+
+148,461
+
+135,376
+
+13,085
+
+Gross margin
+
+499,223
+
+441,053
+
+58,170
+
+OPERATING EXPENSES:
+
+Research and development
+
+157,187
+
+130,481
+
+26,706
+
+Selling, general and administrative
+
+74,286
+
+67,387
+
+6,899
+
+Amortization of acquired technology and other intangible assets
+
+18,200
+
+15,993
+
+2,207
+
+Patent costs
+
+8,699
+
+9,356
+
+(657
+
+)
+
+Royalty and license expense
+
+2,048
+
+647
+
+1,401
+
+Total operating expenses
+
+260,420
+
+223,864
+
+36,556
+
+OPERATING INCOME
+
+238,803
+
+217,189
+
+21,614
+
+Interest income, net
+
+40,682
+
+28,166
+
+12,516
+
+Other loss, net
+
+(7,357
+
+)
+
+(184
+
+)
+
+(7,173
+
+)
+
+Interest and other loss, net
+
+33,325
+
+27,982
+
+5,343
+
+INCOME BEFORE INCOME TAXES
+
+272,128
+
+245,171
+
+26,957
+
+INCOME TAX EXPENSE
+
+(50,049
+
+)
+
+(42,160
+
+)
+
+(7,889
+
+)
+
+NET INCOME
+
+$
+
+222,079
+
+$
+
+203,011
+
+$
+
+19,068
+
+Revenue
+
+Our total material sales were $365.4 million for the year ended December 31, 2024, as compared to $322.0 million for the year ended December 31, 2023, an increase of 13% with an increase in unit material volume of 15%. The increase in material sales was primarily due to strengthened demand for our emitter materials, partially offset by changes in customer mix.
+
+•
+Green emitter sales for the year ended December 31, 2024, which include our yellow-green emitters, were $272.4 million as compared to $243.2 million for the year ended December 31, 2023, with unit material volumes increasing by 12%.
+
+•
+Red emitter sales for the year ended December 31, 2024 were $88.5 million as compared to $73.2 million for the year ended December 31, 2023, with unit material volumes increasing by 25%.
+
+Revenue from royalty and license fees was $266.8 million for the year ended December 31, 2024 as compared to $238.4 million for the year ended December 31, 2023, an increase of 12%. The increase in royalty and license fees was primarily the result of higher unit material volume and changes in customer mix.
+
+35
+
+The cumulative catch-up adjustment recorded to revenue arising from changes in estimates of transaction price, net was $10.8 million for the year ended December 31, 2024 as compared to $10.6 million for the year ended December 31, 2023. For the years ended December 31, 2024 and 2023, the adjustment resulted from an increase in the average price per gram that was primarily due to the decrease in anticipated demand by several of our customers over the remaining lives of their contracts.
+
+Contract research services revenue was $15.4 million for the year ended December 31, 2024 as compared to $16.0 million for the year ended December 31, 2023, a decrease of 4%. The decrease in contract research services revenue was primarily due to the timing of completion of several contract research projects by our subsidiary, Adesis, during the year ended December 31, 2023. Revenue from contract research services consists of revenue earned by Adesis, which provides support services on a contractual basis to third-party customers in the pharma, biotech, catalysis and other industries.
+
+Cost of Sales
+
+Cost of sales for the year ended December 31, 2024 increased by $13.1 million as compared to the year ended December 31, 2023, primarily due to an increase in the level of material sales and product mix, partially offset by a $5.4 million decrease in inventory reserve expense. As a result of the increase in revenue from material sales and royalty and license fees, gross margin for the year ended December 31, 2024 increased by $58.2 million as compared to the year ended December 31, 2023, with gross margin as a percentage of revenue remaining consistent at 77%.
+
+Research and development
+
+Research and development expenses increased to $157.2 million for the year ended December 31, 2024, as compared to $130.5 million for the year ended December 31, 2023. The increase in research and development expenses was primarily due to an increase in PPG development activity, including new product development and commencement of development activities in Shannon, Ireland, and OVJP Corp reorganization expenses. As a result of the planned closure of OVJP Corp's California location, we recorded $8.9 million of restructuring costs for the year ended December 31, 2024.
+
+Selling, general and administrative
+
+Selling, general and administrative expenses increased to $74.3 million for the year ended December 31, 2024, as compared to $67.4 million for the year ended December 31, 2023. The increase in selling, general and administrative expenses was primarily due to an increase in employee-related expenses, including higher salaries expenses and stock-based compensation.
+
+Amortization of acquired technology and other intangible assets
+
+Amortization of acquired technology and other intangible assets was $18.2 million for the year ended December 31, 2024, as compared to $16.0 million for the year ended December 31, 2023. The increase was due to the commencement of amortization expense associated with the Merck KGaA patent acquisition that was completed in April 2023. See Note 7 in Notes to Consolidated Financial Statements for further discussion.
+
+Patent costs
+
+Patent costs decreased to $8.7 million for the year ended December 31, 2024, as compared to $9.4 million for the year ended December 31, 2023. The results in the current year reflected lower internal prosecution related costs.
+
+Royalty and license expense
+
+Royalty and license expense increased to $2.0 million for the year ended December 31, 2024, as compared to $647,000 for the year ended December 31, 2023. This increase was due to a one-time expense of $1.5 million in connection with an amendment to our existing amended license agreement, effective as of October 9, 1997, with Princeton University and the University of Southern California.
+
+Interest and other loss, net
+
+Interest income, net was $40.7 million for the year ended December 31, 2024, as compared to $28.2 million for the year ended December 31, 2023. The increase in interest income, net was primarily due to an increase in bond yields on available-for-sale investments held during the year ended December 31, 2024 compared to the prior year as well as higher available-for-sale investment balances. Other loss, net primarily consisted of net exchange gains and losses on foreign currency transactions and rental income. We
+
+36
+
+recorded other loss, net of $7.4 million for the year ended December 31, 2024 as compared to $184,000 for the year ended December 31, 2023. The increase in other loss, net during the year ended December 31, 2024 was due to a $7.2 million foreign exchange loss that was caused by the fluctuation in the Korean Won to the U.S. Dollar exchange rate and resulting remeasurement of a Korean Won-denominated withholding tax receivable.
+
+Income tax expense
+
+We are subject to income taxes in both the United States and foreign jurisdictions. The effective income tax rate was 18.4% and 17.2% for the years ended December 31, 2024 and 2023, respectively, and we recorded income tax expense of $50.0 million and $42.2 million, respectively, for those periods.
+
+Liquidity and Capital Resources
+
+Our principal sources of liquidity are our cash and cash equivalents and short-term investments. As of December 31, 2024, we had cash and cash equivalents of $99.0 million, short-term investments of $393.7 million, and long-term U.S. Government bond investments of $435.5 million for a total of $928.2 million. This compares to cash and cash equivalents of $92.0 million, short-term investments of $422.1 million, and long-term U.S. Government bond investments of $285.5 million for a total of $799.6 million as of December 31, 2023.
+
+Cash provided by operating activities for the year ended December 31, 2024 was $253.7 million resulting from $222.1 million of net income and an increase of $56.9 million due to non-cash items including stock-based compensation, depreciation, and amortization of intangibles, partially offset by a $25.3 million reduction due to changes in our operating assets and liabilities. Changes in our operating assets and liabilities related to an increase in other assets of $26.2 million, a decrease in deferred revenue of $26.1 million, an increase in inventory of $7.2 million and a decrease in other liabilities of $2.4 million, partially offset by a decrease in accounts receivable of $26.2 million and an increase in accounts payable and accrued expenses of $10.4 million.
+
+Cash provided by operating activities for the year ended December 31, 2023 was $154.8 million resulting from $203.0 million of net income and an increase of $55.3 million due to non-cash items including depreciation, stock-based compensation, and amortization of intangibles, partially offset by a $103.5 million reduction due to changes in our operating assets and liabilities. Changes in our operating assets and liabilities related to an increase in accounts receivable of $47.2 million, an increase in other assets of $37.1 million, a decrease in other liabilities of $26.5 million and a decrease in deferred revenue of $4.2 million, partially offset by a decrease in inventory of $7.4 million and an increase in accounts payable and accrued expenses of $4.1 million.
+
+Cash used in investing activities was $164.4 million for the year ended December 31, 2024, as compared to $83.3 million for the year ended December 31, 2023. The increase was due to the timing of maturities and purchases of investments resulting in net purchases of $121.8 million for the year ended December 31, 2024, as compared to net sales and maturities of $43.1 million for the year ended December 31, 2023, partially offset by a decrease in purchases of intangibles and property and equipment of $83.7 million. The increase in property and equipment and intangibles during the year ended December 31, 2023 was primarily due to the Merck KGaA patent acquisition and the purchases of the Shannon facility and the South Korea application center.
+
+Cash used in financing activities was $82.3 million for the year ended December 31, 2024, as compared to $72.9 million for the year ended December 31, 2023. The increase was due to an increase in the cash payment of dividends in the current year of $9.4 million and an increase in the payment of withholding taxes related to stock-based compensation to employees of $180,000, partially offset by an increase in the proceeds from issuance of common stock of $208,000.
+
+Working capital was $774.4 million as of December 31, 2024, as compared to $798.3 million as of December 31, 2023. The decrease was primarily due to decreases in short-term investments and accounts receivable and an increase in accounts payable.
+
+Several significant contractual obligations are anticipated to be incurred in future periods and include payments for retirement benefit plan obligations, lease obligations and PPG inventory commitments. Payments towards the retirement plan obligations commenced during fiscal year 2023 and are expected to total $79.6 million over the remaining life of the plan. Existing lease obligations are $4.3 million for fiscal year 2025, $4.4 million for fiscal year 2026, $4.3 million for fiscal year 2027 and $12.1 million thereafter. Existing PPG inventory commitments are $46.5 million and will fluctuate based on PPG production needs to fulfill our demand for commercial emitter material.
+
+37
+
+We anticipate, based on our internal forecasts and assumptions relating to our operations (including, among others, assumptions regarding our working capital requirements, the progress of our research and development efforts, the availability of sources of funding for our research and development work, and the timing and costs associated with the preparation, filing, prosecution, maintenance, defense and enforcement of our patents and patent applications), that we have sufficient cash, cash equivalents and short-term investments to meet our obligations for at least the next twelve months.
+
+We believe that potential additional financing sources for us include long-term and short-term borrowings and public and private sales of our equity and debt securities. It should be noted, however, that additional funding may be required in the future for research, development and commercialization of our OLED technologies and materials, to obtain, maintain and enforce patents respecting these technologies and materials, and for working capital and other purposes, the timing and amount of which are difficult to ascertain. There can be no assurance that additional funds will be available to us when needed, on commercially reasonable terms or at all, particularly in the current economic environment.
+
+Recently Issued Accounting Pronouncements
+
+Recently issued accounting pronouncements are addressed in Note 2 in the Notes to the Consolidated Financial Statements included herein.
+
+ITEM 7A. 
+QUANTITATIVE AND QUALITAT
+IVE DISCLOSURES ABOUT MARKET RISK
+
+We do not utilize financial instruments for trading purposes and hold no derivative financial instruments, other financial instruments or derivative commodity instruments that could expose us to significant market risk other than our investments disclosed in “Fair Value Measurements” in Note 4 to the Consolidated Financial Statements included herein. We generally invest in investment grade financial instruments to reduce our exposure related to investments. Our primary market risk exposure with regard to such financial instruments is to changes in interest rates, which would impact interest income earned on investments. However, based upon the conservative nature of our investment portfolio and current experience, we do not believe a decrease in investment yields would have a material negative effect on our interest income.
+
+Substantially all our revenue is derived from outside of North America and primarily denominated in U.S. dollars and therefore we bear no significant foreign exchange risk from routine customer sales transactions. However, due to a withholding tax receivable denominated in Korean Won, we do bear foreign exchange risk from fluctuations in the Korean Won to U.S. dollar exchange rate and resulting remeasurement.
+
+ITEM 8. 
+FINANCIAL STATEMEN
+TS AND SUPPLEMENTARY DATA
+
+Our Consolidated Financial Statements and the related notes to those statements are attached to this report beginning on page F-1.
+
+ITEM 9. 
+CHANGES IN AND DISAGREEMENTS WITH ACCO
+UNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+
+None.
+
+ITEM 9A. 
+CONTROL
+S AND PROCEDURES
+
+Evaluation of Disclosure Controls and Procedures
+
+Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of our disclosure controls and procedures as of December 31, 2024. Based on that evaluation, the Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures, as of the end of the period covered by this report, are effective to provide reasonable assurance that the information required to be disclosed by us in reports filed or submitted under the Securities Exchange Act of 1934, as amended, is (i) recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms, and (ii) accumulated and communicated to our management, including the Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding disclosure. However, a controls system, no matter how well designed and operated, cannot provide absolute assurance that the objectives of the controls system are met, and no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within a company have been detected.
+
+38
+
+Management’s Report on Internal Control over Financial Reporting and Report of Independent Registered Public Accounting Firm on Internal Control over Financial Reporting
+
+The report of management on our internal control over financial reporting and the associated attestation report of our independent registered public accounting firm are set forth in Item 8 of this report.
+
+Changes in Internal Control over Financial Reporting
+
+There were no changes in our internal control over financial reporting during the quarter ended December 31, 2024 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+ITEM 9B. 
+OTHER
+ INFORMATION
+
+None
+.
+
+ITEM 9C. 
+DISCLOS
+U
+RE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS
+
+None.
+
+39
+
+PART 
+III
+
+ITEM 10. 
+DIRECTORS, EXECUTIVE OF
+FICERS AND CORPORATE GOVERNANCE
+
+Information with respect to this item is set forth in our definitive Proxy Statement for the 2025 Annual Meeting of Shareholders, which is to be filed with the U.S. Securities and Exchange Commission no later than April 30, 2025 (the first business day after the 120
+th  
+day following the end of our fiscal year) (our Proxy Statement), and which is incorporated herein by reference. Information regarding our executive officers is included at the end of Item 1 in Part I of this report.
+
+We have insider trading policies governing transactions in our securities by our directors, officers and employees that are designed to promote compliance with applicable insider trading laws, rules and regulations. Copies of our insider trading policies are filed with this Annual Report on Form 10-K as Exhibit 19.1 and 19.2, respectively.
+
+ITEM 11. 
+EXECUTI
+VE COMPENSATION
+
+Information with respect to this item will be set forth in our Proxy Statement, and is incorporated herein by reference.
+
+ITEM 12. 
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWN
+ERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+
+Information with respect to this item will be set forth in our Proxy Statement, and is incorporated herein by reference.
+
+ITEM 13. 
+CERTAIN RELATIONSHIPS AND RELATE
+D TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+
+Information with respect to this item will be set forth in our Proxy Statement, and is incorporated herein by reference.
+
+ITEM 14. 
+PRINCIPAL ACCOU
+NTANT FEES AND SERVICES
+
+Information with respect to this item will be set forth in our Proxy Statement, and is incorporated herein by reference.
+
+40
+
+PART
+ IV
+
+ITEM 15. 
+EXHIBITS AND FINA
+NCIAL STATEMENT SCHEDULES
+
+(a) The following documents are filed as part of this report:
+
+(1) Financial Statements:
+
+Management’s Report on Internal Control Over Financial Reporting
+
+F-
+2
+
+Reports of Independent Registered Public Accounting Firm
+
+F-
+3
+
+Consolidated Balance Sheets
+
+F-
+6
+
+Consolidated Statements of Income
+
+F-
+7
+
+Consolidated Statements of Comprehensive Income
+
+F-
+8
+
+Consolidated Statements of Shareholders’ Equity
+
+F-
+9
+
+Consolidated Statements of Cash Flows
+
+F-
+10
+
+Notes to Consolidated Financial Statements
+
+F-
+11
+
+(2) Financial Statement Schedules:
+
+None.
+
+(3) Exhibits:
+
+The following is a list of the exhibits filed as part of this report. Where so indicated by footnote, exhibits that were previously filed are incorporated by reference. For exhibits incorporated by reference, the location of the exhibit in the previous filing is indicated parenthetically, together with a reference to the filing indicated by footnote.
+
+Exhibit
+Number
+
+Description
+
+3.1
+
+Amended and Restated Articles of Incorporation of the registrant
+ (1)
+
+3.2
+
+Amended and Restated Bylaws of the registrant
+ (2)
+
+4
+
+Description of Securities
+ (3)
+
+10.1#
+
+Amended and Restated Change in Control Agreement between the registrant and Steven V. Abramson, dated as of November 4, 2008
+ (4)
+
+10.2#
+
+Amended and Restated Change in Control Agreement between the registrant and Julia J. Brown, dated as of November 4, 2008
+ (4)
+
+10.3#
+
+Amended and Restated Change in Control Agreement between the registrant and Janice K. Mahon, dated as of November 4, 2008
+ (4)
+
+10.4#
+
+Amended and Restated Change in Control Agreement between the registrant and Mauro Premutico, dated April 16, 2012 
+(5)
+
+10.5#
+
+Supplemental Executive Retirement Plan, dated as of April 1, 2010 
+(6)
+
+10.6
+
+1997 Amended License Agreement among the registrant, The Trustees of Princeton University and the University of Southern California, dated as of October 9, 1997
+
+(7)
+
+10.7
+
+Amendment #1 to the Amended License Agreement among the registrant, the Trustees of Princeton University and the University of Southern California, dated as of August 7, 2003
+
+(8)
+
+10.8
+
+Amendment #2 to the Amended License Agreement among the registrant, the Trustees of Princeton University, the University of Southern California and the Regents of the University of Michigan, dated as of January 1, 2006
+ (9)
+
+10.9
+
+Amended and Restated OLED Materials Supply and Service Agreement between the registrant and PPG Industries, Inc., dated as of October 1, 2011 
+(10)
+
+10.10+
+
+Amended and Restated Amendment, dated February 20, 2024, to Amended and Restated OLED Materials Supply and Service Agreement, dated as of October 1, 2011, between the Registrant and PPG Industries, Inc.(18)
+
+10.11#
+
+Universal Display Corporation Annual Incentive Plan
+
+(11)
+
+10.12#
+
+Form Agreement - Restricted Stock Unit Grant Letter
+(18)
+
+41
+
+10.13#
+
+Form Agreement - Performance Stock Unit Grant Letter
+(18)
+
+10.14#
+
+Universal Display Corporation 2014 Equity Compensation Plan
+
+(12)
+
+10.15#
+
+Amendment 2015-1, dated March 3, 2015, to Universal Display Corporation Supplemental Executive Retirement Plan 
+(13)
+
+10.16+
+
+IP Transfer Agreement, dated June 28, 2016 by and between UDC Ireland Limited and BASF SE
+ (14)
+
+10.17#
+
+Amended and Restated Change in Control Agreement between the registrant and Brian Millard, dated as of September 6, 2022 
+(11)
+
+10.18#
+
+Amendment to Amended and Restated Change in Control Agreement, dated May 31, 2023, between the registrant and Brian Millard
+
+(15)
+
+10.19#
+
+Restricted Stock Grant Unit Agreement between the registrant and Brian Millard, dated as of September 6, 2022
+ (11)
+
+10.20+
+
+OLED Patent License Agreement between UDC Ireland Limited and Samsung Display Co., Ltd., dated as of December 2, 2022
+ (11)
+
+10.21+
+
+Supplemental OLED Material Purchase Agreement between UDC Ireland Limited and Samsung Display Co., Ltd., dated as of December 2, 2022
+ (11)
+
+10.22#
+
+Universal Display Corporation 2023 Equity Compensation Plan
+ (16)
+
+10.23#
+
+UDC, Inc. Deferred Compensation Plan
+ (17)
+
+19.1*
+
+Universal Display Corporation Employee Insider Trading Policy
+
+19.2*
+
+Universal Display Corporation Officer, Director, Finance and Legal Employee Insider Trading Policy
+
+21*
+
+Subsidiaries of the registrant
+
+23.1*
+
+Consent of KPMG LLP
+
+31.1*
+
+Certifications of Steven V. Abramson, Chief Executive Officer, as required by Rule 13a-14(a) or Rule 15d-14(a)
+
+31.2*
+
+Certifications of Brian Millard, Chief Financial Officer, as required by Rule 13a-14(a) or Rule 15d-14(a)
+
+32.1**
+
+Certifications of Steven V. Abramson, Chief Executive Officer, as required by Rule 13a-14(b) or Rule 15d-14(b), and by 18 U.S.C. Section 1350. (This exhibit shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liability of that section. Further, this exhibit shall not be deemed to be incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended.)
+
+32.2**
+
+Certifications of Brian Millard, Chief Financial Officer, as required by Rule 13a-14(b) or Rule 15d-14(b), and by 18 U.S.C. Section 1350. (This exhibit shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liability of that section. Further, this exhibit shall not be deemed to be incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended.)
+
+97#
+
+Universal Display Corporation Compensation Recoupment Policy
+(18)
+
+101.INS*
+
+Inline XBRL Instance Document – the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document
+
+101.SCH*
+
+Inline XBRL Taxonomy Extension Schema with Embedded Linkbase Documents (Calculation; Definition; Label; Presentation)
+
+104
+
+The cover page of this Annual Report on Form 10-K for the year ended December 31, 2024, formatted in Inline XBRL (included in Item 101.INS)
+
+Explanation of footnotes to listing of exhibits:
+
+* Filed herewith.
+
+** Furnished herewith.
+
+# Management contract or compensatory plan or arrangement.
+
++ Either (1) confidential treatment has been accorded to certain portions of this exhibit pursuant to Rule 406 under the Securities Act of 1933, as amended, or Rule 24b-2 under the Securities Exchange Act of 1934, as amended, or (2) portions of this exhibit have been omitted pursuant to Item 601(b)(10)(iv) of Regulation S-K promulgated by the SEC.
+
+42
+
+(1)
+Filed as an Exhibit to the Quarterly Report on Form 10-Q for the quarter ended June 30, 2018, filed with the SEC on August 9, 2018.
+
+(2)
+Filed as an Exhibit to the Annual Report on Form 10-K for the year ended December 31, 2003, filed with the SEC on March 1, 2004.
+
+(3)
+Filed as an Exhibit to the Annual Report on Form 10-K for the year ended December 31, 2019, filed with the SEC on February 20, 2020.
+
+(4)
+Filed as an Exhibit to the Annual Report on Form 10-K for the year ended December 31, 2008, filed with the SEC on March 12, 2009.
+
+(5)
+Filed as an Exhibit to the Quarterly Report on Form 10-Q for the quarter ended June 30, 2012, filed with the SEC on August 8, 2012.
+
+(6)
+Filed as an Exhibit to the Quarterly Report on Form 10-Q for the quarter ended March 31, 2010, filed with the SEC on May 10, 2010.
+
+(7)
+Filed as an Exhibit to the Annual Report on Form 10K-SB for the year ended December 31, 1997, filed with the SEC on March 31, 1998.
+
+(8)
+Filed as an Exhibit to the Quarterly Report on Form 10-Q for the quarter ended September 30, 2003, filed with the SEC on November 10, 2003.
+
+(9)
+Filed as an Exhibit to the Quarterly Report on Form 10-Q for the quarter ended June 30, 2006, filed with the SEC on August 9, 2006.
+
+(10)
+Filed as an Exhibit to the Quarterly Report on Form 10-Q for the quarter ended September 30, 2011, filed with the SEC on November 8, 2011.
+
+(11)
+Filed as an Exhibit to the Annual Report on Form 10-K for the year ended December 31, 2022, filed with the SEC on February 23, 2023.
+
+(12)
+Filed as Exhibit A to the Company's Definitive Proxy Statement for the 2014 Annual Meeting filed with the SEC on April 25, 2014.
+
+(13)
+Filed as an Exhibit to the Current Report on Form 8-K filed with the SEC on March 9, 2015.
+
+(14)
+Filed as an Exhibit to the Quarterly Report on Form 10-Q for the quarter ended June 30, 2016, filed with the SEC on August 4, 2016.
+
+(15)
+Filed as an Exhibit to the Current Report on Form 8-K filed with the SEC on June 1, 2023.
+
+(16)
+Filed as Annex A to the Company's Definitive Proxy Statement for the 2023 Annual Meeting filed with the SEC on April 20, 2023.
+
+(17)
+Filed as an Exhibit to the Current Report on Form 8-K filed with the SEC on November 2, 2023. 
+
+(18)
+Filed as an Exhibit to the Annual Report on Form 10-K for the year ended December 31, 2023, filed with the SEC on February 22, 2024.
+
+Note:
+ Any of the exhibits listed in the foregoing index not included with this report may be obtained, without charge, by writing to Mauro Premutico, Secretary, Universal Display Corporation, 250 Phillips Boulevard, Ewing, New Jersey 08618.
+
+(b) The exhibits required to be filed by us with this report are listed above.
+
+(c) The Consolidated Financial Statement schedules required to be filed by us with this report are listed above.
+
+ITEM 16. 
+FORM 
+10-K SUMMARY
+
+None.
+
+43
+
+SIGNAT
+URES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+UNIVERSAL DISPLAY CORPORATION
+
+By:    /s/ Brian Millard
+
+Brian Millard
+
+Vice President, Chief Financial Officer and Treasurer
+
+Date: February 20, 2025
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.
+
+Name
+
+Title
+
+Date
+
+/s/ Steven V. Abramson
+
+President, Chief Executive Officer and Director (principal executive officer)
+
+February 20, 2025
+
+Steven V. Abramson
+
+/s/ Brian Millard
+
+Vice President, Chief Financial Officer and Treasurer
+
+February 20, 2025
+
+Brian Millard
+
+(principal financial and accounting officer)
+
+/s/ Sidney D. Rosenblatt
+
+Chair of the Board of Directors
+
+February 20, 2025
+
+Sidney D. Rosenblatt
+
+/s/ Elizabeth H. Gemmill
+
+Lead Independent Director
+
+February 20, 2025
+
+Elizabeth H. Gemmill
+
+/s/ Nigel Brown
+
+Director
+
+February 20, 2025
+
+Nigel Brown
+
+/s/ Cynthia J. Comparin
+
+Director
+
+February 20, 2025
+
+Cynthia J. Comparin
+
+/s/ Richard C. Elias
+
+Director
+
+February 20, 2025
+
+Richard C. Elias
+
+/s/ C. Keith Hartley
+
+Director
+
+February 20, 2025
+
+C. Keith Hartley
+
+/s/ Celia M. Joseph
+
+Director
+
+February 20, 2025
+
+Celia M. Joseph
+
+/s/ Lawrence Lacerte
+
+Director
+
+February 20, 2025
+
+Lawrence Lacerte
+
+/s/ Joan Lau
+
+Director
+
+February 20, 2025
+
+Joan Lau
+
+/s/ April Walker
+
+Director
+
+February 20, 2025
+
+April Walker
+
+44
+
+UNIVERSAL DISPLAY CORPORATION AND SUBSIDIARIES
+
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Consolidated Financial Statements:
+
+Management’s Report on Internal Control Over Financial Reporting
+
+F-
+2
+
+Reports of Independent Registered Public Accounting Firm
+
+F-
+3
+
+Consolidated Balance Sheets
+
+F-
+6
+
+Consolidated Statements of Income
+
+F-
+7
+
+Consolidated Statements of Comprehensive Income
+
+F-
+8
+
+Consolidated Statements of Shareholders’ Equity
+
+F-
+9
+
+Consolidated Statements of Cash Flows
+
+F-
+10
+
+Notes to Consolidated Financial Statements
+
+F-
+11
+
+F-
+1
+
+MANAGEMENT’S REPORT ON INTERNAL C
+ONTROL OVER FINANCIAL REPORTING
+
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting for Universal Display Corporation and its subsidiaries (the Company). Internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of Consolidated Financial Statements for external purposes in accordance with generally accepted accounting principles. Our system of internal control over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the Company; (ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the Company are being made only in accordance with authorizations of management and directors of the Company; and (iii) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of the Company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+Management performed an assessment of the effectiveness of our internal control over financial reporting as of December 31, 2024 based upon criteria in 
+Internal Control — Integrated Framework (2013)
+ issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). Based on this assessment, management determined that the Company’s internal control over financial reporting was effective as of December 31, 2024, based on the criteria in 
+Internal Control-Integrated Framework (2013)
+ issued by COSO.
+
+The effectiveness of our internal control over financial reporting as of December 31, 2024, has been attested to by KPMG LLP, an independent registered public accounting firm, as stated in its report which appears on the following page.
+
+Steven V. Abramson
+President and Chief Executive Officer
+
+Brian Millard
+Vice President, Chief Financial Officer and Treasurer
+
+February 20, 2025
+
+F-
+2
+
+Report of Independent R
+e
+gistered Public Accounting Firm
+
+To the Shareholders and Board of Directors
+
+Universal Display Corporation:
+
+Opinion on Internal Control Over Financial Reporting
+
+We have audited Universal Display Corporation and subsidiaries' (the Company) internal control over financial reporting as of December 31, 2024, based on criteria established in Internal Control – Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission. In our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 31, 2024, based on criteria established in Internal Control – Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheets of the Company as of December 31, 2024 and 2023, the related consolidated statements of income, comprehensive income, shareholders’ equity, and cash flows for each of the years in the three-year period ended December 31, 2024, and the related notes (collectively, the consolidated financial statements), and our report dated February 20, 2025 expressed an unqualified opinion on those consolidated financial statements.
+
+Basis for Opinion
+
+The Company’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management's Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company’s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. Our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audit also included performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+
+Definition and Limitations of Internal Control Over Financial Reporting
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+/s/ KPMG LLP
+
+Philadelphia, Pennsylvania
+
+February 20, 2025
+
+F-
+3
+
+Report of Independent Registered Public Accounting Firm
+
+To the Shareholders and Board of Directors
+
+Universal Display Corporation:
+
+Opinion on the Consolidated Financial Statements
+We have audited the accompanying consolidated balance sheets of Universal Display Corporation and subsidiaries (the Company) as of December 31, 2024 and 2023, the related consolidated statements of income, comprehensive income, shareholders’ equity, and cash flows for each of the years in the three-year period ended December 31, 2024, and the related notes (collectively, the consolidated financial statements). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2024 and 2023, and the results of its operations and its cash flows for each of the years in the three-year period ended December 31, 2024, in conformity with U.S. generally accepted accounting principles.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company’s internal control over financial reporting as of December 31, 2024, based on criteria established in Internal Control – Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission, and our report dated February 20, 2025 expressed an unqualified opinion on the effectiveness of the Company’s internal control over financial reporting.
+
+Basis for Opinion
+
+These consolidated financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on these consolidated financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audits provide a reasonable basis for our opinion.
+
+Critical Audit Matter
+
+The critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the consolidated financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of a critical audit matter does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+
+Estimated per unit fee for long-term OLED contracts
+
+As discussed in Notes 2 and 21 to the consolidated financial statements, the Company recognizes revenue for organic light emitting diode (OLED) sales to customers with long-term contracts (i.e., over 1 year in length) using certain estimates. Revenue is determined by estimating total contract consideration expected to be received over the term of the contract and recognized based on material units sold during the period at their estimated per unit fee. The estimated per unit fee includes fixed amounts designated in contracts with customers as license fees and royalty fees, as well as estimates of material units to be sold. The Company uses internal and external data to estimate material units to be sold over the contract terms.
+
+We identified the assessment of the estimated per unit fee for long-term OLED contracts as a critical audit matter. The estimated per unit fee was dependent upon the estimates of total material units to be sold. Significant auditor judgment was required in evaluating the forecasted material unit sales, as changes in the estimates could significantly affect the estimated per unit fee.
+
+The following are the primary procedures we performed to address this critical audit matter. We evaluated the design and tested the operating effectiveness of certain internal controls related to the critical audit matter. This included controls related to the Company’s revenue recognition process, including the Company’s review and approval of forecasted quantities of material unit sales of OLED products. We assessed the Company’s forecasting policies and procedures and the inputs used in the estimation process. This
+
+F-
+4
+
+assessment included considering the availability of other relevant sources of data used for developing the estimate and evaluating any potential management bias. Additionally, we inspected the forecast calculations for a selection of OLED contracts and compared the per-material unit prices used against the respective contract terms. We compared the OLED material unit sales forecast to internal operating and production budgets, and we compared the forecasted OLED material unit sales to the results of inquiries of Company personnel, third party market data, and analyst reports. We assessed the Company’s ability to accurately forecast OLED material unit sales by comparing recent historical forecasts to actual results and evaluating the Company’s conclusions regarding the reasons for changes in the current year’s estimates as compared to prior estimates.
+
+/s/   KPMG LLP
+
+We have served as the Company’s auditor since 2002.
+
+Philadelphia, Pennsylvania
+
+February 20, 2025
+
+F-
+5
+
+UNIVERSAL DISPLAY CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED B
+ALANCE SHEETS
+
+(in thousands, except share and per share data)
+
+December 31, 2024
+
+December 31, 2023
+
+ASSETS
+
+CURRENT ASSETS:
+
+Cash and cash equivalents
+
+$
+
+98,980
+
+$
+
+91,985
+
+Short-term investments
+
+393,690
+
+422,137
+
+Accounts receivable
+
+113,648
+
+139,850
+
+Inventory
+
+182,938
+
+175,795
+
+Other current assets
+
+110,575
+
+87,365
+
+Total current assets
+
+899,831
+
+917,132
+
+PROPERTY AND EQUIPMENT, net of accumulated depreciation of $
+169,877
+ and $
+143,908
+
+195,239
+
+175,150
+
+ACQUIRED TECHNOLOGY, net of accumulated amortization of $
+203,621
+ and $
+186,850
+
+73,554
+
+90,325
+
+OTHER INTANGIBLE ASSETS, net of accumulated amortization of $
+11,842
+ and $
+10,414
+
+5,446
+
+6,874
+
+GOODWILL
+
+15,535
+
+15,535
+
+INVESTMENTS
+
+457,593
+
+299,548
+
+DEFERRED INCOME TAXES
+
+78,320
+
+59,108
+
+OTHER ASSETS
+
+106,815
+
+105,289
+
+TOTAL ASSETS
+
+$
+
+1,832,333
+
+$
+
+1,668,961
+
+LIABILITIES AND SHAREHOLDERS’ EQUITY
+
+CURRENT LIABILITIES:
+
+Accounts payable
+
+$
+
+36,590
+
+$
+
+10,933
+
+Accrued expenses
+
+46,026
+
+52,080
+
+Deferred revenue
+
+33,074
+
+47,713
+
+Other current liabilities
+
+9,720
+
+8,096
+
+Total current liabilities
+
+125,410
+
+118,822
+
+DEFERRED REVENUE
+
+537
+
+12,006
+
+RETIREMENT PLAN BENEFIT LIABILITY
+
+54,450
+
+52,249
+
+OTHER LIABILITIES
+
+35,411
+
+38,658
+
+Total liabilities
+
+215,808
+
+221,735
+
+COMMITMENTS AND CONTINGENCIES (Note 18)
+
+SHAREHOLDERS’ EQUITY:
+
+Preferred Stock, par value $
+0.01
+ per share, 
+5,000,000
+ shares authorized, 
+200,000
+
+   shares of Series A Nonconvertible Preferred Stock issued and outstanding 
+   (liquidation value of $
+7.50
+ per share or $
+1,500
+)
+
+2
+
+2
+
+Common Stock, par value $
+0.01
+ per share, 
+200,000,000
+ shares authorized, 
+48,834,541
+   and 
+48,731,026
+ shares issued, and 
+47,468,893
+ and 
+47,365,378
+ shares outstanding at 
+   December 31, 2024 and December 31, 2023, respectively
+
+488
+
+487
+
+Additional paid-in capital
+
+723,719
+
+699,554
+
+Retained earnings
+
+934,655
+
+789,553
+
+Accumulated other comprehensive loss
+
+(
+1,055
+
+)
+
+(
+1,086
+
+)
+
+Treasury stock, at cost (
+1,365,648
+ shares at December 31, 2024 and December 31, 2023)
+
+(
+41,284
+
+)
+
+(
+41,284
+
+)
+
+Total shareholders’ equity
+
+1,616,525
+
+1,447,226
+
+TOTAL LIABILITIES AND SHAREHOLDERS’ EQUITY
+
+$
+
+1,832,333
+
+$
+
+1,668,961
+
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+
+F-
+6
+
+UNIVERSAL DISPLAY CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED STAT
+EMENTS OF INCOME
+
+(in thousands, except share and per share data)
+
+Year Ended December 31,
+
+2024
+
+2023
+
+2022
+
+REVENUE:
+
+Material sales
+
+$
+
+365,419
+
+$
+
+322,029
+
+$
+
+331,081
+
+Royalty and license fees
+
+266,820
+
+238,389
+
+267,115
+
+Contract research services
+
+15,445
+
+16,011
+
+18,423
+
+Total revenue
+
+647,684
+
+576,429
+
+616,619
+
+COST OF SALES
+
+148,461
+
+135,376
+
+127,896
+
+Gross margin
+
+499,223
+
+441,053
+
+488,723
+
+OPERATING EXPENSES:
+
+Research and development
+
+157,187
+
+130,481
+
+117,062
+
+Selling, general and administrative
+
+74,286
+
+67,387
+
+77,886
+
+Amortization of acquired technology and other intangible assets
+
+18,200
+
+15,993
+
+17,459
+
+Patent costs
+
+8,699
+
+9,356
+
+8,329
+
+Royalty and license expense
+
+2,048
+
+647
+
+877
+
+Total operating expenses
+
+260,420
+
+223,864
+
+221,613
+
+OPERATING INCOME
+
+238,803
+
+217,189
+
+267,110
+
+Interest income, net
+
+40,682
+
+28,166
+
+7,811
+
+Other loss, net
+
+(
+7,357
+
+)
+
+(
+184
+
+)
+
+(
+6,691
+
+)
+
+Interest and other loss, net
+
+33,325
+
+27,982
+
+1,120
+
+INCOME BEFORE INCOME TAXES
+
+272,128
+
+245,171
+
+268,230
+
+INCOME TAX EXPENSE
+
+(
+50,049
+
+)
+
+(
+42,160
+
+)
+
+(
+58,169
+
+)
+
+NET INCOME
+
+$
+
+222,079
+
+$
+
+203,011
+
+$
+
+210,061
+
+NET INCOME PER COMMON SHARE:
+
+BASIC
+
+$
+
+4.66
+
+$
+
+4.25
+
+$
+
+4.41
+
+DILUTED
+
+$
+
+4.65
+
+$
+
+4.24
+
+$
+
+4.40
+
+WEIGHTED AVERAGE SHARES USED IN COMPUTING NET 
+   INCOME PER COMMON SHARE:
+
+BASIC
+
+47,548,931
+
+47,559,669
+
+47,390,352
+
+DILUTED
+
+47,652,662
+
+47,622,763
+
+47,468,507
+
+CASH DIVIDEND DECLARED PER COMMON SHARE
+
+$
+
+1.60
+
+$
+
+1.40
+
+$
+
+1.20
+
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+
+F-
+7
+
+UNIVERSAL DISPLAY CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS 
+OF COMPREHENSIVE INCOME
+
+(in thousands)
+
+Year Ended December 31,
+
+2024
+
+2023
+
+2022
+
+NET INCOME
+
+$
+
+222,079
+
+$
+
+203,011
+
+$
+
+210,061
+
+OTHER COMPREHENSIVE INCOME (LOSS), NET OF TAX:
+
+Unrealized gain (loss) on available-for-sale securities, net of tax
+   of 
+none
+, 
+none
+ and $
+65
+, respectively
+
+411
+
+8,745
+
+(
+7,745
+
+)
+
+Employee benefit plan:
+
+Actuarial gain on retirement plan, net of tax of $
+178
+, ($
+2,168
+)
+   and ($
+1,667
+), respectively
+
+(
+559
+
+)
+
+7,207
+
+5,971
+
+Amortization of prior service cost, actuarial loss and curtailment charge for 
+   retirement plan included in net periodic pension costs, 
+   net of tax of ($
+84
+), ($
+299
+) and ($
+569
+), respectively
+
+261
+
+996
+
+2,037
+
+Net change in employee benefit plan
+
+(
+298
+
+)
+
+8,203
+
+8,008
+
+Change in cumulative foreign currency translation adjustment
+
+(
+82
+
+)
+
+418
+
+(
+480
+
+)
+
+TOTAL OTHER COMPREHENSIVE INCOME (LOSS)
+
+31
+
+17,366
+
+(
+217
+
+)
+
+COMPREHENSIVE INCOME
+
+$
+
+222,110
+
+$
+
+220,377
+
+$
+
+209,844
+
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+
+F-
+8
+
+UNIVERSAL DISPLAY CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS 
+OF SHAREHOLDERS’ EQUITY
+
+(in thousands, except for share data)
+
+Series A
+Nonconvertible
+
+Additional
+
+Accumulated
+Other
+
+Total
+
+Preferred Stock
+
+Common Stock
+
+Paid-in
+
+Retained
+
+Comprehensive
+
+Treasury Stock
+
+Shareholders’
+
+Shares
+
+Amount
+
+Shares
+
+Amount
+
+Capital
+
+Earnings
+
+(Loss) Income
+
+Shares
+
+Amount
+
+Equity
+
+BALANCE, DECEMBER 31, 2021
+
+200,000
+
+$
+
+2
+
+49,065,924
+
+$
+
+491
+
+$
+
+658,728
+
+$
+
+500,212
+
+$
+
+(
+18,235
+
+)
+
+1,365,648
+
+$
+
+(
+41,284
+
+)
+
+$
+
+1,099,914
+
+Net income
+
+—
+
+—
+
+—
+
+—
+
+—
+
+210,061
+
+—
+
+—
+
+—
+
+210,061
+
+Other comprehensive loss
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(
+217
+
+)
+
+—
+
+—
+
+(
+217
+
+)
+
+Cash dividends declared
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(
+56,996
+
+)
+
+—
+
+—
+
+—
+
+(
+56,996
+
+)
+
+Stock-based compensation and ESPP activity, net of taxes withheld
+
+—
+
+—
+
+70,106
+
+—
+
+22,607
+
+—
+
+—
+
+—
+
+—
+
+22,607
+
+BALANCE, DECEMBER 31, 2022
+
+200,000
+
+2
+
+49,136,030
+
+491
+
+681,335
+
+653,277
+
+(
+18,452
+
+)
+
+1,365,648
+
+(
+41,284
+
+)
+
+1,275,369
+
+Net income
+
+—
+
+—
+
+—
+
+—
+
+—
+
+203,011
+
+—
+
+—
+
+—
+
+203,011
+
+Other comprehensive income
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+17,366
+
+—
+
+—
+
+17,366
+
+Cash dividends declared
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(
+66,735
+
+)
+
+—
+
+—
+
+—
+
+(
+66,735
+
+)
+
+Stock-based compensation and ESPP activity, net of taxes withheld
+
+—
+
+—
+
+(
+405,004
+
+)
+
+(
+4
+
+)
+
+18,219
+
+—
+
+—
+
+—
+
+—
+
+18,215
+
+BALANCE, DECEMBER 31, 2023
+
+200,000
+
+2
+
+48,731,026
+
+487
+
+699,554
+
+789,553
+
+(
+1,086
+
+)
+
+1,365,648
+
+(
+41,284
+
+)
+
+1,447,226
+
+Net income
+
+—
+
+—
+
+—
+
+—
+
+—
+
+222,079
+
+—
+
+—
+
+—
+
+222,079
+
+Other comprehensive income
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+31
+
+—
+
+—
+
+31
+
+Cash dividends declared
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(
+76,977
+
+)
+
+—
+
+—
+
+—
+
+(
+76,977
+
+)
+
+Stock-based compensation and ESPP activity, net of taxes withheld
+
+—
+
+—
+
+103,515
+
+1
+
+24,165
+
+—
+
+—
+
+—
+
+—
+
+24,166
+
+BALANCE, DECEMBER 31, 2024
+
+200,000
+
+$
+
+2
+
+48,834,541
+
+$
+
+488
+
+$
+
+723,719
+
+$
+
+934,655
+
+$
+
+(
+1,055
+
+)
+
+1,365,648
+
+$
+
+(
+41,284
+
+)
+
+$
+
+1,616,525
+
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+
+F-
+9
+
+ UNIVERSAL DISPLAY CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED STATEM
+ENTS OF CASH FLOWS
+
+(in thousands)
+
+Year Ended December 31,
+
+2024
+
+2023
+
+2022
+
+CASH FLOWS FROM OPERATING ACTIVITIES:
+
+Net income
+
+$
+
+222,079
+
+$
+
+203,011
+
+$
+
+210,061
+
+Adjustments to reconcile net income to net cash provided by operating activities:
+
+Depreciation
+
+25,940
+
+27,409
+
+24,815
+
+Impairment of property and equipment and right-of-use asset due to OVJP restructuring
+
+7,498
+
+—
+
+—
+
+Amortization of intangibles
+
+18,200
+
+15,993
+
+17,459
+
+Amortization of premium and discount on investments, net
+
+(
+7,399
+
+)
+
+(
+11,603
+
+)
+
+(
+6,461
+
+)
+
+Impairment of minority investments
+
+—
+
+—
+
+6,962
+
+Stock-based compensation
+
+30,032
+
+24,109
+
+29,946
+
+Deferred income tax benefit
+
+(
+19,117
+
+)
+
+(
+3,766
+
+)
+
+(
+26,946
+
+)
+
+Retirement plan expense, net of benefit payments
+
+1,808
+
+3,129
+
+5,276
+
+Decrease (increase) in assets:
+
+Accounts receivable
+
+26,202
+
+(
+47,186
+
+)
+
+14,975
+
+Inventory
+
+(
+7,143
+
+)
+
+7,425
+
+(
+49,060
+
+)
+
+Other current assets
+
+(
+23,210
+
+)
+
+(
+41,574
+
+)
+
+(
+24,843
+
+)
+
+Other assets
+
+(
+2,968
+
+)
+
+4,450
+
+25,971
+
+Increase (decrease) in liabilities:
+
+Accounts payable and accrued expenses
+
+10,357
+
+4,047
+
+3,338
+
+Other current liabilities
+
+1,269
+
+(
+21,481
+
+)
+
+20,917
+
+Deferred revenue
+
+(
+26,108
+
+)
+
+(
+4,159
+
+)
+
+(
+93,203
+
+)
+
+Other liabilities
+
+(
+3,700
+
+)
+
+(
+5,027
+
+)
+
+(
+32,392
+
+)
+
+Net cash provided by operating activities
+
+253,740
+
+154,777
+
+126,815
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+
+Purchases of property and equipment
+
+(
+42,637
+
+)
+
+(
+59,792
+
+)
+
+(
+42,497
+
+)
+
+Purchase of intangibles
+
+—
+
+(
+66,563
+
+)
+
+(
+4,709
+
+)
+
+Purchases of investments
+
+(
+594,848
+
+)
+
+(
+531,103
+
+)
+
+(
+701,993
+
+)
+
+Proceeds from sale and maturity of investments
+
+473,075
+
+574,165
+
+468,456
+
+Net cash used in investing activities
+
+(
+164,410
+
+)
+
+(
+83,293
+
+)
+
+(
+280,743
+
+)
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+
+Proceeds from issuance of common stock
+
+2,220
+
+2,012
+
+1,570
+
+Payment of withholding taxes related to stock-based compensation to employees
+
+(
+8,386
+
+)
+
+(
+8,206
+
+)
+
+(
+9,209
+
+)
+
+Cash dividends paid
+
+(
+76,169
+
+)
+
+(
+66,735
+
+)
+
+(
+56,996
+
+)
+
+Net cash used in financing activities
+
+(
+82,335
+
+)
+
+(
+72,929
+
+)
+
+(
+64,635
+
+)
+
+INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS
+
+6,995
+
+(
+1,445
+
+)
+
+(
+218,563
+
+)
+
+CASH AND CASH EQUIVALENTS, BEGINNING OF YEAR
+
+91,985
+
+93,430
+
+311,993
+
+CASH AND CASH EQUIVALENTS, END OF YEAR
+
+$
+
+98,980
+
+$
+
+91,985
+
+$
+
+93,430
+
+SUPPLEMENTAL DISCLOSURES:
+
+Unrealized gain (loss) on available-for-sale securities
+
+$
+
+411
+
+$
+
+8,938
+
+$
+
+(
+8,100
+
+)
+
+Common stock issued to Board of Directors and Scientific Advisory Board 
+   that was earned and accrued for in a previous period
+
+300
+
+300
+
+300
+
+Net change in accounts payable and accrued expenses related to purchases 
+   of property and equipment
+
+(
+9,448
+
+)
+
+678
+
+3,069
+
+Cash paid for income taxes, net of refunds
+
+71,973
+
+96,176
+
+72,347
+
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+
+F-
+10
+
+UNIVERSAL DISPLAY CORPORATION AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED
+ FINANCIAL STATEMENTS
+
+1.
+BUSINESS:
+Universal Display Corporation and its subsidiaries (the Company) is a leader in the research, development and commercialization of organic light emitting diode (OLED) technologies and materials for use in display and solid-state lighting applications. OLEDs are thin, lightweight and power-efficient solid-state devices that emit light and can be manufactured on both flexible and rigid substrates, making them highly suitable for use in full-color displays and as lighting products. OLED displays are capturing a growing share of the display market, especially in the mobile phone, television, monitor, wearable, tablet, notebook and personal computer, augmented reality (AR), virtual reality (VR) and automotive markets. The Company believes this is because OLEDs offer potential advantages over competing display technologies with respect to power efficiency, contrast ratio, viewing angle, video response time, form factor and manufacturing cost. The Company also believes that OLED lighting products have the potential to replace many existing light sources in the future because of their high-power efficiency, excellent color rendering index, low operating temperature and novel form factor. The Company’s technology leadership, intellectual property position, and more than 20 years of experience working closely with leading OLED display manufacturers are some of the competitive advantages that should enable the Company to continue to share in the revenues from OLED displays and lighting products as they continue to gain wider adoption.
+The Company’s primary business strategy is to (1) develop new OLED materials and sell existing and new materials to product manufacturers of products for display applications, such as mobile phones, televisions, monitors, wearables, tablets, portable media devices, notebook computers, personal computers and automotive applications, and specialty lighting products; and (2) further develop and either license or otherwise commercialize the Company’s proprietary OLED material, device design and manufacturing technologies to those manufacturers. The Company has established a significant portfolio of proprietary OLED technologies and materials, primarily through internal research and development efforts and acquisitions of patents and patent applications, as well as maintaining long-standing, and establishing new relationships with world-class universities, research institutions and strategic manufacturing partnerships. The Company currently owns, exclusively licenses or has the sole right to sublicense more than 
+6,500
+ patents issued and pending worldwide.
+The Company manufactures and sells its proprietary OLED materials to customers for evaluation and use in commercial OLED products. The Company also enters into agreements with manufacturers of OLED display and lighting products under which it grants them licenses to practice under the Company’s patents and to use the Company's proprietary know-how. At the same time, the Company works with these and other companies that are evaluating the Company's OLED material, device design and manufacturing technologies for possible use in commercial OLED display and lighting products.
+
+2.
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES:
+Principles of Consolidation
+The Consolidated Financial Statements include the accounts of Universal Display Corporation and its wholly owned subsidiaries, UDC, Inc., UDC Ireland Limited (UDC Ireland), Universal Display Corporation Hong Kong, Limited, Universal Display Corporation Korea, Y.H. (UDC Korea), Universal Display Corporation Japan GK, Universal Display Corporation China, Ltd., Adesis, Inc. (Adesis), UDC Ventures LLC, OVJP Corporation (OVJP Corp), OLED Material Manufacturing Limited (OMM) and Universal Vapor Jet Corporation Pte. Ltd. (UVJC). All intercompany transactions and accounts have been eliminated.
+Segment Information
+The Company has 
+one
+ reportable business segment, namely OLED technologies and materials. The Company also performs contract development and manufacturing support services through its subsidiary, Adesis, as well as research and development activities in organic vapor jet printing (OVJP) technology. However, these latter two activities do not rise to the level of significance to qualify as reportable segments and as such, are combined into the single OLED Materials reportable segment OLED materials managed on a consolidated basis. Factors that went into this determination included examining the nature and significance of the various business activities the Company engages in, and the availability of discrete data for those business activities.
+
+The Company’s Chief Operating Decision Maker (CODM) is its President and Chief Executive Officer. The President and Chief Executive Officer is the highest level of management responsible for the allocation of the Company’s resources and acts as the “assessor of the financial performance” of the Company. In a review of the financial decision making process, it was determined that the CODM primarily utilizes information consistent with that already incorporated in the existing consolidated financial statements. These measures include revenue, operating expense, net income and assets. As such, the Consolidated Financial Statements presentation is consistent with how the Company's CODM evaluates the results of operations and formulates strategic decisions about the business.
+
+F-
+11
+
+Reclassification of Prior Year Presentation
+Certain prior year adjustments to reconcile net income to net cash provided by operating activities have been reclassified on the Consolidated Statements of Cash Flows to conform to the current year presentation. Stock-based compensation activity has been consolidated and includes stock-based compensation to employees, Board of Directors, and Scientific Advisory Board.
+
+Certain prior year adjustments have been reclassified on the Consolidated Statements of Shareholders' Equity to conform to the current year presentation. Stock-based compensation and ESPP activity, net of taxes withheld has been consolidated and includes issuance of common stock to employees, shares withheld for employee taxes, issuance of common stock to Board of Directors and Scientific Advisory Board, cancellation of restricted stock units and issuance of common stock to employees under an ESPP.
+Management’s Use of Estimates
+The preparation of financial statements in conformity with U.S. generally accepted accounting principles (GAAP) requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. The estimates made are principally in the areas of revenue recognition including estimates of material unit sales and royalties, the useful life of acquired intangibles, lease liabilities, right-of-use assets, the use and recoverability of inventories, intangibles, investments and income taxes including realization of deferred tax assets, stock-based compensation and retirement benefit plan liabilities. Actual results could differ from those estimates.
+Cash, Cash Equivalents and Investments
+The Company considers all highly liquid debt instruments purchased with an original maturity (maturity at the purchase date) of 
+three months or less
+ to be cash equivalents. The Company classifies its remaining investments as available-for-sale. These securities (excluding minority equity investments) are carried at fair market value, with unrealized gains and losses reported in shareholders’ equity. Gains or losses on securities sold are based on the specific identification method.
+Trade Accounts Receivable
+Trade accounts receivable are stated at the amount the Company expects to collect and do not bear interest. The Company considers the following factors when determining the collectability of specific customer accounts: customer credit-worthiness, past transaction history with the customer, current economic industry trends, and changes in customer payment terms. The Company’s accounts receivable balance is a result of chemical sales, royalties and license fees. These receivables have historically been paid timely. Due to the nature of the accounts receivable balance, the Company believes there is no significant collection risk. If the financial condition of the Company’s customers were to deteriorate, adversely affecting their ability to make payments, allowances for credit losses would be required. As of December 31, 2024 and 2023
+, the allowance for credit losses was $
+175,000
+ and $
+166,000
+, respectively.
+Inventories
+Inventories consist of raw materials, work-in-process and finished goods, and are stated at the lower of cost, determined on a first-in, first-out basis, or net realizable value. Inventory valuation and firm committed purchase order assessments are performed on a quarterly basis and those items that are identified to be obsolete or in excess of forecasted usage are written down to their estimated realizable value. Estimates of realizable value are based upon management’s analyses and assumptions, including, but not limited to, forecasted sales levels by product, expected product lifecycle, product development plans and future demand requirements. A 12-month rolling forecast based on factors, including, but not limited to, production cycles, anticipated product orders, marketing forecasts, backlog, and shipment activities is used in the inventory analysis. If market conditions are less favorable than forecasts or actual demand from customers is lower than estimates, additional inventory write-downs may be required. If demand is higher than expected, inventories that had previously been written down may be sold.
+Property and Equipment
+Property and equipment are stated at cost and depreciated on a straight-line basis over the estimated useful life of 
+30
+ years for buildings, 
+15
+ years for building improvements, and 
+three
+ to 
+seven years
+ for office and lab equipment and furniture and fixtures. Repair and maintenance costs are charged to expense as incurred. Additions and betterments are capitalized.
+Major renewals and improvements are capitalized, and minor replacements, maintenance, and repairs are charged to current operations as incurred. Upon retirement or disposal of assets, the cost and related accumulated depreciation are removed from the Consolidated Balance Sheets and any gain or loss is reflected in other operating expenses.
+
+F-
+12
+
+Certain costs of computer software obtained for internal use are capitalized and amortized on a straight-line basis over 
+three years
+. Costs for maintenance and training, as well as the cost of software that does not add functionality to an existing system, are expensed as incurred.
+
+Impairment of Long-Lived Assets
+Company management continually evaluates whether events or changes in circumstances might indicate that the remaining estimated useful life of long-lived assets may warrant revision, or that the remaining balance may not be recoverable. When factors indicate that long-lived assets should be evaluated for possible impairment, the Company uses an estimate of the related undiscounted cash flows in measuring whether the long-lived asset should be written down to fair value. Measurement of the amount of impairment would be based on generally accepted valuation methodologies, as deemed appropriate.
+
+As a result of the planned closure of OVJP Corp's location in California and related restructuring, the Company determined to record a $
+7.5
+ million impairment of property and equipment and right-of-use asset for the year ended December 31, 2024. As of 
+December 31, 2024, Company management believed that no additional revision to the remaining useful lives or write-down of the Company’s long-lived assets was required, and similarly, no such revisions were required for the years ended December 31, 2023 or 2022
+.
+Goodwill and Purchased Intangible Assets
+Goodwill is tested for impairment in the fourth fiscal quarter and, when specific circumstances dictate, between annual tests. If after assessing the totality of events or circumstances as those described in the qualitative assessment, it is determined that it is more likely than not the fair value of a reporting unit is less than its carrying amount, then a quantitative goodwill impairment test will be performed. Under the quantitative test, the fair value of the reporting unit is compared to its carrying amount including goodwill. If the fair value of the reporting unit exceeds its carrying amount, goodwill of the reporting unit would be considered not impaired. However, if the carrying amount of the reporting unit exceeds its fair value, an impairment loss would be recognized in the amount equal to the excess, limited to the total amount of goodwill allocated to that reporting unit. The Company performed its annual impairment assessment as of December 31, 2024 utilizing a qualitative assessment and concluded that it was more likely than not that the fair value of Adesis is greater than its carrying value. Future impairment tests will continue to be performed annually in the fiscal fourth quarter, or sooner if a triggering event occurs. As of December 31, 2024
+, 
+no
+ indications of impairment existed.
+Purchased intangible assets with finite lives are carried at cost, less accumulated amortization. Amortization is computed over the estimated useful lives of the respective assets.
+Fair Value of Financial Instruments
+The carrying values of accounts receivable, other current assets, accounts payable and other current liabilities approximate fair value in the accompanying Consolidated Financial Statements due to the short-term nature of those instruments. The Company’s other financial instruments, which include cash equivalents and investments (excluding minority equity investments) are carried at fair value.
+Fair Value Measurements
+
+Fair value is defined as an exit price, representing the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants based on the highest and best use of the asset or liability. The Company uses valuation techniques to measure fair value that maximize the use of observable inputs and minimize the use of unobservable inputs. Observable inputs are inputs that market participants would use in pricing the asset or liability and are based on market data obtained from sources independent of the Company. Unobservable inputs reflect assumptions market participants would use in pricing the asset or liability based on the best information available in the circumstances.
+
+F-
+13
+
+Minority Equity Investments
+
+The Company accounts for minority equity investments in companies that are not accounted for under the equity method as equity securities without readily determinable fair values. The value of these securities is based on original cost less impairments, if any, plus or minus changes resulting from observable price changes in orderly transactions for the identical or similar investment in the same issuer. Under this method, the share of income or loss of such companies is not included in the Consolidated Statements of Income. The carrying value of these investments is included in investments on the Consolidated Balance Sheets.
+
+The Company’s policy is to recognize an impairment in the value of its minority equity investments when evidence of an impairment exists. Factors considered in the assessment include a significant adverse change in the regulatory, economic, or technological environment, the completion of new equity financing that may indicate a decrease in value, the failure to complete new equity financing arrangements after seeking to raise additional funds, or the commencement of proceedings under which the assets of the business may be placed in receivership or liquidated to satisfy the claims of debt and equity stakeholders. The impairment in the value of minority equity investments is included in the other loss, net line item on the Consolidated Statements of Income.
+
+Leases
+
+The Company is a lessee in operating leases primarily incurred to facilitate manufacturing, research and development, and selling, general and administrative activities. At contract inception, the Company determines if an arrangement is or contains a lease, and if so recognizes a right-of-use asset and lease liability at the lease commencement date. For operating leases, the lease liability is measured at the present value of the unpaid lease payments at the lease commencement date, whereas for finance leases, the lease liability is initially measured at the present value of the unpaid lease payments and subsequently measured at amortized cost using the interest method. Operating lease right-of-use assets are included in other assets on the Consolidated Balance Sheets. The short-term portion of operating lease liabilities is included in other current liabilities on the Consolidated Balance Sheets and the long-term portion is included in other liabilities on the Consolidated Balance Sheets. As of December 31, 2024, the Company had no leases that qualified as financing arrangements.
+Key estimates and judgments include how the Company determines the discount rate used to discount the unpaid lease payments to present value and the lease term. The Company monitors for events or changes in circumstances that could potentially require recognizing an impairment loss.
+Revenue Recognition and Deferred Revenue
+Material sales relate to the Company’s sale of its OLED materials for incorporation into its customers’ commercial OLED products or for their OLED development and evaluation activities. Revenue associated with material sales is generally recognized at the time title passes, which is typically at the time of shipment or at the time of delivery, depending upon the contractual agreement between the parties. Revenue may be recognized after control of the material passes in the event the transaction price includes variable consideration. For example, a customer may be provided an extended opportunity to stock materials prior to use in mass production and given a general right of return not conditioned on breaches of warranties associated with the specific product. In such circumstances, revenue will be recognized at the earlier of the expiration of the customer’s general right of return or once it becomes unlikely that the customer will exercise its right of return.
+The vast majority of revenue attributed to material sales is determined through technology license agreements and material supply agreements the terms of which are jointly agreed upon with the Company’s customers. The remaining revenue recognized is in the form of contract research services revenue earned by the Company’s subsidiary, Adesis, Inc., and the Company’s occasional material sales to smaller customers. None of the revenue recognized during the years ended December 31, 2024, 2023 or 2022 resulted solely from royalty or license fee arrangements as to which there were not associated material sales.
+The rights and benefits to the Company’s OLED technologies are conveyed to the customer through technology license agreements and material supply agreements. The Company believes that the licenses and materials sold under these combined agreements are not distinct from each other for financial reporting purposes and as such, they are accounted for as a single performance obligation. Accordingly, total contract consideration is estimated and recognized over the contract term based on material units sold at the estimated per unit fee over the life of the contract. Total contract consideration is allocated to material sales and royalty and licensing fees on the Consolidated Statements of Income based on contract pricing.
+Various estimates are relied upon to recognize revenue. The Company estimates total material units to be purchased by its customers over the contract term based on historical trends, industry estimates and its forecast process. Management uses the expected value method to estimate the material per unit fee. Additionally, management estimates the sales-based portion of royalty revenue based on the estimated net sales revenue of its customers over the contract term.
+
+F-
+14
+
+Contract research services revenue is revenue earned by Adesis by providing chemical materials synthesis research, development and commercialization for non-OLED applications on a contractual basis. These services range from intermediates for structure-activity relationship studies, reference agents and building blocks for combinatorial synthesis, re-synthesis of key intermediates, specialty organic chemistry needs, and selective toll manufacturing. These services are provided to third-party pharmaceutical and life sciences firms and other technology firms at fixed costs or predetermined rates on a contract basis. Revenue is recognized as services are performed with billing schedules and payment terms negotiated on a contract-by-contract basis. Payments received in excess of revenue recognized are recorded as deferred revenue. In other cases, services may be provided and revenue is recognized before the customer is invoiced. In these cases, revenue recognized will exceed amounts billed and the difference, representing amounts which are currently unbillable to the customer pursuant to contractual terms, is recorded as an unbilled receivable.
+
+Technology development and support revenue is revenue earned from development and technology evaluation agreements and commercialization assistance fees. Technology development and support revenue is included in contract research services on the Consolidated Statements of Income.
+On December 2, 2022, the Company entered into a commercial patent license agreement with Samsung Display Co., Ltd. (SDC), replacing a previous license agreement that had been in place since 2018. This agreement, which covers the manufacture and sale of specified OLED display materials, was effective as of January 1, 2023 and lasts through the end of 2027 with an additional two-year extension option for SDC. Under this agreement, the Company is being paid a license fee, which includes quarterly and annual payments over the agreement term. The agreement conveys to SDC the non-exclusive right to use certain of the Company's intellectual property assets for a limited period of time that is less than the estimated life of the assets.
+At the same time the Company entered into the current commercial license agreement with SDC, the Company also entered into a new supplemental material purchase agreement with SDC, which lasts for the same term as the license agreement and is subject to the same extension option. This new material purchase agreement replaced a previous purchase agreement that had been in place since 2018. Under the supplemental material purchase agreement, SDC agrees to purchase red and green phosphorescent emitter materials from the Company for use in the manufacture of licensed products. This amount purchased is subject to SDC’s requirements for phosphorescent emitter materials and the Company’s ability to meet these requirements over the term of the supplemental agreement.
+In 2015, the Company entered into an OLED patent license agreement and an OLED commercial supply agreement with LG Display Co., Ltd. (LG Display). The terms of these agreements have been extended through the end of 2025. The patent license agreement provides LG Display a non-exclusive, royalty bearing portfolio license to make and sell OLED displays under the Company's patent portfolio. The patent license calls for license fees, prepaid royalties and running royalties on licensed products. The OLED commercial supply agreement provides for the sale of materials for use by LG Display, which may include phosphorescent emitters and host materials. The agreements provide for certain other minimum obligations relating to the volume of material sales anticipated over the lives of the agreements as well as minimum royalty revenue.
+In 2023, the Company entered into new long-term, multi-year agreements with BOE Technology Group Co., Ltd. (BOE). Under these agreements, the Company has granted BOE non-exclusive license rights under various patents owned or controlled by the Company to manufacture and sell OLED display products. The Company supplies phosphorescent OLED materials to BOE for use in its licensed products.
+In 2019, the Company entered into an evaluation and commercial supply relationship with Wuhan China Star Optoelectronics Semiconductor Display Technology Co., Ltd. (CSOT). In 2020, the Company entered into long-term, multi-year agreements with CSOT. Under these agreements, the Company has granted CSOT non-exclusive license rights under various patents owned or controlled by the Company to manufacture and sell OLED display products. The Company also supplies phosphorescent OLED materials to CSOT for use in its licensed products.
+In 2024, the Company entered into new long-term, multi-year agreements with Visionox Technology, Inc. (Visionox). Under these agreements, the Company has granted Visionox non-exclusive license rights under various patents owned or controlled by the Company to manufacture and sell OLED display products. Additionally, the Company supplies phosphorescent OLED materials to Visionox for use in its licensed products.
+In 2016, the Company entered into long-term, multi-year OLED patent license and material purchase agreements with Tianma Micro-electronics Co., Ltd. (Tianma). Under the license agreement, the Company has granted Tianma non-exclusive license rights under various patents owned or controlled by the Company to manufacture and sell OLED display products. The license agreement calls for license fees and running royalties on licensed products. Additionally, the Company supplies phosphorescent OLED materials to Tianma for use in its licensed products. In 2021, the parties extended the terms of both the patent license and material purchase agreements for an additional multi-year-term.
+
+F-
+15
+
+All material sales transactions that are not variable consideration transactions are billed and due within 90 days and substantially all are transacted in U.S. dollars.
+Cost of Sales
+Cost of sales consists of labor and material costs associated with the production of materials processed at the facilities of the Company's manufacturing partner, PPG Industries, Inc. (PPG) and at the Company's internal facilities. The Company’s portion of cost of sales also includes depreciation of manufacturing equipment, as well as manufacturing overhead costs and inventory adjustments for excess and obsolete inventory.
+Research and Development
+Expenditures for research and development are charged to expense as incurred.
+Restructuring
+The Company has current restructuring initiatives taking place, and it is possible that the Company may engage in future restructuring activities. Identifying and calculating the cost to exit these operations requires certain assumptions to be made, the most significant of which are anticipated future liabilities, including leases and other contractual obligations, and the adjustment of property and equipment to net realizable value. The Company believes the estimates are reasonable, considering the Company's knowledge of the industries it operates in. However, significant judgment is required, and these estimates and assumptions may change as additional information becomes available and facts or circumstances change.
+In June 2020, the Company formed a wholly-owned subsidiary, OVJP Corp in California, as a Delaware corporation, which was founded to advance the commercialization of the Company's proprietary OVJP technology. In December 2024, the Company announced that the OVJP Corp facility in California would be closing and OVJP operations would be relocated to the Company's newly formed subsidiary, UVJC in Singapore, as well as continued operations in the Company's Tech and Innovation Center in New Jersey. 
+As a result of the planned closure of OVJP Corp's location in California, the Company determined to record $
+8.9
+ million of restructuring costs for the year ended December 31, 2024. The restructuring costs include impairment of property and equipment of $
+6.1
+ million, impairment of the OVJP right-of-use asset of $
+1.4
+ million, 
+$
+1.0
+ million of employee-related costs, and $
+400,000
+ of ancillary expenses. 
+The OVJP Corp restructuring costs are included in the research and development expense line item on the Consolidated Statements of Income.
+
+Patent Costs
+
+Costs associated with patent applications, patent prosecution, patent defense and the maintenance of patents are charged to expense as incurred. Costs to successfully defend a challenge to a patent are capitalized to the extent of an evident increase in the value of the patent. Costs that relate to an unsuccessful outcome are charged to expense.
+
+Amortization of Acquired Technology
+Amortization costs primarily relate to technology acquired from Merck KGaA, Darmstadt, Germany (Merck KGaA) and BASF SE (BASF). The Merck KGaA acquisition was completed on April 28, 2023 and the BASF acquisition was completed during the year ended December 31, 2016. Acquisition costs are being amortized over a period of 
+10 
+years for the Merck KGaA and BASF patents.
+
+Amortization of Other Intangible Assets
+Other intangible assets from the Adesis acquisition are being amortized over a period of 
+10
+ to 
+15 years
+. See Note 7 for further discussion.
+Translation of Foreign Currency Financial Statements and Foreign Currency Transactions
+The 
+Company’s reporting currency is the U.S. dollar. The functional currency for the UDC Ireland and UDC Korea subsidiaries are also the U.S. dollar and the functional currency for the OMM subsidiary and each of the Company's other Asia-Pacific foreign subsidiaries is its respective local currency. The Company translates the amounts included in the Consolidated Statements of Income from OMM and its Asia-Pacific foreign subsidiaries into U.S. dollars at weighted-average exchange rates, which the Company believes are representative of the actual exchange rates on the dates of the transactions. The Company's OMM subsidiary and each of the Company's other Asia-Pacific foreign subsidiaries' assets and liabilities are translated into U.S. dollars from the local currency at the actual exchange rates as of the end of each reporting date, and the Company records the resulting foreign exchange translation
+
+F-
+16
+
+adjustments 
+in the Consolidated Balance Sheets as a component of accumulated other comprehensive loss. The overall effect of the translation of foreign currency and foreign currency transactions to date has been insignificant.
+Income Taxes
+Income taxes are accounted for under the asset and liability method. Deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases and operating loss and tax credit carryforwards. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period that includes the enactment date. The Company recognizes the effect of income tax positions only if those positions are more likely than not of being sustained. 
+Recognized income tax positions are measured at the largest amount of which the likelihood of realization is greater than 50%. 
+Changes in recognition or measurement are reflected in the period in which the change in judgment occurs. The Company records interest and penalties, if any, related to unrecognized tax benefits as a component of tax expense.
+Share-Based Payment Awards
+The Company recognizes in the Consolidated Statements of Income the grant-date fair value of equity-based awards such as shares issued under employee stock purchase plans, restricted stock awards, restricted stock units and performance unit awards issued to employees and directors.
+The grant-date fair value of stock awards is based on the closing price of the stock on the date of grant. The fair value of share-based awards is recognized as compensation expense on a straight-line basis over the requisite service period, net of forfeitures. The Company issues new shares upon the respective grant, exercise or vesting of the share-based payment awards, as applicable.
+Performance unit awards are subject to either a performance-based or market-based vesting requirement. For performance-based vesting, the grant-date fair value of the award, based on fair value of the Company's common stock, is recognized over the service period based on an assessment of the likelihood that the applicable performance goals will be achieved, and compensation expense is periodically adjusted based on actual and expected performance. Compensation expense for performance unit awards with market-based vesting is calculated based on the estimated fair value as of the grant date utilizing a Monte Carlo simulation model and is recognized over the service period on a straight-line basis.
+Recent Accounting Pronouncements
+Adoption of New Accounting Standards
+In June 2022, the FASB issued ASU No. 2022-03, Fair Value Measurement (Topic 820): Fair Value Measurement of Equity Securities Subject to Contractual Sale Restrictions. Under this standard, a contractual restriction on the sale of an equity security is not considered in measuring the security's fair value. The standard also requires certain disclosures for equity securities that are subject to contractual restrictions. The adoption of ASU 2022-03, beginning on January 1, 2024, did not have an impact on the Consolidated Financial Statements and related disclosures.
+In November 2023, the FASB issued ASU No. 2023-07, 
+Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures
+. The standard improves the reportable segment disclosure requirements, primarily through enhanced disclosures about significant segment expenses. The adoption of ASU 2023-07, during the annual period ended December 31, 2024, resulted in the "Segment Information" disclosure included in Note 2.
+
+Accounting Standards Issued But Not Yet Adopted
+In December 2023, the FASB issued ASU No. 2023-09, 
+Improvements to Income Tax Disclosures (Topic 740)
+. The standard enhances to the annual income tax disclosures to address investor requests for more information about the tax risks and opportunities present in an entity's worldwide operations. ASU 2023-09 becomes effective for annual reporting periods beginning after December 15, 2024, and the Company is evaluating the potential impact of this standard on its income tax disclosures.
+In March 2024, the FASB issued ASU No. 2024-01, 
+Compensation - Stock Compensation (Topic 718)
+. The standard provides guidance to reduce complexity and diversity in practice in determining whether a profits interest award is accounted for as a share-based payment. Early adoption is permitted. This guidance can be applied either retrospectively to all prior periods presented in the financial statements or prospectively to profits interest or similar awards granted or modified on or after the effective date for our application of this guidance. The Company does not expect ASU 2024-01, which becomes effective for annual reporting periods after December 15, 2024 and interim periods within those annual periods, to have an impact on its Consolidated Financial Statements and related disclosures.
+In November 2024, the FASB issued ASU No. 2024-03, 
+Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures (Topic 220)
+. 
+The standard requires new financial statement disclosures disaggregating information about
+
+F-
+17
+
+prescribed 
+categories underlying any relevant income statement expense caption. ASU 2024-03 becomes effective for annual reporting periods beginning after December 15, 2026, and interim periods beginning after December 15, 2027. The Company is evaluating the potential impact of this standard on the Consolidated Financial Statements and related disclosures.
+
+3.
+CASH, CASH EQUIVALENTS AND INVESTMENTS:
+The Company’s portfolio of marketable fixed income securities consists of U.S. Government bonds and corporate bonds. The Company considers all highly liquid debt instruments purchased with an original maturity (maturity at the purchase date) of three months or less to be cash equivalents. The Company classifies its remaining debt security investments as available-for-sale. These debt securities are carried at fair market value, with unrealized gains and losses reported in shareholders’ equity. Gains or losses on securities sold are based on the specific identification method.
+Cash and Cash Equivalents
+The following table provides details regarding the Company’s portfolio of cash and cash equivalents (in thousands):
+
+Cost or
+
+Unrealized
+
+Aggregate
+
+Fair
+
+Cash and Cash Equivalents Classification
+
+Amortized Cost
+
+Gains
+
+(Losses)
+
+Market Value
+
+December 31, 2024
+
+Cash accounts in banking institutions
+
+$
+
+96,318
+
+$
+
+—
+
+$
+
+—
+
+$
+
+96,318
+
+Money market accounts
+
+2,662
+
+—
+
+—
+
+2,662
+
+$
+
+98,980
+
+$
+
+—
+
+$
+
+—
+
+$
+
+98,980
+
+December 31, 2023
+
+Cash accounts in banking institutions
+
+$
+
+91,717
+
+$
+
+—
+
+$
+
+—
+
+$
+
+91,717
+
+Money market accounts
+
+268
+
+—
+
+—
+
+268
+
+$
+
+91,985
+
+$
+
+—
+
+$
+
+—
+
+$
+
+91,985
+
+Short-term Investments
+The following table provides details regarding the Company’s portfolio of short-term investments (in thousands):
+
+Cost or
+
+Unrealized
+
+Aggregate
+
+Fair
+
+Short-term Investments Classification
+
+Amortized Cost
+
+Gains
+
+(Losses)
+
+Market Value
+
+December 31, 2024
+
+U.S. Government bonds
+
+$
+
+392,778
+
+$
+
+758
+
+$
+
+—
+
+$
+
+393,536
+
+Marketable securities (1)
+
+142
+
+12
+
+—
+
+154
+
+$
+
+392,920
+
+$
+
+770
+
+$
+
+—
+
+$
+
+393,690
+
+December 31, 2023
+
+Corporate bonds
+
+$
+
+1,763
+
+$
+
+1
+
+$
+
+(
+5
+
+)
+
+$
+
+1,759
+
+U.S. Government bonds
+
+420,769
+
+303
+
+(
+694
+
+)
+
+420,378
+
+$
+
+422,532
+
+$
+
+304
+
+$
+
+(
+699
+
+)
+
+$
+
+422,137
+
+(1)
+Changes in aggregate fair market value recorded in other loss, net on the Consolidated Statements of Income.
+Long-term U.S. Government Bond Investments
+The following table provides details regarding the Company’s portfolio of long-term investments (in thousands):
+
+Cost or
+
+Unrealized
+
+Aggregate
+
+Fair
+
+Long-term Investments Classification
+
+Amortized Cost
+
+Gains
+
+(Losses)
+
+Market Value
+
+December 31, 2024
+
+U.S. Government bonds
+
+$
+
+434,766
+
+$
+
+1,302
+
+$
+
+(
+595
+
+)
+
+$
+
+435,473
+
+$
+
+434,766
+
+$
+
+1,302
+
+$
+
+(
+595
+
+)
+
+$
+
+435,473
+
+December 31, 2023
+
+U.S. Government bonds
+
+284,053
+
+1,457
+
+(
+8
+
+)
+
+$
+
+285,502
+
+$
+
+284,053
+
+$
+
+1,457
+
+$
+
+(
+8
+
+)
+
+$
+
+285,502
+
+F-
+18
+
+Minority Equity Investments and Convertible Notes
+The Company’s portfolio of minority equity investments and convertible notes consists of investments in privately held early-stage companies primarily motivated for the Company to gain early access to new technology and are passive in nature in that the Company typically does not seek to obtain representation on the boards of directors of the companies in which it invests. Minority equity investments and convertible notes are included in investments on the Consolidated Balance Sheets. As of December 31, 2024 and December 31, 2023
+, the Company had minority equity investments in six and five entities, respectively, with a total carrying value of $
+18.6
+ million and $
+14.0
+ million, respectively, accounted for as equity securities without readily determinable fair values. As of 
+December 31, 2024
+, the Company had 
+two
+ convertible note investments, with a total fair value of $
+3.5
+ million accounted for as available-for-sale debt securities without readily determinable fair values. As of 
+December 31, 2023
+, the Company had 
+no
+ convertible note investments.
+During the years ended December 31, 2024 and 2023
+, the Company did not recognize an impairment in the value of its minority equity investments.
+
+4.
+FAIR VALUE MEASUREMENTS:
+The following table provides the assets and liabilities carried at fair value measured on a recurring basis as of 
+December 31, 2024 (in thousands):
+
+Fair Value Measurements, Using
+
+Total Carrying Value
+as of December 31,
+ 2024
+
+Quoted Prices in 
+Active Markets 
+(Level 1)
+
+Significant Other
+Observable Inputs
+(Level 2)
+
+Significant Unobservable
+Inputs
+(Level 3)
+
+Short-term U.S. Government bonds
+
+$
+
+393,536
+
+$
+
+393,536
+
+$
+
+—
+
+$
+
+—
+
+Long-term U.S. Government bonds
+
+435,473
+
+435,473
+
+—
+
+—
+
+Cash equivalents
+
+2,662
+
+2,662
+
+—
+
+—
+
+Short-term Marketable Securities
+
+154
+
+154
+
+—
+
+—
+
+The following table provides the assets and liabilities carried at fair value measured on a recurring basis as of December 31, 2023 (in thousands):
+
+Fair Value Measurements, Using
+
+Total Carrying Value
+as of December 31,
+ 2023
+
+Quoted Prices in
+Active Markets 
+(Level 1)
+
+Significant Other
+Observable Inputs
+(Level 2)
+
+Significant Unobservable
+Inputs
+(Level 3)
+
+Short-term U.S. Government bonds
+
+$
+
+420,378
+
+420,378
+
+—
+
+—
+
+Long-term U.S. Government bonds
+
+285,502
+
+285,502
+
+—
+
+—
+
+Short-term Corporate bonds
+
+1,759
+
+1,759
+
+—
+
+—
+
+Cash equivalents
+
+268
+
+268
+
+—
+
+—
+
+F-
+19
+
+Level 1 inputs are quoted prices (unadjusted) in active markets for identical assets or liabilities. Level 2 inputs are quoted prices for similar assets and liabilities in active markets or inputs that are observable for the asset or liability, either directly or indirectly through market corroboration, for substantially the full term of the financial instrument. Level 3 inputs are unobservable inputs based on management’s own assumptions used to measure assets and liabilities at fair value. A financial asset’s or liability’s classification is determined based on the lowest level input that is significant to the fair value measurement.
+Changes in fair value of the debt investments are recorded as unrealized gains and losses in accumulated other comprehensive loss on the Consolidated Balance Sheets and any credit losses on debt investments are recorded as an allowance for credit losses with an offset recognized in other loss, net on the Consolidated Statements of Income. There were 
+no
+ credit losses on debt investments as of 
+December 31, 2024 or December 31, 2023
+.
+
+5.
+INVENTORY:
+Inventory consisted of the following (in thousands):
+
+December 31,
+
+2024
+
+2023
+
+Raw materials
+
+$
+
+106,795
+
+$
+
+113,400
+
+Work-in-process
+
+16,374
+
+9,433
+
+Finished goods
+
+59,769
+
+52,962
+
+Inventory
+
+$
+
+182,938
+
+$
+
+175,795
+
+The Company recorded an increase in its inventory reserves of $
+3.1
+ million, $
+8.5
+ million and $
+3.6
+ million for the years ended 
+December 31, 2024, 2023 and 2022
+, respectively, due to excess inventory levels in certain products.
+
+6.
+PROPERTY AND EQUIPMENT:
+Property and equipment, net consist of the following (in thousands):
+
+December 31,
+
+2024
+
+2023
+
+Land
+
+$
+
+12,230
+
+$
+
+12,230
+
+Building and improvements
+
+131,288
+
+116,903
+
+Office and lab equipment
+
+159,448
+
+148,465
+
+Furniture, fixtures and computer related assets
+
+16,858
+
+18,970
+
+Construction-in-progress
+
+45,292
+
+22,490
+
+365,116
+
+319,058
+
+Less: Accumulated depreciation
+
+(
+169,877
+
+)
+
+(
+143,908
+
+)
+
+Property and equipment, net
+
+$
+
+195,239
+
+$
+
+175,150
+
+Depreciation expense was $
+25.9
+ million, $
+27.4
+ million and $
+24.8
+ million for the years ended 
+December 31, 2024, 2023 and 2022
+, respectively. For the year ended December 31, 2024, the Company recorded impairment expense of $
+6.1
+ million related to the planned closure of OVJP Corp's California location and related restructuring. The increase in construction-in-progress during the year ended December 31, 2024 was primarily due to the expansion of the Company's manufacturing facility in Shannon, Ireland and research and development facility in Ewing, NJ.
+
+7.
+GOODWILL AND INTANGIBLE ASSETS:
+The Company monitors the recoverability of goodwill annually or whenever events or changes in circumstances indicate the carrying value may not be recoverable. Purchased intangible assets subject to amortization consist of acquired technology and other intangible assets that include trade names, customer relationships and developed intellectual property (IP) processes.
+
+F-
+20
+
+Acquired Technology
+Acquired technology primarily consists of acquired license rights for patents and know-how obtained from Merck KGaA, BASF and Fujifilm. These intangible assets consist of the following (in thousands)
+:
+
+December 31,
+
+2024
+
+2023
+
+Merck KGaA
+
+66,012
+
+66,012
+
+BASF
+
+95,989
+
+95,989
+
+Fujifilm
+
+109,462
+
+109,462
+
+Other
+
+5,712
+
+5,712
+
+277,175
+
+277,175
+
+Less: Accumulated amortization
+
+(
+203,621
+
+)
+
+(
+186,850
+
+)
+
+Acquired technology, net
+
+$
+
+73,554
+
+$
+
+90,325
+
+Amortization expense related to acquired technology was $
+16.8
+ million, $
+14.6
+ million and $
+16.0
+ million for the years ended 
+December 31, 2024, 2023 and 2022
+, respectively. Amortization expense is included in amortization of acquired technology and other intangible assets expense line item on the Consolidated Statements of Income and is expected to be $
+16.8
+ million in the year ending December 31, 2025, $
+12.0
+ million in the year ending December 31, 2026, $
+7.2
+ million in each of the years ending December 31, 2027 and 2028, $
+7.1
+ million in the year ending December 31, 2029, and $
+23.3
+ million in total thereafter.
+Merck KGaA Patent Acquisition
+In April 2023, UDC Ireland entered into a Patent Sale and License Agreement with Merck KGaA. Under this agreement, Merck KGaA sold to UDC Ireland all of its rights, title and interest to over 
+550
+ of its owned and licensed OLED-related patents and patent applications in exchange for a cash payment of $
+66.0
+ million. The Patent Sale and License Agreement contains customary representations, warranties and covenants of the parties. UDC Ireland recorded the payment of $
+66.0
+ million as acquired technology, which is being amortized over a period of 
+10
+ years.
+BASF Patent Acquisition
+On June 28, 2016, UDC Ireland entered into and consummated an IP Transfer Agreement with BASF. Under the IP Transfer Agreement, BASF sold to UDC Ireland all of its rights, title and interest to certain of its owned and co-owned intellectual property rights relating to the composition, development, manufacture and use of OLED materials, including OLED lighting and display stack technology, as well as certain tangible assets. The intellectual property includes knowhow and more than 
+500
+ issued and pending patents in the area of phosphorescent materials and technologies. These assets were acquired in exchange for a cash payment of €
+86.8
+ million ($
+95.8
+ million). In addition, UDC Ireland also took on certain rights and obligations under three joint research and development agreements to which BASF was a party. The IP Transfer Agreement also contains customary representations, warranties and covenants of the parties. UDC Ireland recorded the payment of €
+86.8
+ million ($
+95.8
+ million) and acquisition costs incurred of $
+217,000
+ as acquired technology, which is being amortized over a period of 
+10
+ years.
+Other Intangible Assets
+As a result of the Adesis acquisition in June 2016, the Company recorded $
+16.8
+ million of other intangible assets, including $
+10.5
+ million assigned to customer relationships with a weighted average life of 
+11.5
+ years, $
+4.8
+ million to internally developed IP, processes and recipes with a weighted average life of 
+15
+ years, and $
+1.5
+ million to trade name and trademarks with a weighted average life of 
+10
+ years.
+At 
+December 31, 2024, these other intangible assets consist of the following (in thousands):
+
+December 31, 2024
+
+Gross Carrying
+Amount
+
+Accumulated
+Amortization
+
+Net Carrying
+Amount
+
+Customer relationships
+
+$
+
+10,520
+
+$
+
+(
+7,718
+
+)
+
+$
+
+2,802
+
+Developed IP, processes and recipes
+
+4,820
+
+(
+2,708
+
+)
+
+2,112
+
+Trade name/Trademarks
+
+1,500
+
+(
+1,268
+
+)
+
+232
+
+Other
+
+448
+
+(
+148
+
+)
+
+300
+
+Total identifiable other intangible assets
+
+$
+
+17,288
+
+$
+
+(
+11,842
+
+)
+
+$
+
+5,446
+
+F-
+21
+
+Amortization expense related to other intangible assets was $
+1.4
+ million for each of the years ended 
+December 31, 2024, 2023, and 2022
+. Amortization expense is included in amortization of acquired technology and other intangible assets expense line item on the Consolidated Statements of Income and is expected to be $
+1.4
+ million for each of the next two fiscal years (2025 - 2026), $
+1.3
+ million for the year ending December 31, 2027, $
+422,000
+ for the year ending December 31, 2028, $
+362,000
+ for the year ending December 31, 2029, and $
+602,000
+ in total thereafter.
+Goodwill
+
+As a result of the Adesis acquisition, the Company recorded $
+15.5
+ million of goodwill. The Company performs its annual assessment of goodwill during the fourth quarter of the fiscal year unless events suggest an impairment may have been incurred in an interim period using Adesis’ standalone financial operating performance information. Application of the goodwill impairment test requires the exercise of judgment, including the determination of the fair value of each reporting unit, as Adesis is the reporting unit. As part of the annual assessment of goodwill completed during the fourth quarter ended 
+December 31, 2024
+, there were no significant indicators to conclude that an impairment of the goodwill associated with the acquisition of Adesis had occurred.
+
+8.
+OTHER ASSETS:
+Other assets consist of the following (in thousands):
+
+December 31,
+
+2024
+
+2023
+
+Long-term taxes receivable
+
+$
+
+52,899
+
+$
+
+60,146
+
+Right-of-use assets
+
+19,867
+
+24,910
+
+Long-term unbilled receivables
+
+24,943
+
+9,074
+
+Long-term contract assets
+
+6,528
+
+9,278
+
+Other long-term assets
+
+2,578
+
+1,881
+
+Other assets
+
+$
+
+106,815
+
+$
+
+105,289
+
+See Notes 9 and 20 for further explanation on right-of-use assets and long-term taxes receivable, respectively.
+
+9.
+LEASES:
+The Company has entered into operating leases to facilitate the expansion of its manufacturing, research and development, and selling, general and administrative activities. For purposes of calculating operating lease liabilities, lease terms may be deemed to include options to extend or terminate the lease when those events are reasonably certain to occur. The interest rate implicit in lease contracts is typically not readily determinable and as such the Company uses the appropriate incremental borrowing rate based on information available at the lease commencement date in determining the present value of the lease payments. Current lease agreements do not contain any residual value guarantees or material restrictive covenants.
+ As of 
+December 31, 2024
+, the Company did not have any finance leases and no additional operating leases that have not yet commenced.
+The following table presents the Company’s operating lease cost and supplemental cash flow information related to the Company’s operating leases (in thousands):
+
+Year Ended December 31,
+
+2024
+
+2023
+
+2022
+
+Operating lease cost
+
+$
+
+4,343
+
+$
+
+4,639
+
+$
+
+4,436
+
+Non-cash activity:
+
+Right-of-use assets obtained in exchange for lease obligations
+
+$
+
+—
+
+$
+
+1,072
+
+$
+
+4,750
+
+The following table presents the Company’s operating lease right-of-use assets and liabilities (in thousands):
+
+December 31,
+
+2024
+
+2023
+
+Right-of-use assets
+
+$
+
+19,867
+
+$
+
+24,910
+
+Short-term lease liabilities
+
+3,848
+
+3,533
+
+Long-term lease liabilities
+
+19,135
+
+22,855
+
+F-
+22
+
+ For the year ended December 31, 2024, the Company determined to record an impairment due to the planned closure of OVJP Corp's California location and related restructuring, including a $
+1.4
+ million right-of-use asset impairment.
+The following table presents weighted average assumptions used to compute the Company’s right-of-use assets and lease liabilities:
+
+December 31, 2024
+
+Weighted average remaining lease term (in years)
+
+6.0
+
+Weighted average discount rate
+
+3.8
+
+%
+
+As of December 31, 2024
+, current operating leases had remaining terms between 
+two
+ and 
+seven
+ years with options to extend the lease terms.
+Undiscounted future minimum lease payments as of 
+December 31, 2024, by year and in the aggregate, having non-cancelable lease terms in excess of one year were as follows (in thousands):
+
+Maturities of
+
+Operating Lease Liabilities
+
+2025
+
+$
+
+4,305
+
+2026
+
+4,384
+
+2027
+
+4,305
+
+2028
+
+4,022
+
+2029
+
+2,585
+
+Thereafter
+
+5,466
+
+Total lease payments
+
+25,067
+
+Less: imputed interest
+
+(
+2,123
+
+)
+
+Present value of lease payments
+
+$
+
+22,944
+
+10.
+ACCRUED EXPENSES:
+Accrued expenses consist of the following (in thousands):
+
+December 31,
+
+2024
+
+2023
+
+Compensation
+
+$
+
+28,744
+
+$
+
+29,456
+
+PPG Industries, Inc. agreement
+
+7,759
+
+11,962
+
+Consulting
+
+1,718
+
+2,121
+
+Professional fees
+
+1,292
+
+1,124
+
+Royalties
+
+1,048
+
+647
+
+Research and development agreements
+
+852
+
+822
+
+Other
+
+4,613
+
+5,948
+
+Accrued expenses
+
+$
+
+46,026
+
+$
+
+52,080
+
+11.
+RESEARCH AND LICENSE AGREEMENTS WITH ACADEMIC PARTNERS:
+The Company has long-standing relationships with a number of academic institutions that undertake funded research projects, including Princeton University (Princeton) and the University of Southern California (USC).
+Under the current license agreement among the Company, Princeton and USC, the universities have granted the Company worldwide, exclusive license rights, with rights to sublicense, to make, have made, use, lease and/or sell products and to practice processes based on patent applications and issued patents arising out of research performed by the universities for the Company. The Company recorded royalty expense in connection with this agreement of $
+2.0
+ million, $
+575,000
+ and $
+853,000
+ for the years ended 
+December 31, 2024, 2023 and 2022, respectively.
+
+The Company also makes payments under the current research agreement with USC on a quarterly basis as actual expenses are incurred. As of December 31, 2024
+, the Company was obligated to pay USC up to $
+1.7
+ million 
+for work to be performed during the
+
+F-
+23
+
+remaining 
+term. The Company recorded research and development expense in connection with work performed under the agreement of $
+1.6
+ million, $
+1.1
+ million and $
+905,000
+ for the years ended 
+December 31, 2024, 2023 and 2022
+, respectively.
+
+12.
+OTHER LIABILITIES:
+Other liabilities consist of the following (in thousands):
+
+December 31,
+
+2024
+
+2023
+
+Long-term lease liabilities
+
+$
+
+19,135
+
+$
+
+22,855
+
+Long-term taxes payable
+
+15,749
+
+15,749
+
+Other long-term liabilities
+
+527
+
+54
+
+Other liabilities
+
+$
+
+35,411
+
+$
+
+38,658
+
+See Notes 9 and 20 for further explanation on long-term lease liabilities and long-term taxes payable, respectively.
+
+13.
+EQUITY AND CASH COMPENSATION UNDER THE PPG AGREEMENTS:
+On September 22, 2011, the Company entered into an Amended and Restated OLED Materials Supply and Service Agreement with PPG (the New OLED Materials Agreement), which, effective as of October 1, 2011, replaced the original OLED Materials Agreement with PPG. The term of the New OLED Materials Agreement, by amendment in February 2021, runs through December 31, 2025, and thereafter is automatically renewed for additional one-year terms, unless terminated by the Company by providing prior notice of one year or terminated by PPG by providing prior notice of two years. The New OLED Materials Agreement contains provisions that are substantially similar to those of the original OLED Materials Agreement. Under the New OLED Materials Agreement, PPG continues to assist the Company in developing its proprietary OLED materials and supplying the Company with those materials for evaluation purposes and for resale to its customers.
+Under the New OLED Materials Agreement, the Company compensates PPG on a cost-plus basis for the services provided during each calendar quarter. The Company is required to pay for some of these services in all cash. Up to 
+50
+% of the remaining services are payable, at the Company’s sole discretion, in cash or shares of the Company’s common stock, with the balance payable in cash. The actual number of shares of common stock issuable to PPG is determined based on the average closing price for the Company’s common stock during a specified number of days prior to the end of each calendar half-year period ending on March 31 and September 30. If, however, this average closing price is less than $
+20.00
+, the Company is required to compensate PPG in cash. 
+No
+ shares have been issued for services rendered by PPG since the inception of the contract.
+The Company is also required to reimburse PPG for raw materials used for research and development. The Company records the purchases of these raw materials as a current asset until such materials are used for research and development efforts.
+In February 2021, the Company entered into an amendment to the New OLED Materials Agreement extending the term of the agreement and specifying operation and maintenance services to be provided by PPG affiliate, PPG SCM Ireland Limited (PPG SCM), to UDC Ireland, at the Company’s manufacturing site in Shannon, Ireland that UDC Ireland’s wholly-owned subsidiary, OLED Material Manufacturing Limited (OMM), began leasing at such time for the production of OLED materials. OMM purchased the site in September 2023 and the Company amended and restated the February 2021 amendment to reflect OMM’s ownership and PPG SCM’s updated operation and maintenance services after such purchase. Facility improvements have been completed and operations commenced in June 2022. As with the initial New OLED Materials Agreement, the Company compensates PPG on a cost-plus basis for the services provided at the Shannon manufacturing facility.
+The Company recorded research and development expense of $
+19.3
+ million, $
+9.1
+ million and $
+7.3
+ million for the years ended 
+December 31, 2024, 2023 and 2022, respectively, in relation to the cash portion of the reimbursement of expenses and work performed by PPG, excluding amounts paid for commercial chemicals. The increase in PPG development activity during the year ended December 31, 2024
+ was primarily due to new product development and commencement of development activities in Shannon, Ireland.
+
+14.
+SHAREHOLDERS' EQUITY:
+Preferred Stock
+The Company’s Amended and Restated Articles of Incorporation authorize it to issue up to 
+5,000,000
+ shares of $
+0.01
+ par 
+value preferred stock with designations, rights and preferences determined from time-to-time by the Company’s Board of Directors.
+
+F-
+24
+
+Accordingly, 
+the Company’s Board of Directors is empowered, without shareholder approval, to issue preferred stock with dividend, liquidation, conversion, voting or other rights superior to those of shareholders of the Company’s common stock.
+
+In 1995, the Company issued 
+200,000
+ shares of Series A Nonconvertible Preferred Stock (Series A) to American Biomimetics Corporation (ABC) pursuant to a certain Technology Transfer Agreement between the Company and ABC. The Series A shares have a liquidation value of $
+7.50
+ per share. Series A shareholders, as a single class, have the right to elect 
+two
+ members of the Company’s Board of Directors. This right has never been exercised. 
+Holders of the Series A shares are entitled to one vote per share on matters which shareholders are generally entitled to vote.
+ The Series A shareholders are not entitled to any dividends.
+
+As of December 31, 2024
+, the Company had issued 
+200,000
+ shares of preferred stock (consisting of the 
+200,000
+ shares of Series A), all of which were outstanding.
+Common Stock
+The Company’s Amended and Restated Articles of Incorporation authorize it to issue up to 
+200,000,000
+ shares of $
+0.01
+ par value common stock. Each share of the Company’s common stock entitles the holder to one vote on all matters to be voted upon by the shareholders.
+As of December 31, 2024
+, the Company had issued 
+48,834,541
+ shares of common stock, of which 
+47,468,893
+ were outstanding. During the years ended 
+December 31, 2024 and 2023
+, the Company repurchased 
+no
+ shares of common stock.
+
+Dividends
+During the year ended December 31, 2024
+, the Company declared cash dividends of $
+1.60
+ per common share, or $
+77.0
+ million, on the Company’s outstanding common stock. The Company paid out $
+76.2
+ million of cash dividends during the year ended 
+December 31, 2024.
+
+On February 18, 2025, the Company’s Board of Directors declared a first quarter cash dividend of $
+0.45
+ per share to be paid on 
+March 31, 2025
+ to all shareholders of record of the Company's common stock as of the close of business on 
+March 17, 2025
+. All future dividends will be subject to the approval of the Company’s Board of Directors.
+
+F-
+25
+
+15.
+ACCUMULATED OTHER COMPREHENSIVE LOSS:
+Amounts related to the changes in accumulated other comprehensive loss were as follows (in thousands):
+
+Unrealized
+Gain (Loss) on
+Available-for-
+Sale-Securities
+
+Net Unrealized
+(Loss) Gain on 
+Retirement Plan 
+(2)
+
+Change in Cumulative
+Foreign Currency
+Translation Adjustment
+
+Total
+
+Affected Line items in the 
+Consolidated Statements of 
+Income
+
+Balance January 1, 2022, net of tax
+
+$
+
+(
+142
+
+)
+
+$
+
+(
+18,019
+
+)
+
+$
+
+(
+74
+
+)
+
+$
+
+(
+18,235
+
+)
+
+Other comprehensive (loss) gain 
+   before reclassification
+
+(
+7,745
+
+)
+
+5,971
+
+(
+480
+
+)
+
+(
+2,254
+
+)
+
+Reclassification to net income 
+(1)
+
+—
+
+2,037
+
+—
+
+2,037
+
+Selling, general and administrative,
+research and development and
+cost of sales
+
+Change during period
+
+(
+7,745
+
+)
+
+8,008
+
+(
+480
+
+)
+
+(
+217
+
+)
+
+Balance December 31, 2022, net of tax
+
+(
+7,887
+
+)
+
+(
+10,011
+
+)
+
+(
+554
+
+)
+
+(
+18,452
+
+)
+
+Other comprehensive gain 
+   before reclassification
+
+8,745
+
+7,207
+
+418
+
+16,370
+
+Reclassification to net income 
+(1)
+
+—
+
+996
+
+—
+
+996
+
+Selling, general and administrative,
+research and development and
+cost of sales
+
+Change during period
+
+8,745
+
+8,203
+
+418
+
+17,366
+
+Balance December 31, 2023, net of tax
+
+858
+
+(
+1,808
+
+)
+
+(
+136
+
+)
+
+(
+1,086
+
+)
+
+Other comprehensive gain (loss)
+   before reclassification
+
+411
+
+(
+559
+
+)
+
+(
+82
+
+)
+
+(
+230
+
+)
+
+Reclassification to net income 
+(1)
+
+—
+
+261
+
+—
+
+261
+
+Selling, general and administrative,
+research and development and
+cost of sales
+
+Change during period
+
+411
+
+(
+298
+
+)
+
+(
+82
+
+)
+
+31
+
+Balance December 31, 2024, net of tax
+
+$
+
+1,269
+
+$
+
+(
+2,106
+
+)
+
+$
+
+(
+218
+
+)
+
+$
+
+(
+1,055
+
+)
+
+(1)
+The Company reclassified amortization of prior service cost, actuarial loss, curtailment charge and plan amendment cost for its retirement plan from accumulated other comprehensive loss to net income of $
+261,000
+, $
+1.0
+ million and $
+2.0
+ million for the years ended 
+December 31, 2024, 2023 and 2022
+, respectively. 
+
+(2)
+Refer to Note 17: Employee Retirement Plans 
+
+F-
+26
+
+16.
+STOCK-BASED COMPENSATION:
+Equity Compensation Plan
+On June 15, 2023, the shareholders of the Company voted to approve the Universal Display Corporation 2023 Equity Compensation Plan (the “Equity Compensation Plan”), which replaced the Universal Display Corporation 2014 Equity Compensation Plan. The Equity Compensation Plan provides for the granting of incentive and nonqualified stock options, shares of common stock, stock appreciation rights and performance units to employees, directors and consultants of the Company. Stock options are exercisable over periods determined by the Company’s Human Capital Committee, but for no longer than 
+10
+ years from the grant date. The total number of shares that may be subject to awards under the Equity Compensation Plan is equal to the shares that were available for issuance and not subject to an award under the 2014 Equity Compensation Plan at the time it was replaced by the Equity Compensation Plan, subject to adjustment with respect to shares underlying any outstanding award granted under the Equity Compensation Plan or the 2014 Equity Compensation Plan that may expire, or be terminated, surrendered or forfeited for any reason, without issuance of such shares. As of 
+December 31, 2024
+, there were 
+1,362,361
+ shares that remained available to be granted under the Equity Compensation Plan. The Equity Compensation Plan will terminate on June 15, 2033.
+Restricted Stock Award and Units
+The Company has issued restricted stock awards and units to employees and non-employees with vesting terms of one to five years. The fair value is equal to the market price of the Company’s common stock on the date of grant for awards granted to employees. Consistent with the accounting for equity-classified awards issued to employees, our equity-classified nonemployee share-based awards are measured at the grant date fair value. Expense for restricted stock awards and units is amortized ratably over the vesting period for the awards issued to employees and using a graded vesting method for the awards issued to non-employees.
+The following table summarizes the activity related to restricted stock unit (RSU) share based payment awards:
+
+Number of
+Shares
+
+Weighted-
+Average
+Grant-Date
+Fair Value
+
+Unvested, January 1, 2024
+
+216,486
+
+$
+
+149.68
+
+Granted
+
+103,344
+
+177.65
+
+Vested
+
+(
+108,986
+
+)
+
+160.69
+
+Forfeited
+
+(
+16,473
+
+)
+
+156.11
+
+Unvested, December 31, 2024
+
+194,371
+
+$
+
+157.58
+
+The weighted average grant-date fair value per unit of RSU awards granted was $
+177.65
+, $
+136.22
+ and $
+140.37
+ during the years ended 
+December 31, 2024, 2023 and 2022
+, respectively. The grant date fair value of RSUs that vested during the year was $
+17.5
+ million for the year ended 
+December 31, 2024
+, $
+21.6
+ million for the year ended 
+December 31, 2023
+ and $
+18.0
+ million for the year ended 
+December 31, 2022
+. The fair value of RSUs as of their respective vesting dates was $
+19.4
+ million for the year ended 
+December 31, 2024
+, $
+18.6
+ million for the year ended 
+December 31, 2023
+ and $
+15.3
+ million for the year ended 
+December 31, 2022.
+
+The following table summarizes the activity related to restricted stock award (RSA) share based payment awards:
+
+Number of
+Shares
+
+Weighted-
+Average
+Grant-Date
+Fair Value
+
+Unvested, January 1, 2024
+
+17,547
+
+$
+
+170.96
+
+Granted
+
+1,616
+
+185.82
+
+Vested
+
+(
+7,465
+
+)
+
+174.18
+
+Forfeited
+
+(
+11,698
+
+)
+
+170.96
+
+Unvested, December 31, 2024
+
+—
+
+$
+
+—
+
+The weighted average grant-date fair value per award of RSA awards granted was $
+185.82
+, $
+126.87
+ and $
+148.35
+ during the years ended 
+December 31, 2024, 2023 and 2022
+, respectively. The grant date fair value of RSAs that vested during the year was $
+1.3
+ million for the year ended 
+December 31, 2024
+, $
+3.3
+ million for the year ended 
+December 31, 2023
+ and $
+8.3
+ million for the year ended 
+December 31, 2022
+. The fair value of RSAs as of their respective vesting dates was $
+1.6
+ million for the year ended 
+December 31, 2024
+, $
+2.6
+ million for the year ended 
+December 31, 2023
+ and $
+6.5
+ million for the year ended 
+December 31, 2022.
+
+F-
+27
+
+For the years ended December 31, 2024, 2023 and 2022
+, the Company recorded, as compensation charges related to restricted stock awards and units issued to employees and non-employees, selling, general and administrative expense of $
+14.8
+ million, $
+9.5
+ million and $
+14.3
+ million, respectively, cost of sales of $
+1.7
+ million, $
+1.9
+ million and $
+2.2
+ million, respectively, and research and development expense of $
+5.3
+ million, $
+5.8
+ million and $
+6.1
+ million, respectively.
+In connection with the vesting of restricted stock awards and units during the years ended December 31, 2024, 2023 and 2022
+, 
+38,728
+, 
+53,162
+ and 
+54,856
+ shares, respectively, with aggregate fair values of $
+7.0
+ million, $
+7.4
+ million and $
+8.4
+ million, respectively, were withheld in satisfaction of tax withholding obligations and are reflected as a financing activity within the Consolidated Statements of Cash Flows.
+The Company has granted restricted stock units to non-employee members of the Board of Directors with quarterly vesting over a period of approximately 
+one year
+. The fair value is equal to the market price of the Company's common stock on the date of grant. The restricted stock units are issued and expense is recognized ratably over the vesting period. For the years ended 
+December 31, 2024, 2023 and 2022
+, the Company recorded compensation charges for services performed, related to all restricted stock units granted to non-employee members of the Board of Directors, selling, general and administrative expense of $
+1.9
+ million, $
+1.5
+ million and $
+1.3
+ million, respectively. In connection with the vesting of the restricted stock, the Company issued to non-employee members of the Board of Directors 
+10,870
+, 
+13,016
+ and 
+8,784
+ shares during the years ended 
+December 31, 2024, 2023 and 2022, respectively.
+As of December 31, 2024
+, the total unrecognized expense related to all restricted stock awards and units was $
+19.1
+ million, which the Company expects to recognize over a weighted average period of 
+1.73
+ years.
+Performance Unit Awards
+Each performance unit award is subject to both a performance-vesting requirement (either performance-based or market-based) and a service-vesting requirement. The performance-based vesting requirement is tied to EBITDA and cash flow achievement, as measured over a specific performance period. The market-based vesting requirement is tied to the Company's total shareholder return (TSR) relative to the TSR of companies comprising the Nasdaq Electronics Components Index, as measured over a three-year performance period. The maximum number of performance units that may vest based on performance is three times the shares granted. Further, if the Company's performance falls below certain thresholds, the performance units will not vest at all.
+The following table summarizes the activity related to performance unit awards (PSU) share based payment awards:
+
+Number of
+Shares
+
+Weighted-
+Average
+Grant-Date
+Fair Value
+
+Unvested, January 1, 2024
+
+208,553
+
+$
+
+185.86
+
+Granted
+
+69,600
+
+191.21
+
+Vested
+
+(
+18,722
+
+)
+
+220.11
+
+Forfeited
+
+(
+33,198
+
+)
+
+187.37
+
+Unvested, December 31, 2024
+
+226,233
+
+$
+
+180.24
+
+During the years ended December 31, 2024, 2023 and 2022
+, the Company granted 
+69,600
+, 
+84,448
+ and 
+100,621
+ performance units, respectively, of which 
+52,199
+, 
+63,335
+ and 
+75,465
+ units, respectively, are subject to performance-based vesting requirements and 
+17,401
+, 
+21,113
+ and 
+25,156
+ units, respectively, are subject to market-based vesting requirements, and which will vest over the terms described above. During the years ended 
+December 31, 2024, 2023 and 2022
+, there were 
+no
+ne, 
+no
+ne, and 
+1,268
+ incremental performance-based shares, respectively, that vested resulting from an increased vesting factor based on Company performance. The weighted average grant date fair value per unit of the performance unit awards granted was $
+191.21
+, $
+165.72
+ and $
+186.66
+ during the years ended 
+December 31, 2024, 2023 and 2022
+, respectively, as determined by the Company’s common stock on date of grant for the units with performance-based vesting and a Monte-Carlo simulation for the units with market-based vesting. The grant date fair value of PSUs that vested during the year was $
+4.1
+ million for the year ended 
+December 31, 2024
+, $
+1.9
+ million for the year ended 
+December 31, 2023
+ and $
+1.9
+ million for the year ended 
+December 31, 2022
+. The fair value of PSUs as of their respective vesting dates was $
+3.3
+ million for the year ended 
+December 31, 2024
+, $
+1.7
+ million for the year ended 
+December 31, 2023
+ and $
+1.8
+ million for the year ended 
+December 31, 2022.
+
+For the years ended December 31, 2024, 2023 and 2022
+, the Company recorded, as compensation charges related to all performance stock units, selling, general and administrative expense of $
+7.4
+ million, $
+2.6
+ million and $
+2.8
+ million, respectively, cost of sales of $
+2.0
+ million, $
+770,000
+ and $
+940,000
+, respectively, and research and development expense of $
+3.2
+ million, $
+1.2
+ million and $
+1.5
+ million, respectively.
+
+F-
+28
+
+In connection with the vesting of performance units during the years ended December 31, 2024, 2023 and 2022
+, 
+8,160
+, 
+5,350
+ and 
+5,082
+ shares, respectively, with aggregate fair values of $
+1.4
+ million, $
+775,000
+ and $
+826,000
+, respectively, were withheld in satisfaction of tax withholding obligations and are reflected as a financing activity within the Consolidated Statements of Cash Flows.
+As of December 31, 2024
+, the total unrecognized compensation expense related to performance unit awards was $
+8.6
+ million, which the Company expects to recognize over a weighted average period of 
+1.57
+ years.
+
+Employee Stock Purchase Plan
+On April 7, 2009, the Board of Directors of the Company adopted an Employee Stock Purchase Plan (ESPP). The ESPP was approved by the Company’s shareholders and became effective on June 25, 2009. The Company has reserved 
+1,000,000
+ shares of common stock for issuance under the ESPP. Unless terminated by the Board of Directors, the ESPP will expire when all reserved shares have been issued.
+Eligible employees may elect to contribute to the ESPP through payroll deductions during consecutive 
+three-month
+ purchase periods, the first of which began on July 1, 2009. Each employee who elects to participate will be deemed to have been granted an option to purchase shares of the Company’s common stock on the first day of the purchase period. Unless the employee opts out during the purchase period, the option will automatically be exercised on the last day of the period, which is the purchase date, based on the employee’s accumulated contributions to the ESPP. The purchase price will equal 
+85
+% of the lesser of the closing price per share of common stock on the first day of the period or the last business day of the period.
+Employees may allocate up to 
+10
+% of their base compensation to purchase shares of common stock under the ESPP; however, each employee may purchase no more than 
+12,500
+ shares on a given purchase date, and no employee may purchase more than $
+25,000
+ of common stock under the ESPP during a given calendar year.
+For the years ended December 31, 2024, 2023 and 2022
+, the Company issued 
+15,230
+, 
+17,513
+ and 
+17,057
+ shares, respectively, of its common stock under the ESPP, resulting in proceeds of $
+2.2
+ million, $
+2.0
+ million and $
+1.6
+ million, respectively. For the years ended 
+December 31, 2024, 2023 and 2022
+, the Company recorded charges of $
+130,000
+, $
+136,000
+ and $
+107,000
+, respectively, to selling, general and administrative expense, $
+210,000
+, $
+167,000
+, $
+141,000
+, respectively, to cost of sales and $
+259,000
+, $
+240,000
+ and $
+224,000
+, respectively, to research and development expense, related to the ESPP equal to the amount of the discount and the value of the look-back feature.
+Scientific Advisory Board Awards
+During the years ended December 31, 2024 and 2023
+, the Company granted a total of 
+1,616
+ and 
+2,366
+ shares, respectively, of fully vested common stock to non-employee members of the Scientific Advisory Board for services performed in 
+2023 and 2022
+, respectively. The fair value of the shares issued to members of the Scientific Advisory Board was $
+300,000
+ for both years ended 
+December 31, 2024 and 2023.
+
+For the years ended December 31, 2024, 2023 and 2022
+, the Company recorded as compensation charges related to all restricted stock units awarded to non-employee members of the Scientific Advisory Board, whose unvested shares are marked-to-market each reporting period, research and development expense of $
+242,000
+, $
+248,000
+ and $
+234,000
+, respectively.
+
+17.
+EMPLOYEE RETIREMENT PLANS:
+Defined Contribution Plan
+The Company maintains the Universal Display Corporation 401(k) Plan (the Plan) in accordance with the provisions of Section 401(k) of the Internal Revenue Code (the Code). The Plan covers substantially all full-time employees of the Company. Participants may contribute up to 
+90
+% of their total compensation to the Plan, not to exceed the limit as defined in the Code. Once an employee is eligible to participate in the Plan, the Company will make a non-elective contribution equal to 
+3
+% of the employee’s total compensation. For the years ended 
+December 31, 2024, 2023 and 2022
+, the Company contributed $
+1.7
+ million, $
+1.5
+ million and $
+1.4
+ million, respectively, to the Plan.
+Defined Benefit Plan
+On March 18, 2010, the Human Capital Committee and the Board of Directors of the Company approved and adopted the Universal Display Corporation Supplemental Executive Retirement Plan (SERP), effective as of April 1, 2010. On March 3, 2015, the Human Capital Committee and the Board of Directors amended the SERP to include salary and bonus as part of the plan. Prior to this
+
+F-
+29
+
+amendment, the SERP benefit did not take into account any bonuses. The purpose of the SERP, which is unfunded, is to provide certain of the Company’s key employees with supplemental pension benefits following a cessation of their employment and to encourage their continued employment with the Company. As of December 31, 2024
+ there were 
+seven
+ participants in the SERP.
+The SERP benefit is based on a percentage of the participant’s annual base salary and in certain cases, the participant's average annual bonus for the most recent three fiscal years ending prior to the participant's date of termination of employment with the Company for the life of the participant. For this purpose, annual base salary means 
+12
+ times the average monthly base salary paid or payable to the participant during the 
+24
+-month period immediately preceding the participant’s date of termination of employment, or, if required, the date of a change in control of the Company.
+Under the SERP, if a participant resigns or is terminated without cause at or after age 65 and with at least 
+20
+ years of service, he or she will be eligible to receive a SERP benefit. The benefit is based on a percentage of the participant’s annual base salary and bonus for the life of the participant. This percentage is 
+50
+%, 
+25
+% or 
+15
+%, depending on the participant’s benefit class.
+If a participant resigns at or after age 65 and with at least 
+15
+ years of service, he or she will be eligible to receive a prorated SERP benefit. If a participant is terminated without cause or on account of a disability after at least 15 years of service, he or she will be eligible to receive a prorated SERP benefit regardless of age. The prorated benefit in either case would be based on the participant’s number of years of service (up to 20), divided by 
+20
+. In the event a participant is terminated for cause, his or her SERP benefit and any future benefit payments are subject to immediate forfeiture.
+The SERP benefit is payable in installments over 
+10
+ years, beginning at the later of age 65 or the date of the participant’s separation from service. Payments are based on a present value calculation of the benefit amount for the actuarial remaining life expectancy of the participant. This calculation is made as of the date benefit payments are to begin (later of age 65 or separation from service). If the participant dies after reaching age 65, any future or remaining benefit payments are made to the participant’s beneficiary or estate. If the participant dies before reaching age 65, the benefit is forfeited.
+In the event of a change in control of the Company, each participant will become immediately vested in his or her SERP benefit. Unless the participant’s benefit has already fully vested, if the participant has less than 20 years of service at the time of the change in control, he or she will receive a prorated benefit based on his or her number of years of service (up to 20), divided by 20. If the change in control qualifies as a “change in control event” for purposes of Section 409A of the Internal Revenue Code, then each participant (including former employees who are entitled to SERP benefits) will receive a lump sum cash payment equal to the present value of the benefit immediately upon the change in control.
+Certain of the Company’s executive officers are designated as special participants under the SERP. If these participants resign or are terminated without cause after 20 years of service, or at or after age 65 and with at least 15 years of service, they will be eligible to receive a SERP benefit. If they are terminated without cause or on account of a disability, they will be eligible to receive a prorated SERP benefit regardless of age. The prorated benefit would be based on the participant’s number of years of service (up to 20), divided by 20.
+The SERP benefit for special participants is based on 
+50
+% of their annual base salary and bonus for their life and the life of their surviving spouse, if any. Payments are based on a present value calculation of the benefit amount for the actuarial remaining life expectancies of the participant and their surviving spouse, if any. If they die before reaching age 65, the benefit is not forfeited if the surviving spouse, if any, lives until the participant would have reached age 65. If their spouse also dies before the participant would have reached age 65, the benefit is forfeited.
+The Company records amounts relating to the SERP based on calculations that incorporate various actuarial and other assumptions, including discount rates, rate of compensation increases, retirement dates, and life expectancies. The net periodic costs are recognized as employees render the services necessary to earn the SERP benefits.
+In connection with the initiation and subsequent amendments of the SERP, the Company recorded cost related to prior service of $
+2.3
+ million as accumulated other comprehensive loss as of 
+December 31, 2024
+. The prior service cost is being amortized as a component of net periodic pension cost over the average of the remaining service period of the employees expected to receive benefits under the plan. The prior service cost expected to be amortized for the year ending December 31, 2025 is $
+23,000
+. 
+In December 2022, one of the participants retired and monthly SERP benefit payments commenced in January 2023. The total SERP benefit payments for the year ended December 31, 2024
+ were $
+2.0
+ million.
+
+F-
+30
+
+Information relating to the Company’s plan is as follows (in thousands):
+
+Year Ended December 31,
+
+2024
+
+2023
+
+Change in benefit obligation:
+
+Benefit obligation, beginning of year
+
+$
+
+54,263
+
+$
+
+61,804
+
+Service cost
+
+837
+
+951
+
+Interest cost
+
+2,641
+
+2,898
+
+Actuarial loss (gain)
+
+737
+
+(
+9,375
+
+)
+
+Benefit payments
+
+(
+2,014
+
+)
+
+(
+2,015
+
+)
+
+Benefit obligation, end of year
+
+56,464
+
+54,263
+
+Fair value of plan assets
+
+—
+
+—
+
+Unfunded status of the plan, end of year
+
+$
+
+56,464
+
+$
+
+54,263
+
+Current liability
+
+$
+
+2,014
+
+$
+
+2,014
+
+Non-current liability
+
+$
+
+54,450
+
+$
+
+52,249
+
+The accumulated benefit obligation for the plan was $
+54.9
+ million and $
+52.5
+ million as of 
+December 31, 2024 and 2023
+, respectively. The actuarial gain of $
+9.4
+ million for the year ended 
+December 31, 2023 was primarily due to a decrease in the total average annual bonus for each of the participants during the most recent three fiscal years.
+The components of net periodic pension cost were as follows (in thousands):
+
+Year Ended December 31,
+
+2024
+
+2023
+
+2022
+
+Service cost
+
+$
+
+837
+
+$
+
+951
+
+$
+
+1,287
+
+Interest cost
+
+2,641
+
+2,898
+
+1,383
+
+Curtailment Charge
+
+312
+
+-
+
+-
+
+Amortization of prior service cost
+
+33
+
+815
+
+1,119
+
+Amortization of loss
+
+—
+
+480
+
+1,487
+
+Total net periodic benefit cost
+
+$
+
+3,823
+
+$
+
+5,144
+
+$
+
+5,276
+
+The measurement date is the Company’s fiscal year end. The net periodic pension cost is based on assumptions determined at the prior year end measurement date.
+Assumptions used to determine the year end benefit obligation were as follows:
+
+Year Ended December 31,
+
+2024
+
+2023
+
+Discount rate
+
+5.20
+
+%
+
+4.74
+
+%
+
+Rate of compensation increases
+
+3.50
+
+%
+
+3.50
+
+%
+
+Assumptions used to determine the net periodic pension cost were as follows:
+
+Year Ended December 31,
+
+2024
+
+2023
+
+2022
+
+Discount rate
+
+4.74
+
+%
+
+4.94
+
+%
+
+2.16
+
+%
+
+Rate of compensation increases
+
+3.50
+
+%
+
+3.50
+
+%
+
+3.50
+
+%
+
+Actuarial gains and losses are amortized from accumulated other comprehensive loss into net periodic pension cost over future years based upon the average remaining service period of active plan participants, when the accumulation of such gains or losses exceeds 
+10
+% of the year end benefit obligation. The cost or benefit of plan changes that increase or decrease benefits for prior employee service (prior service cost or credit) is included in the Company’s results of income on a straight-line basis over the average remaining service period of active plan participants.
+
+F-
+31
+
+The estimated amounts to be amortized from accumulated other comprehensive loss into the net periodic pension cost in 2025 are as follows (in thousands):
+
+Amortization of prior service cost
+
+$
+
+23
+
+Amortization of loss
+
+—
+
+Total
+
+$
+
+23
+
+Benefit payments, which reflect estimated future service, are currently expected to be paid as follows (in thousands):
+
+Year
+
+Projected 
+Benefits
+
+2025
+
+$
+
+2,014
+
+2026
+
+6,506
+
+2027
+
+6,887
+
+2028
+
+6,887
+
+2029
+
+6,887
+
+2030-2034
+
+36,112
+
+Thereafter
+
+14,351
+
+18.
+COMMITMENTS AND CONTINGENCIES:
+Commitments
+Under the current research agreement with USC, the Company is obligated to make certain payments to USC based on work performed by it under that agreement, and by the University of Michigan (Michigan) under a subcontractor agreement that Michigan has with USC.
+
+Under the terms of the current license agreement among the Company, Princeton and USC, the Company makes royalty payments to Princeton. See Note 11 for further explanation.
+The Company has agreements with 
+five
+ executive officers and 
+11
+ senior level employees which provide for certain cash and other benefits upon termination of employment of the officer or employee in connection with a change in control of the Company. If a covered person’s employment is terminated in connection with the change in control, the person is entitled to a lump-sum cash payment equal to 
+two
+ times (in the case of the executive officers) or either 
+one
+ or 
+two
+ times (in the case of the senior level employees) the sum of the average annual base salary and bonus of the person and immediate vesting of all stock options and other equity awards that may be outstanding at the date of the change in control, among other items.
+
+In order to manage manufacturing lead times and help ensure adequate material supply, the Company entered into the New OLED Materials Agreement (see Note 13) that allows PPG to procure and produce inventory based upon criteria as defined by the Company. These purchase commitments consist of firm, noncancelable and unconditional commitments. In certain instances, this agreement allows the Company the option to reschedule and adjust the Company’s requirements based on its business needs prior to firm orders being placed. As of December 31, 2024, 2023 and 2022
+, the Company had purchase commitments for inventory of $
+46.5
+ million, $
+29.8
+ million and $
+31.9
+ million, respectively.
+Patent Related Challenges and Oppositions
+Each major jurisdiction in the world that issues patents provides both third parties and applicants an opportunity to seek a further review of an issued patent. The process for requesting and considering such reviews is specific to the jurisdiction that issued the patent in question, and generally does not provide for claims of monetary damages or a review of specific claims of infringement. The conclusions made by the reviewing administrative bodies tend to be appealable and generally are limited in scope and applicability to the specific claims and jurisdiction in question.
+The Company believes that opposition proceedings are frequently commenced in the ordinary course of business by third parties who may believe that one or more claims in a patent do not comply with the technical or legal requirements of the specific jurisdiction in which the patent was issued. The Company views these proceedings as reflective of its goal of obtaining the broadest legally permissible patent coverage permitted in each jurisdiction. Once a proceeding is initiated, as a general matter, the issued patent continues to be presumed valid until the jurisdiction’s applicable administrative body issues a final non-appealable decision. Depending on the jurisdiction, the outcome of these proceedings could include affirmation, denial or modification of some or all of the originally issued claims. The Company believes that as OLED technology becomes more established and its patent portfolio increases in size, so will the number of these proceedings.
+
+F-
+32
+
+19.
+CONCENTRATION OF RISK:
+Revenues and accounts receivable from the Company's largest customers for the years ended 
+December 31, 2024, 2023 and 2022 were as follows (in thousands):
+
+2024
+
+2023
+
+2022
+
+Customer
+
+% of Total Revenue
+
+Accounts Receivable
+
+% of Total Revenue
+
+Accounts Receivable
+
+% of Total Revenue
+
+Accounts Receivable
+
+A
+
+43
+%
+
+$
+
+37,899
+
+36
+%
+
+$
+
+38,105
+
+41
+%
+
+$
+
+11,425
+
+B
+
+23
+%
+
+25,751
+
+23
+%
+
+30,142
+
+25
+%
+
+24,440
+
+C
+
+16
+%
+
+13,258
+
+17
+%
+
+38,529
+
+16
+%
+
+22,291
+
+Revenues from outside of North America represented approximately 
+98
+%, 
+98
+%, and 
+97
+% of consolidated revenue for each of the years ended 
+December 31, 2024, 2023 and 2022
+, respectively. 
+Revenues by geographic area are as follows (in thousands):
+
+Year Ended December 31,
+
+Country
+
+2024
+
+2023
+
+2022
+
+South Korea
+
+$
+
+397,822
+
+$
+
+322,509
+
+$
+
+360,640
+
+China
+
+229,439
+
+229,727
+
+230,582
+
+Japan
+
+3,609
+
+6,971
+
+5,579
+
+Other non-U.S. locations
+
+2,456
+
+4,411
+
+3,829
+
+Total non-U.S. locations
+
+633,326
+
+563,618
+
+600,630
+
+United States
+
+14,358
+
+12,811
+
+15,989
+
+Total revenue
+
+$
+
+647,684
+
+$
+
+576,429
+
+$
+
+616,619
+
+The Company attributes revenue to different geographic areas on the basis of the location of the customer.
+Property and equipment, net by geographic area are as follows (in thousands):
+
+December 31,
+
+Country
+
+2024
+
+2023
+
+United States
+
+$
+
+117,496
+
+$
+
+118,250
+
+Ireland
+
+63,346
+
+42,203
+
+Other
+
+14,397
+
+14,697
+
+Total long-lived assets
+
+$
+
+195,239
+
+$
+
+175,150
+
+Substantially all chemical materials were purchased from 
+one
+ supplier. See Note 13.
+
+20.
+INCOME TAXES:
+The components of income before income taxes are as follows (in thousands):
+
+Year ended December 31,
+
+2024
+
+2023
+
+2022
+
+United States
+
+$
+
+72,823
+
+$
+
+71,514
+
+$
+
+77,205
+
+Foreign
+
+199,305
+
+173,657
+
+191,025
+
+Income before income taxes
+
+$
+
+272,128
+
+$
+
+245,171
+
+$
+
+268,230
+
+F-
+33
+
+The components of the income tax expense are as follows (in thousands):
+
+Year ended December 31,
+
+2024
+
+2023
+
+2022
+
+Current income tax (expense) benefit:
+
+Federal
+
+$
+
+(
+34,199
+
+)
+
+$
+
+(
+15,848
+
+)
+
+$
+
+(
+51,980
+
+)
+
+State
+
+(
+3,452
+
+)
+
+(
+3,048
+
+)
+
+(
+1,833
+
+)
+
+Foreign
+
+(
+31,515
+
+)
+
+(
+27,030
+
+)
+
+(
+31,302
+
+)
+
+(
+69,166
+
+)
+
+(
+45,926
+
+)
+
+(
+85,115
+
+)
+
+Deferred income tax (expense) benefit:
+
+Federal
+
+16,799
+
+(
+460
+
+)
+
+25,916
+
+State
+
+2,995
+
+3,936
+
+1,216
+
+Foreign
+
+(
+677
+
+)
+
+290
+
+(
+186
+
+)
+
+19,117
+
+3,766
+
+26,946
+
+Income tax expense
+
+$
+
+(
+50,049
+
+)
+
+$
+
+(
+42,160
+
+)
+
+$
+
+(
+58,169
+
+)
+
+Reconciliation of the statutory U.S. federal tax rate to the Company's effective tax rate is as follows:
+
+Year ended December 31,
+
+2024
+
+2023
+
+2022
+
+Statutory U.S. federal income tax rate
+
+21.0
+
+%
+
+21.0
+
+%
+
+21.0
+
+%
+
+Effect of foreign operations
+
+(
+4.0
+
+)
+
+(
+4.0
+
+)
+
+(
+4.9
+
+)
+
+U.S. International Tax (Sub F, GILTI, FDII)
+
+2.3
+
+2.9
+
+4.2
+
+Research tax credits
+
+(
+2.8
+
+)
+
+(
+2.4
+
+)
+
+(
+1.9
+
+)
+
+Redetermination of foreign tax credit utilization
+
+—
+
+(
+2.0
+
+)
+
+—
+
+Nondeductible employee compensation
+
+1.6
+
+1.7
+
+1.9
+
+State income taxes, net of federal benefit
+
+0.2
+
+(
+0.2
+
+)
+
+0.1
+
+Other
+
+0.1
+
+0.2
+
+1.3
+
+Effective tax rate
+
+18.4
+
+%
+
+17.2
+
+%
+
+21.7
+
+%
+
+The following table summarizes Company tax credit carry forwards for tax return purposes as of 
+December 31, 2024 (in thousands):
+
+Tax Benefit
+
+Expiration Date
+
+Tax credit carry forwards:
+
+State research tax credits
+
+$
+
+9,356
+
+2035
+-
+2039
+
+Foreign tax credits
+
+$
+
+186
+
+2032
+
+Total credit carry forwards
+
+$
+
+9,542
+
+F-
+34
+
+Significant components of the Company's net deferred tax assets and liabilities are as follows (in thousands):
+
+December 31,
+
+2024
+
+2023
+
+Deferred tax asset:
+
+Capitalized research expenditures
+
+$
+
+55,277
+
+$
+
+39,459
+
+Retirement plan
+
+13,633
+
+12,555
+
+Tax credit carry forwards
+
+9,542
+
+8,938
+
+Accruals and reserves
+
+6,988
+
+7,180
+
+Lease liabilities
+
+6,073
+
+6,671
+
+Stock-based compensation
+
+1,475
+
+1,498
+
+Deferred revenue
+
+655
+
+1,741
+
+Other
+
+2,783
+
+1,362
+
+96,426
+
+79,404
+
+Valuation allowance
+
+(
+10,167
+
+)
+
+(
+9,551
+
+)
+
+Deferred tax assets
+
+86,259
+
+69,853
+
+Deferred tax liability:
+
+Lease Assets
+
+(
+5,297
+
+)
+
+(
+6,302
+
+)
+
+Acquisition goodwill
+
+(
+1,854
+
+)
+
+(
+1,549
+
+)
+
+Other
+
+(
+788
+
+)
+
+(
+2,894
+
+)
+
+Deferred tax liabilities
+
+(
+7,939
+
+)
+
+(
+10,745
+
+)
+
+Net deferred tax assets
+
+$
+
+78,320
+
+$
+
+59,108
+
+In assessing the realizability of deferred tax assets, management considers whether it is more likely than not that some portion or all of the deferred tax assets will not be realized. The ultimate realization of deferred tax assets is dependent on the Company's ability to generate future taxable income to obtain benefit from the reversal of temporary differences, net operating loss carryforwards and tax credits. As part of its assessment, management considers the scheduled reversal of deferred tax liabilities, projected future taxable income, and tax planning strategies. During the year ended December 31, 2024, based on our previous earnings history, a current evaluation of expected future taxable income and other evidence, we determined to retain the valuation allowance that relates to New Jersey research and development credits and unrealized loss on investments. In addition, a portion of the investment loss was realized resulting in a capital loss carryforward that is not more likely than not to be used within the carryforward period. As such, the company provided a valuation allowance against the capital loss. There are no indicators against the realizability of the remaining net deferred tax assets.
+On December 27, 2018, the Korean Supreme Court, citing prior cases, held that only royalties paid with respect to Korean registered patents are considered Korean source income and subject to Korean withholding tax under the applicable law and interpretation of the Korea-U.S. Tax Treaty. The Company has incurred Korean withholding tax of $
+14.9
+ million for each of the years ended December 31, 2018, through December 31, 2022. Based on the Korean Supreme Court decision, a tax refund request on behalf of the Company was or will be filed with the Korean National Tax Service (KNTS) for the entire period from January 1, 2018, to December 31, 2022. The Company received a formal rejection from the KNTS; and in May 2022 filed an appeal with the Korean Tax Tribunal. On December 18, 2023, the Company received a formal rejection from the Tax Tribunal. Anticipating the rejection of the appeal, in September 2023 the Company filed a petition to the District Court. The District Court is gathering information and has scheduled another hearing for March 2025. The Company has been advised by a prominent Korean law firm that there is a more-likely-than-not chance of success. As a result, the Company has recorded a long-term asset of $
+52.9
+ million and $
+60.1
+ million as of 
+December 31, 2024 and 2023
+, respectively for the receipt of the Korean withholding tax. The Company also recorded foreign exchange loss of $
+7.2
+ million and $
+732,000
+ for the years ended 
+December 31, 2024 and 2023
+, respectively, due to the fluctuation of the Korean Won to the U.S. Dollar and resulting remeasurement of this Won-denominated receivable. The Company will amend U.S. federal tax returns for the 2018 to 2022 years when the anticipated refund from KNTS is received to offset the additional tax liability. The Company has recorded a long-term liability of $
+15.7
+ million as of 
+December 31, 2024 and 2023, for the estimated amounts due to the U.S. federal government based on the amendment of the Company's U.S. tax returns, indicating that lower withholding amounts were required.
+The Company is not subject to examinations by the federal tax authority for the years prior to 2021. The Company's state and foreign tax returns are open for a period of generally 
+three
+ to 
+four years
+. The Company closed an audit of the tax years 2019 and 2020 with the state of California, which resulted in no change to the return as filed.
+The above estimates may change in the future and upon settlement.
+
+F-
+35
+
+21.
+REVENUE RECOGNITION:
+The Company recognizes revenue in accordance with ASC Topic 606, 
+Revenue from Contracts with Customers (Topic 606)
+. The standard establishes the principles that an entity shall apply to report useful information to users of financial statements about the nature, amount, timing, and uncertainty of revenue and cash flows from a contract with a customer.
+
+For each of the years ended December 31, 2024, 2023 and 2022
+, the Company recorded 
+98
+%, 
+97
+% and 
+97
+%, respectively, of its revenue from OLED related sales and 
+2
+%, 
+3
+% and 
+3
+%, respectively, from the providing of services through Adesis.
+Contract Balances
+The following table provides information about assets and liabilities associated with the Company's contracts from customers (in thousands):
+
+As of December 31, 2024
+
+Accounts receivable
+
+$
+
+113,648
+
+Short-term unbilled receivables
+
+30,473
+
+Short-term contract assets
+
+2,932
+
+Long-term unbilled receivables
+
+24,943
+
+Long-term contract assets
+
+6,528
+
+Short-term deferred revenue
+
+33,074
+
+Long-term deferred revenue
+
+537
+
+Short-term and long-term unbilled receivables and contract assets are classified as other current assets and other assets, respectively, on the Consolidated Balance Sheets. Contract assets represent consideration related to the renewal of customer contracts which is recognized over the contract term based on material units sold. The deferred revenue balance as of December 31, 2024 will be recognized as materials are shipped to customers over the remaining contract periods. As of December 31, 2024
+, the Company had $
+19.5
+ million of backlog associated with committed purchase orders from its customers for phosphorescent emitter material. These orders are anticipated to be fulfilled within the next 90 days.
+Significant changes in the assets and liabilities balances associated with the Company's contracts from customers for the years ended 
+December 31, 2024 and 2023, are as follows (in thousands):
+
+Year Ended December 31, 2024
+
+Assets
+
+Liabilities
+
+Balance at December 31, 2023
+
+$
+
+42,134
+
+$
+
+(
+59,719
+
+)
+
+Revenue recognized that was previously included in deferred revenue, net
+
+—
+
+98,223
+
+Increases due to cash received
+
+—
+
+(
+82,928
+
+)
+
+Cumulative catch-up adjustment arising from changes in estimates of
+   transaction price, net
+
+—
+
+10,813
+
+Unbilled receivables recorded, net
+
+165,781
+
+—
+
+Contract assets recorded, net
+
+(
+2,516
+
+)
+
+—
+
+Transferred to receivables from unbilled receivables
+
+(
+140,523
+
+)
+
+Net change
+
+22,742
+
+26,108
+
+Balance at December 31, 2024
+
+$
+
+64,876
+
+$
+
+(
+33,611
+
+)
+
+Year Ended December 31, 2023
+
+Assets
+
+Liabilities
+
+Balance at December 31, 2022
+
+$
+
+38,457
+
+$
+
+(
+63,878
+
+)
+
+Revenue recognized that was previously included in deferred revenue, net
+
+—
+
+195,703
+
+Increases due to cash received
+
+—
+
+(
+202,100
+
+)
+
+Cumulative catch-up adjustment arising from changes in estimates of
+   transaction price, net
+
+—
+
+10,556
+
+Unbilled receivables recorded, net
+
+41,659
+
+—
+
+Contract assets recorded, net
+
+(
+2,407
+
+)
+
+—
+
+Transferred to receivables from unbilled receivables
+
+(
+35,575
+
+)
+
+Net change
+
+3,677
+
+4,159
+
+Balance at December 31, 2023
+
+$
+
+42,134
+
+$
+
+(
+59,719
+
+)
+
+F-
+36
+
+The cumulative catch-up adjustment arising from changes in estimates of transaction price, net was $
+10.8
+ million for the year ended 
+December 31, 2024
+ as compared to $
+10.6
+ million for the year ended 
+December 31, 2023
+. These adjustments resulted from an increase in the average price per gram that was primarily due to the decrease in anticipated demand by several of the Company's customers over the remaining lives of their contracts.
+
+22.
+NET INCOME PER COMMON SHARE:
+The Company computes earnings per share in accordance with ASC Topic 260, 
+Earnings per Share
+, which requires earnings per share (EPS) for each class of stock to be calculated using the two-class method. The two-class method is an allocation of income between the holders of common stock and the Company's participating security holders. Under the two-class method, income for the reporting period is allocated between common shareholders and other security holders based on their respective participation rights in undistributed income. Unvested share-based payment awards that contain non-forfeitable rights to dividends or dividend equivalents are participating securities and, therefore, are included in computing earnings per share pursuant to the two-class method.
+Basic net income per common share is computed by dividing net income allocated to common shareholders by the weighted-average number of shares of common stock outstanding for the period excluding unvested restricted stock units and performance units. Net income allocated to the holders of the Company's unvested restricted stock awards is calculated based on the shareholders proportionate share of weighted average shares of common stock outstanding on an if-converted basis.
+
+For purposes of determining diluted net income per common share, basic net income per share is further adjusted to include the effect of potential dilutive common shares outstanding, including restricted stock units, performance units and the impact of shares to be issued under the Company's Employee Stock Purchase Plan.
+The following table is a reconciliation of net income and the shares used in calculating basic and diluted net income per common share for the years ended 
+December 31, 2024, 2023 and 2022 (in thousands, except share and per share data):
+
+Year Ended December 31,
+
+2024
+
+2023
+
+2022
+
+Numerator:
+
+Net income
+
+$
+
+222,079
+
+$
+
+203,011
+
+$
+
+210,061
+
+Adjustment for Basic EPS:
+
+Earnings allocated to unvested shareholders
+
+(
+526
+
+)
+
+(
+993
+
+)
+
+(
+1,215
+
+)
+
+Adjusted net income
+
+$
+
+221,553
+
+$
+
+202,018
+
+$
+
+208,846
+
+Denominator:
+
+Weighted average common shares outstanding – Basic
+
+47,548,931
+
+47,559,669
+
+47,390,352
+
+Effect of dilutive shares:
+
+Common stock equivalents arising from stock options and ESPP
+
+1,780
+
+2,173
+
+2,340
+
+Restricted stock awards and units and performance units
+
+101,951
+
+60,921
+
+75,815
+
+Weighted average common shares outstanding – Diluted
+
+47,652,662
+
+47,622,763
+
+47,468,507
+
+Net income per common share:
+
+Basic
+
+$
+
+4.66
+
+$
+
+4.25
+
+$
+
+4.41
+
+Diluted
+
+$
+
+4.65
+
+$
+
+4.24
+
+$
+
+4.40
+
+For the years ended December 31, 2024, 2023 and 2022, 
+the combined effects of unvested restricted stock awards, restricted stock units, performance unit awards and stock options of 
+18,015
+, 
+36,345
+ and 
+122,843
+, respectively, were
+ excluded from the calculation of diluted EPS as their impact would have been antidilutive.
+
+F-
+37

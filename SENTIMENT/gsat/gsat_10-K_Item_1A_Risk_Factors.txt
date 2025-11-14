@@ -1,0 +1,238 @@
+Item 1A. Risk Factors
+
+Investing in our securities involves a high degree of risk and uncertainties. You should carefully consider the risks described below, as well as all of the information in this Report, including but not limited to Item 1. “Business”, Item 1C. “Cybersecurity”, Item 7. “Management’s Discussion and Analysis of Financial Condition and Results of Operations”, Item 7A. “Quantitative and Qualitative Disclosures About Market Risk” and Item 3. “Legal Proceedings", and our other filings with the SEC, in evaluating and understanding us and our business. If any of the following risks occur, they may have a material adverse impact on our business, financial condition, stock price, results of operations, reputation, prospects, costs or liabilities and you could lose part or all of your investment. The summary and risks that follow are organized under headings as determined to be most applicable, but such risks also may be relevant to other headings. Additional risks not presently known or that we currently deem immaterial or general risks that apply to all companies operating in the U.S. and globally, which may emerge or become material, may also impact our business and the risks identified in this Report may adversely affect our business in ways we do not currently anticipate. See 
+"Forward-Looking Statements"
+ at the beginning of this Report.
+Risk Factor Summary
+Our business is subject to numerous risks and uncertainties, including, but not limited to, the following:
+Risks Related to Our Business
+•
+Ability to meet our obligations and attain anticipated benefits under the Updated Services Agreements (which constitutes a substantial portion of our current revenue);
+•
+Disruptions to our ground facilities;
+•
+Shorter than expected orbital lives of our satellites;
+•
+Damage to or failure of our satellites;
+•
+Operational performance of our satellite network;
+•
+Failure to successfully launch new satellites;
+•
+Lack of demand for wireless communications services via satellite and terrestrial mobile broadband networks (as well as other factors that impact our business plan, including the ability to attract and retain qualified employees);
+•
+Inadequate satellite network capacity;
+•
+Ability to service, upgrade and replace our equipment for technological changes;
+•
+Ability to effectively compete;
+•
+Global macro-economic and political conditions;
+•
+Availability of equipment, component parts and other materials;
+•
+Reliance on key suppliers;
+•
+Ability to raise adequate capital on reasonable terms;
+•
+Failure to develop, acquire, maintain and protect proprietary information and intellectual property rights;
+•
+Operational risks inherent in doing business in international and developing markets; 
+•
+Less flexibility due to our financing arrangements and ability to comply with related restrictive covenants;
+•
+Vulnerability to cyber-attacks and other security breaches;
+•
+Ability to obtain and maintain adequate insurance coverages;
+•
+Volatility of spectrum values;
+•
+Changes in tax rates or adverse results of tax examinations;
+•
+Trade credit risk;
+•
+Litigation and investigations; and
+•
+Health and safety risks relating to wireless devices' radio frequency emissions.
+Risks Related to Government Regulations
+13
+•
+Compliance with extensive government regulatory framework across jurisdictions and potential changes in such laws and regulations;
+•
+Exposure to trade and other regulatory restrictions, liabilities and penalties in various jurisdictions;
+•
+Ability to maintain and expand our spectrum rights and reliance on third parties to monetize;
+•
+Reduction of spectrum allocation or mandatory additional spectrum sharing agreements;
+•
+Revocation, modification or non-renewal of licenses;
+•
+Changes in international trade regulations; and
+•
+Changes in and interpretation of data privacy laws.
+Risks Related to Our Common Stock
+•
+Restriction on ability to pay dividends;
+•
+Limited trading market and market price volatility for our common stock;
+•
+Impact of reverse stock split and Nasdaq uplisting;
+•
+Ability to meet Nasdaq’s continued listing standards; 
+•
+Future dilution through issuances of our common stock;
+•
+Future issuances of preferred stock or debt securities with rights superior to our common stock; 
+•
+Interests of our controlling stockholder; and
+•
+Impact of anti-takeover provisions in our charter documents and under Delaware law.
+Risks Related to Our Business 
+Revenue under the Updated Services Agreements constitutes a substantial portion of our current revenue, and there is no assurance that we will receive the revenue expected under the Updated Services Agreements.
+Consideration received under the Updated Services Agreements constituted approximately 58% of our revenue for the year ended December 31, 2024. The Updated Services Agreements impose a number of substantial obligations on us, provide for certain of our fees to be payable only upon satisfaction of the conditions therein and are terminable by the Customer at any time upon advance notice or force majeure event, or by either party upon the occurrence of certain events of default. It is possible that we may fail to meet these obligations, that the
+
+conditions to the payment of such fees may not be satisfied, that the Customer's products that employ the services rendered will not succeed or that the Updated Services Agreements may be terminated. If any of these events were to occur, we would not receive the revenue we currently expect to receive under the Updated Services Agreements, which could materially and adversely affect our business and results of operations. Further, the Updated Services Agreements do not prevent the Customer from allowing their devices to use another network provider's satellite services, which could also negatively impact our revenues that we currently expect to receive under the Updated Services Agreements.
+If we experience disruptions with respect to our gateways or operations centers, we may not be able to provide service to our customers.
+Our satellite network traffic is supported by our gateways located around the globe. We operate our satellite constellation from our ground and space operations control centers (referred to as Network Operations Control Centers) at three locations (France, California and Louisiana) to provide geo-redundancy and ongoing coverage. Our gateway facilities are subject to the risk of significant malfunctions or catastrophic loss due to unanticipated events, such as natural disasters, extreme weather events or terrorist attack, and would be difficult to replace or repair and could require substantial lead-time to do so. In North America, we have implemented contingency coverage which allows neighboring gateways to provide services in the event of a gateway failure. Material changes in the operation of these facilities may be subject to prior FCC approval, and the FCC might not give such approval or may subject the approval to other conditions that could be unfavorable to our business. Our gateways and operations centers may also experience service shutdowns or periods of reduced service as a result of equipment failure, delays in deliveries of material, equipment or component parts, regulatory issues or routine system testing, any of which may impede our ability to provide service to our customers, which could have a material impact on our business results and business reputation.
+The actual orbital lives of our satellites may be shorter than we anticipate, and we may be required to reduce available capacity on our satellite network.
+Although our second-generation satellites are expected to provide commercial service over a 15-year design life, we can provide no assurance as to whether any or all of them will continue in operation for their full design life. A number of factors will affect the actual commercial service lives of each satellite, including:
+•
+the amount of propellant used in maintaining the satellite's orbital location or relocating the satellite to a new orbital 
+14
+location (and, for a newly-launched satellite, the amount of propellant used during orbit raising following launch); 
+•
+the durability and quality of its construction; 
+•
+the performance of its components; 
+•
+hazards and conditions in space such as solar flares and space debris;
+•
+operational failures and other anomalies; and 
+•
+changes in technology which may make all or a portion of our satellite fleet obsolete.
+It is also possible that the total available payload capacity of a satellite may need to be reduced prior to the satellite reaching its end-of-orbital life. A reduction in the orbital life of any of our satellites could result in a reduction of revenue, the recognition of an impairment loss and an acceleration of capital expenditures, as well as reputational harm. The potential impact on our revenue from a reduction in the orbital life of one or more satellites may vary depending on the satellite's orbital location as well as the type of device and service a customer is using. If a satellite fails prior to the end of its estimated useful life, we would record an impairment charge in our statement of operations equal to the satellite's remaining net book value, which would depress our net income (or increase our net loss) for the period in which the failure occurs. 
+Our satellites are exposed to a wide and unique range of risks, including collisions with space debris, natural disasters and other extreme space weather events, all of which could adversely affect the performance of our constellation.
+Our ability to maneuver our satellites to avoid potential collisions with space debris is limited by, among other factors, uncertainties and inaccuracies in the projected orbit location of, and predicted conjunctions with, debris objects tracked and cataloged by the U.S. government. Some space debris is too small to be tracked; therefore, its orbital location is completely unknown. Debris that cannot be tracked can still be large enough to potentially cause severe damage to or failure of one of our satellites should a collision occur. If our satellites experience collisions with space debris, our service could be impaired. Any such collision could potentially expose us to significant losses.
+Space weather, including coronal mass ejections and solar flares, have the potential to impact the performance of our in-orbit satellites. If we experience operational disruptions due to a space weather event, we may be unable to provide service to our customers in the affected area, either temporarily or indefinitely. Additionally, there are inherent dangers and risk associated with our satellite operations, including the risk of equipment damage caused by increased radiation. Any such failures or service disruptions could harm our business and results of operations. 
+The implementation of our business plan and our ability to generate income from operations assume we are able to maintain a satellite network capable of providing commercially acceptable levels of coverage and service quality, which are contingent on a number of factors, many of which are out of our control.
+Our products and services are subject to the risks inherent in relying on a large-scale, complex telecommunications system employing advanced technology. Any disruption to our satellites, services, information systems or telecommunications infrastructure could result in degrading or disrupting services to our customers for an indeterminate period of time. These customers may include government agencies conducting mission-critical work throughout the world, as well as consumers and businesses located in remote areas of the world and operating under harsh environmental conditions where traditional telecommunication services may not be readily available.
+Satellites utilize highly complex technology and operate in the harsh environment of space and therefore are subject to significant operational risks while in orbit. Our satellites may experience temporary outages or otherwise may not be fully functioning at any given time. There are some remote tools we use to remedy certain types of problems affecting the performance of our satellites, but the physical repair of satellites in space is not feasible. We do not insure our satellites against in-orbit failures after an initial period of six months, whether the failures are caused by internal or external factors. In-orbit failure may result from various causes, including component failure, solar array failures, telemetry transmitter failures, loss of power or fuel, inability to control positioning of the satellite, solar or other astronomical events, including solar radiation, wind and flares, and collision with space debris or other satellites. Additionally, human operators may execute improper implementation commands that may negatively impact a satellite's performance. These failures are commonly referred to as anomalies. Some of our satellites have had malfunctions and other anomalies in the past and may have anomalies in the future, for reasons described above or arising from the failure of other systems or components, and intrasatellite redundancy may not be available upon the occurrence of any anomalies. There can be no assurance that, in these cases, it will be possible to restore normal operations. Where service cannot be restored, the failure could cause the satellite to have less capacity available for service, to suffer performance degradation or to cease operating prematurely. Any disruption to service or extended periods of reduced capacity could cause loss of customers or revenue, litigation, unexpected costs, reputational harm or failure to attract customers.
+15
+We may not be able to successfully launch satellites to support Phase 2 Service Period or Services provided over the Extended MSS Network
+
+under the Updated Services Agreements. 
+Delays in the launch of new satellites could negatively impact our future operations and financial results, including the requirements under the Updated Services Agreements. When we launch satellites, we may experience launch or deployment failures, which subject us to additional risks and losses.
+Satellites are particularly vulnerable to loss and malfunction at the time they are launched and deployed into orbit, and some of our competitors have experienced catastrophic losses of substantial numbers of satellites in connection with launch and deployment. While we may obtain launch insurance to mitigate the risk of such a loss, such insurance would not cover all our economic losses if we experienced such an event, and there would be a substantial delay before we could obtain satellites to replace the ones we lost. Accordingly, a loss of a significant number of our new satellites at launch or deployment could adversely affect our ability to continue to provide satellite services and may cause us to lose opportunities to use our constellation to provide new or expanded services.
+The implementation of our business plan depends on increased demand for wireless communications services via satellite and terrestrial mobile broadband networks, both for existing and new services and products. 
+We plan to introduce new products and services that work over our network as well as terrestrial mobile broadband services. However, demand for wireless communication services may not grow, or may decrease, either generally or in particular geographic markets, for particular types of services or products or during particular time periods. A lack of demand could impair our ability to sell our services or products, could exert downward pressure on prices, or both. This, in turn, could decrease our revenue and profitability and adversely affect our ability to increase our revenue and profitability over time.
+ The success of our business plan will depend on a number of factors, including but not limited to: 
+•
+our ability to maintain the health, capacity and control of our satellites, and expand our network to meet demand;
+•
+our ability to maintain the health of our ground network;
+•
+our ability to realize the expected benefits from the XCOM transaction or realize a satisfactory return on our investment in the XCOM assets or increase our revenue;
+•
+our ability to introduce new products and services that meet current and projected market demand;
+•
+our ability to retain current customers and attract new customers, including through exploiting our existing and future spectrum authority both in the United States and internationally;
+•
+our ability to control the costs of developing an integrated network providing related products and services, as well as our future terrestrial mobile broadband services;
+•
+our ability to market successfully, and the level of market acceptance and demand for, our products and services;
+•
+our ability to maintain and expand innovative network management techniques to permit mobile devices to transition between satellite and terrestrial modes;
+•
+the cost and availability of user equipment that operates on our network;
+•
+the effectiveness of our competitors in developing and offering similar products and services;
+•
+our ability to hire and retain qualified executives, managers, technicians and employees; and
+•
+our ability to provide attractive service offerings at competitive prices to our target markets.
+Our business will be negatively impacted if we fail to adequately anticipate our satellite capacity needs or are unable to obtain satellite network capacity.
+In February 2022, we entered into a satellite procurement agreement with MDA pursuant to which we expect to acquire at least 17 and up to 26 satellites that will replenish our HIBLEO-4 U.S.-licensed system and provide long-term continuity of our MSS. In February 2025, we entered into another agreement with MDA pursuant to which we expect to acquire more than 50 satellites related to the Extended MSS Network. We are acquiring the satellites to provide continuous satellite services and meet our obligations under the Updated Services Agreements, as well as to provide services to our current and future customers. We may not have sufficient satellite capacity available to meet demand, and we may not be able to quickly or easily adjust our capacity to any increases in demand. In addition, satellites represent a significant capital expenditure, and, notwithstanding our Funding Agreements, we may not have the necessary capital available or be able to raise additional capital to fund such capital expenditures. See our risk factors below regarding our ability to fund all our capital expenditures and raise additional capital. Our business could be adversely affected if we are not able to anticipate or adapt to consumer demands for satellite capacity.
+Rapid and significant technological changes in the satellite communications industry and our ability to service, upgrade and replace our equipment when needed may impair our competitive position and require us to make significant capital expenditures. 
+16
+ The space and communications industries are subject to rapid advances and innovations in technology. New technology could render our system obsolete or less competitive by satisfying consumer demand in more attractive ways or through the introduction of incompatible standards. Particular technological developments that could adversely affect us include the deployment by our competitors of new satellites with greater power, flexibility, efficiency or capabilities, as well as continuing improvements in terrestrial wireless technologies. We must continue to keep up with technological changes to remain competitive. Customer acceptance of the services and products that we offer will continually be affected by the technology in our offerings relative to competitors. New technologies may be protected by patents and therefore may not be available to us. 
+Some of the hardware and software we use in operating our gateways are significantly customized and tailored to meet our requirements and specifications and could be difficult and expensive to service, upgrade or replace. Although we maintain inventories of some spare parts, it nonetheless may be difficult, expensive or impossible to obtain replacement parts for our hardware due to a limited number of parts being manufactured to our requirements and specifications. In addition, our business plan contemplates updating or replacing some of the hardware and software in our network as technology advances, but the complexity of our requirements and specifications may present us with technical and operational challenges that complicate or otherwise make it expensive or infeasible to carry out such upgrades and replacements. If we are not able to suitably service, upgrade or replace our equipment, it could harm our ability to provide our services and generate revenue.
+We face intense competition in all of our markets, which could result in a loss of customers, lower revenues and difficulty entering new markets.
+Satellite-based Competitors
+There are other MSS operators providing services similar to ours on a global or regional basis: Iridium, Thuraya, Viasat (through its acquisition of Inmarsat) and ORBCOMM Inc. The provision of satellite-based products and services is subject to downward price pressure when capacity exceeds demand, including when new competitors enter the marketplace. We also face competition with respect to network coverage and market share in specialized industries, such as maritime and governmental. 
+Our direct-to-cellular service provided pursuant to the Updated Services Agreements faces competition from other satellite service providers that are expected to provide similar satellite services. For instance, SpaceX has launched its Starlink constellation and has announced a partnership with a major U.S. wireless network operator to provide direct-to-cellular service. Other satellite providers have established partnerships and network capabilities to offer additional service alternatives, which could further increase competition and pricing pressures.
+Additionally, other providers of satellite-based products could introduce their own products similar to our MSS products, which may materially adversely affect our business plan and sales volume. In addition, we may face competition from new competitors or new technologies. Many companies target the same customers, and we may not be able to successfully retain our existing customers or attract new customers.
+Terrestrial Competitors
+In addition to our satellite-based competitors, terrestrial wireless voice and data service providers are continuing to expand into rural and remote areas, particularly in less developed countries. Many of these companies have greater resources, more name recognition and newer technologies than we do. Industry consolidation could adversely affect us by increasing the scale or scope of our competitors and thereby make it more difficult for us to compete for customers for our services. We could lose market share and revenue for such products as a result of increasing competition from land-based communication service providers.
+Although satellite communications services and ground-based communications services differ, the two compete in similar markets with similar services. Consumers may perceive cellular voice communication products and services as cheaper and more convenient than satellite-based products and services.
+Terrestrial Broadband Network Competitors and Other Spectrum Owners
+We also expect to compete with a number of other satellite companies that plan to develop terrestrial networks that utilize their MSS spectrum. For instance, DISH Network received FCC approval in 2012 to offer terrestrial wireless services over the MSS spectrum that previously belonged to TerreStar and ICO Global. Competitors could deploy terrestrial mobile broadband networks before we do, could combine with existing terrestrial networks that provide them with greater financial or operational flexibility than we have or could offer wireless services, including mobile broadband services, that customers prefer over ours.
+17
+In the United States, our terrestrial spectrum efforts will also compete with other terrestrial spectrum holders including Anterix, Nextwave and holders of CBRS licenses. Further, the government may unlock new spectrum bands which could result in additional competition.
+Uncertain global macro-economic and political conditions could materially adversely affect our results of operations and financial condition.
+Our results of operations are materially affected by economic and political conditions in the United States and internationally, including inflation, deflation, interest rates, recession, availability of capital, energy and commodity prices, trade laws and the effects of governmental initiatives to manage economic conditions. Such impacts may affect current or potential customers, including delaying or decreasing spending on our products and services, or an inability to pay us for our products and services, any of which may adversely affect our earnings and cash flows. In addition, deterioration of conditions in worldwide credit markets could limit our ability to obtain financing to fund our operations and capital expenditures. See our risk factor below regarding our ability to raise capital.
+Certain global conflicts, such as in Ukraine, could have an adverse impact on our current operations and financial performance. Such conflicts may lead to market or network disruptions, including significant volatility in commodity prices, credit and capital markets, as well as supply chain interruptions for equipment. 
+Lack of availability of equipment, component parts, and other materials required to operate our business could delay or adversely impact our operations.
+We rely upon the availability of equipment, component parts and other materials from the electronics industry and other suppliers. The electronics industry is subject to occasional shortages in availability of such materials depending on fluctuations in supply and demand. Industry shortages may result in delayed shipments of such materials, or increased prices, or both. As a consequence, elements of our operation which use materials from the electronics industry, such as our retail products, gateways and satellites, could be subject to disruptions, cost increases or both. Recent disruptions in the global supply chain have limited our ability to procure component parts timely and at reasonable prices. In recent years, supply chain disruptions and production issues negatively impacted our ability to sell our most popular SPOT and Commercial IoT products. The future impact of global shortages of materials from the electronics industry is unknown and may adversely impact our business, financial condition and results of operations.
+We are materially reliant on a limited number of key suppliers.
+We depend on a limited number of suppliers and vendors to construct and launch our satellites and provide us, directly or through other suppliers, with equipment, component parts and other materials required to operate our business and services relating to our operations. We also rely on software and service vendors or other parties to assist us with operating, maintaining and administering our business. Our operations could be adversely affected in the future if any of these vendors are unable or unwilling for any reason to continue to deliver their products or services on terms acceptable to us, including due to business interruptions, litigation, financial distress, bankruptcy or changes in their operations or business strategies.
+Our business is capital intensive. We may not be able to raise adequate capital on reasonable terms to finance our business strategies, or we may be able to do so only on terms that significantly restrict our ability to operate our business.
+Implementation of our longer-term business strategy requires a substantial outlay of capital. Although the funding arrangements under our Updated Services Agreements have enhanced our ability to fund the replacement of our current satellites and a new satellite constellation, expanded ground infrastructure and increased MSS licensing, we may require additional capital to fund other initiatives. In addition, we may experience funding shortfalls if we experience unanticipated network failures, a cancellation of the Updated Services Agreements or other unexpected events increasing our cash needs. For these reasons, there can be no assurance that we will be able to satisfy our capital requirements in the future.
+To the extent we are required to raise additional financing, turmoil in the capital markets, including the tightening of credit and increased interest rates, may impact our ability to raise financing on terms and at a cost favorable to the Company. We may be required to raise capital during a weak economy, and have little flexibility to wait for more favorable terms or economic conditions. We are likely to face higher borrowing costs, less available capital, more stringent terms and tighter covenants. Such unfavorable market conditions could have an adverse impact on our ability to fund our operations and capital expenditures in the future. Any adverse change in the terms of our financing, including increased costs, could have a negative impact on our 
+18
+financial condition.
+If we do not develop, acquire, maintain and protect proprietary information and intellectual property rights, it could limit the growth of our business and reduce our market share.
+
+Our business depends on technical knowledge, and we base our business plan in part on our ability to keep up with new technological developments and incorporate them in our products and services. We own or have the right to use our patents, work products, inventions, designs, software, systems and similar know-how. 
+Our success depends, in part, on our ability to protect our proprietary intellectual property rights, including certain methodologies, practices, tools, technologies and technical expertise we utilize in designing, developing, implementing and maintaining our technologies. The steps we take to protect our intellectual property may be inadequate, or we may choose not to pursue or maintain protection for our intellectual property. We will not be able to protect our intellectual property if we are unable to enforce our rights or if we do not detect unauthorized use of our intellectual property. Despite our precautions, it may be possible for unauthorized third parties to copy our technology and use information that we regard as proprietary to create technology that competes with ours. In addition, others may independently develop technology similar to ours.
+Protection of our information, systems and know-how may result in litigation, the cost of which could be substantial. Third parties may assert claims that our products or services infringe on their proprietary rights. Any such claims, if made, may prevent or limit our sales of products or services or increase our costs. Defending intellectual property suits is both costly and time-consuming and, even if ultimately successful, may divert management's attention from other business concerns. An adverse determination in litigation to which we may become a party could, among other things:
+•
+subject us to significant liabilities to third parties, including treble damages; 
+•
+require disputed rights to be licensed from a third party for royalties that may be substantial; 
+•
+require us to cease using technology that is important to our business; or 
+•
+prohibit us from selling some or all of our products or offering some or all of our services.
+We face special risks by doing business in international markets and developing markets, including currency and expropriation risks, which could increase our costs or reduce our revenues in these areas. 
+ Although our most economically important geographic markets currently are the United States and Canada, we have substantial markets for our MSS in, and our business plan includes, developing countries or regions that are underserved by existing telecommunications systems, such as rural Brazil and Africa. Developing countries are more likely than industrialized countries to experience market, currency and interest rate fluctuations and high inflation. In addition, these countries present risks relating to government policy, price, wage and exchange controls, social instability, expropriation and other adverse economic, political and diplomatic conditions. 
+Conducting operations outside the United States involves numerous special risks and expanding our international operations would increase these risks. These risks include, but are not limited to:
+•
+difficulties in penetrating new markets due to established and entrenched competitors;
+•
+difficulties in developing products and services that are tailored to the needs of local customers;
+•
+lack of local acceptance or knowledge of our products and services;
+•
+unavailability of or difficulties in establishing relationships with distributors;
+•
+significant investments, including the development and deployment of gateways in countries that require them to connect the traffic coming to and from their territory;
+•
+instability of international economies and governments;
+•
+changes in laws and policies affecting trade and investment in other jurisdictions;
+•
+noncompliance with the Foreign Corrupt Practices Act ("FCPA"), UK Bribery Act, sanctions laws and export controls;
+•
+violation by employees or suppliers in regards to our code of conduct and business ethics; 
+•
+exposure to varying legal standards in other jurisdictions, including intellectual property protection and other similar laws and regulations;
+•
+difficulties in obtaining required regulatory authorizations;
+•
+difficulties in enforcing legal rights in other jurisdictions;
+•
+variations in local domestic ownership requirements;
+•
+requirements that operational activities be performed in-country;
+•
+changing and conflicting national and local regulatory requirements; and
+•
+uncertainty or changes in foreign currency exchange rates and exchange controls.
+19
+These risks could affect our ability to compete successfully and expand internationally. To the extent that the prices for our products and services are denominated in U.S. dollars, any appreciation of the U.S. dollar against other currencies will increase the cost of our products and services to our international customers and, as a result, may reduce the competitiveness of our international offerings and make it more difficult for us to grow internationally. Limited availability of U.S. currency in some local markets or governmental controls on the export of currency may prevent our customers from making payments in U.S. dollars or delay the availability of payment due to foreign bank currency processing and controls. 
+Our operations involve transactions in a variety of currencies. Sales denominated in foreign currencies involve primarily the Canadian dollar, the euro and the Brazilian real. Accordingly, our operating results may be significantly affected by fluctuations in the exchange rates for these currencies. Approximately 15% and 20% of our total revenue was derived from customers primarily located in Canada, Europe, Central America, and South America during 2024 and 2023, respectively. Our results of operations for 2024 and 2023 included net losses of $16.6 million and net gains of $4.9 million, respectively, on foreign currency transactions. We may be unable to offset unfavorable currency movements as they adversely affect our revenue and expenses. Our inability to do so could have a substantial negative impact on our operating results and cash flows.
+Our financing arrangements may adversely affect our cash flow and our ability to operate our business, including our ability to incur additional indebtedness.
+On a near-term and longer-term basis, principal liquidity requirements include primarily funding our operating costs, capital expenditures, and financing arrangements, including recoupments under our Funding Agreements, the 2024 Prepayment Agreement and Customer Class B Units as well as dividends on our perpetual preferred stock. Our principal sources of liquidity include cash on hand ($391.2 million at December 31, 2024), cash flows from operations and proceeds from the 2023 Funding Agreement and the 2024 Prepayment Agreement. Another source of liquidity may include proceeds from the exercise of warrants issued to the Customer exercisable in accordance with the Updated Services Agreements and to Thermo in accordance with the guaranty agreement. 
+Our operating expenses for the year ended December 31, 2024 were $251.3 million, which included noncash items such as stock-based compensation of $35.5 million and depreciation, amortization and accretion of $89.0 million. Certain of our operating expenses are associated with network-related costs that support the Updated Services Agreements and a substantial portion are reimbursed to us.
+As of December 31, 2024, the principal balance of our debt obligations was $417.5 million, consisting of $222 million under the Current Debt Repayment, $155.0 million under the 2023 Funding Agreement and $40.9 million under the 2021 Funding Agreement. We also have $278 million outstanding under the Infrastructure Prepayment.
+Refer to Part II,
