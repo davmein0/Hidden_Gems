@@ -1,0 +1,1 @@
+{"feature_columns": ["MarketCap", "PE_Ratio", "PB_Ratio", "PS_Ratio", "EV_EBITDA", "ROE", "FCF_Yield", "Quick_Ratio"], "training_date": "2025-11-13", "model_version": "1.0"}
