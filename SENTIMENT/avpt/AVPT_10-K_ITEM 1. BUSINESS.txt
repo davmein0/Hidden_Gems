@@ -1,0 +1,663 @@
+ITEM 1. BUSINESS
+
+Company Overview
+
+AvePoint empowers organizations of all sizes, industries, and regions with its cloud-native data management software platform, enabling them to prepare, secure, and optimize their critical data. The AvePoint Confidence Platform unifies data security, governance, and business continuity into a seamless, resilient experience, addressing the most pressing challenges in today’s complex digital landscape.
+
+In a world where data is sprawling across hybrid work environments and generative artificial intelligence (“
+AI
+”) technologies are rapidly emerging, AvePoint stands out with its platform-first strategy. By integrating features and solutions to optimize operations, AvePoint delivers more than basic security controls—it redefines how businesses manage their most sensitive data and critical assets. This holistic and automated approach enables organizations to secure the perimeter for sensitive data, strategically govern digital workspaces, and ensure compliance with evolving regulatory requirements.
+
+Organizations today face a host of challenges that make a robust data management strategy indispensable, including:
+
+■
+
+Optimizing data for AI: 
+As organizations modernize their data ecosystems, the complexities of leveraging generative AI technologies require proper governance, security, and lifecycle management. With AvePoint, companies can extract more value from complex datasets, make informed decisions, reduce workloads, and enhance customer experiences.
+
+■
+
+Explosive data growth:
+ The hybrid work model and software-as-a-service (“
+SaaS
+”) proliferation have led to a surge in unstructured, sensitive data. AvePoint’s solutions tackle the sprawl with robust control and protection measures to manage this growth.
+
+■
+
+A dangerous threat landscape and complex regulations:
+ Companies are navigating increasing cyber threats and global regulatory demands. AvePoint ensures data is protected, secure, and compliant, helping mitigate financial, operational, and reputational risks.
+
+■
+
+The need for automation:
+ To monitor, govern, and respond to threats efficiently, organizations require streamlined, automated platforms that deliver rapid value. AvePoint’s automation layer integrates seamlessly to achieve this efficiency.
+
+Guided by its 
+Beyond Secure 
+philosophy, AvePoint goes beyond traditional boundaries to inspire trust, enabling organizations to focus on innovation while protecting against data breaches and unauthorized access. For over 20 years, AvePoint has continually innovated to provide solutions that meet the demands of modern data management, empowering businesses to overcome challenges and unlock new possibilities in an ever-evolving landscape.
+
+      4
+
+Table of Contents
+
+PART I
+
+Item 1
+
+Platform Overview
+
+The AvePoint Confidence Platform delivers a comprehensive and integrated set of SaaS solutions, empowering users in a variety of technology roles—including IT operations, development operations, and cybersecurity—to govern and secure the digital workplace.
+
+Built on a Platform-as-a-Service (PaaS) architecture, it combines modularity with tailored, industry-specific functionality to address critical operational challenges and manage data effectively across third-party cloud vendors like Microsoft, Salesforce, Google, AWS, Box, and Dropbox. With extensions to existing cloud services and new applications leveraging common underlying SaaS services, the platform provides superior flexibility, and presents a compelling solution for organizations seeking efficient, consolidated solutions amidst budget uncertainty and the demand for faster ROI.
+
+With these capabilities, the Confidence Platform allows organizations to move forward confidently, thriving within a sustainable security framework. It stands out from competitors through three key differentiators:
+
+■
+
+A Complete, Actionable Picture of Your Data Estate:
+ The platform’s Command Centers enable organizations to establish a comprehensive view of pressing business issues and implement scalable, automated remediation, ensuring seamless governance and management of vast amounts of critical information.
+
+■
+
+Shared Accountability:
+ Scalable security requires a culture of responsibility. The Confidence Platform empowers data leaders to operationalize digital workspace security, promoting accountability from data owners and streamlining governance across multiple collaboration platforms.
+
+■
+
+Programmatic Protection:
+ The platform employs a tiered data protection strategy to minimize attack surfaces and compliance risks while delivering exceptional data security. Its integrated approach to data security and governance provides risk management, audit, and regulatory teams with the assurance they need to meet compliance obligations efficiently.
+
+The AvePoint Confidence Platform is organized into three interconnected suites, each addressing specific business drivers and customer needs:
+
+■
+
+The Control Suite:
+ Focused on automating data governance and proactively enforcing policies to reduce security risks. Infrastructure and operations teams can oversee and protect business-critical data across multiple collaboration tools.
+
+■
+
+The Resilience Suite:
+ Designed to ensure business continuity, preserve critical records, and facilitate compliance with regulations. It provides risk management and regulatory teams with the tools to navigate the complex compliance landscape effectively.
+
+■
+
+The Modernization Suite:
+ Focused on transforming legacy data and processes for modern SaaS platforms. It empowers change management teams to drive digital transformation with AI-ready solutions, enhancing employee engagement and productivity while accelerating the impact of these changes.
+
+Built with 
+security and scale
+ in mind, the AvePoint Confidence Platform operates across 14 global data centers, adhering to rigorous industry standards, including ISO certifications, HITRUST CSF, SOC 2 Type II accreditation, and FedRAMP (Moderate) Authorization. This ensures that customers benefit from continuous upgrades, enhanced security, and the ability to meet evolving data management challenges.
+
+As a result, the AvePoint Confidence Platform stands out as a true platform offering, delivering spend consolidation, efficiency gains, and immediate value for customers. It doesn’t just solve problems—it redefines how businesses secure, govern, and optimize their most critical data assets, empowering them to thrive in the transformative era of AI-driven innovation.
+
+      5
+
+Table of Contents
+
+PART I
+
+Item 1
+
+Within each suite are a number of capabilities addressing critical customer needs. The products are typically licensed according to the number of users within the organization, while some include a consumption-based component. Lastly, because the AvePoint Confidence Platform is built upon a common data engine and common data layer, the purchase of products from multiple suites provides an incremental benefit to customers in the form of more intelligent and relevant data insights and automation.
+
+■
+
+The Control Suite
+ offers the following capabilities:
+
+o
+
+Operationalize collaborative workspaces
+: centralize the management of SaaS solutions and productivity applications, with the flexibility to configure and delegate control for different end-users;
+
+o
+
+Regulatory compliance automation
+: Implement, enforce, and prove that access and configuration policies across collaborative workspaces comply with internal or regulatory requirements;
+
+o
+
+Access and risk management
+: gain insight into who has access to critical data and where the company is at risk; and
+
+o
+
+Cost optimization
+: maximize the return on SaaS subscription investments through real-time management and allocation of entitlements;
+
+■
+
+The Resilience Suite
+ offers the following capabilities:
+
+o
+
+Backup-as-a-Service
+: support workloads in cloud Infrastructure-as-a-Service and PaaS, including protection against and recovery from ransomware attacks, accidental deletions and user error in a variety of SaaS applications, as well as support for a range of on-premises workloads;
+
+o
+
+Data classification
+: automate data tagging, classification and protection to prevent loss;
+
+o
+
+Storage optimization
+: archive stale content from active systems to reduce cloud storage costs and improve data quality; and
+
+o
+
+Information lifecycle management
+: manage information and ensure compliance, optimize cloud storage, streamline processes, and unlock data driven insights.
+
+■
+
+The Modernization Suite
+ offers the following capabilities:
+
+o
+
+Data modernization and restructuring: 
+seamlessly move and transform legacy data for use by modern SaaS platforms;
+
+o
+
+Process modernization:
+ transform manual processes with built-in data insights and process automation for Line of Business and role-based applications; and
+
+o
+
+Workforce transformation measurement:
+ enable employees to thrive through AI-powered insights into employee engagement and sentiment.
+
+      6
+
+Table of Contents
+
+PART I
+
+Item 1
+
+Our Growth Strategy
+
+Our aggressive pursuit of the enormous long-term market opportunity we see includes the following growth strategies:
+
+■
+
+Accelerate Customer Adoption and Retention
+. Given the importance of the data we protect, the workloads we service, and the cost and functionality benefits we offer, customers quickly find our solutions to be mission critical. Nevertheless, we constantly seek to increase customer satisfaction, decrease time to value, reduce customer churn and set up successful land and expand opportunities. To do so, we have made significant investments in our customer success program and in technology which provides additional telemetry to enhance our understanding of how customers use our solutions, which we believe will deepen our relationships with existing customers.
+
+■
+
+Expand the AvePoint Confidence
+
+Platform Offerings.
+ We have built a differentiated platform that addresses a number of strategic use cases, and we plan to introduce new and adjacent products to extend our current operational and data management value proposition and to improve the functionality of existing products and features, with a particular focus on AI ready solutions that transform and enrich data. We will also continue investing to support Microsoft, Salesforce, Google, AWS, Box, DropBox and other ecosystems for our customers, many of whom leverage multiple cloud vendors.
+
+■
+
+Broaden our Market Presence.
+ The market we are targeting is rapidly growing and largely unpenetrated. We sell to organizations of all sizes, in all regions of the world, and across a broad array of industries. We have seen strong new customer growth, especially in the small business segment, by leveraging our global partner ecosystem, and through the expansion of our direct sales force both in regions where we have an established presence and in new markets where cloud adoption is growing.
+
+■
+
+Continue Scaling our Partner and Channel Ecosystem
+. The ongoing cultivation of our strategic relationships with partners will support the continued penetration of markets in which we previously lacked presence, and those in which we have a presence that can be expanded. Our partner network today offers particular value in our pursuit of small and mid-sized customers and prospects, and we continue to invest here to accelerate our market growth. We expect that the continued scaling of this ecosystem will be a critical component of our ability to drive profitable growth going forward.
+
+■
+
+Opportunistically Pursue Strategic Acquisitions and Investments
+. While the large majority of our current offerings were built organically, we frequently evaluate whether it is more efficient to build solutions or pursue acquisitions that accelerate our product roadmap. Since 2022, we have completed six small acquisitions, and we expect that strategic acquisitions and investments will be an important growth driver for our business. This may include acquiring or investing in businesses or products with complementary technologies and/or functionality to our existing product offerings, or that reduce the time or costs required to develop new technologies, augment our engineering workforce, improve our internal business and operating systems, and enhance our technological capabilities.
+
+      7
+
+Table of Contents
+
+PART I
+
+Item 1
+
+Sales, Marketing and Customers 
+
+Sales
+
+Our global go-to-market strategy allows us to efficiently sell to and serve the needs of organizations across market segments and geographies. This strategy, which combines the expertise of our highly-trained direct sales force with the leverage of valuable indirect routes to market, including our strong and growing partner ecosystem, has created a powerful and differentiated go-to-market approach.
+
+In addition, our increased investment in our customer success program, which reflects our strategy of improving both customer adoption and retention, positions us to continue expanding within our existing customer base, which we believe remains a significant growth opportunity. This team employs a proactive, relationship-focused approach, designed to ensure that our valued customers get the care they need to rapidly deploy, and receive value from, their investment in the AvePoint Confidence Platform and the AvePoint 
+Elements
+ Platform.
+
+Our direct sales force is organized by geography and customer size, as discussed further below.
+
+In addition, we employ a number of indirect routes to market, which include the following:
+
+■
+
+Channel Ecosystem
+. We leverage our partner and distribution channel network across customers of all sizes, especially those in the small business and mid-market segments. As of December 31, 2024, our global channel partner program includes approximately 5,000 managed service providers, value added resellers, and systems integrators.
+
+■
+
+Partner Marketplaces
+. Our solutions are available in more than 100 software marketplaces around the world through our distribution and marketplace partners. We leverage marketplaces to create operational efficiencies with automation in procurement and provisioning, and to grow and scale our acquisition of the small business market, primarily through managed service providers (“
+MSPs
+”). Our AvePoint 
+Elements
+ Platform, which is aimed specifically at enabling MSPs to seamlessly manage multiple clients, clouds and tenants, reflects our ongoing focus on and investment in this important route to market, as further discussed below.
+
+■
+
+Strategic Partnerships
+. Hyperscalers serve as important supply chain partners to AvePoint and provide the opportunity to scale our technology across global data centers. Today, we are a top global partner of Microsoft with a holistic alliance that incorporates technology, sales, and marketing initiatives to ensure that we enable organizations worldwide to maximize their Microsoft Cloud investments. Our partnership offers several strategic advantages, including early access to Microsoft’s product roadmap, as well as Microsoft’s President, Collaborative Apps and Platforms, serving on our Board of Directors (the “
+Board
+”) since 2014. We have been named a global Microsoft Partner of the Year six times, most recently in 2024, which recognizes partners that have developed and delivered outstanding Microsoft Cloud solutions and innovation. In addition, our strategic partnership with Google is aimed at accelerating product adoption and growth from net new customers currently using Google Workspace, by driving greater awareness of our solutions.
+
+AvePoint has a product line designed specifically for the indirect route to market. The AvePoint 
+Elements
+ Platform is designed to drive significant growth by empowering MSPs to serve clients more efficiently while offering better services. In this selling motion, AvePoint enables channel partners to focus on maximizing margins through streamlined operations that are powered with the AvePoint 
+Elements
+ Platform.
+
+The AvePoint 
+Elements
+ Platform makes it easy for MSPs to consolidate security, data protection policies, archiving, user management, workspace management and more into a single, streamlined platform. This empowers MSPs to deliver more services and drive more efficient revenue growth, and enables them to stand out in a competitive market by excelling in key areas like end-user management, data security, Azure DevOps, and Entra ID. In addition, the platform’s advanced features further enhance its value by addressing critical operational needs:
+
+      8
+
+Table of Contents
+
+PART I
+
+ITEM 1
+
+Baseline Management
+ simplifies multi-tenant security and compliance settings by enabling MSPs to create and customize baseline analyses for their customers that use Microsoft 365 services. This centralized approach ensures streamlined management, proactively addresses configuration drift to maintain consistency, and allows for point-in-time backup and restoration of tenant configurations and settings.
+
+Workspace Governance
+ equips MSPs to manage security, access, data management, and Copilot reporting, allowing MSPs to efficiently scale governance models so their customers can streamline their use of the tools they need to power their business.
+
+Risk Monitoring
+ protects client environments with proactive tenant security monitoring. The platform enforces security rules, identifies and addresses potential risks, and ensures rapid resolution of issues, allowing MSPs to prevent data security breaches and ransomware attacks for their customers.
+
+Marketing
+
+Our global marketing organization is built on the foundation that our brand is our most valuable asset, shaping trust, differentiation, and long-term customer loyalty. We prioritize brand strength as the engine of demand and revenue growth, ensuring that our presence in the market is not only recognized but also deeply trusted.
+
+Through multi-platform campaigns that leverage our expertise, content, technical resources, and customer success stories, we capture mindshare, establish thought leadership, and drive demand generation. These campaigns are designed to meet customers at every stage of their journey—whether they are exploring industry trends, evaluating solutions, or expanding their existing investments with us.
+
+By integrating brand-building with demand generation, we seek to drive higher engagement, improve conversion efficiency, and reduce customer acquisition costs, ensuring that marketing execution is both scalable and impactful. We utilize a robust mix of marketing and sales automation tools, as well as product- and industry-specific criteria, to efficiently reach decision-makers across all customer segments. This approach is continuously refined through performance analytics, sales feedback, and customer insights, reinforcing our belief that a strong brand accelerates growth and maximizes long-term revenue outcomes.
+
+Customers
+
+We sell to organizations of all sizes, in all regions of the world, and across a broad array of industries. Our customers are located in more than 100 countries and, as of December 31, 2024, numbered more than 25,000. Additionally, no customer accounted for more than 10% of billings for the years ended December 31, 2024 and 2023, and no customer made up more than 10% of accounts receivable for the years ended December 31, 2024 and 2023.
+
+We classify our customer base by size and geography:
+
+■
+
+Small Business (
+“
+SMB
+”
+) segment
+. Companies with fewer than 500 user seats that we serve entirely through channel partners, especially MSPs. The typical buyer in this segment is the partner. As of December 31, 2024, the SMB segment accounted for 19% of our total annual recurring revenue.
+
+■
+
+Mid-Market segment
+. Companies with greater than 500 but fewer than 5,000 user seats that we serve through a combination of channel partners and our direct sales teams. The typical buyer in this segment is the CISO, CTO or the CIO for direct sales, and the channel partner for indirect sales. As of December 31, 2024, the Mid-market segment accounted for 28% of our total annual recurring revenue.
+
+■
+
+Enterprise segment
+. Companies with greater than 5,000 user seats that we primarily serve through our direct sales teams. The typical buyer in this segment is the CISO, CTO or the CIO. As of December 31, 2024, the Enterprise segment accounted for 53% of our total annual recurring revenue.
+
+■
+
+Geography
+. Classification is based on the customer’s billing address and is divided into (1) North America; (2) Europe, the Middle East, and Africa (“
+EMEA
+”); and (3) Asia-Pacific (“
+APAC
+”). As of December 31, 2024, North America represented 44% of our total annual recurring revenue, EMEA represented 35% of our total annual recurring revenue, and APAC represented 21% of our total annual recurring revenue.
+
+      9
+
+Table of Contents
+
+PART I
+
+Item 1
+
+Research And Development 
+
+We constantly seek to develop new offerings, drive improvements to our existing offerings, and enhance support of our existing customer deployments. We leverage agile development methodologies and work with the latest technologies, resulting in a dynamic, state of the art, software development process that has allowed us to quickly deliver high-quality products and services and adapt to market changes and new requirements. We believe delivering and expanding product functionality is critical to enhancing the success of new and existing customers while new product development further reinforces our breadth of solutions.
+
+Intellectual Property
+
+We rely on a combination of trade secrets, copyrights, and trademarks to establish and protect our intellectual property rights. We also rely on contractual protections, such as license, assignment, and confidentiality agreements, and technical measures. We pursue the registration of domain names, trademarks, and service marks in the United States and in various jurisdictions outside the United States. We control access to and use of our proprietary technology and other confidential information through the use of internal and external controls, including contractual protections with employees, contractors, customers, and partners, and our software is protected by U.S. and international intellectual property laws. We require our employees, consultants, and other third parties to enter into confidentiality and proprietary rights agreements and control access to software, documentation, and other proprietary information. Our policy is to require employees and independent contractors to sign agreements assigning to us any inventions, trade secrets, works of authorship, developments, and other processes generated by them on our behalf and agreeing to protect our confidential information. In addition, we generally enter into confidentiality agreements with our vendors and customers.
+
+Competition
+
+While certain companies offer products with features similar to those embedded in our individual solutions and with which we compete in certain tactical use cases, we do not believe that any company offers the same breadth of functionalities that we offer in a single integrated platform.
+
+Our competition is primarily from standalone point solutions that aim to replicate the value provided by our suites or one of the products contained therein. We believe our platform offering provides a meaningful competitive advantage, due to breadth of functionality, ease of use, scalability, rigor of security protocols, integration with third-party applications and data sources, time to value and total cost of ownership.
+
+Seasonality
+
+Our quarterly revenue can fluctuate and does not necessarily grow sequentially when measuring any one fiscal quarter’s revenue against another. Historically, our first quarter has been our lowest revenue quarter and our fourth quarter has been our highest revenue quarter, however those results are not necessarily indicative of future quarterly revenue or full year results. Additionally, the timing of new product and service introductions can significantly impact revenue. Lastly, the mix of revenues in any given quarter can cause fluctuations in our reported results, due to differing revenue recognition principles, as discussed further below. 
+
+      10
+
+Table of Contents
+
+PART I
+
+Item 1
+
+Human Capital
+
+The success of our people is the success of our Company, making our talent strategy a core focus of our operations. We received accolades designating us as a “best place to work” in 2024, including recognition from Inc. Magazine and Forbes. Our key human capital objectives include attracting and developing top talent, engaging our team in an environment where they thrive, and integrating our core values into our operating practices.
+
+Our values are long-held beliefs that guide the behaviors of our global teams and are foundational to our present and future success. These are not ‘statements on a wall’ but a true representation of how we act as a team:
+
+■
+
+Agility: 
+We value quick, informed decision-making to meet and exceed customer expectations. We subscribe to a growth mindset, which contributes to our entrepreneurial and learning spirit.
+
+■
+
+Passion:
+ Drive and energy are contagious here; we are not just going through the motions. We do things that are impactful and, as a result, amplify our customers’ success.
+
+■
+
+Teamwork:
+ We are invested in the success of our colleagues, partners, customers, and communities. We do this by promoting global collaboration and taking pride in helping, sharing, mentoring, and coaching each other.
+
+Team
+
+As of December 31, 2024, we had 2,934 employees globally. A large percentage of our employees have technical and professional backgrounds and undergraduate and/or advanced degrees. Our professional staff includes programmers, data and computer scientists, electrical and mechanical engineers, software and hardware specialists, project managers, sales and marketing professionals, and a multi-disciplinary support infrastructure. None of our employees are represented by a labor union with respect to their employment. We are not aware of any employment circumstances that are likely to disrupt our work efforts. See the section titled “
+Risk Factors
+” (Part I, Item 1A of this Annual Report) for a discussion of the risks related to the loss of key personnel or our inability to attract and retain qualified personnel.
+
+Recruitment and Internal Mobility
+
+We want to attract a pool of diverse and exceptional candidates and support their career growth once they join our team. We seek to hire based on proven experience and potential, providing opportunities to develop in critical operational areas. In our evaluation and career development efforts, we emphasize internal mobility opportunities as a core strategy to drive professional development. Our goal is a long-term, upward-bound career for every colleague, which also drives our retention efforts. Our talent acquisition team directly recruits highly skilled and talented people, and we encourage and incentivize employee referrals for open positions.
+
+Rewards
+
+We strive to provide globally a competitive suite of pay, comprehensive benefits, and services. We incentivize performance through a combination of competitive base pay, performance-based cash incentives and long-term incentives in the form of equity and cash. We believe this combination fosters a strong sense of ownership, aligns the interests of employees with our stockholders, and increases stockholder value and our overall success.
+
+      11
+
+Table of Contents
+
+PART I
+
+Item 1
+
+Environmental, Social and Governance Matters
+
+We recognize the importance of environmental, social and governance (“
+ESG
+”) matters and how they impact our customers, employees, community partners, and stockholders. We believe appropriately prioritizing ESG issues is an important component of corporate social responsibility and comprehensive fiscal management. In addition, we believe that strong ESG programs and practices are critical to attracting the best talent, executing on our corporate strategies, maintaining a robust supplier and channel partner base, and innovating to meet our consumers’ evolving expectations.
+
+In 2024, extensive internal research was conducted to determine AvePoint’s objectives pursuant to the Corporate Sustainability Reporting Directive (CSRD).  AvePoint has appropriated funding to conduct its first dual-materiality assessment and is on track for full compliance with CSRD as required in 2026. The disclosure below describes the goals of our ESG program to allow our stakeholders to be informed about our progress and future direction.
+
+1. Environmental
+
+Across our twenty-eight offices, we strive to reduce our environmental footprint, operate more efficiently, and engage our personnel in social initiatives that directly impact their lives. To fulfill our aim of integrating environmental sustainability into everything we do, we have implemented numerous projects across our operations to limit our environmental impact, such as implementing paperless campaigns, the encouragement of recycling and elimination of paper products, the sourcing of office resources from sustainable sources, and the recycling of physical IT assets.  In addition, we also strive to make operational decisions with attention to environmental impact and have LEED certified offices in the United States and maintain other energy certifications and maximization projects in our offices abroad.
+
+As a software company, we were an early mover to transition from traditional on-premises software solutions to software-as-a-service and hybrid deployments. Not only does cloud computing help meet the needs of our customers, but it also has tremendous benefits to the environment, including greater energy efficiency, lower carbon emissions, and reduced carbon footprints. In furtherance of our goals to reduce unnecessary use, we review the data on the environmental impact of physical server providers and only use server providers who publish such data.
+
+      12
+
+Table of Contents
+
+PART I
+
+Item 1
+
+2. Social
+
+As a global company, we have a tremendous opportunity – and responsibility – to do good. We strive to exemplify our core values of agility, passion and teamwork every day to ensure the success of our colleagues, customers, partners, and stakeholders as well as make a positive impact in the communities where we live and work. To do this, we are committed to creating and empowering access to a variety of opportunities as described below:
+
+Our organization employs talent from many different backgrounds, experiences, and identities. Diversity and inclusion drive our success and is at the core of how we hire, communicate and collaborate to deliver value and excellence. We are committed to fostering an environment where people can bring their whole selves to work and feel a sense of belonging. Through our employee resource groups, internal mobility opportunities across the countries in which we operate, and external partnerships with underrepresented minority networks, we continue to work toward creating a workforce that represents the diversity of our customers and communities. AvePoint employee resource groups (“
+ERGs
+”) regularly host events for our people to connect and engage with each other, learn from experts and support diverse communities throughout the year. During the month of June, our Women in Technology and Queers and Allies ERGs hosted a guest speaker to discuss the history and importance of Pride, and how to foster inclusivity and authenticity. Similarly, our Black AvePoint Excellence ERG hosted its 4th Annual Juneteenth Charity Gala raising over $10,000 for the African Diaspora College Access Program (ADC), a nonprofit dedicated to providing students with access to some of the nation’s top educational institutions.
+
+Supporting Agents of Change: Our Talent
+
+We are committed to investing in our people and nurturing a growth mindset across our organization. Our talent development philosophy builds upon the idea that business growth and success come from a culture of collaboration and creativity, and that our people should feel empowered to craft their careers, make an impact, and own their futures. Our portfolio of learning and development programs equips our leaders and managers with the skills and confidence to lead high-performing teams, and supports our individual contributors with the tools and resources to contribute impactfully in their roles from the moment they join AvePoint.
+
+Responsible Use of Artificial Intelligence
+
+At AvePoint, we recognize that AI continues to rapidly transform the business landscape. As such, we are committed to the safe, ethical, and responsible use of AI both within our company and for the broader technology industry. We have implemented robust training, policies, and procedures to ensure our employees are educated on the responsible use of AI. Further demonstrating our commitment, AvePoint is a founding member of the AI Trust Foundation, a non-profit membership organization designed to be the leading voice for promoting beneficial AI through education and outreach at all levels of society. Through internal governance and external collaboration, we aim to set the standard for acceptable and responsible use of AI.
+
+In December 2024, AvePoint implemented a board-approved Responsible AI Charter, to establish a set of guidelines and principles for the responsible and ethical use, development, and deployment of AI within our organization, and to ensure consistency with similar company AI policies and practices, particularly data privacy and confidentiality protections. This Responsible AI Charter is a key component of AvePoint’s commitment to ensuring that AI is developed and deployed in a way that respects human values, rights, and dignity. AvePoint, as a leader in cloud data management and governance, recognizes its responsibility to use AI in an ethical and responsible manner.
+
+      13
+
+Table of Contents
+
+PART I
+
+Item 1
+
+3. Corporate Governance
+
+Social Responsibility Support from the Top
+
+At AvePoint, our corporate governance practices support our core values of agility, passion, and teamwork.
+
+These practices provide a framework for the proper operation of our company, consistent with our stockholders’ best interests and the requirements of law. 
+
+We are committed to managing our affairs consistent with the highest principles of business ethics and with the corporate governance requirements of both Nasdaq and applicable law. In keeping with these principles:
+
+■
+
+A majority of our Board members are independent of AvePoint and its management;
+
+■
+
+All members of our three Board committees—the Audit Committee, the Compensation Committee, and the Nominating and Governance Committee—are independent of AvePoint and its management;
+
+■
+
+We have a transparent and publicly available Code of Ethics and Business Conduct that outlines our corporate policies to which all employees, officers and directors must adhere; 
+
+■
+
+We have a corporate compliance training program which requires and monitors trainings given on an annual basis; and
+
+■
+
+The charters of our Board committees clearly establish their respective roles and responsibilities.
+
+Management of Corporate Governance Resources
+
+In 2024, we took significant steps to reinforce our commitment to corporate governance and ethical practices, aligning with our strategic priorities. We completed our yearly review of all corporate governance policies, ensuring they were in line with current industry standards and regulatory requirements and introduced several new policies aimed at addressing emerging issues and reflecting our values. These included a Responsible AI Charter, an ESG Policy, a Grant Policy and a Supplier Code of Conduct. Each of these policies underscored our commitment to responsible business practices, social responsibility, and environmental stewardship.
+
+Our extensive list of corporate policies is publicly available on our website at the following web address, https://www.avepoint.com/ir/governance/governance-documents. We strive to continue to demonstrate transparency and accountability, fostering trust and confidence among investors, customers, and the broader community.
+
+As a result of our improved processes, we received an ESG Prime Label from Institutional Shareholder Services (ISS) meaning our common stock will qualify for responsible investment based on our improved score on their ESG Corporate Rating Report.  We were also awarded a Fast Mover Badge by EcoVadis in recognition of our significant improvement in our annual assessment.
+
+Our initiatives in 2024 underscored our commitment to robust corporate governance, ethical business practices, and employee empowerment. By proactively reviewing, updating, and communicating our policies, we demonstrated our dedication to transparency, accountability, and responsible stewardship in pursuit of its strategic objectives.
+
+      14
+
+Table of Contents
+
+PART I
+
+Item 1
+
+Earning the World
+’
+s Trust
+
+As a global company which is responsible to employees, stockholders and customers, our vision for AvePoint is to build an environment in which we earn trust and confidence every day through enabling collaboration and innovation through our commitment to privacy, security, and transparency.
+
+Commitment to powering proactive data security programs
+
+We understand the importance of security and operational risk management and are committed to providing organizations with relevant metrics which help them make decisions that are proactive rather than reactive. When done in conjunction with policies, education and measurement, organizations can balance collaboration and transparency with data protection and privacy. We seek to earn trust not just with robust security and privacy practices, but with the way we operate and organize our business.
+
+Aligning to clear privacy principles
+
+We have a policy of transparency regarding our data collection, use, retention and sharing practices. It is our commitment to implement appropriate technical security measures to protect all AvePoint stakeholders and manage third party risk. We use this foundation and discipline to develop market-leading privacy and security products and deliver world class customer service. Our software, processes and services have obtained industry-leading security and privacy certifications.
+
+We have obtained three ISO certifications that attest to our compliance with the highest standards of information security and privacy. These certifications are based on the ISO 27001, ISO 27017, and ISO 27701 standards, which cover the requirements for an information security management system (ISMS), cloud security, and privacy information management system (PIMS), respectively. Further attestations include SOC 2 Type II, compliance with HITRUST CSF v11.0.1., Information Security Registered Assessors (IRAP) Program, FedRAMP, and more. 
+
+Our achievement of these certifications and attestations showcases our dedication to protecting personal data and complying with privacy regulations. This certification solidifies our position as a trusted partner for organizations seeking robust privacy information management systems. By adopting ISO standards, we empower businesses to navigate privacy requirements across jurisdictions effectively, ensuring the security of sensitive information and fostering trust in the digital realm.
+
+We also seek to align our supply chain to similar standards of privacy and security. To that end, we have implemented a rigorous program to assess the privacy and security policies and procedures of our own vendors and suppliers so that our stakeholders receive a consistent approach to privacy and security matters.
+
+Advancing cybersecurity
+
+Cybersecurity is a central challenge for companies around the world as they continue on the digital transformation. Ransomware attacks have become one of the top security threats for organizations, especially as increased collaboration can lead to more vulnerabilities. The cost to recover stolen data can be millions of dollars, in addition to substantial reputational damage. AvePoint Ransomware Detection, and its Ransomware Warranty for MSPs, which primarily serves small business clients, gives assurance that companies will be protected.
+
+Strengthening our offerings by first strengthening ourselves
+
+We have built a resilient, scalable and secure IT environment by investing in complementary industry leading technology and security solutions, in addition to utilizing our own software platform. In addition, we have built a corporate culture in which privacy and security are enablers of productivity, collaboration and trust; we balance the free flow of information with the risk of inappropriate access and/or disclosure; and we implement a risk-based approach to privacy and security that will allow us to maintain not only legal and regulatory compliance in the jurisdictions in which we operate, but also to facilitate business and innovation at AvePoint.
+
+Commitment to Accessibility for all
+
+We understand that technology is an enabler so long as it is accessible and available to persons with varying abilities or personal preferences. AvePoint is committed to developing accessible technology as we value diverse experiences, backgrounds and perspectives among our employees, and across our customers and partners, and see them as a competitive advantage.
+
+      15
+
+Table of Contents
+
+PART I
+
+Item 1
+
+Compliance with Material Government Regulations
+
+We are subject to many U.S. federal and state and foreign laws and regulations that involve matters central to our business, including laws and regulations that involve data privacy and data protection, intellectual property, advertising, marketing, health and safety, competition, consumer protection, taxation, anti-bribery, anti-money laundering and corruption, economic or other trade prohibitions or sanctions, environmental protection regulations, and securities law compliance. Our business may also be affected by the adoption of any new or existing laws or regulations or changes in laws or regulations that adversely affect our business. Many relevant laws and regulations are still evolving and may be interpreted, applied, created or amended in a manner that could harm our business, and new laws and regulations may be enacted, including in connection with the restriction or prohibition of certain content or business activities.
+
+We are subject to certain U.S. federal, state, local and foreign laws and regulations regarding data privacy and the collection, storage, sharing, use, processing, disclosure and protection of personal information and other data from users, employees or business partners, including the GDPR, CCPA, and VCDPA. These laws expand the rights of individuals to control how their personal data is processed, collected, used and shared, create new regulatory and operational requirements for processing personal data, increase requirements for security and confidentiality and provide for significant penalties for non-compliance. There are also a number of legislative proposals recently enacted or pending before the U.S. Congress, various state legislatures and foreign governments concerning content regulation and data protection that could affect us. These and other laws and regulations that may be enacted, or new interpretation of existing laws and regulations, may require us to modify our data processing practices and policies and to incur substantial costs in order to comply.
+
+In addition, we are subject to the U.S. Foreign Corrupt Practices Act of 1977, as amended (the “
+FCPA
+”). The FCPA prohibits corporations and individuals from engaging in improper activities to obtain or retain business or to influence a person working in an official capacity. It prohibits, among other things, providing, directly or indirectly, anything of value to any foreign government official, or any political party or official thereof, or candidate for political influence to improperly influence such person. Similar laws exist in other countries, such as the UK, that restrict improper payments to persons in the public or private sector. Many countries have laws prohibiting these types of payments within the respective country. Historically, technology companies have been the target of FCPA and other anti-corruption investigations and penalties. We are further subject to U.S. and foreign laws and regulations that restrict our activities in certain countries and with certain persons. These include the economic sanctions regulations administered by the U.S. Treasury Department’s Office of Foreign Assets Control and the export control laws administered by the U.S. Commerce Department’s Bureau of Industry.
+
+The foregoing description does not include an exhaustive list of the laws and regulations governing or impacting our business. See the discussion contained in the “
+Risk Factors
+” section (Part I, Item 1A of this Annual Report) for information regarding how actions by regulatory authorities or changes in legislation and regulation in the jurisdictions in which we operate may have a material adverse effect on our business.
+
+      16
+
+Table of Contents
+
+PART I
+
+Item 1
+
+Information About Our Executive Officers
+
+Name
+
+Age
+
+Position
+
+Xunkai Gong
+
+62
+
+Executive Chairman and Director
+
+Tianyi Jiang
+
+50
+
+Chief Executive Officer and Director
+
+Brian Michael Brown
+
+52
+
+Chief Legal and Compliance Officer, Secretary, and Director
+
+James Caci
+
+60
+
+Chief Financial Officer
+
+Xunkai Gong 
+was appointed as our Executive Chairman and a director in July of 2021, and previously served as our predecessor company’s Chairman and Co-Chief Executive Officer alongside Dr. Jiang from 2008 to 2021, Chief Executive Officer from 2001 to 2008 and director from 2001 to 2021. Mr. Gong holds a master’s degree in computer engineering from the University of the Chinese Academy of Sciences, a master’s degree in computer science from Southern University and Agricultural and Mechanical College at Baton Rouge, and a bachelor’s degree in electrical and electronics engineering from Dalian University of Technology.
+
+Tianyi Jiang
+ was appointed as our Chief Executive Officer and a director in July of 2021, and previously served as our predecessor company’s Co-Chief Executive Officer alongside Mr. Gong from 2008 to 2021 and director from 2005 to 2021. Dr. Jiang holds a doctorate and a master’s degree in data mining from New York University, in addition to a bachelor’s degree and a master’s degree in electrical and computer engineering from Cornell University.
+
+Brian Michael Brown 
+was appointed as our Chief Legal and Compliance Officer, Secretary of the Board and a director in July of 2021, and previously served as our predecessor company’s General Counsel and Chief Operating Officer from 2004 to 2021 and director from 2008 to 2021. Mr. Brown holds a bachelor’s degree from the University of Michigan and a Juris Doctor from Michigan State University.
+
+James Caci 
+was appointed as our Chief Financial Officer in August of 2021 and previously served as our predecessor company’s Chief Financial Officer from 2010 to 2013. From April 2020 to August of 2021, Mr. Caci held the position of Chief Financial Officer at Brand Value Accelerator, LLC, an industry leading digital commerce services firm. From March 2016 to April 2020, Mr. Caci served as the Chief Financial Officer of Nicopure Labs. Mr. Caci brings more than 25 years of experience leading the strategic finance operations at both public and privately held SaaS and IT service companies. Mr. Caci holds a bachelor’s degree from Montclair State University and is a certified public accountant.
+
+Additional information regarding our Executive Officers is set forth in the Proxy Statement to be filed in connection with our 2025 Annual Meeting of Stockholders within 120 days after the end of the fiscal year ended December 31, 2024.
+
+      17
+
+Table of Contents
+
+PART I
+
+Item 1
+
+Corporate Information
+
+Our principal executive offices are located at 525 Washington Blvd, Suite 1400, Jersey City, NJ 07310, and our telephone number is (201) 793-1111. Our principal operating offices are located at Riverfront Plaza, West Tower, 901 E Byrd St, Suite 900, Richmond, VA 23219 and our telephone number for that office is (804) 372-8080. All correspondence should be directed to our principal operating offices in Richmond, Virginia.
+
+“AvePoint,” the “A” logo, the “Pyramid” logo, “DocAve,” “MaivenPoint,” and all other names, logos, and icons identifying AvePoint and/or AvePoint’s products and services and our other registered and common law trade names, trademarks, and service marks are property of AvePoint, Inc. This Annual Report contains additional trade names, trademarks, and service marks of others, which are the property of their respective owners. Solely for convenience, trademarks and trade names referred to in this Annual Report may appear without the ® or ™ symbols but those references are not intended to indicate that AvePoint will not assert, to the fullest extent under the applicable law, our rights to these trademarks, service marks, and trade names.
+
+Available Information
+
+Our Internet address is https://www.avepoint.com/. At our Investor Relations website, https://www.avepoint.com/ir, we provide, and make available free of charge, a variety of information for investors, including, but not limited to:
+
+■
+
+Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and any amendments to those reports, as soon as reasonably practicable after we electronically file that material with or furnish it to the SEC at www.sec.gov.
+
+■
+
+Announcements of investor conferences, speeches, presentations, and events at which our executives discuss our products, services, competitive strategies, and other aspects of our business.
+
+■
+
+Press releases on quarterly results, product and service announcements, legal developments, and national and international news.
+
+■
+
+Corporate governance information including our articles of incorporation, bylaws, governance guidelines, committee charters, code of ethics and business conduct, whistleblower “open door” policy for reporting accounting and legal allegations, global corporate social responsibility initiatives, and other governance-related policies.
+
+■
+
+Other news and announcements that we may post from time to time that investors might find useful or interesting, including news with respect to our business strategies, financial results, and metrics for investors.
+
+In addition to these channels, we use social media to communicate to the public. It is possible that the information we post on social media could be deemed to be material to investors. We encourage investors, the media, and others interested in AvePoint to review the information we post on the social media channels listed on our Investor Relations website.
+
+The information found on our main website or our Investor Relations website is not part of this or any other report we file with, or furnish to, the SEC, for the purposes of Section 18 of the Exchange Act or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act except as shall be expressly set forth by specific reference in such filing, and you should not consider any information contained on, or that can be accessed through, our website as part of this Annual Report or in deciding whether to purchase our common stock.
+
+2021 Consummation of the Apex Business Combination
+
+AvePoint, Inc., incorporated as a New Jersey corporation on July 24, 2001 (“
+Legacy AvePoint
+”), was redomiciled as a Delaware corporation in 2006, and changed its name to “AvePoint Operations, Inc.” in June 2021. On July 1, 2021, Legacy AvePoint and certain members of Apex Technology Acquisition Corporation (“
+Apex
+”) consummated the transactions contemplated by a business combination agreement (the “
+Apex Business Combination
+”) and a number of qualified institutional buyers and accredited investors consummated their respective purchases of shares as contemplated by related subscription agreements, with Apex being renamed “AvePoint, Inc.” On July 2, 2021, shares of common stock were officially listed under the ticker “AVPT” on the Nasdaq Global Select Market. Subsequent to the consummation of the Apex Business Combination, on July 26, 2021, Legacy AvePoint’s successor by merger AvePoint US LLC merged with and into AvePoint, Inc. with AvePoint surviving.
+
+      18
+
+Table of Contents
+
+PART I
+
+Item 1A

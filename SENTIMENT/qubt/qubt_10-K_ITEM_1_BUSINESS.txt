@@ -1,0 +1,375 @@
+ITEM 1. BUSINESS
+.
+
+The High-Performance Computing Landscape 
+
+There is a large and growing demand for ever-increasing
+computational performance in information processing and data storage. The recent emergence of artificial intelligence, large language
+models, and machine learning algorithms has added to the need for efficient processing of vast volumes of data. Classical computers that
+use silicon microprocessors are understood to have performance limitations in solving certain classes of computational problems, in particular,
+optimization problems. Solving large optimization problems requires complex calculations that cannot currently be performed in a reasonable
+amount of time using classical computing systems for problem sizes relevant to many industrial and real-world applications.
+
+There is a growing belief among computer science experts that quantum
+computing, which uses quantum mechanics to solve problems faster than traditional computers, may offer a potential solution to the hard
+limits now being approached by classical computers. In addition to new computational methodologies using quantum mechanics, there is a
+corresponding emergence of new materials in microprocessors that may be able to overcome some of the limitations of the silicon based
+processors used in classical computers. One promising area is in the use of photonics, which uses particles of light for computation.
+We believe that these emerging approaches will create an opportunity for new materials and methods that can meet the growing demand for
+scalable performance and power efficiency. While it is difficult to determine the date that quantum computers will begin to have practical
+relevance, we believe that quantum computers with gradually increasing performance will be introduced by multiple vendors over the next
+five years.
+
+The Company 
+
+Quantum Computing Inc. is an American company
+utilizing integrated photonics and non-linear quantum optics to develop and deliver machines for quantum computing, reservoir computing,
+and remote sensing, imaging and cybersecurity applications. Our vision is to lead the revolution in photonics and quantum computing with
+scalable, accessible, and affordable solutions for real-world problems. QCi’s products are designed to operate at room temperature
+and at very low power levels compared to other quantum systems currently available in the market, such as superconducting, ion-trap, or
+annealing architectures. Our acquisition of QPhoton, Inc. (the “QPhoton Merger”) in June 2022, enabled us to offer the aforementioned
+products, integrated with the Company’s software platform, Qatalyst, that existed before the QPhoton Merger.
+
+1
+
+QCi’s proprietary core technology rests in our ability to condition,
+manipulate, and measure single photons (particles of light). Specifically, our integrated photonics approach exploits the non-linear capabilities
+of photons (our “Core Photonics Technology”). Our Entropy Quantum Computer (“EQC”) is a quantum application of
+our Core Photonics Technology, designed to solve complex optimization problems. EQC is based on a patent-pending methodology that utilizes
+the energy in the environment to drive controlled feedback through energy loss in a photonic circuit architecture. The EQC’s use
+of the environment as an integral part of the system is in sharp contrast to competing quantum approaches, including the aforementioned
+superconducting, trapped-ion, and annealing architectures, which seek to establish stable quantum states by the complete elimination of
+environmental effects. As a result, the EQC consumes less power than these competing methods and operates at room temperature making it
+compatible with an ordinary server room environment. We anticipate that our EQC will enable us to develop and produce multiple generations
+of quantum machines with increasing computational power, scalability, and speed.
+
+Our longer-term product development plan is to
+migrate product designs based on discrete components, including EQC’s current design, to a set of optical integrated circuits built
+on wafers using a crystalline material called lithium niobate (“Thin Film Lithium Niobate” or “TFLN”). The Company
+believes that TFLN is an excellent material for optical integrated circuit design, given its advantageous optical properties (both linear
+and non-linear) and its compatibility with silicon-based semiconductor fabrication methods. The Company is completing the buildout of
+a state-of-the-art TFLN chip manufacturing facility in a leased space within Arizona State University’s Research Park in Tempe,
+Arizona (the “AZ Chips Facility”).
+
+In addition to our EQC technology, we have leveraged
+QCi’s core photonics technology to demonstrate powerful quantum sensing use cases in LIDAR (light detection and ranging) (a technology
+that uses pulsed laser light to measure distances to objects by calculating the time it takes for the reflected light to return), reservoir
+computing (a form of neural network that can be used in machine learning applications and quantum cyber authentication (a method for highly
+secure communication within a network). Several of these technologies are in the early stages of commercialization and several are available
+to customers through our research & development offerings.
+
+Our Strategy
+
+QCi’s strategy is to provide a range of
+accessible and affordable quantum machines to commercial and government markets, supported by professional services through our “Quantum
+Solutions” offering. Our proprietary technology is central to our strategy because we believe that it enables us to leverage the
+advantages of size, weight, power, and cost over competing cryogenic products. We further differentiate ourselves in the market by offering,
+in addition to cloud-based access to our quantum computers, on-premises installation of our EQC product, which is rack-mountable and compatible
+with standard server room infrastructure and requires no special cooling, shielding, or power considerations.
+
+Further, our EQC development plan to gradually
+replace discrete optical components with photonic integrated circuits will provide us the ability to fabricate and sell a range of custom
+lithium niobate chips for use in our own product lines as well as TFLN Optical Chips, as defined below, for sale into existing commercial
+markets for optical devices.
+
+Market Opportunity
+
+The Company believes that quantum solutions have
+the potential to bring significant and increasing advances in the fields of medicine, engineering, autonomous vehicles, energy management,
+and cybersecurity and that the demand for quantum computing in these market sectors will likely outpace and outperform the general-purpose
+universal computing market in the near- to mid-term and into the foreseeable future. We believe that our core photonics technology applications
+offer practical, cost-effective solutions that can materially advance the adoption of quantum machines across several market segments
+including:
+
+1.
+Quantum
+computing, including quantum optimization computing
+
+2.
+Reservoir
+computing, including edge hardware devices
+
+2
+
+3.
+Remote
+sensing and imaging, including LiDAR and quantum photonic vibrometry
+
+4.
+Cybersecurity,
+including authentication
+
+While the current quantum computing market comprises
+a fraction of the broader high-performance computing market, we anticipate that quantum computers will unlock new applications that are
+unlikely to be addressable by existing high-performance computers comprised of leveraging classical processing units. Estimates of the
+size of the global high-performance computing industry vary, but according to Grand View Research, the high-performance computing market
+was valued at $39.1 billion in 2019 and is expected to reach a value of $53.6 billion by 2027, see 
+Grand View Research - High Performance
+Computing Market Size Worth $53.6 Billion By 2027,
+ https://www.grandviewresearch.com/press-release/global-high-performance-computing-hpc-market
+According to a report from Allied Market Research, the global enterprise quantum computing market size was valued at $1.3 billion in 2020
+and is projected to reach $18.3 billion by 2030, growing at a compound annual growth rate of 29.7% from 2021 to 2030, according to a published
+report on the enterprise quantum computing market at https://www.alliedmarketresearch.com/enterprise-quantum-computing-market (Information
+contained on, or that can be accessed through, these websites is not incorporated by reference in this Annual Report, and you should not
+consider information on these websites to be part of this Annual Report).
+
+As an early participant in this rapidly growing
+market, we believe we are well-positioned to capture a meaningful amount of this growth. We also believe that there is further potential
+upside from quantum computing and technology more broadly opening new markets not included in traditional high-performance computing market
+size estimates.
+
+Additionally, we believe that our foundry services offering will address
+the growing TFLN market and photonic integrated circuit markets. A recent 
+Market Research Reports: Document ID: LPI08232779;
+Published August 8, 2023 
+“
+Thin Film Lithium Niobate Market Forecast 2023 – 2029
+,” indicates a significant
+potential market growth for TFLN devices. The study covers use applications and segments that forecast the global TFLN electro-optical
+modulator market, valued at $190.4 million in 2022, to grow an estimated $1,931.3 million by 2029 - a compound annual growth rate of 39
+percent. The report further describes how such increase in demand is expected to be principally driven by the material advantages described
+above. Specifically, TFLN electro-optical modulators have the advantages of large bandwidth, low power consumption, and small size. Further,
+Mordor Intelligence published a market report, “
+Photonic Integrated Circuit Market Size & Share Analysis - Growth Trends
+& Forecasts (2024 - 2029)”
+ forecasts that the photonic integrated circuit (PIC) market, currently valued at $15.1 billion,
+will grow at a compound annual growth rate of 20.5% to $38.4 billion in 2029. We believe that this suggests significant potential demand
+for QCi’s products and services.
+
+Products and Products in Development
+
+The Company believes it is well-positioned in
+the marketplace due to its Core Photonics Technology in integrated photonics that allows QCi to offer a suite of quantum machines to the
+market today with a robust technology roadmap for the future. The QPhoton Merger substantially broadened the Company’s technology
+portfolio and enabled us to develop a group of closely related products to EQC, based on our underlying Core Photonics Technology.
+
+TFLN Optical Chips
+
+We believe that TFLN optical integrated circuits
+(“TFLN Optical Chips”) will ultimately provide the greatest scalability and performance advantages for quantum information
+processing, sensing, and imaging applications. While the Company is developing proprietary chip designs to for TFLN Optical Chips for
+exclusive use in our products for the aforementioned applications, the Company’s foundry services offering at our AZ Chips Facility
+will make available a range of custom TFLN chips (custom single photon detectors) for sale into existing commercial markets, including
+optical devices such as electro-optical modulators, periodically poled devices for frequency conversion and micro ring resonator cavities.
+
+3
+
+Entropy Quantum Computer
+
+QCi launched a new EQC device during the first
+quarter of 2024 (Dirac-3) and plans to release a series of additional EQC products in the coming years that build and expand upon the
+same analog architecture. This planned evolution of technology and product enhancements will involve improving the size and capacity of
+the EQC machines, as well as speed, scalability, and performance fidelity. The EQC is available both as a cloud-based subscription service,
+similar to other quantum machines, as well as an affordable on-premises solution.
+
+EQC is a full-stack system, incorporating QCi’s
+custom user interface software Qatalyst, which allows users to avoid the complexity of software development kits (“SDKs”)
+at the circuit level and has evolved from QCi’s primary SaaS offering to the software that powers our offerings. Operating on EQC,
+Qatalyst enables developers to create and execute quantum-ready applications using application programming interfaces. Users can then
+use these same interfaces on conventional computers to achieve optimization performance advantages using our cloud-based solution.
+
+Reservoir Computer
+
+Launched in June 2023, QCi’s first reservoir
+computing product is an edge device that used an integrated circuit that can be reprogrammed after manufacturing and optimized for recurrent
+neural network applications. An “edge device” allows the user to process, measure, and analyze data locally (at the user’s
+device) as opposed to over a network where data must be sent over the internet or through some cloud service. QCi’s Reservoir Computer
+(“RC”) is a standalone device that can be plugged into a local computer or server without having to connect over the internet.
+We believe that the RC’s hardware-based approach to reservoir computing has advantages over more traditional software approaches,
+including significantly faster processing speeds, 80% - 95% less energy consumption, portability (size of power bank), affordability,
+and requiring significantly shorter training time. Our benchmarking analyses further show that the RC is capable of delivering superior
+performance in time-dependent tasks, such as chaotic time series prediction, unstructured financial model prediction, natural language
+processing, and weather forecasting. To date, the market for reservoir computing has been limited due to computing cost and technical
+implementation complexities, which we designed the RC to address. We anticipate that future generations of the RC will introduce greater
+speed of performance and scalability, which will enable the RC to participate in large language model training and other applications.
+While technology challenges remain in scaling this technology, this is one of our focus areas to gain a significant share in the artificial
+intelligence / machine learning hardware market.
+
+LiDAR and Quantum Photonic Vibrometer
+
+QCi’s LiDAR uses patented methodologies
+that leverage the selective use of spatial-temporal modes to maximize the signal-to-noise ratio of weak information signals in a high-noise
+background. This technology allows QCi machines to see through dense fog and provide image fidelity at great distances with very high
+resolution in difficult environments such as snow, ice, and water. The practical benefits on payload and signal-to-noise enhancement can
+be used to produce LiDAR machines that are greatly enhanced in their ability to measure at improved resolution and distances from aircraft,
+drones, and even satellites.
+
+Launched July 2023, QCi’s
+Quantum Photonic Vibrometer is a proprietary, powerful instrument for remote vibration detection, sensing, and inspection.
+We believe that this device offers significant advancements in sensitivity, speed, and resolution, capable of discerning for the first
+time, highly obscured and non-line-of-sight objects. The Quantum Photonic Vibrometer measures the vibration frequency of a remote
+target by utilizing fast-gated single photon counting to directly detect returning photons whose wavefunctions are dynamically modulated
+as they are reflected off the target. By counting photons at a megahertz rate, important properties such as material composition and mechanical
+integrity can be determined within seconds and, depending on detection distance, with microwatt to milliwatt optical power. Working
+at an eye-safe wavelength, the system can accurately characterize the vibration spectra of solid or liquid targets with vibration amplitude
+as small as 100 nanometers.
+
+Quantum Networks and Quantum Authentication
+
+QCi has developed a prototype system to address
+one of the major challenges in cybersecurity, the authentication of users on a network, which is currently facilitated by the distribution
+of “private keys” by a trusted third party. This approach is inherently insecure as keys are bundled and travel with the encrypted
+data, making it susceptible to harvest-and-decrypt-later vulnerability. QCi has developed a quantum authentication technology and methodology
+that eliminates the need for trust in third-party involvement in key distribution. Our approach uses a combination of a high-powered laser,
+and a patented detection methodology deeply rooted in the fundamental principles of quantum mechanics, resulting in what we believe will
+be an unbreakable basis for private network communication.
+
+4
+
+Competition
+
+The quantum computing industry is highly competitive
+and rapidly evolving and will likely remain so for the foreseeable future. As this industry continues to grow and mature, we expect a
+continued influx of new competitors, products, hardware advances, and concepts to emerge that can dramatically transform the industry
+and our business. Due to the high price point of quantum computing hardware today, novel business models may emerge to adapt to customer
+preferences in the high-performance computing industry. Our ability to evolve and adapt rapidly over an extended period of time will be
+critical in remaining competitive. We perform a broad range of research and development efforts to identify and position for the changing
+demands of future customers and users, industry trends, and competitive forces.
+
+According to research conducted by The Quantum
+Insider, there are over 700 companies and approximately 400 university academic groups working in various aspects of quantum technology,
+with approximately 400 of these having a pure-play focus on quantum computing.
+
+These entities range in size from diversified
+global companies with significant research and development resources such as IBM, Google, Intel, Microsoft, Quantinuum (formerly Honeywell)
+and Amazon to recent market entrants such as D-Wave Quantum, Rigetti Computing, IonQ, PsiQuantum, Xanadu and Infleqtion (formerly ColdQuanta),
+as well as smaller privately funded development stage companies whose narrower product focuses may allow them to be more effective in
+deploying resources towards a specific industry demand. In addition, we face competition from large research organizations funded by sovereign
+nations such as China, Russia, Canada, Australia, and the United Kingdom, as well as the European Union, and we believe that additional
+countries will invest in quantum computing in the future. We will continue to face competition from the existing high-performance computing
+industry using classical (non-quantum) computers.
+
+We believe that competition in this market segment
+will intensify. Many of our competitors may have longer operating histories, significantly greater financial, technical, product
+development, and marketing resources, and greater name recognition than we do. Our competitors could use these resources to market
+or develop products or services that are more effective or less costly than any or all of our products or services.
+
+Intellectual Property
+
+Our intellectual property consists of patents,
+trademarks, and trade secrets. Our trade secrets consist of product formulas, research and development, and unpatentable know-how, all
+of which we seek to protect, in part, by confidentiality agreements. To protect our intellectual property, we rely on a combination of
+laws and regulations, as well as contractual restrictions. Federal trademark law protects our registered trademarks. We also rely on the
+protection of laws regarding unregistered copyrights for certain content we create and trade secret laws to protect our proprietary technology.
+To further protect our intellectual property, we enter into confidentiality agreements with our executive officers, employees, consultants
+and directors.
+
+1
+ Seskir, Z.C., Korkmaz,
+R. & Aydinoglu, A.U., 
+The landscape of the quantum start-up ecosystem
+, EPJ Quantum Technol. 9, 27 (2022), at https://doi.org/10.1140/epjqt/s40507-022-00146-x
+
+5
+
+Trademarks
+
+The Company has three registered trademarks, “QPhoton,”
+“QGraph” and “Qatalyst.” The Company has no pending trademark applications.
+
+Patents
+
+The Company has two granted United States patents.
+
+Country
+
+Serial 
+ No.
+
+Filing
+ Date
+
+Patent
+ No.
+
+Issue
+ Date
+
+Title
+
+Status
+
+Anticipated
+ Expiration
+ Date
+
+USA
+
+17/560,816
+
+12/23/2021
+
+11,436,519
+
+09/06/2022
+
+Machine Learning Mapping for Quantum Processing Units
+
+Granted
+
+12/23/2041
+
+USA
+
+17/810,198
+
+06/30/2022
+
+12,008,436
+
+06/11/2024
+
+Machine Learning Mapping for Quantum Processing Units
+
+Granted
+
+06/30/2042
+
+Exclusive License Agreement 
+
+QCi has an exclusive license to seven patents
+issued to the Stevens Institute of Technology, pursuant to the license agreement dated December 17, 2020 by and among QPhoton and The
+Trustees of The Stevens Institute of Technology (the “Licensor”). QPhoton agreed to reimburse the Licensor for patent prosecution
+expenses in the amount of $125,041 and deliver to the Licensor an annual report and quarterly report pursuant to the terms of the license
+agreement. As consideration for the license and other rights granted under the license agreement, QPhoton agreed to pay the Licensor (i)
+$35,000 upon full execution of the license agreement, (ii) $28,000 each annual anniversary of the effective date of the license agreement,
+(iii) 9% of the membership units of QPhoton and (iv) a royalty of 3.5% of the net sales price of each licensed product sold or license
+by QPhoton and any affiliate and sublicensee. On June 15, 2022, the Licensor agreed to assign the license agreement to QCi upon consummation
+of the QPhoton Merger.
+
+Government Regulation and Incentives
+
+Export Regulation
+
+The U.S. government issued regulations in 2024
+placing some restrictions on exporting quantum computing products under the Export Administration Act. Those exports will now require
+a license. We are reviewing the new regulations but do not believe they will have a substantial adverse impact on the Company. The U.S.
+government has also placed some export restrictions on certain types of cryogenic quantum computing equipment as well as some optical
+materials. At this time, however, we do not expect there to be significant export limitations on the Company’s products.
+
+Incentives
+
+The Creating Helpful Incentives to Produce Semiconductors
+Act of 2022 (the “CHIPS Act”) was designed to address the global computer chip shortage and attract chip manufacturing,
+and innovation to the United States. The CHIPS Act is a $280 billion spending package aimed at encouraging the growth of the US-based
+semiconductor industry. To assist in securing the domestic chip supply, the CHIPS Act provides $52.7 billion for American semiconductor
+research, development, manufacturing, and workforce development. The Company is pursuing opportunities under the CHIPS Act but there is
+no guarantee that it will actually receive any funding thereunder.
+
+Corporate Information
+
+Our executive offices are located at 5 Marine
+View Plaza, Suite 214, Hoboken, NJ 07030, and our telephone number is (703) 436-2121. Our corporate website is www.quantumcomputinginc.com.
+Information appearing on our website is not part of this Annual Report.
+
+Employees
+
+As of December 31, 2024, the Company had 41 full-time
+employees and nine part-time contract staff, 34 of whom are focused on product development. Our employees are not part of a collective
+bargaining agreement and we believe that our relationships with our employees and contract workers are good. The Company offers a health
+and welfare benefit plan to current full-time employees that provides medical, dental, vision, life, and disability benefits. The Company
+also offers a 401(k) retirement savings plan and participation in the stock option plan to all full-time employees. There are no unpaid
+liabilities under the Company’s benefit plans, and the Company has no obligation to pay for post-retirement health and medical costs
+of retired employees.
+
+6

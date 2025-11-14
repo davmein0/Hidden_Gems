@@ -1,0 +1,4203 @@
+zlab-20250930
+0001704292
+--12-31
+2025
+Q3
+False
+0
+P3Y
+one
+427
+369
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+xbrli:pure
+iso4217:CNY
+zlab:segment
+0001704292
+2025-01-01
+2025-09-30
+0001704292
+dei:AdrMember
+2025-01-01
+2025-09-30
+0001704292
+us-gaap:CommonStockMember
+2025-01-01
+2025-09-30
+0001704292
+us-gaap:CommonStockMember
+2025-10-31
+0001704292
+dei:AdrMember
+2025-10-31
+0001704292
+2025-09-30
+0001704292
+2024-12-31
+0001704292
+2025-07-01
+2025-09-30
+0001704292
+2024-07-01
+2024-09-30
+0001704292
+2024-01-01
+2024-09-30
+0001704292
+us-gaap:CommonStockMember
+2024-12-31
+0001704292
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0001704292
+us-gaap:RetainedEarningsMember
+2024-12-31
+0001704292
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-31
+0001704292
+us-gaap:TreasuryStockCommonMember
+2024-12-31
+0001704292
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0001704292
+us-gaap:AdditionalPaidInCapitalMember
+2025-01-01
+2025-03-31
+0001704292
+2025-01-01
+2025-03-31
+0001704292
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-03-31
+0001704292
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-01-01
+2025-03-31
+0001704292
+us-gaap:CommonStockMember
+2025-03-31
+0001704292
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-31
+0001704292
+us-gaap:RetainedEarningsMember
+2025-03-31
+0001704292
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-03-31
+0001704292
+us-gaap:TreasuryStockCommonMember
+2025-03-31
+0001704292
+2025-03-31
+0001704292
+us-gaap:CommonStockMember
+2025-04-01
+2025-06-30
+0001704292
+us-gaap:AdditionalPaidInCapitalMember
+2025-04-01
+2025-06-30
+0001704292
+2025-04-01
+2025-06-30
+0001704292
+us-gaap:TreasuryStockCommonMember
+2025-04-01
+2025-06-30
+0001704292
+us-gaap:RetainedEarningsMember
+2025-04-01
+2025-06-30
+0001704292
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-04-01
+2025-06-30
+0001704292
+us-gaap:CommonStockMember
+2025-06-30
+0001704292
+us-gaap:AdditionalPaidInCapitalMember
+2025-06-30
+0001704292
+us-gaap:RetainedEarningsMember
+2025-06-30
+0001704292
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-06-30
+0001704292
+us-gaap:TreasuryStockCommonMember
+2025-06-30
+0001704292
+2025-06-30
+0001704292
+us-gaap:CommonStockMember
+2025-07-01
+2025-09-30
+0001704292
+us-gaap:AdditionalPaidInCapitalMember
+2025-07-01
+2025-09-30
+0001704292
+us-gaap:TreasuryStockCommonMember
+2025-07-01
+2025-09-30
+0001704292
+us-gaap:RetainedEarningsMember
+2025-07-01
+2025-09-30
+0001704292
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-07-01
+2025-09-30
+0001704292
+us-gaap:CommonStockMember
+2025-09-30
+0001704292
+us-gaap:AdditionalPaidInCapitalMember
+2025-09-30
+0001704292
+us-gaap:RetainedEarningsMember
+2025-09-30
+0001704292
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-09-30
+0001704292
+us-gaap:TreasuryStockCommonMember
+2025-09-30
+0001704292
+us-gaap:CommonStockMember
+2023-12-31
+0001704292
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-31
+0001704292
+us-gaap:RetainedEarningsMember
+2023-12-31
+0001704292
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-12-31
+0001704292
+us-gaap:TreasuryStockCommonMember
+2023-12-31
+0001704292
+2023-12-31
+0001704292
+us-gaap:CommonStockMember
+2024-01-01
+2024-03-31
+0001704292
+us-gaap:AdditionalPaidInCapitalMember
+2024-01-01
+2024-03-31
+0001704292
+2024-01-01
+2024-03-31
+0001704292
+us-gaap:RetainedEarningsMember
+2024-01-01
+2024-03-31
+0001704292
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-01-01
+2024-03-31
+0001704292
+us-gaap:CommonStockMember
+2024-03-31
+0001704292
+us-gaap:AdditionalPaidInCapitalMember
+2024-03-31
+0001704292
+us-gaap:RetainedEarningsMember
+2024-03-31
+0001704292
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-03-31
+0001704292
+us-gaap:TreasuryStockCommonMember
+2024-03-31
+0001704292
+2024-03-31
+0001704292
+us-gaap:CommonStockMember
+2024-04-01
+2024-06-30
+0001704292
+us-gaap:AdditionalPaidInCapitalMember
+2024-04-01
+2024-06-30
+0001704292
+2024-04-01
+2024-06-30
+0001704292
+us-gaap:RetainedEarningsMember
+2024-04-01
+2024-06-30
+0001704292
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-04-01
+2024-06-30
+0001704292
+us-gaap:CommonStockMember
+2024-06-30
+0001704292
+us-gaap:AdditionalPaidInCapitalMember
+2024-06-30
+0001704292
+us-gaap:RetainedEarningsMember
+2024-06-30
+0001704292
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-06-30
+0001704292
+us-gaap:TreasuryStockCommonMember
+2024-06-30
+0001704292
+2024-06-30
+0001704292
+us-gaap:CommonStockMember
+2024-07-01
+2024-09-30
+0001704292
+us-gaap:AdditionalPaidInCapitalMember
+2024-07-01
+2024-09-30
+0001704292
+us-gaap:RetainedEarningsMember
+2024-07-01
+2024-09-30
+0001704292
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-07-01
+2024-09-30
+0001704292
+us-gaap:CommonStockMember
+2024-09-30
+0001704292
+us-gaap:AdditionalPaidInCapitalMember
+2024-09-30
+0001704292
+us-gaap:RetainedEarningsMember
+2024-09-30
+0001704292
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-09-30
+0001704292
+us-gaap:TreasuryStockCommonMember
+2024-09-30
+0001704292
+2024-09-30
+0001704292
+currency:USD
+2025-09-30
+0001704292
+currency:USD
+2024-12-31
+0001704292
+currency:CNY
+2025-09-30
+0001704292
+currency:CNY
+2024-12-31
+0001704292
+currency:HKD
+2025-09-30
+0001704292
+currency:HKD
+2024-12-31
+0001704292
+currency:AUD
+2025-09-30
+0001704292
+currency:AUD
+2024-12-31
+0001704292
+currency:TWD
+2025-09-30
+0001704292
+currency:TWD
+2024-12-31
+0001704292
+us-gaap:OfficeEquipmentMember
+2025-09-30
+0001704292
+us-gaap:OfficeEquipmentMember
+2024-12-31
+0001704292
+zlab:ElectronicEquipmentMember
+2025-09-30
+0001704292
+zlab:ElectronicEquipmentMember
+2024-12-31
+0001704292
+us-gaap:VehiclesMember
+2025-09-30
+0001704292
+us-gaap:VehiclesMember
+2024-12-31
+0001704292
+zlab:LaboratoryEquipmentMember
+2025-09-30
+0001704292
+zlab:LaboratoryEquipmentMember
+2024-12-31
+0001704292
+zlab:ManufacturingEquipmentMember
+2025-09-30
+0001704292
+zlab:ManufacturingEquipmentMember
+2024-12-31
+0001704292
+us-gaap:LeaseholdImprovementsMember
+2025-09-30
+0001704292
+us-gaap:LeaseholdImprovementsMember
+2024-12-31
+0001704292
+us-gaap:BuildingMember
+2025-09-30
+0001704292
+us-gaap:BuildingMember
+2024-12-31
+0001704292
+us-gaap:ConstructionInProgressMember
+2025-09-30
+0001704292
+us-gaap:ConstructionInProgressMember
+2024-12-31
+0001704292
+zlab:CommercialProductsIntangibleAssetMember
+2025-09-30
+0001704292
+zlab:CommercialProductsIntangibleAssetMember
+2024-12-31
+0001704292
+us-gaap:ComputerSoftwareIntangibleAssetMember
+2025-09-30
+0001704292
+us-gaap:ComputerSoftwareIntangibleAssetMember
+2024-12-31
+0001704292
+srt:MinimumMember
+us-gaap:ComputerSoftwareIntangibleAssetMember
+2025-09-30
+0001704292
+srt:MaximumMember
+us-gaap:ComputerSoftwareIntangibleAssetMember
+2025-09-30
+0001704292
+zlab:ZejulaMember
+2025-07-01
+2025-09-30
+0001704292
+zlab:ZejulaMember
+2024-07-01
+2024-09-30
+0001704292
+zlab:ZejulaMember
+2025-01-01
+2025-09-30
+0001704292
+zlab:ZejulaMember
+2024-01-01
+2024-09-30
+0001704292
+zlab:VyvgartVyvgartHytruloMember
+2025-07-01
+2025-09-30
+0001704292
+zlab:VyvgartVyvgartHytruloMember
+2024-07-01
+2024-09-30
+0001704292
+zlab:VyvgartVyvgartHytruloMember
+2025-01-01
+2025-09-30
+0001704292
+zlab:VyvgartVyvgartHytruloMember
+2024-01-01
+2024-09-30
+0001704292
+zlab:NuzyraMember
+2025-07-01
+2025-09-30
+0001704292
+zlab:NuzyraMember
+2024-07-01
+2024-09-30
+0001704292
+zlab:NuzyraMember
+2025-01-01
+2025-09-30
+0001704292
+zlab:NuzyraMember
+2024-01-01
+2024-09-30
+0001704292
+zlab:OptuneMember
+2025-07-01
+2025-09-30
+0001704292
+zlab:OptuneMember
+2024-07-01
+2024-09-30
+0001704292
+zlab:OptuneMember
+2025-01-01
+2025-09-30
+0001704292
+zlab:OptuneMember
+2024-01-01
+2024-09-30
+0001704292
+zlab:QinlockMember
+2025-07-01
+2025-09-30
+0001704292
+zlab:QinlockMember
+2024-07-01
+2024-09-30
+0001704292
+zlab:QinlockMember
+2025-01-01
+2025-09-30
+0001704292
+zlab:QinlockMember
+2024-01-01
+2024-09-30
+0001704292
+zlab:XACDUROMember
+2025-07-01
+2025-09-30
+0001704292
+zlab:XACDUROMember
+2024-07-01
+2024-09-30
+0001704292
+zlab:XACDUROMember
+2025-01-01
+2025-09-30
+0001704292
+zlab:XACDUROMember
+2024-01-01
+2024-09-30
+0001704292
+zlab:AUGTYROMember
+2025-07-01
+2025-09-30
+0001704292
+zlab:AUGTYROMember
+2024-07-01
+2024-09-30
+0001704292
+zlab:AUGTYROMember
+2025-01-01
+2025-09-30
+0001704292
+zlab:AUGTYROMember
+2024-01-01
+2024-09-30
+0001704292
+us-gaap:ProductAndServiceOtherMember
+2025-07-01
+2025-09-30
+0001704292
+us-gaap:ProductAndServiceOtherMember
+2024-07-01
+2024-09-30
+0001704292
+us-gaap:ProductAndServiceOtherMember
+2025-01-01
+2025-09-30
+0001704292
+us-gaap:ProductAndServiceOtherMember
+2024-01-01
+2024-09-30
+0001704292
+us-gaap:EmployeeStockOptionMember
+2025-01-01
+2025-09-30
+0001704292
+us-gaap:EmployeeStockOptionMember
+2025-07-01
+2025-09-30
+0001704292
+us-gaap:EmployeeStockOptionMember
+2024-07-01
+2024-09-30
+0001704292
+us-gaap:EmployeeStockOptionMember
+2024-01-01
+2024-09-30
+0001704292
+zlab:NonVestedRestrictedSharesMember
+2025-01-01
+2025-09-30
+0001704292
+zlab:NonVestedRestrictedSharesMember
+2025-07-01
+2025-09-30
+0001704292
+zlab:NonVestedRestrictedSharesMember
+2024-01-01
+2024-09-30
+0001704292
+zlab:NonVestedRestrictedSharesMember
+2024-07-01
+2024-09-30
+0001704292
+zlab:BankOfChinaWorkingCapitalLoanFacilityMember
+us-gaap:LoansPayableMember
+2025-09-30
+0001704292
+zlab:SPDBankWorkingCapitalLoanFacilityMember
+us-gaap:LoansPayableMember
+2025-09-30
+0001704292
+zlab:ChinaMerchantsBankWorkingCapitalLoanFacilityMember
+us-gaap:LoansPayableMember
+2025-09-30
+0001704292
+zlab:BankOfCommunicationsWorkingCapitalLoansMember
+us-gaap:LoansPayableMember
+2025-09-30
+0001704292
+zlab:NingboBankDiscountedBillsMember
+us-gaap:LoansPayableMember
+2025-09-30
+0001704292
+us-gaap:StandbyLettersOfCreditMember
+zlab:BankOfChinaWorkingCapitalLoanFacilityMember
+2025-09-30
+0001704292
+us-gaap:LoansPayableMember
+zlab:BankOfChinaWorkingCapitalLoanFacilityMember
+zlab:ZaiLabShanghaiCo.Ltd.Member
+2025-01-01
+2025-09-30
+0001704292
+zlab:ShanghaiPudongDevelopmentBankCo.Ltd.Member
+2024-02-29
+0001704292
+us-gaap:LoansPayableMember
+zlab:SPDBankWorkingCapitalLoanFacilityMember
+zlab:ZaiLabShanghaiCo.Ltd.Member
+2024-02-01
+2024-02-29
+0001704292
+zlab:ChinaMerchantsBankCo.Ltd.Member
+2024-07-31
+0001704292
+us-gaap:LoansPayableMember
+zlab:ChinaMerchantsBankWorkingCapitalLoanFacilityMember
+zlab:ZaiLabShanghaiCo.Ltd.Member
+2024-07-31
+0001704292
+us-gaap:LoansPayableMember
+zlab:ChinaMerchantsBankWorkingCapitalLoanFacilityMember
+zlab:ZaiLabShanghaiCo.Ltd.Member
+2024-07-01
+2024-07-31
+0001704292
+zlab:ChinaMerchantsBankWorkingCapitalLoanFacilityMember
+us-gaap:LoansPayableMember
+2025-08-31
+0001704292
+zlab:ChinaMerchantsBankCo.Ltd.Member
+2025-08-31
+0001704292
+us-gaap:LoansPayableMember
+zlab:ChinaMerchantsBankWorkingCapitalLoanFacilityMember
+zlab:ZaiLabShanghaiCo.Ltd.Member
+2025-08-31
+0001704292
+zlab:ChinaMerchantsBankWorkingCapitalLoanFacilityMember
+zlab:ZaiLabShanghaiCo.Ltd.Member
+2025-08-01
+2025-08-31
+0001704292
+us-gaap:LoansPayableMember
+zlab:ChinaMerchantsBankWorkingCapitalLoanFacilityMember
+zlab:ZaiLabShanghaiCo.Ltd.Member
+2025-08-01
+2025-08-31
+0001704292
+zlab:BankOfCommunicationsCo.LtdMember
+2025-01-31
+0001704292
+us-gaap:LoansPayableMember
+zlab:BankOfCommunicationsWorkingCapitalLoansMember
+zlab:ZaiLabShanghaiCo.Ltd.Member
+2025-01-01
+2025-01-31
+0001704292
+us-gaap:LoansPayableMember
+zlab:NingboBankDiscountedBillsMember
+zlab:ZaiLabSuzhouCompanyLimitedMember
+2024-02-29
+0001704292
+zlab:NingboBankDiscountedBillsMember
+us-gaap:LoansPayableMember
+2024-02-29
+0001704292
+zlab:NingboBankDiscountedBillsMember
+us-gaap:LoansPayableMember
+2024-02-01
+2024-02-29
+0001704292
+srt:ManagementMember
+2025-01-01
+2025-03-31
+0001704292
+srt:ManagementMember
+2025-09-30
+0001704292
+us-gaap:RestrictedStockMember
+2025-01-01
+2025-09-30
+0001704292
+us-gaap:EmployeeStockOptionMember
+2025-01-01
+2025-09-30
+0001704292
+us-gaap:EmployeeStockOptionMember
+zlab:April2023AndLaterMember
+2025-01-01
+2025-09-30
+0001704292
+us-gaap:EmployeeStockOptionMember
+zlab:PriorToApril2023Member
+2025-01-01
+2025-09-30
+0001704292
+us-gaap:EmployeeStockOptionMember
+zlab:ShareBasedPaymentArrangementTrancheFourMember
+zlab:April2023AndLaterMember
+2025-01-01
+2025-09-30
+0001704292
+us-gaap:EmployeeStockOptionMember
+us-gaap:ShareBasedCompensationAwardTrancheTwoMember
+zlab:April2023AndLaterMember
+2025-01-01
+2025-09-30
+0001704292
+us-gaap:EmployeeStockOptionMember
+us-gaap:ShareBasedCompensationAwardTrancheThreeMember
+zlab:April2023AndLaterMember
+2025-01-01
+2025-09-30
+0001704292
+us-gaap:EmployeeStockOptionMember
+us-gaap:ShareBasedCompensationAwardTrancheOneMember
+zlab:April2023AndLaterMember
+2025-01-01
+2025-09-30
+0001704292
+us-gaap:EmployeeStockOptionMember
+us-gaap:ShareBasedCompensationAwardTrancheTwoMember
+zlab:PriorToApril2023Member
+2025-01-01
+2025-09-30
+0001704292
+us-gaap:EmployeeStockOptionMember
+us-gaap:ShareBasedCompensationAwardTrancheThreeMember
+zlab:PriorToApril2023Member
+2025-01-01
+2025-09-30
+0001704292
+us-gaap:EmployeeStockOptionMember
+us-gaap:ShareBasedCompensationAwardTrancheOneMember
+zlab:PriorToApril2023Member
+2025-01-01
+2025-09-30
+0001704292
+us-gaap:EmployeeStockOptionMember
+zlab:ShareBasedPaymentArrangementTrancheFourMember
+zlab:PriorToApril2023Member
+2025-01-01
+2025-09-30
+0001704292
+us-gaap:EmployeeStockOptionMember
+zlab:ShareBasedPaymentArrangementTrancheFiveMember
+zlab:PriorToApril2023Member
+2025-01-01
+2025-09-30
+0001704292
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+2025-07-01
+2025-09-30
+0001704292
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+2024-07-01
+2024-09-30
+0001704292
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+2025-01-01
+2025-09-30
+0001704292
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+2024-01-01
+2024-09-30
+0001704292
+us-gaap:ResearchAndDevelopmentExpenseMember
+2025-07-01
+2025-09-30
+0001704292
+us-gaap:ResearchAndDevelopmentExpenseMember
+2024-07-01
+2024-09-30
+0001704292
+us-gaap:ResearchAndDevelopmentExpenseMember
+2025-01-01
+2025-09-30
+0001704292
+us-gaap:ResearchAndDevelopmentExpenseMember
+2024-01-01
+2024-09-30
+0001704292
+zlab:NonVestedRestrictedSharesMember
+2025-09-30
+0001704292
+zlab:NonVestedRestrictedSharesMember
+2025-01-01
+2025-09-30
+0001704292
+zlab:OtherCounterpartiesMember
+us-gaap:ResearchAndDevelopmentExpenseMember
+2025-01-01
+2025-09-30
+0001704292
+country:CN
+2025-01-01
+2025-09-30
+0001704292
+country:CN
+2025-07-01
+2025-09-30
+0001704292
+country:CN
+2024-01-01
+2024-09-30
+0001704292
+country:CN
+2024-07-01
+2024-09-30
+0001704292
+country:CN
+2025-09-30
+0001704292
+country:CN
+2024-12-31
+0001704292
+zlab:CommercialManufacturingDevelopmentAndConstructionFacilitiesAndImprovementMember
+2025-09-30
+0001704292
+zlab:ReportableSegmentMember
+2025-07-01
+2025-09-30
+0001704292
+zlab:ReportableSegmentMember
+2024-07-01
+2024-09-30
+0001704292
+zlab:ReportableSegmentMember
+2025-01-01
+2025-09-30
+0001704292
+zlab:ReportableSegmentMember
+2024-01-01
+2024-09-30
+0001704292
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+zlab:ReportableSegmentMember
+2025-07-01
+2025-09-30
+0001704292
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+zlab:ReportableSegmentMember
+2024-07-01
+2024-09-30
+0001704292
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+zlab:ReportableSegmentMember
+2025-01-01
+2025-09-30
+0001704292
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+zlab:ReportableSegmentMember
+2024-01-01
+2024-09-30
+0001704292
+zlab:IndustrialBankCo.Ltd.Member
+us-gaap:SubsequentEventMember
+2025-10-13
+0001704292
+us-gaap:RevolvingCreditFacilityMember
+zlab:IndustrialBankWorkingCapitalLoanFacilityMember
+us-gaap:SubsequentEventMember
+us-gaap:LineOfCreditMember
+zlab:ZaiLabShanghaiCo.Ltd.Member
+2025-10-13
+0001704292
+zlab:F.TyEdmondsonMember
+2025-07-01
+2025-09-30
+0001704292
+zlab:F.TyEdmondsonMember
+2025-09-30
+0001704292
+zlab:WilliamLisMember
+2025-07-01
+2025-09-30
+0001704292
+zlab:WilliamLisMember
+2025-09-30
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+WASHINGTON, DC 20549 
+____________________
+FORM 
+10-Q
+____________________
+(Mark One) 
+x
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+For the quarterly period ended 
+September 30, 2025
+OR
+o
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+For the transition period from ______ to ______
+Commission File Number: 
+001-38205
+____________________
+ZAI LAB LIMITED
+(Exact Name of Registrant as Specified in its Charter) 
+____________________
+Cayman Islands
+98-1144595
+(State or Other Jurisdiction of
+Incorporation or Organization)
+(I.R.S. Employer
+Identification No.)
+899 Halei Road
+Building B, Pudong
+Shanghai
+China
+201203
+314 Main Street
+4th Floor, Suite 100
+Cambridge, MA, USA
+02142
+(Address of Principal Executive Offices)
+(Zip Code)
++
+86 21
+6163 2588
++1 857 706 2604
+(Registrant’s Telephone Number, Including Area Code) 
+____________________
+Securities registered pursuant to Section 12(b) of the Act: 
+Title of each class
+Trading
+Symbol(s)
+Name of each exchange
+on which registered
+American Depositary Shares, each representing 10 Ordinary Shares, par value $0.000006 per share
+ZLAB
+The Nasdaq Global Market
+Ordinary Shares, par value $0.000006 per share
+*
+9688
+The Stock Exchange of Hong Kong Limited
+*
+Included in connection with the registration of the American Depositary Shares with the Securities and Exchange Commission. The ordinary shares are not registered or listed for trading in the United States but are listed for trading on The Stock Exchange of Hong Kong Limited.
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+Yes
+ ☒ No 
+☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+Yes
+ ☒ No 
+☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act. 
+Large accelerated filer
+x
+Accelerated filer
+o
+Non-accelerated filer
+o
+Smaller reporting company
+o
+Emerging growth company
+o
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes 
+☐
+ No 
+☒
+
+As of October 31, 2025, 
+1,105,937,600
+ ordinary shares of the registrant, par value $0.000006 per share, were outstanding, of which 
+355,325,670
+ ordinary shares were held in the form of American Depositary Shares. 
+Table of Contents
+Zai Lab Limited 
+Quarterly Report on Form 10-Q
+For the Third Quarter of 2025
+Page
+PART I.
+FINANCIAL INFORMATION
+1
+Item 1.
+Financial Statements (Unaudited)
+2
+Condensed Consolidated Balance Sheets as of 
+September 
+30, 2025 and December 31, 2024
+2
+Condensed Consolidated Statements of Operations for the Three and 
+Nine
+ Months Ended 
+September
+ 30, 2025 and 2024
+3
+Condensed Consolidated Statements of Comprehensive Loss for the Three and 
+Nine
+ Months Ended 
+September
+ 30, 2025 and 2024 
+4
+Condensed Consolidated Statements of Shareholders’ Equity for the Three and 
+N
+ine
+ Months Ended 
+September
+ 30, 2025 and 2024
+5
+Condensed Consolidated Statements of Cash Flows for the 
+Nine
+ Months Ended 
+Se
+ptember
+ 30, 2025 and 2024
+7
+Notes to the Unaudited Condensed Consolidated Financial Statements
+8
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+18
+Item 3.
+Quantitative and Qualitative Disclosures about Market Risk
+28
+Item 4.
+Controls and Procedures
+30
+PART II.
+OTHER INFORMATION
+31
+Item 1.
+Legal Proceedings
+31
+Item 1A.
+Risk Factors
+31
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+31
+Item 3.
+Defaults upon Senior Securities
+31
+Item 4.
+Mine Safety Disclosures
+31
+Item 5.
+Other Information
+31
+Item 6.
+Exhibits
+32
+Signatures 
+33
+SPECIAL NOTES REGARDING THE COMPANY 
+Forward-Looking Statements
+This report contains certain forward-looking statements, including statements relating to our strategy and plans; potential of and expectations for our business, commercial products, and pipeline programs; the market for our commercial and pipeline products; capital allocation and investment strategy; clinical development programs and related clinical trials; clinical trial data, data readouts, and presentations; risks and uncertainties associated with drug development and commercialization; regulatory discussions, submissions, filings, and approvals and the timing thereof; the potential benefits, safety, and efficacy of our products and product candidates and those of our collaboration partners; the anticipated benefits and potential of investments, collaborations, and business development activities; our profitability and timeline to profitability; and our future financial and operating results. All statements, other than statements of historical fact, included in this report are forward-looking statements, and can be identified by words such as “aim,” “anticipate,” “believe,” “contemplate,” “continue,” “could,” “estimate,” “expect,” “forecast,” “goal,” “intend,” “may,” “plan,” “possible,” “potential,” “predict,” “project,” “seek,” “should,” “target,” “will,” “would,” or the negative of these terms or similar expressions. Such statements constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements are not guarantees or assurances of future performance. Forward-looking statements are based on our expectations and assumptions as of the date of this report and are subject to inherent uncertainties, risks, and changes in circumstances that may differ materially from those contemplated by the forward-looking statements. We may not actually achieve the plans, carry out the intentions, or meet the expectations or projections disclosed in our forward-looking statements, and you should not place undue reliance on these forward-looking statements. Actual results may differ materially from those indicated by such forward-looking statements as a result of various important factors, including but not limited to the following:
+•    Our ability to successfully commercialize and generate revenue from our approved products;
+•    Our ability to obtain funding for our operations and business initiatives;
+•    The results of our clinical and pre-clinical development of our product candidates;
+•    The content and timing of decisions made by the relevant regulatory authorities regarding regulatory approvals of our product candidates;
+•    Any inability of third parties on whom we rely, such as our licensors, CMOs, and others that supply certain of our products and product candidates; CROs that conduct or support some of our pre-clinical and clinical trials; and distributors that sell our commercial products, to successfully carry out their contractual duties or meet expected deadlines;
+•    Any issues that our Chinese manufacturing facilities may have with operating in conformity with established GMPs and international best practices, and with passing FDA, NMPA, and EMA inspections;
+•    Any inability to obtain or maintain sufficient patent or regulatory data protection for our products and product candidates;
+•    Changes in U.S. and China trade policies and relations, as well as relations with other countries, and/or changes in laws, regulations, and/or sanctions;
+•    Actions the Chinese government may take to intervene in or influence our operations;
+•    Economic, political, and social conditions in mainland China as well as governmental policies;
+•    Significant business disruptions caused by events or developments outside of our control, such as pandemics, international war or conflict, natural disasters or extreme weather events, and other geopolitical events;
+•    Uncertainties in the Chinese legal system, including with respect to the anti-corruption enforcement efforts in mainland China and the Counter-Espionage Law, the Data Security Law, the Cyber Security Law, the Cybersecurity Review Measures, the Personal Information Protection Law, the Regulation on the Administration of Human Genetic Resources, the Biosecurity Law, the Security Assessment Measures, and other future laws and regulations or amendments to such laws and regulations;
+•    Approval, filing, or procedural requirements imposed by the China Securities Regulatory Commission or other Chinese regulatory authorities in connection with issuing securities to foreign investors under Chinese law;
+•    Any violation or liability under the U.S. Foreign Corrupt Practices Act or Chinese anti-corruption, anti-bribery, and anti-fraud laws;
+•    Variations in currency exchange rates and restrictions on currency exchange;
+•    Limitations on the ability of our Chinese subsidiaries to make payments to us;
+•    Chinese requirements on the ability of residents in mainland China to establish offshore special purpose companies;
+•    Chinese regulations regarding acquisitions of companies based in mainland China by foreign investors;
+•    Expiration of, or changes to, financial incentives or discretionary policies granted by local governments in mainland China;
+•    Restrictions or limitations on the ability of overseas regulators to conduct investigations or collect evidence within mainland China;
+•    Unfavorable tax consequences to us and our non-Chinese shareholders or ADS holders if we were to be classified as a Chinese resident enterprise for Chinese income tax purposes;
+•    Failure to comply with applicable Chinese, U.S., and Hong Kong regulations that could lead to government enforcement actions, fines, other legal or administrative sanctions, and/or harm to our business or reputation; 
+•    Delays or obstacles for closing transactions, such as review by the CFIUS in our investments; and
+•    Any inability to renew our current leases on desirable terms or otherwise locate desirable alternatives for our leased properties.
+These factors should not be construed as exhaustive and should be read with the other cautionary statements and information in our Annual Report on Form 10-K for the year ended December 31, 2024 (the “2024 Annual Report”), our Quarterly Reports on Form 10-Q, and our other filings with the U.S. Securities and Exchange Commission. Forward-looking statements are based on our management’s beliefs and assumptions and information currently available to our management. These statements, like all statements in this report, speak only as of their date. We anticipate that subsequent events and developments will cause our expectations and assumptions to change, and we undertake no obligation to update or revise any forward-looking statements, whether as a result of new information, future events, or otherwise, except as may be required by law. These forward-looking statements should not be relied upon as representing our views as of any date subsequent to the date of this report. 
+Usage of Terms
+Throughout this report, we use certain acronyms and terms that are defined in the Glossary of our 2024 Annual Report. References to “Zai Lab,” the “Company,” “we,” “us,” and “our” refer to Zai Lab Limited, a holding company, and its subsidiaries, on a consolidated basis; and references to “Zai Lab Limited” refer to Zai Lab Limited, a holding company. Zai Lab Limited is the entity in which investors hold their interest. 
+Our operating subsidiaries consist of Zai Lab (Hong Kong) Limited, domiciled in Hong Kong; Zai Auto Immune (Hong Kong) Limited, domiciled in Hong Kong; Zai Anti Infectives (Hong Kong) Limited, domiciled in Hong Kong; Zai Lab (Shanghai) Co., Ltd., domiciled in mainland China; Zai Lab International Trading (Shanghai) Co., Ltd., domiciled in mainland China; Zai Lab (Suzhou) Co., Ltd., domiciled in mainland China; Zai Biopharmaceutical (Suzhou) Co., Ltd., domiciled in mainland China; Zai Lab Trading (Suzhou) Co., Ltd., domiciled in mainland China; Zai Lab (Taiwan) Limited, domiciled in Taiwan; Zai Lab (AUST) Pty. Ltd., domiciled in Australia; and Zai Lab (US) LLC, domiciled in the United States. 
+We own various trademarks, including various forms of the Zai Lab brand (in English and Chinese), as well as several domain names that incorporate such trademarks. Trademarks and trade names of other companies appearing in this report are the property of their respective holders. Solely for convenience, some of the trademarks and trade names in this report are referred to without the 
+®
+ and ™ symbols, but such references should not be construed as any indicator that their respective owners will not assert, to the fullest extent under applicable law, their rights thereto. We do not intend our use or display of other companies’ trademarks and trade names to imply a relationship with, or endorsement or sponsorship of, any other company. 
+PART I – FINANCIAL INFORMATION 
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with the unaudited condensed consolidated financial statements and the accompanying notes included in this report and the audited consolidated financial information and the accompanying notes included in our 2024 Annual Report. 
+1
+Item 1. Financial Statements.
+Zai Lab Limited 
+Unaudited Condensed Consolidated Balance Sheets 
+(in thousands of U.S. dollars (“$”), except for number of shares and per share data) 
+Notes
+September 30,
+2025
+December 31,
+2024
+Assets
+Current assets
+Cash and cash equivalents
+3
+717,155
+
+449,667
+
+Restricted cash, current
+100,000
+
+100,000
+
+Short-term investments
+—
+
+330,000
+
+Accounts receivable (net of allowance for credit losses of $
+25
+ as of both September 30, 2025 and December 31, 2024, respectively)
+85,377
+
+85,178
+
+Notes receivable
+19,628
+
+4,233
+
+Inventories, net
+4
+67,135
+
+39,875
+
+Prepayments and other current assets
+43,653
+
+41,527
+
+Total current assets
+1,032,948
+
+1,050,480
+
+Restricted cash, non-current
+1,115
+
+1,114
+
+Property and equipment, net
+5
+48,868
+
+47,961
+
+Operating lease right-of-use assets
+15,751
+
+21,496
+
+Land use rights, net
+2,852
+
+2,907
+
+Intangible assets, net
+6
+55,278
+
+56,027
+
+Other non-current assets
+2,128
+
+5,768
+
+Total assets
+1,158,940
+
+1,185,753
+
+Liabilities and shareholders’ equity
+
+Current liabilities
+
+Accounts payable
+99,706
+
+100,906
+
+Current operating lease liabilities
+5,496
+
+8,048
+
+Short-term debt
+10
+203,026
+
+131,711
+
+Other current liabilities
+11
+51,541
+
+58,720
+
+Total current liabilities
+359,769
+
+299,385
+
+Deferred income
+28,061
+
+31,433
+
+Non-current operating lease liabilities
+10,840
+
+13,712
+
+Other non-current liabilities
+325
+
+325
+
+Total liabilities
+398,995
+
+344,855
+
+Commitments and contingencies (Note 17)
+
+Shareholders’ equity
+
+Ordinary shares (par value of $
+0.000006
+ per share; 
+5,000,000,000
+ shares authorized; 
+1,113,299,160
+ and 
+1,082,614,740
+ shares issued as of September 30, 2025 and December 31, 2024, respectively; 
+1,105,865,950
+ and 
+1,077,702,540
+ shares outstanding as of September 30, 2025 and December 31, 2024, respectively)
+7
+
+7
+
+Additional paid-in capital
+3,327,557
+
+3,264,295
+
+Accumulated deficit
+(
+2,578,211
+)
+(
+2,453,083
+)
+Accumulated other comprehensive income
+39,645
+
+50,515
+
+Treasury Stock (at cost, 
+7,433,210
+ and 
+4,912,200
+ shares as of September 30, 2025 and December 31, 2024, respectively)
+(
+29,053
+)
+(
+20,836
+)
+Total shareholders’ equity
+759,945
+
+840,898
+
+Total liabilities and shareholders’ equity
+1,158,940
+
+1,185,753
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+2
+Zai Lab Limited 
+Unaudited Condensed Consolidated Statements of Operations
+(in thousands of $, except for number of shares and per share data) 
+Three Months Ended September 30,
+Nine Months Ended September 30,
+Notes
+2025
+2024
+2025
+2024
+Revenues
+Product revenue, net
+7
+115,361
+
+101,847
+
+330,095
+
+289,102
+
+Collaboration revenue
+7
+734
+
+418
+
+2,464
+
+816
+
+Total revenues
+116,095
+
+102,265
+
+332,559
+
+289,918
+
+Expenses
+Cost of product revenue
+(
+46,764
+)
+(
+36,569
+)
+(
+128,219
+)
+(
+105,336
+)
+Cost of collaboration revenue
+(
+119
+)
+(
+348
+)
+(
+531
+)
+(
+433
+)
+Research and development
+(
+47,928
+)
+(
+65,982
+)
+(
+159,271
+)
+(
+182,252
+)
+Selling, general, and administrative
+(
+70,106
+)
+(
+67,219
+)
+(
+204,566
+)
+(
+216,123
+)
+Loss from operations
+(
+48,822
+)
+(
+67,853
+)
+(
+160,028
+)
+(
+214,226
+)
+Interest income
+8,345
+
+9,029
+
+25,794
+
+28,017
+
+Interest expenses
+(
+1,400
+)
+(
+745
+)
+(
+3,848
+)
+(
+1,350
+)
+Foreign currency gains 
+6,422
+
+14,457
+
+9,909
+
+8,281
+
+Other income (expense), net
+15
+(
+508
+)
+3,441
+
+3,045
+
+3,859
+
+Loss before income tax 
+(
+35,963
+)
+(
+41,671
+)
+(
+125,128
+)
+(
+175,419
+)
+Income tax expense
+8
+—
+
+—
+
+—
+
+—
+
+Net loss
+(
+35,963
+)
+(
+41,671
+)
+(
+125,128
+)
+(
+175,419
+)
+Loss per share - basic and diluted
+9
+(
+0.03
+)
+(
+0.04
+)
+(
+0.11
+)
+(
+0.18
+)
+Weighted-average shares used in calculating net loss per ordinary share - basic and diluted
+
+1,102,072,680
+
+981,687,390
+
+1,091,690,340
+
+976,941,030
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+3
+Zai Lab Limited 
+Unaudited Condensed Consolidated Statements of Comprehensive Loss 
+(in thousands of $) 
+Three Months Ended September 30,
+Nine Months Ended September 30,
+2025
+2024
+2025
+2024
+Net loss
+(
+35,963
+)
+(
+41,671
+)
+(
+125,128
+)
+(
+175,419
+)
+       Other comprehensive loss, net of tax of 
+nil
+:
+Foreign currency translation adjustments
+(
+6,703
+)
+(
+14,503
+)
+(
+10,870
+)
+(
+9,356
+)
+Comprehensive loss
+(
+42,666
+)
+(
+56,174
+)
+(
+135,998
+)
+(
+184,775
+)
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+4
+Zai Lab Limited 
+Unaudited Condensed Consolidated Statements of Shareholders’ Equity 
+(in thousands of $, except for number of shares) 
+Ordinary Shares
+Additional
+paid
+in capital
+Accumulated
+deficit
+Accumulated
+other
+comprehensive
+income
+Treasury Stock
+Total
+Number
+of
+Shares
+Amount
+Shares
+Amount
+Balance at December 31, 2024
+1,082,614,740
+
+7
+
+3,264,295
+
+(
+2,453,083
+)
+50,515
+
+(
+4,912,200
+)
+(
+20,836
+)
+840,898
+
+Issuance of ordinary shares upon vesting of restricted shares
+137,540
+
+0
+0
+— 
+— 
+— 
+— 
+—
+
+Exercise of share options
+6,324,120
+
+0
+3,733
+
+— 
+— 
+— 
+— 
+3,733
+
+Issuance cost of the follow-on public offering
+— 
+— 
+(
+28
+)
+— 
+— 
+— 
+— 
+(
+28
+)
+Share-based compensation
+— 
+— 
+15,800
+
+— 
+— 
+— 
+— 
+15,800
+
+Net loss
+— 
+— 
+— 
+(
+48,438
+)
+— 
+— 
+— 
+(
+48,438
+)
+Foreign currency translation
+— 
+— 
+— 
+— 
+(
+1,212
+)
+— 
+— 
+(
+1,212
+)
+Balance at March 31, 2025
+1,089,076,400
+
+7
+
+3,283,800
+
+(
+2,501,521
+)
+49,303
+
+(
+4,912,200
+)
+(
+20,836
+)
+810,753
+
+Issuance of ordinary shares upon vesting of restricted shares
+9,698,120
+
+0
+0
+— 
+— 
+— 
+— 
+—
+
+Exercise of share options
+5,258,390
+
+0
+7,718
+
+— 
+— 
+— 
+— 
+7,718
+
+Receipt of shares netted to satisfy tax withholding obligations related to share-based compensation
+— 
+— 
+— 
+— 
+— 
+(
+7,820
+)
+(
+27
+)
+(
+27
+)
+Share-based compensation
+— 
+— 
+16,973
+
+— 
+— 
+— 
+— 
+16,973
+
+Net loss
+— 
+— 
+— 
+(
+40,727
+)
+— 
+— 
+— 
+(
+40,727
+)
+Foreign currency translation
+— 
+— 
+— 
+(
+2,955
+)
+— 
+— 
+(
+2,955
+)
+Balance at June 30, 2025
+1,104,032,910
+
+7
+
+3,308,491
+
+(
+2,542,248
+)
+46,348
+
+(
+4,920,020
+)
+(
+20,863
+)
+791,735
+
+Issuance of ordinary shares upon vesting of restricted shares
+593,670
+
+0
+
+0
+
+— 
+— 
+— 
+— 
+—
+
+Exercise of share options
+8,672,580
+
+0
+
+2,143
+
+— 
+— 
+— 
+— 
+2,143
+
+Receipt of shares netted to satisfy tax withholding obligations related to share-based compensation
+— 
+— 
+— 
+— 
+— 
+(
+2,513,190
+)
+(
+8,190
+)
+(
+8,190
+)
+Share-based compensation
+— 
+— 
+16,923
+
+— 
+— 
+— 
+— 
+16,923
+
+Net loss
+— 
+— 
+— 
+(
+35,963
+)
+— 
+— 
+— 
+(
+35,963
+)
+Foreign currency translation
+— 
+— 
+— 
+— 
+(
+6,703
+)
+— 
+— 
+(
+6,703
+)
+Balance at September 30, 2025
+1,113,299,160
+
+7
+
+3,327,557
+
+(
+2,578,211
+)
+39,645
+
+(
+7,433,210
+)
+(
+29,053
+)
+759,945
+
+5
+Ordinary Shares
+Additional
+paid
+in capital
+Accumulated
+deficit
+Accumulated
+other
+comprehensive
+income
+Treasury Stock
+Total
+Number
+of
+Shares
+Amount
+Shares
+Amount
+$
+$
+$ 
+$ 
+$ 
+$ 
+Balance at December 31, 2023
+977,151,270
+
+6
+
+2,975,302
+
+(
+2,195,980
+)
+37,626
+
+(
+4,912,200
+)
+(
+20,836
+)
+796,118
+
+Issuance of ordinary shares upon vesting of restricted shares
+1,046,440
+
+0
+0
+— 
+— 
+— 
+— 
+—
+
+Exercise of share options
+—
+
+0
+—
+
+— 
+— 
+— 
+— 
+—
+
+Share-based compensation
+— 
+— 
+17,980
+
+— 
+— 
+— 
+— 
+17,980
+
+Net loss
+— 
+— 
+— 
+(
+53,471
+)
+— 
+— 
+— 
+(
+53,471
+)
+Foreign currency translation
+— 
+— 
+— 
+— 
+1,542
+
+— 
+— 
+1,542
+
+Balance at March 31, 2024
+978,197,710
+
+6
+
+2,993,282
+
+(
+2,249,451
+)
+39,168
+
+(
+4,912,200
+)
+(
+20,836
+)
+762,169
+
+Issuance of ordinary shares upon vesting of restricted shares
+8,087,630
+
+0
+0
+— 
+— 
+— 
+— 
+—
+
+Exercise of share options
+25,000
+
+0
+44
+
+— 
+— 
+— 
+— 
+44
+
+Share-based compensation
+— 
+— 
+18,638
+
+— 
+— 
+— 
+— 
+18,638
+
+Net loss
+— 
+— 
+— 
+(
+80,277
+)
+— 
+— 
+— 
+(
+80,277
+)
+Foreign currency translation
+— 
+— 
+— 
+— 
+3,605
+
+— 
+— 
+3,605
+
+Balance at June 30, 2024
+986,310,340
+
+6
+
+3,011,964
+
+(
+2,329,728
+)
+42,773
+
+(
+4,912,200
+)
+(
+20,836
+)
+704,179
+
+Issuance of ordinary shares upon vesting of restricted shares
+393,850
+
+0
+
+0
+
+— 
+— 
+— 
+— 
+—
+
+Exercise of share options
+2,564,180
+
+0
+
+2,869
+
+— 
+— 
+— 
+— 
+2,869
+
+Share-based compensation
+— 
+— 
+16,795
+
+— 
+— 
+— 
+— 
+16,795
+
+Net loss
+— 
+— 
+— 
+(
+41,671
+)
+— 
+— 
+— 
+(
+41,671
+)
+Foreign currency translation
+— 
+— 
+— 
+— 
+(
+14,503
+)
+— 
+— 
+(
+14,503
+)
+Balance at September 30, 2024
+989,268,370
+
+6
+
+3,031,628
+
+(
+2,371,399
+)
+28,270
+
+(
+4,912,200
+)
+(
+20,836
+)
+667,669
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. “0” in above table means less than 1,000 dollars. 
+6
+Zai Lab Limited 
+Unaudited Condensed Consolidated Statements of Cash Flows 
+(in thousands of $) 
+Nine Months Ended
+September 30,
+2025
+2024
+Cash flows from operating activities
+Net loss
+(
+125,128
+)
+(
+175,419
+)
+Adjustments to reconcile net loss to net cash used in operating activities:
+
+Allowance for credit losses
+—
+
+(
+3
+)
+Inventory write-down
+919
+
+814
+
+Depreciation and amortization expenses
+11,094
+
+8,824
+
+Amortization of deferred income
+(
+3,991
+)
+(
+2,518
+)
+Share-based compensation
+49,696
+
+53,413
+
+Loss from fair value changes of equity investment with readily determinable fair value
+1,912
+
+6,067
+
+Losses on disposal of property and equipment
+235
+
+451
+
+Noncash lease expenses
+7,249
+
+6,104
+
+Debt issuance costs
+194
+
+700
+
+Foreign currency remeasurement impact
+(
+9,909
+)
+(
+8,281
+)
+Changes in operating assets and liabilities:
+
+Accounts receivable
+726
+
+9,712
+
+Notes receivable
+(
+15,223
+)
+(
+12,901
+)
+Inventories
+(
+28,112
+)
+4,403
+
+Prepayments and other current assets
+(
+1,789
+)
+(
+10,767
+)
+Other non-current assets
+599
+
+(
+989
+)
+Accounts payable
+(
+426
+)
+6,545
+
+Other current liabilities
+(
+6,769
+)
+(
+36,854
+)
+Operating lease liabilities
+(
+6,405
+)
+(
+6,853
+)
+Deferred income
+361
+
+(
+1,548
+)
+Net cash used in operating activities
+(
+124,767
+)
+(
+159,100
+)
+Cash flows from investing activities
+
+Proceeds from maturity of short-term investment
+330,000
+
+16,300
+
+Proceeds from the sale of equity investment
+1,203
+
+—
+
+Purchases of property and equipment
+(
+7,424
+)
+(
+3,057
+)
+Proceeds from the sale of property and equipment
+85
+
+29
+
+Acquisition of intangible assets
+(
+4,702
+)
+(
+40,711
+)
+Net cash provided by (used in) investing activities
+319,162
+
+(
+27,439
+)
+Cash flows from financing activities
+
+Proceeds from short-term debt
+185,564
+
+111,738
+
+Repayment of short-term bank borrowings 
+(
+116,941
+)
+(
+282
+)
+Payments of debt issuance costs
+(
+194
+)
+(
+700
+)
+Proceeds from exercises of stock options
+13,426
+
+1,321
+
+Payments of public offering costs
+(
+854
+)
+—
+
+Employee taxes paid related to net share settlement of equity awards
+(
+8,218
+)
+—
+
+Net cash provided by financing activities
+72,783
+
+112,077
+
+Effect of foreign exchange rate changes on cash, cash equivalents and restricted cash
+311
+
+402
+
+Net increase (decrease) in cash, cash equivalents and restricted cash
+267,489
+
+(
+74,060
+)
+Cash, cash equivalents and restricted cash - beginning of period
+550,781
+
+791,264
+
+Cash, cash equivalents and restricted cash - end of period
+818,270
+
+717,204
+
+Supplemental disclosure on non-cash investing and financing activities
+
+Payables for purchase of property and equipment
+468
+
+2,612
+
+Payables for acquisition of intangible assets
+1,158
+
+11,358
+
+Payables for public offering costs
+168
+
+—
+
+Right-of-use asset acquired under operating leases
+—
+
+3,945
+
+Receivables for stock option exercise under equity incentive plans
+239
+
+1,593
+
+Supplemental disclosure of cash flow information
+
+Cash paid for interest
+3,610
+
+1,169
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+7
+Zai Lab Limited 
+Notes to the unaudited condensed consolidated financial statements 
+1. 
+Organization and Principal Activities 
+Zai Lab Limited was incorporated on March 28, 2013 in the Cayman Islands as an exempted company with limited liability under the Companies Act of the Cayman Islands (as amended). Zai Lab Limited and its subsidiaries (collectively referred to as the “Company”) are focused on discovering, developing, and commercializing products that address medical conditions with significant unmet needs in the areas of oncology, immunology, neuroscience, and infectious disease. 
+The Company’s principal operations and geographic markets are in Greater China. The Company has a substantial presence in Greater China and the United States.
+
+2. 
+Basis of Presentation and Consolidation and Significant Accounting Policies 
+(a) 
+Basis of Presentation
+The accompanying unaudited condensed consolidated financial statements have been prepared in accordance with U.S. generally accepted accounting principles (“U.S. GAAP”), and applicable rules and regulations of the U.S. Securities and Exchange Commission (the “SEC”), regarding interim financial reporting. Certain information and note disclosures normally included in the financial statements prepared in accordance with U.S. GAAP have been condensed or omitted pursuant to such rules and regulations. As such, the information included in this report should be read in conjunction with the consolidated financial statements and accompanying notes included in the Annual Report on Form 10-K for the year ended December 31, 2024 (the “2024 Annual Report”). The December 31, 2024 condensed consolidated balance sheet data included in this report were derived from the audited financial statements in the 2024 Annual Report. 
+The accompanying unaudited condensed consolidated financial statements reflect all normal recurring adjustments that are necessary to present fairly the results for the interim periods presented. Interim results are not necessarily indicative of the results for the year ending December 31, 2025.
+(b) 
+Principles of Consolidation 
+The unaudited condensed consolidated financial statements include the accounts of Zai Lab Limited and its subsidiaries, which are wholly owned. All intercompany transactions and balances are eliminated upon consolidation.
+
+(c) 
+Use of Estimates 
+The preparation of the unaudited condensed consolidated financial statements in conformity with U.S. GAAP requires management to make estimates, judgments, and assumptions that affect the reported amounts of assets and liabilities and disclosures of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the period. Areas where management uses subjective judgment include, but are not limited to, accrual of rebates, recognition of research and development expenses based on the Company’s estimates of the actual services performed by CROs and CMOs, fair value of share-based compensation expenses, recoverability of deferred tax assets, and useful life of intangible assets for commercial products. These estimates, judgments, and assumptions can affect the reported amounts of assets and liabilities as of the date of the financial statements as well as the reported amounts of revenues and expenses during the periods presented. Actual results could differ from these estimates.
+
+(d) 
+Fair Value Measurements 
+Financial instruments of the Company primarily include cash and cash equivalents, current restricted cash, short-term investments, accounts receivable, notes receivable, prepayments and other current assets, non-current restricted cash, accounts payable, short-term debt, and other current liabilities. As of September 30, 2025 and December 31, 2024, the carrying values of cash and cash equivalents, current restricted cash, short-term investments, accounts receivable, 
+8
+Zai Lab Limited 
+Notes to the unaudited condensed consolidated financial statements 
+prepayments and other current assets, accounts payable, short-term debt, and other current liabilities approximated their fair value due to the short-term maturity of these instruments, and the carrying value of notes receivable and non-current restricted cash approximated their fair value based on the assessment of the ability to recover these amounts.
+(e) 
+Recent Accounting Pronouncements
+Recently Issued Accounting Pronouncements Not Yet Adopted
+In December 2023, the Financial Accounting Standards Board (“FASB”) issued ASU No. 2023-09, 
+Improvements to Income Tax Disclosures (Topic 740)
+. This ASU requires disaggregated information about a reporting entity’s effective tax rate reconciliation as well as additional information on income taxes paid. This ASU is effective on a prospective basis for annual periods beginning after December 15, 2024. Early adoption is permitted. This ASU will result in additional disclosure in the consolidated financial statements, once adopted. The Company is currently evaluating the impact of this ASU and expects to adopt it for the year ending December 31, 2025.
+In November 2024, the FASB issued ASU No. 2024-03, 
+Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses
+. This ASU requires disclosure in the notes to the financial statements of specified information about certain costs and expenses. This ASU will be effective for annual reporting periods beginning after December 15, 2026 and interim reporting periods beginning after December 15, 2027. Early adoption is permitted. The Company is currently evaluating the impact of this ASU and expects to adopt it for the year ending December 31, 2027.
+For additional information on the Company’s significant accounting policies, refer to the notes to the consolidated financial statements in the 2024 Annual Report.
+3. 
+Cash and Cash Equivalents 
+The following table presents the Company’s cash and cash equivalents ($ in thousands):
+September 30, 2025
+December 31, 2024
+Cash 
+715,953
+
+448,508
+
+Cash equivalents (i)
+1,202
+
+1,159
+
+717,155
+
+449,667
+
+Denominated in:
+
+US$
+689,233
+
+429,887
+
+Renminbi (“RMB”) (ii)
+25,558
+
+18,979
+
+Hong Kong dollar (“HK$”)
+1,474
+
+114
+
+Australian dollar (“A$”)
+535
+
+522
+
+Taiwan dollar (“TW$”)
+355
+
+165
+
+717,155
+
+449,667
+
+(i)
+Cash equivalents represent short-term and highly liquid investments in a money market fund. 
+(ii)
+Certain cash and bank balances denominated in RMB were deposited with banks in mainland China. The conversion of these RMB-denominated balances into foreign currencies is subject to the rules and regulations of foreign exchange control promulgated by the Chinese government.
+
+9
+Zai Lab Limited 
+Notes to the unaudited condensed consolidated financial statements 
+4. 
+Inventories, Net 
+The following table presents the Company’s inventories, net ($ in thousands):
+September 30, 2025
+December 31, 2024
+Finished goods
+40,640
+
+24,063
+
+Raw materials
+22,570
+
+13,268
+
+Work in progress
+3,925
+
+2,544
+
+Inventories, net
+67,135
+
+39,875
+
+The Company writes down inventory for any excess or obsolete inventory or when the Company believes that the net realizable value of inventory is less than the carrying value. The Company recorded write-downs in inventory, which were included in cost of product revenue, of $
+0.6
+ million and $
+0.9
+ million in the three and nine months ended September 30, 2025, respectively, and an insignificant amount and $
+0.8
+ million in the three and nine months ended September 30, 2024, respectively.
+
+5. 
+Property and Equipment, Net 
+The following table presents the components of the Company’s property and equipment, net ($ in thousands):
+September 30, 2025
+December 31, 2024
+Office equipment
+1,242
+
+1,230
+
+Electronic equipment
+10,225
+
+9,211
+
+Vehicle
+198
+
+196
+
+Laboratory equipment
+20,405
+
+20,516
+
+Manufacturing equipment
+17,637
+
+17,493
+
+Leasehold improvements
+14,671
+
+11,306
+
+Building
+24,330
+
+—
+
+Construction in progress
+748
+
+25,129
+
+89,456
+
+85,081
+
+Less: accumulated depreciation
+(
+40,588
+)
+(
+37,120
+)
+Property and equipment, net
+48,868
+
+47,961
+
+Depreciation expense was $
+2.4
+ million and $
+6.7
+ million in the three and nine months ended September 30, 2025, respectively, and $
+2.1
+ million and $
+6.6
+ million in the three and nine months ended September 30, 2024, respectively.
+
+6. 
+Intangible Assets, Net 
+The following table presents the components of the Company’s intangible assets, net ($ in thousands):
+September 30, 2025
+December 31, 2024
+Gross Carrying Amount
+Accumulated Amortization
+Net Carrying Value
+Gross Carrying Amount
+Accumulated Amortization
+Net Carrying Value
+Finite-lived intangible assets
+Commercial products
+60,799
+
+(
+6,644
+)
+54,155
+
+57,104
+
+(
+2,637
+)
+54,467
+
+Software
+4,414
+
+(
+3,291
+)
+1,123
+
+4,360
+
+(
+2,800
+)
+1,560
+
+Total
+65,213
+
+(
+9,935
+)
+55,278
+
+61,464
+
+(
+5,437
+)
+56,027
+
+10
+Zai Lab Limited 
+Notes to the unaudited condensed consolidated financial statements 
+Intangible assets for commercial products include capitalized post-approval milestone fees and acquired commercial manufacturing know-how and related development costs. The Company is amortizing intangible assets for commercial products as cost of product revenue over the estimated remaining useful life of the related products. Intangible assets for externally purchased software are amortized over 
+three
+ to 
+five years
+ on a straight-line basis.
+Amortization expense was $
+1.5
+ million and $
+4.4
+ million in the three and nine months ended September 30, 2025, respectively, and $
+0.7
+ million and $
+2.3
+ million in the three and nine months ended September 30, 2024, respectively. The weighted-average remaining amortization period for intangible assets for commercial products and software was 
+8.8
+ years and 
+2.4
+ years, respectively.
+7. 
+Revenues 
+Product Revenue, Net 
+The Company’s product revenue is derived from the sales of its commercial products in Greater China. 
+The table below presents the Company’s gross and net product revenue ($ in thousands):
+Three Months Ended September 30,
+Nine Months Ended September 30,
+2025
+2024
+2025
+2024
+Product revenue - gross
+127,103
+
+107,678
+
+355,965
+
+307,401
+
+Less: Rebates and sales returns
+(
+11,742
+)
+(
+5,831
+)
+(
+25,870
+)
+(
+18,299
+)
+Product revenue - net
+115,361
+
+101,847
+
+330,095
+
+289,102
+
+Sales rebates are offered to distributors in mainland China, and the amounts are recorded as a reduction of product revenue. Estimated rebates are determined based on contracted rates, sales volumes, and level of distributor inventories. 
+The following table presents the Company’s net revenue by commercial program ($ in thousands): 
+Three Months Ended September 30,
+Nine Months Ended September 30,
+2025
+2024
+2025
+2024
+ZEJULA
+42,432
+
+48,227
+
+133,002
+
+138,727
+
+VYVGART / VYVGART Hytrulo
+27,727
+
+27,265
+
+72,329
+
+63,617
+
+NUZYRA
+15,430
+
+9,997
+
+44,840
+
+32,205
+
+OPTUNE
+12,657
+
+7,715
+
+36,375
+
+32,779
+
+QINLOCK
+8,901
+
+8,643
+
+25,946
+
+21,774
+
+XACDURO
+6,445
+
+—
+
+12,184
+
+—
+
+AUGTYRO
+1,677
+
+—
+
+4,702
+
+—
+
+Other (i)
+92
+
+—
+
+717
+
+—
+
+Product revenue - net
+115,361
+
+101,847
+
+330,095
+
+289,102
+
+(i)
+Other includes product candidates sold in patient programs prior to commercialization.
+
+Collaboration Revenue 
+Collaboration revenue was $
+0.7
+ million and $
+2.5
+ million in the three and nine months ended September 30, 2025, respectively, and $
+0.4
+ million and $
+0.8
+ million in the three and nine months ended September 30, 2024, respectively, and related to promotional activities in mainland China.
+11
+Zai Lab Limited 
+Notes to the unaudited condensed consolidated financial statements 
+8. 
+Income Tax 
+No
+ provision for income taxes has been accrued because the Company is in a cumulative loss position for the periods presented. 
+The Company recorded a full valuation allowance against deferred tax assets of all its consolidated entities because all entities were in a cumulative loss position as of September 30, 2025 and December 31, 2024. 
+No
+ unrecognized tax benefits and related interest and penalties were recorded in the periods presented.
+9. 
+Loss Per Share 
+The following table presents the computation of the basic and diluted net loss per share ($ in thousands, except share and per share data):
+Three Months Ended September 30,
+Nine Months Ended September 30,
+2025
+2024
+2025
+2024
+Numerator:
+Net loss 
+(
+35,963
+)
+(
+41,671
+)
+(
+125,128
+)
+(
+175,419
+)
+Denominator:
+Weighted-average number of ordinary shares - basic and diluted
+1,102,072,680
+
+981,687,390
+
+1,091,690,340
+
+976,941,030
+
+Net loss per share - basic and diluted
+(
+0.03
+)
+(
+0.04
+)
+(
+0.11
+)
+(
+0.18
+)
+As a result of the Company’s net loss in the three and nine months ended September 30, 2025 and 2024, share options and non-vested restricted shares outstanding in the respective periods were excluded from the calculation of diluted loss per share as their inclusion would have been anti-dilutive.
+September 30,
+2025
+2024
+Share options
+81,532,890
+
+105,188,950
+
+Non-vested restricted shares
+25,790,340
+
+32,875,090
+
+10. 
+Borrowings
+The Company has debt arrangements with the Bank of China, SPD Bank, CMB, BOCOM, and Ningbo Bank to support its working capital needs in mainland China. 
+The following table presents the Company’s short-term debt as of September 30, 2025 ($ in thousands): 
+Weighted-average 
+interest rate per annum
+September 30, 2025
+Bank of China Working Capital Loans
+2.42
+
+%
+68,678
+
+SPD Bank Working Capital Loans
+2.80
+
+%
+42,221
+
+China Merchants Bank Working Capital Loans
+2.85
+
+%
+42,925
+
+Bank of Communications Working Capital Loans
+2.75
+
+%
+42,221
+
+Ningbo Bank Discounted Bills
+1.60
+
+%
+6,981
+
+Total short-term debt
+2.63
+
+%
+203,026
+
+Bank of China Working Capital Loan Facility
+The Company has an uncommitted facility letter with the Bank of China (Hong Kong) Limited (“BOC HK”) pursuant to which BOC HK will provide standby letters of credit in favor of the Bank of China Pudong Development Zone 
+12
+Zai Lab Limited 
+Notes to the unaudited condensed consolidated financial statements 
+Branch (“BOC Pudong Branch”) for loans of up to $
+100.0
+ million, which are or may become payable by the Company’s wholly-owned subsidiary, Zai Lab (Shanghai) Co., Ltd. (“Zai Lab Shanghai”). BOC HK and BOC Pudong Branch are collectively referred to as Bank of China. In accordance with this agreement, the Company also maintained restricted deposits of $
+100.0
+ million, which are presented as restricted cash-current on the unaudited condensed consolidated balance sheet, to secure the standby letters of credit.  Each working capital loan has a 
+one-year
+ term and is subject to a floating interest rate, which is subject to adjustment every 
+six months
+.
+SPD Bank Working Capital Loan Facility
+In February 2024, the Company entered into a maximum-amount guarantee contract with the Shanghai Pudong Development Bank Co., Ltd. Zhangjiang Hi-Tech Park Sub-Branch (“SPD Bank”) pursuant to which the Company will guarantee working capital loans of up to RMB
+300.0
+ million (approximately $
+42.0
+ million) from SPD Bank to Zai Lab Shanghai over a 
+three-year
+ period. Each working capital loan has a 
+one-year
+ term and is subject to a fixed interest rate.
+China Merchants Bank Working Capital Loan Facility
+In July 2024, the Company issued a maximum-amount irrevocable letter of guarantee to China Merchants Bank Co., Ltd., Shanghai Branch (“CMB”) pursuant to which the Company will guarantee working capital loans of up to RMB
+500.0
+ million (approximately $
+69.6
+ million) from CMB to Zai Lab Shanghai, and Zai Lab Shanghai entered into a Credit Agreement with CMB with respect to the RMB
+250.0
+ million facility. The credit facility was available for 
+one year
+ and expired in July 2025. In August 2025, the Company entered into a new revolving credit facility with CMB, which replaced its previous RMB
+250.0
+ million credit facility that expired in July. The Company issued a new maximum-amount irrevocable letter of guarantee to CMB pursuant to which the Company will guarantee working capital loans of up to RMB
+500.0
+ million (approximately $
+69.6
+ million) from CMB to Zai Lab Shanghai, and Zai Lab Shanghai entered into a Credit Agreement with CMB with respect to the RMB
+500.0
+ million facility. The new guarantee and credit facility include the outstanding working capital loans with CMB. The credit facility will be available for 
+two years
+. Each working capital loan has a 
+one-year
+ term and is subject to a floating interest rate, which is subject to adjustment every 
+three months
+.
+Bank of Communications Working Capital Loan Facility
+In January 2025, the Company entered into a guarantee contract with Bank of Communications Co., Ltd. Shanghai Zhangjiang Sub-Branch (“BOCOM”) pursuant to which the Company will guarantee working capital loans from BOCOM to Zai Lab Shanghai, and Zai Lab Shanghai entered into a working capital loan contract with BOCOM with respect to a revolving credit facility of up to RMB
+300.0
+ million (approximately $
+41.1
+ million). The credit facility expired in September 2025. Each working capital loan has a 
+one-year
+ term and is subject to a floating interest rate, which is subject to adjustment every 
+three months
+.
+Ningbo Bank Working Capital Loan Facility
+In February 2024, the Company’s wholly-owned subsidiary, Zai Lab (Suzhou) Co., Ltd. (“Zai Lab Suzhou”), entered into a maximum credit contract with Bank of Ningbo Co., Ltd. Suzhou Sub-branch (“Ningbo Bank”) as well as an Electronic Commercial Draft Discounting Master Agreement and Online Working Capital Loan Master Agreement (collectively, the “Ningbo Bank Agreements”). The Ningbo Bank Agreements permit Zai Lab Suzhou to utilize, including through discounting or working capital loan agreements and subject to the terms and conditions in related master agreements, up to RMB
+230.3
+ million (approximately $
+32.4
+ million), of which Zai Lab Suzhou is authorized to utilize up to RMB
+160.0
+ million (approximately $
+22.5
+ million). The cash proceeds from the discounting arrangement were classified as short-term debt. Each discounted bill has a 
+6
+-month term.
+13
+Zai Lab Limited 
+Notes to the unaudited condensed consolidated financial statements 
+11. 
+Other Current Liabilities 
+The following table presents the Company’s other current liabilities ($ in thousands):
+September 30, 2025
+December 31, 2024
+Accrued payroll
+24,428
+
+30,198
+
+Accrued professional service fees
+4,240
+
+5,728
+
+Payables for purchase of property and equipment
+468
+
+449
+
+Accrued rebate to distributors
+14,885
+
+10,839
+
+Tax payables
+4,727
+
+5,154
+
+Other (i)
+2,793
+
+6,352
+
+Total
+51,541
+
+58,720
+
+(i)
+Other primarily includes accrued travel, business-related expenses, and advance payments from partners.
+12. 
+Related Party Transactions 
+In January 2025, the Company entered into a license agreement with Zenas BioPharma (HK) Limited (“Zenas”), pursuant to which the Company obtained a license under certain patents and know-how of Zenas to develop and commercialize products containing a differentiated humanized monoclonal antibody targeting IGF-1R as an active ingredient in Greater China. One of the members of the Company’s Board of Directors, Mr. Moulder, is also the Chairman of the Board of Directors and Chief Executive Officer of Zenas. The Company recorded a $
+10.0
+ million upfront fee into research and development expenses in the first quarter of 2025. As of September 30, 2025, the Company may be required to pay an additional aggregate amount of up to $
+117.0
+ million in development and sales-based milestones as well as certain royalties at tiered percentage rates ranging from high-single digits to mid-teens on annual net sales of the licensed products in the licensed territories.
+13. 
+Share-Based Compensation
+During the nine months ended September 30, 2025, the Company granted share options to purchase up to 
+7,343,210
+ ordinary shares and restricted shares representing 
+8,446,600
+ ordinary shares under its equity incentive plans. The share options granted have a contractual term of 
+ten years
+. Share options granted since April 2023 generally vest ratably over a 
+four-year
+ period, and share options granted prior to April 2023 generally vest ratably over a 
+five-year
+ period, with 
+25
+% or 
+20
+% of the awards vesting on each anniversary of the grant date, respectively, subject to continued employment/service with the Company on the vesting date. The restricted shares granted generally vest ratably over a specified period on the anniversary of the grant date, subject to continued employment/service with the Company on the vesting date. For a description of the Company’s equity incentive plans and more details on the terms of the share-based awards, see 
+Note 15
+ in the 2024 Annual Report
+.
+The following table presents the share-based compensation expense that has been reported in the Company’s unaudited condensed consolidated statements of operations and comprehensive loss as follows ($ in thousands):
+Three Months Ended September 30,
+Nine Months Ended September 30,
+2025
+2024
+2025
+2024
+Selling, general and administrative
+10,945
+
+10,404
+
+32,415
+
+31,861
+
+Research and development
+5,978
+
+6,391
+
+17,281
+
+21,552
+
+Total
+16,923
+
+16,795
+
+49,696
+
+53,413
+
+14
+Zai Lab Limited 
+Notes to the unaudited condensed consolidated financial statements 
+As of September 30, 2025, there was unrecognized share-based compensation expense related to unvested share options and unvested restricted shares of $
+54.4
+ million and $
+65.6
+ million, respectively, which the Company expects to recognize over a weighted-average period of 
+2.30
+ years and 
+2.26
+ years, respectively.
+
+14. 
+License and Collaboration Agreements
+The Company has entered into various license and collaboration agreements with third parties to develop and commercialize product candidates. 
+Significant License and Collaboration Arrangements
+For a description of the material terms of the Company’s significant license and collaboration agreements, see 
+Note 16
+ in the 2024 Annual Report. In the nine months ended September 30, 2025, the Company did not enter into any new significant license or collaboration agreements or incur any milestone fees under our existing significant license and collaboration agreements. 
+Other License and Collaboration Arrangements That Are Not Individually Significant
+The Company recorded upfront fees of $
+20.0
+ million into research and development expenses in the nine months ended September 30, 2025 for license and collaboration agreements that are not individually significant.
+
+15. 
+Other Income (Expense), Net 
+The following table presents the Company’s other income, net ($ in thousands):
+Three Months Ended September 30,
+Nine Months Ended September 30,
+2025
+2024
+2025
+2024
+Government grants
+854
+
+3,861
+
+4,720
+
+7,186
+
+Loss on equity investments with readily determinable fair value
+—
+
+(
+920
+)
+(
+1,912
+)
+(
+6,067
+)
+Other miscellaneous gain (loss)
+(
+1,362
+)
+500
+
+237
+
+2,740
+
+Total
+(
+508
+)
+3,441
+
+3,045
+
+3,859
+
+16. 
+Restricted Net Assets 
+Chinese laws and regulations restrict the Company’s ability to receive distributions of funds from its Chinese subsidiaries. For example, relevant Chinese laws and regulations permit payments of dividends by the Company’s Chinese subsidiaries only out of its retained earnings, if any, as determined in accordance with Chinese accounting standards and regulations.  
+In accordance with the Company Law of the People’s Republic of China, each Chinese subsidiary of the Company is required to provide statutory reserves of at least 10% of its annual after-tax profit until such reserve has reached 50% of its respective registered capital based on the enterprise’s Chinese statutory accounts. The reserves can only be used for specific purposes and are not distributable as cash dividends. Foreign exchange and other regulations in mainland China may further restrict the Company’s Chinese subsidiaries from transferring out funds in the form of dividends, loans, and advances.
+No
+ appropriation to statutory reserves was made in the three and nine months ended September 30, 2025 and 2024 because the Chinese subsidiaries had substantial losses during such periods. The Company did not receive any distributions from its Chinese subsidiaries; such distributions were not permitted under Chinese laws and regulations due to the reserve 
+15
+Zai Lab Limited 
+Notes to the unaudited condensed consolidated financial statements 
+requirements discussed above. As of both September 30, 2025 and December 31, 2024, amounts restricted included the paid-in capital of the Company’s subsidiaries in mainland China and were $
+506.0
+ million.
+17. 
+Commitments and Contingencies 
+(a) Purchase Commitments 
+
+As of September 30, 2025, the Company’s commitments were $
+0.7
+ million and related to commercial manufacturing development activities and capital expenditures that are contracted but not yet reflected in the unaudited condensed consolidated financial statements. These commitments were expected to be incurred within one year from September 30, 2025.
+(b) Legal Proceedings
+The Company is not currently a party to any material legal proceedings. 
+(c) Indemnifications
+In the normal course of business, the Company enters into agreements that indemnify others for certain liabilities that may arise in connection with a transaction or certain events and activities. To date, the Company has not paid any claims or been required to defend any action related to its indemnification obligations.
+
+18. 
+Segment Information 
+The Company operates as a single operating segment that is engaged in discovering, developing, and commercializing products that address medical conditions with significant unmet needs in the areas of oncology, immunology, neuroscience, and infectious disease. A global research and development organization and a supply chain organization discover, develop, manufacture, and supply our products. A global commercial organization markets, distributes, and sells the products. The business is also supported by global corporate staff functions. The Company’s Chief Operating Decision Maker (the “CODM”) is the Chief Executive Officer, who assesses performance and allocates resources based on significant expenses and net income on a consolidated basis. The significant expenses that are regularly provided to the CODM include those amounts that are also reported on the consolidated statement of operations as well as below additional disaggregated measures. The CODM also reviews cash position (which are cash and cash equivalents, current restricted cash, and short-term investments) that are also reported on the consolidated balance sheets when making operating decisions. In accordance with ASC 280, the Company has only 
+one
+ reportable segment.
+The following tables present disaggregated expenses that are regularly provided to the CODM:
+Three Months Ended September 30,
+Nine Months Ended September 30,
+2025
+2024
+2025
+2024
+Personnel compensation and related costs
+21,539
+
+23,405
+
+68,067
+
+82,622
+
+Licensing fees
+—
+
+22,634
+
+19,997
+
+22,634
+
+CROs/CMOs/Investigators expenses
+18,707
+
+13,004
+
+48,472
+
+57,213
+
+Other costs
+7,682
+
+6,939
+
+22,735
+
+19,783
+
+Total research and development expenses
+47,928
+
+65,982
+
+159,271
+
+182,252
+
+16
+Zai Lab Limited 
+Notes to the unaudited condensed consolidated financial statements 
+Three Months Ended September 30,
+Nine Months Ended September 30,
+2025
+2024
+2025
+2024
+Clinical programs
+18,179
+
+23,060
+
+63,236
+
+63,196
+
+Pre-Clinical programs
+1,982
+
+14,461
+
+10,365
+
+19,649
+
+Unallocated research and development expenses
+27,767
+
+28,461
+
+85,670
+
+99,407
+
+Total research and development expenses
+47,928
+
+65,982
+
+159,271
+
+182,252
+
+Three Months Ended September 30,
+Nine Months Ended September 30,
+2025
+2024
+2025
+2024
+Personnel compensation and related costs
+41,320
+
+39,984
+
+124,642
+
+134,157
+
+Other costs
+28,786
+
+27,235
+
+79,924
+
+81,966
+
+Total selling, general, and administrative expenses
+70,106
+
+67,219
+
+204,566
+
+216,123
+
+Three Months Ended September 30,
+Nine Months Ended September 30,
+2025
+2024
+2025
+2024
+Selling and marketing expenses
+47,179
+
+43,473
+
+135,882
+
+140,342
+
+General and administrative expenses
+22,927
+
+23,746
+
+68,684
+
+75,781
+
+Total selling, general, and administrative expenses
+70,106
+
+67,219
+
+204,566
+
+216,123
+
+19. 
+Subsequent Events 
+On October 13, 2025, the Company entered into a maximum amount guarantee contract with Industrial Bank Co., Ltd., Shanghai Gubei Branch (“CIB”) pursuant to which the Company will guarantee working capital loans of up to RMB
+300
+ million (approximately $
+42.1
+ million) from CIB to our wholly-owned subsidiary, Zai Lab Shanghai, and Zai Lab Shanghai entered into a credit line contract with CIB with respect to the RMB
+300
+ million revolving credit facility. The credit facility will be available until May 5, 2026, and key terms of the specific working capital loans, including the amount, term, and interest rate, will be included in the specific transaction documents.
+
+17
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+You should read the following discussion and analysis of our financial condition and results of operations together with our 2024 Annual Report and our unaudited condensed consolidated financial statements and the accompanying notes for the three and nine months ended September 30, 2025 included in 
+Item 1. Financial Statements
+. 
+Overview 
+We are a patient-focused, innovative, commercial-stage, global biopharmaceutical company with a substantial presence in both Greater China and the United States. We are focused on discovering, developing, and commercializing products that address medical conditions with significant unmet needs in the areas of oncology, immunology, neuroscience, and infectious disease. We intend to leverage our competencies and resources to positively impact human health. We currently have seven commercial programs – ZEJULA, VYVGART / VYVGART Hytrulo, NUZYRA, OPTUNE, QINLOCK, XACDURO, and AUGTYRO – with products that have received marketing approval and that we have commercially launched in one or more territories in Greater China. We also have multiple programs in late-stage product development and a number of ongoing pivotal trials across our portfolio.
+Since our inception, we have incurred net losses and negative cash flows from our operations. Substantially all of our losses have resulted from funding our research and development programs and selling, general, and administrative costs associated with our operations. Developing high quality product candidates requires significant investment in our research and development activities over a prolonged period of time, and a core part of our strategy is to continue making sustained investments in this area. Our ability to generate profits and positive cash flow from operations depends upon our ability to successfully market our commercial products and to successfully expand the indications for these products and develop and commercialize our other product candidates. As discussed further below, we expect to continue to incur substantial costs related to our research and development and commercialization activities.
+As we pursue our corporate strategic goals, we anticipate that our financial results will fluctuate from quarter to quarter and year to year depending in part on the balance between the success of our commercial products and the level of our research and development expenses. We cannot predict whether or when our product candidates will receive regulatory approval. Further, if we receive such regulatory approval, we cannot predict whether or when we may be able to successfully commercialize such products or whether or when such products may become profitable. 
+Recent Developments 
+Commercial Products 
+Net product revenue was $115.4 million for the third quarter of 2025, an increase of 13% compared to the prior year period, primarily due to higher sales of NUZYRA, supported by increasing market coverage and penetration, and XACDURO, which was launched since the fourth quarter of 2024. These higher sales were partially offset by softer sales of ZEJULA, due to evolving competitive dynamics within the PARPi class. 
+Product Candidates 
+We continued to advance our product candidates through our research and development activities, including the following developments with respect to our clinical trials and regulatory approvals:
+Oncology
+•
+Zocilurtatug Pelitecan (Zoci, DLL3 ADC) (formerly ZL-1310): 
+In October 2025, we presented updated data from the global Phase I clinical trial evaluating zoci for the treatment of patients with ES-SCLC at the AACR-NCI-EORTC International Conference. The data demonstrated a best overall response rate of 68% in 2L patients treated at the 1.6 mg/kg dose in ES-SCLC. The median duration of response was 6.1 months across all patients and is clinically meaningful in this population with advanced disease. Meaningful activity in patients with brain metastases was also observed, including an 80% response rate in patients with untreated brain metastases. The data also demonstrated a well-tolerated safety profile at 1.6 mg/kg, with Grade ≥ 3 
+18
+treatment-related adverse events of 13%, no Grade ≥2 interstitial lung disease, and no drug discontinuations. We have initiated a global registrational study of zoci monotherapy in 2L+ SCLC.
+•
+Tisotumab Vedotin (TIVDAK, Tissue Factor ADC): 
+In September 2025, the Hong Kong Department of Health approved TIVDAK in Hong Kong for the treatment of adult patients with recurrent or metastatic cervical cancer with disease progression on or after chemotherapy. TIVDAK is currently under regulatory review for its Biologics License Application by the NMPA, which was accepted in March 2025.
+•
+Bemarituzumab: 
+In September 2025, our partner Amgen announced that the descriptive follow-up analysis of the Phase III FORTITUDE-101 clinical trial evaluating bemarituzumab in FGFR2b positive 1L gastric cancer has been completed. At the pre-specified interim analysis (the primary analysis), overall survival was significantly improved with bemarituzumab plus chemotherapy (mFOLFOX6) versus chemotherapy alone (median OS of 17.9 months versus 12.5 months). However, at the follow-up analysis, the magnitude of the previously observed survival benefit attenuated (median OS of 14.5 months versus 13.2 months). Data was presented in October 2025 at the ESMO conference in Berlin. In November 2025, Amgen announced that FORTITUDE-102, a Phase Ib/III study evaluating bemarituzumab in combination with nivolumab and chemotherapy in the same patient population, was stopped.
+•
+Tumor Treating Fields (TTFields): 
+In August 2025, the NMPA granted Innovative Medical Device Designation for TTFields therapy for patients with pancreatic cancer based on the positive results from the Phase III PANOVA-3 trial. This designation offers opportunities to expedite the regulatory review and approval process. The Phase III PANOVA-3 trial evaluated the use of TTFields therapy concomitantly with gemcitabine and nab-paclitaxel as a first-line treatment for unresectable, locally advanced pancreatic adenocarcinoma compared to gemcitabine and nab-paclitaxel alone. The trial met its primary endpoint, demonstrating a statistically significant improvement in median overall survival for patients treated with TTFields. We participated in the study in Greater China. We plan to file for regulatory approval in mainland China in the fourth quarter of 2025.
+Immunology, Neuroscience, and Infectious Disease
+•
+ZL-1503 (IL-13 / IL-31): 
+In November 2025, we initiated a global Phase I/Ib study to evaluate safety, tolerability, and pharmacokinetics of ZL-1503 in healthy volunteers and participants with moderate to severe atopic dermatitis.
+•
+Efgartigimod (FcRn): 
+In August 2025, our partner argenx announced topline results from the pivotal ADAPT SERON study of VYVGART in patients with AChR-Ab seronegative gMG. The study met its primary endpoint (p-value=0.0068), demonstrating that AChR-Ab seronegative gMG patients treated with VYVGART achieved a statistically significant and clinically meaningful improvement in MG-ADL (Myasthenia Gravis Activities of Daily Living) total score compared to placebo. Based on these results, argenx plans to submit an sBLA to the FDA seeking expansion of the VYVGART label to include adult AChR-Ab seronegative gMG patients. VYVGART was well tolerated and safe across AChR-Ab seronegative subtypes and consistent with the established safety profile in patients with AChR-Ab seropositive gMG and other indications. No new safety concerns were identified. We participated in the study in Greater China and are considering a potential China regulatory submission.
+In September 2025, we joined the registrational UNITY study of the subcutaneous formulation of efgartigimod given by pre-filled syringe in Sjorgen’s disease in Greater China.
+•
+Xanomeline-Trospium (or KarXT) (M1/M4-agonist): 
+In September 2025, the “China Schizophrenia Prevention and Treatment Guidelines (2025 Edition)” were officially released, and KarXT was included for the first time, marking the first national-level guideline globally to include KarXT. The guidelines emphasize KarXT’s broad efficacy across all three symptom domains (positive, negative, and cognitive symptoms) and 
+19
+its unique safety profile, supporting long-term adherence and functional recovery. The NMPA accepted the NDA for KarXT for the treatment of schizophrenia in January 2025.
+•
+Povetacicept (Pove, APRIL/BAFF): 
+In September 2025, our partner Vertex announced that the FDA had granted Breakthrough Therapy Designation to pove for the treatment of IgA nephropathy. We participated in the global Phase III RAINIER study of pove in patients with IgAN in Greater China. Vertex has completed full enrollment of the Phase III study, including the interim analysis cohort for potential accelerated approval in the United States. 
+Organizational Updates
+During the third quarter, we continued to strengthen our business through key new additions to our global leadership team. For example, we appointed Dr. Shan He as Senior Vice President, Chief Business Officer in September 2025. Dr. He is a respected leader with deep expertise in healthcare strategy, capital markets, and entrepreneurship. She will be responsible for leading and directing strategy for business development and strategic partnerships. We also announced the creation of our Oncology Scientific Advisory Board (“SAB”) in August 2025. This newly formed Oncology SAB is comprised of distinguished oncology leaders and will support the advancement of our robust oncology products and pipeline, including multiple internally developed investigational therapies.
+Factors Affecting Our Results of Operations 
+Our Commercial Products 
+We generate product revenue through the sale of our commercial products in Greater China, net of any related sales returns and rebates to distributors. Our cost of product revenue mainly consists of the costs of manufacturing ZEJULA and NUZYRA; costs of purchasing VYVGART / VYVGART Hytrulo, OPTUNE, QINLOCK, XACDURO, and AUGTYRO from our collaboration partners; any royalty fees incurred as a result of sales of our commercial products under our license and collaboration agreements; and amortization of capitalized post-approval milestone fees incurred under our license and collaboration agreements. We expect our product revenue to increase in coming years as we continue to focus on increasing patient access to our existing commercial products, such as through NRDL listing or increased supplemental insurance coverage in the private-pay market, and as we launch additional commercial products, if and when we obtain required regulatory approvals. We expect our cost of product revenue to increase as the volume of products sold increases.
+Research and Development Expenses 
+We believe our ability to successfully develop product candidates will be the primary factor affecting our long-term competitiveness, as well as our future growth and development. Developing high quality product candidates requires a significant investment of resources over a prolonged period of time. We are committed to advancing and expanding our pipeline of potential best-in-class and first-in-class products, such as through clinical and pre-clinical trials and business development activities. As a result, we expect to continue making significant investments in research and development, including internal discovery activities. 
+Elements of research and development expenditures primarily include: 
+•
+payroll and other related costs of personnel engaged in research and development activities; 
+•
+fees for exclusive development rights of products granted to the Company; 
+•
+costs related to pre-clinical testing of the Company’s technologies and clinical trials, such as payments to CROs and CMOs, investigators, and clinical trial sites that conduct our clinical studies; and
+•
+costs to produce the product candidates, including raw materials and supplies, product testing, depreciation, and facility-related expenses.
+20
+Selling, General, and Administrative Expenses 
+Our selling, general, and administrative expenses consist primarily of personnel compensation and related costs, including share-based compensation for commercial and administrative personnel. Other selling, general, and administrative expenses include product distribution and promotion costs, and professional service fees for legal, intellectual property, auditing, and tax services as well as other direct and allocated expenses for rent and maintenance of facilities, insurance, and other supplies used in selling, general, and administrative activities. We expect these costs to continue to be significant to support sales of our commercial products and preparation to launch and subsequent sales of additional product candidates if and when approved.
+Our Ability to Commercialize Our Product Candidates 
+We have multiple product candidates in late-stage clinical development and various others in clinical and pre-clinical development in Greater China and globally. Our ability to generate revenue from our product candidates is dependent on our receipt of regulatory approvals for and successful commercialization of such product candidates, which may not occur. Certain of our product candidates may require additional pre-clinical and/or clinical development, regulatory approvals in multiple jurisdictions, manufacturing supply, and significant marketing efforts before we generate any revenue from product sales. 
+License and Collaboration Arrangements 
+Our results of operations have been, and will continue to be, affected by our license and collaboration agreements. In accordance with these agreements, we may be required to make upfront payments and milestone payments upon the achievement of certain development, regulatory, and sales-based milestones for the relevant products as well as certain royalties at tiered percentage rates based on annual net sales of the licensed products in the licensed territories. As of September 30, 2025, we may in the future be required to pay development and regulatory milestone payments of up to an additional aggregate amount of $211.0 million for our current clinical programs and $366.0 million for other programs. Such development and regulatory milestone payments are contingent on the progress of our product candidates prior to commercialization, and we see these payments as favorable because they indicate that product candidates are advancing. As of September 30, 2025, we also in the future may be required to pay sales-based milestone payments of up to an additional aggregate amount of $1,753.0 million as well as certain royalties at tiered percentage rates on annual net sales. Such sales-based milestone and royalty payments are contingent on the performance of our commercial products, and we see these payments as favorable because they signify that a product is achieving higher sales levels.
+21
+Results of Operations 
+In this section, we discuss our results of operations for the three and nine months ended September 30, 2025 compared to the same periods in 2024.
+The following table presents our results of operations ($ in thousands):
+Three Months Ended September 30,
+Change
+Nine Months Ended September 30,
+Change
+2025
+2024
+$
+%
+2025
+2024
+$
+%
+Revenues
+Product revenue, net
+115,361 
+101,847 
+13,514 
+13 
+%
+330,095 
+289,102 
+40,993 
+14 
+%
+Collaboration revenue
+734 
+418 
+316 
+76 
+%
+2,464 
+816 
+1,648 
+202 
+%
+Total revenues
+116,095 
+102,265 
+13,830 
+14 
+%
+332,559 
+289,918 
+42,641 
+15 
+%
+Expenses
+Cost of product revenue
+(46,764)
+(36,569)
+(10,195)
+28 
+%
+(128,219)
+(105,336)
+(22,883)
+22 
+%
+Cost of collaboration revenue
+(119)
+(348)
+229 
+(66)
+%
+(531)
+(433)
+(98)
+23 
+%
+Research and development
+(47,928)
+(65,982)
+18,054 
+(27)
+%
+(159,271)
+(182,252)
+22,981 
+(13)
+%
+Selling, general, and administrative
+(70,106)
+(67,219)
+(2,887)
+4 
+%
+(204,566)
+(216,123)
+11,557 
+(5)
+%
+Loss from operations
+(48,822)
+(67,853)
+19,031 
+(28)
+%
+(160,028)
+(214,226)
+54,198 
+(25)
+%
+Interest income
+8,345 
+9,029 
+(684)
+(8)
+%
+25,794 
+28,017 
+(2,223)
+(8)
+%
+Interest expenses
+(1,400)
+(745)
+(655)
+88 
+%
+(3,848)
+(1,350)
+(2,498)
+185 
+%
+Foreign currency gains 
+6,422 
+14,457 
+(8,035)
+(56)
+%
+9,909 
+8,281 
+1,628 
+20 
+%
+Other income (expense), net
+(508)
+3,441 
+(3,949)
+(115)
+%
+3,045 
+3,859 
+(814)
+(21)
+%
+Loss before income tax 
+(35,963)
+(41,671)
+5,708 
+(14)
+%
+(125,128)
+(175,419)
+50,291 
+(29)
+%
+Income tax expense
+— 
+— 
+— 
+— 
+%
+— 
+— 
+— 
+— 
+%
+Net loss
+(35,963)
+(41,671)
+5,708 
+(14)
+%
+(125,128)
+(175,419)
+50,291 
+(29)
+%
+Revenues
+Product Revenue, Net
+The following table presents net revenue by commercial program ($ in thousands):
+Three Months Ended September 30,
+Change
+Nine Months Ended September 30,
+Change
+2025
+2024
+$
+%
+2025
+2024
+$
+%
+ZEJULA
+42,432 
+48,227 
+(5,795)
+(12)
+%
+133,002 
+138,727 
+(5,725)
+(4)
+%
+VYVGART / VYVGART Hytrulo
+27,727 
+27,265 
+462 
+2 
+%
+72,329 
+63,617 
+8,712 
+14 
+%
+NUZYRA
+15,430 
+9,997 
+5,433 
+54 
+%
+44,840 
+32,205 
+12,635 
+39 
+%
+OPTUNE
+12,657 
+7,715 
+4,942 
+64 
+%
+36,375 
+32,779 
+3,596 
+11 
+%
+QINLOCK
+8,901 
+8,643 
+258 
+3 
+%
+25,946 
+21,774 
+4,172 
+19 
+%
+XACDURO
+6,445 
+— 
+6,445 
+NM
+12,184 
+— 
+12,184 
+NM
+AUGTYRO
+1,677 
+— 
+1,677 
+NM
+4,702 
+— 
+4,702 
+NM
+Other (i)
+92 
+— 
+92 
+NM
+717 
+— 
+717 
+NM
+Total product revenue, net
+115,361 
+101,847 
+13,514 
+13 
+%
+330,095 
+289,102 
+40,993 
+14 
+%
+NM - Not Meaningful
+(i)
+Other includes product candidates sold in patient programs prior to commercialization. 
+Our product revenue is primarily derived from the sales of our commercial products in mainland China, net of sales returns and rebates to distributors with respect to the sales of these products. 
+22
+Our net product revenue increased by $13.5 million and $41.0 million in the three and nine months ended September 30, 2025, respectively, primarily due to NUZYRA, supported by increasing market coverage and penetration, XACDURO, which was launched since the fourth quarter of 2024, and higher sales of VYVGART, driven by an extension of duration of therapy and increasing market penetration. These higher sales were partially offset by softer sales of ZEJULA, due to evolving competitive dynamics within the PARPi class. 
+Cost of Product Revenue
+Cost of product revenue increased by $10.2 million and $22.9 million in the three and nine months ended September 30, 2025, respectively, primarily due to increasing sales volumes.
+Collaboration Revenue and Cost of Collaboration Revenue
+In the three and nine months ended September 30, 2025, collaboration revenue increased by $0.3 million and $1.6 million, respectively, and cost of collaboration revenue increased by $0.2 million and $0.1 million, respectively, which are related to promotional activities in mainland China.
+Research and Development Expenses 
+The following table presents the components of our research and development expenses
+ ($ in thousands):
+Three Months Ended September 30,
+Change
+Nine Months Ended September 30,
+Change
+2025
+2024
+$
+%
+2025
+2024
+$
+%
+Personnel compensation and related costs
+21,539 
+23,405 
+(1,866)
+(8)
+%
+68,067 
+82,622 
+(14,555)
+(18)
+%
+Licensing fees
+— 
+22,634 
+(22,634)
+(100)
+%
+19,997 
+22,634 
+(2,637)
+(12)
+%
+CROs/CMOs/Investigators expenses
+18,707 
+13,004 
+5,703 
+44 
+%
+48,472 
+57,213 
+(8,741)
+(15)
+%
+Other costs
+7,682 
+6,939 
+743 
+11 
+%
+22,735 
+19,783 
+2,952 
+15 
+%
+Total
+47,928 
+65,982 
+(18,054)
+(27)
+%
+159,271 
+182,252 
+(22,981)
+(13)
+%
+Research and development expenses decreased by $18.1 million in the three months ended September 30, 2025, primarily due to: 
+•
+a decrease of $22.6 million in licensing fees in connection with decreased upfront and milestone payments for our license and collaboration agreements; and
+•
+a decrease of $1.9 million in personnel compensation and related costs primarily driven by our resource prioritization and efficiency efforts; partially offset by
+•
+an increase of $5.7 million in CROs/CMOs/Investigators expenses related to ongoing clinical trials.
+ Research and development expenses decreased by $23.0 million in the nine months ended September 30, 2025 primarily due to a decrease of $14.6 million in personnel compensation and related costs and a decrease of $8.7 million in CROs/CMOs/Investigators expenses primarily driven by our resource prioritization and efficiency efforts.
+23
+The following table presents our research and development expenses by program ($ in thousands):
+Three Months Ended September 30,
+Change
+Nine Months Ended September 30,
+Change
+2025
+2024
+$
+%
+2025
+2024
+$
+%
+Clinical programs
+18,179 
+23,060 
+(4,881)
+(21)
+%
+63,236 
+63,196 
+40 
+— 
+%
+Pre-Clinical programs
+1,982 
+14,461 
+(12,479)
+(86)
+%
+10,365 
+19,649 
+(9,284)
+(47)
+%
+Unallocated research and development expenses
+27,767 
+28,461 
+(694)
+(2)
+%
+85,670 
+99,407 
+(13,737)
+(14)
+%
+Total
+47,928 
+65,982 
+(18,054)
+(27)
+%
+159,271 
+182,252 
+(22,981)
+(13)
+%
+Research and development expenses attributable to clinical programs decreased by $4.9 million in the three months ended September 30, 2025, primarily driven by a decrease in licensing fees for our license and collaboration agreements, partially offset by an increase in trial costs related to ongoing clinical trials. Research and development expenses attributable to clinical programs remained flat in the nine months ended September 30, 2025, primarily driven by an increase in licensing fees for our license and collaboration agreements, partially offset by decreases in trial costs due to our resource prioritization and efficiency efforts.
+Research and development expenses attributed to preclinical programs decreased by $12.5 and $9.3 million in the three and nine months ended September 30, 2025, respectively, primarily driven by a decrease in licensing fees for our license and collaboration agreements. 
+Although we manage our external research and development expenses by program, we do not allocate our internal research and development expenses by program because our employees and internal resources may be engaged in projects for multiple programs at any given time. 
+Selling, General, and Administrative Expenses 
+The following table presents our selling, general, and administrative expenses by category ($ in thousands):
+Three Months Ended September 30,
+Change
+Nine Months Ended September 30,
+Change
+2025
+2024
+$
+%
+2025
+2024
+$
+%
+Personnel compensation and related costs
+41,320 
+39,984 
+1,336 
+3 
+%
+124,642 
+134,157 
+(9,515)
+(7)
+%
+Other costs
+28,786 
+27,235 
+1,551 
+6 
+%
+79,924 
+81,966 
+(2,042)
+(2)
+%
+Total
+70,106 
+67,219 
+2,887 
+4 
+%
+204,566 
+216,123 
+(11,557)
+(5)
+%
+Selling, general, and administrative expenses increased by $2.9 million in the three months ended September 30, 2025 primarily driven by higher general selling expenses to support the growth of NUZYRA and VYVGART, partially offset by decreases in selling expenses related to ZEJULA. Selling, general, and administrative expenses decreased by $11.6 million in the nine months ended September 30, 2025, primarily due to our resource prioritization and efficiency efforts.
+Interest Income 
+Interest income decreased by $0.7 million and $2.2 million in the three and nine months ended September 30, 2025, respectively, primarily due to decreased interest rates.
+Interest Expenses 
+Interest expense increased by $0.7 million and $2.5 million in the three and nine months ended September 30, 2025, respectively, primarily due to higher levels of short-term debt.
+24
+Foreign Currency Gains
+Foreign currency gains were $6.4 million and $9.9 million in the three and nine months ended September 30, 2025, respectively, compared to $14.5 million and $8.3 million in the three and nine months ended September 30, 2024, respectively. The foreign currency gains were primarily driven by remeasurement gains due to appreciation of the RMB against the U.S. dollar.
+Other Income (Expense), Net 
+Other expense, net was $0.5 million in the three months ended September 30, 2025, compared to other income, net of $3.4 million in the three months ended September 30, 2024, primarily due to a decrease in government grants.
+Other income decreased by $0.8 million to $3.0 million in the nine months ended September 30, 2025, primarily due to decreased loss on our equity investment in MacroGenics offset by a decrease in government grants.
+Income Tax Expense 
+Income tax expense was nil in both the three and nine months ended September 30, 2025 and 2024.
+Net Loss
+Net loss was $36.0 million in the three months ended September 30, 2025, or a loss per ordinary share attributable to stockholders of $0.03 (or loss per ADS of $0.33), compared to a net loss of $41.7 million in the three months ended September 30, 2024, or a loss per ordinary share of $0.04 (or loss per ADS of $0.42). 
+Net loss was $125.1 million in the nine months ended September 30, 2025, or a loss per ordinary share attributable to stockholders of $0.11 (or loss per ADS of $1.15), compared to a net loss of $175.4 million in the nine months ended September 30, 2024, or a loss per ordinary share of $0.18 (or loss per ADS of $1.80). 
+Critical Accounting Policies and Significant Judgments and Estimates 
+We prepare our financial statements in conformity with U.S. GAAP, which requires management to make judgments, estimates, and assumptions that affect the reported amounts of assets, liabilities, revenues, expenses, and related disclosures. Some of those judgments can be subjective and complex. Actual results could differ from our estimates. 
+Our most critical accounting policies and estimates, including those that require the most difficult, subjective, or complex judgments and are the most inherently uncertain, are described below. 
+Revenue Recognition 
+We sell our products to distributors (our customers), who ultimately sell the products to healthcare providers, primarily in mainland China. We recognize revenue when the performance obligations are satisfied upon the product’s delivery to distributors. 
+We offer rebates to our distributors to compensate the distributors consistent with pharmaceutical industry practices. We are required to establish a provision for rebates in the same period the related product sales are recognized. The estimated amount of rebates, if any, is recorded as a reduction of revenue.
+Significant judgments are required in making these estimates. In determining the appropriate accrual amount, we consider our contracted rates, sales volumes, levels of distributor inventories, and historical experiences and trends. If actual results vary from our estimates or our expectations change, we will adjust these estimates accordingly, which would affect net product revenue and earnings in the period such variances become expected or known. 
+25
+Research and Development Expenses 
+We have a significant amount of research and development expenses, including with respect to pre-clinical and clinical trials for our product candidates. Such costs are expensed as incurred when they have no alternative future uses. 
+We contract with third parties to perform various pre-clinical and clinical trial activities on our behalf in the ongoing development of our product candidates. Expenses related to pre-clinical and clinical trial activities are accrued based on the Company’s estimates of the actual services performed by the third parties, such as CROs and CMOs.
+Significant judgments are required in estimating the actual services performed by the third parties for the respective period and the related expense accruals. In determining the appropriate accrual, we consider a variety of factors, including contractual requirements with respect to services to be provided, related rates, and our assessment of services performed during the period and progress with respect to any contractual milestones when we have not yet been invoiced or otherwise notified by third parties of actual costs. If the actual status and timing of services performed vary from our estimates, our reported expenses and earnings for the corresponding period may be affected.  
+Share-Based Compensation 
+We grant share-based awards, including share options and restricted shares, to eligible employees, non-employees, and directors. Such share-based awards are measured at grant date fair value. 
+Significant assumptions are required in determining the fair value of share options, which we estimate using the Black-Scholes option valuation model. These assumptions include: (i) the volatility of our ADS price, (ii) the periods of time over which grantees are expected to hold their options prior to exercise (expected term), (iii) the expected dividend yield on our ADSs, and (iv) risk-free interest rates. Since we do not have sufficient historical information to develop reasonable expectations about future exercise patterns and post-vesting employment termination behavior, the expected term is derived from the average midpoint between the weighted-average vesting and the contractual term, also known as the simplified method. The expected dividend yield is zero as we have never paid dividends and do not currently anticipate paying any in the foreseeable future, and risk-free interest rates are based on quoted U.S. Treasury rates for securities with maturities approximating the expected term. If actual results vary from our estimates or our expectations change, our reported expenses and earnings for the corresponding period may be affected.
+Income Taxes 
+We recognize deferred tax assets and liabilities for temporary differences between the financial statement and income tax bases of assets and liabilities, which are measured using enacted tax rates and laws that will be in effect when the differences are expected to reverse. A valuation allowance is provided when it is more likely than not that some or all of a deferred tax asset will not be realized. Significant judgements are required when evaluating tax positions in accordance with ASC 740, 
+Income Taxes
+. 
+We recognize in our financial statements the benefit of a tax position if the tax position is “more likely than not” to prevail based on the facts and technical merits of the position. Tax positions that meet the “more likely than not” recognition threshold are measured at the largest amount of tax benefit that has a greater than fifty percent likelihood of being realized upon settlement. We estimate our liability for unrecognized tax benefits which are periodically assessed and may be affected by changing interpretations of laws, rulings by tax authorities, changes and/or developments with respect to tax audits, and the expiration of the applicable statute of limitations. The ultimate outcome for a particular tax position may not be determined with certainty prior to the conclusion of a tax audit and, in some cases, appeal or litigation process.
+We consider positive and negative evidence when determining whether some or all of our deferred tax assets will not be realized. This assessment considers various factors, including the nature, frequency, and severity of current and cumulative losses, forecasts of future profitability, the duration of statutory carry-forward periods, our historical results of operations, and our tax planning strategies. The ultimate realization of deferred tax assets is dependent upon the generation of future taxable income during the periods in which those temporary differences become deductible. Our estimates may be affected by changing interpretations of laws, rulings by tax authorities, changes and/or developments with respect to tax audits, and expiration of the statute of limitations. If actual benefits vary from our estimates or our expectations change, we 
+26
+will adjust the recognition and measurement estimates accordingly, which would affect reported expenses and earnings in the corresponding period.
+Liquidity and Capital Resources 
+To date, we have financed our activities primarily through private placements and public offerings, including our September 2017 initial public offering and various follow-on offerings on Nasdaq and our September 2020 secondary listing and initial public offering on the Hong Kong Stock Exchange. We have raised approximately $164.6 million in private equity financing and approximately $2,677.8 million in net proceeds from public offerings after deducting underwriting commissions and the offering expenses payable by us. Our operations have consumed substantial amounts of cash since inception. The net cash used in our operating activities was $124.8 million and $159.1 million in the nine months ended September 30, 2025 and 2024, respectively. For information on our research and development activities and related expenditures, see the 
+Research and Development Expenses, Selling, General, and Administrative Expenses, License and Collaboration Arrangements,
+ and 
+Results of Operations
+ sections above. In addition, as of September 30, 2025, we had commitments of $0.7 million related to commercial manufacturing development activities and capital expenditures.
+We have also identified opportunities to access capital through debt arrangements on favorable commercial terms. As of September 30, 2025, we had such debt arrangements with Chinese financial institutions that allow certain of our subsidiaries to borrow up to approximately $275.4 million (or RMB1,971.7 million) to support our working capital needs in mainland China. As of September 30, 2025, we had short-term debt outstanding of $203.0 million (or RMB1,442.6 million) pursuant to these debt arrangements. These debt arrangements provide us with additional capital capacity that will give us enhanced flexibility to execute on our corporate strategic goals. For more information, see 
+Note 10
+. In addition, after the third quarter, we entered into a new facility with a Chinese financial institution that will allow certain of our subsidiaries to borrow up to an additional RMB300 million (approximately $42.1 million). For more information, see 
+Note 19
+.
+As of September 30, 2025, we had cash and cash equivalents, current restricted cash, and short-term investments of $817.2 million, which we expect will enable us to meet our cash requirements including the funding of operating expenses, capital expenditures, and debt obligations for at least the next 12 months. 
+Although we believe that we have sufficient capital to fund our operations for at least the next twelve months, we may, from time to time, utilize debt arrangements on favorable commercial terms or consider additional funding sources to bring to fruition our strategic objectives. There can be no assurances that such funding will be made available to us on acceptable terms or at all. 
+The following table presents information regarding our cash flows ($ in thousands): 
+Nine Months Ended
+September 30,
+Change
+2025
+2024
+$
+Net cash used in operating activities
+(124,767)
+(159,100)
+34,333 
+Net cash provided by (used in) investing activities
+319,162 
+(27,439)
+346,601 
+Net cash provided by financing activities
+72,783 
+112,077 
+(39,294)
+Effect of foreign exchange rate changes on cash, cash equivalents and restricted cash
+311 
+402 
+(91)
+Net increase (decrease) in cash, cash equivalents and restricted cash
+267,489 
+(74,060)
+341,549 
+Net Cash Used in Operating Activities 
+Net cash used in operating activities decreased by $34.3 million in the nine months ended September 30, 2025, primarily due to a decrease of $50.3 million in net loss, partially offset by a decrease of $8.2 million in other adjustments to reconcile net loss to net cash used in operating activities and $7.8 million in net changes in operating assets and liabilities.
+27
+Net Cash Provided by Investing Activities 
+Net cash provided by investing activities increased by $346.6 million in the nine months ended September 30, 2025, primarily due to an increase of $313.7 million in proceeds from the maturity of short-term investments, a decrease of $36.0 million from acquisitions of intangible assets, and an increase of $1.2 million in proceeds from the sale of our equity investment in MacroGenics, partially offset by an increase of $4.4 million in purchases of property and equipment.
+Net Cash Provided by Financing Activities 
+Net cash provided by financing activities decreased by $39.3 million in the nine months ended September 30, 2025, primarily due to an increase of $116.7 million in repayment of short-term bank borrowings and $8.2 million in employee taxes paid related to net share settlement of equity awards, partially offset by an increase of $74.3 million in short-term debt proceeds and $12.1 million in proceeds from exercises of stock options.
+Recently Issued Accounting Standards
+
+For more information regarding recently issued accounting standards, see 
+Part II – Item 8. Financial Statements and Supplementary Data – Recent Accounting Pronouncements
+ in our 2024 Annual Report. The Company has not adopted any new accounting standards in the three and nine months ended September 30, 2025.
+Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+We are exposed to market risk including foreign exchange risk, credit risk, and interest rate risk. 
+Foreign Exchange Risk 
+Renminbi, or RMB, is not a freely convertible currency. The State Administration of Foreign Exchange, under the authority of the People’s Bank of China, controls the conversion of RMB into foreign currencies. The value of RMB is subject to changes in central government policies and to international economic and political developments affecting supply and demand in the China Foreign Exchange Trading System market. The cash and cash equivalents of the Company included aggregated amounts of $25.6 million and $19.0 million, which were denominated in RMB, representing 4% and 4% of the cash and cash equivalents as of September 30, 2025 and December 31, 2024, respectively. 
+While our financial statements are presented in U.S. dollars, our business mainly operates in mainland China with a significant portion of our transactions settled in RMB, and as such, we do not believe that we currently have significant direct foreign exchange risk and have not used derivative financial instruments to hedge our exposure to such risk. Although, in general, our exposure to foreign exchange risk should be limited, the value of your investment in our ADSs and ordinary shares will be affected by the exchange rate between the U.S. dollar and the RMB and between the HK dollar and the RMB, respectively, because the value of our business is effectively denominated in RMB, while ADSs and ordinary shares are traded in U.S. dollars and HK dollars, respectively. 
+The value of the RMB against the U.S. dollar and other currencies may fluctuate and is affected by, among other things, changes in Greater China’s political and economic conditions. The conversion of RMB into foreign currencies, including U.S. dollars, has been based on rates set by the People’s Bank of China. 
+The value of our ADSs and our ordinary shares will be affected by the foreign exchange rates between U.S. dollars, HK dollars, and the RMB. For example, to the extent that we need to convert U.S. dollars or HK dollars into RMB for our operations or if any of our arrangements with other parties are denominated in U.S. dollars or HK dollars and need to be converted into RMB, appreciation of the RMB against the U.S. dollar or the HK dollar would have an adverse effect on the RMB amount we receive from the conversion. Conversely, if we decide to convert RMB into U.S. dollars or HK dollars for the purpose of making payments for dividends on ordinary shares or ADSs or for other business purposes, appreciation of the U.S. dollar or the HK dollar against the RMB would have a negative effect on the conversion amounts available to us. 
+Since 1983, the Hong Kong Monetary Authority has pegged the HK dollar to the U.S. dollar at the rate of approximately HK$7.80 to US$1.00. However, there is no assurance that the HK dollar will continue to be pegged to the U.S. dollar or that the HK dollar conversion rate will remain at HK$7.80 to US$1.00. If the HK dollar conversion rate 
+28
+against the U.S. dollar changes and the value of the HK dollar depreciates against the U.S. dollar, our assets denominated in HK dollars will be adversely affected. Additionally, if the Hong Kong Monetary Authority were to repeg the HK dollar to, for example, the RMB rather than the U.S. dollar, or otherwise restrict the conversion of HK dollars into other currencies, then our assets denominated in HK dollars will be adversely affected. 
+Credit Risk 
+Financial instruments that are potentially subject to significant concentration of credit risk consist of cash and cash equivalents, restricted cash, short-term investments, accounts receivable, and notes receivable. 
+The carrying amounts of cash and cash equivalents and short-term investments represent the maximum amount of losses due to credit risk. As of September 30, 2025 and December 31, 2024, we had cash and cash equivalents of $717.2 million and $449.7 million, respectively, restricted cash of $101.1 million and $101.1 million, respectively, and short-term investments of nil and $330.0 million, respectively. As of September 30, 2025 and December 31, 2024, all of our cash and cash equivalents, restricted cash, and short-term investments were held by major financial institutions located in mainland China and international financial institutions outside of mainland China which we believe are of high credit quality and for which we monitor continued credit worthiness. 
+Accounts receivable are typically unsecured and are derived from product revenue. We manage credit risk related to our accounts receivable through ongoing monitoring of outstanding balances and limiting the amount of credit extended based upon payment history and credit worthiness. Historically, we have collected receivables from customers within the credit terms with no significant credit losses incurred. As of September 30, 2025, our two largest customers accounted for approximately 19% of our total accounts receivable collectively. 
+Certain accounts receivable balances are settled in the form of notes receivable. As of September 30, 2025, such notes receivable included bank acceptance promissory notes that are non-interest bearing and due within six months. These notes receivable were used to collect the receivables based on an administrative convenience, given these notes are readily convertible to known amounts of cash. In accordance with the sales agreements, whether to use cash or bank acceptance promissory notes to settle the receivables is at our discretion, and this selection does not impact the agreed contractual purchase prices. 
+Interest Rate Risk
+We are exposed to risks related to changes in interest rates on our cash and cash equivalents, restricted cash, and short-term investments. As of September 30, 2025 and December 31, 2024, we had cash and cash equivalents of $717.2 million and $449.7 million, respectively, restricted cash of $101.1 million and $101.1 million, respectively, and short-term investments of nil and $330.0 million, respectively. Our investment portfolio, which relates to cash equivalents and short-term investments, primarily consists of time deposits. The primary objectives of our investment activities are to preserve principal, provide liquidity, and maximize income without significantly increasing risk. Given the short‑term nature of our deposits and investments, we believe that a sudden change in market interest rates would not be expected to have a material impact on our financial condition and/or results of operation. For example, a hypothetical 10% relative change in interest rates during any of the periods presented would not have a material impact on future interest income.
+We are also exposed to risks related to changes in interest rates on our short-term debt, which is currently subject to a mix of fixed and floating interest rates. As of September 30, 2025 and December 31, 2024, we had short-term debt of $203.0 million and $131.7 million, respectively. A 100-basis point increase in interest rates would not materially increase our interest expense. Our interest rate exposure from short-term debt is also offset by our exposure in cash and cash equivalents, restricted cash, and short-term investments, as discussed above. For more information on our short-term debt, see 
+Note 10
+.
+29
+Item 4. Controls and Procedures 
+Management’s Evaluation of Our Disclosure Controls and Procedures 
+Our management, including our Chief Executive Officer and Chief Financial Officer, performed an evaluation of the effectiveness of our disclosure controls and procedures (as defined in Exchange Act Rule 13a-15(e)) as of the end of the period covered by this report. Our disclosure controls and procedures are designed to ensure that the information required to be disclosed in the reports that we file or furnish under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the SEC’s rules and forms and that such information is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, to allow timely decisions regarding required disclosure. Any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objective. Based upon that evaluation, our management has concluded that, as of September 30, 2025, our disclosure controls and procedures were effective. 
+Changes in Internal Control over Financial Reporting 
+There were no changes in our internal control over financial reporting (as such item is defined in Rules 13a-15(f)) during the fiscal quarter ended September 30, 2025 that materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+30
+PART II - OTHER INFORMATION 
+Item 1. Legal Proceedings. 
+We may be, from time to time, subject to claims and suits arising in the ordinary course of business. We are not currently a party to any material legal or administrative proceedings. 
+Item 1A. Risk Factors. 
+We are subject to risks and uncertainties that could, directly or indirectly, adversely affect our business, results of operations, financial condition, liquidity, cash flows, strategies, and/or prospects. There have been no material changes in our risk factors from those disclosed in the “Risk Factors” section of our 2024 Annual Report.
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds. 
+Recent Sales of Unregistered Securities
+None. 
+Issuer Purchases of Equity Securities
+
+The following table presents acquisitions of the Company’s ADSs to satisfy tax withholding obligations due in connection with exercise of option shares or vesting of restricted shares during the third quarter of 2025:
+Period
+Total Number of Shares (or Units) Purchased
+Average Price Paid per Share (or Unit)
+Total Number of Shares (or Units) Purchased as Part of Publicly Announced Plans or Programs
+Maximum Number (or Approximate Dollar Value) of Shares (or Units) that May Yet Be Purchased Under the Plans or Programs
+July 1 – 31, 2025
+—
+—
+August 1 – 31, 2025
+251,319 
+$
+32.59 
+—
+—
+September 1 – 30, 2025
+—
+—
+Total
+251,319 
+Item 3. Defaults Upon Senior Securities. 
+None. 
+Item 4. Mine Safety Disclosures. 
+None. 
+Item 5. Other Information. 
+Other than as described below, during the third quarter of 2025, none of the Company’s directors or executive officers (as defined in Rule 16a-1(f) under the Exchange Act) has 
+adopted
+, modified, or 
+terminated
+ a Rule 10b5-1 trading arrangement or a non-Rule 10b5-1 trading arrangement (each as defined in Item 408 of Regulation S-K).
+On 
+September 12, 2025
+, 
+F. Ty Edmondson
+, the Company’s 
+Chief Legal Officer and Corporate Secretary
+, 
+adopted
+ a new written Rule 10b5-1 trading arrangement for the sale of up to 
+42,065
+ ADSs. This Rule 10b5-1 trading arrangement is scheduled to terminate no later than 
+November 13, 2026
+.
+On 
+September 10, 2025
+, 
+William Lis
+, one of the Company’s 
+director
+s, 
+adopted
+ a new written Rule 10b5-1 trading arrangement for the sale of up to 
+15,547
+ ADSs. This Rule 10b5-1 trading arrangement is scheduled to terminate no later than 
+September 14, 2026
+.
+31
+Item 6. Exhibits.
+Exhibit Index
+Exhibit
+Number
+Exhibit Title
+10.1+
+Unofficial English Translation of Maximum-Amount Irrevocable Letter of Guarantee issued by Zai Lab Limited to China Merchants Bank Co., Ltd., Shanghai Branch dated August 6, 2025
+10.2+
+Unofficial English Translation of Credit Agreement by and between Zai Lab (Shanghai) Co., Ltd. and China Merchants Bank Co., Ltd., Shanghai Branch dated August 6, 2025
+10.3+
+Unofficial English Translation of Maximum Amount Guarantee Contract, dated as of October 13, 2025, by and between Zai Lab Limited and Industrial Bank Co., Ltd., Shanghai Gubei Branch (incorporated by reference to Exhibit 10.1 to our Current Report on Form 8-K (File No. 001-38205) filed on October 16, 2025)
+10.4+
+Unofficial English Translation of Line of Credit Contract, dated as of October 13, 2025, by and between Zai Lab (Shanghai) Co., Ltd. and Industrial Bank Co., Ltd., Shanghai Gubei Branch (incorporated by reference to Exhibit 10.2 to our Current Report on Form 8-K (File No. 001-38205) filed on October 16, 2025)
+31.1
+Certification of Chief Executive Officer Required by Exchange Act Rule 13a-14(a) 
+31.2
+Certification of Chief Financial Officer Required by Exchange Act Rule 13a-14(a) 
+32.1
+Certification of Chief Executive Officer Required by 18 U.S.C. Section 1350 
+32.2
+Certification of Chief Financial Officer Required by 18 U.S.C. Section 1350 
+101.INS
+Inline XBRL Instance Document-the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+101.DEF
+Inline XBRL Taxonomy Extension Definitions Linkbase Document
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
++ Portions of this exhibit have been redacted pursuant to Item 601(b)(10)(iv) of Regulation S-K. 
+
+32
+SIGNATURES 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ZAI LAB LIMITED
+Dated: November 6, 2025
+By:
+/s/ Yajing Chen
+Name:
+Yajing Chen
+Title:
+Chief Financial Officer
+(Principal Financial and Accounting Officer)
+33

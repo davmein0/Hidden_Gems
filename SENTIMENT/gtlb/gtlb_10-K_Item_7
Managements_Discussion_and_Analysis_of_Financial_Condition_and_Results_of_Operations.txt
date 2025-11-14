@@ -1,0 +1,153 @@
+Item 7.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+65
+Item 7A.
+Quantitative and Qualitative Disclosures About Market Risk
+81
+Item 8.
+Financial Statements and Supplementary Data
+82
+Item 9.
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosures
+130
+Item 9A.
+Controls and Procedures
+131
+Item 9B.
+Other Information
+133
+Item 9C.
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+135
+Part III
+Item 10.
+Directors, Executive Officers and Corporate Governance
+136
+Item 11.
+Executive Compensation
+136
+Item 12.
+Security Ownership of Certain Beneficial Owner and Management and Related Stockholder Matters
+136
+Item 13.
+Certain Relationships and Related Transactions, and Director Independence
+136
+Item 14.
+Principal Accounting Fees and Services
+136
+Part IV
+Item 15.
+Exhibits, Financial Statement Schedules
+137
+Item 16.
+Form 10-K Summary
+139
+Signatures
+140
+1
+Table of Contents
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS
+This Annual Report on Form 10-K, or this Annual Report, contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, or the Securities Act and Section 21E of the Securities Exchange Act of 1934, as amended, or the Exchange Act. All statements contained in this Form 10-K other than statements of historical fact, including statements regarding our future operating results and financial condition, our business strategy and plans, market growth, and our objectives for future operations, are forward-looking statements. The words “believe,” “may,” “will,” “potentially,” “estimate,” “continue,” “anticipate,” “intend,” “could,” “would,” “project,” “target,” “plan,” “expect,” and similar expressions are intended to identify forward-looking statements.
+Forward-looking statements contained in this Annual Report 
+include, but are not limited to, statements about:
+•
+our future financial performance, including our expectations regarding our total revenue, cost of revenue, gross profit or gross margin, operating expenses, including changes in operating expenses and our ability to achieve and maintain future profitability;
+•
+our business plan and our ability to effectively manage our growth;
+•
+our total market opportunity;
+•
+anticipated trends, growth rates, and challenges in our business and in the markets in which we operate;
+•
+market acceptance of The DevSecOps platform and our ability to increase adoption of The DevSecOps platform;
+•
+beliefs and objectives for future operations;
+•
+our ability to further penetrate our existing customer base and attract, retain, and expand our customer base;
+•
+our ability to timely and effectively scale and adapt The DevSecOps platform;
+•
+our ability to develop new features and bring them to market in a timely manner;
+•
+our incorporation of artificial intelligence features into our products;
+•
+our expectations to grow our partner network;
+•
+our ability to maintain, protect, and enhance our intellectual property;
+•
+our ability to continue to expand internationally;
+•
+the effects of increased competition in our markets and our ability to compete effectively;
+•
+future acquisitions or investments in complementary companies, products, services, or technologies;
+•
+our ability to stay in compliance with laws and regulations that currently apply or become applicable to our business both in the United States and internationally;
+•
+the impact of any data breaches, cyberattacks or other malicious activity on our technology systems;
+•
+economic and industry trends, projected growth, or trend analysis;
+2
+Table of Contents
+•
+the impact of macroeconomic conditions, including inflation, volatile interest rates, regulatory uncertainty, including with respect to the federal budget and debt ceiling and potential government shutdowns related thereto, and increased volatility in the capital markets, and regional and other global events, including ongoing armed conflicts in different regions of the world, on our operations, financial results, and liquidity and capital resources, including on customers, sales, expenses, and team members; and
+•
+other statements regarding our future operations, financial condition, and prospects and business strategies.
+These forward-looking statements are subject to a number of risks, uncertainties, and assumptions, including those described in the section titled “Risk Factors” and else
+where in this Annual Report. Moreover, we operate in a very competitive and rapidly changing environment, and new risks emerge from time to time. It is not possible for our management to predict all risks, nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements we may make. In light of these risks, uncertainties, and assumptions, the forward-looking events and circumstances discussed in this Annual Report may not occur, and actual results could differ materially and adversely from those anticipated or implied in the forw
+ard-looking statements.
+You should not rely upon forward-looking statements as predictions of future events. The events and circumstances reflected in the forward-looking statements may not be achieved or occur. We undertake no obligation t
+o update any of these forward-looking statements for any reason after the date of this Annual Report or to conform these statements to actual results or to changes in our expectations, except as require
+d by law. 
+You should read 
+this report
+ and the documents that we reference in 
+this report
+ and have filed with the Securities and Exchange Commission, or the SEC, as exhibits to 
+this report
+ with the understanding that our actual future results, performance, and events and circumstances may be materially different from what we expect.
+Summary Risk Factors
+Our business is subject to numerous risks and uncertainties, including those risks more fully described below in the section titled “Risk Factors.” These risks include, among others, the following, which we consider our most material risks:
+•
+Our business and operations have experienced rapid growth, and if we do not appropriately and effectively manage future growth, if any, or are unable to improve our systems, processes and controls, our business, financial condition, results of operations, and prospects will be adversely affected.
+•
+Our recent growth may not be indicative of our future growth, and we may not be able to sustain our revenue growth rate in the future. Our growth also makes it difficult to evaluate our future prospects and may increase the risk that we will not be successful.
+•
+We have a history of losses, anticipate increases in our operating expenses in the future, and may not achieve or sustain profitability on a consistent basis. If we cannot achieve and sustain profitability, our business, financial condition, and operating results may be adversely affected.
+•
+Security and privacy breaches may hurt our business.
+•
+We face heightened risk of security breaches because we use third-party open source technologies and incorporate a substantial amount of open source code in our products.
+•
+We face intense competition and could lose market share to our competitors, which would adversely affect our business, operating results, and financial condition.
+3
+Table of Contents
+•
+We may not be able to respond to rapid technological changes with new solutions, which could have a material adverse effect on our operating results.
+•
+If our services fail to perform properly, whether due to material defects with the software or external issues, our reputation could be adversely affected, our market share could decline, and we could be subject to liability claims.
+•
+The market for our services is relatively new and rapidly evolving with uncertain growth expectations which would adversely affect our future results and the trading price of our Class A common stock.
+•
+We are dependent on sales and marketing strategies to drive our growth in our revenue. These sales and marketing strategies may not be successful in continuing to generate sufficient sales opportunities. Any decline in our customer renewals and expansions could harm our future operating results.
+•
+Our operating results may fluctuate significantly, which could make our future results difficult to predict and could adversely affect the trading price of our Class A common stock.
+•
+As our product offerings mature and expand, our pricing and packaging for new products may result in existing customers purchasing new products on terms less favorable to us in order to replace the products they currently purchase or subscribe for from us.
+•    The implementation of AI and machine learning technologies in our services may result in reputational harm, liability, increased expenditures, or other adverse consequences to our business operations.
+•
+Transparency is one of our core values. While we will continue to prioritize transparency, we must also promote "responsible" transparency as transparency can have unintended negative consequences.
+•
+The Handbook may not be up to date or accurate, which may result in negative third-party scrutiny or be used in ways that adversely affects our business.
+•
+Customers may choose to stay on our free self-managed or SaaS product offerings instead of converting into a paying customer.
+•
+Failure to effectively expand our marketing and sales capabilities could harm our ability to increase our customer base and achieve broader market acceptance of our services.
+•
+We rely on our management team and other key team members and will need additional personnel to grow our business, and the loss of one or more key team members or our inability to hire, integrate, train and retain qualified personnel, could harm our business.
+•
+Our corporate culture has contributed to our success, and if we cannot maintain this culture as we grow, we could lose the innovation, creativity, and teamwork fostered by our culture, and our business may be harmed. 
+•
+We engage our team members in various ways, including direct hires, through PEOs and as independent contractors. As a result of these methods of engagement, we face certain challenges and risks that can affect our business, operating results, and financial condition.
+4
+Table of Contents
+PART I

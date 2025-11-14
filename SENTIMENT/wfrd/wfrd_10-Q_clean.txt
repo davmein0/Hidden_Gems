@@ -1,0 +1,4809 @@
+wfrd-20250930
+0001603923
+12/31
+2025
+Q3
+false
+P5D
+416
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+wfrd:segment
+xbrli:pure
+0001603923
+2025-01-01
+2025-09-30
+0001603923
+2025-10-16
+0001603923
+us-gaap:ServiceMember
+2025-07-01
+2025-09-30
+0001603923
+us-gaap:ServiceMember
+2024-07-01
+2024-09-30
+0001603923
+us-gaap:ServiceMember
+2025-01-01
+2025-09-30
+0001603923
+us-gaap:ServiceMember
+2024-01-01
+2024-09-30
+0001603923
+us-gaap:ProductMember
+2025-07-01
+2025-09-30
+0001603923
+us-gaap:ProductMember
+2024-07-01
+2024-09-30
+0001603923
+us-gaap:ProductMember
+2025-01-01
+2025-09-30
+0001603923
+us-gaap:ProductMember
+2024-01-01
+2024-09-30
+0001603923
+2025-07-01
+2025-09-30
+0001603923
+2024-07-01
+2024-09-30
+0001603923
+2024-01-01
+2024-09-30
+0001603923
+2025-09-30
+0001603923
+2024-12-31
+0001603923
+2023-12-31
+0001603923
+2024-09-30
+0001603923
+us-gaap:SeriesOfIndividuallyImmaterialBusinessAcquisitionsMember
+2024-01-01
+2024-09-30
+0001603923
+us-gaap:OperatingSegmentsMember
+wfrd:DrillingandEvaluationMember
+2025-07-01
+2025-09-30
+0001603923
+us-gaap:OperatingSegmentsMember
+wfrd:WellConstructionAndCompletionMember
+2025-07-01
+2025-09-30
+0001603923
+us-gaap:OperatingSegmentsMember
+wfrd:ProductionAndInterventionMember
+2025-07-01
+2025-09-30
+0001603923
+us-gaap:MaterialReconcilingItemsMember
+2025-07-01
+2025-09-30
+0001603923
+us-gaap:CorporateNonSegmentMember
+2025-07-01
+2025-09-30
+0001603923
+us-gaap:OperatingSegmentsMember
+wfrd:DrillingandEvaluationMember
+2025-01-01
+2025-09-30
+0001603923
+us-gaap:OperatingSegmentsMember
+wfrd:WellConstructionAndCompletionMember
+2025-01-01
+2025-09-30
+0001603923
+us-gaap:OperatingSegmentsMember
+wfrd:ProductionAndInterventionMember
+2025-01-01
+2025-09-30
+0001603923
+us-gaap:MaterialReconcilingItemsMember
+2025-01-01
+2025-09-30
+0001603923
+us-gaap:CorporateNonSegmentMember
+2025-01-01
+2025-09-30
+0001603923
+us-gaap:OperatingSegmentsMember
+wfrd:DrillingandEvaluationMember
+2024-07-01
+2024-09-30
+0001603923
+us-gaap:OperatingSegmentsMember
+wfrd:WellConstructionAndCompletionMember
+2024-07-01
+2024-09-30
+0001603923
+us-gaap:OperatingSegmentsMember
+wfrd:ProductionAndInterventionMember
+2024-07-01
+2024-09-30
+0001603923
+us-gaap:MaterialReconcilingItemsMember
+2024-07-01
+2024-09-30
+0001603923
+us-gaap:CorporateNonSegmentMember
+2024-07-01
+2024-09-30
+0001603923
+us-gaap:OperatingSegmentsMember
+wfrd:DrillingandEvaluationMember
+2024-01-01
+2024-09-30
+0001603923
+us-gaap:OperatingSegmentsMember
+wfrd:WellConstructionAndCompletionMember
+2024-01-01
+2024-09-30
+0001603923
+us-gaap:OperatingSegmentsMember
+wfrd:ProductionAndInterventionMember
+2024-01-01
+2024-09-30
+0001603923
+us-gaap:MaterialReconcilingItemsMember
+2024-01-01
+2024-09-30
+0001603923
+us-gaap:CorporateNonSegmentMember
+2024-01-01
+2024-09-30
+0001603923
+wfrd:CorporateAndReconcilingItemsMember
+2025-07-01
+2025-09-30
+0001603923
+wfrd:CorporateAndReconcilingItemsMember
+2024-07-01
+2024-09-30
+0001603923
+wfrd:CorporateAndReconcilingItemsMember
+2025-01-01
+2025-09-30
+0001603923
+wfrd:CorporateAndReconcilingItemsMember
+2024-01-01
+2024-09-30
+0001603923
+us-gaap:OperatingSegmentsMember
+wfrd:DrillingandEvaluationMember
+2025-09-30
+0001603923
+us-gaap:OperatingSegmentsMember
+wfrd:DrillingandEvaluationMember
+2024-12-31
+0001603923
+us-gaap:OperatingSegmentsMember
+wfrd:WellConstructionAndCompletionMember
+2025-09-30
+0001603923
+us-gaap:OperatingSegmentsMember
+wfrd:WellConstructionAndCompletionMember
+2024-12-31
+0001603923
+us-gaap:OperatingSegmentsMember
+wfrd:ProductionAndInterventionMember
+2025-09-30
+0001603923
+us-gaap:OperatingSegmentsMember
+wfrd:ProductionAndInterventionMember
+2024-12-31
+0001603923
+wfrd:CorporateAndReconcilingItemsMember
+2025-09-30
+0001603923
+wfrd:CorporateAndReconcilingItemsMember
+2024-12-31
+0001603923
+country:US
+us-gaap:GeographicConcentrationRiskMember
+wfrd:PropertyPlantAndEquipmentAndRightOfUseAssetsMember
+2025-01-01
+2025-09-30
+0001603923
+country:US
+us-gaap:GeographicConcentrationRiskMember
+wfrd:PropertyPlantAndEquipmentAndRightOfUseAssetsMember
+2024-01-01
+2024-12-31
+0001603923
+country:SA
+us-gaap:GeographicConcentrationRiskMember
+wfrd:PropertyPlantAndEquipmentAndRightOfUseAssetsMember
+2025-01-01
+2025-09-30
+0001603923
+country:SA
+us-gaap:GeographicConcentrationRiskMember
+wfrd:PropertyPlantAndEquipmentAndRightOfUseAssetsMember
+2024-01-01
+2024-12-31
+0001603923
+srt:NorthAmericaMember
+2025-09-30
+0001603923
+srt:NorthAmericaMember
+2024-12-31
+0001603923
+srt:LatinAmericaMember
+2025-09-30
+0001603923
+srt:LatinAmericaMember
+2024-12-31
+0001603923
+wfrd:MiddleEastNorthAfricaAsiaMember
+2025-09-30
+0001603923
+wfrd:MiddleEastNorthAfricaAsiaMember
+2024-12-31
+0001603923
+wfrd:EuropeSubSaharaAfricaRussiaMember
+2025-09-30
+0001603923
+wfrd:EuropeSubSaharaAfricaRussiaMember
+2024-12-31
+0001603923
+wfrd:ArgentinianPressurePumpingBusinessMember
+2024-10-01
+2025-06-30
+0001603923
+wfrd:ArgentinianPressurePumpingBusinessMember
+2024-10-01
+2024-12-31
+0001603923
+wfrd:ArgentinianPressurePumpingBusinessMember
+2025-04-01
+2025-06-30
+0001603923
+country:US
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:RevenueFromContractWithCustomerMember
+2025-07-01
+2025-09-30
+0001603923
+country:US
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:RevenueFromContractWithCustomerMember
+2025-01-01
+2025-09-30
+0001603923
+country:SA
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:RevenueFromContractWithCustomerMember
+2025-07-01
+2025-09-30
+0001603923
+country:SA
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:RevenueFromContractWithCustomerMember
+2025-01-01
+2025-09-30
+0001603923
+country:US
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:RevenueFromContractWithCustomerMember
+2024-01-01
+2024-09-30
+0001603923
+country:US
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:RevenueFromContractWithCustomerMember
+2024-07-01
+2024-09-30
+0001603923
+country:SA
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:RevenueFromContractWithCustomerMember
+2024-01-01
+2024-09-30
+0001603923
+country:SA
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:RevenueFromContractWithCustomerMember
+2024-07-01
+2024-09-30
+0001603923
+country:MX
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:RevenueFromContractWithCustomerMember
+2024-07-01
+2024-09-30
+0001603923
+country:MX
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:RevenueFromContractWithCustomerMember
+2024-01-01
+2024-09-30
+0001603923
+country:MX
+wfrd:LargestCustomerMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:RevenueFromContractWithCustomerMember
+2024-07-01
+2024-09-30
+0001603923
+country:MX
+wfrd:LargestCustomerMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:RevenueFromContractWithCustomerMember
+2024-01-01
+2024-09-30
+0001603923
+srt:NorthAmericaMember
+2025-07-01
+2025-09-30
+0001603923
+srt:NorthAmericaMember
+2024-07-01
+2024-09-30
+0001603923
+srt:NorthAmericaMember
+2025-01-01
+2025-09-30
+0001603923
+srt:NorthAmericaMember
+2024-01-01
+2024-09-30
+0001603923
+us-gaap:NonUsMember
+2025-07-01
+2025-09-30
+0001603923
+us-gaap:NonUsMember
+2024-07-01
+2024-09-30
+0001603923
+us-gaap:NonUsMember
+2025-01-01
+2025-09-30
+0001603923
+us-gaap:NonUsMember
+2024-01-01
+2024-09-30
+0001603923
+wfrd:MiddleEastAndNorthAfricaMember
+2025-07-01
+2025-09-30
+0001603923
+wfrd:MiddleEastAndNorthAfricaMember
+2024-07-01
+2024-09-30
+0001603923
+wfrd:MiddleEastAndNorthAfricaMember
+2025-01-01
+2025-09-30
+0001603923
+wfrd:MiddleEastAndNorthAfricaMember
+2024-01-01
+2024-09-30
+0001603923
+srt:LatinAmericaMember
+2025-07-01
+2025-09-30
+0001603923
+srt:LatinAmericaMember
+2024-07-01
+2024-09-30
+0001603923
+srt:LatinAmericaMember
+2025-01-01
+2025-09-30
+0001603923
+srt:LatinAmericaMember
+2024-01-01
+2024-09-30
+0001603923
+wfrd:EuropeSubSaharaAfricaRussiaMember
+2025-07-01
+2025-09-30
+0001603923
+wfrd:EuropeSubSaharaAfricaRussiaMember
+2024-07-01
+2024-09-30
+0001603923
+wfrd:EuropeSubSaharaAfricaRussiaMember
+2025-01-01
+2025-09-30
+0001603923
+wfrd:EuropeSubSaharaAfricaRussiaMember
+2024-01-01
+2024-09-30
+0001603923
+us-gaap:ProductAndServiceOtherMember
+2025-09-30
+0001603923
+us-gaap:ProductAndServiceOtherMember
+2024-12-31
+0001603923
+wfrd:EquipmentRentalsMember
+2025-09-30
+0001603923
+wfrd:EquipmentRentalsMember
+2024-12-31
+0001603923
+us-gaap:CostOfSalesMember
+2025-07-01
+2025-09-30
+0001603923
+us-gaap:CostOfSalesMember
+2025-01-01
+2025-09-30
+0001603923
+us-gaap:CostOfSalesMember
+2024-07-01
+2024-09-30
+0001603923
+us-gaap:CostOfSalesMember
+2024-01-01
+2024-09-30
+0001603923
+wfrd:DevelopedAndAcquiredTechnologyRightsMember
+2025-09-30
+0001603923
+wfrd:DevelopedAndAcquiredTechnologyRightsMember
+2024-12-31
+0001603923
+us-gaap:TradeNamesMember
+2025-09-30
+0001603923
+us-gaap:TradeNamesMember
+2024-12-31
+0001603923
+wfrd:SeniorNotes8625PercentDue2030Member
+us-gaap:SeniorNotesMember
+2021-10-27
+0001603923
+wfrd:SeniorNotes8625PercentDue2030Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0001603923
+wfrd:SeniorNotes8625PercentDue2030Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0001603923
+wfrd:SeniorSecuredNotesDue2028Member
+us-gaap:SeniorNotesMember
+2021-09-30
+0001603923
+wfrd:SeniorNotes8625PercentDue2030Member
+us-gaap:SeniorNotesMember
+2025-07-01
+2025-09-30
+0001603923
+wfrd:SeniorNotes8625PercentDue2030Member
+us-gaap:SeniorNotesMember
+2025-01-01
+2025-09-30
+0001603923
+wfrd:SeniorNotes8625PercentDue2030Member
+us-gaap:SeniorNotesMember
+2025-09-22
+0001603923
+wfrd:SeniorNotes8625PercentDue2030Member
+us-gaap:SeniorNotesMember
+us-gaap:SubsequentEventMember
+2025-10-07
+2025-10-07
+0001603923
+wfrd:SeniorNotes8625PercentDue2030Member
+us-gaap:SeniorNotesMember
+us-gaap:SubsequentEventMember
+2025-10-20
+2025-10-20
+0001603923
+wfrd:SeniorNotes8625PercentDue2030Member
+us-gaap:SeniorNotesMember
+us-gaap:SubsequentEventMember
+2025-10-20
+0001603923
+wfrd:SeniorNotesDue2033Member
+us-gaap:SeniorNotesMember
+us-gaap:SubsequentEventMember
+2025-10-06
+0001603923
+wfrd:CreditAgreementMember
+us-gaap:LineOfCreditMember
+2024-12-31
+0001603923
+wfrd:CreditAgreementMember
+us-gaap:LineOfCreditMember
+2025-09-30
+0001603923
+wfrd:CreditAgreementMember
+us-gaap:LineOfCreditMember
+2025-09-18
+0001603923
+wfrd:RevolvingCreditFacilityOrFinancialLettersOfCreditMember
+wfrd:CreditAgreementMember
+us-gaap:LineOfCreditMember
+2025-09-18
+0001603923
+wfrd:PerformanceLettersOfCreditMember
+wfrd:CreditAgreementMember
+us-gaap:LineOfCreditMember
+2025-09-18
+0001603923
+wfrd:FinancialLettersOfCreditMember
+wfrd:CreditAgreementMember
+2025-09-30
+0001603923
+wfrd:PerformanceLettersOfCreditMember
+wfrd:CreditAgreementMember
+2025-09-30
+0001603923
+wfrd:UncommittedLettersofCreditMember
+wfrd:CreditAgreementMember
+2025-09-30
+0001603923
+wfrd:FinancialLettersOfCreditMember
+wfrd:CreditAgreementMember
+2024-12-31
+0001603923
+wfrd:PerformanceLettersOfCreditMember
+wfrd:CreditAgreementMember
+2024-12-31
+0001603923
+wfrd:UncommittedLettersofCreditMember
+wfrd:CreditAgreementMember
+2024-12-31
+0001603923
+wfrd:SeniorNotes8625PercentDue2030Member
+2025-09-30
+0001603923
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueInputsLevel2Member
+wfrd:SeniorNotes8625PercentDue2030Member
+us-gaap:SeniorNotesMember
+2025-09-30
+0001603923
+wfrd:SeniorNotes8625PercentDue2030Member
+2024-12-31
+0001603923
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueInputsLevel2Member
+wfrd:SeniorNotes8625PercentDue2030Member
+us-gaap:SeniorNotesMember
+2024-12-31
+0001603923
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2025-09-30
+0001603923
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001603923
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2024-12-31
+0001603923
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0001603923
+us-gaap:CommonStockMember
+2024-12-31
+0001603923
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0001603923
+us-gaap:RetainedEarningsMember
+2024-12-31
+0001603923
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-31
+0001603923
+us-gaap:NoncontrollingInterestMember
+2024-12-31
+0001603923
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-03-31
+0001603923
+us-gaap:NoncontrollingInterestMember
+2025-01-01
+2025-03-31
+0001603923
+2025-01-01
+2025-03-31
+0001603923
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0001603923
+us-gaap:AdditionalPaidInCapitalMember
+2025-01-01
+2025-03-31
+0001603923
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-01-01
+2025-03-31
+0001603923
+us-gaap:CommonStockMember
+2025-03-31
+0001603923
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-31
+0001603923
+us-gaap:RetainedEarningsMember
+2025-03-31
+0001603923
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-03-31
+0001603923
+us-gaap:NoncontrollingInterestMember
+2025-03-31
+0001603923
+2025-03-31
+0001603923
+us-gaap:RetainedEarningsMember
+2025-04-01
+2025-06-30
+0001603923
+us-gaap:NoncontrollingInterestMember
+2025-04-01
+2025-06-30
+0001603923
+2025-04-01
+2025-06-30
+0001603923
+us-gaap:AdditionalPaidInCapitalMember
+2025-04-01
+2025-06-30
+0001603923
+us-gaap:CommonStockMember
+2025-04-01
+2025-06-30
+0001603923
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-04-01
+2025-06-30
+0001603923
+us-gaap:CommonStockMember
+2025-06-30
+0001603923
+us-gaap:AdditionalPaidInCapitalMember
+2025-06-30
+0001603923
+us-gaap:RetainedEarningsMember
+2025-06-30
+0001603923
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-06-30
+0001603923
+us-gaap:NoncontrollingInterestMember
+2025-06-30
+0001603923
+2025-06-30
+0001603923
+us-gaap:RetainedEarningsMember
+2025-07-01
+2025-09-30
+0001603923
+us-gaap:NoncontrollingInterestMember
+2025-07-01
+2025-09-30
+0001603923
+us-gaap:AdditionalPaidInCapitalMember
+2025-07-01
+2025-09-30
+0001603923
+us-gaap:CommonStockMember
+2025-07-01
+2025-09-30
+0001603923
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-07-01
+2025-09-30
+0001603923
+us-gaap:CommonStockMember
+2025-09-30
+0001603923
+us-gaap:AdditionalPaidInCapitalMember
+2025-09-30
+0001603923
+us-gaap:RetainedEarningsMember
+2025-09-30
+0001603923
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-09-30
+0001603923
+us-gaap:NoncontrollingInterestMember
+2025-09-30
+0001603923
+us-gaap:CommonStockMember
+2023-12-31
+0001603923
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-31
+0001603923
+us-gaap:RetainedEarningsMember
+2023-12-31
+0001603923
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-12-31
+0001603923
+us-gaap:NoncontrollingInterestMember
+2023-12-31
+0001603923
+us-gaap:RetainedEarningsMember
+2024-01-01
+2024-03-31
+0001603923
+us-gaap:NoncontrollingInterestMember
+2024-01-01
+2024-03-31
+0001603923
+2024-01-01
+2024-03-31
+0001603923
+us-gaap:CommonStockMember
+2024-01-01
+2024-03-31
+0001603923
+us-gaap:AdditionalPaidInCapitalMember
+2024-01-01
+2024-03-31
+0001603923
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-01-01
+2024-03-31
+0001603923
+us-gaap:CommonStockMember
+2024-03-31
+0001603923
+us-gaap:AdditionalPaidInCapitalMember
+2024-03-31
+0001603923
+us-gaap:RetainedEarningsMember
+2024-03-31
+0001603923
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-03-31
+0001603923
+us-gaap:NoncontrollingInterestMember
+2024-03-31
+0001603923
+2024-03-31
+0001603923
+us-gaap:RetainedEarningsMember
+2024-04-01
+2024-06-30
+0001603923
+us-gaap:NoncontrollingInterestMember
+2024-04-01
+2024-06-30
+0001603923
+2024-04-01
+2024-06-30
+0001603923
+us-gaap:AdditionalPaidInCapitalMember
+2024-04-01
+2024-06-30
+0001603923
+us-gaap:CommonStockMember
+2024-06-30
+0001603923
+us-gaap:AdditionalPaidInCapitalMember
+2024-06-30
+0001603923
+us-gaap:RetainedEarningsMember
+2024-06-30
+0001603923
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-06-30
+0001603923
+us-gaap:NoncontrollingInterestMember
+2024-06-30
+0001603923
+2024-06-30
+0001603923
+us-gaap:RetainedEarningsMember
+2024-07-01
+2024-09-30
+0001603923
+us-gaap:NoncontrollingInterestMember
+2024-07-01
+2024-09-30
+0001603923
+us-gaap:AdditionalPaidInCapitalMember
+2024-07-01
+2024-09-30
+0001603923
+us-gaap:CommonStockMember
+2024-07-01
+2024-09-30
+0001603923
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-07-01
+2024-09-30
+0001603923
+us-gaap:CommonStockMember
+2024-09-30
+0001603923
+us-gaap:AdditionalPaidInCapitalMember
+2024-09-30
+0001603923
+us-gaap:RetainedEarningsMember
+2024-09-30
+0001603923
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-09-30
+0001603923
+us-gaap:NoncontrollingInterestMember
+2024-09-30
+0001603923
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-12-31
+0001603923
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2024-12-31
+0001603923
+us-gaap:AccumulatedTranslationAdjustmentMember
+2025-01-01
+2025-09-30
+0001603923
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2025-01-01
+2025-09-30
+0001603923
+us-gaap:AccumulatedTranslationAdjustmentMember
+2025-09-30
+0001603923
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2025-09-30
+0001603923
+us-gaap:AccumulatedTranslationAdjustmentMember
+2023-12-31
+0001603923
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2023-12-31
+0001603923
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-01-01
+2024-09-30
+0001603923
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2024-01-01
+2024-09-30
+0001603923
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-09-30
+0001603923
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2024-09-30
+0001603923
+us-gaap:StockCompensationPlanMember
+2025-07-01
+2025-09-30
+0001603923
+us-gaap:StockCompensationPlanMember
+2024-07-01
+2024-09-30
+0001603923
+us-gaap:StockCompensationPlanMember
+2025-01-01
+2025-09-30
+0001603923
+us-gaap:StockCompensationPlanMember
+2024-01-01
+2024-09-30
+0001603923
+2024-10-01
+2024-12-31
+0001603923
+us-gaap:CreditDefaultSwapMember
+2025-01-01
+2025-09-30
+0001603923
+us-gaap:CreditDefaultSwapMember
+2025-09-30
+0001603923
+us-gaap:CreditDefaultSwapMember
+2024-12-31
+0001603923
+us-gaap:SubsequentEventMember
+2025-10-15
+2025-10-15
+0001603923
+wfrd:KristinRuzickaMember
+2025-07-01
+2025-09-30
+0001603923
+wfrd:KristinRuzickaMember
+2025-09-30
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+(Mark One)
+Form
+10-Q
+☑
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+September 30, 2025
+or
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from __________________________________to __________________________________
+Commission file number
+001-36504
+Weatherford International plc
+(Exact Name of Registrant as Specified in Its Charter)
+
+Ireland
+98-0606750
+(State or Other Jurisdiction of Incorporation or Organization)
+(I.R.S. Employer Identification No.)
+2000 St. James Place
+,
+Houston
+,
+Texas
+77056
+(Address of Principal Executive Offices)
+(Zip Code)
+Registrant’s Telephone Number, Including Area Code: 
+713
+.
+836.4000
+
+N/A
+(Former Name, Former Address and Former Fiscal Year, if Changed Since Last Report)
+Securities registered pursuant to Section 12(b) of the Act: 
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Ordinary shares, $0.001 par value per share
+WFRD
+The Nasdaq Global Select Market
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.                      
+Yes
+
+þ
+ No 
+¨
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).                                     
+Yes
+
+þ
+ No 
+¨
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☑
+Accelerated filer
+☐
+Non-accelerated filer
+☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+¨
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes 
+☐
+
+No 
+þ
+As of October 16, 2025, there were 
+71,730,033
+ Weatherford ordinary shares, $0.001 par value per share, outstanding.
+Weatherford International public limited company
+Form 10-Q for the Third Quarter Ended September 30, 2025 
+TABLE OF CONTENTS
+PAGE
+PART I – FINANCIAL INFORMATION
+Item 1. Financial Statements.
+2
+Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations.
+21
+Item 3. Quantitative and Qualitative Disclosures About Market Risk.
+36
+Item 4. Controls and Procedures.
+36
+PART II – OTHER INFORMATION
+Item 1. Legal Proceedings.
+38
+Item 1A. Risk Factors.
+38
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+38
+Item 3. Defaults Upon Senior Securities.
+38
+Item 4. Mine Safety Disclosures
+.
+38
+Item 5. Other Information.
+39
+Item 6. Exhibits.
+39
+SIGNATURES
+40
+1
+Table of Contents
+PART I 
+–
+ FINANCIAL INFORMATION
+Item 1. Financial Statements.
+WEATHERFORD INTERNATIONAL PLC AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (UNAUDITED)
+Three Months Ended
+Nine Months Ended
+September 30,
+September 30,
+(Dollars and shares in millions, except per share amounts)
+2025
+2024
+2025
+2024
+Revenue: 
+Services
+$
+760
+
+$
+869
+
+$
+2,233
+
+$
+2,596
+
+Products
+472
+
+540
+
+1,396
+
+1,576
+
+Total Revenue
+1,232
+
+1,409
+
+3,629
+
+4,172
+
+Costs and Expenses:
+Cost of Services
+490
+
+523
+
+1,418
+
+1,550
+
+Cost of Products
+354
+
+394
+
+1,074
+
+1,142
+
+Research and Development
+27
+
+33
+
+86
+
+95
+
+Selling, General and Administrative
+169
+
+203
+
+494
+
+624
+
+Gain on Sale of Business
+—
+
+—
+
+(
+70
+)
+—
+
+Restructuring Charges
+11
+
+—
+
+51
+
+8
+
+Other Charges, Net
+3
+
+13
+
+19
+
+13
+
+Total Costs and Expenses
+1,054
+
+1,166
+
+3,072
+
+3,432
+
+Operating Income
+178
+
+243
+
+557
+
+740
+
+Other Expense:
+Interest Expense, Net of Interest Income of $
+11
+, $
+13
+, $
+36
+ and $
+44
+(
+23
+)
+(
+24
+)
+(
+70
+)
+(
+77
+)
+Loss on Blue Chip Swap Securities
+—
+
+—
+
+(
+1
+)
+(
+10
+)
+Other Expense, Net
+(
+16
+)
+(
+41
+)
+(
+60
+)
+(
+83
+)
+Income Before Income Taxes 
+139
+
+178
+
+426
+
+570
+
+Income Tax Provision
+(
+52
+)
+(
+12
+)
+(
+108
+)
+(
+144
+)
+Net Income
+87
+
+166
+
+318
+
+426
+
+Net Income Attributable to Noncontrolling Interests
+6
+
+9
+
+25
+
+32
+
+Net Income Attributable to Weatherford
+$
+81
+
+$
+157
+
+$
+293
+
+$
+394
+
+Basic Income per Share
+$
+1.13
+
+$
+2.14
+
+$
+4.04
+
+$
+5.39
+
+Basic Weighted Average Shares Outstanding
+71.9
+
+73.2
+
+72.4
+
+73.1
+
+Diluted Income per Share
+$
+1.12
+
+$
+2.06
+
+$
+4.02
+
+$
+5.25
+
+Diluted Weighted Average Shares Outstanding
+72.2
+
+75.2
+
+72.7
+
+75.0
+
+The accompanying notes are an integral part of these Condensed Consolidated Financial Statements.
+2
+Table of Contents
+WEATHERFORD INTERNATIONAL PLC AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (UNAUDITED)
+Three Months Ended
+Nine Months Ended
+September 30,
+September 30,
+(Dollars in millions)
+2025
+2024
+2025
+2024
+Net Income
+$
+87
+
+$
+166
+
+$
+318
+
+$
+426
+
+Foreign Currency Translation Adjustments
+(
+15
+)
+20
+
+146
+
+(
+4
+)
+Defined Benefit Pension Activity
+2
+
+—
+
+2
+
+—
+
+Comprehensive Income
+74
+
+186
+
+466
+
+422
+
+Comprehensive Income Attributable to Noncontrolling Interests
+6
+
+9
+
+25
+
+32
+
+Comprehensive Income Attributable to Weatherford
+$
+68
+
+$
+177
+
+$
+441
+
+$
+390
+
+The accompanying notes are an integral part of these Condensed Consolidated Financial Statements.
+3
+Table of Contents
+WEATHERFORD INTERNATIONAL PLC AND SUBSIDIARIES
+CONDENSED CONSOLIDATED BALANCE SHEETS (UNAUDITED)
+(Dollars and shares in millions, except par value)
+ September 30, 2025
+December 31, 2024
+(Unaudited)
+Assets:
+Cash and Cash Equivalents
+$
+967
+
+$
+916
+
+Restricted Cash
+64
+
+59
+
+Accounts Receivable, Net of Allowance for Credit Losses of $
+9
+ at September 30, 2025 and $
+8
+ at December 31, 2024
+1,282
+
+1,261
+
+Inventories, Net
+880
+
+880
+
+Other Current Assets
+283
+
+286
+
+Total Current Assets
+3,476
+
+3,402
+
+Property, Plant and Equipment, Net of Accumulated Depreciation of $
+1,103
+ at September 30, 2025 and $
+940
+ at December 31, 2024
+1,118
+
+1,061
+
+Intangibles, Net of Accumulated Amortization of $
+842
+ at September 30, 2025 and $
+793
+ at December 31, 2024
+294
+
+325
+
+Operating Lease Assets
+126
+
+124
+
+Other Non-Current Assets
+258
+
+247
+
+Total Assets
+$
+5,272
+
+$
+5,159
+
+Liabilities:
+Current Portion of Long-term Debt
+$
+126
+
+$
+17
+
+Accounts Payable
+690
+
+792
+
+Accrued Salaries and Benefits
+281
+
+302
+
+Income Taxes Payable
+104
+
+129
+
+Current Portion of Operating Lease Liabilities
+48
+
+44
+
+Other Current Liabilities
+429
+
+412
+
+Total Current Liabilities
+1,678
+
+1,696
+
+Long-term Debt
+1,462
+
+1,617
+
+Operating Lease Liabilities
+108
+
+110
+
+Non-current Taxes Payable
+283
+
+274
+
+Other Non-Current Liabilities
+174
+
+179
+
+Total Liabilities
+$
+3,705
+
+$
+3,876
+
+Shareholders’ Equity:
+Ordinary Shares - Par Value $
+0.001
+; Authorized 
+1,356
+ shares, Issued and Outstanding 
+71.7
+ shares at September 30, 2025 and 
+72.1
+ at December 31, 2024
+$
+—
+
+$
+—
+
+Capital in Excess of Par Value
+2,811
+
+2,921
+
+Retained Deficit
+(
+1,249
+)
+(
+1,486
+)
+Accumulated Other Comprehensive Loss
+(
+2
+)
+(
+150
+)
+Shareholders’ Equity
+1,560
+
+1,285
+
+Noncontrolling Interests
+7
+
+(
+2
+)
+Total Shareholders’ Equity
+1,567
+
+1,283
+
+Total Liabilities and Shareholders’ Equity
+$
+5,272
+
+$
+5,159
+
+The accompanying notes are an integral part of these Condensed Consolidated Financial Statements.
+4
+Table of Contents
+WEATHERFORD INTERNATIONAL PLC AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (UNAUDITED)
+Nine Months Ended September 30,
+(Dollars in millions)
+2025
+2024
+Cash Flows From Operating Activities:
+Net Income
+$
+318
+
+$
+426
+
+Adjustments to Reconcile Net Income to Net Cash Provided by Operating Activities:
+Depreciation and Amortization
+193
+
+260
+
+  Foreign Exchange Losses
+40
+
+58
+
+Loss on Blue Chip Swap Securities
+1
+
+10
+
+Gain on Disposition of Assets
+(
+6
+)
+(
+33
+)
+Gain on Sale of Business
+(
+70
+)
+—
+
+Deferred Income Tax Provision
+13
+
+8
+
+Share-Based Compensation
+26
+
+35
+
+Changes in Accounts Receivable, Inventory, Accounts Payable and Accrued Salaries and Benefits:
+  Accounts Receivable
+22
+
+23
+
+  Inventories
+(
+17
+)
+(
+131
+)
+  Accounts Payable
+(
+91
+)
+18
+
+    Accrued Salaries and Benefits
+(
+27
+)
+(
+54
+)
+Other Changes, Net
+6
+
+(
+77
+)
+Net Cash Provided by Operating Activities
+408
+
+543
+
+Cash Flows From Investing Activities:
+Capital Expenditures for Property, Plant and Equipment
+(
+175
+)
+(
+199
+)
+Proceeds from Disposition of Assets
+11
+
+18
+
+Proceeds from Sale of Business
+97
+
+—
+
+Purchases of Blue Chip Swap Securities
+(
+103
+)
+(
+50
+)
+Proceeds from Sales of Blue Chip Swap Securities
+102
+
+40
+
+Business Acquisitions, Net of Cash Acquired
+—
+
+(
+51
+)
+Proceeds from Sale of Investments
+—
+
+41
+
+Other Investing Activities
+(
+14
+)
+(
+6
+)
+Net Cash Used in Investing Activities
+(
+82
+)
+(
+207
+)
+Cash Flows From Financing Activities:
+Repayments of Long-term Debt
+(
+80
+)
+(
+264
+)
+  Distributions to Noncontrolling Interests
+(
+16
+)
+(
+19
+)
+Tax Remittance on Equity Awards Vested
+(
+20
+)
+(
+9
+)
+Share Repurchases
+(
+94
+)
+(
+50
+)
+Dividends Paid
+(
+54
+)
+(
+18
+)
+Other Financing Activities
+(
+13
+)
+(
+18
+)
+Net Cash Used in Financing Activities
+(
+277
+)
+(
+378
+)
+Effect of Exchange Rate Changes on Cash, Cash Equivalents and Restricted Cash
+7
+
+(
+43
+)
+Net Increase (Decrease) in Cash, Cash Equivalents and Restricted Cash
+56
+
+(
+85
+)
+Cash, Cash Equivalents and Restricted Cash at Beginning of Period
+975
+
+1,063
+
+Cash, Cash Equivalents and Restricted Cash at End of Period
+$
+1,031
+
+$
+978
+
+Supplemental Cash Flow Information:
+Interest Paid
+$
+71
+
+$
+82
+
+Income Taxes Paid, Net of Refunds
+$
+122
+
+$
+130
+
+844,702
+ Ordinary Shares Issued for Acquisitions 
+$
+—
+
+$
+75
+
+The accompanying notes are an integral part of these Condensed Consolidated Financial Statements.
+5
+Table of Contents
+WEATHERFORD INTERNATIONAL PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+1 – Basis of Presentation and Summary of Significant Accounting Policies
+Basis of Presentation
+The accompanying unaudited Condensed Consolidated Financial Statements of Weatherford International plc (the “Company,” “Weatherford,” “we,” “us,” or “our”) have been prepared in accordance with generally accepted accounting principles in the United States of America (“U.S. GAAP”) and pursuant to the rules and regulations of the Securities and Exchange Commission (“SEC”) for interim financial information. Accordingly, certain information and disclosures normally included in our annual consolidated financial statements have been condensed or omitted. Therefore, these unaudited Condensed Consolidated Financial Statements should be read in conjunction with our audited Consolidated Financial Statements included in our Form 10-K for the year ended December 31, 2024 (“2024 Form 10-K”). 
+The preparation of the Condensed Consolidated Financial Statements in conformity with U.S. GAAP requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities at the date of the Condensed Consolidated Financial Statements and the reported amounts of revenue and expenses during the reporting period. Ultimate results could differ from our estimates.
+In the opinion of management, the Condensed Consolidated Financial Statements reflect all adjustments considered necessary by management to fairly state the results of operations, financial position and cash flows of Weatherford and its subsidiaries for the periods presented and are not necessarily indicative of the results that may be expected for a full year. Our financial statements have been prepared on a consolidated basis. Under this basis, our financial statements consolidate all wholly owned subsidiaries and controlled joint ventures. All intercompany accounts and transactions have been eliminated.
+Summary of Significant Accounting Policies
+Please refer to “Note 1 – Summary of Significant Accounting Policies” of our Consolidated Financial Statements from our 2024 Form 10-K for the discussion on our significant accounting policies. Certain reclassifications have been made to these Condensed Consolidated Financial Statements and accompanying footnotes for the three and nine months ended September 30, 2024 to conform to the presentation for the three and nine months ended September 30, 2025.
+Accounting Standards Issued Not Yet Adopted
+Please refer to “Note 1 – Summary of Significant Accounting Policies” of our Consolidated Financial Statements from our 2024 Form 10-K for the discussion on accounting pronouncements that have been issued but not yet effective for the interim periods presented that are not expected to have a material impact on our financial position or results of operations.
+Evaluations of all other new accounting pronouncements that have been issued, but not yet effective are on-going, and at this time are not expected to have a material impact on our Condensed Consolidated Financial Statements.
+6
+Table of Contents
+2 – Segment Information
+Financial information by segment is summarized below. The accounting policies of the segments are the same as those described in the summary of significant accounting policies as presented in our 2024 Form 10-K. We have 
+three
+ reportable segments: (1) Drilling and Evaluation “DRE,” (2) Well Construction and Completions “WCC,” and (3) Production and Intervention “PRI.”
+The Company’s chief operating decision maker (“CODM”), our chief executive officer, uses segment adjusted EBITDA to measure the profitability of each segment. The regularly reviewed historical, current and forecasted segment adjusted EBITDA data is utilized by the CODM to allocate Company resources. The CODM also uses segment adjusted EBITDA to drive efficiencies and develop competitive strategies. Segment adjusted EBITDA is based on segment earnings before interest, taxes, depreciation, amortization, share-based compensation expense and other adjustments. All other includes results from non-core business activities (including integrated services and projects), and corporate includes overhead support and centrally managed or shared facilities costs. All other and corporate do not individually meet the criteria for segment reporting.
+Three Months Ended September 30, 2025
+Reportable Segments
+All
+(Dollars in millions)
+DRE
+WCC
+PRI
+Other
+Total
+Revenue
+$
+346
+
+$
+468
+
+$
+326
+
+$
+92
+
+$
+1,232
+
+Direct Costs
+(a)
+
+(
+216
+)
+(
+285
+)
+(
+223
+)
+Other Expense
+(b)
+(
+47
+)
+(
+58
+)
+(
+44
+)
+DRE Segment Adjusted EBITDA
+83
+
+83
+
+WCC Segment Adjusted EBITDA
+125
+
+125
+
+PRI Segment Adjusted EBITDA
+59
+
+59
+
+All Other
+14
+
+Corporate
+(
+12
+)
+Depreciation and Amortization
+(
+67
+)
+Share-based Compensation
+(
+10
+)
+Restructuring Charges
+(
+11
+)
+Other Charges, Net
+(
+3
+)
+Operating Income
+$
+178
+
+(a)
+Segment cost of sales and direct operating costs.
+(b)
+Segment selling, general and administrative and research and development costs
+.
+7
+Table of Contents
+Nine Months Ended September 30, 2025
+Reportable Segments
+All
+(Dollars in millions)
+DRE
+WCC
+PRI
+Other
+Total
+Revenue
+$
+1,031
+
+$
+1,365
+
+$
+987
+
+$
+246
+
+$
+3,629
+
+Direct Costs
+(a)
+
+(
+662
+)
+(
+822
+)
+(
+673
+)
+Other Expense
+(b)
+(
+143
+)
+(
+172
+)
+(
+130
+)
+DRE Segment Adjusted EBITDA
+226
+
+226
+
+WCC Segment Adjusted EBITDA
+371
+
+371
+
+PRI Segment Adjusted EBITDA
+184
+
+184
+
+All Other
+37
+
+Corporate
+(
+42
+)
+Depreciation and Amortization
+(
+193
+)
+Share-based Compensation
+(
+26
+)
+Gain on Sale of Business
+70
+
+Restructuring Charges
+(
+51
+)
+Other Charges, Net
+(
+19
+)
+Operating Income
+$
+557
+
+(a)
+Segment cost of sales and direct operating costs.
+(b)
+Segment selling, general and administrative and research and development costs
+.
+Three Months Ended September 30, 2024
+Reportable Segments
+All
+(Dollars in millions)
+DRE
+WCC
+PRI
+Other
+Total
+Revenue
+$
+435
+
+$
+509
+
+$
+371
+
+$
+94
+
+$
+1,409
+
+Direct Costs
+(a)
+
+(
+270
+)
+(
+296
+)
+(
+242
+)
+Other Expense
+(b)
+(
+54
+)
+(
+62
+)
+(
+46
+)
+DRE Segment Adjusted EBITDA
+111
+
+111
+
+WCC Segment Adjusted EBITDA
+151
+
+151
+
+PRI Segment Adjusted EBITDA
+83
+
+83
+
+All Other
+23
+
+Corporate
+(
+13
+)
+Depreciation and Amortization
+(
+89
+)
+Share-based Compensation
+(
+10
+)
+Other Charges, Net
+(
+13
+)
+Operating Income
+$
+243
+
+(a)
+Segment cost of sales and direct operating costs.
+(b)
+Segment selling, general and administrative and research and development costs
+.
+8
+Table of Contents
+Nine Months Ended September 30, 2024
+Reportable Segments
+All
+(Dollars in millions)
+DRE
+WCC
+PRI
+Other
+Total
+Revenue
+$
+1,284
+
+$
+1,471
+
+$
+1,088
+
+$
+329
+
+$
+4,172
+
+Direct Costs
+(a)
+
+(
+750
+)
+(
+869
+)
+(
+709
+)
+Other Expense
+(b)
+(
+163
+)
+(
+186
+)
+(
+138
+)
+DRE Segment Adjusted EBITDA
+371
+
+371
+
+WCC Segment Adjusted EBITDA
+416
+
+416
+
+PRI Segment Adjusted EBITDA
+241
+
+241
+
+All Other
+73
+
+Corporate
+(
+45
+)
+Depreciation and Amortization
+(
+260
+)
+Share-based Compensation
+(
+35
+)
+Restructuring Charges
+(
+8
+)
+Other Charges, Net
+(
+13
+)
+Operating Income
+$
+740
+
+(a)
+Segment cost of sales and direct operating costs.
+(b)
+Segment selling, general and administrative and research and development costs.
+
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(Dollars in millions)
+2025
+2024
+2025
+2024
+Depreciation and Amortization:
+DRE
+$
+21
+
+$
+29
+
+$
+61
+
+$
+84
+
+WCC
+13
+
+24
+
+37
+
+72
+
+PRI
+21
+
+23
+
+57
+
+69
+
+Corporate and Other
+12
+
+13
+
+38
+
+35
+
+Total Depreciation and Amortization
+$
+67
+
+$
+89
+
+$
+193
+
+$
+260
+
+Capital Expenditures:
+DRE
+$
+18
+
+$
+26
+
+$
+68
+
+$
+71
+
+WCC
+9
+
+12
+
+25
+
+42
+
+PRI
+10
+
+27
+
+56
+
+57
+
+Corporate and Other
+7
+
+13
+
+26
+
+29
+
+Total Capital Expenditures
+$
+44
+
+$
+78
+
+$
+175
+
+$
+199
+
+9
+Table of Contents
+
+(Dollars in millions)
+September 30, 2025
+December 31, 2024
+Total Assets:
+DRE
+$
+932
+
+$
+925
+
+WCC
+1,024
+
+1,040
+
+PRI
+786
+
+789
+
+Corporate and Other 
+(a)
+2,530
+
+2,405
+
+     Total
+$
+5,272
+
+$
+5,159
+
+(a)
+ Corporate and other total assets primarily include cash and cash equivalents, certain intangible assets, and centrally managed or shared facilities.
+PP&E, Net and Operating Lease Assets by Geographic Area
+As of September 30, 2025 and December 31, 2024, the U.S. accounted for 
+23
+% and 
+22
+%, respectively, and the Kingdom of Saudi Arabia accounted for 
+12
+% and 
+11
+% respectively, of our PP&E, Net and operating lease assets identifiable by geography. No other country accounted for more than 10% of our PP&E, Net and operating lease assets identifiable by geography as of September 30, 2025 and December 31, 2024. We had no PP&E, Net and operating lease assets in our country of domicile (Ireland) as of September 30, 2025 and December 31, 2024.
+(Dollars in millions)
+September 30, 2025
+December 31, 2024
+North America 
+(a)
+$
+318
+
+$
+293
+
+  Latin America
+170
+
+195
+
+  Middle East/North Africa/Asia
+497
+
+443
+
+  Europe/Sub-Sahara Africa/Russia
+224
+
+219
+
+PP&E, Net and Operating Lease Assets by Geography 
+(b)
+$
+1,209
+
+$
+1,150
+
+(a)
+ North America consists of the U.S. and Canada.
+(b)
+ Corporate assets not allocated by geography are excluded from this total.
+Sale of Business
+In April 2025, we completed the sale of our pressure pumping business in Argentina for proceeds totaling $
+104
+ million consisting of $
+7
+ million of proceeds received in the fourth quarter of 2024 and $
+97
+ million of proceeds received in the second quarter of 2025. We recognized a gain of $
+70
+ million as a result of this transaction during the three months ended June 30, 2025.
+
+10
+Table of Contents
+3 – Revenue
+Disaggregated Revenue 
+The following table disaggregates our revenue from contracts with customers by geographic area and includes equipment rental revenue. Equipment rental revenues were $
+24
+ million and $
+91
+ million in the three and nine months ended September 30, 2025, respectively, and $
+38
+ million and $
+111
+ million for the three and nine months ended September 30, 2024, respectively.
+During the three and nine months ended September 30, 2025, the U.S. accounted for 
+15
+% of total revenue in each period, and the Kingdom of Saudi Arabia accounted for 
+10
+% and 
+11
+% of total revenue, respectively. During the three and nine months ended September 30, 2024, the U.S. accounted for 
+15
+% and the Kingdom of Saudi Arabia accounted for 
+10
+% of total revenue in each period, respectively. In addition, during the three and nine months ended September 30, 2024, Mexico accounted for 
+12
+% and 
+13
+% of total revenue, respectively, driven by our largest customer in those periods, which accounted for 
+10
+% and 
+11
+% of our total revenue, respectively, in the same periods. No other country accounted for more than 10% of our revenue in the periods presented.
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(Dollars in millions)
+2025
+2024
+2025
+2024
+Revenue by Geographic Areas:
+North America 
+(a)
+$
+243
+
+$
+266
+
+$
+734
+
+$
+785
+
+International
+989
+
+1,143
+
+2,895
+
+3,387
+
+Middle East/North Africa/Asia
+533
+
+542
+
+1,560
+
+1,581
+
+Latin America
+214
+
+358
+
+650
+
+1,081
+
+Europe/Sub-Sahara Africa/Russia
+242
+
+243
+
+685
+
+725
+
+Total Revenue
+$
+1,232
+
+$
+1,409
+
+$
+3,629
+
+$
+4,172
+
+(a)
+ North America consists of the U.S. and Canada.
+Contract Balances
+The timing of our revenue recognition, billings, and cash collections results in the recording of accounts receivable, contract assets, and contract liabilities. The following table summarizes these balances as of September 30, 2025 and December 31, 2024:
+(Dollars in millions)
+September 30, 2025
+December 31, 2024
+Receivables for Product and Services in Accounts Receivable, Net
+$
+1,255
+
+$
+1,232
+
+Receivables for Equipment Rentals in Account Receivable, Net
+$
+27
+
+$
+29
+
+Accounts Receivable, Net
+$
+1,282
+
+$
+1,261
+
+Contract Assets in Other Current Assets
+$
+60
+
+$
+61
+
+Contract Assets in Other Non-Current Assets
+$
+28
+
+$
+34
+
+Contract Liabilities in Other Current Liabilities
+$
+35
+
+$
+51
+
+Contract Liabilities in Other Non-Current Liabilities
+$
+3
+
+$
+2
+
+11
+Table of Contents
+4 – Restructuring Charges
+Restructuring charges were $
+11
+ million and $
+51
+ million in the three and nine months ended September 30, 2025, respectively, and 
+nil
+ and $
+8
+ million in the three and nine months ended September 30, 2024, respectively, and presented as “Restructuring Charges” on the accompanying Condensed Consolidated Statements of Operations. These charges were related to optimization and efficiency initiatives throughout the organization and primarily relate to severance expenses.
+Restructuring liabilities were $
+31
+ million as of September 30, 2025 and $
+35
+ million as of December 31, 2024. Of the restructuring liabilities, $
+26
+ million and $
+31
+ million are recorded in “Other Current Liabilities” on the accompanying Consolidated Balance Sheets as of September 30, 2025 and December 31, 2024, respectively. The remaining $
+5
+ million and $
+4
+ million are recorded in “Other Non-Current Liabilities” on the accompanying Consolidated Balance Sheets as of September 30, 2025 and December 31, 2024, respectively. Changes in the liabilities are primarily driven by restructuring charges and cash payments.
+The following table presents total restructuring charges by segment and All Other in the three and nine months ended September 30, 2025 and 2024:
+
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(Dollars in millions)
+2025
+2024
+2025
+2024
+DRE
+$
+4
+
+$
+—
+
+$
+13
+
+$
+2
+
+WCC
+3
+
+—
+
+11
+
+1
+
+PRI
+3
+
+3
+
+11
+
+7
+
+All Other
+1
+
+(
+3
+)
+16
+
+(
+2
+)
+Total Restructuring Charges
+$
+11
+
+$
+—
+
+$
+51
+
+$
+8
+
+5 – Inventories, Net
+Inventories are reported net of reserves of $
+124
+ million and $
+115
+ million as of September 30, 2025 and December 31, 2024, respectively, and are presented by category in the table below: 
+(Dollars in millions)
+September 30, 2025
+December 31, 2024
+Finished Goods
+$
+780
+
+$
+778
+
+Work in Process and Raw Materials, Components and Supplies
+100
+
+102
+
+Inventories, Net
+$
+880
+
+$
+880
+
+The change in inventory reserves includes inventory charges, primarily offset by the disposal of inventory previously reserved. The charges are recorded in “Cost of Products” on our Condensed Consolidated Statements of Operations in the amount of $
+8
+ million and $
+22
+ million in the three and nine months ended September 30, 2025, respectively, and $
+9
+ million and $
+24
+ million during the three and nine months ended September 30, 2024, respectively.
+12
+Table of Contents
+6 – Intangibles, Net
+The components of intangible assets, net were as follows:
+(Dollars in millions)
+September 30, 2025
+December 31, 2024
+Developed and Acquired Technology, Net of Accumulated Amortization of $
+610
+ at September 30, 2025 and $
+592
+ at December 31, 2024
+$
+117
+
+$
+126
+
+Trade Names, Net of Accumulated Amortization of $
+232
+ at September 30, 2025 and $
+201
+ at December 31, 2024
+177
+
+199
+
+Intangibles, Net of Accumulated Amortization of $
+842
+ at September 30, 2025 and $
+793
+ at December 31, 2024
+$
+294
+
+$
+325
+
+Amortization expense was $
+15
+ million and $
+44
+ million in the three and nine months ended September 30, 2025, respectively, and $
+43
+ million and $
+125
+ million in the three and nine months ended September 30, 2024, respectively, and is reported in “Selling, General and Administrative” on our Condensed Consolidated Statements of Operations. The decrease in amortization expense was primarily due to full amortization of certain intangible assets as of December 31, 2024.
+7 – Borrowings and Other Debt Obligations
+(Dollars in millions)
+September 30, 2025
+December 31, 2024
+Current portion of 
+8.625
+% Senior Notes due 2030 “2030 Senior Notes”
+$
+100
+
+$
+—
+
+Current Portion of Finance Leases
+26
+
+17
+
+Current Portion of Long-term Debt
+$
+126
+
+$
+17
+
+8.625
+% Senior Notes due 2030 “2030 Senior Notes”
+$
+1,426
+
+$
+1,586
+
+Finance Leases 
+36
+
+31
+
+Long-term Debt
+$
+1,462
+
+$
+1,617
+
+2028 Senior Secured Notes
+On September 30, 2021, Weatherford International Ltd. (“Weatherford Bermuda”) issued 
+6.50
+% senior secured notes in aggregate principal amount of $
+500
+ million maturing September 15, 2028 (the “2028 Senior Secured Notes”). Interest was payable semiannually on September 15 and March 15 of each year, and commenced on March 15, 2022. Proceeds from the issuance were reduced by debt issuance costs. As of June 30, 2024, we fully redeemed the remaining principal of our 2028 Senior Secured Notes.
+2030 Senior Notes
+On October 27, 2021, Weatherford Bermuda issued 
+8.625
+% senior notes in aggregate principal amount of $
+1.6
+ billion maturing April 30, 2030 (the “2030 Senior Notes”). Interest is payable semiannually on June 1 and December 1 of each year, and commenced on June 1, 2022. On December 1, 2022, the indenture related to our 2030 Senior Notes was amended and supplemented to add Weatherford International, LLC (“Weatherford Delaware”) as co-issuer and co-obligor, and concurrently release the guarantee of Weatherford Delaware. In the third quarter of 2025 and for the nine months ended September 30, 2025, we repurchased 
+nil
+ and $
+61
+ million in principal, respectively, of our 2030 Senior Notes. At September 30, 2025, the carrying value represents the remaining unpaid principal of $
+1.54
+ billion, offset by unamortized deferred issuance cost of $
+10
+ million. At December 31, 2024, the carrying value represented the remaining principal of $
+1.6
+ billion, offset by unamortized deferred issuance cost of $
+11
+ million.
+On September 22, 2025, we commenced a cash tender offer (the “Tender Offer”) for up to $
+1.3
+ billion in aggregate principal amount of our 2030 Senior Notes.  On October 7, 2025, the early tender settlement date for the Tender Offer, we purchased $
+893
+ million aggregate principal amount of the 2030 Senior Notes. The Tender Offer expired on October 21, 2025. The details of these transactions can be found in “Note 14 - Subsequent Events”.
+13
+Table of Contents
+On October 20, 2025, the Company issued a notice to redeem 2030 Senior Notes in an aggregate principal amount of $
+407
+ million, representing the amount of the Tender Offer that remained unsubscribed at its expiration date. The redemption will be funded using $
+100
+ million of cash on hand and proceeds from the issuance of the 2033 Senior Notes (as defined below) on October 6, 2025. Pursuant to the Company’s accounting policy election, if the Company has the ability and intent to repay long-term debt within the next year with cash on hand the amount of long-term debt expected to be repaid is re-classified to current portion of long-term debt.  As such, $
+100
+ million of the 2030 Senior Notes was reclassified to current as of September 30, 2025. The details of these transactions can be found in “Note 14 - Subsequent Events”.
+2033 Senior Notes
+On October 6, 2025, Weatherford Bermuda issued 
+6.75
+% senior notes in aggregate principal amount of $
+1.2
+ billion maturing on October 15, 2033 (the “2033 Senior Notes”) in a private offering. The details of this transaction can be found in “Note 14 - Subsequent Events”.
+Credit Agreement 
+Weatherford Bermuda, Weatherford Delaware, Weatherford Canada Ltd. (“Weatherford Canada”) and WOFS International Finance GmbH (“Weatherford Switzerland”), together as borrowers, and the Company as parent, have an amended and restated credit agreement (the “Credit Agreement”). The Credit Agreement is guaranteed by the Company and certain of our subsidiaries and secured by substantially all of the personal property of the Company and those subsidiaries. At December 31, 2024, the Credit Agreement allowed for a total commitment amount of $
+720
+ million, maturing on October 24, 2028. Financial covenants in the Credit Agreement include a $
+250
+ million minimum liquidity covenant (which may increase up to $
+400
+ million dependent on the nature of transactions we may decide to enter into), a minimum interest coverage ratio of 
+2.50
+ to 1.00, a maximum total net leverage ratio of 
+3.50
+ to 1.00, and a maximum secured net leverage ratio of 
+1.50
+ to 1.00.
+On September 18, 2025, we amended the Credit Agreement to (i) allow for an increase in total commitment amount from $
+720
+ million to $
+1
+ billion comprised of $
+600
+ million to be used either for revolving loans or financial letters of credit and $
+400
+ million to be used for performance letters of credit, (ii) extend the maturity date to the earlier of September 18, 2030 or January 29, 2030 if more than $
+200
+ million of 2030 Senior Notes or Permitted Refinancing Indebtedness are outstanding on that date and (iii) include an accordion feature that will allow for further increases of commitments up to $
+1.15
+ billion.
+As of September 30, 2025, under the Credit Agreement we had 
+zero
+ borrowings, $
+6
+ million in financial letters of credit and $
+255
+ million in performance letters of credit outstanding. Additionally as of September 30, 2025, we had $
+179
+ million letters of credit under various uncommitted bi-lateral facilities ($
+48
+ million of which was cash collateral held and recorded in “Restricted Cash” on the Condensed Consolidated Balance Sheets).
+ As of December 31, 2024, under the Credit Agreement we had 
+zero
+ borrowings, $
+12
+ million in financial letters of credit and $
+279
+ million in performance letters of credit outstanding. Additionally as of December 31, 2024, we had $
+91
+ million of letters of credit under various uncommitted bi-lateral facilities ($
+49
+ million of which was cash collateral held and recorded in “Restricted Cash” on the Condensed Consolidated Balance Sheets).
+Fair Value 
+The fair value of our long-term debt fluctuates with changes in applicable interest rates among other factors. Fair value will exceed carrying value when the current market interest rate is lower than the interest rate at which the debt was originally issued and will be less than the carrying value when the market rate is greater than the interest rate at which the debt was originally issued. The fair value of our long-term debt is classified as Level 2 in the fair value hierarchy and is established based on observable inputs in less active markets. 
+The table below presents the fair value and carrying value of our long-term debt (excluding finance leases).
+September 30, 2025
+December 31, 2024
+(Dollars in millions)
+Carrying Value
+Fair Value
+Carrying Value
+Fair Value
+8.625
+% Senior Notes due 2030
+$
+1,526
+
+$
+1,572
+
+$
+1,586
+
+$
+1,650
+
+Long-Term Debt (excluding Finance Leases)
+$
+1,526
+
+$
+1,572
+
+$
+1,586
+
+$
+1,650
+
+14
+Table of Contents
+8 – Disputes, Litigation and Legal Contingencies 
+We are subject to lawsuits and claims arising out of the nature of our business. We have certain claims, disputes and pending litigation for which we do not believe a negative outcome is probable or for which we can only estimate a range of liability. It is possible, however, that an unexpected judgment could be rendered against us, or we could decide to resolve a case or cases, which would result in a liability that could be uninsured and beyond the amounts we currently have reserved and in some cases those losses could be material. If one or more negative outcomes were to occur relative to these cases, the aggregate impact to our financial condition could be material.
+15
+Table of Contents
+9 – Shareholders’ Equity
+Shares issued and outstanding on our Condensed Consolidated Balance Sheets decreased from 
+72.1
+ million as of December 31, 2024 to 
+71.7
+ million as of September 30, 2025. The decrease was due to the cancellation of 
+1.7
+ million of our ordinary shares repurchased for $
+94
+ million. The decrease was partially offset by the issuance of 
+1.3
+ million of our ordinary shares for equity awards vested and delivered, net of shares withheld for taxes.
+During the nine months ended September 30, 2025, we declared and paid $
+54
+ million in dividends and accrued an immaterial amount of dividend equivalent rights on share-based awards.
+The following summarizes our shareholders’ equity activity for the three and nine months ended September 30, 2025 and 2024: 
+
+(Dollars in millions)
+Ordinary Shares
+Par Value 
+Capital in Excess of Par Value
+Retained 
+Deficit
+Accumulated
+Other
+Comprehensive Income (Loss)
+Non-controlling Interests
+Total Shareholders’ Equity
+Balance at December 31, 2024
+72.1
+
+$
+—
+
+$
+2,921
+
+$
+(
+1,486
+)
+$
+(
+150
+)
+$
+(
+2
+)
+$
+1,283
+
+Net Income
+— 
+— 
+— 
+76
+
+— 
+10
+
+86
+
+Equity Awards, Granted and Vested, Net of Shares Withheld for Taxes
+1.3
+
+— 
+(
+34
+)
+— 
+— 
+— 
+(
+34
+)
+Share Repurchases
+(
+0.8
+)
+— 
+(
+53
+)
+— 
+— 
+— 
+(
+53
+)
+Dividends Declared ($
+0.25
+ per share)
+ (1)
+— 
+— 
+— 
+(
+18
+)
+— 
+— 
+(
+18
+)
+Other Comprehensive Income
+— 
+— 
+— 
+— 
+96
+
+— 
+96
+
+Balance at March 31, 2025
+72.6
+
+$
+—
+
+$
+2,834
+
+$
+(
+1,428
+)
+$
+(
+54
+)
+$
+8
+
+$
+1,360
+
+Net Income
+— 
+— 
+— 
+136
+
+— 
+9
+
+145
+
+Equity Awards, Granted and Vested, Net of Shares Withheld for Taxes
+— 
+— 
+10
+
+— 
+— 
+— 
+10
+
+Share Repurchases
+(
+0.8
+)
+— 
+(
+34
+)
+— 
+— 
+— 
+(
+34
+)
+Dividends Declared ($
+0.25
+ per share)
+ (1)
+— 
+— 
+— 
+(
+19
+)
+— 
+— 
+(
+19
+)
+Distributions to Noncontrolling Interests
+— 
+— 
+— 
+— 
+— 
+(
+8
+)
+(
+8
+)
+Other Comprehensive Income
+— 
+— 
+— 
+— 
+65
+
+— 
+65
+
+Balance at June 30, 2025
+71.8
+
+$
+—
+
+$
+2,810
+
+$
+(
+1,311
+)
+$
+11
+
+$
+9
+
+$
+1,519
+
+Net Income
+— 
+— 
+— 
+81
+
+— 
+6
+
+87
+
+Equity Awards, Granted and Vested, Net of Shares Withheld for Taxes
+— 
+— 
+10
+
+— 
+— 
+— 
+10
+
+Share Repurchases
+(
+0.1
+)
+— 
+(
+7
+)
+— 
+— 
+— 
+(
+7
+)
+Dividends Declared ($
+0.25
+ per share)
+ (1)
+— 
+— 
+— 
+(
+19
+)
+— 
+— 
+(
+19
+)
+Distributions to Noncontrolling Interests
+— 
+— 
+— 
+— 
+— 
+(
+8
+)
+(
+8
+)
+Other Comprehensive Loss
+— 
+— 
+— 
+— 
+(
+13
+)
+— 
+(
+13
+)
+Other
+— 
+— 
+(
+2
+)
+— 
+— 
+— 
+(
+2
+)
+Balance at September 30, 2025
+71.7
+$
+—
+
+$
+2,811
+
+$
+(
+1,249
+)
+$
+(
+2
+)
+$
+7
+
+$
+1,567
+
+(1)
+ Includes dividend equivalent rights on share-based awards.
+16
+Table of Contents
+(Dollars in millions)
+Ordinary Shares
+Par Value 
+Capital In Excess of Par Value
+Retained Deficit
+Accumulated
+Other
+Comprehensive
+Loss
+Non-controlling Interests
+Total Shareholders’ Equity
+Balance at December 31, 2023
+72.1
+$
+—
+
+$
+2,906
+
+$
+(
+1,954
+)
+$
+(
+28
+)
+$
+(
+2
+)
+$
+922
+
+Net Income
+— 
+— 
+— 
+112
+
+— 
+11
+
+123
+
+Equity Awards, Granted and Vested, Net of Shares Withheld for Taxes
+0.3
+— 
+4
+
+— 
+— 
+— 
+4
+
+Other Comprehensive Loss
+— 
+— 
+— 
+— 
+(
+24
+)
+— 
+(
+24
+)
+Equity Issued for Acquisitions
+0.8
+— 
+75
+
+— 
+— 
+— 
+75
+
+Balance at March 31, 2024
+73.2
+$
+—
+
+$
+2,985
+
+$
+(
+1,842
+)
+$
+(
+52
+)
+$
+9
+
+$
+1,100
+
+Net Income
+— 
+— 
+— 
+125
+
+— 
+12
+
+137
+
+Equity Awards, Granted and Vested, Net of Shares Withheld for Taxes
+— 
+— 
+12
+
+— 
+— 
+— 
+12
+
+Distributions to Noncontrolling Interests
+— 
+— 
+— 
+— 
+— 
+(
+9
+)
+(
+9
+)
+Balance at June 30, 2024
+73.2
+$
+—
+
+$
+2,997
+
+$
+(
+1,717
+)
+$
+(
+52
+)
+$
+12
+
+$
+1,240
+
+Net Income
+— 
+— 
+— 
+157
+
+— 
+9
+
+166
+
+Equity Awards, Granted and Vested, Net of Shares Withheld for Taxes
+— 
+9
+
+— 
+— 
+— 
+9
+
+Share Repurchases
+(
+0.5
+)
+— 
+(
+50
+)
+— 
+— 
+— 
+(
+50
+)
+Dividends Declared ($
+0.25
+ per share)
+ (1)
+— 
+— 
+— 
+(
+19
+)
+— 
+— 
+(
+19
+)
+Other Comprehensive Income
+— 
+— 
+— 
+— 
+20
+
+— 
+20
+
+Distributions to Noncontrolling Interests
+— 
+— 
+— 
+— 
+— 
+(
+10
+)
+(
+10
+)
+Balance at September 30, 2024
+72.7
+$
+—
+
+$
+2,956
+
+$
+(
+1,579
+)
+$
+(
+32
+)
+$
+11
+
+$
+1,356
+
+(1)
+ Includes dividend equivalent rights on share-based awards.
+The following table presents the changes in our accumulated other comprehensive income (loss) by component for the nine months ended September 30, 2025 and 2024:
+(Dollars in millions)
+Currency Translation Adjustment
+Defined Benefit Pension
+Total
+Balance at December 31, 2024
+$
+(
+156
+)
+$
+6
+
+$
+(
+150
+)
+Other Comprehensive Income
+146
+
+2
+
+148
+
+Balance at September 30, 2025
+$
+(
+10
+)
+$
+8
+
+$
+(
+2
+)
+Balance at December 31, 2023
+$
+(
+43
+)
+$
+15
+
+$
+(
+28
+)
+Other Comprehensive Loss
+(
+4
+)
+—
+
+(
+4
+)
+Balance at September 30, 2024
+$
+(
+47
+)
+$
+15
+
+$
+(
+32
+)
+17
+Table of Contents
+10 – Income per Share
+A reconciliation of the number of shares used for the basic and diluted income per share calculation was as follows:
+
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(Dollars and shares in millions, except per share amounts)
+2025
+2024
+2025
+2024
+Net Income Attributable to Weatherford
+$
+81
+
+$
+157
+
+$
+293
+
+$
+394
+
+Less: Impact of Acquisition Contingent Consideration
+ (1)
+—
+
+(
+2
+)
+—
+
+—
+
+Net Income Attributable to Weatherford and Available to Shareholders
+$
+81
+
+$
+155
+
+$
+293
+
+$
+394
+
+Basic Weighted Average Shares Outstanding
+71.9
+
+73.2
+
+72.4
+
+73.1
+
+Dilutive Effect of Awards Granted in Stock Incentive Plan
+0.3
+
+1.9
+
+0.3
+
+1.9
+
+Dilutive Effect of Acquisition Contingent Consideration
+ (1)
+—
+
+0.1
+
+—
+
+—
+
+Diluted Weighted Average Shares Outstanding
+72.2
+
+75.2
+
+72.7
+
+75.0
+
+Basic Income per Share
+$
+1.13
+
+$
+2.14
+
+$
+4.04
+
+$
+5.39
+
+Diluted Income per Share
+ (1)
+$
+1.12
+
+$
+2.06
+
+$
+4.02
+
+$
+5.25
+
+Antidilutive Weighted Average Shares:
+  Equity Awards
+0.7
+
+0.3
+
+0.6
+
+0.4
+
+Total Antidilutive Weighted Average Shares
+0.7
+
+0.3
+
+0.6
+
+0.4
+
+(1)
+ During the three months ended September 30, 2024, diluted income per share included the maximum potentially dilutive shares contingently issuable for an acquisition consideration, the value of which was adjusted out of Net Income Attributable to Weatherford in calculating diluted income per share
+Basic income per share for all periods presented equals net income available to shareholders divided by our weighted average shares outstanding during the period. Diluted income per share is computed by dividing net income available to shareholders by our weighted average shares outstanding during the period including potential dilutive ordinary shares. Anti-dilutive weighted average shares represent securities that could potentially dilute income per share in the future and are excluded from the computation of income per share.
+
+18
+Table of Contents
+11 – Income Taxes
+We recognized a tax expense of $
+52
+ million and $
+108
+ million for the three and nine months ended September 30, 2025, respectively, compared to three and nine months ended September 30, 2024 where we recognized a tax expense of $
+12
+ million and $
+144
+ million, respectively. Income tax expense was higher in the three months ended September 30, 2025 compared to the same period in 2024 as the third quarter of 2024 was lower by $
+51
+ million due to the release of valuation allowances and the recognition of a benefit from previously uncertain tax positions, partially offset by decreased earnings before taxes. Income tax expense was lower in the nine months ended September 30, 2025 compared to the same period in 2024, primarily due to the decreased earnings before tax, partially offset by the release of valuation allowance in the 2024 period. We calculate our income tax provision using the estimated annual effective tax rate method in accordance with Accounting Standards Codification “ASC” 740 - Income Taxes.
+The relationship between our pre-tax income or loss and our income tax provision or benefit varies from period to period due to various factors which include changes in total pre-tax income or loss, the jurisdictions in which our income is earned, the tax laws in those jurisdictions and in our operating structure. We provide for income taxes based on the laws and rates in effect in the countries in which operations are conducted, or in which we or our subsidiaries are considered residents for income tax purposes. Our income tax provisions are primarily driven by income in certain jurisdictions and withholding taxes on intercompany and third-party transactions that do not directly correlate to ordinary income or loss. Certain charges and impairments recognized do not result in a significant tax benefit as a result of being attributed to a non-income tax jurisdiction or our inability to forecast realization of the tax benefit of such losses. This is partially offset by the utilization of previously unbenefited deferred tax assets, such as net operating loss carryforwards.
+We routinely undergo tax examination in various jurisdictions. We cannot predict the timing or outcome regarding resolution of these tax examinations or if they will have a material impact on our financial statements. As of September 30, 2025, we anticipate that it is reasonably possible that our uncertain tax positions of $
+283
+ million, including interest and penalties offset by net operating losses and other tax attributes if settled, may decrease by up to $
+92
+ million in the next twelve months due to expiration of statutes of limitations, settlements and/or conclusions of tax examinations.
+12 – Credit Default Swap 
+During the fourth quarter of 2024, we entered into a credit default swap (“CDS”) with a third-party financial institution terminating in September of 2026 related to a secured loan between that third-party financial institution and our largest customer in Mexico. The secured loan was utilized by this customer to pay certain of our outstanding receivables and accordingly, in the fourth quarter of 2024, we received $
+25
+ million. 
+Under the terms of the CDS, within 
+five
+ business days upon notification of a default by the customer, we could be required to pay the then outstanding notional balance net of recoveries. As of September 30, 2025, we had a notional balance of $
+17
+ million outstanding under the CDS and as of December 31, 2024, we had a notional balance of $
+25
+ million outstanding. The fair value of the derivative was not material as of September 30, 2025 and December 31, 2024.
+A CDS was entered into during the fourth quarter of 2023 with the same parties for similar reasons as in the fourth quarter of 2024, and accordingly, in the first quarter of 2024, we received $
+142
+ million. The agreement was terminated in the third quarter of 2024, extinguishing the remaining notional balance.
+13 – Blue Chip Swap Securities - Argentina 
+The functional currency for our Argentine operations is the U.S. dollar and we use Argentina’s official exchange rate to remeasure our Argentine peso-denominated net monetary assets into U.S. dollars at each balance sheet date. The Central Bank of Argentina has maintained certain currency controls that limit our ability to access U.S. dollars in Argentina and remit cash from our Argentine operations. As such, we have used an indirect foreign exchange mechanism known as a Blue Chip Swap (“BCS”) which allows entities to remit U.S. dollars from Argentina through the purchase and sale of securities. During the third quarter of 2025 we completed a series of BCS transactions that resulted in an immaterial impact to our financial statements. No BCS transactions were entered into in the third quarter of 2024. During the second quarter of 2025 and 2024, we completed a series of BCS transactions at implied exchange rates that were approximately 
+1
+% and 
+26
+% higher, respectively, than the official exchange rate, resulting in a loss of $
+1
+ million and $
+10
+ million, respectively. We continue to use the official exchange rate for remeasurement of our Argentine peso-denominated net monetary assets under U.S. GAAP as the BCS rates do not meet the criteria for remeasurement under U.S. GAAP.
+19
+Table of Contents
+14 – Subsequent Events 
+Declaration of cash dividend
+On October 15, 2025, our Board of Directors declared a cash dividend of $
+0.25
+ per share of the Company’s ordinary shares, payable on December 4, 2025 to shareholders of record as of November 6, 2025. 
+2033 Senior Notes Offering and Tender Offer for 2030 Senior Notes
+On October 6, 2025, Weatherford Bermuda issued $
+1.2
+ billion in aggregate principal amount of 
+6.75
+% senior notes due October 15, 2033 in a private offering.  Interest on the 2033 Senior Notes is payable semiannually on April 15th and October 15th of each year, beginning on April 15, 2026 at a rate of 
+6.75
+% per year.  The 2033 Senior Notes will mature on October 15, 2033. The 2033 Senior Notes are guaranteed by the Company and other subsidiary guarantors. The Company intends to use the net proceeds from the offering, along with cash on hand of $
+100
+ million, to fund its cash tender offer for up to $
+1.3
+ billion aggregate principal amount of our 2030 Senior Notes. 
+On October 7, 2025, the early settlement date for the Tender Offer, the Company used a portion of the net proceeds from the issuance of 2033 Senior Notes to purchase $
+893
+ million aggregate principal amount of 2030 Senior Notes at applicable prices, plus accrued and unpaid interest of $
+27
+ million and an early tender premium of $
+21
+ million. The tender offer expired October 21, 2025. 
+On October 20, 2025, the Company issued a notice to redeem 2030 Senior Notes in an aggregate principal amount of $
+407
+ million, representing the amount of the Tender Offer that remained unsubscribed at its expiration date. The redemption will be funded using $
+100
+ million of cash on hand and the remaining proceeds from the issuance of the 2033 Senior Notes.
+
+20
+Table of Contents
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+As used in this item, “Weatherford”, “the Company,” “we,” “us” and “our” refer to Weatherford International plc, a public limited company organized under the laws of Ireland, and its subsidiaries on a consolidated basis. The following discussion should be read in conjunction with the Condensed Consolidated Financial Statements and Notes thereto included in “Item 1.  Financial Statements.” Our discussion includes various forward-looking statements about our markets, the demand for our products and services and our future results. These statements include assumptions, certain risks and uncertainties. For information about these assumptions, risks and uncertainties, refer to the section “Forward-Looking Statements” and the section “PART II - OTHER INFORMATION - Item 1A. Risk Factors.”
+Business
+Weatherford is a leading global energy services company providing equipment and services used in the drilling, evaluation, well construction, completion, production, intervention and responsible abandonment of wells in the oil and natural gas exploration and production industry as well as new energy platforms. 
+We conduct business in approximately 75 countries, answering the challenges of the energy industry with 310 operating locations including manufacturing, research and development, service, and training facilities. Our operational performance is reviewed and managed across the life cycle of the wellbore, and we report in three segments (1) Drilling and Evaluation, (2) Well Construction and Completions, and (3) Production and Intervention.
+Drilling and Evaluation
+
+(“DRE”)
+ offers a suite of services including managed pressure drilling, drilling services, wireline and drilling fluids. DRE offerings range from early well planning to reservoir management through innovative tools and expert engineering to optimize reservoir access and productivity. 
+Well Construction and Completions (“WCC”)
+ offers products and services for well integrity assurance across the full life cycle of the well. The primary offerings are tubular running services, cementation products, completions, liner hangers and well services. WCC deploys conventional to advanced technologies, providing safe and efficient services in any environment during the well construction phase.
+Production and Intervention (“PRI”)
+ offers a suite of reservoir stimulation designs, and engineering capabilities that isolate zones and unlock reserves in conventional and unconventional wells, deep water, and aging reservoirs. The primary offerings are intervention services & drilling tools, artificial lift, digital solutions, sub-sea intervention and pressure pumping services in select markets. 
+21
+Table of Contents
+Industry Trends
+Demand for our industry’s products and services is driven by many factors, including commodity prices, the number of oil and gas rigs and wells drilled, depth and drilling conditions of wells, number of well completions, age of existing wells, reservoir depletion, regulatory environment, and the level of workover activity worldwide.
+Lower oil and natural gas prices and lower rig count generally correlate to lower exploration and production spending, and higher oil and natural gas prices and higher rig count generally correlate to higher exploration and production spending. Therefore, our financial results can be significantly affected by oil and natural gas prices as well as rig counts. As shown in the following tables, as of September 30, 2025 oil prices and rig counts were notably lower than at September 30, 2024. The drop in oil prices and rig counts since September 30, 2024 has coincided with reduced activity levels across our industry. Henry Hub natural gas prices increased as of September 30, 2025 compared to September 30, 2024. Gas production additions were sourced from a backlog of drilled but uncompleted wells and deferred start-ups. 
+In addition to the impact of lower oil prices, there may be future impacts and effects on our industry or us relating to the U.S. Presidential administration and Congress, in areas such as trade policy and tariffs, global conflicts and sanctions, environmental regulations and others. For example, the U.S. Presidential administration announced sweeping new tariffs in early 2025 that prompted retaliatory actions by affected countries. Various modifications and delays have been announced to some of the new tariffs and further changes are expected to be made in the future. Since the tariff announcements, energy markets have been volatile. Trade disputes have had, and may continue to have, an adverse impact on the overall macroeconomic environment and may result in supply chain challenges and heightened economic pressure on our customers. The Company continues to monitor these developments, however the future impact and timing of these changes on our business remains uncertain and will depend on several factors, including whether additional or incremental tariffs or other measures are announced or imposed, to what extent other countries implement tariffs or other retaliatory measures in response, and the overall magnitude and duration of these measures. In addition, the Company is actively pursuing strategies to mitigate the impact of tariffs on our results of operations, including supplier negotiations, evaluation of sourcing options, including foreign zones and bonded warehouses where feasible, development of tools to monitor and address tariff impact during the quoting process, seeking compensation from customers for tariffs, pursuing trade agreement certifications and exemptions, and supporting industry association advocacy for consideration of oilfield services products in trade negotiations. However, it is uncertain whether the actions taken or contemplated to be taken by the Company will be effective in mitigating the impact of current and future trade restrictions on the Company’s results of operations.
+22
+Table of Contents
+The table below shows the average oil and natural gas prices for West Texas Intermediate (“WTI”), Brent North Sea (“Brent”) crude oil and Henry Hub natural gas. 
+Three Months Ended
+Nine Months Ended
+September 30,
+September 30,
+2025
+2024
+2025
+2024
+Oil price - WTI 
+(1)
+$
+65.74 
+$
+76.24 
+$
+67.40 
+$
+78.50 
+Oil price - Brent 
+(1)
+$
+68.97 
+$
+79.84 
+$
+70.93 
+$
+82.50 
+Natural gas price - Henry Hub 
+(2)
+$
+3.03 
+$
+2.11 
+$
+3.45 
+$
+2.11 
+(1)
+ Oil price measured in dollars per barrel (rounded to the nearest $0.01)
+(2)
+ Natural gas price measured in dollars per million British thermal units (rounded to the nearest $0.01)
+The table below shows historical average rig counts based on the weekly Baker Hughes Company rig count information. 
+Three Months Ended
+Nine Months Ended
+September 30,
+September 30,
+2025
+2024
+2025
+2024
+North America
+718 
+796 
+740 
+788 
+International 
+(1)
+1,080 
+1,151 
+1,085 
+1,171 
+Worldwide
+1,798 
+1,947 
+1,825 
+1,959 
+
+(1)
+ Prior period international rig count figures were adjusted by Baker Hughes in the third quarter of 2025.
+Russia Ukraine Conflict
+In February 2022, the military conflict between Russia and Ukraine (“Russia Ukraine Conflict”) began and in response we evaluated, and continue to evaluate, our operations, with the priority being centered on the safety and well-being of our employees in the impacted regions, as well as operating in full compliance with applicable international laws and sanctions. 
+Revenues in Russia were approximately 8% and 7% of our total revenues for the three and nine months ended September 30, 2025, respectively, compared to 6% and 5% of our total revenue for the three and nine months ended September 30, 2024, respectively. As of September 30, 2025, our Russia operations included $94 million in cash, $151 million in other current assets, $74 million in property, plant and equipment, net and other non-current assets, and $62 million in liabilities. As of December 31, 2024, our Russia operations included $82 million in cash, $95 million in other current assets, $56 million in property, plant and equipment, net and other non-current assets, and $45 million in liabilities. 
+We continue to closely monitor and evaluate the developments in Russia as well as any changes in international laws and sanctions. We believe that operational complexity will increase over time and therefore continually evaluate these potential impacts on our business. As such, we continue to actively evaluate various options, strategies and contingencies with respect to our business in Russia, including, but not limited to:
+•
+continuing the business in compliance with applicable laws and sanctions; 
+•
+evaluating the continued use or change in products, equipment and service offerings we currently provide in 
+Russia; 
+•
+curtailing or winding down our activities over time; 
+•
+potentially divesting some or all of our assets or businesses in Russia, which could include the option of re-entering the country if and when sanctions or applicable laws would allow for the same; and
+•
+potential nationalization of the business.
+23
+Table of Contents
+Consolidated Statements of Operations - Operating Summary
+Revenues of $1.2 billion and $3.6 billion in the three and nine months ended September 30, 2025, respectively, decreased 13% in both periods compared to $1.4 billion and $4.2 billion in the three and nine months ended September 30, 2024, respectively. Year-over-year in the third quarter, product revenues decreased 13% and service revenues also decreased 13%. For the same period, revenues declined in all segments with DRE, PRI and WCC impacting 50%, 25% and 23% of the decrease, respectively, with the remaining decrease due to a modest decline in integrated services and projects. Year-over-year in the nine months ended September 30, 2025, product revenues decreased 11% and services revenues decreased 14%. For the same period, revenues declined in all segments with DRE, WCC and PRI impacting 47%, 20% and 19% of the decrease, respectively, with the remaining decrease from lower activity in integrated services and projects. 
+Geographically, the year-over-year third quarter revenue decrease was led by a decline in the Latin America, North America, Middle East/North Africa/Asia and Europe/Sub-Sahara Africa/Russia regions, which impacted 81%, 13%, 5% and 1% of the decrease, respectively. Year-over-year in the nine months ended September 30, 2025, the revenue decrease was led by a decline in the Latin America, North America, Europe/Sub-Sahara Africa/Russia and Middle East/North Africa/Asia regions, which impacted 79%, 9%, 7% and 4% of the decrease. Year-over-year revenue decreases were primarily caused by a softening of the overall market which drove a decline in activity across segments and geographies.
+Operating income of $178 million and $557 million in the three and nine months ended September 30, 2025, respectively, decreased 27% and 25% compared to $243 million and $740 million in the three and nine months ended September 30, 2024, respectively. The third quarter year-over-year decrease was due to the decline in revenue, with a partial offset from lower cost of products and services and selling general, administrative and research and development costs. The nine months ended September 30, 2025 year-over-year decrease was due to the decline in revenue, with a partial offset from lower cost of products and services, lower selling general, administrative and research and development costs and a gain on the sale of our pressure pumping business in Argentina. 
+Cost of products and services of $844 million and $2.5 billion in the three and nine months ended September 30, 2025, respectively, decreased 8% and 7% compared to $917 million and $2.7 billion in the three and nine months ended September 30, 2024, respectively. The year-over-year decrease was primarily due to decline in product sales and a reduction in headcount leading to lower personnel costs.  Our cost of products and services as a percentage of revenues was 69% in both the three and nine months ended September 30, 2025 compared to 65% in both the three and nine months ended September 30, 2024, respectively. The higher cost ratio was due to costs decreasing at a slower rate than revenues.
+Selling, general, administrative and research and development costs of $196 million and $580 million in the three and nine months ended September 30, 2025, respectively, decreased 17% and 19% compared to $236 million and $719 million in the three and nine months ended September 30, 2024, respectively. The year-over-year decrease was primarily due to a decline in amortization expense, a decline in the cost of employee incentive programs and a reduction in headcount leading to lower personnel costs. Selling, general, administrative and research and development costs as a percentage of revenues was 16% in both the three and nine months ended September 30, 2025 compared to 17% in both the three and nine months ended September 30, 2024.
+ Gain on Sale of Business were nil and $70 million in the three and nine months ended September 30, 2025, respectively, due to the sale of our pressure pumping business in Argentina during the second quarter of 2025.
+Restructuring charges were $11 million and $51 million in the three and nine months ended September 30, 2025, respectively, and nil and $8 million in the three and nine months ended September 30, 2024, respectively. See “Note 4 – Restructuring Charges” for additional information.
+Other Charges, Net were $3 million and $19 million in the three and nine months ended September 30, 2025, respectively, and $13 million in both the three and nine months ended September 30, 2024. Other Charges, Net primarily included fees to third-party financial institutions related to collections of certain receivables from our largest customer in Mexico as well as other miscellaneous charges and credits.
+24
+Table of Contents
+Consolidated Statements of Operations - Non-Operating Summary
+Interest Expense, Net
+Interest Expense, Net was $23 million and $70 million in the three and nine months ended September 30, 2025, respectively, and $24 million and $77 million in the three and nine months ended September 30, 2024, respectively. Interest Expense, Net is interest expense net of interest income.
+ Interest expense was $34 million and $106 million in the three and nine months ended September 30, 2025, respectively, and $37 million $121 million in the three and nine months ended September 30, 2024, respectively. The decrease was primarily due to the reduction in our outstanding long-term debt. Interest income was $11 million and $36 million in the three and nine months ended September 30, 2025, respectively, and $13 million and $44 million in the three and nine months ended September 30, 2024, respectively. The year-over-year decrease was due to a reduction in our cash holdings in Argentina upon execution of the BCS. See “Note 13 – Blue Chip Swap Securities - Argentina” for additional information.  
+Loss on Blue Chip Swap Securities 
+A BCS allows entities to remit U.S. dollars from operations in Argentina. During the second quarter of 2025 and 2024, we entered into a series of BCS securities transactions that resulted in a “Loss on Blue Chip Swap Securities” of $1 million in the nine months ended September 30, 2025 and $10 million in the nine months ended September 30, 2024, respectively. During the third quarter of 2025 we entered into a series of BCS securities transactions that resulted in an immaterial impact to our financial statements. No BCS securities transactions were entered into in the third quarter of 2024. See “Note 13 – Blue Chip Swap Securities - Argentina” to our Condensed Consolidated Financial Statements for additional details.
+Other Expense, Net
+Other Expense, Net was $16 million and $60 million in the three and nine months ended September 30, 2025, respectively, and $41 million and $83 million in the three and nine months ended September 30, 2024, respectively. Other Expense, Net primarily represents foreign exchange gains and losses in countries with no or limited markets to hedge, letter of credit fees and other financing charges, including bond redemption premiums partially offset by certain investment gains and losses. When economically advantageous, we enter into foreign currency forward contracts to mitigate the risk of future cash flows denominated in a foreign currency. 
+Income Taxes 
+We provide for income taxes based on the laws and rates in effect in the countries in which operations are conducted, or in which we or our subsidiaries are considered residents for income tax purposes. The relationship between our pre-tax income or loss from continuing operations and our income tax benefit or provision varies from period to period as a result of various factors, which include changes in total pre-tax income or loss, the jurisdictions in which our income is earned, the tax laws in those jurisdictions, the impacts of tax planning activities and the resolution of tax audits. Our effective rate differs from the Irish statutory tax rate as the majority of our operations are taxed in jurisdictions with different tax rates. In addition, certain charges do not result in significant tax benefit as a result of being attributed to a non-income tax jurisdiction or our inability to forecast realization of the tax benefit of such losses. Charges can be partially offset by the utilization of previously unbenefited deferred tax assets, such as net operating loss carryforwards. Please see “Note 11 – Income Taxes” to our Condensed Consolidated Financial Statements for additional details.
+25
+Table of Contents
+Results of Operations by Segment
+Financial information by segment is summarized below. 
+Three Months Ended September 30, 2025
+Reportable Segments
+All
+(Dollars in millions)
+DRE
+WCC
+PRI
+Other
+Total
+Revenue
+$
+346
+
+$
+468
+
+$
+326
+
+$
+92
+
+$
+1,232
+
+Direct Costs
+(a)
+
+(216)
+(285)
+(223)
+Other Expense
+(b)
+(47)
+(58)
+(44)
+DRE Segment Adjusted EBITDA
+83 
+83 
+WCC Segment Adjusted EBITDA
+125 
+125 
+PRI Segment Adjusted EBITDA
+59 
+59 
+All Other
+14 
+Corporate
+(12)
+Depreciation and Amortization
+(67)
+Share-based Compensation
+(10)
+Restructuring Charges
+(11)
+Other Charges, Net
+(3)
+Operating Income
+$
+178
+
+(a)
+Segment cost of sales and direct operating costs.
+(b)
+Segment selling, general and administrative and research and development costs
+.
+Nine Months Ended September 30, 2025
+Reportable Segments
+All
+(Dollars in millions)
+DRE
+WCC
+PRI
+Other
+Total
+Revenue
+$
+1,031
+
+$
+1,365
+
+$
+987
+
+$
+246
+
+$
+3,629
+
+Direct Costs
+(a)
+
+(662)
+(822)
+(673)
+Other Expense
+(b)
+(143)
+(172)
+(130)
+DRE Segment Adjusted EBITDA
+226 
+226 
+WCC Segment Adjusted EBITDA
+371 
+371 
+PRI Segment Adjusted EBITDA
+184 
+184 
+All Other
+37 
+Corporate
+(42)
+Depreciation and Amortization
+(193)
+Share-based Compensation
+(26)
+Gain on Sale of Business
+70 
+Restructuring Charges
+(51)
+Other Charges, Net
+(19)
+Operating Income
+$
+557
+
+(a)
+Segment cost of sales and direct operating costs.
+(b)
+Segment selling, general and administrative and research and development costs
+.
+26
+Table of Contents
+Three Months Ended September 30, 2024
+Reportable Segments
+All
+(Dollars in millions)
+DRE
+WCC
+PRI
+Other
+Total
+Revenue
+$
+435
+
+$
+509
+
+$
+371
+
+94
+
+$
+1,409
+
+Direct Costs
+(a)
+
+(270)
+(296)
+(242)
+Other Expense
+(b)
+(54)
+(62)
+(46)
+DRE Segment Adjusted EBITDA
+111 
+111 
+WCC Segment Adjusted EBITDA
+151 
+151 
+PRI Segment Adjusted EBITDA
+83 
+83 
+All Other
+23 
+Corporate
+(13)
+Depreciation and Amortization
+(89)
+Share-based Compensation
+(10)
+Other Charges, Net
+(13)
+Operating Income
+$
+243
+
+(a)
+Segment cost of sales and direct operating costs.
+(b)
+Segment selling, general and administrative and research and development costs
+.
+Nine Months Ended September 30, 2024
+Reportable Segments
+All
+(Dollars in millions)
+DRE
+WCC
+PRI
+Other
+Total
+Revenue
+$
+1,284
+
+$
+1,471
+
+$
+1,088
+
+$
+329
+
+$
+4,172
+
+Direct Costs
+(a)
+
+(750)
+(869)
+(709)
+Other Expense
+(b)
+(163)
+(186)
+(138)
+DRE Segment Adjusted EBITDA
+371 
+371 
+WCC Segment Adjusted EBITDA
+416 
+416 
+PRI Segment Adjusted EBITDA
+241 
+241 
+All Other
+73 
+Corporate
+(45)
+Depreciation and Amortization
+(260)
+Share-based Compensation
+(35)
+Restructuring Charges
+(8)
+Other Charges, Net
+(13)
+Operating Income
+$
+740
+
+(a)
+Segment cost of sales and direct operating costs.
+(b)
+Segment selling, general and administrative and research and development costs
+.
+27
+Table of Contents
+DRE Results
+Three Months Ended
+Variance
+($ in Millions)
+September 30, 2025
+September 30, 2024
+$
+% or bps
+Revenue
+$
+346 
+$
+435 
+$
+(89)
+(20)
+%
+Direct Costs
+(216)
+(270)
+54 
+20 
+%
+Other Expense
+(47)
+(54)
+7
+13 
+%
+Segment Adjusted EBITDA
+$
+83 
+$
+111 
+$
+(28)
+(25)
+%
+Segment Adj EBITDA Margin
+24.0 
+%
+25.5 
+%
+n/m
+(153)
+ bps
+Nine Months Ended
+Variance
+($ in Millions)
+September 30, 2025
+September 30, 2024
+$
+% or bps
+Revenue
+$
+1,031 
+$
+1,284 
+$
+(253)
+(20)
+%
+Direct Costs
+(662)
+(750)
+88 
+12 
+%
+Other Expense
+(143)
+(163)
+20
+12 
+%
+Segment Adjusted EBITDA
+$
+226 
+$
+371 
+$
+(145)
+(39)
+%
+Segment Adj EBITDA Margin
+21.9 
+%
+28.9 
+%
+n/m
+(697)
+ bps
+DRE revenues of $346 million and $1,031 million in the three and nine months ended September 30, 2025, decreased $89 million or 20%, and decreased $253 million or 20% compared to $435 million and $1,284 million in the three and nine months ended September 30, 2024, respectively. 
+Of the third quarter year-over-year revenue decrease, approximately 50% of the decrease was from lower activity in drilling-related services and approximately 40% of the decrease was attributable to a decline in activity for managed pressure drilling. Geographically, approximately 85% of the revenue decrease was from the Latin America region.
+Of the year-to-date year-over-year revenue decrease, approximately 50% of the decrease was from lower activity in drilling-related services and approximately 30% decrease was attributable to a decline in activity for managed pressure drilling. Geographically, approximately 85% of the revenue decrease was from the Latin America region.
+DRE segment adjusted EBITDA of $83 million and $226 million in the three and nine months ended September 30, 2025, decreased $28 million or 25%, and decreased $145 million or 39%, compared to $111 million and $371 million in the three and nine months ended September 30, 2024, respectively. DRE segment adjusted EBITDA margin was 24.0% and 21.9% in the three and nine months ended September 30, 2025 compared to 25.5% and 28.9% in the three and nine months ended September 30, 2024, respectively. The third quarter and year-to-date segment adjusted EBITDA decreased year-over-year primarily due to a decline in activity in Latin America. In the third quarter, both direct costs and other expense decreased along with the decrease in activity. The rate of decrease for direct costs was the same as the rate of decrease in revenue. However, the rate of decrease in other expense was lower than rate of decrease in revenue, contributing to the decrease in margin. Year-to-date, both direct costs and other expense generally decreased in line with the decrease in activity. However, the rate of decrease in direct costs and other expense was lower than the rate of decrease in revenue, contributing to the decrease in margin.
+
+28
+Table of Contents
+WCC Results
+Three Months Ended
+Variance
+($ in Millions)
+September 30, 2025
+September 30, 2024
+$
+% or bps
+Revenue
+$
+468 
+$
+509 
+$
+(41)
+(8)
+%
+Direct Costs
+(285)
+(296)
+11 
+4 
+%
+Other Expense
+(58)
+(62)
+4 
+6 
+%
+Segment Adjusted EBITDA
+$
+125 
+$
+151 
+$
+(26)
+(17)
+%
+Segment Adj EBITDA Margin
+26.7 
+%
+29.7 
+%
+n/m
+(296)
+ bps
+Nine Months Ended
+Variance
+($ in Millions)
+September 30, 2025
+September 30, 2024
+$
+% or bps
+Revenue
+$
+1,365 
+$
+1,471 
+$
+(106)
+(7)
+%
+Direct Costs
+(822)
+(869)
+47 
+5 
+%
+Other Expense
+(172)
+(186)
+14
+8 
+%
+Segment Adjusted EBITDA
+$
+371 
+$
+416 
+$
+(45)
+(11)
+%
+Segment Adj EBITDA Margin
+27.2 
+%
+28.3 
+%
+n/m
+(110)
+ bps
+WCC revenues of $468 million and $1,365 million in the three and nine months ended September 30, 2025, decreased $41 million or 8%, and decreased $106 million or 7%, compared to $509 million and $1,471 million in the three and nine months ended September 30, 2024, respectively.
+Of the third quarter year-over-year revenue decrease, approximately 60% of the decrease was from lower activity in cementation products and approximately 35% of the decrease was attributable to a decline in activity for completions. Geographically, approximately 55% of the revenue decrease was from Latin America and approximately 25% of the revenue decrease was from Europe/Sub-Sahara Africa/Russia. The remaining decrease was in the Middle East/North Africa/Asia region.
+The year-to-date year-over-year revenue decrease was primarily due to a decline in activity for cementation products and completions which impacted approximately 50% and 45% of the decrease, respectively. This was partly offset by revenue increase from well services activity. Geographically, of the regions with revenue decreases, approximately 50% of the decrease was from Latin America, 30% from Europe/Sub-Sahara Africa/Russia and 20% from North America. This was partly offset by a revenue increase in the Middle East/North Africa/Asia region. 
+WCC segment adjusted EBITDA of $125 million and $371 million in the three and nine months ended September 30, 2025, decreased $26 million or 17%, and decreased $45 million or 11%, compared to $151 million and $416 million in the three and nine months ended September 30, 2024, respectively. WCC segment adjusted EBITDA margin was 26.7% and 27.2% in the three and nine months ended September 30, 2025, compared to 29.7% and 28.3% in the three and nine months ended September 30, 2024, respectively. The third quarter segment adjusted EBITDA decreased year-over-year primarily due to a decline in overall activity. The year-to-date segment adjusted EBITDA decreased year-over-year primarily due to a decline in overall activity partly offset by higher margin activity in the Middle East/North Africa/Asia region. In the third quarter, both direct costs and other expense decreased along with the decrease in activity. However, the rate of decrease in direct costs and other expense was lower than the rate of decrease in revenue, contributing to the decrease in margin. Year-to-date, both direct costs and other expense decreased along with the decrease in activity. However, the decrease in margin was driven by the rate of decrease for direct costs being lower than the rate of decrease in revenue, partly offset by the rate of decrease for other expense being higher than the rate of decrease in revenue.
+29
+Table of Contents
+PRI Results
+Three Months Ended
+Variance
+($ in Millions)
+September 30, 2025
+September 30, 2024
+$
+% or bps
+Revenue
+$
+326 
+$
+371 
+$
+(45)
+(12)
+%
+Direct Costs
+(223)
+(242)
+19 
+8 
+%
+Other Expense
+(44)
+(46)
+2
+4 
+%
+Segment Adjusted EBITDA
+$
+59 
+$
+83 
+$
+(24)
+(29)
+%
+Segment Adj EBITDA Margin
+18.1 
+%
+22.4 
+%
+n/m
+(427)
+ bps
+Nine Months Ended
+Variance
+($ in Millions)
+September 30, 2025
+September 30, 2024
+$
+% or bps
+Revenue
+$
+987 
+$
+1,088 
+$
+(101)
+(9)
+%
+Direct Costs
+(673)
+(709)
+36 
+5 
+%
+Other Expense
+(130)
+(138)
+8
+6 
+%
+Segment Adjusted EBITDA
+$
+184 
+$
+241 
+$
+(57)
+(24)
+%
+Segment Adj EBITDA Margin
+18.6 
+%
+22.2 
+%
+n/m
+(351)
+ bps
+PRI revenues of $326 million and $987 million in the three and nine months ended September 30, 2025, decreased $45 million or 12% and decreased $101 million or 9% compared to $371 million and $1,088 million in the three and nine months ended September 30, 2024, respectively. 
+The third quarter year-over-year revenue decrease was primarily due to a decline in activity for intervention services and drilling tools and pressure pumping which impacted 50% and 45% of the decrease, respectively, among product lines within the segment that experienced year-over-year decreases. The sale of our pressure pumping business in Argentina in the second quarter was the primary contributor to the decline in pressure pumping activity. The decrease in revenue was partly offset by revenue increase from sub-sea intervention activity. Geographically, approximately 65% of the revenue decrease was from the Latin America region.
+The year-to-date year-over-year revenue decrease was primarily due to a decline in activity for intervention services and drilling tools which impacted approximately 60% of the decrease with the remaining decrease primarily from lower pressure pumping activity which impacted approximately 40% of the decrease. This was partly offset by revenue increase from sub-sea intervention activity. Geographically, approximately 70% of the revenue decrease was from the Latin America region. 
+PRI segment adjusted EBITDA of $59 million and $184 million in the three and nine months ended September 30, 2025, decreased $24 million or 29% and decreased $57 million or 24% compared to $83 million and $241 million in the three and nine months ended September 30, 2024, respectively. PRI segment adjusted EBITDA margin was 18.1% and 18.6% in the three and nine months ended September 30, 2025, compared to 22.4% and 22.2% in the three and nine months ended September 30, 2024. The third quarter and year-to-date segment adjusted EBITDA decreased year-over-year primarily due to a decline in overall activity. Both direct costs and other expense generally decreased in line with the decrease in activity. However, the rate of decrease in direct costs and other expense was lower than the rate of decrease in revenue, contributing to the decrease in margin.
+All Other Results
+All Other results were from non-core business activities that do not individually meet the criteria for segment reporting, including integrated services and projects, which includes pass-through and project management services.
+All Other revenues were $92 million and $246 million in the three and nine months ended September 30, 2025, compared to $94 million and $329 million in the three and nine months ended September 30, 2024. The year-over-year decrease was due to a decline in international activity for integrated services and projects.
+30
+Table of Contents
+Corporate
+Corporate incurred net expense of $12 million and $42 million in the three and nine months ended September 30, 2025 compared to $13 million and $45 million in the three and nine months ended September 30, 2024. The year-over-year decreases were primarily due to reduced costs in certain professional fees.
+Depreciation and Amortization
+Depreciation and amortization expense was $67 million and $193 million in the three and nine months ended September 30, 2025 compared to $89 million and $260 million in the three and nine months ended September 30, 2024. The year-over-year decreases were primarily due to certain intangible assets reaching full amortization in the fourth quarter of 2024. 
+Share-based Compensation
+We recognized $10 million and $26 million of share-based compensation in the three and nine months ended September 30, 2025 compared to $10 million and $35 million in the three and nine months ended September 30, 2024. The year-over-year decrease was primarily due to the vesting of previously granted equity awards, resulting in a lower number of unvested awards subject to expense recognition.
+Outlook
+Growth and spending in the energy services industry is highly dependent on many external factors. These include but are not limited to; the impact from geopolitical conflicts; our customers’ capital expenditures; environmental, social and other sustainability policies and initiatives; world economic, political, trade, and weather conditions; the price of oil, natural gas, and alternatives; member-country quota compliance within the Organization of Petroleum Exporting Countries and the expanded alliance (OPEC+); and, non-OPEC+ investments and project timing. Imbalances across geographies driven by geopolitical conflicts, investment variances and supply disruptions are driving a greater focus on energy security and resiliency, which in turn is creating a shift towards national oil companies and diversification across multiple energy sources (oil, gas, coal, renewables, etc.) to meet domestic and global demand.
+The market has softened over the past nine months due to uncertainty around the impact of tariffs and trade policies, continued geopolitical instability and additional supply volumes coming to the market from both OPEC+ unwound voluntary oil production cuts and potential new supply additions. The industry has witnessed substantial oilfield services spend and activity reductions in Mexico and North America, slower growth in parts of the Middle East, and project delays in various regions.   In the near term, we anticipate an ongoing emphasis on capital discipline and operational efficiencies worldwide to continue exerting downward pressure on demand for our services and products throughout the remainder of 2025 into the first half of 2026.  Additionally, trade policy  uncertainty in our industry and in relation to global economic outlook will continue to  negatively impact both domestic and international crude demand, and  increase cost pressure on the sector.  
+Over the mid to long-term, we expect demand for oil and natural gas exploration and production as well as new energy platforms to continue to require more advanced technology from the energy service industry. While we remain cautious on our activity profile as we calibrate macroeconomic conditions with customer demand, we are confident that adoption of our differentiated technologies and market penetration will provide a pathway to long-cycle growth. We continue to closely monitor and adapt to macroeconomic and trade conditions, potential supply chain disruptions, inflationary factors, and other labor and logistical constraints that could impact our operations and results.
+31
+Table of Contents
+Liquidity and Capital Resources
+At September 30, 2025, we had cash and cash equivalents of $967 million and $64 million in restricted cash, compared to $916 million of cash and cash equivalents and $59 million in restricted cash at December 31, 2024. 
+The following table summarizes cash flows provided by (used in) each type of business activity in the periods presented:
+Nine Months Ended September 30,
+(Dollars in millions)
+2025
+2024
+Net Cash Provided by Operating Activities
+$
+408 
+$
+543 
+Net Cash Used in Investing Activities
+$
+(82)
+$
+(207)
+Net Cash Used in Financing Activities
+$
+(277)
+$
+(378)
+Operating Activities
+Cash provided by operating activities was $408 million for the nine months ended September 30, 2025 compared to cash provided by operating activities of $543 million for the nine months ended September 30, 2024. The decrease in cash provided by operating activities in 2025 over 2024 was primarily due to a decrease in collections as a result of decreased revenue and slowdown in payments from our largest customer in Mexico, partially offset by lower employee costs. During both the nine months ended September 30, 2025 and September 30, 2024, we had arrangements with third-party financial institutions related to collections of certain receivables from our largest customer in Mexico. Pursuant to such arrangements, we received $93 million and $459 million during the nine months ended September 30, 2025 and September 30, 2024, respectively. Factoring arrangements related to certain receivables during both the nine months ended September 30, 2025 and September 30, 2024 resulted in cash proceeds at the time of factoring of $231 million and $54 million, respectively.
+Investing Activities
+Cash used in investing activities was $82 million for the nine months ended September 30, 2025. The primary investing use of cash was for capital expenditures of $175 million, partially offset by $97 million of proceeds received from the sale of our pressure pumping business in Argentina (see “Note 2 – Segment Information”). Cash used in investing activities also includes the use of the BCS mechanism in Argentina, of which the purchases of $103 million offset the proceeds of $102 million, resulting in a loss of $1 million during the nine months ended September 30, 2025 (see “Note 13 – Blue Chip Swap Securities - Argentina”). 
+Cash used in investing activities was $207 million for the nine months ended September 30, 2024. The primary investing activities were cash used for capital expenditures of $199 million and cash used for acquisitions net of cash acquired, of $51 million. Cash used in investing activities also includes the use of the BCS mechanism in Argentina, of which the purchases of $50 million offset the proceeds of $40 million, resulting in a loss of $10 million during the nine months ended September 30, 2024. The uses of cash were primarily offset by proceeds from sale of investments of $41 million from our marketable securities in Argentina.
+Financing Activities
+Cash used in financing activities was $277 million for the nine months ended September 30, 2025. The primary financing uses of cash were for share repurchases of $94 million (see “Note 9 – Shareholders’ Equity”), repayments and repurchases of long-term debt of $80 million (including $61 million in repurchases of our 2030 Senior Notes, see “Note 7 – Borrowings and Other Debt Obligations”), cash dividends of $54 million and tax remittances on equity awards vested of $20 million.
+Cash used in financing activities was $378 million for the nine months ended September 30, 2024. The primary financing uses of cash were for repayments and repurchases of long-term debt of $264 million and share repurchases of $50 million.
+32
+Table of Contents
+Sources of Liquidity 
+Our sources of available liquidity include cash generated by our operations, cash and cash equivalent balances, and periodic accounts receivable factoring. From time to time, we may enter into transactions to dispose of businesses or capital assets that no longer fit our long-term strategy. We historically have accessed banks for short-term loans and the capital markets for debt and equity offerings. Based upon current and anticipated levels of operations and collections, we expect to have sufficient cash from operations and cash on hand to fund our cash requirements (discussed below), both in the short-term and long-term. 
+Cash Requirements
+Our cash requirements will continue to include payments for principal and interest on our long-term debt, capital expenditures, payments on our finance and operating leases, payments for short-term working capital needs, operating costs and restructuring payments. We expect to utilize cash in our capital allocation framework, which includes investments in technology and infrastructure upgrades, and in strategic mergers and acquisitions. Our cash requirements also include personnel costs, including awards under our employee incentive programs and other amounts to settle litigation related matters. In addition, we have derivative financial instruments where we have notional amounts that do not generally represent cash amounts exchanged by the parties and are calculated based on the terms of the derivative instrument, however, in the event of a related default, we could potentially be required to pay. See further discussion in our Consolidated Financial Statements included in our Form 10-K for the year ended December 31, 2024 (“2024 Form 10-K”) and “Note 12 – Credit Default Swap.” Our cash requirements also include payments for our shareholder returns programs described in “Note 9 – Shareholders’ Equity.” 
+As of September 30, 2025, the aggregate principal amount of our primary debt outstanding was $1.54 billion of our 2030 Senior Notes. Subsequent to September 30, 2025, we issued $1.2 billion of 2033 Senior Notes and redeemed $893 million of our 2030 Senior Notes.  We expect to pay $120 million in interest payments in 2025 specific to these notes which includes $68 million paid for interest on our 2030 Senior Notes during the nine months ended September 30, 2025. See “Note 7 – Borrowings and Other Debt Obligations” and “Note 14 – Subsequent Events” for additional information.
+Our capital spend is expected to be 3-5% of revenue over a 12 to 18 month rolling period and our 2025 capital spend is projected to be within the same framework. Our payments on our operating and finance leases in 2025 are expected to be approximately $64 million and $37 million, respectively.
+Cash and cash equivalents and restricted cash are held by subsidiaries outside of Ireland. At September 30, 2025 and December 31, 2024, we had approximately $36 million and $127 million, respectively, of our cash and cash equivalents that cannot be immediately repatriated from various countries due to country central bank controls or other regulations. As we continue to conduct business in certain countries with cash that cannot be immediately repatriated, we may consider infrequent transactions to safeguard our cash from exposure to the effects of inflation and currency devaluation. Repatriation of those cash balances might result in incremental taxes or losses.
+Ratings Services’ Credit Ratings
+Our credit ratings at December 31, 2024 have been upgraded through September 30, 2025 as follows:
+•
+Moody's Investors Service upgraded our Corporate Family Rating from ‘Ba3’ to ‘Ba2;’ with a positive outlook
+•
+Standard and Poor upgraded our issuer credit ratings from ‘BB-’ to ‘BB;’ with a stable outlook 
+•
+Fitch Ratings upgraded our issuer credit ratings from ‘BB-’ to ‘BB;’ with a stable outlook
+Customer Receivables
+We may experience delays or defaults in customer payments due to, among other reasons, a weaker economic environment, reductions in our customers’ cash flow from operations, our customers’ inability to access credit markets or reach acceptable financing terms, as well as unsettled political and/or social conditions. Allowances have been recorded for receivables believed to be uncollectible, including amounts for the resolution of potential credit and other collection issues such as disputed invoices. Adjustments to the allowance are made depending on how potential issues are resolved and the financial condition of our customers. In addition, our customers are primarily in fossil fuel-related industries and broad declines in demand for or pricing of oil or natural gas might impact the collections of our customer receivables.
+33
+Table of Contents
+Our net accounts receivables in Mexico were 37% and 31% of our total net accounts receivables, as of September 30, 2025 and December 31, 2024, respectively, of which our largest customer in the country accounted for 34% and 26% of our total net outstanding accounts receivables, respectively. Mexico continues to account for a large and increased percentage of our receivables despite dropping below 10% of total revenues for the three and nine months ended September 30, 2025 due to further payment delays from our largest customer in Mexico. Our largest customer in Mexico has a history of making late payments and, in more recent periods, has utilized third-party financial institutions to pay certain of our receivables. The balances due are not in dispute, however, additional or continued delays in customer payments in the future could differ from historical practice and management’s current expectations; and delays or failures to pay or defaults, if any, could negatively impact the future results of the Company.
+During the nine months ended September 30, 2025 we paid an immaterial amount of fees to third-party financial institutions related to collections of certain receivables from our largest customer in Mexico. Pursuant to such arrangements, we received $93 million during the nine months ended September 30, 2025.
+Except for the above, no other country accounted for more than 10% of our net accounts receivables balance. 
+Accounts Receivable Factoring
+From time to time, we participate in factoring arrangements to sell accounts receivable to third-party financial institutions for cash proceeds net of discounts and hold-back. During the three and nine months ended September 30, 2025, we sold accounts receivable balances of $91 million and 
+$234 million, and received cash proceeds of $90 million and $231 million, respectively, at the time of factoring. During the three and nine months ended September 30, 2024, we sold accounts receivable balances of $4 million and $55 million, and received cash proceeds of $4 million and $54 million, respectively, at the time of factoring.
+The above factoring proceeds were included in Net Cash Provided by Operating Activities in the Condensed Consolidated Statements of Cash Flows.
+Guarantees
+Our 2030 Senior Notes were issued by Weatherford International Ltd. (“Weatherford Bermuda”) and guaranteed by the Company and other subsidiary guarantors party thereto. On December 1, 2022, the indenture related to our 2030 Senior Notes was amended and supplemented to add Weatherford International, LLC (“Weatherford Delaware”) as co-issuer and co-obligor, and concurrently released the guarantee of Weatherford Delaware.
+On October 6, 2025, the 2033 Senior Notes were issued by Weatherford Bermuda and guaranteed by the Company and other subsidiary guarantors party thereto. The details of this transaction can be found in “Note 14 - Subsequent Events”. 
+Credit Agreement, Letters of Credit and Surety Bonds
+
+Weatherford Bermuda, Weatherford Delaware, Weatherford Canada Ltd. (“Weatherford Canada”) and WOFS International Finance GmbH (“Weatherford Switzerland”), together as borrowers, and the Company as parent, have an amended and restated credit agreement (the “Credit Agreement”). The Credit Agreement is guaranteed by the Company and certain of our subsidiaries and secured by substantially all of the personal property of the Company and those subsidiaries. At December 31, 2024, the Credit Agreement allowed for a total commitment amount of $720 million, maturing on October 24, 2028. Financial covenants in the Credit Agreement include a $250 million minimum liquidity covenant (which may increase up to $400 million dependent on the nature of transactions we may decide to enter into), a minimum interest coverage ratio of 2.50 to 1.00, a maximum total net leverage ratio of 3.50 to 1.00, and a maximum secured net leverage ratio of 1.50 to 1.00.
+On September 18, 2025, we amended the Credit Agreement to (i) allow for an increase in total commitment amount from $720 million to $1 billion comprised of $600 million to be used either for revolving loans or financial letters of credit and $400 million to be used for performance letters of credit, (ii) extend the maturity date to the earlier of September 18, 2030 or January 29, 2030 if more than $200 million of 2030 Senior Notes or Permitted Refinancing Indebtedness are outstanding on that date and (iii) include an accordion feature that will allow for further increases of commitments up to $1.15 billion.
+34
+Table of Contents
+As of September 30, 2025, under the Credit Agreement we had zero borrowings, $6 million in financial letters of credit and $255 million in performance letters of credit outstanding. Additionally as of September 30, 2025, we had $179 million letters of credit under various uncommitted bi-lateral facilities ($48 million of which was cash collateral held and recorded in “Restricted Cash” on the Condensed Consolidated Balance Sheets).
+ As of December 31, 2024, under the Credit Agreement we had zero borrowings, $12 million in financial letters of credit and $279 million in performance letters of credit outstanding. Additionally as of December 31, 2024, we had $91 million of letters of credit under various uncommitted bi-lateral facilities ($49 million of which was cash collateral held and recorded in “Restricted Cash” on the Condensed Consolidated Balance Sheets).
+We utilize surety bonds as part of our customary business practice in certain regions, primarily Latin America. As of September 30, 2025 and December 31, 2024, we had surety bonds outstanding of $503 million and $520 million, respectively. Any of our outstanding letters of credit or surety bonds could be called by the beneficiaries should we breach certain contractual or performance obligations and could reduce our available liquidity if we are unable to mitigate the issue.
+Forward-Looking Statements 
+This report contains various statements relating to future financial performance and results, business strategy, plans, goals and objectives, including certain projections, business trends, our shareholder returns program, and other statements that are not historical facts. These statements constitute forward-looking statements. These forward-looking statements generally are identified by the words “believe,” “project,” “expect,” “anticipate,” “estimate,” “intend,” “budget,” “strategy,” “plan,” “guidance,” “outlook,” “may,” “should,” “could,” “will,” “would,” “will be,” “will continue,” “will likely result,” and similar expressions, although not all forward-looking statements contain these identifying words.
+Forward-looking statements reflect our beliefs and expectations based on current estimates and projections. While we believe these expectations, and the estimates and projections on which they are based, are reasonable and were made in good faith, these statements are subject to numerous risks and uncertainties. Accordingly, our actual outcomes and results may differ materially from what we have expressed or forecasted in the forward-looking statements. The forward-looking statements included herein are only made as of the date of this report, or if earlier, as of the date they were made, and we undertake no obligation to correct, update or revise any forward-looking statement, whether as a result of new information, future events, or otherwise, except to the extent required under federal securities laws. The following, together with disclosures under the heading “Item 1A. Risk Factors” in our 2024 Form 10-K, Part I, and “Part II – Other Information – Item 1A. Risk Factors” of this Form 10-Q, sets forth certain risks and uncertainties relating to our forward-looking statements that may cause actual results to be materially different from our present expectations or projections:
+•
+global political, economic and market conditions, political disturbances, war or other global conflicts, terrorist attacks, changes in global trade policies, tariffs and sanctions, weak local economic conditions and international currency fluctuations (including the Russia Ukraine Conflict and conflicts in the Middle East);
+•
+general global economic repercussions related to U.S. and global inflationary pressures and potential recessionary concerns;
+•
+failure to ensure on-going compliance with current and future laws and government regulations, including but not limited to those related to the Russia Ukraine Conflict, and environmental and tax and accounting laws, rules and regulations;
+•
+changes in, and the administration of, treaties, laws, and regulations, including in response to issues related to the Russia Ukraine Conflict such as nationalization of assets, and the potential for such issues to exacerbate other risks and uncertainties listed or referenced;
+•
+increases in the prices and lead times, and the lack of availability of our procured products and services, including due to macroeconomic and geopolitical conditions such as tariffs and changes in trade policies;
+•
+our ability to timely collect from customers;
+•
+cybersecurity incidents, as our reliance on digital technologies increases, those digital technologies may become more vulnerable and/or experience a higher rate of cybersecurity attacks, intrusions or incidents in the current environment of remote connectivity, as well as increased geopolitical conflicts and tensions, including as a result of the Russia Ukraine Conflict;
+•
+our ability to comply with, and respond to, climate change, environmental, social and governance and other “sustainability” initiatives and future legislative and regulatory measures both globally and in the specific geographic regions in which we and our customers operate;
+35
+Table of Contents
+•
+our ability to effectively and timely address the need to conduct our operations and provide services to our customers more sustainably and with a lower carbon footprint;
+•
+the price and price volatility of, and demand for, oil, natural gas and natural gas liquids;
+•
+member-country quota compliance within the Organization of Petroleum Exporting Countries;
+•
+our ability to realize expected revenues and profitability levels from current and future contracts;
+•
+our ability to generate cash flow from operations to fund our operations;
+•
+our ability to effectively and timely adapt our technology portfolio, products and services to remain competitive and to address and participate in changes to the market demands, including for the transition to alternate sources of energy such as geothermal, carbon capture and responsible abandonment, including our digitalization efforts;
+•
+our ability to realize cost savings and business enhancements from our revenue and cost improvement efforts;
+•
+our ability to effectively execute our capital allocation framework;
+•
+our ability to attract, motivate and retain employees, including key personnel;
+•
+our ability to access the capital markets on terms that are commercially acceptable to the Company;
+•
+our ability to manage our workforce, supply chain challenges and disruptions, business processes, information technology systems and technological innovation and commercialization, including the impact of our organization restructure, business enhancements, improvement efforts and the cost and support reduction plans;
+•
+our ability to return capital to shareholders, including those related to the timing and amounts (including any plans or commitments in respect thereof) of any dividends and share repurchases;
+•
+our ability to service our debt obligations;
+•
+potential non-cash asset impairment charges for long-lived assets, intangible assets or other assets;
+•
+adverse weather conditions in certain regions of our operations; and
+•
+risks associated with disease outbreaks and other public health issues, including a pandemic, their impact on the global economy and our business, customers, suppliers and other partners; further spread and potential for a resurgence of a pandemic in a given geographic region and related disruptions to our business, employees, customers, suppliers and other partners and additional regulatory measures or voluntary actions that may be put in place to limit the spread of a pandemic, including vaccination requirements and the associated availability of vaccines, restrictions on business operations or social distancing requirements, and the duration and efficacy of such restrictions.
+Many of these factors are macroeconomic in nature and are, therefore, beyond our control. Should one or more of these risks or uncertainties materialize, affect us in ways or to an extent that we currently do not expect or consider to be significant, or should underlying assumptions prove incorrect, our actual results, performance or achievements may vary materially from those described in this report as anticipated, believed, estimated, expected, intended, planned or projected.
+Finally, our future results will depend upon various other risks and uncertainties, including, but not limited to, those detailed in our current and past filings with the SEC under the Exchange Act and the Securities Act of 1933, as amended.
+Item 3. Quantitative and Qualitative Disclosures About Market Risk.
+Our exposure to market risk has not changed materially since December 31, 2024. For additional information, see Note 7 – Borrowings and Other Debt Obligations”, “Note 12 – Credit Default Swap” and “Note 13 – Blue Chip Swap Securities - Argentina” in the Notes to Condensed Consolidated Financial Statements, as well as “Other Expense, Net” and “Liquidity and Capital Resources” under Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations. 
+Item 4. Controls and Procedures.
+Evaluation of Disclosure Controls and Procedures. 
+Disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) are designed to ensure that information required to be disclosed in our reports filed under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms. This information is collected and communicated to management, including our Chief Executive Officer (“CEO”) and Chief Financial Officer (“CFO”), as appropriate, to allow timely decisions regarding required disclosures.
+Our management, under the supervision and with the participation of our CEO and CFO, evaluated the effectiveness of the design and operation of our disclosure controls and procedures at September 30, 2025. Based on that evaluation, our CEO and CFO concluded that our disclosure controls and procedures were effective as of September 30, 2025.
+36
+Table of Contents
+Our management identified no change in our internal control over financial reporting that occurred during the three months ended September 30, 2025 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+37
+Table of Contents
+PART II – OTHER INFORMATION
+Item 1. Legal Proceedings.
+See “Note 8 – Disputes, Litigation and Legal Contingencies” in our Notes to Condensed Consolidated Financial Statements for details regarding our ongoing disputes and litigation. 
+Item 1A. Risk Factors. 
+An investment in our securities involves various risks. You should consider carefully all of the risk factors described in our 2024 Form 10-K, Part I, under the heading “Item 1A. Risk Factors” and other information included and incorporated by reference in this report. As of September 30, 2025, there have been no material changes in our assessment of our risk factors from the aforementioned.
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+Unregistered Sales of Equity Securities
+None. 
+Issuer Repurchases of Equity Securities
+Following is a summary of our repurchases of our ordinary shares during the three months ended September 30, 2025.
+Period
+Total Number of Shares Purchased
+Average Price Paid per Share
+Total Number of Shares Purchased as Part of a Publicly Announced Program
+ (1)
+Maximum Dollar Value of Shares that may yet be Purchased Under the Program 
+(1)
+July 1 - 31
+— 
+$0.00
+— 
+$313,800,776
+August 1 - 31
+59,691 
+$57.34
+59,691 
+$310,378,210
+September 1 - 30
+53,243 
+$64.28
+53,243 
+$306,955,923
+Total
+112,934 
+$60.61
+112,934 
+(1)
+ On July 23, 2024, we announced a program under which we may repurchase our ordinary shares from time to time, up to $500 million through June 2027. Approximately $307 million remained authorized for repurchases as of September 30, 2025. From the inception of this program in July of 2024 through September 30, 2025, we have repurchased approximately 2.8 million ordinary shares for $193 million.
+Item 3. Defaults Upon Senior Securities.
+None. 
+Item 4. Mine Safety Disclosures.
+
+Not applicable.
+38
+Table of Contents
+Item 5. Other Information.
+During the three months ended September 30, 2025, the following executive officer of the Company 
+adopted
+ or 
+terminated
+ a “Rule 10b5-1 trading arrangement” or “non-Rule 10b5-1 trading arrangement,” as each term is defined in Item 408(a) of Regulation S-K.  No trading arrangements were adopted or terminated by any of the Company’s non-employee directors.
+Executive Officer
+Title
+Reporting Action
+Adoption Date
+Plan End Date
+(1)
+Aggregate Shares Covered
+Intended to Satisfy 10b5-1
+Kristin Ruzicka
+Chief Human Resources Officer
+Plan Adoption
+9/9/2025
+10/30/2026
+4,258
+Yes
+(1)  The trading arrangement permits transactions through and including the earlier to occur of (i) the completion of all sales of shares subject to the arrangement, (ii) the date listed in the “Plan End Date” column, or (iii) the occurrence of such other termination event as specified in the arrangement.
+
+Item 6. Exhibits.
+All exhibits designated with a dagger (†) are filed herewith or double dagger (††) are furnished herewith. 
+Exhibit Number
+Description
+Original Filed Exhibit
+File Number
+10.1
+Tenth Amendment to Amended and Restated Credit Agreement, dated as of September 18, 2025, by and among Weatherford International Ltd., Weatherford International, LLC, Weatherford Canada Ltd., WOFS International Finance GmbH, Weatherford International plc, the lenders party thereto and Wells Fargo Bank, National Association, as administrative agent.
+Exhibit 10.1 to Current Report on Form 8-K filed September 22, 2025. 
+File No. 1-36504
+†31.1
+Certification of Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+File No. 1-36504
+†31.2
+Certification of Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+File No. 1-36504
+††32.1
+Certification of Chief Executive Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+File No. 1-36504
+††32.2
+Certification of Chief Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+File No. 1-36504
+†101.INS
+XBRL Instance Document - The instance document does not appear in the interactive data file because its XBRL tags are embedded within the inline XBRL document
+†101.SCH
+XBRL Taxonomy Extension Schema Document
+†101.CAL
+XBRL Taxonomy Extension Calculation Linkbase Document
+†101.DEF
+XBRL Taxonomy Extension Definition Linkbase Document
+†101.LAB
+XBRL Taxonomy Extension Label Linkbase Document
+†101.PRE
+XBRL Taxonomy Extension Presentation Linkbase Document
+†104
+Cover Page Interactive Data File (formatted as inline XBRL and contained in Exhibit 101)
+39
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+Weatherford International plc
+Date:
+October 22, 2025
+By:
+/s/ Anuj Dhruv
+ Anuj Dhruv
+Executive Vice President and Chief Financial Officer
+Date:
+October 22, 2025
+By:
+/s/ Desmond J. Mills
+Desmond J. Mills
+Senior Vice President and Chief Accounting Officer
+40

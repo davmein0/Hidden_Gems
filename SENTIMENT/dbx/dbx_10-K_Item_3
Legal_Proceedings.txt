@@ -1,0 +1,147 @@
+Item 3.
+Legal Proceedings
+45
+Item 4.
+Mine Safety Disclosures
+46
+Part II
+Item 5.
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+47
+Item 6. 
+[Reserved]
+48
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+49
+Item 7A.
+Quantitative and Qualitative Disclosures About Market Risk
+67
+Item 8.
+Financial Statements and Supplementary Data
+68
+Item 9.
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+112
+Item 9A.
+Controls and Procedures
+112
+Item 9B.
+Other Information
+113
+Item 9C.
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+113
+Part III
+Item 10.
+Directors, Executive Officers and Corporate Governance
+114
+Item 11.
+Executive Compensation
+114
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+114
+Item 13.
+Certain Relationships and Related Transactions, and Director Independence
+114
+Item 14.
+Principal Accountant Fees and Services
+114
+Part IV
+Item 15.
+Exhibits, Financial Statement Schedules
+115
+Item 16.
+Form 10-K Summary
+118
+2
+Table of Contents
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS
+This Annual Report on Form 10-K contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), which statements involve substantial risk and uncertainties. Forward-looking statements generally relate to future events or our future financial or operating performance. In some cases, you can identify forward-looking statements because they contain words such as “may,” “will,” “should,” “expects,” “plans,” “anticipates,” “could,” “intends,” “target,” “projects,” “contemplates,” “believes,” “estimates,” “predicts,” “potential,” or “continue” or the negative of these words or other similar terms or expressions that concern our expectations, strategy, plans, or intentions. Forward-looking statements contained in this Annual Report on Form 10-K include, but are not limited to, statements about:
+•
+Our ability to retain and upgrade paying users;
+•
+Our ability to attract new users or convert registered users to paying users;
+•
+Our ability to prevent security breaches and our liability or other potential legal, regulatory, or reputational consequences of any unauthorized access to our data or our customer data, including the impact of the incident we experienced in April 2024;
+•
+Our future financial performance, including trends in revenue, costs of revenue, gross profit or gross margin, operating expenses, paying users, annual recurring revenue, average revenue per user, free cash flow, and the assumptions underlying such trends;
+•
+Our expectations regarding general economic, political, and market trends and their respective impacts on our business; 
+•
+Our ability to compete successfully in competitive markets; 
+•
+Our expectations regarding the potential impacts of permanent global remote or distributed work, on our business, the business of our customers, suppliers and partners, and the economy;
+•
+The demand for our platform or for content collaboration solutions in general;
+•
+Our ability to effectively integrate our platform with others;
+•
+Our ability to respond to rapid technological changes, including our ability to take advantage of potential market opportunities arising from what we believe to be a more permanent shift towards remote or distributed work;
+•
+Our ability to achieve or maintain profitability;
+•
+Our expectations around future growth;
+•
+Our ability to successfully introduce new products and features; 
+•
+Our ability to effectively invest in the development of new products and technologies;
+•
+Our ability to attract, retain, integrate, and manage key and other highly qualified personnel, including in light of our workforce reductions and as a result of our Virtual First model with an increasingly distributed workforce;
+•
+Our capital allocation plans, including expected allocations of cash and timing for our share repurchases and other investments;
+•
+Our expectations regarding the challenges and anticipated benefits to our business from our Virtual First work model as well as the impact to our financial results and business operations as a result of this model;
+•
+The effects of new or modified laws, policies, taxes, and regulations on our business;
+•
+Our ability to maintain, protect, and enhance our intellectual property;
+3
+Table of Contents
+•
+The sufficiency of our cash and cash equivalents to meet our liquidity needs; and
+•
+Acquisitions of companies and assets.  
+We caution you that the foregoing list may not contain all of the forward-looking statements made in this Annual Report on Form 10-K.
+You should not rely upon forward-looking statements as predictions of future events. We have based the forward-looking statements contained in this Annual Report on Form 10-K primarily on our current expectations and projections about future events and trends that we believe may affect our business, financial condition, results of operations, and prospects. The outcome of the events described in these forward-looking statements is subject to risks, uncertainties, and other factors described in the section titled “Risk Factors” and elsewhere in this Annual Report on Form 10-K. Moreover, we operate in a very competitive and rapidly changing environment. New risks and uncertainties emerge from time to time, and it is not possible for us to predict all risks and uncertainties that could have an impact on the forward-looking statements contained in this Annual Report on Form 10-K. We cannot assure you that the results, events, and circumstances reflected in the forward-looking statements will be achieved or occur, and actual results, events, or circumstances could differ materially from those described in the forward-looking statements.
+The forward-looking statements made in this Annual Report on Form 10-K relate only to events as of the date on which the statements are made. We undertake no obligation to update any forward-looking statements made in this Annual Report on Form 10-K to reflect events or circumstances after the date of this Annual Report on Form 10-K or to reflect new information or the occurrence of unanticipated events, except as required by law. We may not actually achieve the plans, intentions, or expectations disclosed in our forward-looking statements, and you should not place undue reliance on our forward-looking statements. Our forward-looking statements do not reflect the potential impact of any future acquisitions, mergers, dispositions, joint ventures, or investments we may make.
+4
+Table of Contents
+SUMMARY OF RISK FACTORS
+Below is a summary of the principal factors that could materially harm our business, operating results and/or financial condition, impair our future prospects or cause the price of our Class A common stock to decline. This summary does not address all of the risks that we face. Additional discussion of the risks summarized in this risk factor summary, and other risks that we face, can be found below under the heading “Risk Factors” and should be carefully considered, together with other information in this Form 10-K and our other filings with the Securities and Exchange Commission ("SEC") before making an investment decision regarding our Class A common stock.
+•
+Our business depends on our ability to retain and upgrade paying users, and any decline in renewals or upgrades could adversely affect our future results of operations.
+•
+Our future growth could be harmed if we fail to attract new users or convert registered users to paying users.
+•
+We have in the past and may continue to experience privacy and data security breaches or incidents.
+•
+Our rate of growth has declined in past periods. If we do not successfully execute our plan for future growth, our growth rate may continue to decline and we may experience negative growth.
+•
+Our business could be harmed by any significant disruption of service on our platform or loss of content.
+•
+We operate in competitive markets, and we must continue to compete effectively.
+•
+Failure to respond to rapid technological changes, extend our platform, or develop new features or products may harm our ability to compete effectively, which would adversely affect our business.
+•
+Our business depends upon the interoperability of our platform across devices, operating systems, and third-party applications that we do not control.
+•
+Our business may be significantly impacted by a change in general economic, political, and market conditions, including any resulting effect on consumer or business spending.
+•
+We generate revenue from sales of subscriptions to our platform, and declines in demand for our platform, or for content collaboration solutions in general, could negatively impact our business.
+•
+We depend on our key personnel and other highly qualified personnel, and if we fail to attract, integrate, and retain our personnel, and maintain our unique corporate culture, our business could be harmed.
+•
+We operate with a Virtual First workforce and the long-term impact of this model on our financial results and business operations remains uncertain.
+•
+Our lack of a significant outbound sales force may limit the potential growth of our business.
+•
+Our revenue growth rate has declined in recent periods and may continue to slow in the future.
+•
+We may increase expenses in the future, and we may not be able to achieve or maintain profitability in future periods.
+•
+Servicing our indebtedness under our term loan facility, 2026 Notes and 2028 Notes (as defined below) may require a significant amount of cash, and we may not have sufficient cash flow or the ability to raise the funds necessary to satisfy our obligations under the term loan facility, 2026 Notes, or 2028 Notes.
+5
+Table of Contents
+PART I.

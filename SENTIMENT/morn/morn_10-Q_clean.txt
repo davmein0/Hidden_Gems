@@ -1,0 +1,7802 @@
+morn-20250930
+6
+1
+2
+3
+4
+5
+0001289419
+12/31
+2025
+Q3
+FALSE
+41129198
+6.3
+7.1
+821.5
+790.4
+—
+—
+200,000,000
+200,000,000
+41,506,582
+42,869,380
+13,455,133
+12,010,630
+0
+1.4
+0.0
+1.2
+—
+—
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+xbrli:pure
+morn:segments
+0001289419
+2025-01-01
+2025-09-30
+0001289419
+2025-10-24
+0001289419
+2025-07-01
+2025-09-30
+0001289419
+2024-07-01
+2024-09-30
+0001289419
+2024-01-01
+2024-09-30
+0001289419
+2025-09-30
+0001289419
+2024-12-31
+0001289419
+us-gaap:CommonStockMember
+2024-12-31
+0001289419
+us-gaap:TreasuryStockCommonMember
+2024-12-31
+0001289419
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0001289419
+us-gaap:RetainedEarningsMember
+2024-12-31
+0001289419
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-31
+0001289419
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-03-31
+0001289419
+2025-01-01
+2025-03-31
+0001289419
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-01-01
+2025-03-31
+0001289419
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0001289419
+us-gaap:AdditionalPaidInCapitalMember
+2025-01-01
+2025-03-31
+0001289419
+us-gaap:TreasuryStockCommonMember
+2025-01-01
+2025-03-31
+0001289419
+us-gaap:CommonStockMember
+2025-03-31
+0001289419
+us-gaap:TreasuryStockCommonMember
+2025-03-31
+0001289419
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-31
+0001289419
+us-gaap:RetainedEarningsMember
+2025-03-31
+0001289419
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-03-31
+0001289419
+2025-03-31
+0001289419
+us-gaap:RetainedEarningsMember
+2025-04-01
+2025-06-30
+0001289419
+2025-04-01
+2025-06-30
+0001289419
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-04-01
+2025-06-30
+0001289419
+us-gaap:CommonStockMember
+2025-04-01
+2025-06-30
+0001289419
+us-gaap:TreasuryStockCommonMember
+2025-04-01
+2025-06-30
+0001289419
+us-gaap:AdditionalPaidInCapitalMember
+2025-04-01
+2025-06-30
+0001289419
+us-gaap:CommonStockMember
+2025-06-30
+0001289419
+us-gaap:TreasuryStockCommonMember
+2025-06-30
+0001289419
+us-gaap:AdditionalPaidInCapitalMember
+2025-06-30
+0001289419
+us-gaap:RetainedEarningsMember
+2025-06-30
+0001289419
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-06-30
+0001289419
+2025-06-30
+0001289419
+us-gaap:RetainedEarningsMember
+2025-07-01
+2025-09-30
+0001289419
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-07-01
+2025-09-30
+0001289419
+us-gaap:CommonStockMember
+2025-07-01
+2025-09-30
+0001289419
+us-gaap:TreasuryStockCommonMember
+2025-07-01
+2025-09-30
+0001289419
+us-gaap:AdditionalPaidInCapitalMember
+2025-07-01
+2025-09-30
+0001289419
+us-gaap:CommonStockMember
+2025-09-30
+0001289419
+us-gaap:TreasuryStockCommonMember
+2025-09-30
+0001289419
+us-gaap:AdditionalPaidInCapitalMember
+2025-09-30
+0001289419
+us-gaap:RetainedEarningsMember
+2025-09-30
+0001289419
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-09-30
+0001289419
+us-gaap:CommonStockMember
+2023-12-31
+0001289419
+us-gaap:TreasuryStockCommonMember
+2023-12-31
+0001289419
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-31
+0001289419
+us-gaap:RetainedEarningsMember
+2023-12-31
+0001289419
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-12-31
+0001289419
+2023-12-31
+0001289419
+us-gaap:RetainedEarningsMember
+2024-01-01
+2024-03-31
+0001289419
+2024-01-01
+2024-03-31
+0001289419
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-01-01
+2024-03-31
+0001289419
+us-gaap:CommonStockMember
+2024-01-01
+2024-03-31
+0001289419
+us-gaap:AdditionalPaidInCapitalMember
+2024-01-01
+2024-03-31
+0001289419
+us-gaap:CommonStockMember
+2024-03-31
+0001289419
+us-gaap:TreasuryStockCommonMember
+2024-03-31
+0001289419
+us-gaap:AdditionalPaidInCapitalMember
+2024-03-31
+0001289419
+us-gaap:RetainedEarningsMember
+2024-03-31
+0001289419
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-03-31
+0001289419
+2024-03-31
+0001289419
+us-gaap:RetainedEarningsMember
+2024-04-01
+2024-06-30
+0001289419
+2024-04-01
+2024-06-30
+0001289419
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-04-01
+2024-06-30
+0001289419
+us-gaap:CommonStockMember
+2024-04-01
+2024-06-30
+0001289419
+us-gaap:TreasuryStockCommonMember
+2024-04-01
+2024-06-30
+0001289419
+us-gaap:AdditionalPaidInCapitalMember
+2024-04-01
+2024-06-30
+0001289419
+us-gaap:CommonStockMember
+2024-06-30
+0001289419
+us-gaap:TreasuryStockCommonMember
+2024-06-30
+0001289419
+us-gaap:AdditionalPaidInCapitalMember
+2024-06-30
+0001289419
+us-gaap:RetainedEarningsMember
+2024-06-30
+0001289419
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-06-30
+0001289419
+2024-06-30
+0001289419
+us-gaap:RetainedEarningsMember
+2024-07-01
+2024-09-30
+0001289419
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-07-01
+2024-09-30
+0001289419
+us-gaap:CommonStockMember
+2024-07-01
+2024-09-30
+0001289419
+us-gaap:TreasuryStockCommonMember
+2024-07-01
+2024-09-30
+0001289419
+us-gaap:AdditionalPaidInCapitalMember
+2024-07-01
+2024-09-30
+0001289419
+us-gaap:CommonStockMember
+2024-09-30
+0001289419
+us-gaap:TreasuryStockCommonMember
+2024-09-30
+0001289419
+us-gaap:AdditionalPaidInCapitalMember
+2024-09-30
+0001289419
+us-gaap:RetainedEarningsMember
+2024-09-30
+0001289419
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-09-30
+0001289419
+2024-09-30
+0001289419
+morn:TermLoanFacilityMember
+us-gaap:MediumTermNotesMember
+2025-09-30
+0001289419
+morn:TermLoanFacilityMember
+us-gaap:MediumTermNotesMember
+2024-12-31
+0001289419
+us-gaap:RevolvingCreditFacilityMember
+morn:May2022RevolvingCreditFacilityMember
+us-gaap:LineOfCreditMember
+2025-09-30
+0001289419
+us-gaap:RevolvingCreditFacilityMember
+morn:July2019RevolvingCreditFacilityMember
+us-gaap:LineOfCreditMember
+2024-12-31
+0001289419
+us-gaap:PrivatePlacementMember
+us-gaap:NotesPayableOtherPayablesMember
+2024-12-31
+0001289419
+us-gaap:PrivatePlacementMember
+us-gaap:NotesPayableOtherPayablesMember
+2025-09-30
+0001289419
+us-gaap:LineOfCreditMember
+morn:May62022CreditAgreementMember
+us-gaap:LineOfCreditMember
+2022-05-06
+2022-05-06
+0001289419
+us-gaap:LineOfCreditMember
+morn:May62022CreditAgreementMember
+us-gaap:LineOfCreditMember
+2022-05-06
+0001289419
+morn:May62022TermLoanMember
+us-gaap:LongTermDebtMember
+2022-05-06
+0001289419
+us-gaap:RevolvingCreditFacilityMember
+morn:May2022RevolvingCreditFacilityMember
+us-gaap:LineOfCreditMember
+2022-05-06
+0001289419
+2022-09-30
+0001289419
+us-gaap:LineOfCreditMember
+morn:September302022CreditAgreementSecondAmendmentMember
+us-gaap:LineOfCreditMember
+2022-09-30
+0001289419
+us-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember
+morn:CreditAgreementMember
+srt:MinimumMember
+us-gaap:LineOfCreditMember
+2025-01-01
+2025-09-30
+0001289419
+us-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember
+morn:CreditAgreementMember
+srt:MaximumMember
+us-gaap:LineOfCreditMember
+2025-01-01
+2025-09-30
+0001289419
+us-gaap:BaseRateMember
+morn:CreditAgreementMember
+srt:MinimumMember
+us-gaap:LineOfCreditMember
+2025-01-01
+2025-09-30
+0001289419
+us-gaap:BaseRateMember
+morn:CreditAgreementMember
+srt:MaximumMember
+us-gaap:LineOfCreditMember
+2025-01-01
+2025-09-30
+0001289419
+us-gaap:PrivatePlacementMember
+us-gaap:NotesPayableOtherPayablesMember
+2020-10-26
+0001289419
+2020-10-26
+0001289419
+us-gaap:SubsequentEventMember
+2025-10-01
+2025-12-31
+0001289419
+morn:DealXMember
+2025-03-01
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:DealXMember
+morn:MorningstarCreditSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+morn:DealXMember
+2025-01-01
+2025-09-30
+0001289419
+morn:DealXMember
+us-gaap:CustomerRelatedIntangibleAssetsMember
+2025-01-01
+2025-09-30
+0001289419
+morn:DealXMember
+us-gaap:TechnologyBasedIntangibleAssetsMember
+2025-01-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:LumonicMember
+morn:PitchBookSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+morn:LumonicMember
+2025-01-01
+2025-09-30
+0001289419
+morn:LumonicMember
+us-gaap:CustomerRelatedIntangibleAssetsMember
+2025-01-01
+2025-09-30
+0001289419
+morn:LumonicMember
+us-gaap:TechnologyBasedIntangibleAssetsMember
+2025-01-01
+2025-09-30
+0001289419
+morn:LumonicMember
+us-gaap:IntellectualPropertyMember
+2025-01-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:MorningstarDataAndAnalyticsSegmentMember
+2024-12-31
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:PitchBookSegmentMember
+2024-12-31
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:MorningstarCreditSegmentMember
+2024-12-31
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:MorningstarWealthSegmentMember
+2024-12-31
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:MorningstarRetirementSegmentMember
+2024-12-31
+0001289419
+us-gaap:OperatingSegmentsMember
+2024-12-31
+0001289419
+us-gaap:OperatingSegmentsMember
+us-gaap:CorporateAndOtherMember
+2024-12-31
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:DealXMember
+morn:MorningstarDataAndAnalyticsSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:DealXMember
+morn:PitchBookSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:DealXMember
+morn:MorningstarWealthSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:DealXMember
+morn:MorningstarRetirementSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:DealXMember
+2025-01-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:DealXMember
+us-gaap:CorporateAndOtherMember
+2025-01-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:LumonicMember
+morn:MorningstarDataAndAnalyticsSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:LumonicMember
+morn:MorningstarCreditSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:LumonicMember
+morn:MorningstarWealthSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:LumonicMember
+morn:MorningstarRetirementSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:LumonicMember
+2025-01-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:LumonicMember
+us-gaap:CorporateAndOtherMember
+2025-01-01
+2025-09-30
+0001289419
+morn:LumonicMember
+2022-06-01
+2022-06-01
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:MorningstarDataAndAnalyticsSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:PitchBookSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:MorningstarCreditSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:MorningstarWealthSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:MorningstarRetirementSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+2025-01-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+us-gaap:CorporateAndOtherMember
+2025-01-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:MorningstarDataAndAnalyticsSegmentMember
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:PitchBookSegmentMember
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:MorningstarCreditSegmentMember
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:MorningstarWealthSegmentMember
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:MorningstarRetirementSegmentMember
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+us-gaap:CorporateAndOtherMember
+2025-09-30
+0001289419
+us-gaap:CustomerRelationshipsMember
+2025-09-30
+0001289419
+us-gaap:CustomerRelationshipsMember
+2024-12-31
+0001289419
+us-gaap:TechnologyBasedIntangibleAssetsMember
+2025-09-30
+0001289419
+us-gaap:TechnologyBasedIntangibleAssetsMember
+2024-12-31
+0001289419
+us-gaap:IntellectualPropertyMember
+2025-09-30
+0001289419
+us-gaap:IntellectualPropertyMember
+2024-12-31
+0001289419
+2024-09-30
+2024-09-30
+0001289419
+morn:LicensedBasedMember
+2025-07-01
+2025-09-30
+0001289419
+morn:LicensedBasedMember
+2024-07-01
+2024-09-30
+0001289419
+morn:LicensedBasedMember
+2025-01-01
+2025-09-30
+0001289419
+morn:LicensedBasedMember
+2024-01-01
+2024-09-30
+0001289419
+morn:AssetBasedMember
+2025-07-01
+2025-09-30
+0001289419
+morn:AssetBasedMember
+2024-07-01
+2024-09-30
+0001289419
+morn:AssetBasedMember
+2025-01-01
+2025-09-30
+0001289419
+morn:AssetBasedMember
+2024-01-01
+2024-09-30
+0001289419
+morn:TransactionBasedMember
+2025-07-01
+2025-09-30
+0001289419
+morn:TransactionBasedMember
+2024-07-01
+2024-09-30
+0001289419
+morn:TransactionBasedMember
+2025-01-01
+2025-09-30
+0001289419
+morn:TransactionBasedMember
+2024-01-01
+2024-09-30
+0001289419
+2025-07-01
+2025-09-30
+0001289419
+2026-01-01
+2025-09-30
+0001289419
+2027-01-01
+2025-09-30
+0001289419
+2028-01-01
+2025-09-30
+0001289419
+2029-01-01
+2025-09-30
+0001289419
+2030-01-01
+2025-09-30
+0001289419
+srt:MinimumMember
+2025-09-30
+0001289419
+srt:MaximumMember
+2025-09-30
+0001289419
+morn:LicensedBasedMember
+morn:MorningstarDataAndAnalyticsSegmentMember
+2025-07-01
+2025-09-30
+0001289419
+morn:LicensedBasedMember
+morn:PitchBookSegmentMember
+2025-07-01
+2025-09-30
+0001289419
+morn:LicensedBasedMember
+morn:MorningstarWealthSegmentMember
+2025-07-01
+2025-09-30
+0001289419
+morn:LicensedBasedMember
+morn:MorningstarCreditSegmentMember
+2025-07-01
+2025-09-30
+0001289419
+morn:LicensedBasedMember
+morn:MorningstarRetirementSegmentMember
+2025-07-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:LicensedBasedMember
+2025-07-01
+2025-09-30
+0001289419
+morn:AssetBasedMember
+morn:MorningstarDataAndAnalyticsSegmentMember
+2025-07-01
+2025-09-30
+0001289419
+morn:AssetBasedMember
+morn:PitchBookSegmentMember
+2025-07-01
+2025-09-30
+0001289419
+morn:AssetBasedMember
+morn:MorningstarWealthSegmentMember
+2025-07-01
+2025-09-30
+0001289419
+morn:AssetBasedMember
+morn:MorningstarCreditSegmentMember
+2025-07-01
+2025-09-30
+0001289419
+morn:AssetBasedMember
+morn:MorningstarRetirementSegmentMember
+2025-07-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:AssetBasedMember
+2025-07-01
+2025-09-30
+0001289419
+morn:TransactionBasedMember
+morn:MorningstarDataAndAnalyticsSegmentMember
+2025-07-01
+2025-09-30
+0001289419
+morn:TransactionBasedMember
+morn:PitchBookSegmentMember
+2025-07-01
+2025-09-30
+0001289419
+morn:TransactionBasedMember
+morn:MorningstarWealthSegmentMember
+2025-07-01
+2025-09-30
+0001289419
+morn:TransactionBasedMember
+morn:MorningstarCreditSegmentMember
+2025-07-01
+2025-09-30
+0001289419
+morn:TransactionBasedMember
+morn:MorningstarRetirementSegmentMember
+2025-07-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:TransactionBasedMember
+2025-07-01
+2025-09-30
+0001289419
+morn:MorningstarDataAndAnalyticsSegmentMember
+2025-07-01
+2025-09-30
+0001289419
+morn:PitchBookSegmentMember
+2025-07-01
+2025-09-30
+0001289419
+morn:MorningstarWealthSegmentMember
+2025-07-01
+2025-09-30
+0001289419
+morn:MorningstarCreditSegmentMember
+2025-07-01
+2025-09-30
+0001289419
+morn:MorningstarRetirementSegmentMember
+2025-07-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+2025-07-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:MorningstarDataAndAnalyticsSegmentMember
+2025-07-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:PitchBookSegmentMember
+2025-07-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:MorningstarWealthSegmentMember
+2025-07-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:MorningstarCreditSegmentMember
+2025-07-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:MorningstarRetirementSegmentMember
+2025-07-01
+2025-09-30
+0001289419
+morn:LicensedBasedMember
+morn:MorningstarDataAndAnalyticsSegmentMember
+2024-07-01
+2024-09-30
+0001289419
+morn:LicensedBasedMember
+morn:PitchBookSegmentMember
+2024-07-01
+2024-09-30
+0001289419
+morn:LicensedBasedMember
+morn:MorningstarWealthSegmentMember
+2024-07-01
+2024-09-30
+0001289419
+morn:LicensedBasedMember
+morn:MorningstarCreditSegmentMember
+2024-07-01
+2024-09-30
+0001289419
+morn:LicensedBasedMember
+morn:MorningstarRetirementSegmentMember
+2024-07-01
+2024-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:LicensedBasedMember
+2024-07-01
+2024-09-30
+0001289419
+morn:AssetBasedMember
+morn:MorningstarDataAndAnalyticsSegmentMember
+2024-07-01
+2024-09-30
+0001289419
+morn:AssetBasedMember
+morn:PitchBookSegmentMember
+2024-07-01
+2024-09-30
+0001289419
+morn:AssetBasedMember
+morn:MorningstarWealthSegmentMember
+2024-07-01
+2024-09-30
+0001289419
+morn:AssetBasedMember
+morn:MorningstarCreditSegmentMember
+2024-07-01
+2024-09-30
+0001289419
+morn:AssetBasedMember
+morn:MorningstarRetirementSegmentMember
+2024-07-01
+2024-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:AssetBasedMember
+2024-07-01
+2024-09-30
+0001289419
+morn:TransactionBasedMember
+morn:MorningstarDataAndAnalyticsSegmentMember
+2024-07-01
+2024-09-30
+0001289419
+morn:TransactionBasedMember
+morn:PitchBookSegmentMember
+2024-07-01
+2024-09-30
+0001289419
+morn:TransactionBasedMember
+morn:MorningstarWealthSegmentMember
+2024-07-01
+2024-09-30
+0001289419
+morn:TransactionBasedMember
+morn:MorningstarCreditSegmentMember
+2024-07-01
+2024-09-30
+0001289419
+morn:TransactionBasedMember
+morn:MorningstarRetirementSegmentMember
+2024-07-01
+2024-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:TransactionBasedMember
+2024-07-01
+2024-09-30
+0001289419
+morn:MorningstarDataAndAnalyticsSegmentMember
+2024-07-01
+2024-09-30
+0001289419
+morn:PitchBookSegmentMember
+2024-07-01
+2024-09-30
+0001289419
+morn:MorningstarWealthSegmentMember
+2024-07-01
+2024-09-30
+0001289419
+morn:MorningstarCreditSegmentMember
+2024-07-01
+2024-09-30
+0001289419
+morn:MorningstarRetirementSegmentMember
+2024-07-01
+2024-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+2024-07-01
+2024-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:MorningstarDataAndAnalyticsSegmentMember
+2024-07-01
+2024-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:PitchBookSegmentMember
+2024-07-01
+2024-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:MorningstarWealthSegmentMember
+2024-07-01
+2024-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:MorningstarCreditSegmentMember
+2024-07-01
+2024-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:MorningstarRetirementSegmentMember
+2024-07-01
+2024-09-30
+0001289419
+morn:LicensedBasedMember
+morn:MorningstarDataAndAnalyticsSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+morn:LicensedBasedMember
+morn:PitchBookSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+morn:LicensedBasedMember
+morn:MorningstarCreditSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+morn:LicensedBasedMember
+morn:MorningstarWealthSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+morn:LicensedBasedMember
+morn:MorningstarRetirementSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:LicensedBasedMember
+2025-01-01
+2025-09-30
+0001289419
+morn:AssetBasedMember
+morn:MorningstarDataAndAnalyticsSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+morn:AssetBasedMember
+morn:PitchBookSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+morn:AssetBasedMember
+morn:MorningstarCreditSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+morn:AssetBasedMember
+morn:MorningstarWealthSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+morn:AssetBasedMember
+morn:MorningstarRetirementSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:AssetBasedMember
+2025-01-01
+2025-09-30
+0001289419
+morn:TransactionBasedMember
+morn:MorningstarDataAndAnalyticsSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+morn:TransactionBasedMember
+morn:PitchBookSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+morn:TransactionBasedMember
+morn:MorningstarCreditSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+morn:TransactionBasedMember
+morn:MorningstarWealthSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+morn:TransactionBasedMember
+morn:MorningstarRetirementSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:TransactionBasedMember
+2025-01-01
+2025-09-30
+0001289419
+morn:MorningstarDataAndAnalyticsSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+morn:PitchBookSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+morn:MorningstarCreditSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+morn:MorningstarWealthSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+morn:MorningstarRetirementSegmentMember
+2025-01-01
+2025-09-30
+0001289419
+morn:LicensedBasedMember
+morn:MorningstarDataAndAnalyticsSegmentMember
+2024-01-01
+2024-09-30
+0001289419
+morn:LicensedBasedMember
+morn:PitchBookSegmentMember
+2024-01-01
+2024-09-30
+0001289419
+morn:LicensedBasedMember
+morn:MorningstarWealthSegmentMember
+2024-01-01
+2024-09-30
+0001289419
+morn:LicensedBasedMember
+morn:MorningstarCreditSegmentMember
+2024-01-01
+2024-09-30
+0001289419
+morn:LicensedBasedMember
+morn:MorningstarRetirementSegmentMember
+2024-01-01
+2024-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:LicensedBasedMember
+2024-01-01
+2024-09-30
+0001289419
+morn:AssetBasedMember
+morn:MorningstarDataAndAnalyticsSegmentMember
+2024-01-01
+2024-09-30
+0001289419
+morn:AssetBasedMember
+morn:PitchBookSegmentMember
+2024-01-01
+2024-09-30
+0001289419
+morn:AssetBasedMember
+morn:MorningstarWealthSegmentMember
+2024-01-01
+2024-09-30
+0001289419
+morn:AssetBasedMember
+morn:MorningstarCreditSegmentMember
+2024-01-01
+2024-09-30
+0001289419
+morn:AssetBasedMember
+morn:MorningstarRetirementSegmentMember
+2024-01-01
+2024-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:AssetBasedMember
+2024-01-01
+2024-09-30
+0001289419
+morn:TransactionBasedMember
+morn:MorningstarDataAndAnalyticsSegmentMember
+2024-01-01
+2024-09-30
+0001289419
+morn:TransactionBasedMember
+morn:PitchBookSegmentMember
+2024-01-01
+2024-09-30
+0001289419
+morn:TransactionBasedMember
+morn:MorningstarWealthSegmentMember
+2024-01-01
+2024-09-30
+0001289419
+morn:TransactionBasedMember
+morn:MorningstarCreditSegmentMember
+2024-01-01
+2024-09-30
+0001289419
+morn:TransactionBasedMember
+morn:MorningstarRetirementSegmentMember
+2024-01-01
+2024-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:TransactionBasedMember
+2024-01-01
+2024-09-30
+0001289419
+morn:MorningstarDataAndAnalyticsSegmentMember
+2024-01-01
+2024-09-30
+0001289419
+morn:PitchBookSegmentMember
+2024-01-01
+2024-09-30
+0001289419
+morn:MorningstarWealthSegmentMember
+2024-01-01
+2024-09-30
+0001289419
+morn:MorningstarCreditSegmentMember
+2024-01-01
+2024-09-30
+0001289419
+morn:MorningstarRetirementSegmentMember
+2024-01-01
+2024-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+2024-01-01
+2024-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:MorningstarDataAndAnalyticsSegmentMember
+2024-01-01
+2024-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:PitchBookSegmentMember
+2024-01-01
+2024-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:MorningstarWealthSegmentMember
+2024-01-01
+2024-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:MorningstarCreditSegmentMember
+2024-01-01
+2024-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+morn:MorningstarRetirementSegmentMember
+2024-01-01
+2024-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+us-gaap:CorporateAndOtherMember
+2025-07-01
+2025-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+us-gaap:CorporateAndOtherMember
+2024-07-01
+2024-09-30
+0001289419
+us-gaap:OperatingSegmentsMember
+us-gaap:CorporateAndOtherMember
+2024-01-01
+2024-09-30
+0001289419
+morn:MorningstarSustainalyticsMember
+2025-07-01
+2025-09-30
+0001289419
+morn:MorningstarSustainalyticsMember
+2024-07-01
+2024-09-30
+0001289419
+morn:MorningstarSustainalyticsMember
+2025-01-01
+2025-09-30
+0001289419
+morn:MorningstarSustainalyticsMember
+2024-01-01
+2024-09-30
+0001289419
+morn:MorningstarIndexesMember
+2025-07-01
+2025-09-30
+0001289419
+morn:MorningstarIndexesMember
+2024-07-01
+2024-09-30
+0001289419
+morn:MorningstarIndexesMember
+2025-01-01
+2025-09-30
+0001289419
+morn:MorningstarIndexesMember
+2024-01-01
+2024-09-30
+0001289419
+country:US
+2025-07-01
+2025-09-30
+0001289419
+country:US
+2024-07-01
+2024-09-30
+0001289419
+country:US
+2025-01-01
+2025-09-30
+0001289419
+country:US
+2024-01-01
+2024-09-30
+0001289419
+srt:AsiaMember
+2025-07-01
+2025-09-30
+0001289419
+srt:AsiaMember
+2024-07-01
+2024-09-30
+0001289419
+srt:AsiaMember
+2025-01-01
+2025-09-30
+0001289419
+srt:AsiaMember
+2024-01-01
+2024-09-30
+0001289419
+country:AU
+2025-07-01
+2025-09-30
+0001289419
+country:AU
+2024-07-01
+2024-09-30
+0001289419
+country:AU
+2025-01-01
+2025-09-30
+0001289419
+country:AU
+2024-01-01
+2024-09-30
+0001289419
+country:CA
+2025-07-01
+2025-09-30
+0001289419
+country:CA
+2024-07-01
+2024-09-30
+0001289419
+country:CA
+2025-01-01
+2025-09-30
+0001289419
+country:CA
+2024-01-01
+2024-09-30
+0001289419
+morn:EuropeExcludingUnitedKingdomMember
+2025-07-01
+2025-09-30
+0001289419
+morn:EuropeExcludingUnitedKingdomMember
+2024-07-01
+2024-09-30
+0001289419
+morn:EuropeExcludingUnitedKingdomMember
+2025-01-01
+2025-09-30
+0001289419
+morn:EuropeExcludingUnitedKingdomMember
+2024-01-01
+2024-09-30
+0001289419
+country:GB
+2025-07-01
+2025-09-30
+0001289419
+country:GB
+2024-07-01
+2024-09-30
+0001289419
+country:GB
+2025-01-01
+2025-09-30
+0001289419
+country:GB
+2024-01-01
+2024-09-30
+0001289419
+morn:SegmentGeographicalGroupOfOtherCountriesMember
+2025-07-01
+2025-09-30
+0001289419
+morn:SegmentGeographicalGroupOfOtherCountriesMember
+2024-07-01
+2024-09-30
+0001289419
+morn:SegmentGeographicalGroupOfOtherCountriesMember
+2025-01-01
+2025-09-30
+0001289419
+morn:SegmentGeographicalGroupOfOtherCountriesMember
+2024-01-01
+2024-09-30
+0001289419
+morn:NonUnitedStatesMember
+2025-07-01
+2025-09-30
+0001289419
+morn:NonUnitedStatesMember
+2024-07-01
+2024-09-30
+0001289419
+morn:NonUnitedStatesMember
+2025-01-01
+2025-09-30
+0001289419
+morn:NonUnitedStatesMember
+2024-01-01
+2024-09-30
+0001289419
+country:US
+2025-09-30
+0001289419
+country:US
+2024-12-31
+0001289419
+srt:AsiaMember
+2025-09-30
+0001289419
+srt:AsiaMember
+2024-12-31
+0001289419
+country:AU
+2025-09-30
+0001289419
+country:AU
+2024-12-31
+0001289419
+country:CA
+2025-09-30
+0001289419
+country:CA
+2024-12-31
+0001289419
+morn:EuropeExcludingUnitedKingdomMember
+2025-09-30
+0001289419
+morn:EuropeExcludingUnitedKingdomMember
+2024-12-31
+0001289419
+country:GB
+2025-09-30
+0001289419
+country:GB
+2024-12-31
+0001289419
+morn:SegmentGeographicalGroupOfOtherCountriesMember
+2025-09-30
+0001289419
+morn:SegmentGeographicalGroupOfOtherCountriesMember
+2024-12-31
+0001289419
+morn:NonUnitedStatesMember
+2025-09-30
+0001289419
+morn:NonUnitedStatesMember
+2024-12-31
+0001289419
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2025-09-30
+0001289419
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-30
+0001289419
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001289419
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2025-09-30
+0001289419
+us-gaap:EquitySecuritiesMember
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-30
+0001289419
+us-gaap:EquitySecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2025-09-30
+0001289419
+us-gaap:EquitySecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001289419
+us-gaap:EquitySecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2025-09-30
+0001289419
+us-gaap:DebtSecuritiesMember
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-30
+0001289419
+us-gaap:DebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2025-09-30
+0001289419
+us-gaap:DebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001289419
+us-gaap:DebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2025-09-30
+0001289419
+morn:WealthAdvisorsMember
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-30
+0001289419
+morn:WealthAdvisorsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2025-09-30
+0001289419
+morn:WealthAdvisorsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001289419
+morn:WealthAdvisorsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2025-09-30
+0001289419
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001289419
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2024-12-31
+0001289419
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0001289419
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2024-12-31
+0001289419
+us-gaap:EquitySecuritiesMember
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001289419
+us-gaap:EquitySecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2024-12-31
+0001289419
+us-gaap:EquitySecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0001289419
+us-gaap:EquitySecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2024-12-31
+0001289419
+us-gaap:DebtSecuritiesMember
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001289419
+us-gaap:DebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2024-12-31
+0001289419
+us-gaap:DebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0001289419
+us-gaap:DebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2024-12-31
+0001289419
+morn:SmartXMember
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001289419
+morn:SmartXMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2024-12-31
+0001289419
+morn:SmartXMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0001289419
+morn:SmartXMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2024-12-31
+0001289419
+morn:WealthAdvisorsMember
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001289419
+morn:WealthAdvisorsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2024-12-31
+0001289419
+morn:WealthAdvisorsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0001289419
+morn:WealthAdvisorsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2024-12-31
+0001289419
+2024-01-01
+2024-12-31
+0001289419
+us-gaap:CostOfSalesMember
+2025-07-01
+2025-09-30
+0001289419
+us-gaap:CostOfSalesMember
+2024-07-01
+2024-09-30
+0001289419
+us-gaap:CostOfSalesMember
+2025-01-01
+2025-09-30
+0001289419
+us-gaap:CostOfSalesMember
+2024-01-01
+2024-09-30
+0001289419
+us-gaap:SellingAndMarketingExpenseMember
+2025-07-01
+2025-09-30
+0001289419
+us-gaap:SellingAndMarketingExpenseMember
+2024-07-01
+2024-09-30
+0001289419
+us-gaap:SellingAndMarketingExpenseMember
+2025-01-01
+2025-09-30
+0001289419
+us-gaap:SellingAndMarketingExpenseMember
+2024-01-01
+2024-09-30
+0001289419
+us-gaap:GeneralAndAdministrativeExpenseMember
+2025-07-01
+2025-09-30
+0001289419
+us-gaap:GeneralAndAdministrativeExpenseMember
+2024-07-01
+2024-09-30
+0001289419
+us-gaap:GeneralAndAdministrativeExpenseMember
+2025-01-01
+2025-09-30
+0001289419
+us-gaap:GeneralAndAdministrativeExpenseMember
+2024-01-01
+2024-09-30
+0001289419
+morn:RestrictedStockUnitsandPerformanceShareAwardsMember
+2025-09-30
+0001289419
+morn:RestrictedStockUnitsandPerformanceShareAwardsMember
+2025-07-01
+2025-09-30
+0001289419
+morn:NonUnitedStatesMember
+us-gaap:GeographicConcentrationRiskMember
+morn:CashCashEquivalentsandInvestmentsMember
+2025-01-01
+2025-09-30
+0001289419
+us-gaap:SubsequentEventMember
+2025-10-01
+2025-10-30
+0001289419
+us-gaap:SubsequentEventMember
+2025-10-31
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 
+10-Q
+
+☑
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+FOR THE QUARTERLY PERIOD ENDED 
+September 30, 2025
+
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from         to
+Commission File Number: 
+000-51280
+
+MORNINGSTAR, INC.
+
+(Exact Name of Registrant as Specified in its Charter) 
+Illinois
+
+36-3297908
+(State or Other Jurisdiction of
+
+(I.R.S. Employer
+Incorporation or Organization)
+
+Identification Number)
+22 West Washington Street
+
+Chicago,
+Illinois
+60602
+(Address of Principal Executive Offices)
+(Zip Code)
+  (
+312
+) 
+696-6000
+
+(Registrant’s Telephone Number, Including Area Code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol
+Name of Each Exchange on Which Registered
+Common stock, no par value
+MORN
+NASDAQ
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+Yes
+
+x
+
+No
+
+o
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+Yes
+
+x
+
+No
+
+o
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☒
+Accelerated filer  
+o
+Non-accelerated filer   
+o
+Smaller reporting company  
+☐
+Emerging growth company  
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+o
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes
+
+☐
+
+No
+
+x
+As
+ of October 24, 
+2025
+, 
+there were 
+41,129,198
+ shares of the company’s common stock, no par value, outstanding.
+Table of Contents
+MORNINGSTAR, INC. AND SUBSIDIARIES
+INDEX
+
+PART 1
+FINANCIAL INFORMATION
+4
+
+Item 1.
+Financial Statements
+4
+
+Unaudited Consolidated Statements of Income for the three and nine months ended September 30, 2025 and 2024
+4
+Unaudited Consolidated Statements of Comprehensive Income for the three and nine months ended September 30, 2025 and 2024
+5
+
+Consolidated Balance Sheets as of September 30, 2025 (unaudited) and December 31, 2024
+6
+
+Unaudited Consolidated Statements of Equity for the three and nine months ended September 30, 2025 and 2024
+8
+
+Unaudited Consolidated Statements of Cash Flows for the nine months ended September 30, 2025 and 2024
+10
+
+Notes to Unaudited Consolidated Financial Statements
+
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+29
+
+Item 3.
+Quantitative and Qualitative Disclosures about Market Risk
+47
+
+Item 4.
+Controls and Procedures
+48
+
+PART 2
+OTHER INFORMATION
+49
+
+Item 1.
+Legal Proceedings
+49
+
+Item 1A.
+Risk Factors
+49
+
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+49
+Item 3.
+Defaults Upon Senior Securities
+49
+Item 4.
+Mine Safety Disclosures
+49
+
+Item 5.
+Other Information
+49
+
+Item 6.
+Exhibits
+50
+
+SIGNATURE
+
+51
+3
+Table of Contents
+PART 1.
+FINANCIAL INFORMATION
+Item 1.
+Financial Statements
+Morningstar, Inc. and Subsidiaries
+Unaudited Consolidated Statements of Income
+
+Three months ended September 30,
+Nine months ended September 30,
+(in millions, except per share amounts)
+2025
+2024
+2025
+2024
+Revenue
+$
+617.4
+
+$
+569.4
+
+$
+1,804.4
+
+$
+1,684.1
+
+Operating expense:
+Cost of revenue
+241.7
+
+222.7
+
+703.7
+
+663.5
+
+Sales and marketing
+115.5
+
+107.9
+
+347.8
+
+323.8
+
+General and administrative
+85.9
+
+77.6
+
+244.4
+
+238.2
+
+Depreciation and amortization
+47.0
+
+45.7
+
+142.8
+
+142.0
+
+Total operating expense
+490.1
+
+453.9
+
+1,438.7
+
+1,367.5
+
+Other operating income
+0.5
+
+—
+
+1.3
+
+—
+
+Operating income
+127.8
+
+115.5
+
+367.0
+
+316.6
+
+Non-operating income (expense), net:
+
+Interest expense, net
+(
+7.0
+)
+(
+8.9
+)
+(
+19.8
+)
+(
+30.7
+)
+Gain on sale of business
+—
+
+45.3
+
+—
+
+45.3
+
+Other income (expense), net
+2.3
+
+—
+
+0.9
+
+(
+2.8
+)
+Non-operating income (expense), net
+(
+4.7
+)
+36.4
+
+(
+18.9
+)
+11.8
+
+Income before income taxes and equity in investments of unconsolidated entities
+123.1
+
+151.9
+
+348.1
+
+328.4
+
+Equity in investments of unconsolidated entities
+(
+0.1
+)
+(
+2.6
+)
+(
+3.9
+)
+(
+5.3
+)
+Income tax expense
+31.4
+
+29.6
+
+85.1
+
+70.1
+
+Consolidated net income
+$
+91.6
+
+$
+119.7
+
+$
+259.1
+
+$
+253.0
+
+Net income per share:
+
+Basic
+$
+2.18
+
+$
+2.79
+
+$
+6.12
+
+$
+5.91
+
+Diluted
+$
+2.17
+
+$
+2.77
+
+$
+6.08
+
+$
+5.87
+
+Dividends per common share:
+Dividends declared per common share
+$
+0.46
+
+$
+0.41
+
+$
+1.37
+
+$
+1.22
+
+Dividends paid per common share
+$
+0.46
+
+$
+0.41
+
+$
+1.37
+
+$
+1.22
+
+Weighted average shares outstanding:
+Basic
+42.1
+
+42.9
+
+42.4
+
+42.8
+
+Diluted
+42.3
+
+43.2
+
+42.6
+
+43.1
+
+See notes to unaudited consolidated financial statements.
+4
+Table of Contents
+Morningstar, Inc. and Subsidiaries
+Unaudited Consolidated Statements of Comprehensive Income
+
+Three months ended September 30,
+Nine months ended September 30,
+(in millions) 
+2025
+2024
+2025
+2024
+Consolidated net income
+$
+91.6
+
+$
+119.7
+
+$
+259.1
+
+$
+253.0
+
+Other comprehensive income (loss), net
+Foreign currency translation adjustment
+(
+10.7
+)
+24.3
+
+47.9
+
+12.3
+
+Unrealized gains (losses) on securities, net of tax
+—
+
+—
+
+0.1
+
+—
+
+Other comprehensive income (loss), net
+(
+10.7
+)
+24.3
+
+48.0
+
+12.3
+
+Comprehensive income
+$
+80.9
+
+$
+144.0
+
+$
+307.1
+
+$
+265.3
+
+See notes to unaudited consolidated financial statements.
+5
+Table of Contents
+Morningstar, Inc. and Subsidiaries
+Consolidated Balance Sheets
+(in millions, except share amounts)
+As of September 30, 2025 
+(unaudited)
+As of December 31, 2024
+Assets
+
+Current assets:
+
+Cash and cash equivalents
+$
+474.2
+
+$
+502.7
+
+Investments
+40.3
+
+48.3
+
+Accounts receivable, less allowance for credit losses of $6.3 million and $7.1 million, respectively
+363.9
+
+358.1
+
+Income tax receivable
+12.9
+
+12.4
+
+Deferred commissions
+34.9
+
+39.2
+
+Prepaid expenses
+41.8
+
+42.1
+
+Other current assets
+11.2
+
+11.3
+
+Total current assets
+979.2
+
+1,014.1
+
+Goodwill
+1,614.7
+
+1,562.0
+
+Intangible assets, net
+396.0
+
+408.8
+
+Property, equipment, and capitalized software, less accumulated depreciation and amortization of $884.9 million and $790.4 million, respectively
+225.9
+
+218.9
+
+Operating lease assets
+164.4
+
+181.2
+
+Investments in unconsolidated entities
+71.8
+
+85.3
+
+Deferred tax assets
+65.7
+
+43.2
+
+Deferred commissions
+29.5
+
+26.6
+
+Other assets
+10.4
+
+8.8
+
+Total assets
+$
+3,557.6
+
+$
+3,548.9
+
+Liabilities and equity
+
+Current liabilities:
+
+Deferred revenue
+$
+563.9
+
+$
+540.8
+
+Accrued compensation
+231.0
+
+272.2
+
+Accounts payable and accrued liabilities
+90.4
+
+87.3
+
+Operating lease liabilities
+39.9
+
+35.1
+
+Income tax payable
+9.6
+
+30.5
+
+Other current liabilities
+10.7
+
+1.4
+
+Total current liabilities
+945.5
+
+967.3
+
+Operating lease liabilities
+153.8
+
+170.3
+
+Accrued compensation
+20.0
+
+21.0
+
+Deferred tax liabilities
+27.2
+
+27.6
+
+Long-term debt
+848.9
+
+698.6
+
+Deferred revenue
+21.0
+
+22.4
+
+Income tax payable
+13.5
+
+11.7
+
+Other long-term liabilities
+13.7
+
+11.4
+
+Total liabilities
+$
+2,043.6
+
+$
+1,930.3
+
+Equity:
+
+Morningstar, Inc. shareholders’ equity:
+
+Common stock, no par value, 200,000,000 shares authorized, of which 41,506,582 and 42,869,380 shares were outstanding as of September 30, 2025 and December 31, 2024, respectively
+—
+
+—
+
+6
+Table of Contents
+Treasury stock at cost, 13,455,133 and 12,010,630 shares as of September 30, 2025 and December 31, 2024, respectively
+(
+1,386.8
+)
+(
+993.9
+)
+Additional paid-in capital
+861.4
+
+822.7
+
+Retained earnings
+2,110.8
+
+1,909.2
+
+Accumulated other comprehensive loss:
+    Currency translation adjustment
+(
+71.4
+)
+(
+119.3
+)
+    Unrealized loss on available-for-sale investments
+—
+
+(
+0.1
+)
+Total accumulated other comprehensive loss
+(
+71.4
+)
+(
+119.4
+)
+Total equity
+1,514.0
+
+1,618.6
+
+Total liabilities and equity
+$
+3,557.6
+
+$
+3,548.9
+
+See notes to unaudited consolidated financial statements.
+7
+Table of Contents
+Morningstar, Inc. and Subsidiaries
+Unaudited Consolidated Statements of Equity 
+For the three and nine months ended September 30, 2025 and 2024
+
+Morningstar, Inc. Shareholders’ Equity
+
+Common Stock
+
+Additional Paid-in Capital
+Retained Earnings
+Accumulated Other Comprehensive Loss
+
+(in millions, except share and per share amounts)
+Shares Outstanding
+Par Value
+Treasury Stock
+Total Equity
+Balance as of December 31, 2024
+42,869,380
+
+$
+—
+
+$
+(
+993.9
+)
+$
+822.7
+
+$
+1,909.2
+
+$
+(
+119.4
+)
+$
+1,618.6
+
+Net income
+— 
+— 
+— 
+78.5
+
+— 
+78.5
+
+Other comprehensive income (loss):
+Unrealized gains (losses) on securities, net of tax
+— 
+— 
+— 
+— 
+—
+
+—
+
+Foreign currency translation adjustment, net
+— 
+— 
+— 
+— 
+17.0
+
+17.0
+
+Other comprehensive income, net
+— 
+— 
+— 
+— 
+17.0
+
+17.0
+
+Issuance of common stock related to vesting of stock units, net of shares withheld for taxes on settlements of stock units
+69
+
+— 
+— 
+—
+
+— 
+— 
+—
+
+Reclassification of awards previously liability-classified that were converted to equity
+— 
+— 
+16.0
+
+— 
+— 
+16.0
+
+Stock-based compensation
+— 
+— 
+9.1
+
+— 
+— 
+9.1
+
+Common shares repurchased
+(
+368,199
+)
+— 
+(
+110.7
+)
+— 
+— 
+— 
+(
+110.7
+)
+Dividends declared ($
+0.46
+ per share)
+— 
+— 
+— 
+(
+19.3
+)
+— 
+(
+19.3
+)
+Balance as of March 31, 2025
+42,501,250
+
+$
+—
+
+$
+(
+1,104.6
+)
+$
+847.8
+
+$
+1,968.4
+
+$
+(
+102.4
+)
+$
+1,609.2
+
+Net income
+— 
+— 
+— 
+89.0
+
+— 
+89.0
+
+Other comprehensive income (loss):
+Unrealized gains (losses) on securities, net of tax
+— 
+— 
+— 
+— 
+0.1
+
+0.1
+
+Foreign currency translation adjustment, net
+— 
+— 
+— 
+— 
+41.6
+
+41.6
+
+Other comprehensive income, net
+— 
+— 
+— 
+— 
+41.7
+
+41.7
+
+Issuance of common stock related to vesting of stock awards, net of shares withheld for taxes on settlements of stock awards
+74,151
+
+— 
+1.2
+
+(
+13.2
+)
+— 
+— 
+(
+12.0
+)
+Stock-based compensation
+— 
+— 
+18.4
+
+— 
+— 
+18.4
+
+Common shares repurchased
+(
+398,442
+)
+— 
+(
+112.6
+)
+— 
+— 
+— 
+(
+112.6
+)
+Dividends declared ($
+0.46
+ per share)
+— 
+— 
+— 
+(
+19.2
+)
+— 
+(
+19.2
+)
+Balance as of June 30, 2025
+42,176,959
+
+$
+—
+
+$
+(
+1,216.0
+)
+$
+853.0
+
+$
+2,038.2
+
+$
+(
+60.7
+)
+$
+1,614.5
+
+Net income
+— 
+— 
+— 
+91.6
+
+— 
+91.6
+
+Other comprehensive income (loss):
+Unrealized gains (losses) on securities, net of tax
+— 
+— 
+— 
+— 
+—
+
+—
+
+Foreign currency translation adjustment, net
+— 
+— 
+— 
+— 
+(
+10.7
+)
+(
+10.7
+)
+Other comprehensive loss, net
+— 
+— 
+— 
+— 
+(
+10.7
+)
+(
+10.7
+)
+Issuance of common stock related to vesting of stock awards, net of shares withheld for taxes on settlements of stock awards
+59,301
+
+— 
+1.2
+
+(
+10.2
+)
+— 
+— 
+(
+9.0
+)
+Stock-based compensation
+— 
+— 
+18.6
+
+— 
+— 
+18.6
+
+Common shares repurchased
+(
+729,678
+)
+— 
+(
+172.0
+)
+— 
+— 
+— 
+(
+172.0
+)
+Dividends declared ($
+0.46
+ per share)
+— 
+— 
+— 
+(
+19.0
+)
+— 
+(
+19.0
+)
+Balance as of September 30, 2025
+41,506,582
+
+$
+—
+
+$
+(
+1,386.8
+)
+$
+861.4
+
+$
+2,110.8
+
+$
+(
+71.4
+)
+$
+1,514.0
+
+8
+Table of Contents
+
+Morningstar, Inc. Shareholders’ Equity
+
+Accumulated Other Comprehensive Loss
+
+Common Stock
+
+Additional Paid-in Capital
+Retained Earnings
+
+(in millions, except share and per share amounts)
+Shares Outstanding
+Par Value
+Treasury Stock
+Total Equity
+Balance as of December 31, 2023
+42,728,182
+
+$
+—
+
+$
+(
+985.5
+)
+$
+789.0
+
+$
+1,610.8
+
+$
+(
+86.5
+)
+$
+1,327.8
+
+Net income
+— 
+— 
+— 
+64.2
+
+— 
+64.2
+
+Other comprehensive income (loss):
+Unrealized gains (losses) on securities, net of tax
+— 
+— 
+— 
+— 
+—
+
+—
+
+Foreign currency translation adjustment, net
+— 
+— 
+— 
+— 
+(
+10.6
+)
+(
+10.6
+)
+Other comprehensive loss, net
+— 
+— 
+— 
+— 
+(
+10.6
+)
+(
+10.6
+)
+Issuance of common stock related to vesting of stock units, net of shares withheld for taxes on settlements of stock units
+17,388
+
+— 
+— 
+(
+3.2
+)
+— 
+— 
+(
+3.2
+)
+Reclassification of awards previously liability-classified that were converted to equity
+— 
+— 
+10.8
+
+— 
+— 
+10.8
+
+Stock-based compensation
+— 
+— 
+11.4
+
+— 
+— 
+11.4
+
+Dividends declared ($
+0.41
+ per share)
+— 
+— 
+— 
+(
+17.3
+)
+— 
+(
+17.3
+)
+Balance as of March 31, 2024
+42,745,570
+
+$
+—
+
+$
+(
+985.5
+)
+$
+808.0
+
+$
+1,657.7
+
+$
+(
+97.1
+)
+$
+1,383.1
+
+Net income
+— 
+— 
+— 
+69.1
+
+— 
+69.1
+
+Other comprehensive income (loss):
+`
+Unrealized gains (losses) on securities, net of tax
+— 
+— 
+— 
+— 
+—
+
+—
+
+Foreign currency translation adjustment, net
+— 
+— 
+— 
+— 
+(
+1.4
+)
+(
+1.4
+)
+Other comprehensive loss, net
+— 
+— 
+— 
+— 
+(
+1.4
+)
+(
+1.4
+)
+Issuance of common stock related to vesting of stock awards, net of shares withheld for taxes on settlements of stock awards
+93,002
+
+— 
+1.6
+
+(
+15.9
+)
+— 
+— 
+(
+14.3
+)
+Reclassification of awards previously liability-classified that were converted to equity
+— 
+— 
+0.4
+
+— 
+— 
+0.4
+
+Stock-based compensation
+— 
+— 
+14.2
+
+— 
+— 
+14.2
+
+Dividends declared ($
+0.41
+ per share)
+— 
+— 
+— 
+(
+17.4
+)
+— 
+(
+17.4
+)
+Balance as of June 30, 2024
+42,838,572
+
+$
+—
+
+$
+(
+983.9
+)
+$
+806.7
+
+$
+1,709.4
+
+$
+(
+98.5
+)
+$
+1,433.7
+
+Net Income
+— 
+— 
+— 
+119.7
+
+— 
+119.7
+
+Other comprehensive income (loss):
+Unrealized gains (losses) on securities, net of tax
+— 
+— 
+— 
+— 
+—
+
+—
+
+Foreign currency translation adjustment, net
+— 
+— 
+— 
+— 
+24.3
+
+24.3
+
+Other comprehensive income, net
+— 
+— 
+— 
+— 
+24.3
+
+24.3
+
+Issuance of common stock related to vesting of stock awards, net of shares withheld for taxes on settlements of stock awards
+45,609
+
+— 
+2.3
+
+(
+10.2
+)
+— 
+— 
+(
+7.9
+)
+Reclassification of awards previously liability-classified that were converted to equity
+— 
+— 
+0.1
+
+— 
+— 
+0.1
+
+Stock-based compensation
+— 
+— 
+13.2
+
+— 
+— 
+13.2
+
+Dividends declared ($
+0.41
+ per share)
+— 
+— 
+— 
+— 
+(
+17.4
+)
+— 
+(
+17.4
+)
+Balance as of September 30, 2024
+42,884,181
+
+$
+—
+
+$
+(
+981.6
+)
+$
+809.8
+
+$
+1,811.7
+
+$
+(
+74.2
+)
+$
+1,565.7
+
+See notes to unaudited consolidated financial statements.
+9
+Table of Contents
+Morningstar, Inc. and Subsidiaries
+Unaudited Consolidated Statements of Cash Flows
+
+Nine months ended September 30,
+(in millions)
+2025
+2024
+Operating activities
+Consolidated net income
+$
+259.1
+
+$
+253.0
+
+Adjustments to reconcile consolidated net income to net cash flows from operating activities:
+Depreciation and amortization
+142.8
+
+142.0
+
+Deferred income taxes
+(
+30.0
+)
+(
+21.0
+)
+Stock-based compensation expense
+46.1
+
+38.8
+
+Provision for bad debt
+2.5
+
+6.3
+
+Equity in investments of unconsolidated entities
+3.9
+
+5.3
+
+Gain on sale of business
+—
+
+(
+45.3
+)
+Other, net
+(
+3.3
+)
+2.8
+
+Changes in operating assets and liabilities:
+Accounts receivable
+0.8
+
+8.2
+
+Accounts payable and accrued liabilities
+(
+2.6
+)
+4.7
+
+Accrued compensation and deferred commissions
+(
+24.6
+)
+16.1
+
+Income taxes
+(
+18.7
+)
+25.2
+
+Deferred revenue
+6.0
+
+18.5
+
+Other assets and liabilities
+3.7
+
+(
+16.4
+)
+Cash provided by operating activities
+385.7
+
+438.2
+
+Investing activities
+
+Purchases of investment securities
+(
+18.5
+)
+(
+12.5
+)
+Proceeds from maturities and sales of investment securities
+32.6
+
+23.6
+
+Capital expenditures
+(
+104.4
+)
+(
+102.1
+)
+Acquisitions, net of cash acquired
+(
+39.1
+)
+—
+
+Proceeds from sale of business
+—
+
+52.2
+
+Purchases of investments in unconsolidated entities
+(
+3.3
+)
+(
+6.8
+)
+Other, net
+5.1
+
+0.2
+
+Cash used for investing activities
+(
+127.6
+)
+(
+45.4
+)
+Financing activities
+
+Common shares repurchased
+(
+391.7
+)
+—
+
+Dividends paid
+(
+58.0
+)
+(
+52.0
+)
+Proceeds from revolving credit facility
+370.0
+
+90.0
+
+Repayment of revolving credit facility
+(
+220.0
+)
+(
+105.0
+)
+Repayment of term facility
+—
+
+(
+93.1
+)
+Employee taxes withheld for stock awards
+(
+21.0
+)
+(
+25.4
+)
+Other, net
+—
+
+0.2
+
+Cash used for financing activities
+(
+320.7
+)
+(
+185.3
+)
+Effect of exchange rate changes on cash and cash equivalents
+34.1
+
+7.5
+
+Net increase (decrease) in cash and cash equivalents
+(
+28.5
+)
+215.0
+
+Cash and cash equivalents—beginning of period
+502.7
+
+337.9
+
+Cash and cash equivalents—end of period
+$
+474.2
+
+$
+552.9
+
+Supplemental disclosure of cash flow information
+
+Cash paid for income taxes
+$
+134.0
+
+$
+66.0
+
+Cash paid for interest
+$
+24.3
+
+$
+36.9
+
+See notes to unaudited consolidated financial statements.
+10
+Table of Contents
+MORNINGSTAR, INC. AND SUBSIDIARIES
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS
+
+1. 
+Basis of Presentation of Interim Financial Information
+
+The accompanying unaudited consolidated financial statements of Morningstar, Inc. and subsidiaries (Morningstar, we, our, the company) have been prepared to conform to the rules and regulations of the Securities and Exchange Commission (SEC). The preparation of financial statements in conformity with accounting principles generally accepted in the United States (GAAP) requires management to make estimates and assumptions that affect the reported amount of assets, liabilities, revenues, and expenses. Actual results could differ from those estimates. In the opinion of management, the statements reflect all adjustments, which are of a normal recurring nature, necessary to present fairly our financial position, results of operations, equity, and cash flows. These financial statements and notes are unaudited and should be read in conjunction with our Audited Consolidated Financial Statements and Notes thereto included in our Annual Report on Form 10-K for the year ended December 31, 2024, filed with the SEC on February 28, 2025 (our Annual Report).
+The acronyms that appear in the Notes to our Unaudited Consolidated Financial Statements refer to the following:
+ASC: Accounting Standards Codification
+ASU: Accounting Standards Update
+FASB: Financial Accounting Standards Board
+2. 
+Summary of Significant Accounting Policies
+Our significant accounting policies are included in Note 2 of the Notes to our Audited Consolidated Financial Statements included in our Annual Report.
+Recently Issued Accounting Pronouncements Not Yet Adopted
+Income Taxes
+: In December 2023, the FASB issued ASU No 2023-09: 
+Improvements to Income Tax Disclosures (Topic 740) 
+(ASU No. 2023-09), which requires additional disclosures primarily related to the income tax rate reconciliation and income taxes paid. The standard is effective for annual financial periods beginning after December 15, 2024. The guidance is to be applied on a prospective basis with the option to apply the standard retrospectively. We are evaluating the effect that ASU No. 2023-09 will have on our income tax disclosures.
+Income Statement
+: In November 2024, the FASB issued ASU No. 2024-03: 
+Disaggregation of Income Statement Expenses (DISE) 
+(ASU No. 2024-03), which requires additional disclosure of the nature of expenses included in the income statement. The standard requires disclosures about specific types of expenses included in the expense captions presented on the face of the income statement as well as disclosures about selling expenses. This standard is effective for our fiscal year beginning on January 1, 2027 and interim periods beginning on January 1, 2028. Early adoption is permitted. Entities should apply the guidance prospectively although retrospective application is permitted. We are evaluating the effect that ASU No. 2024-03 will have on our disclosures.
+Capitalized Software
+: In September 2025, the FASB issued ASU No. 2025-06: 
+Targeted Improvements to the Accounting for Internal-Use Software
+ (ASU No. 2025-06) to clarify and modernize the recognition and disclosure framework for internal-use software costs. This standard removes all references to software development project stages and provides new guidance on when an entity is required to start capitalizing eligible costs. This standard is effective for our fiscal year beginning on January 1, 2028 and interim reporting periods within that fiscal year. Early adoption is permitted. Entities may apply the guidance using a prospective, retrospective or modified transition approach. We have not made a decision regarding early adoption and are evaluating the effect that ASU No. 2025-06 will have on our consolidated financial statements.
+11
+Table of Contents
+3. 
+Credit Arrangements
+Debt
+The following table summarizes our debt as of September 30, 2025 and December 31, 2024:
+(in millions)
+As of September 30, 2025
+As of December 31, 2024
+Amended 2022 Term Facility, net of unamortized debt issuance costs of $0.2 million and $0.2 million, respectively
+$
+349.8
+
+$
+349.8
+
+Amended 2022 Revolving Credit Facility
+150.0
+
+—
+
+2.32
+% Senior Notes due October 26, 2030, net of unamortized debt issuance costs of $0.9 million and $1.2 million, respectively
+349.1
+
+348.8
+
+Total debt
+$
+848.9
+
+$
+698.6
+
+Credit Agreement
+On May 6, 2022, the company entered into a senior credit agreement (the 2022 Credit Agreement), providing the company with a 
+five-year
+ multi-currency credit facility with an initial borrowing capacity of up to $
+1.1
+ billion, including a $
+650.0
+ million term loan and a $
+450.0
+ million revolving credit facility. The 2022 Credit Agreement also provided for the issuance of letters of credit and a swingline facility. The 2022 Credit Agreement was amended twice in September 2022 and again most recently in June 2024 (Amended 2022 Credit Agreement) to, among other items, eliminate the options for a second term loan draw and increase both the term loan and revolving credit facility to 
+$
+650.0
+ million
+ each, raising the total borrowing capacity to 
+$
+1.3
+ billion (Amended 2022 Term Facility and Amended 2022 Revolving Credit Facility, respectively), and to update the reference rate for credit extensions in Canadian dollars. Aside from the increased borrowing capacity, the Amended 2022 Credit Agreement left the 2022 Credit Agreement terms largely unchanged. As of September 30, 2025, our total outstanding debt under the Amended 2022 Credit Agreement was 
+$
+499.8
+ million, net of debt issuance costs, with borrowing availability of $
+500.0
+ million 
+under the Amended 2022 Revolving Credit Facility.
+The interest rate applicable to any loan under the Amended 2022 Credit Agreement is, at the company's option, either: (i) the applicable Secured Overnight Financing Rate plus an applicable margin for such loans, which ranges between 
+1.00
+% and 
+1.48
+%, based on the company's consolidated leverage ratio or (ii) the lender's base rate plus the applicable margin for such loans, which ranges between 
+0.00
+% and 
+0.38
+%, based on the company's consolidated leverage ratio.
+The portions of deferred debt issuance costs related to the Amended 2022 Revolving Credit Facility are included in other current and non-current assets, and the portion of deferred debt issuance costs related to the Amended 2022 Term Facility is reported as a reduction to the carrying amount of the Amended 2022 Term Facility. Debt issuance costs related to the Amended 2022 Revolving Credit Facility are amortized on a straight-line basis to interest expense over the term of the Amended 2022 Credit Agreement. Debt issuance costs related to the Amended 2022 Term Facility are amortized to interest expense using the effective interest method over the term of the Amended 2022 Credit Agreement.
+Private Placement Debt Offering
+On October 26, 2020, we completed the issuance and sale of $
+350.0
+ million
+ aggregate principal amount of 
+2.32
+% 
+senior notes due October 26, 2030 (the 2030 Notes), in a private placement exempt from the registration requirements of the Securities Act of 1933, as amended. Proceeds were primarily used to repay a portion of the company's outstanding debt under the company's prior credit facility. Interest on the 2030 Notes is paid semi-annually on each October 30 and A
+pril 30 during the term of the 2030 Notes and at maturity, with the first interest payment date having occurred on April 30, 2021. 
+As of September 30, 2025, our total outstanding debt, net of issuance costs, under the 2030 Notes was $
+349.1
+ million.
+12
+Table of Contents
+Compliance with Covenants
+Each of the Amended 2022 Credit Agreement and the 2030 Notes include customary representations, warranties, and covenants, including financial covenants, that require us to maintain specified ratios of consolidated earnings before interest, taxes, depreciation, and amortization (EBITDA) to consolidated interest charges and consolidated funded indebtedness to consolidated EBITDA, which are evaluated on a quarterly basis. We were in compliance with these financial covenants as of September 30, 2025.
+4. 
+Acquisitions, Goodwill, and Other Intangible Assets 
+2025 Acquisitions
+Pending acquisition of the Center for Research in Security Prices, LLC (CRSP)
+On September 23, 2025, we announced that we had entered into an agreement to acquire CRSP, a provider of historical stock market data and indexes, from the University of Chicago. The transaction consideration includes a cash payment at closing of approximately $
+375.0
+ million, subject to customary post-closing adjustment. We expect the transaction, which is subject to customary closing conditions, including regulatory approval, to be completed during the fourth quarter of 2025.
+Morningstar Credit Analytics (formerly Dealview Technologies Limited (DealX))
+On March 1, 2025, we completed our acquisition of the remaining 
+65
+% equity interest in DealX, a provider of standardized US commercial mortgage-backed security (CMBS) and global collateralized loan obligation (CLO) data. We began consolidating the financial results of DealX in our consolidated financial statements as of March 1, 2025. DealX is included in the 
+Morningstar Credit segment. 
+The acquisition was accounted for as a business combination under the acquisition method of accounting pursuant to 
+FASB ASC 805, 
+Business Combinations
+ (FASB ASC 805)
+, which requires that assets acquired and liabilities assumed be recognized at fair value as of the acquisition date. As of March 31, 2025, we completed our initial determination of the fair values of the acquired identifiable assets and liabilities based on the financial data available. Based on the timing of the close of this transaction, certain valuation calculations are considered preliminary due to information that may subsequently become available, and values assigned to various assets and liabilities could change. 
+The acquisition date fair value of certain assets and liabilities, including intangible assets acquired and related weighted average expected life calculations, are provisional and subject to revision within one year of the acquisition date. Any changes in the fair values of the assets acquired and liabilities assumed during the measurement period may result in adjustments to goodwill. 
+During the
+ third quarter o
+f 2025, we did not record significant adjustments to the purchase price allocation compared with the preliminary estimates recorded in the first quarter of 2025.
+The preliminary allocation of the estimated fair values of the assets acquired and liabilities assumed includes 
+$
+9.7
+ million of goodwill, which is not deductible for income tax purposes, and $
+13.1
+ million
+ of acquired intangible assets, as follows:
+(in millions)
+Weighted average useful life (years)
+Customer-related assets
+$
+0.6
+
+10
+Technology-based assets
+12.5
+
+5
+Total intangible assets
+$
+13.1
+
+13
+Table of Contents
+Lumonic Inc. (Lumonic)
+On March 3, 2025, we acquired Lumonic, a private credit portfolio monitoring and management platform. We began consolidating the financial results of Lumonic in our consolidated financial statements as of March 3, 2025. Lu
+monic is included in the 
+PitchBook segment.
+The acquisition was accounted for as a business combination under the acquisition method of accounting pursuant to FASB ASC 805, which requires that assets acquired and liabilities assumed be recognized at fair value as of the acquisition date. As of March 31, 2025, we completed our initial determination of the fair values of the acquired identifiable assets and liabilities based on the financial data available. Based on the timing of the close of this transaction, certain valuation calculations are considered preliminary due to information that may subsequently become available, and values assigned to various assets and liabilities could change.
+The acquisition date fair value of certain assets and liabilities, including intangible assets acquired and related weighted average expected life calculations, are provisional and subject to revision within one year of the acquisition date. Any changes in the fair values of the assets acquired and liabilities assumed during the measurement period may result in adjustments to goodwill. 
+During the
+ third quarter o
+f 2025, we did not record significant adjustments to the purchase price allocation compared with the preliminary estimates recorded in the first quarter of 2025.
+The preliminary allo
+cation of the estimated fair values of the assets acquired and liabilities assumed 
+includes $
+22.4
+ million of goodwill, which is not deductible for income tax purposes, and $
+10.6
+ million
+ of acquired intangible assets, as follows:
+(in millions)
+Weighted average useful life (years)
+Customer-related assets
+$
+1.4
+
+15
+Technology-based assets
+9.1
+
+8
+Intellectual property
+0.1
+
+3
+Total intangible assets
+$
+10.6
+
+2024 Acquisitions
+We did not make any acquisitions during the 
+first nine months of 2024
+.
+Goodwill
+The company 
+has 
+seven
+ operating segments, w
+hich are presented as the following 
+five
+ reportable segments: 
+Morningstar Direct Platform, PitchBook, Morningstar Credit, Morningstar Wealth, and Morningstar Retirement. Beginning with the first quarter of 2025 reporting, the company changed the name of the Morningstar Data and Analytics reportable segment to the Morningstar Direct Platform.
+14
+Table of Contents
+The company's operating segments also represent the company's reporting units to which goodwill is assigned. The company allocate
+d goodwill by reporting unit in accordance with FASB ASC 350 
+Intangibles—Goodwill and Other
+ (FASB ASC 350). 
+Under this reporting unit structure, the consolidated goodwill balance was allocated based on each reporting unit's relative fair value at January 1, 2021. The company used a market approach and assigned goodwill to the reporting units. The following table shows the changes in our goodwill balances from December 31, 2024 to September 30, 2025:
+ (in millions)
+Morningstar Direct Platform
+PitchBook
+Morningstar Credit
+Morningstar Wealth
+Morningstar Retirement
+Total Reportable Segments
+Corporate and All Other
+Total
+Balance as of December 31, 2024
+$
+594.0
+
+$
+607.4
+
+$
+105.2
+
+$
+92.7
+
+$
+93.5
+
+$
+1,492.8
+
+$
+69.2
+
+$
+1,562.0
+
+Acquisition of DealX
+—
+
+—
+
+9.7
+
+—
+
+—
+
+9.7
+
+—
+
+9.7
+
+Acquisition of Lumonic
+—
+
+22.4
+
+—
+
+—
+
+—
+
+22.4
+
+—
+
+22.4
+
+Foreign currency translation
+14.0
+
+—
+
+4.2
+
+1.6
+
+—
+
+19.8
+
+0.8
+
+20.6
+
+Balance as of September 30, 2025
+$
+608.0
+
+$
+629.8
+
+$
+119.1
+
+$
+94.3
+
+$
+93.5
+
+$
+1,544.7
+
+$
+70.0
+
+$
+1,614.7
+
+We perform our annual impairment reviews in the fourth quarter or when impairment indicators and triggering events are identified. The company did not record any goodwill impairment in the first nine months of 2025
+. R
+efer to Note 8 for detailed segment information.
+Intangible Assets 
+The following table summarizes our intangible assets: 
+
+As of September 30, 2025
+As of December 31, 2024
+(in millions)
+Gross
+Accumulated Amortization
+Net
+Weighted Average Useful
+ Life (years)
+Gross
+Accumulated Amortization
+Net
+Weighted Average Useful Life (years)
+Customer-related assets
+$
+586.9
+
+$
+(
+316.4
+)
+$
+270.5
+
+14
+$
+572.4
+
+$
+(
+281.1
+)
+$
+291.3
+
+14
+Technology-based assets
+330.8
+
+(
+223.4
+)
+107.4
+
+8
+301.9
+
+(
+205.5
+)
+96.4
+
+8
+Intellectual property & other
+90.8
+
+(
+72.7
+)
+18.1
+
+8
+88.6
+
+(
+67.5
+)
+21.1
+
+8
+Total intangible assets
+$
+1,008.5
+
+$
+(
+612.5
+)
+$
+396.0
+
+12
+$
+962.9
+
+$
+(
+554.1
+)
+$
+408.8
+
+12
+
+The following table summarizes our amortization expense related to intangible assets:
+
+Three months ended September 30,
+Nine months ended September 30,
+(in millions)
+2025
+2024
+2025
+2024
+Amortization expense
+$
+15.1
+
+$
+14.7
+
+$
+44.8
+
+$
+49.9
+
+We amortize intangible assets using the straight-line method over their estimated useful lives.
+15
+Table of Contents
+As of September 30, 2025, we expect intangible amortization expense for the remainder of 2025, each of the next four subsequent years, and thereafter, to be as follows:
+(in millions)
+As of September 30, 2025
+Remainder of 2025 (October 1 through December 31)
+$
+15.4
+
+2026
+56.6
+
+2027
+50.0
+
+2028
+45.9
+
+2029
+42.8
+
+Thereafter
+185.3
+
+Total
+$
+396.0
+
+Our estimates of future amortization expense for intangible assets may be affected by future acquisitions, divestitur
+es, changes in the estimated useful lives, i
+mpairments, and foreign currency translation.
+5. 
+Divestitures
+2025 Divestitures
+We did not make any significant divestitures during the 
+first nine months of 2025
+.
+2024 Divestitures
+Effective September 30, 2024, we sold our Commodity and Energy Data business from the Morningstar Direct Platform segment for a purchase price of $
+52.4
+ million. We recorded a $
+45.3
+ million gain on sale of business in the Consolidated Statements of Income for the three and nine months ended September 30, 2024.
+6. 
+Income Per Share
+The 
+following table shows how we reconcile our net income and the number of shares used in computing basic and diluted net income per share:
+
+Three months ended September 30,
+Nine months ended September 30,
+(in millions, except per share amounts)
+2025
+2024
+2025
+2024
+Basic net income per share:
+
+Consolidated net income 
+$
+91.6
+
+$
+119.7
+
+$
+259.1
+
+$
+253.0
+
+Weighted average common shares outstanding
+42.1
+
+42.9
+
+42.4
+
+42.8
+
+Basic net income per share
+$
+2.18
+
+$
+2.79
+
+$
+6.12
+
+$
+5.91
+
+Diluted net income per share:
+Consolidated net income
+$
+91.6
+
+$
+119.7
+
+$
+259.1
+
+$
+253.0
+
+Weighted average common shares outstanding
+42.1
+
+42.9
+
+42.4
+
+42.8
+
+Net effect of dilutive stock awards
+0.2
+
+0.3
+
+0.2
+
+0.3
+
+Weighted average common shares outstanding for computing diluted income per share
+42.3
+
+43.2
+
+42.6
+
+43.1
+
+Diluted net income per share
+$
+2.17
+
+$
+2.77
+
+$
+6.08
+
+$
+5.87
+
+16
+Table of Contents
+During the periods presented, we have outstanding restricted stock units (RSUs), market stock units (MSUs), and performance stock units (PSUs) that are excluded from our calculation of diluted earnings per share as their effect is antidilutive. The amount of these potential antidilutive shares was immaterial.
+7. 
+Revenue
+Disaggregation of Revenue
+The following table presents our revenue disaggregated by revenue type. Sales and usage-based taxes are 
+excluded from revenue. 
+Three months ended September 30,
+Nine months ended September 30,
+(in millions)
+2025
+2024
+2025
+2024
+License-based 
+$
+435.0
+
+$
+408.8
+
+$
+1,281.4
+
+$
+1,210.7
+
+Asset-based
+84.7
+
+83.8
+
+252.8
+
+245.5
+
+Transaction-based
+97.7
+
+76.8
+
+270.2
+
+227.9
+
+Consolidated revenue
+$
+617.4
+
+$
+569.4
+
+$
+1,804.4
+
+$
+1,684.1
+
+Contract Liabilities 
+Our contract liabilities represent deferred revenue. We record contract liabilities when cash payments are received or due in advance of our performance, including amounts which may be refundable. As of September 30, 2025, the contract liabilities balance increased $
+21.7
+ million from December 31, 2024, primarily driven by cash payments received or payable in advance of satisfying our performance obligations. We reco
+gn
+ized $
+494.3
+ million of revenue in the nine months ended September 30, 2025 that was included in the contract liabilities balance as of December 31, 2024.
+We expect to recognize revenue related to our contract liabilities, including future billings, for the remainder of 2025, each of the next four subsequent years, and thereafter,
+ as follows:
+(in millions)
+As of September 30, 2025
+Remainder of 2025 (October 1 through December 31)
+$
+391.3
+
+2026
+747.8
+
+2027
+221.8
+
+2028
+86.3
+
+2029
+38.5
+
+Thereafter
+58.2
+
+Total
+$
+1,543.9
+
+The aggregate amount of revenue we expect to recognize for the remainder of 2025 and subsequent years is higher than our contract liability balance of $
+584.9
+ million as of September 30, 2025. 
+The difference represents the value of future obligations for signed contracts that have yet to be billed.
+17
+Table of Contents
+The table above does not include variable consideration for unsatisfied performance obligations related to certain of our license-based, asset-based, and transaction-based contracts as of September 30, 2025. We are applying the optional exemption available under FASB ASC 606 
+Revenue from Contracts with Customers
+ (FASB ASC 606)
+, as the variable consideration relates to these unsatisfied performance obligations being fulfilled as a series. The performance obligations related to these contracts are expected to be satisfied over the next 
+1
+ to 
+3
+ years as services are provided to the client. For certain license-based contracts, variable consideration is received for services performed based on the number of future users, which is not known until the services are performed. The variable consideration for this revenue can be affected by the number of user licenses, which cannot be reasonably estimated. For asset-based contracts, all the consideration received for services performed is based on future asset values, which are not known until the services are performed. The variable consideration for this revenue can be affected by changes in th
+e underlying value of fund assets due to client redemptions, additional investments, or movements in the market. For transaction-based contracts, the consideration receive
+d for most Internet advertising servic
+es performed is based on the number of impressions, which is not known until the impressions are created. The variable consideration for this revenue can be affected by the timing and quantity of impressions in any given period and cannot be reasonably estimated.
+As of September 30, 2025, the table above also does not include revenue for unsatisfied performance obligations related to certain of our license-based and transaction-based contracts with durations of one year or less since we are applying the optional exemption under FASB ASC 606. For certain license-based contracts, the remaining performance obligation is expected to be less than one year based on the corresponding subscription terms or the existence of cancellation terms that may be exercised causing the contract term to be less than one year from September 30, 2025. For transaction-based contracts, such as new credit rating issuances and Morningstar-sponsored conferences, the related performance obligations are expected to be satisfied within the next 12 months.
+Contract Assets
+Our contract assets represent accounts receivable, less allowance for credit losses, and deferred commissions.
+The following table summarizes our contract assets balance:
+(in millions)
+As of September 30, 2025
+As of December 31, 2024
+Accounts receivable, less allowance for credit losses
+$
+363.9
+
+$
+358.1
+
+Deferred commissions
+64.4
+
+65.8
+
+Total contract assets
+$
+428.3
+
+$
+423.9
+
+8. 
+Segment and Geographical Area Information
+
+Segment Information
+Our segments are generally organized around the company's products offerings. The company has concluded that it has 
+seven
+ operating segments, which are presented as the following 
+five
+ reportable segments: 
+•
+Morningstar Direct Platform
+•
+PitchBook
+•
+Morningstar Credit
+•
+Morningstar Wealth
+•
+Morningstar Retirement
+The operating segments of Morningstar Sustainalytics and Morningstar Indexes do not individually meet the quantitative segment reporting thresholds and have been combined and presented as part of Corporate and All Other, which is not a reportable segment. Corporate and All Other provides a reconciliation between revenue from our total reportable segments and consolidated revenue amounts.
+Beginning with the first quarter of 2025 reporting, the company changed the name of the Morningstar Data and Analytics reportable segment to Morningstar Direct Platform.
+18
+Table of Contents
+Morningstar Direct Platform provides investors comprehensive data, research and insights, and investment analysis to empower investment decision-making. Morningstar Direct Platform includes product areas such as Morningstar Data, Morningstar Direct, and Morningstar Advisor Workstation.
+PitchBook provides investors with access to a broad collection of data and research covering the private capital markets, including venture capital, private equity, private credit and bank loans, and merger and acquisition (M&A) activities. Investors can also access Morningstar's data and research on public equities.
+Morningstar Credit provides investors with credit ratings, research, data, and credit analytics solutions that contribute to the transparency of international and domestic credit markets. Morningstar Credit includes the Morningstar DBRS product area and the Morningstar Credit data and credit analytics product areas.
+Morningstar Wealth provides investment products, platform capabilities, and individual investor tools powered by Morningstar’s independent research and data. We serve financial advisors through model portfolios, separately managed accounts, and technology platforms, and individuals through Morningstar Investor, which offers direct access to Morningstar’s research and insights.
+Morningstar Retirement offers products designed to help individuals reach their retirement goals. Its offerings include managed retirement accounts, fiduciary services, Morningstar Lifetime Allocation funds, and custom models.
+FASB ASC 280 
+Segment Reporting
+ (FASB ASC 280) establishes standards for reporting information about operating segments. Operating segments are defined as components of an enterprise about which separate financial information is available that is evaluated regularly by the chief operating decision maker (CODM), in deciding how to allocate resources and assess performance. The company's chief executive officer, who is considered to be its CODM, reviews segment revenue and Segment Adjusted Operating Income presented on an operating segment basis for purposes of making operating decisions and assessing financial performance. For each segment, the CODM uses segment revenue and Segment Adjusted Operating Income in the annual budget and forecasting process. The CODM considers budget-to-actual variance when making decisions about allocating capital and personnel. 
+We define Segment Adjusted Operating Income as operating income (loss) excluding intangible amortization expense, the impact of merger, acquisition, and divestiture-related activity which, when applicable, may include certain non-recurring expenses such as pre-deal due diligence, transaction costs, contingent consideration, severance, and post-close integration costs (M&A-related expenses), and certain other one-time, non-recurring items which management does not consider when evaluating ongoing performance (other non-recurring items). 
+Although these adjustments are excluded from Segment Adjusted Operating Income, they are included in reported consolidated operating income and are included in the reconciliation to consolidated results. The CODM does not consider these adjustments for the purposes of making decisions to allocate resources among segments or to assess segment performance.
+Expenses presented as part of the company's segments include allocations of shared costs. Shared costs include technology, investment research, sales, facilities, and marketing. These allocations are based on expected utilization of shared resources. Adjusted Operating Income is the reported measure that the company believes is most consistent with those used in measuring the corresponding amount in the consolidated financial statements.
+The CODM does not review any information regarding total assets on a segment basis. Operating segments do not record intersegment revenues; therefore, there is none to be reported.
+19
+Table of Contents
+The following tables present information about the company’s reportable segments for the three and nine months ended 
+September 30, 2025
+ and 2024, along with the items necessary to reconcile the segment information to the totals reported in the accompanying consolidated financial statements. Prior period segment information is presented on a comparable basis to the basis on which current period segment information is presented and reviewed by the CODM.
+Three months ended September 30, 2025
+(in millions)
+Morningstar Direct Platform
+PitchBook
+Morningstar Credit
+Morningstar Wealth
+Morningstar Retirement
+Total Reportable Segments
+Revenue by type:
+License-based
+$
+211.1
+
+$
+166.9
+
+$
+5.4
+
+$
+18.3
+
+$
+0.4
+
+$
+402.1
+
+Asset-based
+—
+
+—
+
+—
+
+35.2
+
+33.8
+
+69.0
+
+Transaction-based
+—
+
+2.1
+
+85.7
+
+8.6
+
+—
+
+96.4
+
+Total segment revenue
+211.1
+
+169.0
+
+91.1
+
+62.1
+
+34.2
+
+567.5
+
+Less:
+Compensation expense
+(1)
+60.7
+
+77.0
+
+48.6
+
+27.0
+
+11.5
+
+Other segment items
+(2)
+56.7
+
+39.1
+
+14.4
+
+32.0
+
+5.8
+
+Adjusted operating income (loss)
+$
+93.7
+
+$
+52.9
+
+$
+28.1
+
+$
+3.1
+
+$
+16.9
+
+$
+194.7
+
+Three months ended September 30, 2024
+(in millions)
+Morningstar Direct Platform
+PitchBook
+Morningstar Credit
+Morningstar Wealth
+Morningstar Retirement
+Total Reportable Segments
+Revenue by type:
+License-based
+$
+198.5
+
+$
+154.7
+
+$
+4.3
+
+$
+20.1
+
+$
+0.4
+
+$
+378.0
+
+Asset-based
+—
+
+—
+
+—
+
+35.5
+
+31.4
+
+66.9
+
+Transaction-based
+—
+
+1.9
+
+66.6
+
+6.2
+
+—
+
+74.7
+
+Total segment revenue
+198.5
+
+156.6
+
+70.9
+
+61.8
+
+31.8
+
+519.6
+
+Less:
+Compensation expense
+(1)
+54.1
+
+70.5
+
+42.8
+
+30.1
+
+10.9
+
+Other segment items
+(2)
+53.0
+
+35.7
+
+12.9
+
+32.4
+
+4.0
+
+Adjusted operating income (loss)
+$
+91.4
+
+$
+50.4
+
+$
+15.2
+
+$
+(
+0.7
+)
+$
+16.9
+
+$
+173.2
+
+Nine months ended September 30, 2025
+(in millions)
+Morningstar Direct Platform
+PitchBook
+Morningstar Credit
+Morningstar Wealth
+Morningstar Retirement
+Total Reportable Segments
+Revenue by type:
+License-based
+$
+618.0
+
+$
+493.4
+
+$
+15.0
+
+$
+57.1
+
+$
+1.3
+
+$
+1,184.8
+
+Asset-based
+—
+
+—
+
+—
+
+106.5
+
+98.2
+
+204.7
+
+Transaction-based
+1.5
+
+5.8
+
+234.1
+
+24.1
+
+—
+
+265.5
+
+Total segment revenue
+619.5
+
+499.2
+
+249.1
+
+187.7
+
+99.5
+
+1,655.0
+
+Less:
+Compensation expense
+(1)
+176.6
+
+229.4
+
+128.2
+
+85.9
+
+34.4
+
+Other segment items
+(2)
+165.8
+
+111.8
+
+40.9
+
+96.5
+
+18.2
+
+Adjusted operating income (loss)
+$
+277.1
+
+$
+158.0
+
+$
+80.0
+
+$
+5.3
+
+$
+46.9
+
+$
+567.3
+
+20
+Table of Contents
+Nine months ended September 30, 2024
+(in millions)
+Morningstar Direct Platform
+PitchBook
+Morningstar Credit
+Morningstar Wealth
+Morningstar Retirement
+Total Reportable Segments
+Revenue by type:
+License-based
+$
+590.9
+
+$
+450.4
+
+$
+12.2
+
+$
+60.5
+
+$
+1.4
+
+$
+1,115.4
+
+Asset-based
+—
+
+—
+
+—
+
+104.9
+
+92.1
+
+197.0
+
+Transaction-based
+1.2
+
+5.5
+
+196.6
+
+18.0
+
+—
+
+221.3
+
+Total segment revenue
+592.1
+
+455.9
+
+208.8
+
+183.4
+
+93.5
+
+1,533.7
+
+Less:
+Compensation expense
+(1)
+161.7
+
+216.8
+
+115.9
+
+93.7
+
+32.2
+
+Other segment items
+(2)
+160.5
+
+101.4
+
+37.5
+
+98.2
+
+12.9
+
+Adjusted operating income (loss)
+$
+269.9
+
+$
+137.7
+
+$
+55.4
+
+$
+(
+8.5
+)
+$
+48.4
+
+$
+502.9
+
+________________________________________________________________________________________
+(1) Compensation expense includes salaries, bonus, commissions, severance, employee benefits, payroll taxes, and stock-based compensation incurred for employees directly associated with each reportable segment. Allocated compensation expense related to corporate and centralized functions is reported within Other segment items. 
+(2) Other segment items for each reportable segment includes:
+Morningstar Direct Platform - allocated expenses, infrastructure costs, and other overhead costs.
+PitchBook - allocated expenses, infrastructure costs, professional fees, and other overhead costs.
+Morningstar Credit - allocated expenses, infrastructure costs, professional fees, and other overhead costs.
+Morningstar Wealth - allocated expenses, infrastructure costs, and other overhead costs.
+Morningstar Retirement - allocated expenses, infrastructure costs, and other overhead costs.
+Three months ended September 30,
+Nine months ended September 30,
+(in millions)
+2025
+2024
+2025
+2024
+Reconciliation of reportable segment revenue to consolidated revenue:
+Total reportable segment revenue
+$
+567.5
+
+$
+519.6
+
+$
+1,655.0
+
+$
+1,533.7
+
+Corporate and All Other 
+(3)
+49.9
+
+49.8
+
+149.4
+
+150.4
+
+Total consolidated revenue
+$
+617.4
+
+$
+569.4
+
+$
+1,804.4
+
+$
+1,684.1
+
+Reconciliation of reportable segment adjusted operating income to income before income taxes:
+Total reportable segment adjusted operating income
+$
+194.7
+
+$
+173.2
+
+$
+567.3
+
+$
+502.9
+
+Corporate and All Other 
+(4)
+(
+44.1
+)
+(
+42.9
+)
+(
+137.9
+)
+(
+130.8
+)
+Intangible amortization expense 
+(
+15.1
+)
+(
+14.7
+)
+(
+44.8
+)
+(
+49.9
+)
+M&A-related expenses
+(
+8.2
+)
+(
+0.1
+)
+(
+18.9
+)
+(
+5.6
+)
+Other non-recurring items
+0.5
+
+—
+
+1.3
+
+—
+
+Operating Income
+127.8
+
+115.5
+
+367.0
+
+316.6
+
+Non-operating income (expense), net
+(
+4.7
+)
+36.4
+
+(
+18.9
+)
+11.8
+
+Equity in investments of unconsolidated entities
+(
+0.1
+)
+(
+2.6
+)
+(
+3.9
+)
+(
+5.3
+)
+Income before income taxes
+$
+123.0
+
+$
+149.3
+
+$
+344.2
+
+$
+323.1
+
+___________________________________________________________________________________________
+(3) Corporate and All Other provides a reconciliation between revenue from our Total Reportable Segments and consolidated revenue amounts. Corporate and All Other includes Morningstar Sustainalytics and Morningstar Indexes as sources of revenues. Revenue from Morningstar Sustainalytics was $
+28.1
+ million and $
+27.9
+ million for the three months ended September 30, 2025 and 2024, respectively, and $
+84.2
+ million and $
+87.9
+ million for the nine months ended September 30, 2025 and 2024, respectively. Revenue from Morningstar Indexes was $
+21.8
+ million and $
+21.9
+ million for the three months ended September 30, 2025 and 2024, respectively, and $
+65.2
+ million and $
+62.5
+ million for the nine months ended September 30, 2025 and 2024, respectively.
+21
+Table of Contents
+(4) Corporate and All Other includes unallocated corporate expenses as well as adjusted operating income (loss) from Morningstar Sustainalytics and Morningstar Indexes. For the third quarters of 2025 and 2024, unallocated corporate expenses were $
+47.1
+ million and $
+43.5
+ million, respectively. For the first nine months of 2025 and 2024, unallocated corporate expenses were $
+139.0
+ million and $
+130.4
+ million, respectively. Unallocated corporate expenses include finance, human resources, legal, and other management-related costs that are not considered when segment performance is evaluated.
+The following table presents depreciation expense by reportable segment:
+Three months ended September 30,
+Nine months ended September 30,
+(in millions)
+2025
+2024
+2025
+2024
+Morningstar Direct Platform
+$
+11.3
+
+$
+9.8
+
+$
+33.3
+
+$
+27.5
+
+PitchBook
+8.7
+
+7.6
+
+24.6
+
+23.3
+
+Morningstar Credit
+2.0
+
+2.2
+
+6.0
+
+5.8
+
+Morningstar Wealth
+3.0
+
+4.3
+
+11.9
+
+14.0
+
+Morningstar Retirement
+2.6
+
+2.2
+
+7.9
+
+7.6
+
+Total Reportable Segments
+27.6
+
+26.1
+
+83.7
+
+78.2
+
+Corporate and All Other 
+(5)
+4.3
+
+4.8
+
+14.2
+
+13.4
+
+Total
+$
+31.9
+
+$
+30.9
+
+$
+97.9
+
+$
+91.6
+
+___________________________________________________________________________________________
+(5) Corporate and All Other provides a reconciliation between depreciation expense from our Total Reportable Segments and consolidated depreciation expense. Corporate and All Other includes unallocated corporate expenses of depreciation expense related to finance, human resources, legal, and other management-related costs that are not considered when segment performance is evaluated as well as depreciation expense from Morningstar Sustainalytics and Morningstar Indexes.
+Geographical Area Information
+The tables below summarize our revenue, long-lived assets, which includes property, equipment, and capitalized software, net, and operating lease assets by geographical area. Revenue is attributed to geographical area based on country in which the sale was contracted.
+Revenue by geographical area
+Three months ended September 30,
+Nine months ended September 30,
+(in millions)
+2025
+2024
+2025
+2024
+United States
+$
+440.7
+
+$
+411.3
+
+$
+1,296.8
+
+$
+1,212.5
+
+Asia
+12.4
+
+11.9
+
+36.5
+
+37.6
+
+Australia
+16.7
+
+16.3
+
+48.0
+
+47.0
+
+Canada
+41.0
+
+33.0
+
+112.7
+
+103.4
+
+Continental Europe
+55.1
+
+51.6
+
+160.7
+
+151.4
+
+United Kingdom
+48.2
+
+42.1
+
+140.1
+
+123.0
+
+Other
+3.3
+
+3.2
+
+9.6
+
+9.2
+
+Total International
+176.7
+
+158.1
+
+507.6
+
+471.6
+
+Consolidated revenue
+$
+617.4
+
+$
+569.4
+
+$
+1,804.4
+
+$
+1,684.1
+
+22
+Table of Contents
+Property, equipment, and capitalized software, net by geographical area
+(in millions)
+As of September 30, 2025
+As of December 31, 2024
+United States
+$
+183.3
+
+$
+189.5
+
+Asia
+12.4
+
+9.6
+
+Australia
+1.3
+
+1.6
+
+Canada
+17.4
+
+6.6
+
+Continental Europe
+6.3
+
+5.3
+
+United Kingdom
+5.0
+
+6.1
+
+Other
+0.2
+
+0.2
+
+Total International
+42.6
+
+29.4
+
+Consolidated property, equipment, and capitalized software, net
+$
+225.9
+
+$
+218.9
+
+Operating lease assets by geographical area
+(in millions)
+As of September 30, 2025
+As of December 31, 2024
+United States
+$
+79.0
+
+$
+92.9
+
+Asia
+49.7
+
+44.2
+
+Australia
+1.7
+
+2.4
+
+Canada
+6.7
+
+7.7
+
+Continental Europe
+16.2
+
+19.1
+
+United Kingdom
+10.5
+
+14.7
+
+Other
+0.6
+
+0.2
+
+Total International
+85.4
+
+88.3
+
+Consolidated operating lease assets
+$
+164.4
+
+$
+181.2
+
+9. 
+Fair Value Measurements
+The tables below present information about items that are measured at fair value:
+
+Fair Value as of
+Level within the Fair Value Hierarchy as of September 30, 2025
+(in millions)
+September 30, 2025
+Level 1
+Level 2
+Level 3
+Cash equivalents
+$
+8.8
+
+$
+8.8
+
+$
+—
+
+$
+—
+
+Investments:
+Marketable equity investments, exchange-traded funds, and mutual funds
+35.0
+
+35.0
+
+—
+
+—
+
+Marketable debt securities
+1.5
+
+1.5
+
+—
+
+—
+
+Investments in unconsolidated entities:
+Non-current investment in Wealth Advisors
+22.8
+
+22.8
+
+—
+
+—
+
+Total
+$
+68.1
+
+$
+68.1
+
+$
+—
+
+$
+—
+
+23
+Table of Contents
+
+Fair Value as of
+Level within the Fair Value Hierarchy as of December 31, 2024
+(in millions)
+December 31, 2024
+Level 1
+Level 2
+Level 3
+Cash equivalents
+$
+43.5
+
+$
+43.5
+
+$
+—
+
+$
+—
+
+Investments:
+Marketable equity investments, exchange-traded funds, and mutual funds
+42.3
+
+42.3
+
+—
+
+—
+
+Marketable debt securities
+2.4
+
+2.4
+
+—
+
+—
+
+Investments in unconsolidated entities:
+Investment in SmartX Advisory Solutions
+24.7
+
+—
+
+—
+
+24.7
+
+Non-current investment in Wealth Advisors
+24.9
+
+24.9
+
+—
+
+—
+
+Total
+$
+137.8
+
+$
+113.1
+
+$
+—
+
+$
+24.7
+
+In 2024, our investment in SmartX Advisory Solutions was measured at fair value on a nonrecurring basis due to the identification of an impairment trigger, leading to $
+12.4
+ million of impairment losses. The fair value was estimated using an income approach with significant, unobservable inputs, which include the extent and timing of future cash flows, revenue growth rates, and discount rates.
+
+10
+. 
+Investments in Unconsolidated Entities
+As of September 30, 2025 and December 31, 2024, our investment in unconsolidated entities balance totaled $
+71.8
+ million and $
+85.3
+ million, respectively. 
+We have investments in both equity method investments and investments in equity securities with and without a readily determinable fair value.
+The carrying amount of investments in equity securities without a readily determinable fair value was $
+42.5
+ million and $
+41.1
+ million as of September 30, 2025 and December 31, 2024, respectively. We did not record any material adjustments or impairment losses in the first nine months of 2025 or 2024.
+11. 
+Leases
+We lease office space and certain equipment under various operating and finance leases, with most of our lease portfolio consisting of operating leases for office space. 
+We determine whether an arrangement is, or includes, an embedded lease at contract inception. Operating lease assets and lease liabilities are recognized at the commencement date and are initially measured using the present value of lease payments over the defined lease term. Lease expense is recognized on a straight-line basis over the lease term. For finance leases, we also recognize a finance lease asset and finance lease liability at inception, with lease expense recognized as interest expense and amortization. 
+A contract is or contains an embedded lease if the contract meets all the below criteria: 
+•
+there is an identified asset;
+•
+we obtain substantially all the economic benefits of the asset; and
+•
+we have the right to direct the use of the asset.
+For initial measurement of the present value of lease payments and for subsequent measurement of lease modifications, we are required to use the rate implicit in the lease, if available. However, as most of our leases do not provide an implicit rate, we use our incremental borrowing rate, which is a collateralized rate. To apply the incremental borrowing rate, we used a portfolio approach and grouped leases based on similar lease terms in a manner whereby we reasonably expect that the application does not differ materially from a lease-by-lease approach.
+Our leases have remaining lease terms of approximately 
+1
+ year to 
+10
+ years, which may include the option to extend the lease when it is reasonably certain we will exercise that option. We do not have lease agreements with residual value guarantees, sale leaseback terms, or material restrictive covenants. 
+24
+Table of Contents
+Leases with an initial term of 12 months or less are not recognized on the balance sheet. We recognize lease expense for these leases on a straight-line basis over the lease term.
+Our operating lease expense for the three months ended September 30, 2025 was $
+11.0
+ million, compared with $
+11.2
+ million for the three months ended September 30, 2024. Charges related to our operating leases that are variable and, therefore, not included in the measurement of the lease liabilities were $
+4.7
+ million for the three months ended September 30, 2025, compared with $
+4.8
+ million for the three months ended September 30, 2024. We made lease payments of $
+12.0
+ million during the three months ended September 30, 2025, compared with $
+12.5
+
+million
+
+during the three months ended September 30, 2024.
+Our operating lease expense for the nine months ended September 30, 2025 was $
+33.2
+ million, compared with $
+32.0
+ million for the nine months ended September 30, 2024. Charges related to our operating leases that are variable and, therefore, not included in the measurement of the lease liabilities were $
+12.5
+ million for the nine months ended September 30, 2025, compared with $
+11.1
+ million for the nine months ended September 30, 2024. We made lease payments of $
+32.8
+ million during the nine months ended September 30, 2025, compared with $
+34.6
+ million during the nine months ended September 30, 2024.
+The following table shows our minimum future lease commitments due in the remainder of 2025, each of the next four subsequent years, and thereafter, for operating leases: 
+(in millions)
+As of September 30, 2025
+Remainder of 2025 (October 1 through December 31)
+$
+11.2
+
+2026
+48.1
+
+2027
+41.5
+
+2028
+35.2
+
+2029
+23.9
+
+Thereafter
+64.0
+
+Total minimum lease commitments
+223.9
+
+Adjustment for discount to present value
+30.2
+
+Present value of lease liabilities
+$
+193.7
+
+The following table summarizes the weighted-average remaining lease terms and weighted-average discount rates for our operating leases:
+As of September 30, 2025
+Weighted-average remaining lease term (in years)
+5.8
+Weighted-average discount rate
+4.6
+
+%
+12. 
+Stock-Based Compensation
+
+Stock-Based Compensation Plans
+
+Our employees and our non-employee directors are eligible for awards under the Morningstar Amended and Restated 2011 Stock Incentive Plan, which provides for a variety of equity-based awards, including stock options, RSUs, MSUs, PSUs, and restricted stock.
+25
+Table of Contents
+The following table summarizes the stock-based compensation expense included in each of our operating expense categories:
+Three months ended September 30,
+Nine months ended September 30,
+(in millions)
+2025
+2024
+2025
+2024
+Cost of revenue
+$
+9.0
+
+$
+6.5
+
+$
+20.7
+
+$
+18.1
+
+Sales and marketing
+3.0
+
+2.5
+
+8.0
+
+7.0
+
+General and administrative
+6.6
+
+4.2
+
+17.4
+
+13.7
+
+Total stock-based compensation expense
+$
+18.6
+
+$
+13.2
+
+$
+46.1
+
+$
+38.8
+
+As of September 30, 2025, the total unrecognized stock-based compensation cost related to outstanding RSUs, MSUs, and PSUs expected to vest was $
+76.0
+ million, which we expect to recognize over a weighted average period of 
+28
+ months.
+13. 
+Income Taxes
+The following table shows our effective tax rate for the three and nine months ended September 30, 2025 and September 30, 2024:
+
+Three months ended September 30,
+Nine months ended September 30,
+(in millions)
+2025
+2024
+2025
+2024
+Income before income taxes and equity in investments of unconsolidated entities
+$
+123.1
+
+$
+151.9
+
+$
+348.1
+
+$
+328.4
+
+Equity in investments of unconsolidated entities
+(
+0.1
+)
+(
+2.6
+)
+(
+3.9
+)
+(
+5.3
+)
+Income before income taxes
+$
+123.0
+
+$
+149.3
+
+$
+344.2
+
+$
+323.1
+
+Income tax expense
+$
+31.4
+
+$
+29.6
+
+$
+85.1
+
+$
+70.1
+
+Effective tax rate
+25.5
+
+%
+19.8
+
+%
+24.7
+
+%
+21.7
+
+%
+Our effective tax rate in the 
+third quarter
+ and 
+first nine months
+ of 
+2025
+ was 
+25.5
+% and 
+24.7
+%
+, respectively, reflecting an increase of 
+5.7
+ and 
+3.0
+ percentage points, respectively, compared with the same periods in the prior year. The increase is primarily attributable to the book gain in excess of taxable gain on the sale of our Commodity and Energy Data business in the third quarter of 2024.
+On July 4, 2025, the One Big Beautiful Bill Act (the OBBB) was enacted in the United States. The OBBB contains several changes impacting corporate taxpayers, including modifications to the capitalization of research and development expenses, changes to calculations for the limitation on deductions for interest expense, and the reestablishment of accelerated depreciation (full expensing) on fixed assets. The OBBB also includes adjustments to the calculation of certain international tax framework provisions, which were initially established by the Tax Cuts and Jobs Act of 2017. The OBBB has multiple effective dates, with certain provisions effective in 2025 and others implemented through 2027. The OBBB did not have a material impact on our consolidated financial statements as of September 30, 2025.
+The Organization for Economic Co-operation and Development (OECD) has proposed a global minimum tax of 15% of reported profits (Pillar Two) that has been agreed upon in principle by over 140 countries. Since the proposal, many countries incorporated Pillar Two model rule concepts into their domestic laws. Although the model rules provide a framework for applying the minimum tax, countries may enact Pillar Two slightly different than the model rules and on different timelines. Other countries are also considering changes to their tax laws to adopt certain parts of the OECD’s proposals. Pillar Two represents a significant change in the international tax regime and could result in increases to our effective tax rate as a result of the imposition of minimum taxes. Pillar Two did not have a material impact to our consolidated financial statements as of September 30, 2025. We are continuing to monitor developments and administrative guidance in addition to evaluating the potential impact of Pillar Two on our consolidated financial statements for future periods.
+26
+Table of Contents
+Unrecognized Tax Benefits
+The table below provides information concerning our gross unrecognized tax benefits as of September 30, 2025 and December 31, 2024, as well as the effect these gross unrecognized tax benefits would have on our income tax expense, if they were recognized.
+(in millions)
+As of September 30, 2025
+As of December 31, 2024
+Gross unrecognized tax benefits
+$
+12.5
+
+$
+11.1
+
+Gross unrecognized tax benefits that would affect income tax expense
+$
+12.5
+
+$
+11.1
+
+Decrease in income tax expense upon recognition of gross unrecognized tax benefits
+$
+12.2
+
+$
+10.9
+
+Our Consolidated Balance Sheets include the following liabilities for unrecognized tax benefits. These amounts include interest and penalties, less any associated tax benefits.
+Liabilities for Unrecognized Tax Benefits (in millions)
+As of September 30, 2025
+As of December 31, 2024
+Current liability
+$
+0.1
+
+$
+0.1
+
+Non-current liability
+13.5
+
+11.7
+
+Total liability for unrecognized tax benefits
+$
+13.6
+
+$
+11.8
+
+We conduct business globally, and, as a result, we file income tax returns in US federal, state, local, and foreign jurisdictions. In the normal course of business, we are subject to examination by tax authorities throughout the world. The open tax years for our US federal tax returns and most state tax returns include the years 2020 to the present.
+We are currently under audit by state and local tax authorities in the US as well as tax authorities in certain non-US jurisdictions. It is likely that the examination phase of some of these state, local, and non-US audits will conclude in 2025. It is not possible to estimate the effect of current audits on previously recorded unrecognized tax benefits.
+Approximately 
+78
+% of our cash, cash equivalents, and investments balance as of September 30, 2025, was held by our operations outside of the US. With the exception of $
+142.0
+ million in earnings of certain of our foreign subsidiaries that we disclosed in the fourth quarter of 2024, we generally consider most of our US directly-owned foreign subsidiary earnings to be permanently reinvested. As of September 30, 2025, we have completed a one-time repatriation of these earnings totaling $
+150.0
+ million ($
+141.4
+ million, net of applicable withholding taxes). We have not recorded deferred income taxes on the remaining balance of accumulated undistributed earnings of our foreign subsidiaries because we consider those earnings to be permanently reinvested.
+Certain of our non-US operations have incurred net operating losses (NOLs), which may become deductible to the extent these operations become profitable. For each of our operations, we evaluate whether it is more likely than not that the tax benefits related to NOLs will be realized. As part of this evaluation, we consider evidence such as tax planning strategies, historical operating results, forecasted taxable income, and recent financial performance. In the year that certain non-US operations record a loss, we do not recognize a corresponding tax benefit, which increases our effective tax rate. Upon determining that it is more likely than not that the NOLs will be realized, we reduce the tax valuation allowances related to these NOLs, which results in a reduction to our income tax expense and our effective tax rate in that period.
+14. 
+Contingencies 
+We record accrued liabilities for litigation, regulatory, and other business matters when those matters represent loss contingencies that are both probable and estimable. In these cases, there may be an exposure to loss in excess of any amounts accrued. Unless a loss contingency is both probable and estimable, we do not establish an accrued liability. As litigation, regulatory, or other business matters develop, we evaluate on an ongoing basis whether such matters present a loss contingency that is probable and estimable.
+27
+Table of Contents
+Data Audits and Reviews
+In our global data business, we include in our products, or directly redistribute to our customers, data and information licensed from third-party vendors. Our compliance with the terms of these licenses is reviewed internally and is also subject to audit by the third-party vendors. At any given time, we may be undergoing several such internal reviews and third-party vendor audits, and the results and findings may indicate that we may be required to make a payment for prior data usage. Due to a lack of available information and data, as well as potential variations of any audit or internal review findings, we generally are not able to reasonably estimate a possible loss, or range of losses, for these matters. In situations where more information or specific areas subject to audit are available, we may be able to estimate a potential range of losses. While we cannot predict the outcome of these processes, we do not anticipate they will have a material adverse effect on our business, operating results, or financial position. 
+Ratings and Regulatory Matters
+Our ratings and related research activities, including credit ratings, environmental, social, and governance ratings, managed investment, and equity ratings, are or may in the future become subject to regulation or increased scrutiny from executive, legislative, regulatory, and private parties. As a result, those activities may be subject to governmental, regulatory, and legislative investigations, regulatory examinations in the ordinary course of business, subpoenas, and other forms of legal process, which may lead to claims and litigation that are based on these ratings and related research activities. Our regulated businesses are generally subject to periodic reviews, inspections, examinations, and investigations by regulators in the jurisdictions in which they operate, any of which may result in claims, legal proceedings, assessments, fines, penalties, disgorgement, or restrictions on business activities. While it is difficult to predict the outcome of any particular investigation or proceeding, we do not believe the result of any of these matters will have a material adverse effect on our business, operating results, or financial position. 
+Other Matters
+We are involved from time to time in commercial disputes and legal proceedings that arise in the normal course of our business. While it is difficult to predict the outcome of any particular dispute or proceeding, we do not believe the result of any of these matters will have a material adverse effect on our business, operating results, or financial position.
+15. 
+Share Repurchase Program
+
+On December 6, 2022, the board of directors approved a share repurchase program that authorizes the company to repurchase up to $
+500.0
+ million in shares of the company's outstanding common stock, effective January 1, 2023 (the 2022 Share Repurchase Program). This authorization replaced the then-existing share repurchase program. 
+Under this authorization, we may repurchase shares from time to time at prevailing market prices on the open market or in private transactions in amounts that we deem appropriate.
+For the three months ended September 30, 2025, 
+we repurchased a total o
+f 
+729,678
+ shares for $
+180.1
+ million, of which $
+10.0
+ million was settled in early October 2025. For the nine months ended September 30, 2025, we repurchased a total of 
+1,496,319
+ shares for $
+401.7
+ million, of which $
+10.0
+ million was settled in early October 2025. 
+As of 
+September 30, 2025, we have repurchased a total of 
+1,538,103
+ shares for $
+414.7
+ million under the 2022 Share Repurchase Program, leaving $
+85.3
+ million available for future repur
+chases.
+16. 
+Subsequent Events
+New Share Repurchase Program
+In October 2025, Morningstar completed repurchases under the 2022 Share Repurchase program, and the board of directors approved (i) the termination of the 2022 Share Repurchase Program and (ii) a new three-year share repurchase program that authorizes the company to repurchase up to $
+1.0
+ billion in shares of the company's outstanding common stock, effective October 31, 2025. Under this authorization, we may repurchase shares from time to time at prevailing market prices on the open market or in private transactions in amounts that we deem appropriate.
+28
+Table of Contents
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+The discussion included in this section, as well as other under sections of this Quarterly Report on Form 10-Q (this Quarterly Report), contains forward-looking statements as that term is used in the Private Securities Litigation Reform Act of 1995. These statements are based on our current expectations about future events or future financial performance. Forward-looking statements by their nature address matters that are, to different degrees, uncertain, and often contain words such as “aim,” “committed,” “consider,” “estimate,” “future,” “goal,” “is designed to,” “maintain,” “may,” “might,” “objective,” “ongoing,” “could,” “expect,” “intend,” “plan,” “possible,” “potential,” “seek,” “anticipate,” “believe,” “predict,” “prospects,” “continue,” “strategy,” “strive,” “will,” “would,” "determine," "evaluate," or the negative thereof, and similar expressions. These statements involve known and unknown risks and uncertainties that may cause the events we discuss not to occur or to differ significantly from what we expect. For us, these risks and uncertainties include, among others:
+•
+Failing to consummate the Center for Research in Security Prices, LLC (CRSP) acquisition on a timely basis or at all, or failing to achieve the anticipated benefits of the CRSP acquisition;
+•
+failing to maintain and protect our brand, independence, and reputation;
+•
+failure to prevent and/or mitigate cybersecurity events and the failure to protect confidential information, including personal information about individuals;
+•
+changing economic conditions, including prolonged volatility, recessions, or downturns affecting the financial sector and global financial markets, fluctuating interest rates, and the impacts of global trade policies, may negatively impact our financial results, including those of our asset-based businesses;
+•
+compliance failures, regulatory action, or changes in laws applicable to our regulated businesses;
+•
+failing to innovate or streamline our product and service offerings or meet or anticipate our clients’ changing needs; 
+•
+the impact of AI technologies on our business and reputation, and the legal risks as they are incorporated into our products and tools; 
+•
+failure to detect errors in our products or failure of our products to perform properly due to defects, malfunctions, or similar problems;
+•
+failing to recruit, develop, and retain qualified employees;
+•
+failing to scale our operations and increase productivity in order to implement our business plans and strategies, including failing to manage costs related thereto;
+•
+liability for any losses that result from errors in our automated advisory tools or errors in the use of the information and data we collect;
+•
+inadequacy of our operational risk management and business continuity programs to address materially disruptive events;
+•
+failure of our strategic transactions, acquisitions, divestitures, and investments in companies or technologies to yield expected business or financial benefits, negatively impacting our operating results and our ability to deliver long-term value to shareholders;
+•
+failing to maintain growth across our businesses due to changes in geopolitics and the regulatory landscape;
+•
+liability relating to the information and data we collect, store, use, create, and distribute or the reports that we publish or are produced by our software products;
+•
+the potential adverse effect of our indebtedness (and rising interest rates) on our cash flow and financial and operational flexibility; 
+•
+liability, costs, and reputational risks relating to environmental, social, and governance considerations;
+•
+our dependence on third-party service providers in our operations;
+•
+inadequacy of our insurance coverage; 
+•
+challenges in accounting for tax complexities in the global jurisdictions we operate in could materially affect our tax obligations and tax rates;
+29
+Table of Contents
+•
+the potential impact of vendor consolidation and clients' strategic decisions to replace our products and services with in-house products and services;
+•
+our ability to build and maintain short-term and long-term shareholder value and pay dividends to our shareholders;
+•
+our ability to maintain existing business and renewal rates and to gain new business;
+•
+the impact of recently issued accounting pronouncements on our consolidated financial statements and related disclosures; and 
+•
+failing to protect our intellectual property rights or claims of intellectual property infringement against us.
+A more complete description of these risks and uncertainties can be found in our other filings with the Securities and Exchange Commission (SEC), including our Annual Report on Form 10-K for the year ended December 31, 2024 (our Annual Report), and our Quarterly Reports on Form 10-Q for the quarters ended March 31, 2025 and June 30, 2025, as supplemented by this Quarterly Report on Form 10-Q. If any of these risks and uncertainties materialize, our actual future results and other future events may vary significantly from what we expect. We do not undertake to update our forward-looking statements as a result of new information, future events, or otherwise, except as may be required by law. You are, however, advised to review any further disclosures we make on related subjects, and about new or additional risks, uncertainties, and assumptions in our filings with the SEC on Forms 10-K, 10-Q, and 8-K.
+All dollar and percentage comparisons, which are often accompanied by words such as “increase,” “decrease,” “grew,” “declined,” “was up,” “was down,” “was flat,” or “was similar” refer to a comparison with the same period in the previous year unless otherwise stated. 
+Understanding our company
+
+Our Business
+Our mission is to empower investor success. The investing ecosystem is complex, and navigating it with confidence requires a trusted, independent voice. We deliver our perspective to institutions, advisors, and individuals with a single-minded purpose: to empower every investor with conviction that they can make better-informed decisions and realize success on their own terms. 
+Our strategy is to deliver insights and experiences that make us essential to investor workflow. Proprietary data sets, meaningful analytics, independent research, and effe
+ctive investment strategies are at the core of the powerful digital solutions that investors across our client segments rely on. We have a keen focus on innovation across data, research, product, and delivery so that we can effectively cater to the evolving needs and expectations of investors globally. 
+The company has seven operating segments, which are presented as the following five reportable segments: Morningstar Direct Platform (formerly named Morningstar Data and Analytics), PitchBook, Morningstar Credit, Morningstar Wealth, and Morningstar Retirement. The operating segments of Morningstar Sustainalytics and Morningstar Indexes do not individually meet the quantitative segment reporting thresholds and have been combined and presented as part of Corporate and All Other, which is not a reportable segment. Prior-period segment information is presented on a comparable basis to the basis on which current period segment information is presented and reviewed by the chief operating decision maker (CODM). For additional information about our segment reporting, refer to Note 8 of the Notes to our Unaudited Consolidated Financial Statements.
+In addition to reviewing revenue by our reportable segments, we review revenue by type. We leverage our proprietary data and research to sell products and services across our portfolio that generate revenue in three primary ways:
+License-base
+d: Generated mostly by our Morningstar Direct Platform and PitchBook segments, revenue through license agreements is derived on either a per user or enterprise-basis. Our license agreements typically range from one to three years and are accounted for as subscription services available to customers and not as licenses under the accounting guidance.
+30
+Table of Contents
+Asset-based: Generated mostly by our Morningstar Wealth and Morningstar Retirement segments, revenue where basis points and other fees are charged for assets under management or advisement (AUMA). Our asset-based arrangements typically range from one to three years.
+Transaction-based: Revenue that is one time in nature and related Morningstar Credit recurring revenue primarily derived from surveillance and research.
+Three and Nine Months Ended September 30, 2025 vs. Three and Nine Months Ended September 30, 2024
+
+Consolidated Results
+
+Three months ended September 30,
+
+Nine months ended September 30,
+Key Metrics (in millions)
+2025
+2024
+Change
+2025
+2024
+Change
+Consolidated revenue
+$
+617.4 
+$
+569.4 
+8.4 
+%
+$
+1,804.4 
+$
+1,684.1 
+7.1 
+%
+Operating income
+$
+127.8 
+$
+115.5 
+10.6 
+%
+$
+367.0 
+$
+316.6 
+15.9 
+%
+Operating margin
+20.7 
+%
+20.3 
+%
+0.4 
+pp
+20.3 
+%
+18.8 
+%
+1.5 
+pp
+Cash provided by operating activities
+$
+195.7 
+$
+191.9 
+2.0 
+%
+$
+385.7 
+$
+438.2 
+(12.0)
+%
+Capital expenditures
+(35.6)
+(36.1)
+(1.4)
+%
+(104.4)
+(102.1)
+2.3 
+%
+Free cash flow
+$
+160.1 
+$
+155.8 
+2.8 
+%
+$
+281.3 
+$
+336.1 
+(16.3)
+%
+Cash provided by (used for) investing activities
+$
+(33.0)
+$
+14.1 
+NMF
+$
+(127.6)
+$
+(45.4)
+181.1 
+%
+Cash used for financing activities
+$
+(188.1)
+$
+(60.2)
+212.5 
+%
+$
+(320.7)
+$
+(185.3)
+73.1 
+%
+___________________________________________________________________________________________
+pp — percentage points
+NMF — not meaningful
+Supplemental Information
+To supplement our consolidated financial statements presented in accordance with US Generally Accepted Accounting Principles (GAAP), we use the following non-GAAP measures: 
+•
+"Organic Revenue"
+ is consolidated revenue before (1) acquisitions and divestitures, (2) adoption of new accounting standards or revisions to accounting practices (accounting changes), and (3) the effect of foreign currency translations.
+•
+"Adjusted Operating Income (Loss)"
+ is consolidated operating income (loss) excluding (1) intangible amortization expense, (2) the impact of merger, acquisition, and divestiture-related activity which, when applicable, may include certain non-recurring expenses such as pre-deal due diligence, transaction costs, contingent consideration, severance, and post-close integration costs (M&A-related expenses), and (3) certain other one-time, non-recurring items which management does not consider when evaluating ongoing performance (other non-recurring items).
+•
+"Adjusted Operating Margin"
+ is operating margin excluding (1) intangible amortization expense, (2) M&A-related expenses, and (3) other non-recurring items. 
+•
+"Free Cash Flow"
+ is cash provided by or used for operating activities less capital expenditures.
+These non-GAAP measures may not be comparable to similarly titled measures reported by other companies and should not be considered an alternative to any measure of performance promulgated under GAAP. 
+We present organic revenue because we believe it helps investors better compare our period-over-period results, and our management team uses this measure to evaluate the performance of our business. We exclude revenue from acquired businesses from our organic revenue growth calculation for a period of 12 months after we complete the acquisition. For divestitures (including sale of assets), we exclude revenue in the prior-year period for which there is no comparable revenue in the current period. 
+31
+Table of Contents
+We present adjusted operating income (loss) and adjusted operating margin because we believe they better reflect period-over-period comparisons and improve overall understanding of the underlying performance of the business absent the impact of intangible amortization expense, M&A-related expenses, and certain other one-time, non-recurring items.
+We present free cash flow as a supplemental disclosure to help investors better understand how much cash is 
+available after making capital expenditures. Our management team uses free cash flow 
+as a metric to evaluate the health of our business.
+32
+Table of Contents
+Consolidated Revenue
+Revenue by type
+Three months ended September 30,
+Nine months ended September 30,
+(in millions)
+2025
+2024
+Change
+2025
+2024
+Change
+Morningstar Direct Platform
+License-based
+$
+211.1 
+$
+198.5 
+6.3 
+%
+$
+618.0 
+$
+590.9 
+4.6 
+%
+Asset-based
+— 
+— 
+— 
+%
+— 
+— 
+— 
+%
+Transaction-based
+— 
+— 
+— 
+%
+1.5 
+1.2 
+25.0 
+%
+Morningstar Direct Platform total
+$
+211.1 
+$
+198.5 
+6.3 
+%
+$
+619.5 
+$
+592.1 
+4.6 
+%
+PitchBook
+License-based
+$
+166.9 
+$
+154.7 
+7.9 
+%
+$
+493.4 
+$
+450.4 
+9.5 
+%
+Asset-based
+— 
+— 
+— 
+%
+— 
+— 
+— 
+%
+Transaction-based
+2.1 
+1.9 
+10.5 
+%
+5.8 
+5.5 
+5.5 
+%
+PitchBook total
+$
+169.0 
+$
+156.6 
+7.9 
+%
+$
+499.2 
+$
+455.9 
+9.5 
+%
+Morningstar Credit
+License-based
+$
+5.4 
+$
+4.3 
+25.6 
+%
+$
+15.0 
+$
+12.2 
+23.0 
+%
+Asset-based
+— 
+— 
+— 
+%
+— 
+— 
+— 
+%
+Transaction-based
+85.7 
+66.6 
+28.7 
+%
+234.1 
+196.6 
+19.1 
+%
+Morningstar Credit total
+$
+91.1 
+$
+70.9 
+28.5 
+%
+$
+249.1 
+$
+208.8 
+19.3 
+%
+Morningstar Wealth
+License-based
+$
+18.3 
+$
+20.1 
+(9.0)
+%
+$
+57.1 
+$
+60.5 
+(5.6)
+%
+Asset-based
+35.2 
+35.5 
+(0.8)
+%
+106.5 
+104.9 
+1.5 
+%
+Transaction-based
+8.6 
+6.2 
+38.7 
+%
+24.1 
+18.0 
+33.9 
+%
+Morningstar Wealth total
+$
+62.1 
+$
+61.8 
+0.5 
+%
+$
+187.7 
+$
+183.4 
+2.3 
+%
+Morningstar Retirement
+License-based
+$
+0.4 
+$
+0.4 
+— 
+%
+$
+1.3 
+$
+1.4 
+(7.1)
+%
+Asset-based
+33.8 
+31.4 
+7.6 
+%
+98.2 
+92.1 
+6.6 
+%
+Transaction-based
+— 
+— 
+— 
+%
+— 
+— 
+— 
+%
+Morningstar Retirement total
+$
+34.2 
+$
+31.8 
+7.5 
+%
+$
+99.5 
+$
+93.5 
+6.4 
+%
+Corporate and All Other 
+(1)
+License-based
+$
+32.9 
+$
+30.8 
+6.8 
+%
+$
+96.6 
+$
+95.3 
+1.4 
+%
+Asset-based
+15.7 
+16.9 
+(7.1)
+%
+48.1 
+48.5 
+(0.8)
+%
+Transaction-based
+1.3 
+2.1 
+(38.1)
+%
+4.7 
+6.6 
+(28.8)
+%
+Corporate and All Other total
+$
+49.9 
+$
+49.8 
+0.2 
+%
+$
+149.4 
+$
+150.4 
+(0.7)
+%
+License-based
+$
+435.0 
+$
+408.8 
+6.4 
+%
+$
+1,281.4 
+$
+1,210.7 
+5.8 
+%
+Asset-based
+84.7 
+83.8 
+1.1 
+%
+252.8 
+245.5 
+3.0 
+%
+Transaction-based
+97.7 
+76.8 
+27.2 
+%
+270.2 
+227.9 
+18.6 
+%
+Consolidated revenue
+$
+617.4 
+$
+569.4 
+8.4 
+%
+$
+1,804.4 
+$
+1,684.1 
+7.1 
+%
+___________________________________________________________________________________________
+(1) 
+Corporate and All Other provides a reconciliation between revenue from our reportable segments and consolidated revenue. Corporate and All Other includes Morningstar Sustainalytics and Morningstar Indexes as sources of revenues.
+33
+Table of Contents
+In the third quarter of 2025, consolidated revenue increased 8.4% to $617.4 million. Foreign currency movements 
+increased revenue by $4.5 million.
+License-based revenue increased 6.4%, or 5.9% on an organic basis, during the third quarter of 2025, primarily driven by strong demand for Morningstar Direct Platform and PitchBook products. 
+Asset-based revenue increased 1.1% on a reported basis, or 7.9% on an organic basis, during the third quarter of 2025. The increase in reported asset-based revenue was primarily driven by an increase in Morningstar Retirement products. Asset-based organic revenue growth was primarily driven by increases in Morningstar Wealth and Morningstar Retirement.
+Transaction-based revenue increased 27.2%, or 26.1% on an organic basis, during the third quarter of 
+2025
+, primarily driven by Morningstar Credit revenue.
+In the first nine months of 2025, consolidated revenue increased 7.1% to 
+$1,804.4 million
+. Foreign currency movements increased revenue by $5.0 million.
+License-based revenue increased 5.8%, or 6.1% on an organic basis, during the first nine months of 2025, primarily driven by
+
+strong demand for PitchBook and Morningstar Direct Platform products. 
+Asset-based revenue increased 3.0%, or 7.3% on an organic basis, during the first nine months of 2025, primarily driven by increases in Morningstar Wealth and Morningstar Retirement.
+Transaction-based revenue increased 18.6%, or 18.4% on an organic basis, during the first nine months of 2025, primarily driven by Morningstar Credit revenue.
+Organic Revenue
+Organic revenue increase
+d 9.0% in the third quarter of 
+2025
+ and 8.0% in the first nine months of 2025, driven by organic growth in PitchBook, Morningstar Credit, and Morningstar Direct Platform.
+The table below shows a reconciliation of 
+organic revenue
+ to the most directly comparable GAAP financial measure. 
+
+Three months ended September 30,
+Nine months ended September 30,
+(in millions)
+2025
+2024
+Change
+2025
+2024
+Change
+Consolidated revenue
+$
+617.4 
+$
+569.4 
+8.4 
+%
+$
+1,804.4 
+$
+1,684.1 
+7.1 
+%
+Acquisitions
+(1.0)
+— 
+NMF
+(2.3)
+— 
+NMF
+Divestitures
+(2.1)
+(9.9)
+(78.8)
+%
+(8.8)
+(27.9)
+(68.5)
+%
+Effect of foreign currency translations
+(4.5)
+— 
+NMF
+(5.0)
+— 
+NMF
+Organic revenue
+$
+609.8 
+$
+559.5 
+9.0 
+%
+$
+1,788.3 
+$
+1,656.2 
+8.0 
+%
+34
+Table of Contents
+Consolidated Revenue by Geographical Area
+
+Three months ended September 30,
+Nine months ended September 30,
+(in millions)
+2025
+2024
+Change
+2025
+2024
+Change
+United States
+$
+440.7 
+$
+411.3 
+7.1 
+%
+$
+1,296.8 
+$
+1,212.5 
+7.0 
+%
+Asia
+12.4 
+11.9 
+4.2 
+%
+36.5 
+37.6 
+(2.9)
+%
+Australia
+16.7 
+16.3 
+2.5 
+%
+48.0 
+47.0 
+2.1 
+%
+Canada
+41.0 
+33.0 
+24.2 
+%
+112.7 
+103.4 
+9.0 
+%
+Continental Europe
+55.1 
+51.6 
+6.8 
+%
+160.7 
+151.4 
+6.1 
+%
+United Kingdom
+48.2 
+42.1 
+14.5 
+%
+140.1 
+123.0 
+13.9 
+%
+Other
+3.3 
+3.2 
+3.1 
+%
+9.6 
+9.2 
+4.3 
+%
+Total International
+176.7 
+158.1 
+11.8 
+%
+507.6 
+471.6 
+7.6 
+%
+Consolidated revenue
+$
+617.4 
+$
+569.4 
+8.4 
+%
+$
+1,804.4 
+$
+1,684.1 
+7.1 
+%
+International revenue comprised 29% of our consolidated revenue in the third quarter of 2025 and 28% in the 
+first nine months
+ of 2025, as well as in both corresponding periods in 2024. Approxima
+tely 58% of international revenue was generated in Continental Europe and the United Kingdom during the third quarter and first nine months of 2025, which was comparable to the same periods in 2024. Revenue from international operations increased 11.8% and 7.6% during the third quarter
+ and 
+first nine months 
+of 2025, respectively, 
+driven by strong demand for Morningstar Credit and Morningstar Direct Platform products.
+Consolidated Operating Expense
+
+Three months ended September 30,
+Nine months ended September 30,
+(in millions)
+2025
+2024
+Change
+2025
+2024
+Change
+Cost of revenue
+$
+241.7 
+$
+222.7 
+8.5 
+%
+$
+703.7 
+$
+663.5 
+6.1 
+%
+  % of consolidated revenue
+39.1 
+%
+39.1 
+%
+—
+pp
+39.0 
+%
+39.4 
+%
+(0.4)
+pp
+Sales and marketing
+115.5 
+107.9 
+7.0 
+%
+347.8 
+323.8 
+7.4 
+%
+  % of consolidated revenue
+18.7 
+%
+19.0 
+%
+(0.3)
+pp
+19.3 
+%
+19.2 
+%
+0.1
+pp
+General and administrative
+85.9 
+77.6 
+10.7 
+%
+244.4 
+238.2 
+2.6 
+%
+  % of consolidated revenue
+13.9 
+%
+13.6 
+%
+0.3
+pp
+13.5 
+%
+14.2 
+%
+(0.7)
+pp
+Depreciation and amortization
+47.0 
+45.7 
+2.8 
+%
+142.8 
+142.0 
+0.6 
+%
+  % of consolidated revenue
+7.6 
+%
+8.0 
+%
+(0.4)
+pp
+7.9 
+%
+8.4 
+%
+(0.5)
+pp
+Total operating expense
+$
+490.1 
+$
+453.9 
+8.0 
+%
+$
+1,438.7 
+$
+1,367.5 
+5.2 
+%
+  % of consolidated revenue
+79.3 
+%
+79.7 
+%
+(0.4)
+pp
+79.7 
+%
+81.2 
+%
+(1.5)
+pp
+Cost of Revenue
+
+Cost of revenue increased $19.0 million in the third quarter of 2025 and $40.2 million in the 
+first nine months of 
+2025
+. Higher compensation expense of $15.8 million and $32.9 million in the third quarter and the first nine months of 2025, respectively, was the largest contributor to the increase, primarily driven by an increase in salaries related in part to the company's annual merit increase. Higher bonus expense was also a contributor during the third quarter of 2025, reflecting strong results relative to targets. Higher severance costs was also a driver to the increase in the first nine months of 2025 driven by the announced sunsetting of Morningstar Office during the first quarter of 2025 and a targeted reorganization in Morningstar Sustainanalytics during the second quarter of 2025.
+35
+Table of Contents
+Sales and Marketing 
+
+Sales and marketing expense increased $7.6 million in the third quarter of 
+2025
+ and $24.0 million in the 
+first nine months of 
+2025
+. Compensation expense increased $6.6 million during the third quarter of 2025 and $15.2 million in the first nine months of 2025 due to an increase in sales commission expense, company-sponsored benefits, salaries, and payroll taxes. Advertising and marketing costs also increased $7.1 million during the first nine months of 2025 due to increased costs associated with marketing and brand campaigns, as well as paid advertising. 
+General and Administrative 
+
+General and administ
+rative expense increased $8.3 million in the third quarter of 2025 and $6.2 million in the first nine months of 2025. Higher compensation expense was the largest contributor to the increase in both periods, driven primarily by higher company-sponsored benefits and stock-based compensation reflecting strong results relative to targets.
+Depreciation and Amortization
+
+Depreciation expense increased $1.0 million in the third quarter of 
+2025
+ and $6.3 million in the 
+first nine months of 2025
+ due pri
+marily to higher capitalized software costs for product enhancements in prior periods.
+Intangible amortization expense was flat during the third quarter of 
+2025
+ and decreased $5.1 million in the 
+first nine months of 2025
+
+as
+ certain intangible assets from some of our earlier acquisitions became fully amortized.
+Consolidated Operating Income and Operating Margin
+
+Three months ended September 30,
+Nine months ended September 30,
+(in millions)
+2025
+2024
+Change
+2025
+2024
+Change
+Operating income 
+$
+127.8 
+$
+115.5 
+10.6 
+%
+$
+367.0 
+$
+316.6 
+15.9 
+%
+% of revenue
+20.7 
+%
+20.3 
+%
+0.4 
+pp
+20.3 
+%
+18.8 
+%
+1.5
+pp
+Consolidated operating income increased $12.3 million in the third quarter of 
+2025
+, reflecting an increase in revenue of $48.0 million, partially offset by an increase in operating expense of $36.2 million. Operating margin was 20.7%, an increase of 0.4 percentage points compared with the third quarter of 2024. 
+Consolidated operating income increased $50.4 million in the 
+first nine months
+ of 
+2025
+, reflecting an increase in revenue of $120.3 million, partially offset by an increase in operating expense of $71.2 million. Operating margin was 20.3% in the 
+first nine months
+ of 
+2025
+, an increase of 1.5 percentage points compared with the 
+first nine months
+ of 2024. 
+36
+Table of Contents
+Adjusted Operating Income and Adjusted Operating Margin
+
+We reported adjusted operating income of $150.6 million and $429.4 million in the third quarter of 
+2025
+ and first nine months of 
+2025, respectively
+. The table below shows a reconciliation of adjusted operating income to the most directly comparable GAAP financial measure.
+Three months ended September 30,
+Nine months ended September 30,
+(in millions)
+2025
+2024
+Change
+2025
+2024
+Change
+Operating income
+$
+127.8 
+$
+115.5 
+10.6 
+%
+$
+367.0 
+$
+316.6 
+15.9 
+%
+   Intangible amortization expense
+15.1 
+14.7 
+2.7 
+%
+44.8 
+49.9 
+(10.2)
+%
+   M&A-related expenses
+8.2 
+0.1 
+NMF
+18.9 
+5.6 
+237.5 
+%
+ Other non-recurring items
+(0.5)
+— 
+NMF
+(1.3)
+— 
+NMF
+Adjusted operating income
+$
+150.6 
+$
+130.3 
+15.6 
+%
+$
+429.4 
+$
+372.1 
+15.4 
+%
+Morningstar Direct Platform
+$
+93.7 
+$
+91.4 
+2.5 
+%
+$
+277.1 
+$
+269.9 
+2.7 
+%
+PitchBook
+52.9 
+50.4 
+5.0 
+%
+158.0 
+137.7 
+14.7 
+%
+Morningstar Credit
+28.1 
+15.2 
+84.9 
+%
+80.0 
+55.4 
+44.4 
+%
+Morningstar Wealth
+3.1 
+(0.7)
+NMF
+5.3 
+(8.5)
+NMF
+Morningstar Retirement
+16.9 
+16.9 
+— 
+%
+46.9 
+48.4 
+(3.1)
+%
+Less: Corporate and All Other 
+(1)
+(44.1)
+(42.9)
+NMF
+(137.9)
+(130.8)
+NMF
+Adjusted operating income
+$
+150.6 
+$
+130.3 
+15.6 
+%
+$
+429.4 
+$
+372.1 
+15.4 
+%
+____________________________
+_______________________________________________________________
+(1) Corporate and All Other includes unallocated corporate expenses as well as adjusted operating income (loss) from Morningstar Sustainalytics and Morningstar Indexes. For the third quarters of 2025 and 2024, unallocated corporate expenses were $47.1 million and $43.5 million, respectively. For the first nine months of 2025 and 2024, unallocated corporate expenses were $139.0 million and $130.4 million, respectively. Unallocated corporate expenses include finance, human resources, legal, and other management-related costs that are not considered when segment performance is evaluated.
+We reported adjusted operating margin of 
+24.4%
+ in the third quarter of 
+2025
+ and 
+23.8%
+ in the 
+first nine months
+ of 
+2025
+. The table below shows a reconciliation of adjusted operating margin to the most directly comparable GAAP financial measure.
+Three months ended September 30,
+Nine months ended September 30,
+2025
+2024
+Change
+2025
+2024
+Change
+Operating margin
+20.7 
+%
+20.3 
+%
+0.4 pp
+20.3 
+%
+18.8 
+%
+1.5 pp
+   Intangible amortization expense
+2.5 
+%
+2.6 
+%
+(0.1) pp
+2.6 
+%
+3.0 
+%
+(0.4) pp
+   M&A-related expenses
+1.3 
+%
+— 
+%
+1.3 pp
+1.0 
+%
+0.3 
+%
+0.7 pp
+   Other non-recurring items
+(0.1)
+%
+— 
+%
+(0.1) pp
+(0.1)
+%
+— 
+%
+(0.1) pp
+Adjusted operating margin
+24.4 
+%
+22.9 
+%
+1.5 pp
+23.8 
+%
+22.1 
+%
+1.7 pp
+37
+Table of Contents
+Segment Results
+Segment adjusted operating income reflects the impact of direct segment expenses as well as certain allocated 
+centralized costs, such as information technology, sales and marketing, and research and data. 
+Morningstar Direct Platform
+The following table presents the results for 
+Morningstar Direct Platform
+:
+
+Three months ended September 30,
+Nine months ended September 30,
+(in millions)
+2025
+2024
+Change
+2025
+2024
+Change
+Total revenue
+$
+211.1 
+$
+198.5 
+6.3 
+%
+$
+619.5 
+$
+592.1 
+4.6 
+%
+Adjusted operating income
+$
+93.7 
+$
+91.4 
+2.5 
+%
+$
+277.1 
+$
+269.9 
+2.7 
+%
+Adjusted operating margin
+44.4 
+%
+46.0 
+%
+(1.6) pp
+44.7 
+%
+45.6 
+%
+(0.9) pp
+Morningstar Direct Platform
+ total revenue increased $12.6 million, or 6.3%, for the three months ended September 30, 2025. Revenue gr
+ew 6.2% on an organic basis, primarily driven by growth in Morningstar Data and Morningstar Direct. Organic revenue growth excludes revenue associated with the divested Commodity and Energy Data business from the prior-year period and foreign currency impact. 
+Starting in the first quarter of 2025, the company changed the name of this reportable segment to Morningstar Direct Platform. It also changed the composition of the key product areas within the segment (Morningstar Data, Morningstar Direct, and Morningstar Advisor Workstation). There were no changes to the overall composition of the reportable segment.
+Morningstar Data 
+contributed $10.6 million to revenue growth, with revenue increasing 10.9% or 7.7% 
+on an organic basis. Increases in managed investment data helped drive Morningstar Data growth.
+Morningstar Direct contributed $5.2 million to revenue growth, with revenue increasing 7.3% or 5.6% on an organic basis, with growth across geographies. Morningstar Direct licenses were flat compared to the prior-year period. 
+Morningstar Direct Platform
+ adjusted operating income increased $2.3 million, or 2.5%, and ad
+justed operating margin decreased 1.6 percentage points
+ for the three months ended September 30, 2025. T
+he decline in adjusted operating margin reflected higher compensation costs, primarily driven by the annual merit increase and higher bonus expense reflecting outperformance relative to targets; the impact of the sale of the company's Commodity and Energy Data business; and increased depreciation primarily driven by higher capitalized software costs for product enhancements in prior periods.
+Morningstar Direct Platform
+ total revenue increased $27.4 million, or 4.6%, for the 
+nine months ended September 30, 2025
+. Revenue gr
+ew 5.6% on an organic basis, primarily driven by growth in Morningstar Data and Morningstar Direct.
+Morningstar Direct Platform
+ adjusted operating income increased $7.2 million, or 2.7%, and ad
+justed operating margin decreased 
+0.9
+ percentage points
+ for the 
+nine months ended September 30, 2025 driven by the same factors noted above.
+Morningstar Direct Platform
+ d
+ep
+reciation expense was $11.3 million and $9.8 million for the three months ended September 30, 2025 and 2024, respectively, and $33.3 million and $27.5 million for the 
+nine months ended September 30, 2025 and 2024, respectively.
+38
+Table of Contents
+PitchBook
+The following table presents the results for 
+PitchBook
+:
+
+Three months ended September 30,
+Nine months ended September 30,
+(in millions)
+2025
+2024
+Change
+2025
+2024
+Change
+Total revenue
+$
+169.0 
+$
+156.6 
+7.9 
+%
+$
+499.2 
+$
+455.9 
+9.5 
+%
+Adjusted operating income
+$
+52.9 
+$
+50.4 
+5.0 
+%
+$
+158.0 
+$
+137.7 
+14.7 
+%
+Adjusted operating margin
+31.3 
+%
+32.2 
+%
+(0.9) pp
+31.7 
+%
+30.2 
+%
+1.5 pp
+PitchBook
+ total revenue increased $12.4 million, or 
+7.9%
+, for the three months ended September 30, 2025. Revenue grew 
+7.7%
+ on an organic basis.
+Growth was primarily driven by the PitchBook platform with contributions from the small-but-growing direct data business. PitchBook platform growth drivers were consistent with recent quarters with strength in PitchBook's core investor and advisor client segments, including private equity, credit, and investment banks, partially offset by continued softness in the corporate client segment, especially among smaller firms with more limited use cases during periods of slower deal activity. PitchBook licensed users were flat compared to the prior-year period, reflecting the addition of new logos offset by churn and including the impact of the rationalization of user lists associated with recent large enterprise renewals. In the quarter, the company updated its definition of licensed user counts, primarily to exclude Morningstar and PitchBook employees.
+PitchBook
+ a
+djusted operating income increased $2.5 million, or 5.0%, and adjusted operating margin decreased 
+0.9
+ percentage points for the 
+three months ended September 30, 2025. 
+The decline in adjusted operating margin was primarily due to higher compensation costs, which included the impact of increased headcount in product development and technology, as well as higher health care costs. 
+PitchBook total revenue increased $43.3 million, or 9.5% for the nine months ended September 30, 2025. 
+Revenue gr
+ew 9.4% on an organic basis, primarily driven by the PitchBook platform.
+PitchBook
+ a
+djusted operating income increased 
+$20.3 million
+, or 
+14.7%
+, and adjusted operating margin increased 
+1.5
+ percentage points for the nine months ended September 30, 2025.
+PitchBook depreciation expense was 
+$8.7 million and $7.6 million
+ for the 
+three months ended September 30, 2025 and 2024, respectively,
+ and
+ $24.6 million and $23.3 million for the 
+nine months ended September 30, 2025 and 2024, respectively. 
+Morningstar Credit
+The following table presents the results for 
+Morningstar Credit
+:
+
+Three months ended September 30,
+Nine months ended September 30,
+(in millions)
+2025
+2024
+Change
+2025
+2024
+Change
+Total revenue
+$
+91.1 
+$
+70.9 
+28.5 
+%
+$
+249.1 
+$
+208.8 
+19.3 
+%
+Adjusted operating income
+$
+28.1 
+$
+15.2 
+84.9 
+%
+$
+80.0 
+$
+55.4 
+44.4 
+%
+Adjusted operating margin
+30.8 
+%
+21.4 
+%
+9.4 pp
+32.1 
+%
+26.5 
+%
+5.6 pp
+Morningstar Credit total reve
+nue increased $20.2 million, or 
+28.5%
+, 
+for the 
+three months ended September 30, 2025
+. Revenue grew 
+27.0%
+ on an organic basis, supported by a robust issuance market. Revenue grew across asset classes and geographies, with particular strength in US commercial mortgage- and asset-backed securities ratings revenue and Canadian and European corporate ratings revenue. Organic revenue growth excludes revenue associated with the Dealview Technologies Limited (DealX) acquisition, which was completed in the first quarter of 2025, and foreign currency impact.
+39
+Table of Contents
+Morningstar Credit adjusted operating income increased 
+$12.9 million, or
+ 84.9%, and adjusted operating margin increased 9.4 percentage points for the 
+three months ended September 30, 2025
+. The increase in adjusted operating income and margin reflected higher revenue, partially offset by higher compensation costs. The increase in compensation was primarily driven by higher salaries and benefits due to increased headcount to support growth and higher bonus expense, reflecting strong performance relative to targets. 
+Morningstar Credit total reve
+nue increased $40.3 million, or 19.3%, 
+for the nine months ended September 30, 2025. Revenue grew 
+19.0%
+ on an organic basis. Revenue grew across asset classes and geographies, with particular strength in US commercial mortgage- and asset-backed securities ratings revenue and Canadian and European corporate ratings revenue.
+Morningstar Credit adjusted operating income increased 
+$24.6 million, or
+ 44.4%, and adjusted operating margin increased 5.6 percentage points for the nine months ended September 30, 2025.
+Morningstar Credit depreciation expense w
+as $2.0 million and $2.2 million for the three months ended September 30, 2025 and 2024, respectively, and $6.0 million and $5.8 million
+ for the nine months ended September 30, 2025 and 2024, respectively.
+Morningstar Wealth
+The following table presents the results for 
+Morningstar Wealth
+:
+
+Three months ended September 30,
+Nine months ended September 30,
+(in millions)
+2025
+2024
+Change
+2025
+2024
+Change
+Total revenue
+$
+62.1 
+$
+61.8 
+0.5 
+%
+$
+187.7 
+$
+183.4 
+2.3 
+%
+Adjusted operating income (loss)
+$
+3.1 
+$
+(0.7)
+NMF
+$
+5.3 
+$
+(8.5)
+NMF
+Adjusted operating margin
+5.0 
+%
+(1.1)
+%
+6.1 pp
+2.8 
+%
+(4.6)
+%
+7.4 pp
+Morningstar Wealth total revenu
+e increased $0.3 million, or 0.5%, for the three months ended September 30, 2025
+. Revenue grew 9.8% on an organic basis, primarily driven by Investment Management and increased advertising sales. Organic revenue growth excludes platform revenue associated with US TAMP assets sold to AssetMark from the prior-year period and foreign currency impact. Reported and organic growth included a $1.5 million negative impact from the ongoing sunsetting of Morningstar Office.
+Asset-based revenue is based on quarter-end, prior quarter-end, or average asset levels during each quarter, which are often reported on a one-quarter lag for certain Investment Management products including Morningstar Managed Portfolios. The timing of client asset reporting and the structure of our contracts often results in a lag between market movements and the impact on revenue. The following table summarizes our approximate 
+Morningstar Wealth 
+AUMA:
+As of September 30,
+(in billions)
+2025
+2024
+Change
+Morningstar Model Portfolios
+$
+50.4 
+$
+44.6 
+13.0 
+%
+Institutional Asset Management
+6.0 
+7.3 
+(17.8)
+%
+Asset Allocation Services
+14.4 
+11.8 
+22.0 
+%
+Investment Management (total)
+$
+70.8 
+$
+63.7 
+11.1 
+%
+Investment Management total revenue decreased $0.4 million, or 1.1% on a reported basis for the three months ended September 30, 2025. Revenue increased 16.1% on an organic basis. 
+Reported AUMA increased 11.1% to $70.8 billion compared with the prior-year period,
+ primarily driven by market performance, which contributed to higher asset values, and positive net flows to Morningstar Model Portfolios offered on third-party platforms and to the International Wealth Platform, partially offset by net outflows related to the sale of US TAMP assets to AssetMark.
+Morningstar Wealth adjusted operating income increased 
+$3.8 million
+ and adjusted operating margin increased 6.1
+
+percentage points for the three months ended September 30, 2025.
+40
+Table of Contents
+Morningstar Wealth total revenu
+e increased $4.3 million, or 2.3%, for the 
+nine months ended September 30, 2025. Revenue grew 
+8.3%
+ on an organic basis, primarily driven by growth in Investment Management and increased advertising sales.
+Morningstar Wealth adjusted operating income increased 
+$13.8 million
+ and adjusted operating margin increased 7.4 percentage points for the nine months ended September 30, 2025.
+Morningstar Wealth depreciation expense w
+as $3.0 million and $4.3 million for the three months ended September 30, 2025 and 2024, respectively, and $11.9 million and $14.0 million for the 
+nine months ended September 30, 2025 and 2024, respectively.
+Morningstar Retirement
+The following table presents the results for 
+Morningstar Retirement
+:
+
+Three months ended September 30,
+Nine months ended September 30,
+(in millions)
+2025
+2024
+Change
+2025
+2024
+Change
+Total revenue
+$
+34.2 
+$
+31.8 
+7.5 
+%
+$
+99.5 
+$
+93.5 
+6.4 
+%
+Adjusted operating income
+$
+16.9 
+$
+16.9 
+— 
+%
+$
+46.9 
+$
+48.4 
+(3.1)
+%
+Adjusted operating margin
+49.4 
+%
+53.1 
+%
+(3.7) pp
+47.1 
+%
+51.8 
+%
+(4.7) pp
+Morningstar Retirement
+ total revenue increased $2.4 million, or 7.5% on both a reported and organic basis for the three months ended September 30, 2025
+. AUMA, calculated using the most recently available average quarterly or monthly data, increased 12.6% to $297.8 billion compared with the prior-year period, primarily due to market gains. Net inflows also contributed to higher AUMA, supported by strong growth in traditional and Advisor Managed Accounts.
+Asset-based revenue is based on quarter-end, prior quarter-end, or average asset levels during each quarter, which are often reported on a one-quarter lag. The timing of client asset reporting and the structure of our contracts often results in a lag between market movements and the impact on revenue. The following table summarizes our approximate 
+Morningstar Retirement
+
+AUMA:
+As of September 30,
+(in billions)
+2025
+2024
+Change
+Managed Accounts
+$
+184.1 
+$
+155.1 
+18.7 
+%
+Fiduciary Services
+68.2 
+63.0 
+8.3 
+%
+Custom Models/CIT
+45.5 
+46.3 
+(1.7)
+%
+Morningstar Retirement (total)
+$
+297.8 
+$
+264.4 
+12.6 
+%
+Morningstar Retirement
+ adjusted operating income remained flat at 
+$16.9 million
+, and adjusted operating margin decreased
+ 3.7 percentage points for the 
+three months ended September 30, 2025.
+ The decline in adjusted operating margin was primarily driven by higher compensation costs, which included the impact of the annual merit increase and increased commissions; and higher marketing expenses, including costs related to campaign tracking and data management.
+Morningstar Retirement
+ total revenue increased $6.0 million, or 6.4% on a reported and organic basis for the 
+nine months ended September 30, 2025. Growth was driven by positive net flows and market gains, supported by strong growth in traditional and Advisor Managed Accounts.
+Morningstar Retirement
+ adjusted operating income decreased $1.5 million, or 3.1%, and adjusted operating margin decreased
+ 4.7 percentage points for the nine months ended September 30, 2025 driven by the same factors noted above.
+Morningstar Retirement
+ depreciation expense was $2.6 million and $2.2 million for the three months ended September 30, 2025 and 2024, respectively, and $7.9 million and $7.6 million for the 
+nine months ended September 30, 2025 and 2024, respectively.
+41
+Table of Contents
+Corporate and All Other
+Corporate and All Other 
+provides a reconciliation between revenue from our Total Reportable Segments and consolidated revenue amounts. Corporate and All Other includes Morningstar Sustainalytics and Morningstar Indexes as sources of revenues.
+Corporate and All Other revenue increased $0.1 million,
+
+or
+
+0.2%
+
+on a reported basis, and decreased $1.0 million, or 0.7% on a reported basis, for the three and nine months ended September 30, 2025, respectively.
+Morningstar Sustainalytics revenue increased 
+$0.2 million,
+ or 
+0.7%, for the three months ended September 30, 2025
+. Organic
+ revenue decreased
+
+3.0%
+ due to the impact of foreign currency.
+Morningstar Sustainalytics revenue decreased 
+$3.7 million,
+ or 
+4.2%, for the 
+nine months ended September 30, 2025. Organic
+ revenue decreased
+
+5.9%
+, which was primarily due to a decline in revenue from the corporate licensed-rating product.
+Morningstar Indexes revenue decreased $0.1 million, or 0.5%, for the three months ended September 30, 2025. Organic revenue decreased 0.8%
+, reflecting lower investable product revenue driven by outflows and lower AUMA for certain higher margin products.
+Morningstar Indexes revenue increased $2.7 million, or 4.3%, for the 
+nine months ended September 30, 2025
+. Organic revenue increased 4.3%
+, primarily driven by higher licensed data revenue. M
+arket performance and net inflows over the trailing 12 months increased asset value linked to Morningstar Indexes by 4.1% to $237.5 billion.
+Non-operating income (expense), net, Equity in investments of unconsolidated entities, and Effective tax rate and income tax expense
+Non-Operating Income (Expense), Net
+
+Three months ended September 30,
+Nine months ended September 30,
+(in millions)
+2025
+2024
+2025
+2024
+Interest income
+$
+2.4 
+$
+3.2 
+$
+8.8 
+$
+8.5 
+Interest expense
+(9.4)
+(12.1)
+(28.6)
+(39.2)
+Gain on sale of business
+— 
+45.3 
+— 
+45.3 
+Other income (expense), net
+2.3 
+— 
+0.9 
+(2.8)
+Non-operating income (expense), net
+$
+(4.7)
+$
+36.4 
+$
+(18.9)
+$
+11.8 
+Interest income reflects interest from our investment portfolio. Interest expense mainly relates to the outstanding principal balance under our Amended 2022 Credit Agreement and the $350.0 million aggregate principal amount of our 2030 Notes. 
+Effective September 30, 2024, we sold our Commodity and Energy Data business from the Morningstar Direct Platform segment for a purchase price of $52.4 million and recorded a $45.3 million gain on sale of business in the Consolidated Statements of Income for the three and nine months ended September 30, 2024.
+Other expense, net primarily consists of foreign currency excha
+nge gains (losses) and gains (losses) on investments. 
+42
+Table of Contents
+Equity in Investments of Unconsolidated Entities
+
+Three months ended September 30,
+Nine months ended September 30,
+(in millions)
+2025
+2024
+2025
+2024
+Equity in investments of unconsolidated entities
+$
+(0.1)
+$
+(2.6)
+$
+(3.9)
+$
+(5.3)
+Equity in investments of unconsolidated entities primarily reflects income and losses from our unconsolidated entities.
+Effective Tax Rate and Income Tax Expense
+
+Three months ended September 30,
+Nine months ended September 30,
+(in millions)
+2025
+2024
+2025
+2024
+Income before income taxes and equity in investments of unconsolidated entities
+$
+123.1 
+$
+151.9 
+$
+348.1 
+$
+328.4 
+Equity in investments of unconsolidated entities
+(0.1)
+(2.6)
+(3.9)
+(5.3)
+Income before income taxes
+$
+123.0 
+$
+149.3 
+$
+344.2 
+$
+323.1 
+Income tax expense
+$
+31.4 
+$
+29.6 
+$
+85.1 
+$
+70.1 
+Effective tax rate
+25.5 
+%
+19.8 
+%
+24.7 
+%
+21.7 
+%
+
+Our effective tax rate in the third quarter and first nine months of 2025 was 25.5% and 24.7%, respectively, reflecting an increase of 5.7 and 3.0 percentage points, respectively, compared with the same periods in the prior year. The increase is primarily attributable to the book gain in excess of taxable gain on the sale of our Commodity and Energy Data business in the third quarter of 2024.
+On July 4, 2025, the One Big Beautiful Bill Act (the OBBB) was enacted in the United States. The OBBB contains several changes impacting corporate taxpayers, including modifications to the capitalization of research and development expenses, changes to calculations for the limitation on deductions for interest expense, and the reestablishment of accelerated depreciation (full expensing) on fixed assets. The OBBB also includes adjustments to the calculation of certain international tax framework provisions, which were initially established by the Tax Cuts and Jobs Act of 2017. The OBBB has multiple effective dates, with certain provisions effective in 2025 and others implemented through 2027. The OBBB did not have a material impact on our consolidated financial statements as of September 30, 2025.
+Liquidity and Capital Resources
+
+As of September 30, 2025, we had cash, cash equivalents, and investments totaling $514.5 million, compared with $551.0 million as of December 31, 2024, a decrease of $36.5 million.
+Cash provided by operating activities is our main source of cash. In the first nine months of 2025, cash provided by operating activities decreased 12.0% to $385.7 million and free cash flow decreased by 16.3% to $281.3 million. The decline in cash provided by operating activities and free cash flow was primarily driven by higher bonus and income tax payments in the first nine months of 2025 compared to the prior-year period.
+We believe our available cash balances and investments, along with cash generated from operations and our credit facility, will be sufficient to meet our operating and cash needs for at least the next 12 months. We are focused on maintaining a strong balance sheet and liquidity position. We hold our cash reserves in cash equivalents and investments and maintain a conservative investment policy. We invest most of our investment balance in stocks, bonds, options, mutual funds, money market funds, or exchange-traded products that replicate the model portfolios and strategies created by Morningstar. These investment accounts may also include exchange-traded products where Morningstar is an index provider. 
+Approximately 78% of our cash, cash equivalents, and investments balance as of September 30, 2025 was held by our operations outside the United States, up from 76% as of December 31, 2024
+. We generally consider most of our US directly-owned foreign subsidiary earnings to be permanently reinvested
+.
+ During the fourth quarter of 2024, we determined $142.0 million in earnings of certain of our foreign subsidiaries to be no longer permanently reinvested. In the first nine months of 2025, we repatriated approximately $150.0 million of our foreign earnings to the US.
+
+43
+Table of Contents
+We intend to use our cash, cash equivalents, and investments for general corporate purposes, including working capital and funding future growth. 
+Credit Agreement
+On May 6, 2022, the company entered into a senior credit agreement (the 2022 Credit Agreement), providing the company with a five-year multi-currency credit facility with an initial borrowing capacity of up to $1.1 billion, including a $650.0 million term loan and a $450.0 million revolving credit facility. The 2022 Credit Agreement also provided for the issuance of letters of credit and a swingline facility. The 2022 Credit Agreement was amended twice in September 2022 and again most recently in June 2024 (Amended 2022 Credit Agreement) to, among other items, eliminate the options for a second term loan draw and increase both the term loan and revolving credit facility to 
+$650.0 million
+ each, raising the total borrowing capacity to 
+$1.3 billion (Amended 2022 Term Facility and Amended 2022 Revolving Credit Facility, respectively), and to update the reference rate for credit extensions in Canadian dollars. Aside from the increased borrowing capacity, the Amended 2022 Credit Agreement left the 2022 Credit Agreement terms largely unchanged. As of September 30, 2025, our total outstanding debt under the Amended 2022 Credit Agreement was 
+$499.8 million, net of debt issuance costs, with borrowing availability of $500.0 million 
+under the Amended 2022 Revolving Credit Facility.
+The interest rate applicable to any loan under the Amended 2022 Credit Agreement is, at the company's option, either: (i) the applicable Secured Overnight Financing Rate plus an applicable margin for such loans, which ranges between 1.00% and 1.48%, based on the company's consolidated leverage ratio or (ii) the lender's base rate plus the applicable margin for such loans, which ranges between 0.00% and 0.38%, based on the company's consolidated leverage ratio.
+The portions of deferred debt issuance costs related to the Amended 2022 Revolving Credit Facility are included in other current and non-current assets, and the portion of deferred debt issuance costs related to the Amended 2022 Term Facility is reported as a reduction to the carrying amount of the Amended 2022 Term Facility. Debt issuance costs related to the Amended 2022 Revolving Credit Facility are amortized on a straight-line basis to interest expense over the term of the Amended 2022 Credit Agreement. Debt issuance costs related to the Amended 2022 Term Facility are amortized to interest expense using the effective interest method over the term of the Amended 2022 Credit Agreement.
+Private Placement Debt Offering
+On October 26, 2020, we completed the issuance and sale of $350.0 million
+ aggregate principal amount of 2.32% 
+senior notes due October 26, 2030 (the 2030 Notes), in a private placement exempt from the registration requirements of the Securities Act of 1933, as amended. Proceeds were primarily used to repay a portion of the company's outstanding debt under the company's prior credit facility. Interest on the 2030 Notes is paid semi-annually on each October 30 and A
+pril 30 during the term of the 2030 Notes and at maturity, with the first interest payment date having occurred on April 30, 2021. 
+As of September 30, 2025, our total outstanding debt, net of issuance costs, under the 2030 Notes was $349.1 million.
+Compliance with Covenants
+Each of the Amended 2022 Credit Agreement and the 2030 Notes include customary representations, warranties, and covenants, including financial covenants, that require us to maintain specified ratios of consolidated earnings before interest, taxes, depreciation, and amortization (EBITDA) to consolidated interest charges and consolidated funded indebtedness to consolidated EBITDA, which are evaluated on a quarterly basis. We were in compliance with these financial covenants as of September 30, 2025
+, with consolidated funded indebtedness to consolidated EBITDA calculated at approxi
+mately 1.0x.
+Dividend
+In September 
+2025
+, our board of directors approved a regular quarterly dividend of $0.455 pe
+r share, or $19.0 mi
+llion, payable on October 31, 2025 to shareholders of record as of October 3, 2025. We paid 
+$58.0 million
+ in dividends during the 
+nine months ended September 30, 2025
+.
+44
+Table of Contents
+Share Repurchase Program
+On December 6, 2022, the board of directors approved a share repurchase program that authorizes the company to repurchase up to $500.0 million in shares of the company's outstanding common stock, effective January 1, 2023 (the 2022 Share Repurchase Program). This authorization replaced the then-existing share repurchase program. 
+Under this authorization, we may repurchase shares from time to time at prevailing market prices on the open market or in private transactions in amounts that we deem appropriate.
+For the three months ended September 30, 2025, 
+we repurchased a total of 729,678 shares for 
+$180.1 million, of which $10.0 million was settled in early October 2025
+. For the 
+nine months ended September 30, 2025, we repurchased a total of 
+1,496,319 
+shares for $401.7 million, of which $10.0 million was settled in early October 2025. 
+As of 
+September 30, 2025, we have repurchased a total of 
+1,538,103
+ shares for $414.7 million under the 2022 Share Repurchase Program, leaving $85.3 million available for future repur
+chases.
+In October 2025, Morningstar completed repurchases under the 2022 Share Repurchase program, and the board of directors approved (i) the termination of the 2022 Share Repurchase Program and (ii) a new three-year share repurchase program that authorizes the company to repurchase up to $1.0 billion in shares of the company's outstanding common stock, effective October 31, 2025. The share repurchase authorization permits the company to repurchase shares of common stock from time to time at prevailing market prices on the open market or in private transactions in amounts that management deems appropriate. 
+Other
+For the nine months ended September 30, 2025, we paid $39.1 million, net of cash acquired, related to the acquisitions of DealX and Lumonic Inc. For the nine months ended September 30, 2024, we received $52.2 million for the sale of our Commodity and Energy Data business.
+We expect to continue making capital expenditures for the remainder of 2025, primarily for computer hardware, software, and leasehold improvements for new and existing office locations. 
+On September 23, 2025, we announced the entry into an agreement to acquire the Center for Research in Security Prices, LLC (CRSP), a provider of historical stock market data and indexes, from the University of Chicago. The transaction consideration includes a cash payment at closing of approximately $375.0 million, subject to customary post-closing adjustment. We expect the transaction, which is subject to customary closing conditions, including regulatory approval, to be completed during the fourth quarter of 2025.
+Consolidated Free Cash Flow
+T
+he table below shows a reconciliation of free cash flow to the most directly comparable GAAP financial measure.
+
+Three months ended September 30,
+Nine months ended September 30,
+(in millions)
+2025
+2024
+Change
+2025
+2024
+Change
+Cash provided by operating activities
+$
+195.7 
+$
+191.9 
+2.0 
+%
+$
+385.7 
+$
+438.2 
+(12.0)
+%
+Capital expenditures
+(35.6)
+(36.1)
+(1.4)
+%
+(104.4)
+(102.1)
+2.3 
+%
+Free cash flow
+$
+160.1 
+$
+155.8 
+2.8 
+%
+$
+281.3 
+$
+336.1 
+(16.3)
+%
+
+We generated free cash flow of $160.1 million in the third quarter of 2025 compared with $155.8 million in the third quarter of 2024. The change reflects a $3.8 million increase in cash provided by operating activities and a $0.5 million decrease in capital expenditures compared to the prior-year period. The increase in cash provided by operating activities and free cash flow was primarily driven by higher cash earnings, offset by an increase in income tax payments in the third quarter of 2025 compared to the prior-year period. We made income tax payments of $40.3 million during the third quarter of 2025 compared with $21.9 million in the third quarter of 2024. The increase in taxes paid was due in large part to higher US tax installment payments, including the impact of $8.1 million of foreign withholding taxes on cash repatriation from one of the Company's affiliates in the quarter.
+
+45
+Table of Contents
+We generated free cash flow of $281.3 million in the first nine months of 2025 compared with $336.1 million in the first nine months of 2024. The change reflects a $52.5 million decrease in cash provided by operating activities and a $2.3 million increase in capital expenditures compared to the prior-year period. The decline in cash provided by operating activities and free cash flow was primarily driven by higher bonus and income tax payments in the first nine months of 2025 compared to the prior-year period. We made annual bonus payments of $163.5 million during the first quarter of 2025 compared with $123.9 million in the first quarter of 2024. We made income tax payments of $134.0 million during the first nine months of 2025 compared with $66.0 million during the first nine months of 2024. The increase in tax payments during the first nine months of 2025 were primarily related to US federal and state income taxes, including 2025 estimated tax installments for the first nine months of 2025, catch-up installments for 2024 tax liabilities, and withholding taxes on cash repatriation dividends from foreign affiliates in 2025.
+Application of Critical Accounting Policies and Estimates
+
+We discuss our critical accounting policies and estimates in Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations, in our Annual Report. We also discuss our significant accounting policies in Note 2 of the Notes to our Audited Consolidated Financial Statements included in our Annual Report and in Note 2 of the Notes to our Unaudited Consolidated Financial Statements contained in Part 1, Item 1 of this Quarterly Report. There have not been any material changes during the three months ended September 30, 2025 to the methodologies applied by management for critical accounting policies previously disclosed in our Annual Report.
+46
+Table of Contents
+Item 3.
+Quantitative and Qualitative Disclosures about Market Risk
+Our investment portfolio is actively managed and may suffer losses from fluctuating interest rates, market prices, or adverse security selection. These accounts may consist of stocks, bonds, options, mutual funds, money market funds, or exchange-traded products that replicate the model portfolios and strategies created by Morningstar. These investment accounts may also include exchange-traded products where Morningstar is an index provider. As of September 30, 2025, our cash, cash equivalents, and investments balance was $514.5 million. Based on our estimates, a 100 basis-point change in interest rates would not have a material effect on the fair value of our investment portfolio.
+We are subject to risk from fluctuations in the interest rates related to a portion of our long-term debt. The interest rates are based upon the applicable 
+Secured Overnight Financing Rate (
+SOFR) plus an applicable margin for such loans or the lender's base rate plus an applicable m
+argin for such loans. On an annualized basis, we estimate a 100 basis-point change in the SOFR would have a $5.0 milli
+on impact on our interest expense based on our outstanding principal balance and SOFR at September 30, 2025.
+We are subject to risk from fluctuations in foreign currencies from our operations outside of the US
+. We do not currently have any positions in derivative instruments to hedge our foreign currency risk. 
+The table below shows our exposure to foreign currency denominated revenue and operating income for the nine months ended September 30, 2025: 
+Nine months ended September 30, 2025
+(in millions, except foreign currency rates)
+Australian Dollar
+British Pound
+Canadian Dollar
+Euro
+Other Foreign Currencies
+Currency rate in US dollars as of September 30, 2025
+0.6607
+1.3443
+0.7186
+1.1738
+n/a
+Percentage of revenue
+2.6 
+%
+7.8 
+%
+6.2 
+%
+6.4 
+%
+5.2 
+%
+Percentage of operating income (loss)
+4.8 
+%
+(3.4)
+%
+7.5 
+%
+8.2 
+%
+(11.2)
+%
+Estimated effect of a 10% adverse currency fluctuation on revenue
+$
+(4.8)
+$
+(14.3)
+$
+(11.3)
+$
+(12.0)
+$
+(9.7)
+Estimated effect of a 10% adverse currency fluctuation on operating income (loss)
+$
+(1.8)
+$
+1.3 
+$
+(2.8)
+$
+(3.2)
+$
+3.8 
+The table below shows our net investment exposure to foreign currencies as of September 30, 2025:
+As of September 30, 2025
+(in millions)
+Australian Dollar
+British Pound
+Canadian Dollar
+Euro
+Other Foreign Currencies
+Assets, net of unconsolidated entities
+$
+75.8 
+$
+311.4 
+$
+242.1 
+$
+254.8 
+$
+250.2 
+Less: liabilities
+(33.9)
+(91.4)
+(84.8)
+(114.0)
+(119.0)
+Net currency position
+$
+41.9 
+$
+220.0 
+$
+157.3 
+$
+140.8 
+$
+131.2 
+Estimated effect of a 10% adverse currency fluctuation on equity
+$
+(4.2)
+$
+(22.0)
+$
+(15.7)
+$
+(14.1)
+$
+(13.1)
+47
+Table of Contents
+Item 4.
+Controls and Procedures
+
+(a)
+Evaluation and Disclosure Controls and Procedures
+
+Disclosure controls and procedures are designed to reasonably assure that information required to be disclosed in the reports filed or submitted under the Securities Exchange Act of 1934, as amended (the Exchange Act) is recorded, processed, summarized, and reported within the time periods specified in the SEC’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to reasonably assure that information required to be disclosed in the reports filed under the Exchange Act is accumulated and communicated to management, including the chief executive officer and chief financial officer, as appropriate, to allow timely decisions regarding required disclosure.
+
+We carried out an evaluation, under the supervision and with the participation of management, including our chief executive officer and chief financial officer, of the effectiveness of the design and operation of our disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) of the Exchange Act, as of September 30, 2025. Based on that evaluation, our chief executive officer and chief financial officer concluded that as of September 30, 2025, our disclosure controls and procedures were effective to provide reasonable assurance that information required to be disclosed in the reports we file or submit under the Exchange Act is recorded, processed, summarized, and reported, within the time periods specified in the SEC's rules and forms and to provide reasonable assurance that such information is accumulated and communicated to management, including the chief executive officer and chief financial officer, as appropriate, to allow timely decisions regarding required disclosure.
+(b)
+Changes in Internal Control Over Financial Reporting
+There were no changes in our internal control over financial reporting that occurred during the three months ended September 30, 2025, that materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+(c)
+
+Inherent Limitations on Effectiveness of Controls and Procedures
+Our management, including our chief executive officer and chief financial officer, believe that our disclosure controls and procedures and internal control over financial reporting are designed to provide reasonable assurance of achieving their objectives and are effective at the reasonable assurance level. A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within the company have been or would be detected. These inherent limitations include the realities that judgments in decision-making can be faulty, and that breakdowns can occur because of a simple error or mistake. Additionally, controls can be circumvented by the individual acts of some persons, by collusion of two or more people, or by management override of the controls. The design of any system of controls is also based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions; over time, controls may become inadequate because of changes in conditions, or the degree of compliance with policies or procedures may deteriorate. Because of the inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected.
+48
+Table of Contents
+PART 2.
+OTHER INFORMATION
+
+Item 1.
+Legal Proceedings
+
+We incorporate by reference the information regarding legal proceedings set forth in Note 14 of the Notes to our Unaudited Consolidated Financial Statements contained in Part 1, Item 1 of this Quarterly Report.
+Item 1A.
+Risk Factors 
+
+In addition to the other information set forth in this Quarterly Report, you should carefully consider the risk factors in Part I, “Item 1A. Risk Factors” in our Annual Report and in Part II, "Item 1A, Risk Factors" in our Quarterly Report on Form 10-Q for the quarter ended March 31, 2025 as well as other risks described in this Report, when deciding whether to invest in our common stock or otherwise evaluating our business. If any of those risks or uncertainties materialize, our business, financial condition, and/or operating results could suffer. In that case, the trading price of our common stock could decline, and you may lose all or part of your investment. Our operations could also be affected by other risks and uncertainties that are not presently known to us or that we currently consider immaterial to our operations.
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+
+Issuer Purchases of Equity Securities
+
+The table below presents month-to-month information related to repurchases of common stock we made during the three months ended September 30, 2025. Refer to Note 15 of the 
+Notes to our Unaudited Consolidated Financial Statements
+ for more information regarding our share repurchase program:
+Period
+Total number of shares purchased
+Average price paid per share
+Total number of shares purchased as part of publicly announced programs (a)
+Approximate dollar value of shares that may yet be purchased under the programs (a)
+July 1, 2025 - July 31, 2025
+— 
+$
+— 
+— 
+$
+265,363,898 
+August 1, 2025 - August 31, 2025
+152,698 
+261.97 
+152,698 
+$
+225,361,994 
+September 1, 2025 - September 30, 2025
+576,980 
+242.75 
+576,980 
+$
+85,297,761 
+Total
+729,678 
+$
+246.77 
+729,678 
+_______________________________________
+(a) Repurchases effected pursuant to the $500.0 million 2022 Share Repurchase Program (announced December 6, 2022) which is now completed. In October 2025, our board of directors authorized (i) the termination of the 2022 Share Repurchase Program and (ii) a new $1.0 billion 3-year share repurchase program effective October 31, 2025 (announced October 29, 2025).
+Item 3. Defaults Upon Senior Securities
+None.
+Item 4. Mine Safety Disclosures
+Not applicable.
+Item 5. Other Information
+Insider Trading Arrangements 
+During the three months ended September 30, 2025, none of the company’s officers (as defined in Section 16 of the Exchange Act) and directors 
+adopted
+ or 
+terminated
+ contracts, instructions, or written plans for the purchase or sale of the company’s securities.
+49
+Table of Contents
+Item 6.
+Exhibits
+Exhibit No
+
+Description of Exhibit
+3.1
+Amended and Restated Articles of Incorporation of Morningstar are incorporated by reference to Exhibit 3.1 to our Registration Statement on Form S-1, as amended, Registration No. 333-115209.
+3.2
+By-laws of Morningstar, as in effect on February 27, 2018, are incorporated by reference to Exhibit 3.1 to our Current Report on Form 8-K that we filed with the SEC on February 28, 2018.
+31.1
+†
+
+Certification of Chief Executive Officer pursuant to Rule 13a-14(a) and 15d-14(a) of the Securities Exchange Act of 1934, as amended
+31.2
+†
+
+Certification of Chief Financial Officer pursuant to Rule 13a-14(a) and 15d-14(a) of the Securities Exchange Act of 1934, as amended
+32.1
+†*
+
+Certification of Chief Executive Officer pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+32.2
+†*
+
+Certification of Chief Financial Officer pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+101†
+
+The following financial information from Morningstar, Inc.’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2025, filed with the SEC o
+n October 30
+, 2025 
+formatted in Inline XBRL: (i) Cover Page, (ii) Unaudited Consolidated Statements
+ of Income, (iii) Unaudited Consolidated Statements of Comprehensive Income (iv) Unaudited Consolidated Balance Sheets, (v) Unaudited Consolidated Statement of Equity, (vi) Unaudited Consolidated Statements of Cash Flows and (vii) the Notes to Unaudited Consolidated Financial Statements 
+104†
+Cover Page Interactive Data File (Embedded within the Inline XBRL document and included in Exhibit 101)
+† Filed herewith.
+*The certificates furnished in Exhibits 32.1 and 32.2 hereto are deemed to accompany this Quarterly Report on Form 10-Q and will not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, except to the extent that the registrant specifically incorporates it by reference.
+50
+Table of Contents
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+MORNINGSTAR, INC.
+
+Date: October 30, 2025
+By:
+/s/ Michael Holt
+
+Michael Holt
+
+Chief Financial Officer (principal financial officer)
+51

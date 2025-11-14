@@ -1,0 +1,209 @@
+ITEM 1. BUSINESS
+General
+ACI develops, markets, installs, and supports a broad line of software solutions that deliver intelligent payments o
+rchestration to banks, merchants, and billers
+. ACI powers the payments ecosystem by supporting any channel, any network, and any payment type.  Our solutions support the new payment experiences that help power customers' growth and drive innovation.  Our intelligent payments orchestration solutions empower customers to modernize their payments infrastructure to support the transactions their businesses need to stay ahead - at scale and without downtime.
+At ACI, we build software solutions that make complex payments simple and secure for the world’s leading financial institutions and large enterprises. Our solutions and services are used globally by banks of all sizes, central banks, intermediaries, merchants, and billers, as well as third-party digital payment processors, payment associations, switch interchanges, and a wide range of transaction-generating endpoints, including automated teller machines (“ATM”), merchant point-of-sale (“POS”) terminals, bank branches, mobile phones, tablets, corporations, and internet commerce sites. The authentication, authorization, switching, settlement, fraud-checking, and reconciliation of digital payments is a complex activity due to the large number of locations and variety of sources from which transactions can be generated, the large number of participants in the market, high transaction volumes, geographically dispersed networks, differing types of authorization, and varied reporting requirements. These activities are typically performed online and are conducted 24 hours a day, seven days a week.
+ACI combines a global perspective with local presence to tailor digital payment solutions for our customers. We believe that we have one of the most diverse and robust digital payment solution portfolios in the industry with application software spanning the entire payments value chain. We also believe that our financial performance has been attributable to our ability to design and deliver quality products and solutions coupled with our ability to identify and successfully complete and integrate strategic acquisitions.
+ACI is a Delaware corporation incorporated in November 1993 under the name ACI Holding, Inc. We are largely the successor to Applied Communications, Inc. and Applied Communications Inc. Limited, acquired from Tandem Computers Incorporated on December 31, 1993. On July 24, 2007, we changed our corporate name from “Transaction Systems Architects, Inc.” to “ACI Worldwide, Inc.” We have been marketing our products and services under the ACI Worldwide brand since 1993 and have gained significant market recognition under this brand name.
+Target Markets
+ACI’s comprehensive digital payment solutions serve three key markets:
+Banks
+ACI provides payment solutions to large and mid-size banks globally for both retail banking, digital, and other payment services. Our solutions transform banks’ complex payment environments to speed time to market, reduce costs, and deliver a consistent experience to customers across channels while enabling them to prevent and rapidly react to fraudulent activity. In addition, we enable banks to meet the requirements of different real-time payment schemes and quickly create differentiated products to meet consumer, business, and merchant demands.
+ACI’s payment solutions support intermediaries, such as processors, networks, payment service providers (“PSPs”), and new financial technology ("fintech") entrants. We offer these customers scalable solutions that strategically position them to innovate and achieve growth and cost efficiency, while protecting them against fraud with our artificial intelligence or AI, human, and data expertise. Our solutions also allow new entrants in the digital marketplace to access innovative payment schemes, such as the U.S. FedNow
+®
+ Services and RTP
+®
+ from The Clearing House, the U.K. Faster Payments, European TIPS, Australia NPP, South Africa RPP, the Payments Network Malaysia ("PayNet"), Real-time Retail Payments Platform ("RPP"), and others.
+2
+Table of Contents
+Merchants
+ACI’s support of merchants globally includes Tier 1 and Tier 2 merchants (in-store and online), PSPs, independent selling organizations (“ISOs”), value-added resellers (“VARs”), and acquirers who service them. These customers operate in a variety of verticals, including general retail, grocery, hospitality, dining, travel and ticketing, fuel, telecommunications, and others. Our solutions provide merchants with a secure, omnichannel payments platform that gives them flexibility and independence. Leveraging the vast choice of integrations through a single application programming interface ("API") and ACI’s proven artificial intelligence ("AI"), human, and data capabilities, merchant customers can orchestrate and protect payments and maximize convergence while reducing risk and operational costs. ACI
+®
+ Payments Orchestration Platform
+™
+ serves more than 80,000 merchants worldwide and is powering payments for five of the top 10 retailers globally. We also offer secure solutions to online-only merchants that provide consumers with a convenient and seamless way to shop.
+Billers
+Within the biller segment, ACI provides electronic bill presentment and payment (“EBPP”) services to companies operating in the consumer finance, insurance, healthcare, higher education, utility, government, mortgage, subscription provider, and telecommunications categories. Our solution and products enable these customers to support a wide range of payment options and provide a convenient consumer payments experience that drives consumer loyalty and increases revenue. We also provide fraud abuse protection to our biller customers leveraging our proven AI, human, and data capabilities.
+Solutions
+ACI is a global software company that provides mission-critical, real-time payment solutions that deliver intelligent payments orchestration to banks, merchants, and billers. Customers use our proven, scalable, and secure solutions to process and manage digital payments, enable omni-commerce payments, present and process bill payments, and manage fraud and risk. Our strategic solution areas include the following:
+Issuing and Acquiring
+ACI offers comprehensive consumer payment solutions ranging from core payment engines to back-office support that enable banks and intermediaries to compete effectively in today’s real-time, open payments ecosystem.
+ACI
+®
+ Acquiring
+™
+ is a solution that helps merchant and ATM acquirers process credit, debit, and prepaid card transactions, deliver digital innovation, improve fraud prevention, and reduce interchange fees.
+ACI Issuing
+™
+ is a digital payments issuing solution that helps issuers process card transactions, accelerate innovation, give customers new payment offerings, and deliver innovative security, with flexible cloud-based or on-premises deployment.
+ACI Enterprise Payments Platform
+™
+ is a market-leading technology that provides payment players global payment processing and orchestration capabilities for all digital payments, including high- and low-value payments, real-time and alternative payments, and cards.
+Account-to-Account Payments
+ACI supports account-to-account payment processing for banks and intermediaries globally, ensuring multi-bank, multi-currency, and 24x7x365 payment processing capabilities, as well as complete and ongoing regulatory compliance. Offered to the market in several forms, the ACI account-to-account payments capability enables banks to process all types of digital payments with a specific focus on two key growth areas for digital payments:
+Support for domestic low-value real-time payments 
+with a complete range of capabilities for 24x7x365 processing of real-time payments, including origination, orchestration, clearing and settlement, fraud detection, and connectivity.
+Support for high-value and cross-border payments 
+offering multi-bank, multi-currency, and wire and Real-Time Gross Settlement ("RTGS") payment processing capabilities, as well as cross-border and domestic SWIFT messaging with seamless integrations to multiple clearing and settlement mechanisms.
+3
+Table of Contents
+Merchant Payments
+ACI offers merchants a secure and scalable payments platform with the flexibility to support in-store, online, and mobile payments. 
+ACI Payments Orchestration Platform 
+is a holistic, omnichannel payments platform that orchestrates and optimizes payments by combining a powerful payments gateway with multilayered, AI-based fraud management, advanced business intelligence tools, and access to an extensive global network of acquirers, third-party providers, and alternative payment methods.
+Payments Intelligence
+ACI’s payments intelligence framework supports banks, merchants, and billers by leveraging generative AI. It effectively combines artificial and human insights with data intelligence to achieve precision, mitigate sophisticated threats, and deliver value-added services for hyper-personalized consumer experiences.
+ACI Fraud Management
+™
+ for merchants and billers 
+provides a combination of patented AI technology, referred to as incremental machine learning models, fraud and payments data, predictive and behavioral analytics, positive profiling, customizable fraud strategies, expert support, and consortium data to mitigate risks and reduce the burden of compliance, delivered as a multi-tenant platform as a service, deployed in the public cloud, or on premises. It enables customers to protect their payments end to end from customer check-in to payment and post authorization, enhancing the customer experience. The solution also supports merchants and billers in managing abuses with returns, coupons, payment aggregators, and other first-party behaviors, reducing operational costs and enabling enriched services and offers to good consumers.
+ACI Fraud Management
+™
+ for financial institutions
+ offers banks, intermediaries, and merchants with private-label portfolios a robust, sophisticated, and easy-to-integrate solution that is able to deliver precise and actionable intelligence in real time by using a combination of sophisticated AI powered algorithms, data orchestration capabilities, network intelligence, and advanced predictive analytics to help prevent fraud and reduce the burden of compliance, delivered as a service, or deployed in the public cloud, or on premises. Business users are empowered with a full set of AI and expert rules capabilities they can operate on their own, streamlining business strategy deployment and immediate impact against emerging threats.
+ACI Fraud Scoring Services
+™
+, part of ACI Fraud Management for financial institutions, is an AI-first approach powered by our patented incremental learning technology, delivered via API calls to enhance fraud strategies and complement existing fraud prevention solutions. Available as a service from our platform, ACI provides customers with a risk assessment that combines the most advanced AI, human, and data capabilities, delivering the precise fraud scores for any type of financial transaction, accompanied by explanation for the assessment. ACI maintains a large set of signals, features, and machine learning models, and orchestrates each transaction through the path that delivers best results. When necessary, ACI monitors, maintains, and refreshes all the machine learning models and strategies used, reducing the burden a customer would have to deploy and maintain the most advanced AI solutions.
+Bill Payment
+ACI meets the bill payment needs of corporate customers across myriad industries through a range of electronic bill payment offerings that help companies raise consumer satisfaction while reducing costs.
+ACI Speedpay
+®
+
+is an integrated suite of digital billing, payment, disbursement, and communication services that lowers the cost of presenting and accepting bill payments while delivering industry-leading security. ACI Speedpay is a true omni-channel solution, allowing customers to pay their bills through their preferred channels, whether online, via mobile, or in person. This flexibility is crucial in today’s digital age, where consumers expect seamless and convenient payment experiences.
+On-Premises, On-Demand, or Hybrid Software Delivery Options
+Our software solutions are offered to our customers through either a traditional term software license arrangement where the software is installed and operated on the customer premises or in a cloud environment, through an on-demand arrangement where the solution is maintained and delivered through the public cloud or ACI's private cloud via our global data centers, or a combination of the two based upon their unique needs. Solutions delivered through ACI’s on-demand cloud are available in either a single-tenant environment, known as a Software-as-a-Service (“SaaS”) offering, or in a multi-tenant environment, known as a Platform-as-a-Service (“PaaS”) offering. Pricing and payment terms depend on which solutions the customer requires and their transaction volumes. Generally, customers are required to commit to a minimum contract of five years, or three years in the case of certain SaaS and PaaS contracts.
+4
+Table of Contents
+Partnerships and Industry Participation
+We have two major types of third-party product partners: 1) technology partners, or industry leaders with whom we work closely that drive key industry trends and mandates, and 2) business partners, where we either embed the partners’ technology in ACI products, host the partners’ software in ACI’s cloud as a part of our cloud offerings, or jointly market solutions that include the products of the other company.
+Technology partners help us add value to our solutions and stay abreast of current market conditions and industry developments such as standards. In addition, ACI has membership in or participates in the relevant committees of several industry associations, such as the International Organization for Standardization (“ISO”), Accredited Standards Committee ("ASC") X9, ATM Industry Association ("ATMIA"), Financial Services, Nexo Standards, U.K. Cards Association, U.S. Payments Forum, and the PCI Security Standards Council. These partnerships provide direction as it relates to the specifications that are used by the card schemes, real-time payment standards, and, in some cases, hardware vendors. These organizations typically look to ACI as a source of knowledge and experience to be shared in conjunction with creating and enhancing their standards. The benefit to ACI is having the opportunity to influence these standards with concepts and ideas that will benefit the market, our customers, and ACI.
+ACI also holds important positions at different payment advisory leader groups worldwide, including advisory board membership with the Faster Payments Council in the U.S., global advisory board membership with the Merchant Risk Council ("MRC"), and a key stakeholder membership with the European Payments Council ("EPC").
+Business partner relationships extend our product portfolio, improve our ability to get our solutions to market, and enhance our ability to deliver market-leading solutions. We share revenues with these business partners based on several factors related to overall value contribution in the delivery of the joint solution or payment type. The agreements with business partners include referral, resale, traditional original equipment manufacturer (“OEM”) relationships, and transaction fee-based payment-enablement partnerships. These agreements generally grant ACI the right to create an integrated solution that we host or distribute, or provide ACI access to established payment networks or capabilities. The agreements are generally worldwide in scope and have a term of several years.
+We have alliances with our technology partners Microsoft Corporation, Amazon, Red Hat, Google, HPE, IBM, and Oracle, whose industry-leading hardware, software, and cloud-based infrastructure services are utilized by and in delivery of ACI’s products. These partnerships allow us to understand developments in the partners’ technology and to utilize their expertise in topics like sizing, scalability, and performance testing.
+Services
+We offer our customers a wide range of professional services, including consultation, analysis, design, development, implementation, integration, testing, and project management. Our service professionals generally perform the majority of the work associated with implementing and integrating our software solutions. In addition, we work with a limited number of systems integration and services partners such as Accenture, LLC, Cognizant Technology Solutions Corporation, and Stanchion Payments Solution for staff augmentation and coordinated co-prime delivery where appropriate.
+Product support services are available to customers after a solution has been installed and are based on the relevant product support category. An extensive team of support analysts are available to assist customers.
+In addition, ACI education services with instructor-led courses include both theory and practical sessions to allow students to work though real business scenarios and put their newly learned skills to use. This hands-on approach ensures that the knowledge is retained, and the student is more productive upon their return to the workplace. Some training topics are further supplemented by self-paced eLearning, available to students on demand to support their skills journey. ACI’s education courses provide students with knowledge at all levels to enhance and improve their understanding of ACI products.  ACI also provides further, more in-depth technical courses that allow students to use practical labs to enhance what they have learned in the classroom. The ACI trainer's ability to understand customers' systems means ACI may also provide tailored course materials for individual customers.  Depending on the products purchased, training may be conducted at a dedicated education facility at one of ACI’s offices, online, on demand, or at the customer site.
+5
+Table of Contents
+Customer Support
+ACI provides our customers with product support that is available 24/7. We offer our customers two support options:
+Standard Customer Support.
+ After implementation completion, we provide maintenance services to customers for a monthly product support fee. Maintenance services include:
+•
+New product releases (major, minor and patches) for active products
+•
+24-hour hotline for priority one (“P1”) problem resolution
+•
+Access to our online support portal (eSupport)
+•
+Vendor-required mandates and updates
+•
+Product documentation
+•
+Hardware operating system compatibility
+•
+User group membership
+Premium Customer Support.
+ Under the premium customer support option, referred to as the Premium Customer Support Program, which is available at additional cost, customers are provided support beyond the standard offering. The services available may differ by product and are defined in the customer contract.
+We periodically provide new product releases, which often contain minor product enhancements, that are typically provided at no additional fee for customers under standard customer support agreements. Agreements with our customers permit us to charge for substantial product enhancements that are not provided as part of the standard or premium customer support agreement.
+Competition
+The digital payments market is highly competitive and subject to rapid change. Competitive factors affecting the market for our solutions, products, and services include product features, price, availability of customer support, ease of implementation, product and company reputation, and a commitment to continued investment in research and development.
+Our competitors vary by solution, geography, and market segment. Generally, our most significant competition comes from in-house information technology departments of existing and potential customers, as well as third-party digital payment processors (some of whom are our customers). Many of these companies are significantly larger than us and have significantly greater financial, technical, and marketing resources.
+Key competitors by solution area include the following:
+Issuing, Acquiring, and Account-to-Account Payments
+The software competitors for ACI’s Issuing, Acquiring, and Account-to-Account Payments solutions include Atos Orgin S.A., Fidelity National Information Service, Inc. ("FIS"), Finastra, Fiserv, Inc. ("Fiserv"), Mastercard, NCR, OpenWay Group, SiNSYS, Total System Services, Inc. (Global Payments), Visa, and Volante, as well as small, locally-focused companies such as BPC Banking Technologies, CR2, Financial Software and Systems, Form3, HPS, Icon Solution, Lusis Payments Ltd., Opus Software Solutions Private Limited, PayEx Solutions AS, Renovite, and RS2. 
+Merchant Payments
+Competitors for merchant payments (ACI Payments Orchestration Platform) come from both third-party software and service providers, as well as service organizations run by major banks. Third-party software and service competitors include Adyen, Cybersource (Visa Acceptance Solutions), Fiserv, Ingenico Group, NCR, Square, Inc., Tender Retail Inc., VeriFone Systems, Inc., Worldpay Inc. (FIS), and Worldline.
+We are also competing in some areas with the traditional orchestration layer providers such as IXOpay, Payoneer, Nuvei, and Spreedly.
+6
+Table of Contents
+Payments Intelligence
+Principal competitors for our ACI Fraud Management solution are Accertify (American Express), BAE Systems, Cybersource (Visa), Fair Isaac Corporation, Featurespace (Visa), Feedzai, FIS, Fiserv, Forter, Kount, NCR, NICE LTD, and SAS Institute, Inc., as well as dozens of smaller companies focused on niches of this segment such as device identification and anti-money laundering.
+Bill Payment
+The principal competitors for our ACI Speedpay bill payments solution are FIS, Fiserv, Invoice Cloud, Inc., Kubra Customer Interaction Management, Nelnet, Inc. and Affiliates, Paymentus Corp., PayNearMe, One Inc., Repay, TouchNet Information Systems, Inc., Transact, as well as smaller vertical-specific providers.
+Research and Development
+Our product development efforts are dedicated to both creating new products and enhancing the functionality of our existing offerings. To ensure we are aligned with market needs, we facilitate user group meetings that help us shape our product and solution strategy, development plans, and customer support aspects. These user groups are typically organized by geography and product lines. We believe that timely development of new applications and enhancements is essential to maintaining our competitive position in the market.
+In developing new products and solutions, we collaborate closely with our customers and industry leaders to understand their requirements. We partner with device manufacturers, such as Diebold, NCR, and Wincor-Nixdorf, to ensure compatibility with the latest ATM technology. We also work with network vendors, such as Mastercard, SWIFT, and Visa, to comply with new regulations or processing mandates. We engage with computer hardware and software manufacturers, such as HPE, IBM, Microsoft Corporation, and Oracle, to ensure are products are compatible with new operating system releases and hardware generations. Customers often provide additional insights and serve as beta-test partners, further refining our solutions.
+We maintain a continuous process to encourage and capture innovative product ideas, which may include new features or entirely new products or services. A proof of concept is conducted to validate these ideas. If viable, the innovation is scheduled into our product roadmap for development and release.
+To ensure high software quality, we implement rigorous testing and quality assurance processes throughout the development lifecycle. This includes automated testing, code reviews, and continuous integration practices to identify and resolve issues early. Our commitment to software quality ensures that our products are reliable, secure, and meet the highest standards of performance.
+Customers
+We provide software products and solutions to our bank, intermediary, and merchant customers worldwide. Our biller products and solutions are sold in the United States. As of December 31, 2024, we serve thousands of organizations, including all 10 of the top 10 banks worldwide, as measured by asset size, and 80,000+ merchants, and we have customers in 90+ countries on six continents. No single customer accounted for more than 10% of our consolidated revenues for the years ended December 31, 2024, 2023, and 2022. No customer accounted for more than 10% of the Company’s consolidated receivables balance as of December 31, 2024 and 2023.
+Selling and Implementation
+Our products are sold and supported directly and through distribution networks covering three geographic regions – the Americas, Europe/Middle East/Africa ("EMEA"), and Asia Pacific. Our primary method of distribution is direct sales by employees assigned to specific target customer segments. We have sales and services personnel in offices throughout the United States. Outside of the United States, our international subsidiaries sell, support, and service our products and solutions in their local countries. Our broad geographic footprint allows us to leverage the business and technical expertise of a global workforce.
+We generate a majority of our sales leads through existing relationships with vendors, direct marketing programs, customers and prospects, or through referrals. 
+We use distributors and referral partners to supplement our direct sales force in countries where it is more efficient and economical to do so. ACI’s distributors, resellers, and system integration partners are enabled to provide supplemental or complete product implementation and customization services directly to our customers or in a joint delivery model.  
+7
+Table of Contents
+We distribute the products of other vendors where they complement our existing product lines. We are typically responsible for the sales and marketing of the vendors' products, and agreements with these vendors generally provide for revenue sharing based on relative responsibilities.
+Proprietary Rights and Licenses
+We rely on a combination of trade secret and copyright laws, license agreements, contractual provisions, and confidentiality agreements to protect our proprietary rights. We distribute our software products under software license agreements that typically grant customers nonexclusive licenses to use our products. Use of our software products is usually restricted to designated computers, specified locations and/or specified capacity, and is subject to terms and conditions prohibiting unauthorized reproduction or transfer of our software products. We also seek to protect the source code of our software as a trade secret and as a copyrighted work. Despite these precautions, there can be no assurance that misappropriation of our software products and technology will not occur.
+In addition to our own products, we distribute, or act as a sales agent for, software developed by third parties. However, we typically are not involved in the development process used by these third parties. Our rights to those third-party products and the associated intellectual property rights are limited by the terms of the contractual agreement between us and the respective third party.
+Although we believe that our owned and licensed intellectual property rights do not infringe upon the proprietary rights of third parties, there can be no assurance that third parties will not assert infringement claims against us. Further, there can be no assurance that intellectual property protection will be available for our products in all foreign countries.
+Government Regulation
+Certain of our solutions are subject to federal, state, and foreign regulations and requirements.
+Oversight by Banking Regulators.
+ As a provider of payment services to banks and intermediaries, we are subject to regulatory oversight and examination by the Federal Financial Institutions Examination Council (“FFIEC”), an interagency body of the Federal Deposit Insurance Corporation, the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the National Credit Union Administration and various state regulatory authorities as part of the Multi-Region Data Processing Servicer Program (“MDPS”). The MDPS program includes technology suppliers who provide mission critical applications for a large number of financial institutions that are regulated by multiple regulatory agencies. Periodic information technology examination assessments are performed using FFIEC interagency guidelines to identify potential risks that could adversely affect serviced financial institutions, determine compliance with applicable laws and regulations that affect the services provided to financial institutions and ensure the services we provide to financial institutions do not create systemic risk to the banking system or impact the safe and sound operation of the financial institutions we serve. In addition, independent auditors annually review several of our operations to provide reports on internal controls for our clients’ auditors and regulators. We are also subject to review under state and foreign laws and rules that regulate many of the same activities that are described above, including electronic data processing and back-office services for financial institutions and the use of consumer information.
+Money Transfer.
+ ACI Payments, Inc., our EBPP affiliate, is registered as a Money Services Business. Accordingly, we are subject to the USA Patriot Act and reporting requirements of the Bank Secrecy Act and United States ("U.S.") Treasury Regulations. These businesses may also be subject to certain state and local licensing requirements. The Financial Crimes Enforcement Network (“FinCEN”), state attorneys general, and other agencies have enforcement responsibility over laws relating to money laundering, currency transmission, and licensing. In addition, most states have enacted statutes that require entities engaged in money transmission to register as a money transmitter with that jurisdiction’s banking department. We have implemented policies, procedures, and internal controls that are designed to comply with all applicable anti-money laundering laws and regulations. ACI has also implemented policies, procedures, and internal controls that are designed to comply with the regulations and economic sanctions programs administered by the U.S. Treasury’s Office of Foreign Assets Control (“OFAC”), which enforces economic and trade sanctions against targeted foreign countries, entities and individuals based on external threats to the U.S. foreign policy, national security, or economy; by other governments; or by global or regional multilateral organizations, such as the United Nations Security Council and the European Union as applicable.
+8
+Table of Contents
+Human Capital
+As of December 31, 2024, we had 
+3,103
+ employees worldwide, with 1,397 employees in the Americas, 819 employees in EMEA, and 887 employees in Asia Pacific. ACI emphasizes a diverse and inclusive workplace, with employees in over 40 countries. Globally, 35% of our employees are women. We are committed to ensuring employees feel safe and respected, regardless of race, color, age, gender, disability, minority, sexual orientation, or any other protected class. Employees have the ability to challenge themselves and continue to grow through various assignments, projects, and development programs. We strive to offer competitive salaries and benefits to all employees, and we continuously monitor salary ranges in our market areas.
+Retention
+
+Our voluntary regrettable turnover, or our turnover of high performers, through December 31, 2024 was 5%, which compares favorably to industry turnover rates. We are pleased with our retention and will continue to employ strategies to retain and engage our global employees. 
+Benefits
+We provide our global employees with competitive and comprehensive benefits to meet their needs and the needs of their dependents. 
+In the United States, nearly all of our employees participate in our employee benefits programs that include: 
+•
+Comprehensive health coverage for medical, vision, and dental care 
+•
+Short term, long term, accident and disability insurance coverage 
+•
+Flexible spending accounts for medical and dependent care expenses 
+•
+Commuter expense reimbursement accounts
+•
+Retirement savings plans including 401(K) and deferred compensation plans
+•
+Access to 529 Plans for college savings 
+•
+Adoption assistance 
+•
+Employee discounts programs
+Some of these benefits are available to our employees outside the United States where applicable and permissible by law in addition to locally provided benefits.
+Globally, all employees have access to an employee assistance program which offers support to employees and their immediate family to address a range of personal needs and concerns in support of their well-being and mental health.  
+To foster a stronger sense of ownership and align with the interests of our shareholders, participation in the employee stock purchase plan is available for eligible employees.
+Available Information
+Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 (the “Exchange Act”), are available free of charge on our website at 
+www.aciworldwide.com
+ as soon as reasonably practicable after we file such information electronically with the SEC. The information found on our website is not part of this or any other report we file with or furnish to the SEC. The public may read and copy any materials that we file with the SEC at the SEC’s Public Reference Room at 100 F Street, Room 1580, NW, Washington DC 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC at 
+www.sec.gov
+.
+9
+Table of Contents
+Executive Officers of the Registrant
+As of February 27, 2025, our executive officers, their ages, and their positions were as follows:
+Name
+Age
+Position
+Thomas W. Warsop, III
+58
+President, Chief Executive Officer, and Director
+Scott W. Behrens
+53
+Chief Financial Officer
+Alessandro Silva
+48
+Chief Revenue Officer
+Abe Kuruvilla
+53
+Chief Technology and Operations Officer
+Mr. Warsop was appointed President and Chief Executive Officer on June 1, 2023. Mr. Warsop joined the ACI Board of Directors in June 2015 and became non-executive Chairman in June 2022. He has led various portfolio companies for several leading private equity firms since 2012, including One Call Care Management, York Risk Services Group, and The Warranty Group. He served as Group President at Fiserv, Inc., a provider of technology solutions to the financial industry, from 2007 to 2012. He served in various capacities at Electronic Data Systems for 17 years, including President of its Business Process Outsourcing unit in Asia Pacific, Vice President in the United Kingdom, and Vice President of Global Financial Services.  Mr. Warsop holds a bachelor's degree in finance from Southern Methodist University 
+Mr. Behrens serves as Executive Vice President and Chief Financial Officer. Mr. Behrens joined ACI in June 2007 as our Corporate Controller and was appointed as Chief Accounting Officer in October 2007. Mr. Behrens was appointed Chief Financial Officer in December 2009 and ceased serving as our Corporate Controller in December 2010. Mr. Behrens was appointed Executive Vice President in March 2011. Prior to joining ACI, Mr. Behrens served as Senior Vice President, Corporate Controller and Chief Accounting Officer at SITEL Corporation from January 2005 to June 2007. He also served as Vice President of Financial Reporting at SITEL Corporation from April 2003 to January 2005. From 1993 to 2003, Mr. Behrens was with Deloitte & Touche, LLP, including two years as a Senior Audit Manager. Mr. Behrens holds a Bachelor of Science degree from the University of Nebraska – Lincoln.
+Mr. Silva serves as Executive Vice President and Chief Revenue Officer. Since joining ACI in 2021, Mr. Silva served as head of international markets and was responsible for driving commercial strategy and strengthening ACI’s sales and customer success capabilities in Latin America, Europe, Asia Pacific, Middle East and Africa. Prior to joining ACI, Mr. Silva held various sales and general manager roles in the U.S, Canada, Latin America and Europe, while working for Western Union, GE Capital, The Carlyle Group and Credicard. He holds a bachelor’s degree in business administration from Universidade Mackenzie in São Paulo and a Master of Business Administration from USP-Universidade de São Paulo. He extended his education at INSEAD, the Harvard Business School and the University of Chicago Booth School of Business. 
+Mr. Kuruvilla was appointed as Executive Vice President and Chief Technology Officer on October 30, 2023. Prior to joining ACI, Mr. Kuruvilla served as Chief Information Officer at CoreLogic, Inc., where he led all aspects of technology strategy, engineering, cyber security, internal systems, and IT operations. Prior to that he served as Chief Information Officer at Dell Financial Services. Earlier in his career, Mr. Kuruvilla held technology leadership roles at De Lage Landen Financial Services, a wholly owned subsidiary of Rabobank. Mr. Kuruvilla holds a bachelor's degree in electrical and computer engineering and a Master of Business Administration from Drexel University.

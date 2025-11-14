@@ -1,0 +1,230 @@
+Item 3.
+
+Legal Proceedings
+
+53
+, F-
+49
+-F-
+51
+
+Item 4.
+
+Mine Safety Disclosures
+
+Not Applicable
+
+PART II
+
+Item 5.
+
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+
+71
+-
+72
+
+Item 6.
+
+Selected Financial Data
+
+Reserved and Removed
+
+Item 7.
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+12
+-
+50
+
+Item 7A.
+
+Quantitative and Qualitative Disclosures about Market Risk
+
+67
+-
+70
+
+Item 8.
+
+Financial Statements and Supplementary Data
+
+(a)
+
+Item 9.
+
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+
+Not Applicable
+
+Item 9A.
+
+Controls and Procedures
+
+73
+
+Item 9B.
+
+Other Information
+
+72
+
+Item 9C.
+
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+
+Not Applicable
+
+PART III
+
+Item 10.
+
+Directors, Executive Officers and Corporate Governance
+
+74
+
+Item 11.
+
+Executive Compensation
+
+74
+
+Item 12.
+
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+74
+
+Item 13.
+
+Certain Relationships and Related Transactions, and Director Independence
+
+74
+
+Item 14.
+
+Principal Accountant Fees and Services
+
+74
+
+PART IV
+
+Item 15.
+
+Exhibits and Financial Statement Schedules
+
+75
+-
+79
+,
+
+F-
+1
+-F-
+61
+
+Item 16.
+
+Form 10-K Summary
+
+Not applicable
+
+Signatures
+
+80
+
+(a)
+Reference is made to the financial statements listed under the heading “(a) 1. Financial Statements” of Item 15 hereof, which financial statements are incorporated by reference in response to this Item 8.
+
+GLOSS
+ARY
+
+Listed below are definitions of key terms that are used throughout this document. See also Appendix A, “Description of Federal Family Education Loan Program,” for a further discussion of the FFELP.
+
+Constant Prepayment Rate (CPR)
+ — A variable in life-of-loan estimates that measures the rate at which loans in the portfolio prepay before their stated maturity. The CPR is directly correlated to the average life of the portfolio. CPR equals the percentage of loans that prepay annually as a percentage of the beginning of period balance.
+
+ED
+ — The U.S. Department of Education.
+
+FFELP
+ — The Federal Family Education Loan Program, formerly the Guaranteed Education Loan Program, a program that was discontinued in 2010.
+
+FFELP Consolidation Loans
+ — Under the FFELP, borrowers with multiple eligible education loans may have consolidated them into a single education loan with one lender at a fixed rate for the life of the loan. The new loan is considered a FFELP Consolidation Loan. The borrower rate on a FFELP Consolidation Loan is generally fixed for the term of the loan and was set by the weighted average interest rate of the loans being consolidated, rounded up to the nearest 1/8th of a percent, not to exceed 8.25%. Before October 1, 1998, maximum loan rates could have exceeded 8.25%. Between November 13, 1997 and September 30, 1998, interest rates were variable. Holders of FFELP Consolidation Loans are eligible to earn interest under the Special Allowance Payment (SAP) formula. In April 2008, we suspended originating new FFELP Consolidation Loans.
+
+FFELP Stafford Loans
+ — Education loans to students or parents of students that are guaranteed or reinsured under the FFELP. The loans are primarily Stafford loans but also include PLUS, SLS, Consolidation and HEAL loans. The FFELP was discontinued in 2010.
+
+Fixed Rate Floor Income
+ — Fixed Rate Floor Income is Floor Income associated with education loans with borrower rates that are fixed to term (primarily FFELP Consolidation Loans).
+
+Floor Income
+ — For loans disbursed before April 1, 2006, FFELP Loans generally earn interest at the higher of either the borrower rate, which is fixed over a period of time, or a floating rate based on the SAP formula. We generally finance our education loan portfolio with floating rate debt whose interest is matched closely to the floating nature of the applicable SAP formula. If interest rates decline to a level at which the borrower rate exceeds the SAP formula rate, we continue to earn interest on the loan at the fixed borrower rate while the floating rate interest on our debt continues to decline. In these interest rate environments, we refer to the additional spread it earns between the fixed borrower rate and the SAP formula rate as Floor Income. Depending on the type of education loan and when it was originated, the borrower rate is either fixed to term or is reset to a market rate each July 1. As a result, for loans where the borrower rate is fixed to term, we may earn Floor Income for an extended period of time, and for those loans where the borrower interest rate is reset annually on July 1, we may earn Floor Income to the next reset date. In accordance with legislation enacted in 2006, lenders are required to rebate Floor Income to ED for all FFELP Loans disbursed on or after April 1, 2006.
+
+The following example shows the mechanics of Floor Income for a typical fixed rate FFELP Consolidation Loan (with a SOFR-based SAP spread of 2.64%):
+
+Fixed Borrower Rate
+
+4.25
+
+%
+
+SAP Spread over SOFR
+
+(2.64
+
+)
+
+Floor Strike Rate
+(1)
+
+1.61
+
+%
+
+(1)
+The interest rate at which the underlying index (SOFR, Treasury bill or commercial paper) plus the fixed SAP spread equals the fixed borrower rate. Floor Income is earned anytime the interest rate of the underlying index declines below this rate.
+
+Based on this example, if the quarterly average SOFR rate is over 1.61%, the holder of the education loan will earn at a floating rate based on the SAP formula, which in this example is a fixed spread to SOFR of 2.64%. On the other hand, if the quarterly average SOFR rate is below 1.61%, the SAP formula will produce a rate below the fixed borrower rate of 4.25% and the loan holder earns at the borrower rate of 4.25%.
+
+G-
+1
+
+Graphic Depiction of Floor Income
+:
+
+Floor Income Contracts
+ — We enter into contracts with counterparties under which, in exchange for an upfront contractual payment representing the present value of the Floor Income that we expect to earn on a notional amount of underlying education loans being economically hedged, we will pay the counterparties the Floor Income earned on that notional amount over the life of the Floor Income Contract. Specifically, we agree to pay the counterparty the difference, if positive, between the fixed borrower rate less the SAP spread and the average of the applicable interest rate index on that notional amount, regardless of the actual balance of underlying education loans, over the life of the contract. The contracts generally do not extend over the life of the underlying education loans. This contract effectively locks in the amount of Floor Income we will earn over the period of the contract. Floor Income Contracts are not considered effective hedges under ASC 815, “Derivatives and Hedging,” and each quarter we must record the change in fair value of these contracts through income.
+
+Guarantor(s)
+ — State agencies or non-profit companies that guarantee (or insure) FFELP Loans made by eligible lenders under The Higher Education Act of 1965 (HEA), as amended.
+
+HCERA
+ — The Health Care and Education Reconciliation Act of 2010.
+
+G-
+2
+
+Private Education Loans
+ — Education loans to students or their families that bear the full credit risk of the customer and any cosigner. Private Education Loans are made primarily to bridge the gap between the cost of higher education and the amount funded through financial aid, federal loans or students’ and families’ resources. Private Education Loans include loans for higher education (undergraduate and graduate degrees) and for alternative education, such as career training, private kindergarten through secondary education schools and tutorial schools. Certain higher education loans have repayment terms similar to FFELP Loans, whereby repayments begin after the borrower leaves school while others require repayment of interest or a fixed pay amount while the borrower is still in school. Our higher education Private Education Loans are not dischargeable in bankruptcy, except in certain limited circumstances. Navient owns, originates and services refinance and in-school Private Education Loans.
+
+"Refinance" Private Education Loans are education loans made to certain customers that have simplified their payments by consolidating private and/or federal education loans into a single Private Education Loan.  These loans are expected to have low default rates as a result of a number of factors including high FICO scores, employment record and educational history.
+
+"In-school" Private Education Loans are loans originally made to borrowers while they are attending school.
+
+Repayment Borrower Benefits
+ — Financial incentives offered to borrowers based on pre-determined qualifying factors, which are generally tied directly to making on-time monthly payments. The impact of Repayment Borrower Benefits is dependent on the estimate of the number of borrowers who will eventually qualify for these benefits and the amount of the financial benefit offered to the borrower.
+
+Residual Interest
+ — When we securitize education loans, we retain the right to receive cash flows from the education loans sold to trusts that we sponsor in excess of amounts needed to pay derivative costs (if any), other fees, and the principal and interest on the bonds backed by the education loans.
+
+Risk Sharing
+ — When a FFELP Loan first disbursed on and after July 1, 2006 defaults, the federal government guarantees 97% of the principal balance plus accrued interest (98% on loans disbursed on and after October 1, 1993 and before July 1, 2006) and the holder of the loan is at risk for the remaining amount not guaranteed as a Risk Sharing loss on the loan. FFELP Loans originated after October 1, 1993 are subject to Risk Sharing on loan default claim payments unless the default results from the borrower’s death, disability, bankruptcy, closed school or false certification.
+
+Variable Rate Floor Income
+ — Variable Rate Floor Income is Floor Income that is earned only through the next date at which the borrower interest rate is reset to a market rate. For FFELP Stafford Loans whose borrower interest rate resets annually on July 1, we may earn Floor Income based on a calculation of the difference between the borrower rate and the then current interest rate.
+
+G-
+3

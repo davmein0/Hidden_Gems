@@ -1,0 +1,237 @@
+ITEM 1. BUSINESS 
+CORPORATE OVERVIEW
+MARA is a global leader in leveraging digital asset compute to support the energy transformation, with operations on four continents and 16 data centers in North America, the Middle East, Europe and Latin America. We employ different strategies and structures (self-owned, joint ventures, and third-party hosted) to diversify risk across the organization. In prior years, we primarily used third party hosted sites to operate with an asset-light model. During the year, we decided to diversify our portfolio of assets and increased the proportion of our owned mining sites, exiting the year at approximately 70% owned capacity. Our core business is bitcoin mining, and we produce, or “mine,” bitcoin using one of the industry’s largest and most energy-efficient fleets of specialized computers while providing dispatchable compute as an optionality to the electric grid operators to balance electric demands on the grid.
+We are exploring low cost energy initiatives through our owned power generation business, which focuses on disintermediating pipelines and powerlines by locating operations directly at energy sources, such as renewable energy sites and methane gas capture locations. Over time, it is our expectation that this strategy will reduce production costs, improve operating margins, lower the weighted average cost of capital, and extend the duration of our bitcoin mining rigs and capacity. Our low cost energy strategy focuses on reducing costs by utilizing stranded energy and exploring other opportunities, including selling excess capacity to offset costs and pursuing revenue generating initiatives that provide higher margins, thereby reducing our reliance on higher electricity costs. For example, subsequent to year end, we acquired an electric generating wind farm facility to utilize last-generation bitcoin mining rigs to provide an avenue for the hardware to continue operating profitably beyond its normal lifecycle.
+In addition, we are expanding our involvement in complementary businesses that align with our core competencies and strategic goals. This includes the sale of data center infrastructure, such as immersion-cooled systems, to third parties operating in the bitcoin ecosystem and the artificial intelligence (“AI”) and high-performance compute (“HPC”) sector. Our business is also active in bitcoin-related projects focused on the technological development of immersion, hardware, firmware, mining pools and side chains that leverage blockchain cryptography. 
+We believe we are the second largest holder of bitcoin among publicly traded companies. From time to time, we enter into forward or option contracts and/or lend bitcoin to increase yield on our bitcoin holdings.
+As used throughout this Annual Report, the term “Bitcoin” with a capital “B” is used to denote the Bitcoin protocol which implements a highly available, public, permanent, and decentralized ledger. The terms “bitcoin” with a lower case “b” and “BTC” are used to denote the coin, bitcoin.
+BITCOIN BLOCKCHAIN
+Bitcoin and Bitcoin Mining
+Bitcoin is a decentralized digital asset that operates on a peer-to-peer network, allowing users to send and receive payments without the need for banks and other intermediaries. Bitcoin is not linked to any fiat currency or country’s monetary policy and therefore serves as a store of value outside of government control. This is possible by using blockchain technology, which is a distributed ledger that records and verifies all transactions on the network.
+The Bitcoin blockchain is a public, transparent, and unalterable record of all transactions that have ever occurred on the peer-to-peer network. When a user sends a transaction on the Bitcoin network, it is broadcast to the network and added to a pool of unconfirmed transactions known as the “mempool.” Miners, which operate specialized hardware, known as bitcoin mining rigs or application-specific integrated circuits (“ASICs”), then compete to process these unconfirmed transactions into a “block.” The first miner to successfully confirm and assemble the transactions into a block receives a reward in the form of newly minted bitcoin (block subsidy) and transaction fees. Each confirmed transaction is cryptographically signed and permanently recorded in the blockchain as a new block, and cannot be altered or deleted.
+6
+Table of 
+Contents
+
+The blockchain is maintained by a robust and public open-source architecture consisting of a network of computers, known as nodes, that work together to verify and validate new transactions. Because the blockchain is decentralized and transparent, all users can verify the legitimacy of a transaction without having to rely on a third party. This eliminates the need for intermediaries, which can be slow and expensive, and makes the network resistant to censorship and fraud.
+Bitcoin mining plays a key role in the maintenance and growth of the Bitcoin network by providing the computational power needed to verify transactions and add new blocks to the blockchain. We believe that, as the Bitcoin network becomes more secure, its enhanced security may drive greater adoption and transaction volumes and fees.
+As of December 31, 2024, we operated approximately 400,000 mining rigs globally, with an energized hashrate of approximately 53.2 exahashes per second (“EH/s”). During the year ended December 31, 2024, we mined 9,430 bitcoin. We remain focused on maximizing our chances of successfully processing blocks on the Bitcoin blockchain by growing our hashrate, or the amount of computational power we devote to supporting the Bitcoin blockchain, to enhance our ability to successfully process blocks. Generally, the greater the share a single miner can capture of the blockchain’s total network hashrate, or the aggregate hashrate deployed to processing blocks on the Bitcoin blockchain, the greater the miner’s chances of processing a block and therefore earning the reward. As additional mining operators enter the market in response to increased demand for bitcoin, the Bitcoin blockchain’s network hashrate grows. 
+Bitcoin “Halving” Events
+Bitcoin halving is a phenomenon that has historically occurred every 210,000 blocks or approximately every four years on the Bitcoin network. The halving is a key part of the Bitcoin protocol and serves to control the overall supply and reduce the risk of inflation in digital assets using a Proof-of-Work consensus algorithm. At a predetermined block, the block subsidy portion of the reward is cut in half, hence the term “halving.” For example, the block subsidy for adding a single block to the blockchain was initially set at 50 bitcoin currency rewards. The Bitcoin blockchain has undergone a halving four times since its inception, most recently in April 2024. The next halving for the Bitcoin blockchain is anticipated to occur around
+ April 2028
+. This process will recur until the total amount of bitcoin currency rewards issued reaches 
+21,000,000, 
+and the theoretical supply of new bitcoin is exhausted, which is expected to occur around 2140. Many factors influence the price of Bitcoin, and potential increase or decrease in prices in advance of or following the future halving is unknown.
+At the beginning of the year, the reward for each solved block was equal to 6.25 bitcoin plus transaction fees. On April 19, 2024, the bitcoin halving event occurred, reducing the previous block reward to 3.125 bitcoin per block. The transaction fee was not impacted by the halving.
+As of December 31, 2024, the price of bitcoin was $93,354. 
+Factors Affecting Profitability
+Market Price of Bitcoin
+Our business is heavily dependent on the price of bitcoin. The prices of digital assets, including bitcoin, have historically experienced substantial volatility, and digital asset prices have in the past and may in the future be driven by speculation and incomplete information, subject to rapidly changing investor sentiment, and influenced by factors such as technology, macroeconomic conditions, regulatory void or changes, fraudulent actors, manipulation, and media reporting. Further, the value of bitcoin and other digital assets may be significantly impacted by factors beyond our control, including consumer trust in the market acceptance of bitcoin as a means of exchange by consumers and merchants.
+7
+Table of 
+Contents
+Halving
+The halving is an important part of the Bitcoin ecosystem, and it is closely watched by miners, investors, and other participants in the digital asset market. Each halving event has historically been associated with significant price movements in the value of bitcoin.
+Network Hashrate and Difficulty
+Generally, a bitcoin mining rig’s chance of solving a block on the Bitcoin blockchain and earning a bitcoin reward is a function of the mining rig’s hashrate, relative to the global network hashrate (i.e., the aggregate amount of computing power devoted to supporting the Bitcoin blockchain at a given time). As demand for bitcoin increases, the global network hashrate rapidly increases, and as more adoption of bitcoin occurs, we expect the demand for new bitcoin will likewise increase as more mining companies are drawn into the industry by this increase in demand. Further, as more and increasingly powerful mining rigs are deployed, the network difficulty for Bitcoin increases. Network difficulty is a measure of how difficult it is to solve a block on the Bitcoin blockchain, which is adjusted every 2,016 blocks, or approximately every two weeks, so that the average time between each block is approximately ten minutes. A high difficulty means that it will take more computing power to solve a block and earn a new bitcoin reward, which, in turn, makes the Bitcoin network more secure by limiting the possibility of one miner or mining pool gaining control of the network. Therefore, as new and existing miners deploy additional hashrate, the global network hashrate will continue to increase, meaning a miner’s share of the global network hashrate (and therefore its chance of earning bitcoin rewards) will decline if it fails to deploy additional hashrate at pace with the 
+industry.
+STRATEGIC FOCUS 
+Our focus in 2024 was on growth, execution and transition into a more mature organization with a diversified portfolio of bitcoin mining sites while strategically reducing bitcoin production costs. This focus consisted of the expansion of operations of our core bitcoin mining business, acquiring and operating bitcoin mining sites to host our own bitcoin mining rigs and deploying low cost energy initiatives. Key activities and milestones during 2024 included the following:
+•
+We more than doubled our hashrate to 53.2 EH/s.
+•
+We acquired five operational data centers, totaling 812 megawatts (“MW”) of nameplate capacity, in Granbury and Garden City, Texas, Kearney, Nebraska, and Hannibal and Hopedale, Ohio.
+•
+We entered into an agreement to acquire a wind farm in Hansford County, Texas, with 240 MW of interconnection capacity and 114 MW of nameplate wind capacity to establish a behind-the-meter data center at low energy costs and provide an avenue for prior-generation bitcoin mining rigs to continue operating profitably beyond their normal lifecycle. The acquisition closed subsequent to year end. 
+•
+We launched a 25 MW micro data center operation in partnership with an oil and gas company, utilizing excess, flared natural gas from oil wellheads in Texas and North Dakota to power our bitcoin mining operations. This operation mitigates up to 99% of methane emissions and drives down our energy costs. 
+•
+In Finland, we deployed two pilot projects to recycle heat from our operations, providing heat to communities with a total population of approximately 80,000 residents. These sites offset our production costs through heat sales while reducing the local communities’ reliance on high carbon emitting biomass through the use of hydro power, delivering renewable energy and more affordable heating to communities.
+•
+We launched a program to generate additional return by loaning bitcoin. At year end, we had approximately 10,374 bitcoin under loaned or collateral arrangements.
+•
+We grew bitcoin holdings (including loaned and collateralized bitcoin) by 197% to 44,893, which highlights our commitment to our core operations while also recognizing opportunities to purchase bitcoin strategically.
+8
+Table of 
+Contents
+Our primary focus in 2025 is to keep our current fleet of over 400,000 bitcoin mining rigs energized and running optimally while increasing our total hashrate. We anticipate further growth of our hashrate in 2025 as we bring newly acquired bitcoin miners into operation.
+We have grown quickly to become a global leader in leveraging digital asset compute to support energy transformation. We achieved this milestone through an asset-heavy strategy, which involved deploying our bitcoin miners at third-party hosted sites and making strategic acquisitions throughout 2024. During the year ended December 31, 2024 we announced a significant shift in our treasury policy and adopted a full holding onto bitcoin (“HODL”) strategy to retain all mined and purchased bitcoin for the foreseeable future. The adoption of this strategy reflects our confidence in the long-term value of bitcoin and our belief that it is the world’s best treasury reserve asset.
+In addition to this approach, we implemented a hybrid bitcoin acquisition strategy, balancing mining with opportunistic market purchases, leveraging approximately $2.2 billion in aggregate principal amount of convertible senior notes (the “2024 Convertible Notes”), of which $1.9 billion bears no interest. In 2024, we acquired 22,065 bitcoin at an average price of $87,205 and mined an additional 9,430 bitcoin, increasing our total bitcoin holdings to 44,893 as of December 31, 2024. These holdings were valued at approximately $4.2 billion based on a spot price of $93,354 per bitcoin on of December 31, 2024, strengthening our liquidity position – a priority that we intend to continue focusing on in 2025. 
+As of December 31, 2024, we had approximately 
+7,377
+ bitcoin loaned to third parties, generating yield from our loaned bitcoin, and approximately 
+2,997 bitcoin 
+utilized as collateral for borrowings. Our combined cash and cash equivalents, excluding restricted cash and digital assets, including loaned and collateralized bitcoin, totaled nearly $4.6 billion as of December 31, 2024. Refer to Part II, Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations, “Financial Condition and Liquidity” included in this Annual Report for further information. 
+We also expect to deploy several technological innovations developed by our technology team and partners at our operations and bring them to market. These innovations include a new two-phase immersion-cooling (“2PIC”) system, designed to optimize cooling efficiency, mining rig performance, and heat capture and reuse, as well as new hardware and software solutions. Deployments of 2PIC technology have already begun, with tanks scheduled for integration across key sites to improve both our operations and those of external customers. Initially, we expect to be the primary user of 2PIC.
+Research and Development
+Our research and development (“R&D”) efforts play a critical role in driving our innovation and growth. Our R&D process is designed to support the creation and development of new tools and processes intended to serve an integral part of our overall business strategy and enhance our market position as an advanced and sustainable bitcoin miner. Additionally, R&D includes activities related to AI and adjacent markets, with the goal of creating additional revenue opportunit
+ies over the long term.
+
+The first step in the R&D process is ideation, which is the process of generating and evaluating new ideas. We encourage our team members to come up with creative and innovative ideas, and then we provide them with the resources and support they need to explore these ideas further.
+Once we have identified a promising idea, the next step is to develop a prototype. This typically involves creating a small-scale version of the product or service, which can be tested and evaluated in order to identify potential issues and improve the design. We conduct market research to understand the potential market for the product or service.
+The final step in our R&D process is testing and validation. This involves conducting thorough testing of the prototype to identify any issues or flaws, and to ensure that it meets our rigorous quality standards. We also conduct market testing to gather feedback from real-world users, and use this feedback to refine and improve the product or service.
+9
+Table of 
+Contents
+Overall, our R&D process is designed to support the creation and development of innovative technology advancements that ensure we maintain our competitive advantages and improve our position as a leading bitcoin miner. We believe that this process is essential for driving growth, staying ahead of the competition, and achieving success.
+Strategic Investments
+We are committed to pursuing strategic investments that align with our vision and values. Our strategic focus is to identify and partner with companies that we believe will generate synergies to create long-term value for our stockholders.
+A core element of our investment strategy is to focus on companies that are at the forefront of emerging technologies and industries. We believe targeted companies have the potential to drive significant innovation and growth, and we are committed to supporting the development through investments in both hardware and software companies.
+Another key aspect of our strategy is to prioritize investments in companies that are aligned with our values and mission. We believe our stockholders expect us to support businesses that operate in a responsible and sustainable manner, and we are committed to making investments that reflect these values.
+Overall, our investment strategy is designed to support our growth and success, while propelling our business to be the most advanced, agile, and efficient bitcoin miner. We are committed to making strategic investments that align with both our vision and values, and believe this approach will help us achieve long-term success.
+OPERATIONS 
+We deploy miners at sites on four continents. The following map and table represent our site locations and provide current megawatt (“megawatt” or “MW”) and exahash capacity and expansion opportunities:
+10
+Table of 
+Contents
+Site Location
+Type
+Operational Capacity (MW)
+Growth Capacity (MW) 
+(1)
+Total Nameplate Capacity (MW)
+Energized Exahash
+Owned Sites
+Granbury, Texas
+Colocated generation + grid
+232 
+68 
+300 
+12.1 
+Garden City, Texas
+Colocated generation + grid
+126 
+74 
+200 
+8.2 
+Hannibal, Ohio
+Grid connection
+41 
+159 
+200 
+— 
+Hansford County, Texas 
+(2)
+Colocated with wind generation
+— 
+180 
+180 
+— 
+Findlay, Ohio
+Grid connection
+26 
+124 
+150 
+1.2 
+Kearney, Nebraska
+Grid connection
+92 
+8 
+100 
+5.8 
+Hopedale, Ohio
+Grid connection
+21 
+4 
+25 
+0.9 
+Hearne, Texas
+Flare gas
+22 
+— 
+22 
+0.6 
+International
+Various
+57 
+— 
+57 
+2.1 
+Total Owned Sites
+617
+
+617
+
+1,234
+
+30.8
+
+Hosted Sites
+McCamey, Texas
+Colocated generation + grid
+216 
+— 
+216 
+7.6 
+Ellendale, North Dakota
+Grid connection
+180 
+— 
+180 
+10.5 
+Jamestown, North Dakota
+Grid connection
+93 
+— 
+93 
+3.7 
+Other
+Various
+12 
+— 
+12 
+0.6 
+Total Hosted Sites
+501
+
+—
+
+501
+
+22.4
+
+Total
+1,118
+
+617
+
+1,735
+
+53.2
+
+(1)
+
+Subject to certain utility approval, interconnection studies, land lease/acquisitions and/or regulatory approvals.
+(2)
+
+The
+
+Hansford County, Texas acquisition closed subsequent to year end, on February 14, 2025.
+COMPETITION
+In digital asset mining, companies and individuals use computing power to solve cryptographic algorithms to record and publish transactions to blockchain ledgers or provide transaction verification services to the Bitcoin network in exchange for digital asset rewards. The current reward for verifying a block on the Bitcoin blockchain is 
+3.125
+ bitcoin. Miners can range from individual enthusiasts to professional mining operators with dedicated data centers. Miners may organize themselves in mining pools. We compete or may in the future compete with other companies that focus all or a portion of their activities on owning or operating digital asset exchanges, developing programming for the blockchain, and mining activities. Currently, the information concerning the activities of these enterprises is not readily available as the vast majority of the participants in this sector do not publish information publicly or the information may be unreliable.
+We believe our acquisitions and our ongoing deployment of miners positions us well among the publicly traded companies involved in the digital asset mining industry. The digital asset mining industry is a highly competitive and evolving industry and new competitors and/or emerging technologies could enter the market and affect our competitiveness in the future.
+11
+Table of 
+Contents
+INTELLECTUAL PROPERTY
+We actively use specific hardware and software for digital asset mining operations. In certain cases, source code and other software assets may be subject to an open-source license, as much of the technology development underway in our sector is open source.
+We currently own two patents in the United States and have 17 patent applications pending. Our patents have various expiration dates, generally 20 years from the respective original filing date. Our patents improve efficiency to decrease settlement risk and expand server and radio functionalities. In the future, we may seek to register additional patents in connection with our existing and planned blockchain and digital asset operations. 
+To protect and enforce our proprietary information and intellectual property, we rely upon trade secrets, trademarks, service marks, trade names, copyrights and other intellectual property rights.
+Additionally, we expect to continue to license the use of intellectual property rights owned and controlled by others. We also have developed, and may further develop, certain proprietary software applications for purposes of our digital asset mining operations and may license proprietary software application to third parties.
+REGULATORY LANDSCAPE
+We operate within a complex and rapidly evolving regulatory environment and are subject to a wide range of laws and regulations enacted by U.S. federal, state, and local governments, governmental agencies, and regulatory authorities, including the U.S. Securities and Exchange Commission (the “SEC”), the Commodity Futures Trading Commission (the “CFTC”), the Federal Trade Commission (the “FTC”), and the Financial Crimes Enforcement network of the U.S. Department of Treasury, as well as similar entities in other countries. Other regulatory bodies have demonstrated an interest in regulating or investigating companies engaged in blockchain or cryptocurrency businesses.
+Regulations may substantially change in the future and it is presently not possible to know how regulations will apply to our business, or when they may be effective. While we anticipate that bitcoin mining will be an area of focus for regulators in 2025 and beyond, we cannot predict with certainty the impact regulations may have on our business or operations. As the regulatory and legal environment evolves, we may become subject to new laws and regulations by the SEC and other agencies, which may affect our mining operations and other activities. Additionally, state and local regulation of bitcoin mining is important with respect to where we conduct our mining operations. A substantial number of our bitcoin miners are located in Texas and North Dakota, which are generally favorable regulatory environments for bitcoin miners compared to other states. However, we may also become subject to additional regulatory requirements on a state and local level in the geographies in which we operate, and as we strategically expand our operations into new areas.
+For additional discussion of potential risks that existing and future regulation may pose to our business, see Part I, Item 1A. “Risk Factors” of this Annual Report.
+HUMAN CAPITAL RESOURCES
+As of December 31, 2024, we had a total workforce of approximately 152 employees across our entire organization, all of whom were employed full-time, including professionals in accounting, communications, engineering, finance, growth, human resources, information and technology, investor relations, legal and operations.
+Our human capital resources strategy is to align the interests of our employees with our key long-term success drivers. In execution of this strategy, we maintain an equity incentive plan, under which all eligible employees can receive equity grants. We believe our equity plan serves as a key incentive for our employees, aligning their long-term interests with our objectives as an organization.
+12
+Table of 
+Contents
+We also compare salary and wages against quantitative benchmarks and adjust monetary compensation to ensure wages are competitive and consistent with employee positions, skill levels, experience, and geographic location. We maintain a robust process for ensuring pay equity across MARA and increases in incentives and compensation based on merit and performance. In addition, we provide a comprehensive range of benefits options, including medical, dental and vision insurance for employees and family members, paid and unpaid leaves, and life and disability/accident coverage.
+At MARA, we seek to attract a pool of diverse, best-in-class candidates and foster their career growth by hiring the best talent available, rather than relying solely on educational background. In support of such initiative, we look for candidates in local communities and large cities alike, and from a variety of backgrounds. Our goal is a long-term, growth-oriented career for each employee. We also believe that our ability to retain our workforce is dependent on our ability to foster an environment that is sustainably safe, respectful, fair, and inclusive of everyone.
+CORPORATE HISTORY AND AVAILABLE INFORMATION
+Previously known as Marathon Digital Holdings, Inc., we changed our name to MARA Holdings, Inc. on August 29, 2024.
+Our website address is www.mara.com. The information contained on or connected to our website is not incorporated by reference into this Annual Report and should not be considered part of this or any other report filed with the SEC. Our annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K, as well as any amendments to those reports, are available free of charge through our website as soon as reasonably practicable after we file them with, or furnish them to, the SEC.

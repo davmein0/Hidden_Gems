@@ -1,0 +1,4768 @@
+Item 3.
+Legal Proceedings
+
+We are not currently a party to any material litigation.
+Item 4.
+Mine Safety Disclosures
+
+36
+Not applicable.
+37
+PART II
+Item 5.
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+
+Market for Registrant’s Common Equity
+
+Our common stock has been listed on The NASDAQ Global Select Market under the symbol “VRNS” since February 28, 2014, the date of our initial public offering. 
+
+Dividend Policy
+
+We have never declared or paid cash dividends on our common stock. We currently intend to retain any future earnings for use in the operation of our business and do not intend to declare or pay any cash dividends in the foreseeable future. Any further determination to pay dividends on our common stock will be at the discretion of our board of directors, subject to applicable laws, and will depend on our financial condition, results of operations, capital requirements, general business conditions and other factors that our board of directors considers relevant.
+
+Stockholders
+
+As of January 12, 2025 there were five stockholders of record of our common stock, including The Depository Trust Company, which holds shares of our common stock on behalf of an indeterminate number of beneficial owners.
+38
+STOCK PERFORMANCE GRAPH
+
+The following shall not be deemed “filed” for purposes of Section 18 of the Exchange Act, or incorporated by reference into any of our other filings under the Exchange Act or the Securities Act, except to the extent we specifically incorporate it by reference into such filing.
+
+This chart compares the cumulative total return on our common stock with that of the NASDAQ Composite Index and the NASDAQ Computer Index. The chart assumes $100 was invested at the close of market on December 31, 2019 in our common stock, the NASDAQ Composite Index and the NASDAQ Computer Index, and assumes the reinvestment of any dividends. The stock price performance on the following graph is not necessarily indicative of future stock price performance.
+
+The closing price of our common stock on December 31, 2024, the last trading day of our 2024 fiscal year, was $44.43 per share. 
+
+Company/Index
+12/31/2019
+12/31/2020
+12/31/2021
+12/31/2022
+12/31/2023
+12/31/2024
+Varonis Systems, Inc.
+$
+100.00 
+$
+210.54 
+$
+188.32 
+$
+92.42 
+$
+174.80 
+$
+171.52 
+NASDAQ Composite
+$
+100.00 
+$
+143.64 
+$
+174.36 
+$
+116.65 
+$
+167.30 
+$
+215.22 
+NASDAQ Computer
+$
+100.00 
+$
+149.98 
+$
+206.76 
+$
+132.79 
+$
+221.06 
+$
+301.44 
+39
+Item 6.
+Reserved
+40
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our consolidated financial statements and related notes appearing elsewhere in this Annual Report on Form 10-K. This discussion contains forward-looking statements that reflect our plans, estimates and beliefs, and involve risks and uncertainties. Our actual results and the timing of certain events could differ materially from those anticipated in these forward-looking statements as a result of several factors, including those discussed in the section titled “Risk Factors” included under Part I, Item 1A and elsewhere in this Annual Report. See “Special Note Regarding Forward-Looking Statements and Summary Risk Factors” in this Annual Report.
+The Transition to a SaaS Delivery Model
+In response to the evolving needs of our customers and the growing threat landscape, we are strategically transitioning to a SaaS delivery model. This transition is driven by the increased importance of an automated, data-centric approach to security and the demand for comprehensive protection in the face of heightened cyber risks, collaboration across multiple platforms, the adoption of generative AI tools and the necessity for compliance. Enterprises now use many different combinations of on-premises and cloud data stores, SaaS applications and IaaS environments and this complexity requires a greater level of automated protection. We believe our offering provides comprehensive data coverage and our ability to address this demand has and will continue to be a key driver of our growth.
+In the second half of 2021, we launched our first SaaS offering, introducing new products and support for cloud infrastructure environments and applications. At the end of 2022, we announced the availability of our flagship Varonis Data Security Platform as a SaaS, which was previously only sold as a self-hosted solution. The benefits of SaaS delivery are widely established for both customers and providers, and we believe this evolution of a SaaS delivery option for the Varonis Data Security Platform is transformational. The advantages include: quicker and easier deployment and maintenance of solutions with reduced infrastructure and personnel requirements; a lower total cost of ownership; faster deployment of risk assessments, which is the core of our sales motion; enhanced threat detection; continual threat model updates; increased automation for securing data in place; and the ability to deliver additional features and functionality to customers more efficiently. In addition, our Managed Data Detection and Response ("MDDR") offering further reduces both the likelihood of a breach and its potential impact by enabling automated 24x7x365 monitoring with a service level agreement (SLA) that requires Varonis to respond to alerts within a specified time frame. Our MDDR offering is only available for our SaaS customers because of the automation and visibility that’s built into our SaaS platform.
+Since launching our SaaS offerings, we have seen SaaS deployments grow significantly and expect them to continue to increase and become the primary driver of our revenues. During this transition, we expect our revenues to be negatively impacted due to revenue recognition accounting treatment variations associated with the increase in SaaS sales and existing customer conversions to SaaS. We expect these revenue variations to persist throughout the transition to a SaaS delivery model, which we believe will be complete by the end of 2025.
+Overview
+Varonis is a leader in data security as, since we started operations in 2005, we recognized that an enterprise's capacity to create and share data far exceeded its capacity to protect it. We believed that rapid data growth combined with increasing information dependence would change the global economy and the risk profiles of corporations and governmental agencies. Our focus has been on using innovation to address the cyber-implications of these trends, creating software that provides new ways to track, alert and protect data wherever it is stored. 
+
+We sell substantially all of our products and services to channel partners, including distributors and resellers, which sell to end-user customers, which we refer to in this report as our customers. We believe that our sales model, which combines the leverage of a channel sales model with our highly trained and professional sales force, has and will continue to play a major role in our ability to grow and to successfully deliver our unique value proposition for enterprise data. While our products serve customers of all sizes, across industries and across geographies, the marketing focus and majority of our sales focus is on targeting larger organizations who can make sizable initial purchases with us and, over time, have a greater potential lifetime value. Our customers span leading firms in the financial services, public, healthcare, industrial, insurance, energy and utilities, technology, consumer and retail, education and construction and engineering sectors. We believe our existing customer base serves as a strong source of future incremental revenues given our broad platform of products, their growing volumes and complexity of enterprise data and related security concerns. We will continue our focus on targeting larger organizations who can make sizable purchases with us initially and over time. We are also focused on maintaining a high renewal rate by investing in the quality and reliability of our customer service and support teams to ensure our customers receive value from our products and providing software upgrades and enhancements when and if they are available. Our product offering 
+41
+currently contains coverage for most mission-critical cloud and on-premises data stores and cloud infrastructure environments, and many critical SaaS applications. Our renewal rate continued to be over 90% for the year ended December 31, 2024.
+We believe there is a significant long-term growth opportunity in both domestic and international markets, which could include any organization that relies on data stored in SaaS applications, IaaS environments, NAS devices, file shares, databases and email servers. For the year ended December 31, 2024, approximately 73% of our revenues were derived from the United States, while approximately 21% of our revenues were derived from EMEA and approximately 6% from ROW. Additionally, despite the revenue recognition variations from the accounting treatment associated with the positive trend of our increase in SaaS sales and existing customer conversions to SaaS, total revenues still grew approximately 10% for the year ended December 31, 2024 compared with the year ended December 31, 2023. We continue to expect expansion in both domestic and international markets to be key components of our long-term growth strategy. Over the last few years, we have seen changes in customer buying patterns including, some budgetary tightening and additional scrutiny on enterprise spending as a result of a higher inflation and interest rate environment.
+We continue to expand our domestic and international operations as part of our long-term growth strategy. While the expansion of our domestic operations is focused primarily on our underpenetrated territories, the expansion of our international operations depends in particular on our ability to hire, integrate and retain local sales leadership and personnel in these international markets, acquire new channel partners and implement an effective marketing strategy. Given the nominal amount of our ROW revenues, our ROW revenue growth rates have fluctuated in the past and may fluctuate in the future based on the timing of deal closures. In addition, the further expansion of our international operations will increase our sales and marketing and general and administrative expenses and will subject us to a variety of risks and challenges, including those related to economic and political conditions in each region, compliance with foreign laws and regulations, and compliance with domestic laws and regulations applicable to our international operations.
+Since inception, we have continued to scale our business and execute on strategic initiatives which we believe have positioned us for durable long-term growth. During 2024, we have continued to grow our revenues despite revenue recognition accounting treatment variations associated with the increase in SaaS sales and existing customer conversions to SaaS. For the years ended December 31, 2024, 2023 and 2022, SaaS revenues were $208.8 million, $44.4 million and $2.2 million, respectively. For the years ended December 31, 2024, 2023 and 2022, our total revenues were $551.0 million, $499.2 million and $473.6 million, respectively. For the years ended December 31, 2024, 2023 and 2022, we had operating losses of $117.7 million, $117.2 million and $121.2 million and net losses of $95.8 million, $100.9 million and $124.5 million, respectively.
+Instability in the Middle East
+Due to the war that began on October 7, 2023, a portion of our employees in Israel have been called to active reserve duty and additional employees may be called in the future, if needed. We have a business continuity plan and will remain aware and responsive to the evolving situation; however, any deterioration in the situation might have a negative impact on our operations.
+Key Performance Indicators and Recent Business Highlights
+
+Annual Recurring Revenues
+Annual recurring revenues is a key performance indicator defined as the annualized value of active SaaS contracts, term-based subscription license contracts and maintenance contracts in effect at the end of that period. SaaS contracts, term-based subscription license contracts and maintenance contracts are annualized by dividing the total contract value by the number of days in the term and multiplying the result by 365. 
+As of December 31, 2024, 2023 and 2022, ARR was $641.9 million, $543.0 million and $465.1 million, respectively, an increase of 18% and 17% period over period, respectively. The annualized value of contracts is a legal and contractual determination made by assessing the contractual terms with our customers. The annualized value of these contracts is not determined by reference to historical revenues, deferred revenues or any other GAAP financial measure over any period. ARR 
+42
+is not a forecast of future revenues and can be impacted by contract start and end dates and renewal rates. We expect ARR to continue to increase in absolute dollars. 
+Transition to SaaS Delivery Model and SaaS as a Percentage of ARR
+Over the last three years, we have strategically expanded our offering to be delivered as SaaS solutions. Since that time, we have seen SaaS deployments grow significantly and expect them to continue to increase and become the primary driver of our revenues. Due to differences in the revenue recognition accounting treatment, the transition to a SaaS delivery model may cause significant variation in the reported revenues for a given period compared to the same period in the previous year. We expect these revenue variations to persist throughout the transition to a SaaS delivery model, which we believe will be complete by the end of 2025.
+As of December 31, 2024, SaaS as a percentage of total ARR was approximately 53% and we expect this percentage to continue to increase throughout the transition to a SaaS delivery model.
+Remaining Performance Obligations
+Remaining performance obligations ("RPO") represent contracted revenues that have not yet been recognized, which includes deferred revenues and non-cancelable amounts that will be invoiced in the future. Our RPO was $729.7 million as of December 31, 2024. We expect RPO to increase in absolute dollars as we continue to transition to a SaaS delivery model.
+Components of Operating Results
+Revenues
+
+Term License Subscription Revenues
+. Term license subscription revenues relate to subscription license revenues which are sold on-premises and are recognized at the point in time when the software license has been delivered and the benefit of the asset has transferred. Maintenance associated with a term license subscription is recognized ratably over the term of the agreement. Due to the transition to a SaaS delivery model, we expect term license subscription revenues to continue to decline. 
+SaaS Revenues
+. SaaS revenues relate to the Company's SaaS platform. Over the last three years, the Company began to offer SaaS solutions to its customers, including its (i) flagship Data Security Platform as a SaaS that was previously only sold as a self-hosted solution and (ii) DatAdvantage Cloud product lines. Each of these products allow customers to use hosted software, and the related revenue from these products is recognized ratably over the associated contract period. We expect SaaS revenues to continue to grow considerably and become the primary driver of our revenues in 2025, which is when we believe our transition to a SaaS delivery model will be complete. Conversions from a license sold on-premises to our SaaS offering during the original subscription period are accounted for on a prospective basis. Due to the transition to a SaaS business model, the timing of renewals and renewal rates, we could produce significant variation in the revenues we recognize in a given period. 
+Maintenance and Services Revenues.
+ Maintenance and services revenues consist of revenues from maintenance agreements of past perpetual license sales and, to a lesser extent, professional services. Customers with maintenance agreements are entitled to receive support and unspecified upgrades and enhancements when and if they become available. We recognize the revenues associated with maintenance ratably over the associated contract period. We measure the renewal rate for our customers over a 12-month period, based on a dollar renewal rate for contracts expiring during that time period. Our renewal rate for each of the years ended December 31, 2024, 2023 and 2022 continued to be over 90%. We do not expect perpetual license revenues in the future and, therefore, we expect the associated maintenance and support to continue to decline despite the strong renewal rates due to the transition to a SaaS delivery model. We also offer professional services, generally provided on a time and materials basis, focused on training our customers in the use of our products. We recognize the revenues associated with these professional services as we deliver the services, provide the training or when the service term has expired. Professional services have always been a small percentage of our total revenues and we expect it to continue to be a small percentage. Accordingly, maintenance and services revenues are expected to continue to decline.
+The following table sets forth the percentage of our revenues that have been derived from term license subscriptions, SaaS and maintenance and services revenues for the periods presented.
+43
+
+Year Ended December 31,
+
+2024
+2023
+2022
+
+(as a percentage of total revenues)
+Revenues:
+
+Term license subscriptions
+46.1 
+%
+71.4 
+%
+76.8 
+%
+SaaS
+37.9 
+%
+8.9 
+%
+0.5 
+%
+Maintenance and services
+16.0 
+%
+19.7 
+%
+22.7 
+%
+Total revenues
+100.0 
+%
+100.0 
+%
+100.0 
+%
+
+Our products are used by a wide range of enterprises, including Fortune 500 corporations and small and medium-sized businesses. Our customers span a broad array of industries and are located in over 95 countries.
+
+Cost of Revenues, Gross Profit and Gross Margin
+Cost of revenues consist primarily of salaries (including payroll tax expense related to stock-based compensation), employee benefits (including commissions and bonuses) and stock-based compensation for our customer support, customer success, MDDR and services employees; third-party hosting fees; amortization of acquired intangible assets; travel expenses; and allocated overhead costs for facilities, IT and depreciation. We recognize expenses related to these costs as they are incurred and expect that these costs will increase in absolute dollars as we continue to invest in our customer success, support and MDDR teams, move to a SaaS delivery model and support the underlying programs that play a critical role in maintaining our high renewal rate.
+Gross profit is total revenues less total cost of revenues. Gross margin is gross profit expressed as a percentage of total revenues. As the majority of our expenses are relatively fixed quarter over quarter and due to the seasonality of our business, the first quarter typically results in the lowest gross margin as our first quarter revenues have historically been the lowest for the year. Conversely, the fourth quarter typically results in the highest gross margin as our fourth quarter revenues have historically been the highest for the year. As we complete the transition to a SaaS delivery model, we expect this seasonality to decrease due to differences in the revenue recognition accounting treatment.
+
+Operating Expenses
+Operating expenses are classified into three categories: research and development, sales and marketing and general and administrative. For each category, the largest component is personnel costs, which consists of salaries (including payroll tax expense related to stock-based compensation), employee benefits (including commissions and bonuses) and stock-based compensation. Operating expenses also include allocated overhead costs for facilities, IT and depreciation. Allocated costs for facilities primarily consist of rent and office maintenance. Operating expenses are generally recognized as incurred. As a company, we have always aimed to tie our level of investment in the business to the revenues we expect to achieve and we actively manage expenses across the business. We expect personnel costs to continue to increase in absolute dollars as we continue to grow our business.
+Research and Development
+. Research and development expenses primarily consist of personnel costs attributable to our research and development personnel, as well as allocated overhead costs and acquired in-process research and development. We expense research and development costs as incurred. We expect that our research and development expenses will continue to increase in absolute dollars as we further strengthen our technology platform and invest in the development of both existing and new products through the hiring of talented and capable employees.
+
+Sales and Marketing
+. Sales and marketing expenses are the largest component of our operating expenses and consist primarily of personnel costs, as well as marketing and business development costs, travel expenses, third-party hosting fees, training and education and allocated overhead costs. We expect that sales and marketing expenses will continue to increase in absolute dollars as we plan to expand our sales and marketing efforts, both domestically and internationally. We also expect sales and marketing expenses to continue to be our largest category of operating expenses.
+General and Administrative
+. General and administrative expenses primarily consist of personnel and facility-related costs for our executive, finance, legal, human resources and administrative personnel. Other expenses are comprised of legal, accounting and other consultant fees and other corporate expenses and allocated overhead. We expect that general and administrative expenses will increase in absolute dollars as we expand our operations.
+44
+Financial Income (Expenses), Net
+Financial income (expenses), net consists primarily of interest income, foreign exchange gains or losses, amortization of debt issuance costs and interest expense. Interest income represents interest received on our cash, cash equivalents, marketable securities, deposits and amortization of premiums and accretion of discounts related to our investment in available for sale marketable securities. Foreign exchange gains or losses relate to our business activities in foreign countries with different operational reporting currencies. As a result of our business activities in foreign countries, we expect that foreign exchange gains or losses will continue to occur due to fluctuations in exchange rates in the countries where we do business. Amortization of debt issuance costs relate to the Notes we issued in May 2020 and September 2024. Interest expense consists of the contractual interest expenses associated with the Notes.  
+
+Income Taxes
+
+We operate in the U.S. and in foreign jurisdictions and are subject to taxes in each country or jurisdiction in which we conduct business. Earnings from our non-U.S. activities are subject to local country income tax and may be subject to U.S. income tax.
+Because of our history of operating losses, we have established a full valuation allowance against potential future benefits for deferred tax assets, including loss carryforwards. Our income tax provision could be significantly impacted by estimates surrounding our uncertain tax positions and changes to our valuation allowance in future periods. We reevaluate the judgments surrounding our estimates and make adjustments as appropriate each reporting period.
+In addition, we are subject to the regular examinations of our income tax returns by different tax authorities. We regularly assess the likelihood of adverse outcomes resulting from these examinations to determine the adequacy of our provision for income taxes.
+Results of Operations
+
+The following tables are a summary of our consolidated statements of operations in dollars and as a percentage of our total revenues.
+
+Year Ended December 31,
+
+2024
+2023
+2022
+
+(in thousands)
+Statement of Operations Data:
+
+Revenues:
+
+Term license subscriptions
+$
+254,241 
+$
+356,490 
+$
+363,898 
+SaaS
+208,781 
+44,417 
+2,246 
+Maintenance and services
+87,928 
+98,253 
+107,490 
+Total revenues
+550,950 
+499,160 
+473,634 
+Cost of revenues
+93,847 
+71,751 
+69,836 
+Gross profit
+457,103 
+427,409 
+403,798 
+Operating expenses:
+
+Research and development
+196,765 
+183,838 
+177,881 
+Sales and marketing
+288,769 
+277,893 
+275,090 
+General and administrative
+89,220 
+82,901 
+72,055 
+Total operating expenses
+574,754 
+544,632 
+525,026 
+Operating loss
+(117,651)
+(117,223)
+(121,228)
+Financial income, net
+34,644 
+30,305 
+10,413 
+Loss before income taxes
+(83,007)
+(86,918)
+(110,815)
+Income taxes
+(12,758)
+(13,998)
+(13,703)
+Net loss
+$
+(95,765)
+$
+(100,916)
+$
+(124,518)
+
+45
+
+Year Ended December 31,
+
+2024
+2023
+2022
+
+(as a percentage of total revenues)
+Statement of Operations Data:
+
+Revenues:
+
+Term license subscriptions
+46.1 
+%
+71.4 
+%
+76.8 
+%
+SaaS
+37.9 
+8.9 
+0.5 
+Maintenance and services
+16.0 
+19.7 
+22.7 
+Total revenues
+100.0 
+100.0 
+100.0 
+Cost of revenues
+17.0 
+14.4 
+14.7 
+Gross profit
+83.0 
+85.6 
+85.3 
+Operating expenses:
+
+Research and development
+35.8 
+36.8 
+37.6 
+Sales and marketing
+52.4 
+55.7 
+58.1 
+General and administrative
+16.2 
+16.6 
+15.2 
+Total operating expenses
+104.4 
+109.1 
+110.9 
+Operating loss
+(21.4)
+(23.5)
+(25.6)
+Financial income, net
+6.3 
+6.1 
+2.2 
+Loss before income taxes
+(15.1)
+(17.4)
+(23.4)
+Income taxes
+(2.3)
+(2.8)
+(2.9)
+Net loss
+(17.4)
+%
+(20.2)
+%
+(26.3)
+%
+
+Comparison of Years Ended December 31, 2024 and 2023
+
+Revenues
+
+Year Ended December 31,
+
+2024
+2023
+% Change
+
+(in thousands)
+
+Revenues:
+
+Term license subscriptions
+$
+254,241 
+$
+356,490 
+(28.7)
+%
+SaaS
+208,781 
+44,417 
+370.0 
+%
+Maintenance and services
+87,928 
+98,253 
+(10.5)
+%
+Total revenues
+$
+550,950 
+$
+499,160 
+10.4 
+%
+
+Year Ended December 31,
+
+2024
+2023
+
+(as a percentage of total revenues)
+Revenues:
+
+Term license subscriptions
+46.1 
+%
+71.4 
+%
+SaaS
+37.9 
+8.9 
+Maintenance and services
+16.0 
+19.7 
+Total revenues
+100.0 
+%
+100.0 
+%
+
+46
+For the year ended December 31, 2024, our revenues increased 10% compared to the year ended December 31, 2023 despite increased SaaS sales and existing customer conversions to SaaS which cause variations due to accounting treatment differences in revenue recognition for sales within the respective periods. SaaS revenues increased 370% from $44.4 million for the year ended December 31, 2023 to $208.8 million for the year ended December 31, 2024 as we continue to progress through our transition to a SaaS delivery model. The increase in SaaS revenues was driven by (i) new customer acquisitions, which are happening due to the simplicity of our SaaS platform and MDDR offering, as well as customer interest in Gen AI, (ii) existing customer conversions and (iii) our high renewal rates. Consequently, there was an expected decrease to term license subscriptions given the aforementioned transition and customer conversions, a trend we expect to continue in the coming years. ARR was $641.9 million and $543.0 million as of December 31, 2024 and 2023, respectively, representing an increase of 18%. The anticipated decrease in maintenance and services revenues was due to churn and the conversion of existing customers to SaaS despite our renewal rate continuing to be over 90% for each of the years ended December 31, 2024 and 2023. We continue to expect less associated maintenance and services revenues in the future.
+Cost of Revenues and Gross Margin
+
+Year Ended December 31,
+
+2024
+2023
+% Change
+
+(in thousands)
+
+Cost of revenues
+$
+93,847 
+$
+71,751 
+30.8 
+%
+
+Year Ended December 31,
+
+2024
+2023
+
+(as a percentage of total revenues)
+Total gross margin
+83.0 
+%
+85.6 
+%
+
+The increase in cost of revenues was primarily related to a $11.3 million increase in salaries and benefits and stock-based compensation expense due to increased headcount for customer success personnel to assist with the transition to a SaaS delivery model, including our recently introduced MDDR offering, and ensure high customer satisfaction and maintain our strong renewal rates. The increase is also due to a $9.9 million increase in third-party hosting costs associated with our transition to a SaaS delivery model.    
+Operating Expenses
+
+Year Ended December 31,
+
+2024
+2023
+% Change
+
+(in thousands)
+
+Operating expenses:
+
+Research and development
+$
+196,765 
+$
+183,838 
+7.0 
+%
+Sales and marketing
+288,769 
+277,893 
+3.9 
+%
+General and administrative
+89,220 
+82,901 
+7.6 
+%
+Total operating expenses
+$
+574,754 
+$
+544,632 
+5.5 
+%
+
+Year Ended December 31,
+
+2024
+2023
+
+(as a percentage of total revenues)
+Operating expenses:
+
+Research and development
+35.8 
+%
+36.8 
+%
+Sales and marketing
+52.4 
+%
+55.7 
+%
+General and administrative
+16.2 
+%
+16.6 
+%
+Total operating expenses
+104.4 
+%
+109.1 
+%
+
+The increase in research and development expenses was primarily related to a $6.7 million increase in acquired in-process research and development costs associated with our asset acquisition, a $3.2 million increase in salaries and benefits 
+47
+and stock-based compensation expense primarily due to increased headcount, an increase of $1.9 million in facilities and allocated overhead costs and a $0.8 million increase in third-party hosting costs associated with our transition to a SaaS delivery model.
+The increase in sales and marketing expenses was primarily related to an increase of $9.7 million in general sales and marketing expenses, including increased travel, marketing events and third-party hosting costs associated with our transition to a SaaS delivery model and a $1.8 million increase in salaries and benefits and stock-based compensation expense primarily due to increased headcount.
+The increase in general and administrative expenses was primarily related to an increase of $4.9 million in salaries and benefits and stock-based compensation expense primarily due to increased headcount to support the overall growth of our business and an increase of $0.5 million in facilities and allocated overhead costs. 
+Financial Income, Net
+
+Year Ended December 31,
+
+2024
+2023
+% Change
+
+(in thousands)
+
+Financial income, net
+$
+34,644 
+$
+30,305 
+14.3 
+%
+
+The increase in financial income, net was primarily due to higher interest income, partially offset by foreign currency losses.
+
+Income Taxes
+
+Year Ended December 31,
+
+2024
+2023
+% Change
+
+(in thousands)
+
+Income taxes
+$
+(12,758)
+$
+(13,998)
+(8.9)
+%
+
+Income taxes for the year ended December 31, 2024, including the decrease in income taxes, were comprised of foreign and U.S. income taxes.
+Inflation
+
+We do not believe that inflation rates have had a material effect on our business, financial condition or results of operations in the last three fiscal years. If our costs were to become subject to significant inflationary pressures, we may not be able to fully offset such higher costs through price increases. Our inability or failure to do so could harm our business, financial condition and results of operations.
+Comparison of Years Ended December 31, 2023 and 2022
+For a comparison of our results of operations for the years ended December 31, 2023 and 2022, see “
+Part II, Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+” of our Annual Report on Form 10-K for the year ended December 31, 2023, filed with the SEC on February 6, 2024, which comparative information is herein incorporated by reference.
+
+Seasonality and Quarterly Trends
+
+When selling on-premises subscription products, our quarterly results reflect seasonality in the sale of our products and services. Historically, we have experienced a pattern of increased sales in the fourth quarter. This trend makes it difficult to achieve sequential revenue growth in the first quarter of the following year. Because of purchasing trends, demand for our products and services is typically slowest in the first quarter, resulting in a decrease in quarterly revenues from the fourth quarter to the first quarter of the subsequent fiscal year. Our gross margins and operating margins have been affected by these historical trends because the majority of our expenses are relatively fixed quarter over quarter. Our expenses, which do not vary directly with revenues, and the seasonal pattern described above have an impact on the cost of revenues, research and development expenses, sales and marketing expenses and general and administrative expenses as a percentage of revenues in 
+48
+each calendar quarter during the year. We expect the impact of these seasonal patterns to decline as we sell more of our SaaS offering to new customers and transition our existing customers to our SaaS platform, due to the ratable revenue recognition of SaaS. The majority of our expenses are personnel-related costs, which consist of salaries (including payroll tax expense related to stock-based compensation), employee benefits (including commissions and bonuses) and stock-based compensation. As a result, we have not experienced significant seasonal fluctuations in the timing of expenses from period to period.
+
+Liquidity and Capital Resources
+
+The following table shows our liquidity and capital resources and our cash flows from operating activities, investing activities and financing activities for the years ended December 31, 2024 and 2023. For a discussion of our liquidity and capital resources and our cash flow activities for the fiscal year ended December 31, 2022, see “
+Part II, Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+” of our Annual Report on Form 10-K for the year ended December 31, 2023, filed with the SEC on February 6, 2024, which discussion is herein incorporated by reference.
+
+Year Ended December 31,
+
+2024
+2023
+
+(in thousands)
+Net cash provided by operating activities
+$
+115,200 
+$
+59,416 
+Net cash used in investing activities
+(532,255)
+(143,076)
+Net cash provided by (used in) financing activities
+371,900 
+(53,400)
+Decrease in cash and cash equivalents
+$
+(45,155)
+$
+(137,060)
+
+As of December 31, 2024, our cash and cash equivalents, short-term marketable securities and short-term deposits of $568.4 million were held for working capital purposes. We believe that our existing cash and cash equivalents, short-term marketable securities, short-term deposits and cash flow from operations will be sufficient to fund our operations and capital expenditures for at least the next 12 months. Additionally, as of December 31, 2024, we held $658.9 million in long-term marketable securities. Our future capital requirements will depend on many factors, including our rate of revenue growth, timing of renewals and renewal rates, the expansion of our sales and marketing activities, the timing and extent of spending to support product development efforts and expansion into new geographic locations, the timing of introductions of new software products and enhancements to existing software products, the continuing market acceptance of our software offerings and our use of cash to pay for acquisitions or share repurchases, if any.
+Operating Activities
+
+Our operating activities are driven by sales of our products less costs and expenses, primarily payroll and related expenses, and adjusted for certain non-cash items, mainly depreciation and amortization, stock-based compensation, amortization of deferred commissions, non-cash operating lease costs, amortization of debt issuance costs, amortization of premium and accretion of discount on marketable securities, acquired in-process research and development costs, and changes in operating assets and liabilities. Changes in operating assets and liabilities are driven mainly by collection of accounts receivable from the sales of our software products and deferred revenue, which primarily consists of billed fees for our subscriptions, prior to satisfying the criteria for revenue recognition, which are subsequently recognized as revenue in accordance with our revenue recognition policy.
+For 2024, cash inflows from our operating activities were $115.2 million. We have observed two seasonal patterns that impact our net cash provided by operating activities. First, a majority of our sales are made during the last three weeks of the quarter. Second, the highest dollar amount of sales of our products and services occurs in the fourth quarter. Consequently, we end the fourth quarter with our highest accounts receivable balance of any quarter which in turn generates the greatest amount of collections in the following quarter. In addition, there is negative sequential sales in the first quarter, which results in a relatively lower amount collected during the second quarter. These seasonal trends also impact our operating loss because the majority of our expenses are relatively fixed in the short-term. For 2024, cash inflows were $102.1 million from our net loss excluding non-cash and acquired in-process research and development charges. Additional sources of cash inflows were from changes in our working capital, including a $110.4 million increase in deferred revenues, a $17.3 million increase in accrued expenses and other liabilities, a $3.6 million increase in trade payables, a $0.3 million decrease in other long-term assets and a $0.3 million increase in other long-term liabilities. This was partially offset by a $95.2 million increase in prepaid expenses and other short-term assets (including deferred commissions) and a $23.7 million increase in accounts receivable. Our days’ sales outstanding (“DSO”) for the three months and year ended December 31, 2024 was 77 and 74, respectively. 
+49
+For 2023, cash provided by operating activities were $59.4 million. Sources of cash inflows were $105.3 million, which included our net loss of $100.9 million, offset by non-cash charges of $206.2 million. Additional sources of cash inflows were from changes in our working capital, including a $69.9 million increase in deferred revenues and a $0.5 million increase in other long-term liabilities. This was partially offset by a $75.0 million increase in prepaid expenses and other short-term assets (including deferred commissions) and a $33.1 million increase in accounts receivable. Our DSO for the three months and year ended December 31, 2023 was 82 and 72, respectively. Other sources of cash outflows were from a $5.3 million decrease in accrued expenses and other liabilities, a $2.3 million decrease in trade payables and a $0.6 million decrease in other long-term assets.
+
+Investing Activities
+
+Our investing activities consist primarily of capital expenditures to purchase property and equipment, including leasehold improvements, purchase in-process research and development, purchase and sale of deposits and changes in our marketable securities. In the future, we expect to continue to incur capital expenditures to support our expanding operations.
+During 2024, net cash used in investing activities of $532.3 million was primarily attributable to net investments of $529.4 million in marketable securities, $6.7 million for in-process research and development and $6.7 million in capital expenditures to support our growth including hardware, office equipment and leasehold improvements mainly in connection with existing office space. This was partially offset by net proceeds of $10.5 million in deposits.
+During 2023, net cash used in investing activities of $143.1 million was primarily attributable to net investments of $216.6 million in marketable securities and $5.1 million in capital expenditures to support our growth including hardware, software, office equipment and leasehold improvements mainly in connection with existing office space. This was partially offset by net proceeds of $78.6 million in deposits.
+Financing Activities
+
+In 2024, net cash provided by financing activities of $371.9 million was attributable to $449.6 million of net proceeds from the issuance of convertible senior notes and $16.1 million of proceeds from employee stock plans, partially offset by $55.5 million related to purchases of capped calls associated with the convertible senior notes and $38.3 million in taxes paid related to net share settlement of equity awards.
+In 2023, net cash used in financing activities of $53.4 million was attributable to $43.5 million of repurchases of common stock and $21.4 million in taxes paid related to net share settlement of equity awards, partially offset by $11.5 million of proceeds from employee stock plans.
+Convertible Notes
+On September 10, 2024, we issued the 2029 Notes. The net proceeds from the offering, after deducting issuance costs, were approximately $449.6 million. In connection with the issuance of the 2029 Notes, we used $55.5 million of the net proceeds to enter into Capped Call Transactions.
+On May 11, 2020, we issued the 2025 Notes. The net proceeds from the offering, after deducting issuance costs, were approximately $245.2 million. In connection with the issuance of the 2025 Notes, we used $29.3 million of the net proceeds to enter into Capped Call Transactions.
+For further information regarding the Notes and Capped Call Transactions, refer to Note 7 of our consolidated financial statements.
+
+Contractual Payment Obligations
+
+Our principal commitments primarily consist of obligations under leases for office space and motor vehicles. Aggregate minimum rental commitments under non-cancelable leases as of December 31, 2024 for the upcoming years were as follows:
+
+Payments Due by Period
+
+2025
+2026
+2027
+2028
+2029
+Thereafter
+Total
+
+(in thousands)
+Operating lease obligations
+$
+12,305 
+$
+12,029 
+$
+12,084 
+$
+12,088 
+$
+8,015 
+$
+10,012 
+$
+66,533 
+50
+
+We have obligations related to unrecognized tax benefit liabilities totaling $33.3 million and others related to severance pay, which have been excluded from the table above as we do not believe it is practicable to make reliable estimates of the periods in which payments for these obligations will be made. We also have a contractual minimum purchase commitment with a service provider through August 31, 2027 totaling $7.1 million due in the next 12 months and $21.0 due thereafter and an additional $32.9 million contractual minimum purchase commitment with another service provider through December 31, 2026 with no specified annual commitments. We expect to fund these obligations with cash flows from operations and cash on our balance sheet.
+
+Off-Balance Sheet Arrangements
+
+As of December 31, 2024, we did not have any off-balance sheet arrangements.
+
+Critical Accounting Policies and Estimates 
+
+We prepare our consolidated financial statements in accordance with generally accepted accounting principles in the United States. The preparation of consolidated financial statements also requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues, costs and expenses and related disclosures. We base our estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances. Actual results could differ significantly from the estimates made by our management. To the extent that there are differences between our estimates and actual results, our future financial statement presentation, financial condition, results of operations and cash flows will be affected. We believe that our accounting policies discussed below are critical to understanding our historical and future performance, as these policies relate to the more significant areas involving management’s judgments and estimates. Critical accounting policies and estimates are those that we consider the most important to the portrayal of our financial condition and results of operations because they require our most difficult, subjective or complex judgments, often as a result of the need to make estimates about the effect of the matters that are inherently uncertain.
+
+Revenue Recognition: 
+We generate revenues primarily in the form of term license subscriptions, SaaS revenues and maintenance and services fees. Term license subscription revenues are sold on-premises and are comprised of time-based licenses whereby customers use our software (including support and unspecified upgrades and enhancements when and if they are available) for a specified period. SaaS revenues, including SaaS with MDDR, are provided on a subscription basis and allow customers to use hosted software. Over the last few years, the Company has introduced new products and support for cloud applications and infrastructure environments, including the Varonis Data Security Platform delivered as a SaaS, which was previously only sold as a self-hosted solution. Maintenance and services primarily consist of fees for maintenance of past perpetual license sales (including support and unspecified upgrades and enhancements when and if they are available) and to a lesser extent professional services, although the user can benefit from the software without our assistance. We sell our products worldwide to a network of distributors and value-added resellers, and payment is typically due within 30 to 60 calendar days of the invoice date.
+We recognize revenues in accordance with ASC No. 606, “Revenue from Contracts with Customers.” As such, we identify a contract with a customer, identify the performance obligations in the contract, determine the transaction price, allocate the transaction price to each performance obligation in the contract and recognize revenues when (or as) we satisfy a performance obligation.
+
+Term license subscription software sold on-premises is recognized at the point in time when the software license has been delivered and the benefit of the asset has transferred. Maintenance associated with term license subscription software is recognized ratably over the term of the agreement since these services have a consistent continuous pattern of transfer to a customer during the contract period, and is included within the term license subscriptions line of the consolidated statements of operations. 
+SaaS revenue is recognized ratably over the associated contract period, beginning when access is provided and the benefit of the service is available. Conversions from a license sold on-premises to the Company’s SaaS offering during the original subscription period are accounted for on a prospective basis.
+51
+We recognize revenues from maintenance agreements ratably over the term of the underlying maintenance contract. The term of the maintenance contract is usually one year. Renewals of maintenance contracts create new performance obligations that are satisfied over the new term with the revenues recognized ratably over the contract period.
+Revenues from professional services consist mostly of time and material services. The performance obligations are satisfied, and revenues are recognized, when the services are provided or once the service term has expired.
+
+We enter into contracts that can include combinations of products and services, which are generally capable of being distinct and accounted for as separate performance obligations. The term license software is distinct upon delivery as the customer can derive the economic benefit of the software without any additional services, updates or technical support. We allocate the transaction price to each performance obligation based on our relative standalone selling price out of the total consideration of the contract. For software licenses and maintenance included in term license subscriptions, we determine the standalone selling prices based on the price at which we separately sell a renewal contract. For professional services, we determine the standalone selling prices based on the price at which we separately sell those services. 
+
+Trade receivables are generally recorded at the invoice amount mostly for a one-year period, net of an allowance for credit losses.
+Deferred revenues represent mostly unrecognized fees billed or collected for SaaS and maintenance contracts. Deferred revenues are recognized as (or when) we perform under the contract. Pursuant to these contracts, customers are generally not invoiced for subsequent years until the annual renewal occurs. The amount of revenues recognized in the period that was included in the opening deferred revenues balance was $177.3 million for the year ended December 31, 2024.
+Revenues allocated to remaining performance obligations represent contracted revenues that have not yet been recognized, which includes deferred revenues and non-cancelable amounts that will be invoiced in the future. Our remaining performance obligations were $729.7 million as of December 31, 2024, of which we expect to recognize approximately 53% as revenue over the next 12 months and the remainder thereafter.
+For information regarding disaggregated revenues, refer to Note 13 to our consolidated financial statements.
+Contract Costs:
+We pay sales commissions to sales and marketing and certain management personnel based on their attainment of certain predetermined sales goals. Sales commissions earned by employees are considered incremental and recoverable costs of obtaining a contract with a customer. Sales commissions paid for initial contracts, which are not commensurate with sales commissions paid for renewal contracts, are capitalized and amortized over an expected period of benefit. Based on our technology, customer contracts and other factors, we have determined the expected period of benefit to be approximately four years. Sales commissions for renewal contracts are capitalized and then amortized on a straight-line basis. Amortization expenses related to these costs are included in sales and marketing expenses in the accompanying consolidated statements of operations. 
+Accounting for Stock-Based Compensation:
+
+We account for stock-based compensation in accordance with ASC No. 718, “Compensation-Stock Compensation.” For stock options and restricted stock units, stock-based compensation expense is measured at the grant date, based on the estimated fair value of the equity award granted, and is recognized as expense on a straight-line basis over the requisite service period. In addition, we grant performance stock units to certain employees. The number of performance stock units earned and eligible to vest are generally determined after a one-year performance period, based on achievement of certain Company financial performance measures and the recipient’s continued service. We recognize stock-based compensation expense for performance stock units using the graded vesting method over the requisite service period for each separately-vesting tranche of the award when it is probable that the performance conditions will be achieved. Compensation expense for performance stock units with financial performance measures is measured using the fair value at the date of grant and recorded over each vesting period, and may be adjusted over the vesting period based on interim estimates of performance against the pre-set objectives. We account for forfeitures as they occur for all stock-based awards.
+Income Taxes:
+We account for income taxes in accordance with ASC No. 740, using the asset and liability method whereby deferred tax assets and liability account balances are determined based on the differences between financial reporting and the tax basis 
+52
+for assets and liabilities and are measured using the enacted tax rates and laws that will be in effect when the differences are expected to reverse. We provide a valuation allowance, if necessary, to reduce deferred tax assets to the amounts that are more likely-than-not to be realized.
+
+ASC 740 contains a two-step approach to recognizing and measuring a liability for uncertain tax positions. The first step is to evaluate the tax position taken or expected to be taken in a tax return by determining if the weight of available evidence indicates that it is more likely than not that, on an evaluation of the technical merits, the tax position will be sustained on audit, including resolution of any related appeals or litigation processes. The second step is to measure the tax benefit as the largest amount that is more than 50% likely to be realized upon ultimate settlement. We accrue interest and penalties related to unrecognized tax provisions in our taxes on income.
+Recently Adopted Accounting Pronouncements
+In November 2023, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) 2023-07, Segment Reporting (Topic 280), 
+Improvements to Reportable Segment Disclosures
+ to improve reportable segment disclosure requirements through enhanced disclosures about significant segment expenses on an interim and annual basis. All disclosure requirements of ASU 2023-07 are required for entities with a single reportable segment. ASU 2023-07 is effective for fiscal years beginning after December 15, 2023, and interim periods for the fiscal years beginning after December 15, 2024. We adopted the fiscal year standard for the period beginning January 1, 2024 on a retrospective basis which resulted in updated segment disclosures. For more information on the updated segment disclosures, refer to Note 13 of our consolidated financial statements.
+Recently Issued Accounting Pronouncements Not Yet Adopted 
+In December 2023, the FASB issued ASU 2023-09,
+
+Income Taxes (Topic 740) - 
+Improvements to Income Tax Disclosures
+. The ASU requires that an entity disclose specific categories in the effective tax rate reconciliation as well as provide additional information for reconciling items that meet a quantitative threshold. Further, the ASU requires certain disclosures of state versus federal income tax expense and taxes paid. The amendments in this ASU are required to be adopted for fiscal years beginning after December 15, 2024. Early adoption is permitted and the amendments should be applied on a prospective basis. We are currently evaluating the effect of adopting the ASU on our disclosures.
+In November 2024, the FASB issued ASU 2024-03, Income Statement-Reporting Comprehensive Income-Expense Disaggregation Disclosures (Subtopic 220-40) - 
+Disaggregation of Income Statement Expenses
+. The ASU requires, among other items, additional disaggregated disclosures in the notes to financial statements for certain categories of expenses that are included on the Statements of Operations. ASU 2024-03 is effective for fiscal years beginning after December 15, 2026, and for interim periods within fiscal years beginning after December 15, 2027, with early adoption permitted, and may be applied either prospectively or retrospectively. We are currently evaluating the effect of adopting the ASU on our disclosures.
+53
+Item 7A.
+Quantitative and Qualitative Disclosures About Market Risk
+
+Market risk represents the risk of loss that may impact our financial position due to adverse changes in financial market prices and rates. Our market risk exposure is primarily a result of fluctuations in foreign currency exchange rates. We do not hold financial instruments for trading or speculative purposes.
+Market Risk
+
+We are exposed to certain financial risks, including fluctuations in foreign currency exchange rates and interest rates. We manage our exposure to these market risks through internally established policies and procedures. Our policies do not allow speculation in derivative instruments for profit or execution of derivative instrument contracts for which there are no underlying exposures. We do not use financial instruments for trading or speculative purposes, and we are not a party to any leveraged derivatives. We monitor our underlying market risk exposures on an ongoing basis and, where appropriate, may use hedging strategies to mitigate these risks.
+
+Foreign Currency Exchange Risk
+
+Approximately one quarter of our revenues for the years ended December 31, 2024 and 2023 were earned in non-U.S. dollar denominated currencies, mainly in the Euro and Pound Sterling. Our expenses are generally denominated in the currencies in which our operations are located, primarily the U.S. dollar and New Israeli Shekel, and to a lesser extent the Euro, Pound Sterling, Canadian dollar, Australian dollar and Singapore dollar. Our expenses denominated in foreign currencies consist primarily of personnel and overhead costs from our international operations. Our consolidated results of operations and cash flow are, therefore, subject to fluctuations due to changes in foreign currency exchange rates and may be adversely affected in the future due to changes in foreign exchange rates. We enter into financial hedging strategies to reduce our exposure to foreign currency rate changes. During 2024, the effect of a hypothetical 10% change in foreign currency exchange rates applicable to our business, after considering foreign currency hedges, would not have had a material impact on our consolidated financial statements.
+
+For purposes of our consolidated financial statements, local currency assets and liabilities are translated at the rate of exchange to the U.S. dollar on the balance sheet date and local currency revenues and expenses are translated at the exchange rate at the date of the transaction or the average exchange rate during the reporting period.
+
+We use derivative financial instruments, specifically foreign currency forward contracts, to manage exposure to foreign currency risks, by hedging a portion of our forecasted revenues and expenses generally expected to occur within 12 to 24 months. A majority of our revenues and operating expenditures are transacted in U.S. dollars; however, certain revenues and operating expenditures are incurred in or exposed to other currencies, specifically, Euro and Pound Sterling for revenues, and the New Israeli Shekel, Euro and Pound Sterling for operating expenses. The effect of exchange rate changes on foreign currency forward contracts is expected to offset the effect of exchange rate changes on the underlying hedged item. We have also previously entered into forward contracts to hedge a portion of our monetary items in the balance sheet, such as trade receivables and payables, denominated in Pound Sterling and Euro for short-term periods to protect the fair value of the monetary assets and liabilities from foreign exchange rate fluctuations. The effect of exchange rate changes on foreign currency forward contracts is expected to offset the effect of exchange rate changes in the underlying hedged item which impacts financial income, net. We do not use derivative financial instruments for trading or speculative purposes.
+
+Interest Rate Risk
+As of December 31, 2024, we had cash and cash equivalents, short-term marketable securities and short-term deposits of $568.4 million and investments in long-term marketable securities of $658.9 million. We hold our cash and cash equivalents, short-term marketable securities and short-term deposits for working capital purposes. We do not enter into marketable security investments for trading or speculative purposes. 
+54
+Our cash and cash equivalents, marketable securities and short-term deposits are subject to market risk due to changes in interest rates, which may affect our interest income and the fair value of our marketable securities. Due in part to these factors, our future investment income may fluctuate due to changes in interest rates or we may suffer losses in principal if we are forced to sell securities that decline in market value due to changes in interest rates. Due to the liquid and short-term nature of our cash and cash equivalents, short-term marketable securities and short-term deposit instruments, we believe that we do not have any material exposure to changes in the fair value of these instruments as a result of changes in interest rates. Additionally, because we classify our marketable securities as available-for-sale securities, no gains or losses are recognized in the consolidated statements of operations due to the changes in interest rates, unless securities are sold prior to maturity or declines in fair value are determined to be other-than-temporary. The effect of a hypothetical 100 basis point change in interest rates would not have a material impact on our consolidated financial statements.
+In May 2020 we issued the 2025 Notes and in September 2024 we issued the 2029 Notes, which have fixed annual interest rates at 1.25% and 1.00%, respectively, and therefore, we do not have economic interest rate exposure on the Notes. However, the values of the Notes are exposed to interest rate risk. Generally, the fair market value of our fixed interest rate Notes will increase as interest rates fall and decrease as interest rates rise. In addition, the fair values of the Notes are affected by our stock price. The fair value of the Notes will generally increase as our common stock price increases and will generally decrease as our common stock price declines in value. Additionally, we carry the Notes at face value less unamortized costs on our balance sheet, and we present the fair value for required disclosure purposes only.
+To the extent we enter into other long-term debt arrangements in the future, we would be subject to fluctuations in interest rates which could have a material impact on our future financial condition and results of operation.
+55
+Item 8.
+Financial Statements and Supplementary Data
+
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Page
+Reports of Independent Registered Public Accounting Firm
+ (PCAOB ID No. 
+1281
+)
+57
+Consolidated Balance Sheets
+61
+Consolidated Statements of Operations
+63
+Consolidated Statements of Comprehensive Loss
+64
+Consolidated Statements of Changes in Stockholders’ Equity
+65
+Consolidated Statements of Cash Flows
+66
+Notes to Consolidated Financial Statements
+68
+56
+Kost Forer Gabbay & Kasierer
+144 Menachem Begin Road, Building A
+Tel-Aviv 6492102, Israel
+Tel: +972-3-6232525
+Fax: +972-3-5622555
+ey.com
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the Stockholders and the Board of Directors of
+
+VARONIS SYSTEMS, INC.
+
+Opinion on the Financial Statements
+We have audited the accompanying consolidated balance sheets of Varonis Systems, Inc. and subsidiaries (the Company) as of December 31, 2024 and 2023, the related consolidated statements of operations, comprehensive loss, changes in stockholders’ equity and cash flows for each of the three years in the period ended December 31, 2024, and the related notes (collectively referred to as the “consolidated financial statements”). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company at December 31, 2024 and 2023, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2024, in conformity with U.S. generally accepted accounting principles.
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company's internal control over financial reporting as of December 31, 2024, based on criteria established in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) and our report dated February 6, 2025, expressed an unqualified opinion thereon.
+
+Basis for Opinion
+These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company’s financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+Critical Audit Matter
+The critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective or complex judgments. The communication of the critical audit matter does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+57
+Kost Forer Gabbay & Kasierer
+144 Menachem Begin Road, Building A
+Tel-Aviv 6492102, Israel
+Tel: +972-3-6232525
+Fax: +972-3-5622555
+ey.com
+Revenue Recognition - Evaluation of standalone selling price of subscription licenses
+Description of the Matter
+As described in Note 2n to the consolidated financial statements, the Company generates revenues, among others, from term license subscriptions that are sold on-premises and are comprised of time-based licenses whereby customers use the Company's software and maintenance associated with term license subscriptions software (which includes support and unspecified upgrades and enhancements when and if they are available) for a specified period. The term license subscriptions software and maintenance are distinct and accounted for as separate performance obligations, and the Company allocates the transaction price to each performance obligation based on its relative standalone selling price. 
+Term license subscriptions software is recognized at the point in time when the software license has been delivered and the benefit of the asset has been transferred. Maintenance associated with term license subscriptions software is recognized ratably over the term of the agreement.
+The Company does not sell term license subscriptions software on a standalone basis. Therefore, the Company makes subjective assumptions to estimate the standalone selling price for each of the performance obligations and determines the standalone selling price based on observable standalone selling prices of maintenance contracts associated with past perpetual licenses.
+Auditing the Company’s determination of the standalone selling price for the term license subscriptions and maintenance was challenging and complex due to the high degree of judgment involved in the determination of the estimated standalone selling price. Any changes to the standalone selling price could have a significant impact on the amount and timing of revenues recognized.
+How We Addressed the Matter in Our Audit
+We obtained an understanding, evaluated the design and tested the operating effectiveness of internal controls related to the Company’s estimation of the standalone selling price for the term license subscriptions software and maintenance. 
+We evaluated management’s standalone selling price by testing the completeness and accuracy of management’s analysis and underlying data by tracing a selection of data points from relevant transactions to management's analysis. We also tested the mathematical accuracy of management’s related calculations.
+Finally, we assessed the appropriateness of the related disclosures in the consolidated financial statements.
+/s/ 
+KOST FORER GABBAY & KASIERER
+A Member of EY Global
+We have served as the Company’s auditor since 2007.
+Tel-Aviv, Israel
+February 6, 2025
+58
+Kost Forer Gabbay & Kasierer
+144 Menachem Begin Road, Building A
+Tel-Aviv 6492102, Israel
+Tel: +972-3-6232525
+Fax: +972-3-5622555
+ey.com
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the Stockholders and the Board of Directors of
+
+VARONIS SYSTEMS, INC.
+
+Opinion on Internal Control over Financial Reporting
+
+We have audited Varonis Systems, Inc. and subsidiaries' internal control over financial reporting as of December 31, 2024, based on criteria established in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) (the COSO criteria). In our opinion, Varonis Systems, Inc. and subsidiaries (the Company) maintained, in all material respects, effective internal control over financial reporting as of December 31, 2024, based on the COSO criteria.
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States)(PCAOB), the consolidated balance sheets of the Company as of December 31, 2024 and 2023, the related consolidated statements of operations, comprehensive loss, changes in stockholders’ equity and cash flows for each of the three years in the period ended December 31, 2024, and the related notes, and our report dated February 6, 2025, expressed an unqualified opinion thereon.
+Basis for Opinion
+
+The Company’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting included in the accompanying Management's Annual Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company’s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects.
+Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+Definition and Limitations of Internal Control Over Financial Reporting
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
+59
+Kost Forer Gabbay & Kasierer
+144 Menachem Begin Road, Building A
+Tel-Aviv 6492102, Israel
+Tel: +972-3-6232525
+Fax: +972-3-5622555
+ey.com
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+/s/ KOST FORER GABBAY & KASIERER
+A Member of EY Global
+
+Tel-Aviv, Israel
+February 6, 2025
+60
+VARONIS SYSTEMS, INC. AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+(in thousands)
+
+December 31,
+
+2024
+2023
+Assets
+
+Current assets:
+
+Cash and cash equivalents
+$
+185,585
+
+$
+230,740
+
+Marketable securities
+343,383
+
+253,175
+
+Short-term deposits
+39,450
+
+49,800
+
+Trade receivables (net of allowance of $
+2,518
+ and $
+1,487
+ at December 31, 2024 and December 31, 2023, respectively)
+192,832
+
+169,116
+
+Prepaid expenses and other short-term assets
+116,824
+
+64,326
+
+Total current assets
+878,074
+
+767,157
+
+Long-term assets:
+
+Long-term marketable securities
+658,896
+
+211,063
+
+Operating lease right-of-use assets
+45,593
+
+51,838
+
+Property and equipment, net
+30,795
+
+33,964
+
+Intangible assets, net
+—
+
+1,263
+
+Goodwill
+23,135
+
+23,135
+
+Other assets
+27,782
+
+15,490
+
+Total long-term assets
+786,201
+
+336,753
+
+Total assets
+$
+1,664,275
+
+$
+1,103,910
+
+The accompanying notes are an integral part of these consolidated financial statements.
+61
+VARONIS SYSTEMS, INC. AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+(in thousands, except share data)
+
+December 31,
+
+2024
+2023
+Liabilities and stockholders’ equity
+
+Current liabilities:
+
+Trade payables
+$
+4,313
+
+$
+672
+
+Accrued expenses and other short-term liabilities
+164,930
+
+125,057
+
+Convertible senior notes, net
+250,529
+
+—
+
+Deferred revenues
+290,113
+
+181,049
+
+Total current liabilities
+709,885
+
+306,778
+
+Long-term liabilities:
+
+Convertible senior notes, net
+450,243
+
+250,477
+
+Operating lease liabilities
+42,789
+
+51,313
+
+Deferred revenues
+2,211
+
+886
+
+Other liabilities
+3,491
+
+4,808
+
+Total long-term liabilities
+498,734
+
+307,484
+
+Stockholders’ equity:
+
+Share capital
+
+Common stock of $
+0.001
+ par value - Authorized: 
+200,000,000
+ shares at December 31, 2024 and December 31, 2023; Issued and outstanding: 
+112,550,156
+ shares at December 31, 2024 and 
+109,103,721
+ shares at December 31, 2023
+113
+
+109
+
+Accumulated other comprehensive income (loss)
+2,676
+
+(
+8,649
+)
+Additional paid-in capital
+1,193,022
+
+1,142,578
+
+Accumulated deficit
+(
+740,155
+)
+(
+644,390
+)
+Total stockholders’ equity
+455,656
+
+489,648
+
+Total liabilities and stockholders’ equity
+$
+1,664,275
+
+$
+1,103,910
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+62
+VARONIS SYSTEMS, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(in thousands, except share and per share data)
+
+Year ended
+
+December 31,
+
+2024
+2023
+2022
+Revenues:
+
+Term license subscriptions
+$
+254,241
+
+$
+356,490
+
+$
+363,898
+
+SaaS
+208,781
+
+44,417
+
+2,246
+
+Maintenance and services
+87,928
+
+98,253
+
+107,490
+
+Total revenues
+550,950
+
+499,160
+
+473,634
+
+Cost of revenues
+93,847
+
+71,751
+
+69,836
+
+Gross profit
+457,103
+
+427,409
+
+403,798
+
+Operating expenses:
+
+Research and development
+196,765
+
+183,838
+
+177,881
+
+Sales and marketing
+288,769
+
+277,893
+
+275,090
+
+General and administrative
+89,220
+
+82,901
+
+72,055
+
+Total operating expenses
+574,754
+
+544,632
+
+525,026
+
+Operating loss
+(
+117,651
+)
+(
+117,223
+)
+(
+121,228
+)
+Financial income, net
+34,644
+
+30,305
+
+10,413
+
+Loss before income taxes
+(
+83,007
+)
+(
+86,918
+)
+(
+110,815
+)
+Income taxes
+(
+12,758
+)
+(
+13,998
+)
+(
+13,703
+)
+Net loss
+$
+(
+95,765
+)
+$
+(
+100,916
+)
+$
+(
+124,518
+)
+Net loss per share of common stock, basic and diluted
+$
+(
+0.86
+)
+$
+(
+0.92
+)
+$
+(
+1.14
+)
+Weighted average number of shares used in computing net loss per share of common stock, basic and diluted
+111,660,541
+
+109,141,894
+
+109,281,368
+
+The accompanying notes are an integral part of these consolidated financial statements.
+63
+VARONIS SYSTEMS, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS
+(in thousands)
+
+Year ended
+December 31,
+
+2024
+2023
+2022
+Net loss
+$
+(
+95,765
+)
+$
+(
+100,916
+)
+$
+(
+124,518
+)
+Other comprehensive income (loss):
+Unrealized income (loss) on marketable securities, net of tax
+(
+3,448
+)
+1,547
+
+(
+300
+)
+Income (loss) on marketable securities reclassified into earnings, net of tax
+(
+650
+)
+401
+
+23
+
+(
+4,098
+)
+1,948
+
+(
+277
+)
+Unrealized income (loss) on derivative instruments, net of tax
+26,264
+
+13,216
+
+(
+19,181
+)
+Income (loss) on derivative instruments reclassified into earnings, net of tax
+(
+10,841
+)
+(
+14,256
+)
+3,818
+
+15,423
+
+(
+1,040
+)
+(
+15,363
+)
+Total other comprehensive income (loss)
+11,325
+
+908
+
+(
+15,640
+)
+Comprehensive loss
+$
+(
+84,440
+)
+$
+(
+100,008
+)
+$
+(
+140,158
+)
+
+The accompanying notes are an integral part of these consolidated financial statements.
+64
+VARONIS SYSTEMS, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS’ EQUITY
+(in thousands, except share data)
+
+Common stock
+Additional
+paid-in capital
+Accumulated
+other
+comprehensive income (loss)
+Accumulated deficit
+Total
+stockholders’ equity
+
+Number
+Amount
+Balance as of January 1, 2022
+107,509,096
+
+$
+108
+
+$
+1,018,005
+
+$
+6,083
+
+$
+(
+427,603
+)
+$
+596,593
+
+Effect of adoption of ASU 2020-06
+— 
+— 
+(
+30,794
+)
+— 
+8,647
+
+(
+22,147
+)
+Stock-based compensation expense
+— 
+— 
+142,862
+
+— 
+— 
+142,862
+
+Common stock issued under employee stock plans
+3,078,402
+
+3
+
+12,493
+
+— 
+— 
+12,496
+
+Taxes paid related to net share settlement of equity awards
+— 
+— 
+(
+31,076
+)
+— 
+— 
+(
+31,076
+)
+Repurchase of common stock
+(
+2,914,446
+)
+(
+3
+)
+(
+56,442
+)
+— 
+— 
+(
+56,445
+)
+Unrealized loss on derivative instruments, net of tax
+— 
+— 
+— 
+(
+15,363
+)
+— 
+(
+15,363
+)
+Unrealized loss on available for sale securities, net of tax
+— 
+— 
+— 
+(
+277
+)
+— 
+(
+277
+)
+Net loss
+— 
+— 
+— 
+— 
+(
+124,518
+)
+(
+124,518
+)
+Balance as of December 31, 2022
+107,673,052
+
+108
+
+1,055,048
+
+(
+9,557
+)
+(
+543,474
+)
+502,125
+
+Stock-based compensation expense
+— 
+— 
+139,819
+
+— 
+— 
+139,819
+
+Common stock issued under employee stock plans
+2,931,316
+
+2
+
+12,647
+
+— 
+— 
+12,649
+
+Taxes paid related to net share settlement of equity awards
+— 
+— 
+(
+21,415
+)
+— 
+— 
+(
+21,415
+)
+Repurchase of common stock
+(
+1,500,647
+)
+(
+1
+)
+(
+43,521
+)
+— 
+— 
+(
+43,522
+)
+Unrealized loss on derivative instruments, net of tax
+— 
+— 
+— 
+(
+1,040
+)
+— 
+(
+1,040
+)
+Unrealized income on available for sale securities, net of tax
+— 
+— 
+— 
+1,948
+
+— 
+1,948
+
+Net loss
+— 
+— 
+— 
+— 
+(
+100,916
+)
+(
+100,916
+)
+Balance as of December 31, 2023
+109,103,721
+
+109
+
+1,142,578
+
+(
+8,649
+)
+(
+644,390
+)
+489,648
+
+Stock-based compensation expense
+— 
+— 
+126,682
+
+— 
+— 
+126,682
+
+Common stock issued under employee stock plans
+3,397,390
+
+3
+
+16,079
+
+— 
+— 
+16,082
+
+Taxes paid related to net share settlement of equity awards
+— 
+— 
+(
+38,295
+)
+— 
+— 
+(
+38,295
+)
+Unrealized income on derivative instruments, net of tax
+— 
+— 
+— 
+15,423
+
+— 
+15,423
+
+Unrealized loss on available for sale securities, net of tax
+— 
+— 
+— 
+(
+4,098
+)
+— 
+(
+4,098
+)
+Common stock issued for debt conversion
+49,045
+
+1
+
+1,500
+
+— 
+— 
+1,501
+
+Purchase of capped calls related to Convertible senior notes
+— 
+— 
+(
+55,522
+)
+— 
+— 
+(
+55,522
+)
+Net loss
+— 
+— 
+— 
+— 
+(
+95,765
+)
+(
+95,765
+)
+Balance as of December 31, 2024
+112,550,156
+
+$
+113
+
+$
+1,193,022
+
+$
+2,676
+
+$
+(
+740,155
+)
+$
+455,656
+
+The accompanying notes are an integral part of these consolidated financial statements.
+65
+VARONIS SYSTEMS, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in thousands)
+Year ended
+
+December 31,
+
+2024
+2023
+2022
+Cash flows from operating activities:
+Net loss
+$
+(
+95,765
+)
+$
+(
+100,916
+)
+$
+(
+124,518
+)
+Adjustments to reconcile net loss to net cash provided by operating activities:
+Depreciation and amortization
+11,126
+
+11,703
+
+12,176
+
+Stock-based compensation
+126,682
+
+139,819
+
+142,862
+
+Amortization of deferred commissions
+54,392
+
+53,072
+
+49,366
+
+Non-cash operating lease costs
+9,526
+
+9,468
+
+9,305
+
+Amortization of debt issuance costs
+2,144
+
+1,514
+
+1,486
+
+Amortization of premium and accretion of discount on marketable securities, net 
+(
+12,690
+)
+(
+9,354
+)
+(
+344
+)
+Acquired in-process research and development
+6,653
+
+—
+
+—
+
+Gain from sale of property and equipment
+—
+
+—
+
+(
+21
+)
+Changes in assets and liabilities:
+Trade receivables
+(
+23,716
+)
+(
+33,137
+)
+(
+18,800
+)
+Prepaid expenses and other short-term assets
+(
+35,332
+)
+(
+21,459
+)
+(
+6,161
+)
+Deferred commissions
+(
+59,820
+)
+(
+53,505
+)
+(
+49,135
+)
+Other long-term assets
+347
+
+(
+577
+)
+502
+
+Trade payables
+3,641
+
+(
+2,290
+)
+(
+2,362
+)
+Accrued expenses and other short-term liabilities
+17,317
+
+(
+5,278
+)
+(
+9,115
+)
+Deferred revenues
+110,389
+
+69,882
+
+5,266
+
+Other long-term liabilities
+306
+
+474
+
+1,364
+
+Net cash provided by operating activities
+115,200
+
+59,416
+
+11,871
+
+Cash flows from investing activities:
+Proceeds from maturities of marketable securities
+308,840
+
+301,350
+
+41,600
+
+Proceeds from sales of marketable securities
+111,552
+
+—
+
+—
+
+Investment in marketable securities
+(
+949,841
+)
+(
+517,948
+)
+(
+277,871
+)
+Proceeds from short-term and long-term deposits
+34,795
+
+214,444
+
+15,961
+
+Investment in short-term and long-term deposits
+(
+24,254
+)
+(
+135,823
+)
+(
+142,566
+)
+Purchase of in-process research and development
+(
+6,653
+)
+—
+
+—
+
+Proceeds from sale of property and equipment
+—
+
+—
+
+21
+
+Purchases of property and equipment
+(
+6,694
+)
+(
+5,099
+)
+(
+11,396
+)
+Net cash used in investing activities
+(
+532,255
+)
+(
+143,076
+)
+(
+374,251
+)
+Cash flows from financing activities:
+Proceeds from employee stock plans
+16,082
+
+11,537
+
+11,940
+
+Taxes paid related to net share settlement of equity awards
+(
+38,295
+)
+(
+21,415
+)
+(
+31,077
+)
+Repurchase of common stock
+—
+
+(
+43,522
+)
+(
+56,444
+)
+Proceeds from issuance of convertible senior notes, net of issuance costs
+449,635
+
+—
+
+—
+
+Purchases of capped calls
+(
+55,522
+)
+—
+
+—
+
+Net cash provided by (used in) financing activities
+371,900
+
+(
+53,400
+)
+(
+75,581
+)
+66
+Decrease in cash and cash equivalents
+(
+45,155
+)
+(
+137,060
+)
+(
+437,961
+)
+Cash and cash equivalents at beginning of period
+230,740
+
+367,800
+
+805,761
+
+Cash and cash equivalents at end of period
+$
+185,585
+
+$
+230,740
+
+$
+367,800
+
+Supplemental disclosure of cash flow information:
+Cash paid for income taxes
+$
+24,249
+
+$
+16,089
+
+$
+7,354
+
+Cash paid for interest
+$
+3,193
+
+$
+3,196
+
+$
+3,167
+
+Lease liabilities arising from obtaining right-of-use assets
+$
+3,148
+
+$
+3,166
+
+$
+1,625
+
+Common stock issued for debt conversion
+$
+1,501
+
+$
+—
+
+$
+—
+
+The accompanying notes are an integral part of these consolidated financial statements.
+67
+VARONIS SYSTEMS, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+NOTE 1:- 
+GENERAL
+Varonis Systems, Inc. ("VSI" and together with its subsidiaries, collectively, the “Company” or "Varonis") was incorporated under the laws of the State of Delaware on November 3, 2004, commenced operations on January 1, 2005 and has 
+twelve
+ wholly-owned subsidiaries.
+
+The Company's software specializes in data security, threat detection and response and data privacy and compliance. Varonis software enables enterprises of all sizes and industries to protect data stored in the cloud and on-premises including: sensitive files and emails; confidential personal data belonging to customers, patients and employees; financial records; source code, strategic and product plans; and other intellectual property. Recognizing the challenge of protecting data with growing volume, velocity, and variety, the Company has built an integrated platform to simplify and streamline data security, threat detection and response, and data privacy and compliance.
+The Company offers coverage for most mission-critical cloud and on-premises data stores and cloud infrastructure environments, and many critical SaaS applications. In 2022, Varonis announced the availability of its flagship Varonis Data Security Platform as a SaaS, which offers simpler deployment, faster time-to-value, and groundbreaking new automation capabilities that help customers prevent data breaches.
+The Varonis Data Security Platform helps enterprises protect data against cyberattacks from both external and internal threats. The Company's products enable enterprises to analyze data, application and account activity and user behavior to detect and prevent attacks. Its software platform prevents or limits unauthorized use of sensitive information, detects and prevents potential cyberattacks and limits potential damage by automatically locking down data, allowing access to only those who need it and automating the removal of stale data when it is no longer useful. 
+The broad applicability of the Company's technology has resulted in its customers deploying its software for numerous use cases. These use cases include: automatic discovery and classification of high-risk, sensitive data; data security posture management; SaaS security posture management; automated remediation of over-exposed data; centralized visibility and risk analysis of enterprise data and monitoring of user behavior and file activity; security monitoring and risk reduction; data breach, insider threat, malware and ransomware detection with Managed Data Detection and Response ("MDDR"); automatic response to ransomware and other severe incidents to limit exposure and reduce recovery times; data ownership identification, assignment, and automatic involvement; forensics, reporting and auditing with searchable logs; meeting security policy and compliance regulation; automatic data migration; cloud migration; automation of retention and disposition policies; automatic data quarantine; intelligent archiving; and automated indexing for data subject requests related to privacy and compliance requirements.
+NOTE 2:- 
+SIGNIFICANT ACCOUNTING POLICIES
+
+The consolidated financial statements are prepared according to United States generally accepted accounting principles (“U.S. GAAP”), applied on a consistent basis, as follows:
+a.
+Financial Statements in U.S. Dollars:
+Most of the Company's revenues and costs are denominated in United States dollars (“dollars”). Some of the subsidiaries’ revenues and costs are incurred in Euros, the Pound Sterling, Canadian dollars, Australian dollars, Singapore dollars and New Israeli Shekels ("NIS"); however, the Company’s management believes that the dollar is the primary currency of the economic environment in which it and each of its subsidiaries operate. Thus, the dollar is the Company’s functional and reporting currency.
+
+Accordingly, transactions denominated in currencies other than the functional currency are remeasured to the functional currency in accordance with ASC No. 830, “Foreign Currency Matters” at the exchange rate at the date of the transaction or the average exchange rate in the quarter. At the end of each reporting period, financial assets and liabilities are remeasured to the functional currency using exchange rates in effect at the balance sheet date. Non-financial assets and liabilities are remeasured at historical exchange rates. Gains and losses related to remeasurement are recorded as financial income, net in the consolidated statements of operations as appropriate.
+68
+b.
+Principles of Consolidation:
+
+The consolidated financial statements include the accounts of VSI and its wholly-owned subsidiaries. All intercompany transactions and balances have been eliminated upon consolidation.
+
+c.
+Basis of Presentation:
+
+Certain amounts in prior years' have been recast and reclassified to conform to the current year's presentation. The reclassifications have no impact on total revenues, net loss, or cash flows from operating, investing and financing activities.
+
+d.
+Use of Estimates:
+
+The preparation of the consolidated financial statements in conformity with U.S. generally accepted accounting principles requires management to make estimates, judgments and assumptions. The Company’s management believes that the estimates, judgments and assumptions used are reasonable based upon information available at the time they are made. These estimates, judgments and assumptions can affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the dates of the financial statements, and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates. On an ongoing basis, the Company’s management evaluates estimates, including those related to evaluation of standalone selling price of term license subscriptions, accounts receivable credit loss allowance, fair values of stock-based awards, deferred taxes and income tax uncertainties, and contingent liabilities. Such estimates are based on historical experience and on various other assumptions that are believed to be reasonable, the results of which form the basis for making judgments about the carrying values of assets and liabilities.
+
+e.
+Cash, Cash Equivalents, Marketable Securities and Short-Term Investments:
+
+The Company accounts for investments in marketable securities in accordance with ASC No. 320, “Investments—Debt and Equity Securities” and ASC No. 326, “Financial Instruments—Credit Losses.” The Company considers all highly liquid investments with a maturity of three months or less when purchased to be cash equivalents. Cash and cash equivalents consist of cash on hand, highly liquid investments in money market funds and other securities.
+The Company considers all investments and marketable securities purchased with maturities at the date of purchase greater than three months but less than one year to be short-term. Investments and marketable securities purchased with maturities at the date of purchase greater than one year are classified as long-term assets. Marketable securities are classified as available for sale and are, therefore, recorded at fair value on the consolidated balance sheet, with any unrealized gains and losses reported in accumulated other comprehensive loss, which is reflected as a separate component of stockholders’ equity in the Company’s consolidated balance sheets, until realized. Realized gains and losses are determined based on the specific identification method and are reported in financial income, net in the consolidated statements of operations. The amortized cost of securities is adjusted for amortization of premiums and accretion of discounts to maturity. Such amortization and accretion are included as a component of financial income, net in the consolidated statement of operations.
+
+Cash equivalents, marketable securities and deposits consist of the following (in thousands):
+69
+
+As of December 31, 2024
+
+Amortized
+Cost
+Gross
+Unrealized
+Gains
+Gross
+Unrealized
+Losses
+Fair
+Value
+Cash equivalents
+
+Money market funds
+$
+133,113
+
+$
+— 
+$
+— 
+$
+133,113
+
+Total
+$
+133,113
+
+$
+— 
+$
+— 
+$
+133,113
+
+Marketable securities
+
+US Treasury securities
+$
+342,751
+
+$
+632
+
+$
+—
+
+$
+343,383
+
+Total
+$
+342,751
+
+$
+632
+
+$
+—
+
+$
+343,383
+
+Short-term deposits
+Term bank deposits
+$
+39,450
+
+$
+—
+
+$
+—
+
+$
+39,450
+
+Total
+$
+39,450
+
+$
+—
+
+$
+—
+
+$
+39,450
+
+Long-term marketable securities
+US Treasury securities
+$
+661,955
+
+$
+104
+
+$
+(
+3,163
+)
+$
+658,896
+
+Total
+$
+661,955
+
+$
+104
+
+$
+(
+3,163
+)
+$
+658,896
+
+As of December 31, 2023
+
+Amortized
+Cost
+Gross
+Unrealized
+Gains
+Gross
+Unrealized
+Losses
+Fair
+Value
+Cash equivalents
+
+Money market funds
+$
+164,848
+
+$
+— 
+$
+— 
+$
+164,848
+
+Total
+$
+164,848
+
+$
+— 
+$
+— 
+$
+164,848
+
+Marketable securities
+
+US Treasury securities
+$
+242,633
+
+$
+530
+
+$
+(
+1
+)
+$
+243,162
+
+US Government Agency securities
+9,972
+
+41
+
+—
+
+10,013
+
+Total
+$
+252,605
+
+$
+571
+
+$
+(
+1
+)
+$
+253,175
+
+Short-term deposits
+Term bank deposits
+$
+49,800
+
+$
+—
+
+$
+—
+
+$
+49,800
+
+Total
+$
+49,800
+
+$
+—
+
+$
+—
+
+$
+49,800
+
+Long-term marketable securities
+US Treasury securities
+$
+209,961
+
+$
+1,102
+
+$
+—
+
+$
+211,063
+
+Total
+$
+209,961
+
+$
+1,102
+
+$
+—
+
+$
+211,063
+
+Unrealized losses associated with investments in available for sale securities have all been in a continuous unrealized loss position of less than one year as of December 31, 2024 and 2023.
+The gross unrealized gains and losses related to these investments were due primarily to changes in interest rates. Available for sale debt securities with an amortized cost basis in excess of estimated fair value are assessed using the credit losses model for marketable securities to determine what portion of that difference, if any, is caused by expected credit losses. Expected credit losses on available for sale debt securities are recognized in financial income, net on the consolidated statements of operations. During the years ended December 31, 2024 and 2023, the Company did not recognize an allowance for credit losses on available for sale marketable securities.
+
+70
+A short-term bank deposit is a deposit with a maturity of more than three months but less than one year. These deposits bore interest at rates ranging from 
+4.34
+% - 
+5.24
+%, per annum, as of December 31, 2024 and a rate of 
+4.58
+% - 
+6.00
+%, per annum, as of December 31, 2023. Short-term deposits are presented at cost which approximates fair value due to their short maturities.
+f.
+Concentrations of Credit Risks:
+Financial instruments that potentially subject the Company to concentrations of credit risk consist principally of cash, cash equivalents, marketable securities, short-term deposits and trade receivables.
+
+The Company’s cash, cash equivalents, marketable securities and short-term deposits are invested in major banks mainly in the United States but also in France, the United Kingdom, Canada, the Netherlands, Israel, Singapore, Australia, Germany, Ireland and Luxembourg. Such deposits in the United States may be in excess of insured limits and are not insured in other jurisdictions. The Company maintains cash and cash equivalents with reputable financial institutions and monitors the amount of credit exposure to each financial institution.
+
+The Company’s trade receivables are geographically diversified and derived primarily from sales to a network of distributors and value-added resellers ("VARs") mainly in the United States and Europe. Concentration of credit risk with respect to trade receivables is limited by credit limits, ongoing credit evaluation and account monitoring procedures. The Company performs ongoing credit evaluations of its channel partners and establishes an allowance for credit losses based upon a specific review of all significant outstanding invoices, historical collection experience, customer creditworthiness, current, and future economic and market conditions. The Company writes off receivables when they are deemed uncollectible and having exhausted all collection efforts.
+g.
+Fair Value of Financial Instruments:
+Fair value is an exit price, representing the amount that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants. As such, fair value is a market-based measurement that should be determined based on assumptions that market participants would use in pricing an asset or a liability.
+
+A three-tier fair value hierarchy is established as a basis for considering such assumptions and for inputs used in the valuation methodologies in measuring fair value:
+
+•
+Level 1: Observable inputs that reflect quoted prices (unadjusted) for identical assets or liabilities in active markets.
+•
+Level 2: Observable inputs that reflect quoted prices for identical assets or liabilities in markets that are not active; quoted prices for similar assets or liabilities in active markets; inputs other than quoted prices that are observable for the assets or liabilities; or inputs that are derived principally from or corroborated by observable market data by correlation or other means.
+•
+Level 3: Unobservable inputs reflecting the Company's own assumptions incorporated in valuation techniques used to determine fair value. These assumptions are required to be consistent with market participant assumptions that are reasonably available.
+The fair value hierarchy also requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value.
+
+The carrying amounts of cash and cash equivalents, marketable securities, trade receivables, short-term deposits and trade payables approximate their fair value due to the short-term maturity of such instruments.
+
+h.
+ Property and Equipment:
+
+Property and equipment are stated at cost, net of accumulated depreciation. 
+Depreciation is calculated using the straight-line method over the estimated useful lives of the assets at the following annual rates:
+71
+
+Computer equipment
+
+33
+%
+
+Office furniture and equipment
+14
+%
+—
+15
+%
+Leasehold improvements
+
+Over the shorter of the expected lease
+term or estimated useful life
+
+i.
+Leases:
+The Company has various operating leases for office space, vehicles and office equipment. The lease agreements generally do not contain any material residual value guarantees or material restrictive covenants. Some leases include one or more options to renew. The exercise of lease renewal options is typically at the Company's sole discretion; therefore, the majority of renewals to extend the lease terms are not included in our right-of-use assets and lease liabilities as they are not reasonably certain of exercise. The Company regularly evaluates the renewal options, and, when it is reasonably certain of exercise, it will include the renewal period in its lease term. Lease modifications result in remeasurement of the right-of-use assets and lease liabilities. In addition, some of the real estate leases contain variable lease payments, including payments based on a Consumer Price Index ("CPI"). Variable lease payments based on a CPI are initially measured using the index in effect at lease adoption. Additional payments based on the change in a CPI are recorded as a period expense when incurred. Further, as the implicit rate of the leases is not determinable, the Company uses an incremental borrowing rate based on the information available at the lease commencement date in determining the present value of lease payments. The Company has elected the short-term lease exception for leases with a term of 12 months or less and it does not recognize right-of-use assets and lease liabilities on the balance sheet for these leases. The Company also elected the practical expedient to not separate lease and non-lease components for all its leases.
+j.
+Goodwill and Other Long-Lived Assets, including Acquired Intangible Assets and Right-of-Use Assets:
+Goodwill represents the excess of the fair value of purchase consideration in a business combination over the fair value of net tangible and intangible assets acquired. Goodwill amounts are not amortized, but rather tested for impairment at least annually or more often if circumstances indicate that the carrying value may not be recoverable. The Company operates as 
+one
+ reporting segment and considers the enterprise to be the only reporting unit. If the carrying amount of the Company's reporting unit exceeds its fair value, the Company recognizes an impairment loss in an amount equal to that excess, limited to the total amount of goodwill allocated to that reporting unit. No indications of impairment of goodwill were noted during the periods presented.
+Acquired intangible assets consist of identifiable intangible assets, including developed technology and trademarks, resulting from business combinations. Acquired finite-lived intangible assets are initially recorded at fair value and are amortized on a straight-line basis over their estimated useful lives. Amortization expense of developed technology and trademarks are recorded within cost of revenues and sales and marketing, respectively, in the consolidated statements of operations.
+The Company’s long-lived assets are reviewed for impairment in accordance with ASC No. 360 “Property, Plant and Equipment” whenever events or changes in circumstances indicate that the carrying amount of an asset (or asset group) may not be recoverable. Recoverability of assets (or asset group) to be held and used is measured by a comparison of the carrying amount of an asset to the future undiscounted cash flows expected to be generated by the assets. If such assets are considered to be impaired, the impairment to be recognized is measured by the amount by which the carrying amount of the assets exceeds the fair value of the assets.
+ During the years ended December 31, 2024 and 2023, 
+no
+ impairment losses have been recorded.
+k.
+Long-Term Lease Deposits:
+
+Long-term lease deposits include long-term deposits for offices.
+l.
+Contractual Purchase Obligations and Contingent Liabilities:
+
+72
+The Company has a contractual minimum purchase commitment with a service provider through August 31, 2027 totaling $
+7,127
+ due in the next 12 months and $
+21,000
+ due thereafter and an additional $
+32,926
+ contractual minimum purchase commitment with another service provider through December 31, 2026 with no specified annual commitments.
+The Company accounts for its contingent liabilities in accordance with ASC No. 450 “Contingencies.” A provision is recorded when it is both probable that a liability has been incurred and the amount of the loss can be reasonably estimated.
+
+With respect to legal matters, provisions are reviewed and adjusted to reflect the impact of negotiations, estimated settlements, legal rulings, advice of legal counsel and other information and events pertaining to a particular matter. As of December 31, 2024 and 2023, the Company was not a party to any litigation that could have a material adverse effect on the Company’s business, financial position, results of operations or cash flows.
+m.
+Asset Acquisition:
+
+On August 16, 2024, the Company entered into an asset purchase agreement with an unrelated third party. Substantially all of the fair value of the gross assets acquired was concentrated in the single in-process research and development ("IPR&D") asset. Total cash considerations were $
+6,500
+, subject to potential adjustments for any indemnity claims and inclusive of approximately $
+3,250
+ related to contingent payments that are estimated based upon the probability of the contingencies being satisfied. Additionally, the Company incurred approximately $
+153
+ in direct transaction costs related to the asset acquisition. 
+The $
+6,653
+ consideration related to the IPR&D asset was expensed in the year ending December 31, 2024 and included in the Company's consolidated statements of operations under research and development expenses, as the IPR&D asset had no alternative future use.
+
+n.
+Revenue Recognition:
+The Company generates revenues primarily in the form of term license subscriptions, SaaS revenues and maintenance and services fees. Term license subscription revenues are sold on-premises and are comprised of time-based licenses whereby customers use the Company's software (including support and unspecified upgrades and enhancements when and if they are available) for a specified period. SaaS revenues, including SaaS with MDDR, are provided on a subscription basis and allow customers to use hosted software. Over the last few years, the Company has introduced new products and support for cloud applications and infrastructure environments, including the Varonis Data Security Platform delivered as a SaaS, which was previously only sold as a self-hosted solution. Maintenance and services primarily consist of fees for maintenance of past perpetual license sales (including support and unspecified upgrades and enhancements when and if they are available) and to a lesser extent professional services, although the user can benefit from the software without its assistance. The Company sells its products worldwide to a network of distributors and value-added resellers, and payment is typically due within 30 to 60 calendar days of the invoice date.
+The Company recognizes revenues in accordance with ASC No. 606, “Revenue from Contracts with Customers.” As such, the Company identifies a contract with a customer, identifies the performance obligations in the contract, determines the transaction price, allocates the transaction price to each performance obligation in the contract and recognizes revenues when (or as) the Company satisfies a performance obligation.
+Term license subscription software sold on-premises is recognized at the point in time when the software license has been delivered and the benefit of the asset has transferred. Maintenance associated with term license subscription software is recognized ratably over the term of the agreement since these services have a consistent continuous pattern of transfer to a 
+73
+customer during the contract period, and is included within the term license subscriptions line of the consolidated statements of operations. 
+SaaS revenue is recognized ratably over the associated contract period, beginning when access is provided and the benefit of the service is available. Conversions from a license sold on-premises to the Company’s SaaS offering during the original subscription period are accounted for on a prospective basis.
+The Company recognizes revenues from maintenance agreements ratably over the term of the underlying maintenance contract. The term of the maintenance contract is usually 
+one year
+. Renewals of maintenance contracts create new performance obligations that are satisfied over the new term with the revenues recognized ratably over the contract period.
+Revenues from professional services consist mostly of time and material services. The performance obligations are satisfied, and revenues are recognized, when the services are provided or once the service term has expired.
+The Company enters into contracts that can include combinations of products and services, which are generally capable of being distinct and accounted for as separate performance obligations. The term license software is distinct upon delivery as the customer can derive the economic benefit of the software without any additional services, updates or technical support. The Company allocates the transaction price to each performance obligation based on its relative standalone selling price out of the total consideration of the contract. For software licenses and maintenance included in term license subscriptions, the Company determines the standalone selling prices based on the price at which we separately sell a renewal contract. For professional services, the Company determines the standalone selling prices based on the price at which it separately sells those services. 
+Trade receivables are generally recorded at the invoice amount mostly for a one-year period, net of an allowance for credit losses.
+Deferred revenues represent mostly unrecognized fees billed or collected for SaaS and maintenance contracts. Deferred revenues are recognized as (or when) the Company performs under the contract. Pursuant to these contracts, customers are generally not invoiced for subsequent years until the annual renewal occurs. The amount of revenues recognized in the period that was included in the opening deferred revenues balance was $
+177,321
+ for the year ended December 31, 2024.
+Revenues allocated to remaining performance obligations represent contracted revenues that have not yet been recognized, which includes deferred revenues and non-cancelable amounts that will be invoiced in the future. The Company's remaining performance obligations were $
+729,690
+ as of December 31, 2024, of which it expects to recognize approximately 
+53
+% as revenue over the next 
+12
+ months and the remainder thereafter.
+For information regarding disaggregated revenues, refer to Note 13.
+o.
+Contract Costs:
+The Company pays sales commissions to sales and marketing and certain management personnel based on their attainment of certain predetermined sales goals. Sales commissions earned by employees are considered incremental and recoverable costs of obtaining a contract with a customer. Sales commissions paid for initial contracts, which are not commensurate with sales commissions paid for renewal contracts, are capitalized and amortized over an expected period of benefit. Based on its technology, customer contracts and other factors, the Company has determined the expected period of benefit to be approximately 
+four years
+. Sales commissions for renewal contracts are capitalized and then amortized on a straight-line basis. Amortization expenses related to these costs are included in sales and marketing expenses in the accompanying consolidated statements of operations. 
+Deferred sales commissions on the Company’s consolidated balance sheets were $
+57,047
+ and $
+34,342
+ as of December 31, 2024 and 2023, respectively. Amortization expense was $
+54,392
+, $
+53,072
+ and $
+49,366
+ for the years ended December 31, 2024, 2023 and 2022, respectively.
+p.
+Cost of Revenues:
+Cost of revenues consist primarily of salaries (including payroll tax expense related to stock-based compensation), employee benefits (including commissions and bonuses) and stock-based compensation for the Company's customer 
+74
+support, customer success, MDDR and services employees; amortization of acquired intangible assets; third-party hosting fees; travel expenses; and allocated overhead costs for facilities, IT and depreciation.
+
+q.
+Accounting for Stock-Based Compensation:
+
+The Company accounts for stock-based compensation in accordance with ASC No. 718, “Compensation-Stock Compensation.” For stock options and restricted stock units, stock-based compensation expense is measured at the grant date, based on the estimated fair value of the equity award granted, and is recognized as expense on a straight-line basis over the requisite service period. In addition, the Company grants performance stock units to certain employees. The number of performance stock units earned and eligible to vest are generally determined after a 
+one
+-year performance period, based on achievement of certain Company financial performance measures and the recipient’s continued service. The Company recognizes stock-based compensation expense for performance stock units using the graded vesting method over the requisite service period for each separately-vesting tranche of the award when it is probable that the performance conditions will be achieved. Compensation expense for performance stock units with financial performance measures is measured using the fair value at the date of grant and recorded over each vesting period, and may be adjusted over the vesting period based on interim estimates of performance against the pre-set objectives. The Company accounts for forfeitures as they occur for all stock-based awards.
+r.
+Research and Development Costs:
+
+Research and development costs are charged to the statement of operations as incurred. ASC No. 985-20, “Software-Costs of Software to Be Sold, Leased, or Marketed,” requires capitalization of certain software development costs subsequent to the establishment of technological feasibility.
+
+Based on the Company’s product development process, technological feasibility is established upon the completion of a working model. The Company does not incur material costs between the completion of the working model and the point at which the product is ready for general release. Therefore, research and development costs are charged to the statement of operations as incurred.
+
+s.
+Income Taxes:
+
+The Company accounts for income taxes in accordance with ASC No. 740, using the asset and liability method whereby deferred tax assets and liability account balances are determined based on the differences between financial reporting and the tax basis for assets and liabilities and are measured using the enacted tax rates and laws that will be in effect when the differences are expected to reverse. The Company provides a valuation allowance, if necessary, to reduce deferred tax assets to the amounts that are more likely-than-not to be realized.
+
+ASC 740 contains a two-step approach to recognizing and measuring a liability for uncertain tax positions. The first step is to evaluate the tax position taken or expected to be taken in a tax return by determining if the weight of available evidence indicates that it is more likely than not that, on an evaluation of the technical merits, the tax position will be sustained on audit, including resolution of any related appeals or litigation processes. The second step is to measure the tax benefit as the largest amount that is more than 50% likely to be realized upon ultimate settlement. The Company accrues interest and penalties related to unrecognized tax provisions in its taxes on income.
+
+t.
+Derivative Instruments:
+The Company’s primary objective for holding derivative instruments is to reduce its exposure to foreign currency rate changes. The Company reduces its exposure by entering into forward foreign exchange contracts with respect to revenues and operating expenses that are forecasted to be incurred in currencies other than the U.S. dollar. A majority of the Company’s revenues and operating expenditures are transacted in U.S. dollars; however, certain revenues and operating expenditures are incurred in or exposed to other currencies, specifically, Euro and Pound Sterling for revenues and the New Israeli Shekel, Euro and Pound Sterling for operating expenses.
+
+The Company has established forecasted transaction currency risk management programs to protect against fluctuations in fair value and the volatility of future cash flows caused by changes in exchange rates. The Company’s currency risk management program includes forward foreign exchange contracts designated as cash flow hedges. These forward foreign 
+75
+exchange contracts generally mature within 12 to 24 months. In addition, the Company has previously entered into forward contracts to hedge a portion of its monetary items in the balance sheet, such as trade receivables and payables, denominated in Euro and Pound Sterling for short-term periods (the “Fair Value Hedging Program”). The purpose of the Fair Value Hedging Program is to protect the fair value of the monetary assets from foreign exchange rate fluctuations. Gains and losses from derivatives related to the Fair Value Hedging Program are not designated as hedging instruments. The Company does not enter into derivative financial instruments for trading or speculative purposes.
+Derivative instruments measured at fair value and their classification on the consolidated balance sheets are presented in the following table (in thousands):
+
+Assets (liabilities) as of
+Assets (liabilities) as of
+
+December 31, 2024
+December 31, 2023
+
+Notional
+Amount
+Fair
+Value
+Notional
+Amount
+Fair
+Value
+Foreign exchange forward contract derivatives in cash flow hedging relationships for operating expenses included in prepaid expenses and other short-term assets
+$
+131,363
+
+$
+773
+
+$
+128,411
+
+$
+3,372
+
+Foreign exchange forward contract derivatives in cash flow hedging relationships for operating expenses included in accrued expenses and other short-term liabilities
+$
+56,256
+
+$
+(
+2,902
+)
+$
+—
+
+$
+—
+
+Foreign exchange forward contract derivatives in cash flow hedging relationships for operating expenses included in long-term other assets
+$
+96,950
+
+$
+3,083
+
+$
+33,233
+
+$
+519
+
+Foreign exchange forward contract derivatives in cash flow hedging relationships for operating expenses included in long-term other liabilities
+$
+—
+
+$
+—
+
+$
+102,216
+
+$
+(
+1,624
+)
+Foreign exchange forward contract derivatives in cash flow hedging relationships for revenues included in prepaid expenses and other short-term assets
+$
+142,051
+
+$
+7,326
+
+$
+—
+
+$
+—
+
+Foreign exchange forward contract derivatives for monetary items included in prepaid expenses and other short-term assets
+$
+—
+
+$
+—
+
+$
+39,155
+
+$
+36
+
+Foreign exchange forward contract derivatives for monetary items included in accrued expenses and other short-term liabilities
+$
+—
+
+$
+—
+
+$
+5,213
+
+$
+(
+7
+)
+
+For the years ended December 31, 2024, 2023 and 2022, the consolidated statements of operations reflect losses of $
+10,841
+ and $
+14,256
+ and a gain of $
+3,818
+, respectively, related to the cash flow hedges. No material ineffective hedges were recognized for the years ended December 31, 2024, 2023 and 2022 in operating expenses in the consolidated statement of operations.
+For the years ended December 31, 2024, 2023 and 2022, the consolidated statements of operations reflect a gain of $
+728
+, a loss of $
+508
+ and a gain of $
+2,146
+, respectively, in financial income, net, related to the Fair Value Hedging Program.
+
+u.
+Retirement and Severance Pay:
+
+VSI and Varonis U.S. Public Sector LLC ("VPS") make available to its employees a retirement plan (the “U.S. Plan”) that qualifies as a deferred salary arrangement under Section 401(k) of the Internal Revenue Code of 1986, as amended (the "Code"). Participants in the U.S. Plan may elect to defer a portion of their pre-tax earnings, up to the Internal Revenue Service annual contribution limit. VSI and VPS match 
+100
+% of each participant’s contributions up to a maximum of 
+3
+% of the participant’s total pay and 
+50
+% of each participant’s contributions on contributions between 
+3
+% and 
+5
+% of the participant’s total pay. Each participant may contribute up to 
+80
+% of total remuneration up to the Internal Revenue Service’s annual contribution limit. Contributions to the U.S. Plan are recorded during the year contributed as an expense in the consolidated statements of operations.
+
+Varonis Systems Ltd ("VSL") makes available to its employees, pursuant to Israel’s Severance Pay Law, severance pay equal to one month’s salary for each year of employment, or a portion thereof. The employees of the Israeli subsidiary 
+76
+elected to be included under section 14 of the Severance Pay Law, 1963 (“section 14”). According to this section, these employees are entitled only to monthly deposits, at a rate of 
+8.33
+% of their monthly salary, made in their name with insurance companies. Payments in accordance with section 14 release the Company from any future severance payments (under the above Israeli Severance Pay Law) in respect of those employees; therefore, related assets and liabilities are not presented in the balance sheet.
+
+The Company’s liability for severance pay for the employees of its French subsidiary is calculated pursuant to French law, according to which French employees are entitled to an indemnity (a statutory redundancy). The law provides for the payment of severance payment to any employee working for the French subsidiary for at least a year.
+In addition, the Company also makes available pension plans to employees of other subsidiaries in which it operates.
+ Total expenses related to retirement and severance pay amounted to $
+13,774
+, $
+11,707
+ and $
+11,366
+ for the years ended December 31, 2024, 2023 and 2022, respectively. The amount of severance payable included in other liabilities as of December 31, 2024 and 2023 is $
+2,952
+ and $
+2,744
+, respectively.
+
+v.
+Basic and Diluted Net Loss Per Share:
+
+Basic net loss per share is computed by dividing net loss by the weighted-average number of shares of common stock outstanding during the period.
+Diluted net loss per share is computed by giving effect to all potentially dilutive securities, including stock options, restricted stock units, performance stock units and the shares related to the conversion of the 
+1.25
+% Convertible Senior Notes issued by the Company on May 11, 2020 and due August 2025 in an aggregate principal amount of $
+253,000
+ (the "2025 Notes") and the 
+1.00
+% Convertible Senior Notes issued by the Company on September 10, 2024 and due September 2029 in an aggregate principal amount of $
+460,000
+ (the "2029 Notes" and, together with the 2025 Notes, the "Notes"), to the extent dilutive.
+
+Basic and diluted net loss per share was the same for each period presented as the inclusion of all potential shares of common stock outstanding would have been anti-dilutive. There were 
+7,645,858
+, 
+8,824,701
+ and 
+9,054,955
+ potentially dilutive shares from the conversion of outstanding stock options, restricted stock units and performance stock units that were not included in the calculation of diluted net loss per share for the years ending December 31, 2024, 2023 and 2022, respectively. Additionally, 
+14,971,860
+ shares for the year ending December 31, 2024, and 
+8,239,254
+ shares for the years ending December 31, 2023 and 2022, underlying the conversion option of the Notes were not considered in the calculation of diluted net loss per share as the effect would be anti-dilutive for these years.
+
+w.
+Recently Adopted Accounting Pronouncements:
+
+In November 2023, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) 2023-07, Segment Reporting (Topic 280), 
+Improvements to Reportable Segment Disclosures 
+requiring public entities to disclose information about their reportable segments’ significant expenses and other segment items on an interim and annual basis. Public entities with a single reportable segment are required to apply the disclosure requirements in ASU 2023-07, as well as all existing segment disclosures and reconciliation requirements in ASC 280 on an interim and annual basis. ASU 2023-07 is effective for fiscal years beginning after December 15, 2023, and interim periods for the fiscal years beginning after December 15, 2024. The Company adopted the ASU 2023-07 during the year ended December 31, 2024, on a retrospective basis which resulted in updated segment disclosures. See Note 13 in the accompanying notes to the consolidated financial statements for further detail.
+x.
+Recently Issued Accounting Pronouncements Not Yet Adopted:
+In December 2023, the FASB issued ASU 2023-09, Income Taxes (Topic 740) - 
+Improvements to Income Tax Disclosures
+. The ASU requires that an entity disclose specific categories in the effective tax rate reconciliation as well as provide additional information for reconciling items that meet a quantitative threshold. Further, the ASU requires certain disclosures of state versus federal income tax expense and taxes paid. The amendments in this ASU are required to be adopted for fiscal years beginning after December 15, 2024. Early adoption is permitted and the amendments should be applied on a prospective basis. The Company is currently evaluating the effect of adopting the ASU on its disclosures.
+77
+In November 2024, the FASB issued ASU 2024-03, Income Statement-Reporting Comprehensive Income-Expense Disaggregation Disclosures (Subtopic 220-40) - 
+Disaggregation of Income Statement Expenses
+. The ASU requires, among other items, additional disaggregated disclosures in the notes to financial statements for certain categories of expenses that are included on the consolidated Statements of Operations. ASU 2024-03 is effective for fiscal years beginning after December 15, 2026, and for interim periods within fiscal years beginning after December 15, 2027, with early adoption permitted, and may be applied either prospectively or retrospectively. The Company is currently evaluating the effect of adopting the ASU on its disclosures.
+NOTE 3:- 
+PREPAID EXPENSES AND OTHER SHORT-TERM ASSETS
+Prepaid expenses and other short-term assets consist of the following (in thousands):
+
+December 31,
+
+2024
+2023
+Prepaid expenses
+28,540
+
+22,782
+
+Deferred commission
+34,132
+
+21,694
+
+Foreign currency forward contracts derivatives
+8,099
+
+3,408
+
+Government institutions and other receivables
+43,785
+
+15,406
+
+Short-term deposits and other
+2,268
+
+1,036
+
+Prepaid expenses and other short-term assets
+$
+116,824
+
+$
+64,326
+
+NOTE 4:- 
+PROPERTY AND EQUIPMENT, NET
+
+Property and equipment, net consist of the following (in thousands):
+
+December 31,
+
+2024
+2023
+Cost:
+
+Computer equipment
+$
+30,933
+
+$
+27,949
+
+Office furniture and equipment
+6,078
+
+5,661
+
+Leasehold improvements
+45,062
+
+45,878
+
+82,073
+
+79,488
+
+Accumulated depreciation
+51,278
+
+45,524
+
+Property and equipment, net
+$
+30,795
+
+$
+33,964
+
+Depreciation expense of property and equipment, net for the years ended December 31, 2024, 2023 and 2022 were $
+9,863
+, $
+10,177
+ and $
+10,651
+, respectively.
+NOTE 5:- 
+ACCRUED EXPENSES AND OTHER SHORT-TERM LIABILITIES
+Accrued expenses and other short-term liabilities
+ consist of the following (in thousands):
+
+December 31,
+
+2024
+2023
+Government authorities and other
+$
+59,904
+
+$
+40,476
+
+Accrued commissions
+35,868
+
+19,287
+
+Accrued expenses
+30,718
+
+27,055
+
+Employees
+24,693
+
+28,183
+
+Operating lease liabilities, current
+10,845
+
+10,049
+
+Foreign exchange forward contract derivatives
+2,902
+
+7
+
+Accrued expenses and other short-term liabilities
+$
+164,930
+
+$
+125,057
+
+78
+NOTE 6:- 
+LEASES
+
+The Company has various operating leases for office space, vehicles and office equipment that expire through 2032. The lease agreements generally do not contain any material residual value guarantees or material restrictive covenants. Below is a summary of the Company's operating right-of-use assets and operating lease liabilities (in thousands):
+December 31, 2024
+Operating lease right-of-use assets
+$
+45,593
+
+Operating lease liabilities, current
+$
+10,845
+
+Operating lease liabilities, long-term
+42,789
+
+Total operating lease liabilities
+$
+53,634
+
+Operating lease liabilities, current are included within 
+accrued expenses and other short-term liabilities
+ in the consolidated balance sheet. 
+Some leases include one or more options to renew. The exercise of lease renewal options is typically at the Company's sole discretion; therefore, the majority of renewals to extend the lease terms are not included in our right-of-use assets and lease liabilities as they are not reasonably certain of exercise. The Company regularly evaluates the renewal options, and, when it is reasonably certain of exercise, it will include the renewal period in its lease term. Lease modifications result in remeasurement of the right-of-use assets and lease liabilities.
+Some of the real estate leases contain variable lease payments, including payments based on a Consumer Price Index ("CPI"). Variable lease payments based on a CPI are initially measured using the index in effect at lease adoption. Additional payments based on the change in a CPI are recorded as a period expense when incurred. 
+The Company has deposit guarantees issued by a financial institution to secure various operating lease agreements in connection with its office space.
+Minimum lease payments for the Company's right-of-use assets over the remaining lease periods as of December 31, 2024, are as follows (in thousands):
+December 31, 2024
+2025
+$
+12,305
+
+2026
+10,978
+
+2027
+10,174
+
+2028
+10,121
+
+2029
+5,989
+
+Thereafter
+7,925
+
+Total undiscounted lease payments
+$
+57,492
+
+Less: Imputed interest
+$
+(
+3,858
+)
+Present value of lease liabilities
+$
+53,634
+
+As of December 31, 2024, the Company had an additional operating lease that had not yet commenced of $
+9,040
+. This operating lease is expected to commence in the second half of 2025 with a lease term of 
+5
+ years.
+
+The weighted average remaining lease terms and discount rates for all operating leases were as follows as of December 31, 2024 and 2023:
+79
+December 31,
+2024
+2023
+Weighted average remaining lease term (years)
+5.39
+6.34
+Weighted average discount rate
+2.89
+
+%
+2.90
+
+%
+Total operating lease cost for the years ended December 31, 2024 and 2023 were $
+9,812
+ and $
+9,803
+, inclusive of sublease income of $
+1,154
+ and $
+1,772
+, respectively. Total operating lease cost for the year ended December 31, 2022 was $
+9,593
+.
+N
+OTE 7:- 
+CONVERTIBLE SENIOR NOTES AND CAPPED CALL TRANSACTIONS
+2025 Notes
+The Company issued the 2025 Notes pursuant to an Indenture dated May 11, 2020 (the “2025 Indenture”). The offering totaled $
+253,000
+ aggregate principal amount. The net proceeds to the Company after issuance costs were approximately $
+245,158
+. The Company used $
+29,348
+ of the net proceeds from the offering to pay the cost of the capped call transactions described below.
+The 2025 Notes will mature on August 15, 2025, unless earlier converted, redeemed or repurchased. Interest will be payable semi-annually in arrears on February 15 and August 15 of each year, at a rate of 
+1.25
+% per year.
+The initial conversion rate for the 2025 Notes is 32.5668 shares of the Company’s common stock for each $1,000 principal amount of the 2025 Notes, which is equivalent to an initial conversion price of approximately $
+30.71
+ per share. The conversion rate is subject to adjustment in specified events. The 2025 Notes are convertible into shares of the Company’s common stock, at the option of a holder, prior to the close of business on the business day immediately preceding February 15, 2025, under certain conditions. 
+In addition, on or after February 15, 2025, a holder may convert all or any portion of its 2025 Notes at any time. As of December 31, 2024, the conversion feature of the 2025 Notes was triggered and therefore the 2025 Notes are currently convertible, in whole or in part, at the option of the holders as of January 1, 2025. Since the issuance of the 2025 Notes, the Company has received and settled conversion notices from holders of $
+1,501
+. Upon conversion, the Company may elect to repay the 2025 Notes in cash, shares of common stock, or a combination of both. As of December 31, 2024, the 2025 Notes mature in less than one year, as such, the 2025 Notes were classified as short-term on the Company's consolidated balance sheet.
+Effective August 20, 2023, the Company may redeem the 2025 Notes for cash, at its option, subject to the terms and conditions provided in the 2025 Indenture.
+Prior to the adoption of ASU 2020-06 on January 1, 2022, the Company separated the 2025 Notes into liability and equity components. Following the adoption of ASU 2020-06 on January 1, 2022, which the Company elected to adopt using a modified retrospective approach, the Company no longer separates the 2025 Notes into liability and equity components. The cumulative effect of the accounting change as of January 1, 2022 was a decrease to accumulated deficit of $
+8,647
+, a decrease in additional paid-in capital of $
+30,794
+ and an increase in liabilities of $
+22,147
+ on its consolidated balance sheets.
+2029 Notes
+The Company issued $
+460,000
+ aggregate principal amount of 
+1.00
+% Convertible Senior Notes due September 2029 pursuant to an Indenture dated September 10, 2024 (the “2029 Indenture”), between the Company and U.S. Bank Trust Company, as trustee. The offering consisted of $
+400,000
+ aggregate principal amount plus the full exercise of the initial purchasers’ option to purchase up to an additional $
+60,000
+ aggregate principal amount. The net proceeds to the Company after issuance costs were $
+449,635
+. Separately, the Company entered into privately negotiated capped call transactions and used $
+55,522
+ of the net proceeds from the offering to pay the cost of the capped call transactions as described below.
+The 2029 Notes will mature on September 15, 2029, unless earlier converted, redeemed or repurchased. Interest will be payable semi-annually in arrears on March 15 and September 15 of each year, beginning on March 15, 2025, at a rate of 
+1.00
+% per year.
+80
+The initial conversion rate for the 2029 Notes is 14.7419 shares of the Company’s common stock for each $1,000 principal amount of the 2029 Notes which is equivalent to an initial conversion price of approximately $
+67.83
+ per share. The conversion rate is subject to adjustment in specified events. The 2029 Notes are convertible into shares of the Company’s common stock, par value $
+0.001
+ per share, at the option of a holder, prior to the close of business on the business day immediately preceding March 15, 2029, only under the following circumstances:
+(1) during any calendar quarter commencing after the calendar quarter ending on December 31, 2024 (and only during such calendar quarter), if the last reported sale price of the common stock for at least 
+20
+ trading days (whether or not consecutive) during the 
+30
+ consecutive trading days ending on, and including, the last trading day of the immediately preceding calendar quarter is greater than or equal to 
+130
+% of the conversion price on each applicable trading day;
+(2) during the 
+five
+ consecutive business day period immediately after any 
+five
+ consecutive trading day period (the “measurement period”) in which the “trading price” (as defined in the 2029 Indenture) per $1,000 principal amount of the 2029 Notes, as determined following a request by a holder of the 2029 Notes in the manner described in the 2029 Indenture, for each trading day of the measurement period was less than 
+98
+% of the product of the last reported sale price of the Company’s common stock and the conversion rate on each such trading day;
+(3) if the Company calls any or all of the 2029 Notes for redemption, at any time prior to the close of business on the scheduled trading day immediately preceding the redemption date; or
+(4) upon the occurrence of certain corporate events specified in the 2029 Indenture.
+In addition, regardless of the foregoing circumstances, on or after March 15, 2029 until the close of business on the second scheduled trading day immediately preceding the maturity date, a holder may convert all or any portion of its 2029 Notes at any time. Upon conversion, the Company may elect to repay the 2029 Notes in cash, shares of common stock, or a combination of both. As of December 31, 2024, the 2029 Notes were classified as long-term on the Company's consolidated balance sheet.
+The 2029 Notes are not redeemable at the Company’s option prior to September 20, 2027. The Company may redeem the 2029 Notes for cash, at its option, on a redemption date occurring on or after September 20, 2027, and on or prior to the 41st scheduled trading day immediately preceding the maturity date, if the last reported sale price of the Company’s common stock has been at least 
+130
+% of the conversion price then in effect for at least 
+20
+ trading days (whether or not consecutive), including the trading day immediately preceding the date on which the Company provides notice of redemption, during any 
+30
+ consecutive trading day period ending on and including the trading day immediately preceding the date on which the Company provides notice of redemption at a redemption price equal to 
+100
+% of the principal amount of the 2029 Notes to be redeemed, plus accrued and unpaid interest to, but excluding, the redemption date.
+If the Company undergoes a “fundamental change” (as defined in the 2029 Indenture), subject to certain conditions, holders may require the Company to repurchase for cash all or part of their 2029 Notes at a fundamental change repurchase price equal to 
+100
+% of the principal amount of the 2029 Notes to be repurchased, plus accrued and unpaid interest to, but excluding, the fundamental change repurchase date. If the Company is required to repurchase the 2029 Notes due to a fundamental change, it remains at the Company’s discretion to determine whether the settlement is in cash, shares of the Company’s common stock, or a combination of cash and shares of the Company’s common stock.
+The 2029 Indenture includes customary terms, including certain events of default after which the 2029 Notes may be due and payable immediately. The 2029 Notes are the Company’s unsecured obligations and rank senior in right of payment to all of the Company’s indebtedness that is expressly subordinated in right of payment to the 2029 Notes, and equal in right of payment with all of the Company’s liabilities that are not so subordinated, including the Company’s 2025 Notes.
+The Company accounts for the 2029 Notes as a single liability measured at it amortized cost. The carrying value of the liability is represented by the face amount of the 2029 Notes, less debt issuance costs. The total offering costs upon issuance of the 2029 Notes were $
+10,365
+ and are amortized as interest expense over the term of the 2029 Notes, using the effective interest rate method.
+The net carrying amount of the Notes were as follows (in thousands):
+81
+December 31, 2024
+2025 Notes
+2029 Notes
+Total
+Liability
+Principal
+$
+251,494
+
+$
+460,000
+
+$
+711,494
+
+Unamortized issuance costs
+(
+965
+)
+(
+9,757
+)
+(
+10,722
+)
+Net carrying amount
+$
+250,529
+
+$
+450,243
+
+$
+700,772
+
+The effective interest rate for the year ended December 31, 2024 was 
+1.87
+% and 
+1.46
+% for the 2025 and 2029 Notes, respectively. 
+The interest expense recognized related to the Notes for the years ended December 31, 2024, 2023 and 2022 were as follows (in thousands):
+Year ended December 31,
+2024
+2025 Notes
+2029 Notes
+Total
+Contractual interest expense
+$
+3,159
+
+$
+1,406
+
+$
+4,565
+
+Amortization of debt issuance costs
+1,550
+
+594
+
+2,144
+
+Total
+$
+4,709
+
+$
+2,000
+
+$
+6,709
+
+Year ended December 31,
+2023
+2025 Notes
+2029 Notes
+Total
+Contractual interest expense
+$
+3,163
+
+$
+—
+
+$
+3,163
+
+Amortization of debt issuance costs
+1,514
+
+—
+
+1,514
+
+Total
+$
+4,677
+
+$
+—
+
+$
+4,677
+
+Year ended December 31,
+2022
+2025 Notes
+2029 Notes
+Total
+Contractual interest expense
+$
+3,162
+
+$
+—
+
+$
+3,162
+
+Amortization of debt issuance costs
+1,486
+
+—
+
+1,486
+
+Total
+$
+4,648
+
+$
+—
+
+$
+4,648
+
+As of December 31, 2024 and 2023, the total estimated fair value of the 2025 Notes was approximately $
+374,412
+ and $
+386,201
+, respectively. As of December 31, 2024, the total estimated fair value of the 2029 Notes was approximately $
+431,851
+. The fair values were determined based on the closing trading price per $100 of the Notes as of the last day of trading for the period. The fair values of the Notes are primarily affected by the trading price of our common stock and market interest rates. The fair values of the Notes are considered a Level 2 within the fair value hierarchy and were determined based on inputs that are observable in the market or that could be derived from, or corroborated with, observable market data, quoted price of the Notes in an over-the-counter market.
+Capped Call Transactions
+In May 2020 and September 2024, in connection with the pricing of the 2025 and 2029 Notes, respectively, the Company entered into privately negotiated capped call transactions (the “Capped Call Transactions”). The Capped Call Transactions are generally expected to reduce the potential dilution to the Company’s common stock upon any conversion of the Notes and/or offset any cash payments the Company is required to make in excess of the principal amount of converted Notes, as the case may be, with such reduction and/or offset subject to a cap initially equal to $
+47.24
+ and $
+104.36
+, for the 2025 and 2029 Notes, respectively, (the "Cap Price").  
+The Capped Call Transactions are considered a freestanding instrument in accordance with ASC No. 480, "Distinguishing Liabilities from Equity", as they were entered into separately and apart from the convertible notes and since the conversion or redemption of the convertible notes does not automatically result in the exercise of the capped call. As the 
+82
+Capped Call Transactions are considered indexed to the Company's stock and are considered equity classified, they are recorded in stockholders’ equity on the consolidated balance sheet and are not accounted for as derivatives. The cost of the Capped Call Transactions for the 2025 and 2029 Notes were approximately $
+29,348
+ and $
+55,522
+, respectively, and were recorded as a reduction to additional paid-in capital.
+N
+OTE 8:- 
+GOODWILL AND INTANGIBLE ASSETS
+On October 29, 2020, the Company completed the acquisition of the share capital of Polyrize, a provider of software that maps and analyzes relationships between users and data across a number of cloud applications and services.
+Goodwill
+Goodwill represents the excess of the purchase price over the identifiable tangible and intangible assets acquired less liabilities assumed arising from business combinations. The Company believes the goodwill represents the synergies expected from expanded market opportunities when integrating with its offerings.
+All goodwill balances are subject to annual goodwill impairment testing. As of December 31, 2024, the Company concluded that no impairment for goodwill was required. Additionally, there were no additions or any other changes to the carrying amount of goodwill during the years ended December 31, 2024 and 2023.
+Intangible Assets
+Intangible assets are expensed on a straight-line basis over the useful life of the asset. The Company recorded amortization expense of $
+1,263
+, $
+1,525
+ and $
+1,525
+ for the years ended December 31, 2024, 2023 and 2022, respectively. As of December 31, 2024, all of the Company's intangible assets were fully amortized.
+83
+N
+OTE 9:- 
+FAIR VALUE MEASUREMENTS
+The Company evaluates assets and liabilities subject to fair value measurements on a recurring basis to determine the appropriate level to classify them for each reporting period. There have been no transfers between fair value measurements levels during the years ended December 31, 2024 and 2023. The carrying amounts of cash and cash equivalents, marketable securities, trade receivables, short-term deposits and trade payables approximate their fair value due to the short-term maturity of such instruments.
+The following table sets forth the Company’s assets and liabilities that were measured at fair value as of December 31, 2024 and 2023 by level within the fair value hierarchy (in thousands):
+
+As of December 31, 2024
+As of December 31, 2023
+
+Level I
+Level
+II
+Level
+III
+Total Fair
+Value
+Level I
+Level
+II
+Level
+III
+Total Fair
+Value
+Financial assets:
+
+Cash equivalents:
+
+Money market funds
+$
+133,113
+
+$
+—
+
+$
+—
+
+$
+133,113
+
+$
+164,848
+
+$
+—
+
+$
+—
+
+$
+164,848
+
+Marketable securities:
+US Treasury securities
+—
+
+343,383
+
+—
+
+343,383
+
+—
+
+243,162
+
+—
+
+243,162
+
+US Government Agency securities
+—
+
+—
+
+—
+
+—
+
+—
+
+10,013
+
+—
+
+10,013
+
+Prepaid expenses and other short-term assets:
+Forward foreign exchange contracts
+—
+
+8,099
+
+—
+
+8,099
+
+—
+
+3,408
+
+—
+
+3,408
+
+Long-term marketable securities:
+US Treasury securities
+—
+
+658,896
+
+—
+
+658,896
+
+—
+
+211,063
+
+—
+
+211,063
+
+Long-term other assets:
+Forward foreign exchange contracts
+—
+
+3,083
+
+—
+
+3,083
+
+—
+
+519
+
+—
+
+519
+
+Financial liabilities:
+Accrued expenses and other short-term liabilities:
+Forward foreign exchange contracts
+—
+
+(
+2,902
+)
+—
+
+(
+2,902
+)
+—
+
+(
+7
+)
+—
+
+(
+7
+)
+Long-term other liabilities:
+Forward foreign exchange contracts
+—
+
+—
+
+—
+
+—
+
+—
+
+(
+1,624
+)
+—
+
+(
+1,624
+)
+Total financial assets (liabilities), net
+$
+133,113
+
+$
+1,010,559
+
+$
+—
+
+$
+1,143,672
+
+$
+164,848
+
+$
+466,534
+
+$
+—
+
+$
+631,382
+
+See Note 7 “Convertible Senior Notes and Capped Call Transactions” for the carrying amount and estimated fair value of the Company's Notes as of December 31, 2024. Marketable securities are classified within Level 2 as these assets are valued using alternative pricing sources utilizing market observable inputs.
+NOTE  10:- 
+STOCKHOLDERS’ EQUITY
+
+a.
+Common stock rights:
+
+The Company’s Amended and Restated Certificate of Incorporation authorizes the Company to issue 
+200,000,000
+ shares of common stock, par value $
+0.001
+ per share.
+
+84
+The common stock confers upon its holders the right to participate in the general meetings of the Company, to vote at such meetings (each share represents 
+one
+ vote), to elect board members and to participate in any distribution of dividends or any other distribution of the Company’s property, including the distribution of surplus assets upon liquidation.
+b.
+Stock option plans:
+
+On November 14, 2013, the Company’s board of directors adopted the Varonis Systems, Inc. 2013 Omnibus Equity Incentive Plan (the “2013 Plan”) which was subsequently approved by the Company’s stockholders. The Company initially reserved 
+5,713,899
+ shares of common stock for issuance under the 2013 Plan to employees, directors, officers and consultants of the Company and its subsidiaries. Since January 1, 2016, the share reserve under the 2013 Plan has been automatically increased by an aggregate of 
+27,579,672
+ shares. Awards granted under the 2013 Plan generally vest over 
+four years
+. 
+No
+ awards were granted under the 2013 Plan subsequent to June 5, 2023, and 
+no
+ further awards will be granted under the 2013 Plan.
+On October 22, 2020, and as part of the Polyrize Security Ltd. ("Polyrize") acquisition, the Company’s board of directors approved the assumption of a certain portion of Polyrize Options pursuant to the terms and conditions of the Polyrize 2019 Share Incentive (“Polyrize Plan”). 
+No
+ further awards were or will be granted under the Polyrize Plan.
+On April 20, 2023, the Company’s board of directors adopted the Varonis Systems, Inc. 2023 Omnibus Equity Incentive Plan (the “2023 Plan”), subject to approval by our stockholders. On June 5, 2023, the Company’s stockholders approved the 2023 Plan which became effective and replaced the 2013 Plan. The Company initially reserved 
+5,500,000
+ shares of common stock for issuance under the 2023 Plan to employees, directors, officers and consultants of the Company and its subsidiaries. On June 3, 2024, the Company’s stockholders approved an additional 
+4,400,000
+ shares under the 2023 Plan.
+
+A summary of employees’ stock options activities during the year ended December 31, 2024 is as follows:
+
+Year ended
+
+December 31, 2024
+
+Number
+Weighted
+average
+exercise
+price
+Aggregate
+intrinsic
+value
+(in thousands)
+Weighted
+average
+remaining
+contractual
+life (years)
+Options outstanding as of January 1, 2024
+573,430
+
+$
+7.564
+
+$
+21,627
+
+0.962 
+Granted
+—
+
+$
+—
+
+Exercised
+(
+570,064
+)
+$
+7.575
+
+Forfeited and expired
+—
+
+$
+—
+
+Options outstanding and exercisable as of December 31, 2024
+3,366
+
+$
+5.682
+
+$
+130
+
+3.490 
+There were 
+no
+ options granted in 2024 pursuant to the 2013 Plan, Polyrize Plan or 2023 Plan (collectively "Stock Plans").
+The aggregate intrinsic value in the table above represents the total intrinsic value that would have been received by the option holders had all option holders exercised their options on the last date of the period. Total intrinsic value of options exercised for the years ended December 31, 2024, 2023 and 2022 was $
+22,174
+, $
+2,469
+ and $
+1,612
+, respectively. As of December 31, 2024 there was 
+no
+ unrecognized compensation cost related to employees and non-employees unvested stock options as all options have vested.
+c.
+Restricted stock units ("RSUs") and performance stock units ("PSUs"):
+
+A summary of RSUs and PSUs for employees, consultants and non-employee directors of the Company for the year ended December 31, 2024 is as follows:
+85
+
+Number of shares
+underlying outstanding
+RSUs and PSUs
+Weighted-average
+grant date
+fair value
+Unvested balance as of January 1, 2024
+8,234,171
+
+$
+36.83
+
+Granted
+3,864,327
+
+$
+43.38
+
+Vested
+(
+3,224,561
+)
+$
+39.75
+
+Forfeited
+(
+1,231,445
+)
+$
+38.78
+
+Unvested balance as of December 31, 2024
+7,642,492
+
+$
+38.60
+
+As of December 31, 2024 and 2023, there was $
+181,874
+ and $
+209,546
+, respectively, of total unrecognized compensation cost related to employees and non-employees unvested restricted stock units and performance stock units which is expected to be recognized over a weighted-average period of 2.082 and 2.305 years, respectively.
+The Company grants performance stock units to certain employees under its Stock Plans. The number of performance stock units earned and eligible to vest are generally determined after a 
+one
+-year performance period, based on achievement of certain Company financial performance measures and the recipient’s continued service. The Company recognizes stock-based compensation expense for performance stock units using the graded vesting method over the requisite service period for each separately-vesting tranche of the award when it is probable that the performance conditions will be achieved. Compensation expense for performance stock units with financial performance measures is measured using the fair value at the date of grant and recorded over each vesting period, and may be adjusted over the vesting period based on interim estimates of performance against the pre-set objectives.
+d.
+2015 Employee Stock Purchase Plan
+On May 5, 2015, the Company’s stockholders approved the Varonis Systems, Inc. 2015 Employee Stock Purchase Plan (the “ESPP”), which the Company’s board of directors had adopted on March 19, 2015. The ESPP became effective as of June 30, 2015. The ESPP allows eligible employees to purchase shares of the Company’s common stock at a discount through payroll deductions of up to 
+15
+% of their eligible compensation, at not less than 
+85
+% of the fair market value of the Company’s common stock on the first day or last trading day in the offering period, subject to any plan limitations. The Company initially reserved 
+1,500,000
+ shares of common stock for issuance under the ESPP. The number of shares available for issuance under the ESPP was increased on January 1, 2016 and has been, and will be, increased each January 1 thereafter, by an amount equal to the lesser of (i) one percent (
+1
+%) of the number of shares of common stock issued and outstanding on each December 31 immediately prior to the date of increase, except that the amount of each such increase will be limited to the number of shares of common stock necessary to bring the total number of shares of common stock available for issuance under the ESPP to two percent (
+2
+%) of the number of shares of common stock issued and outstanding on each such December 31, or (ii) 
+1,200,000
+ shares of common stock. Since January 1, 2016, the share reserve under the ESPP has been automatically increased by an aggregate of 
+3,908,910
+ shares. The ESPP will continue in effect until the earlier of (i) the date when no shares of common stock are available for issuance thereunder or (ii) June 30, 2025; unless terminated prior thereto by the Company’s board of directors or compensation committee, each of which has the right to terminate the ESPP at any time.
+e.
+Stock-based compensation expense for employees and consultants:
+
+The Company recognized stock-based compensation expense in the consolidated statements of operations as follows (in thousands):
+86
+
+Year ended
+
+December 31,
+
+2024
+2023
+2022
+Cost of revenues
+$
+5,192
+
+$
+7,221
+
+$
+10,720
+
+Research and development
+41,766
+
+48,679
+
+50,971
+
+Sales and marketing
+41,494
+
+48,047
+
+51,793
+
+General and administrative
+38,230
+
+35,872
+
+29,378
+
+Total
+$
+126,682
+
+$
+139,819
+
+$
+142,862
+
+f.
+Share Repurchase Program:
+In October 2022, the Company's board of directors authorized a share repurchase program of up to $
+100,000
+ of the Company’s common stock (the “Share Repurchase Program”). Under the Share Repurchase Program, the Company was authorized to repurchase shares through open market purchases, privately-negotiated transactions or otherwise in accordance with applicable federal securities laws, including through Rule 10b5-1 trading plans and under Rule 10b-18 of the Exchange Act. The Share Repurchase Program expired on October 31, 2023. 
+The Company repurchased and subsequently retired 
+4,415,093
+ shares under its Share Repurchase Program, for a total of $
+99,967
+. There were 
+no
+ shares repurchased for the year ended December 31, 2024.
+NOTE 11:- 
+INCOME TAXES 
+
+a.
+U.S. Tax Reform:
+On December 22, 2017, the Tax Cuts and Jobs Act (the "TCJA") was signed into law. The TCJA makes broad and complex changes to the Code that impact the Company's provision for income taxes. The changes include, but are not limited to:
+•
+Decreasing the corporate income tax rate from 35% to 21% effective for tax years beginning after December 31, 2017 (“Rate Reduction”); and
+•
+Taxation of GILTI earned by foreign subsidiaries beginning after December 31, 2017. The GILTI tax imposes a tax on foreign income in excess of a deemed return on tangible assets of foreign corporations.
+•
+Beginning in 2022, the TCJA requires taxpayers to capitalize research and development expenses with amortization periods over five and fifteen years, which has increased the Company's tax liability in the U.S. As the Company has a valuation allowance against its deferred tax assets, including capitalized research and development costs, the taxable income in the United States has increased to account for the capitalization of research and development costs starting in 2022.
+GILTI Tax
+Certain income (i.e., GILTI) earned by controlled foreign corporations (“CFCs”) must be included currently in the gross income of the CFCs’ U.S. shareholder. GILTI is the excess of the shareholder’s “net CFC tested income” over the net deemed tangible income return, which is the excess of (1) 10 percent of the aggregate of the U.S. shareholder’s pro rata share of the qualified business asset investment of each CFC with respect to which it is a U.S. shareholder, over (2) the amount of certain interest expense taken into account in the determination of net CFC-tested income.
+For 2024, the Company is not subject to tax on account of GILTI as it has net CFC tested loss on an aggregated basis.
+Accounting for the TCJA
+The Company accounted for the tax impact related to the TCJA and believes its analysis to be completed. The Company recognizes that the IRS is continuing to publish and finalize ongoing guidance which may modify accounting 
+87
+interpretation for the TCJA. The Company would look to account for these impacts in the period of such change is enacted.
+b.
+The Company:
+
+The Company is taxed in accordance with U.S. tax laws.
+As of December 31, 2024, the Company had gross federal net operating loss ("NOL") carry-forwards of approximately $
+134,330
+, all of which can be carried forward indefinitely but can only be used to offset 80% of taxable income. As of December 31, 2024, the Company had NOL carry-forwards for state and foreign income tax purposes of approximately $
+141,221
+ and $
+49,459
+, respectively. State NOL carry-forwards of $
+111,542
+ expire between 2027-2044 and the remainder do not expire. Foreign NOL carry-forwards do not expire. In addition, as of December 31, 2024, the Company had federal research credit carryforwards of approximately $
+7,299
+. If not utilized, the federal tax carryforwards will begin to expire in 2041. 
+A U.S. corporation's ability to utilize its federal and state NOL and tax credit carryforwards to offset its taxable income is limited under Section 382 and Section 383 of the Code if the corporation undergoes an ownership change (within the meaning of Code Section 382). In general, an “ownership change” occurs whenever the percentage of the stock of a corporation owned by “5-percent shareholders” (within the meaning of Code Section 382) increases by more than 50 percentage points over the lowest percentage of the stock of such corporation owned by such “5-percent shareholders” at any time over the testing period.
+An ownership change within the meaning of Code Section 382 would establish an annual limitation to the amount of federal and state NOL and tax credit carryforwards the Company could utilize to offset its taxable income or income tax in any single year. The annual limitation may result in the expiration of state net operating losses and federal and state credits before utilization and in the event we have a change of ownership, utilization of the carryforwards could be restricted.
+c.
+Loss before taxes on income is comprised as follows (in thousands): 
+
+Year ended
+
+December 31,
+
+2024
+2023
+2022
+Domestic
+$
+(
+19,840
+)
+$
+(
+21,491
+)
+$
+(
+75,422
+)
+Foreign
+(
+63,167
+)
+(
+65,427
+)
+(
+35,393
+)
+
+$
+(
+83,007
+)
+$
+(
+86,918
+)
+$
+(
+110,815
+)
+
+d.
+Taxes on income (loss) are comprised as follows (in thousands):
+88
+
+Year ended
+
+December 31,
+
+2024
+2023
+2022
+Current:
+
+Domestic:
+
+Federal
+$
+15
+
+$
+(
+1,077
+)
+$
+3,008
+
+State
+1,511
+
+2,420
+
+1,314
+
+Foreign
+11,214
+
+12,569
+
+9,123
+
+Total current income tax
+$
+12,740
+
+$
+13,912
+
+$
+13,445
+
+Deferred:
+Domestic:
+Federal
+$
+62
+
+$
+61
+
+$
+83
+
+State
+12
+
+21
+
+13
+
+Foreign
+(
+56
+)
+4
+
+162
+
+Total deferred income tax
+$
+18
+
+$
+86
+
+$
+258
+
+Income tax expense
+$
+12,758
+
+$
+13,998
+
+$
+13,703
+
+e.
+Deferred income taxes:
+
+Deferred income taxes reflect the net tax effects of temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes. The Company’s deferred tax assets are derived from its U.S. NOL carry-forwards and other temporary differences.
+ASC 740 requires an assessment of both positive and negative evidence concerning the realizability of our deferred tax assets in each jurisdiction. After considering evidence such as current and cumulative financial reporting incomes, the expected sources of future taxable income and tax planning strategies, the Company’s management concluded that a valuation allowance is required in the United States and some foreign jurisdictions. A net deferred tax liability of $
+434
+ was recorded as of December 31, 2024. Future changes in these factors, including the Company’s anticipated results, could have a significant impact on the realization of the deferred tax assets which would result in an increase or decrease to the valuation allowance and a corresponding charge to income tax expense. The Company reevaluates the judgements surrounding its estimates and makes adjustments as appropriate each reporting period.
+Significant components of our deferred tax assets and liabilities as of December 31, 2024 and 2023 are as follows (in thousands):
+89
+
+December 31,
+
+2024
+2023
+Deferred tax assets:
+Carry forward losses and credits
+$
+42,218
+
+$
+35,050
+
+Deferred revenues
+—
+
+33,408
+
+Accrued payroll, commissions, vacation
+14,409
+
+8,473
+
+Equity compensation
+36,169
+
+33,435
+
+Allowance for credit losses
+2,521
+
+867
+
+Accrued severance pay
+240
+
+273
+
+Operating lease liabilities
+7,226
+
+11,786
+
+Section 174 capitalized costs
+91,706
+
+59,321
+
+Other
+5,367
+
+4,079
+
+Deferred tax assets before valuation allowance
+199,856
+
+186,692
+
+Valuation allowance
+(
+181,124
+)
+(
+169,474
+)
+Deferred tax assets
+$
+18,732
+
+$
+17,218
+
+Deferred tax liability:
+Deferred commissions
+$
+(
+12,548
+)
+$
+(
+6,830
+)
+Operating lease right-of-use assets
+(
+5,373
+)
+(
+9,760
+)
+Other
+(
+1,245
+)
+(
+1,069
+)
+Deferred tax liability
+$
+(
+19,166
+)
+$
+(
+17,659
+)
+Net deferred tax asset (liability)
+$
+(
+434
+)
+$
+(
+441
+)
+
+The change in the valuation allowance was an increase of $
+11,650
+ and $
+26,911
+ during 2024 and 2023, respectively.
+f.
+Reconciliation of the theoretical tax expenses:
+90
+
+A reconciliation between the theoretical tax expense, assuming all income is taxed at the statutory tax rate applicable to income of the Company, and the actual tax expense as reported in the consolidated statements of operations is as follows (in thousands, except tax rate):
+
+Year ended December 31,
+
+2024
+2023
+2022
+Loss before taxes, as reported in the consolidated statements of operations
+$
+(
+83,007
+)
+$
+(
+86,918
+)
+$
+(
+110,815
+)
+Statutory tax rate
+21
+
+%
+21
+
+%
+21
+
+%
+Theoretical tax benefits on the above amount at the US statutory tax rate
+$
+(
+17,431
+)
+$
+(
+18,253
+)
+$
+(
+23,271
+)
+Income tax at rate other than the U.S. statutory tax rate
+3,207
+
+6,954
+
+10,404
+
+Non-deductible expenses including equity based compensation expenses
+(
+339
+)
+(
+3,983
+)
+941
+
+Operating losses and other temporary differences for which valuation allowance was provided
+12,096
+
+27,291
+
+18,201
+
+Research and development tax credit
+(
+2,525
+)
+(
+1,516
+)
+—
+
+State tax
+(
+1,204
+)
+(
+1,780
+)
+(
+1,301
+)
+Impact of rate change
+999
+
+(
+3,199
+)
+(
+207
+)
+Change in tax reserve for uncertain tax positions
+17,083
+
+7,869
+
+7,785
+
+Other individually immaterial income tax items
+872
+
+615
+
+1,151
+
+Actual tax expense
+$
+12,758
+
+$
+13,998
+
+$
+13,703
+
+g.
+A reconciliation of the beginning and ending amounts of unrecognized tax benefits, including interest and penalties, in the years ended December 31, 2024 and 2023 are as follows (in thousands):
+
+Gross unrecognized tax benefits as of January 1, 2023
+$
+17,324
+
+Increase in tax position for current year
+9,528
+
+Increase in tax position for prior years
+1,937
+
+Decrease in tax position for prior years
+(
+3,596
+)
+Gross unrecognized tax benefits as of December 31, 2023
+$
+25,193
+
+Increase in tax position for current year
+10,487
+
+Increase in tax position for prior years
+7,088
+
+Decrease in tax position for prior years
+(
+287
+)
+Decrease for lapse of statute of limitations/settlements
+(
+205
+)
+Gross unrecognized tax benefits as of December 31, 2024
+$
+42,276
+
+There was $
+42,276
+ of unrecognized income tax benefits that, if recognized, approximately $
+33,273
+ would impact the effective tax rate after consideration of valuation allowance on deferred tax assets in the period in which each of the benefits is recognized. The Company includes interest and penalties related to unrecognized tax benefits within the provision for income taxes on the consolidated statements of operations. The total amount of interest and penalties is approximately $
+2,980
+ as of December 31, 2024, which is included in the table above.
+h.
+Foreign taxation:
+91
+
+1. Israeli tax benefits under the Law for the Encouragement of Capital Investments, 1959 (the “Investment Law”):
+
+VSL has utilized various benefits under the Investment Law. Those benefits relate only to taxable income attributable to the specific investment program and are conditioned upon meeting the terms stipulated in the Investment Law, the related regulations and the applicable certificate of approval. If VSL does not fulfill these conditions, in whole or in part, the benefits will most likely be cancelled, and VSL may be required to refund the benefits, in an amount linked to the Israeli consumer price index plus interest.
+
+If cash dividends are distributed out of tax-exempt profits in a manner other than upon complete liquidation, VSL will then become liable for tax at the rate of 
+10
+% - 
+25
+% (depending on the level of foreign investments in VSL) in respect of the amount distributed.
+
+2. Undistributed earnings of foreign subsidiaries:
+In general, it is the Company’s practice and intention to reinvest the earnings of its non-U.S. subsidiaries in those operations. Undistributed earnings, if any, of foreign subsidiaries are immaterial for all periods presented. Because the Company’s non-U.S. subsidiary earnings have previously been included in the computation of the one-time Transition Tax on foreign earnings required by the TCJA and throughout the years have been included in the GILTI computations, any additional taxes due with respect to such earnings or the excess of the amount for financial reporting over the tax basis of its foreign investments would generally be limited to foreign withholding taxes and/or U.S. state income taxes. 
+
+i.
+Tax assessments:
+
+As of December 31, 2024, the Company's federal tax returns for the years 2010 through the current period, excluding the 2016 tax year which was audited by the Internal Revenue Service, and most state tax returns for the years 2009 through the current period, are still open to examination. The Company remains open to examination to the extent net carry-over unused operating losses and tax credit attributable to those years remain unutilized.
+During 2023, the Israeli Tax Authority initiated an income and value added tax audit for the years 2020-2022. 
+
+The Company has final income tax assessments for VSL through 2019.
+
+NOTE 12:- 
+FINANCIAL INCOME, NET
+
+Year ended
+
+December 31,
+
+2024
+2023
+2022
+Financial income:
+
+Interest on bank deposits & other
+$
+30,355
+
+$
+25,207
+
+$
+10,070
+
+Amortization of premium and accretion of discount on marketable securities, net 
+12,690
+
+9,354
+
+344
+
+Foreign exchange gains, net
+—
+
+916
+
+5,147
+
+43,045
+
+35,477
+
+15,561
+
+Financial expenses:
+Amortization of debt issuance costs
+2,144
+
+1,514
+
+1,486
+
+Interest expenses, principally from convertible notes
+4,571
+
+3,197
+
+3,167
+
+Foreign exchange losses, net
+827
+
+—
+
+—
+
+Bank and other charges
+859
+
+461
+
+495
+
+(
+8,401
+)
+(
+5,172
+)
+(
+5,148
+)
+Financial income, net
+$
+34,644
+
+$
+30,305
+
+$
+10,413
+
+92
+NOTE 13:- 
+GEOGRAPHIC INFORMATION AND MAJOR CUSTOMER DATA
+
+ASC 280, “Segment Reporting,” establishes standards for reporting information about operating segments. Operating segments are defined as components of an enterprise about which separate financial information is available that is evaluated regularly by the chief operating decision maker ("CODM") in deciding how to allocate resources and in assessing performance. The Company manages its business on the basis of 
+one
+ reportable segment and unit and derives revenues mainly from term license subscriptions, SaaS revenues and maintenance and services fees (see Note 1 for a brief description of the Company’s business and Note 2n for details on the Company's revenue recognition).
+The CODM of the Company is the Chief Executive Officer. The CODM assesses the performance of the Company and decides how to allocate resources based upon consolidated net loss that is also reported within the Consolidated Statements of Operations. The measure of segment assets that is reviewed by the CODM is reported within the Consolidated Balance Sheet as consolidated Total assets. The CODM uses consolidated net loss to monitor period-over-period results and decides where to allocate and invest additional resources within the business to continue growth. 
+The following is a summary of the significant expense categories and consolidated net loss details provided to the CODM (in thousands):
+Year ended
+
+December 31,
+
+2024
+2023
+2022
+Total revenues
+$
+550,950
+
+$
+499,160
+
+$
+473,634
+
+Less:
+Stock-based compensation
+126,682
+
+139,819
+
+142,862
+
+Other segment items (*)
+520,033
+
+460,257
+
+455,290
+
+Net loss
+$
+(
+95,765
+)
+$
+(
+100,916
+)
+$
+(
+124,518
+)
+(*) Other segment expense items included within net loss include payroll, financial income, net, marketing activities, overhead and depreciation, travel and entertainment, income taxes, information technology and communication, department activities, amortization of acquired intangibles and other miscellaneous expenses. See the consolidated financial statements for other financial information regarding the Company’s operating segment.
+Summary information about geographic areas:
+
+Year ended
+
+December 31,
+
+2024
+2023
+2022
+Revenues based on customer’s location:
+
+United States
+$
+400,778
+
+$
+358,258
+
+$
+337,269
+
+EMEA
+114,355
+
+109,587
+
+107,848
+
+Rest of the World
+35,817
+
+31,315
+
+28,517
+
+Total revenues
+$
+550,950
+
+$
+499,160
+
+$
+473,634
+
+During the years ended December 31, 2024, 2023 and 2022, respectively, there were no revenues to a single customer exceeding 10% of the Company’s total revenues.
+The following is a summary of long-lived assets, including property and equipment, net and operating lease right-of-use assets, within geographic areas (in thousands): 
+93
+
+December 31,
+
+2024
+2023
+Long-lived assets by geographic region:
+
+Israel
+$
+32,026
+
+$
+34,755
+
+United States
+31,725
+
+35,791
+
+Ireland
+11,326
+
+13,240
+
+Other
+1,311
+
+2,016
+
+$
+76,388
+
+$
+85,802
+
+94
+Item 9.
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+
+There have been no changes in our independent registered public accounting firm, Kost Forer Gabbay & Kasierer, a member of EY Global, or disagreements with our accountants on matters of accounting and financial disclosure.
+
+Item 9A.
+Controls and Procedures
+
+Evaluation of Disclosure Controls and Procedures
+
+Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) of the Exchange Act) as of the end of the period covered by this report. Based on that evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures as of the end of the period covered by this report were effective at a reasonable assurance level in ensuring that information required to be disclosed by us in reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms. We believe that a control system, no matter how well designed and operated, cannot provide absolute assurance that the objectives of the control system are met, and no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within a company have been detected. 
+Management’s Annual Report on Internal Control Over Financial Reporting
+
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) of the Exchange Act). Our management conducted an evaluation of the effectiveness of our internal control over financial reporting as of December 31, 2024 based on the criteria established in Internal Control - Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission.
+
+Based on the results of its evaluation, management concluded that our internal control over financial reporting was effective as of December 31, 2024.
+The effectiveness of our internal control over financial reporting as of December 31, 2024 has been audited by Kost Forer Gabbay & Kasierer, a member of EY Global and an independent registered public accounting firm, as stated in their attestation report which is included in Part II, Item 8 of this Annual Report on Form 10-K.
+
+Changes in Internal Control over Financial Reporting
+
+There was no change in our internal control over financial reporting that occurred during the three months ended December 31, 2024 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+We regularly seek to identify, develop and implement improvements to our technology systems and business processes, some of which may affect our internal control over financial reporting. These changes may include such activities as implementing new, more efficient systems, updating existing systems or platforms, automating manual processes or utilizing technology developed by third parties. These system changes are often phased in over multiple periods in order to limit the implementation risk in any one period, and as each change is implemented we monitor its effectiveness as part of its internal control over financial reporting.
+
+95
+Item 9B.
+Other Information
+Rule 10b5-1 Trading Plan
+On 
+November 24, 2024
+, 
+Guy Melamed
+, our 
+Chief Financial Officer and Chief Operating Officer
+, entered into a 
+Rule 10b5–1
+ trading arrangement. Mr. Melamed's arrangement includes the potential sale of up to 
+151,534
+ shares of our common stock, and expires on September 
+2, 2025
+, unless earlier terminated in accordance with the provisions of the arrangement. Mr. Melamed’s arrangement is intended to satisfy the affirmative defense of Rule 10b5-1(c) under the Exchange Act.
+On 
+November 24, 2024
+, 
+James O’Boyle
+, our 
+Vice Chairman – Sales
+, entered into a 
+Rule 10b5–1
+ trading arrangement. Mr. O’Boyle’s arrangement includes the potential sale of up to 
+100,000
+ shares of our common stock, and expires on 
+December 31, 2025
+, unless earlier terminated in accordance with the provisions of the arrangement. Mr. O’Boyle’s arrangement is intended to satisfy the affirmative defense of Rule 10b5-1(c) under the Exchange Act.
+On 
+December 3, 2024
+, 
+Fred Van den Bosch
+, 
+Director
+, entered into a 
+Rule 10b5–1
+ trading arrangement. Mr. Van den Bosch’s arrangement includes the potential sale of up to 
+18,000
+ shares of our common stock, and expires on 
+December 15, 2025
+, unless earlier terminated in accordance with the provisions of the arrangement. Mr. Van den Bosch’s arrangement is intended to satisfy the affirmative defense of Rule 10b5-1(c) under the Exchange Act.
+Except as described above, during the fiscal quarter ended December 31, 2024, no director or officer of the Company 
+adopted
+ or 
+terminated
+ a “Rule 10b5-1 trading arrangement” or “non-Rule 10b5-1 trading arrangement,” as each term is defined in Item 408(a) of Regulation S-K.
+Change of Executive Officers
+On February 3, 2025, in connection with a change in the reporting structure of the Company, James O' Boyle, the Company’s Vice Chairman - Sales, is no longer an executive officer of the Company, as defined under the Securities Exchange Act of 1934. In connection with this change, Greg Pomeroy, the current Senior Vice President - Worldwide Sales, became an executive officer of the Company.
+Change of Corporate Headquarters
+In the first quarter of 2025, the Company is relocating its corporate headquarters to Miami, Florida and its principal mailing address is 801 Brickell Avenue, Miami, Florida 33131. There is no change to the Company’s telephone number. All future correspondence and communications from stockholders and others to the Company should be directed to this address.
+Item 9C.
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+Not applicable.
+96
+PART III
+Item 10.
+Directors, Executive Officers and Corporate Governance
+The information required by this item (other than the information set forth in the next paragraph in this Item 10) will be included in our definitive proxy statement with respect to our 2025 Annual Meeting of Stockholders to be filed with the SEC and is incorporated herein by reference.
+Code of Business Conduct and Ethics
+We have adopted a code of business conduct and ethics that is applicable to all of our employees, officers and directors, including our chief executive and senior financial officers. The code of business conduct and ethics is available on our website at www.varonis.com. We expect that any amendment to the code, or any waivers of its requirements, will be disclosed on our website. The inclusion of our website in this Form 10-K does not include or incorporate by reference the information on our website into this Form 10-K.
+Insider Trading Policy and Procedures
+We have 
+adopted
+ an insider trading policy governing the purchase, sale, and/or other dispositions of our securities by our directors, officers and employees and other covered persons. We believe these policies and procedures are reasonably designed to promote compliance with insider trading laws, rules and regulations and applicable listing standards. A copy of our Insider Trading Policy is filed as Exhibit 19.1 to this Annual Report on Form 10-K.
+
+Item 11.
+Executive Compensation
+
+The information called for by this item will be included in our definitive proxy statement with respect to our 2025 Annual Meeting of Stockholders to be filed with the SEC and is incorporated herein by reference.
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+The information called for by this item will be included in our definitive proxy statement with respect to our 2025 Annual Meeting of Stockholders to be filed with the SEC and is incorporated herein by reference.
+Item 13.
+Certain Relationships and Related Transactions, and Director Independence
+
+The information called for by this item will be included in our definitive proxy statement with respect to our 2025 Annual Meeting of Stockholders to be filed with the SEC and is incorporated herein by reference.
+Item 14.
+Principal Accounting Fees and Services
+
+The information called for by this item will be included in our definitive proxy statement with respect to our 2025 Annual Meeting of Stockholders to be filed with the SEC and is incorporated herein by reference.
+
+97
+PART IV
+Item 15.
+Exhibits and Financial Statement Schedules
+
+(a) Financial Statements
+
+Our consolidated financial statements are listed in the “Index to Consolidated Financial Statements” under Part II, Item 8 of this Annual Report on Form 10-K. All schedules are omitted because they are not applicable or the required information is shown in the financial statements or notes thereto.
+(b) Exhibits
+The exhibits listed below in the accompanying “
+Index to Exhibits
+” are filed or incorporated by reference as part of this Annual Report on Form 10-K.
+Item  16.
+Form 10-K Summary
+
+None.
+98
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+VARONIS SYSTEMS, INC.
+
+February 6, 2025
+
+By:
+/s/ Yakov Faitelson
+
+Yakov Faitelson
+
+Chief Executive Officer and President
+(Principal Executive Officer)
+
+February 6, 2025
+
+By:
+/s/ Guy Melamed
+
+Guy Melamed
+
+Chief Financial Officer and Chief Operating Officer (Principal Financial Officer and Principal Accounting Officer)
+POWER OF ATTORNEY
+
+KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears below constitutes and appoints Yakov Faitelson and Guy Melamed, jointly and severally, his or her attorneys-in-fact, each with the power of substitution, for him or her in any and all capacities, to sign any amendments to this Annual Report on Form 10-K, and to file the same, with exhibits thereto and other documents in connection therewith, with the Securities and Exchange Commission, hereby ratifying and confirming all that each of said attorneys-in-fact, or his substitute or substitutes, may do or cause to be done by virtue hereof.
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant in the capacities and on the dates indicated.
+
+Signature
+
+Title
+
+Date
+
+/s/ Yakov Faitelson
+
+Chief Executive Officer, President
+
+February 6, 2025
+Yakov Faitelson
+
+and Chairman of the Board
+(Principal Executive Officer)
+
+/s/ Guy Melamed
+
+Chief Financial Officer and Chief Operating Officer
+
+February 6, 2025
+Guy Melamed
+
+(Principal Financial Officer and Principal Accounting Officer)
+
+/s/ Carlos Aued
+
+Director
+
+February 6, 2025
+Carlos Aued
+
+/s/ Kevin Comolli
+
+Director
+
+February 6, 2025
+Kevin Comolli
+
+/s/ John J. Gavin, Jr.
+
+Director
+
+February 6, 2025
+John J. Gavin, Jr.
+
+/s/ Gili Iohan
+
+Director
+
+February 6, 2025
+Gili Iohan
+
+/s/ Avrohom J. Kess
+
+Director
+
+February 6, 2025
+Avrohom J. Kess
+
+/s/ Ohad Korkus
+
+Director
+
+February 6, 2025
+Ohad Korkus
+
+/s/ Thomas F. Mendoza
+
+Director
+
+February 6, 2025
+Thomas F. Mendoza
+
+/s/ Rachel Prishkolnik
+
+Director
+
+February 6, 2025
+Rachel Prishkolnik
+
+/s/ Ofer Segev
+Director
+February 6, 2025
+Ofer Segev
+/s/ Fred Van Den Bosch
+Director
+February 6, 2025
+Fred Van Den Bosch
+EXHIBIT INDEX
+
+Exhibit
+Number
+Description of the Document
+
+3.1(1)
+Amended and Restated Certificate of Incorporation
+
+3.2(2)
+Amended and Restated Bylaws
+4.1
+Description of Securities Registered under Section 12 of the Securities Exchange Act of 1934
+4.2(3)
+Indenture, dated as of May 11, 2020, by and between Varonis Systems, Inc. and U.S. Bank National Association, as Trustee (including Form of Note, representing Varonis Systems, Inc.’s 1.25% Convertible Senior Notes due 2025)
+
+4.3(4)
+Indenture, dated as of September 10, 2024, by and between Varonis Systems, Inc. and U.S. Bank Trust Company, National Association, as Trustee (including Form of Note, representing Varonis Systems, Inc.’s 1.00% Convertible Senior Notes due 2029)
+10.1(5)†
+Form of Indemnification Agreement between the Company and its directors and officers
+
+10.3(6)†
+2013 Omnibus Equity Incentive Plan
+
+10.4(7)†
+Amended and Restated Varonis Systems, Inc. 2023 Omnibus Equity Incentive Plan
+10.4(8)†
+Forms of Restricted Stock Unit Award Grant Notice and Restricted Stock Unit Award Agreement under the 2013 Omnibus Equity Incentive Plan
+
+10.5(9)†
+Forms of Performance-Based Restricted Stock Unit Award Grant Notice and Performance-Based Restricted Stock Unit Award Agreement under the 2013 Omnibus Equity Incentive Plan
+10.6(10)†
+2015 Employee Stock Purchase Plan
+
+10.7(11)†
+Employment Agreement, dated as of May 15, 2024, by and between Varonis Systems, Inc. and Yakov Faitelson
+
+10.8(12)†
+Employment Agreement, dated as of May 15, 2024, by and between Varonis Systems Ltd. and Yakov Faitelson
+10.9†
+Varonis Systems Severance Plan
+10.10(13)†
+Employment Agreement, dated as of January 31, 2024, by and between Varonis Systems, Inc. and Guy Melamed
+
+10.11(14)†
+Employment Agreement, dated as of January 31, 2024, by and between Varonis Systems Ltd. and Guy Melamed
+
+10.12(15)†
+Employment Agreement, dated as of February 10, 2014, by and between the Company and James O’Boyle
+
+10.13(16)†
+Amendment to Employment Agreement, dated as of August 27, 2018, by and between the Company and James O’Boyle
+10.14(17)†
+Employment Agreement, dated as of February 8, 2018, by and between Varonis Systems Ltd. and David Bass
+10.15†
+Employment Agreement, dated as of March 12, 2021, by and between the Company and Dov Gottlieb
+10.16(18)
+Form of Confirmation for 
+2020 
+Capped Call Transactions
+10.17(19)
+Form of Confirmation for 202
+4
+ Capped Call Transactions
+10.18(20)†
+Forms of Restricted Stock Unit Award Grant Notice and Restricted Stock Unit Award Agreement under the 2013 Omnibus Equity Incentive Plan (Israeli Employees)
+10.19(21)†
+Forms of Performance-Based Restricted Stock Unit Award Grant Notice and Performance-Based Restricted Stock Unit Award Agreement under the 2013 Omnibus Equity Incentive Plan (Israeli Employees)
+10.20(22)†
+Forms of Restricted Stock Unit Award Grant Notice and Restricted Stock Unit Award Agreement under the Amended and Restated 2023 Omnibus Equity Incentive Plan
+10.21(23)†
+Forms of Performance-Based Restricted Stock Unit Award Grant Notice and Performance-Based Restricted Stock Unit Award Agreement under the Amended and Restated 2023 Omnibus Equity Incentive Plan
+10.22(24)†
+Forms of Restricted Stock Unit Award Grant Notice and Restricted Stock Unit Award Agreement under the Amended and Restated 2023 Omnibus Equity Incentive Plan (Israeli Employees)
+10.23(25)†
+Forms of Performance-Based Restricted Stock Unit Award Grant Notice and Performance-Based Restricted Stock Unit Award Agreement under the Amended and Restated 2023 Omnibus Equity Incentive Plan (Israeli Employees)
+
+19.1
+Insider Trading Policy
+21.1
+List of Subsidiaries
+
+23.1
+Consent of Kost Forer Gabbay & Kasierer, a member of E
+Y
+ Global
+
+31.1
+Rule 13a-14(a) Certification of Chief Executive Officer and President of the Company in accordance with Section 302 of the Sarbanes-Oxley Act of 2002
+
+31.2
+Rule 13a-14(a) Certification of Chief Financial Officer of the Company in accordance with Section 302 of the Sarbanes-Oxley Act of 2002
+
+32.1**
+Section 1350 Certification of Chief Executive Officer and President of the Company in accordance with Section 906 of the Sarbanes-Oxley Act of 2002
+
+32.2**
+Section 1350 Certification of Chief Financial Officer of the Company in accordance with Section 906 of the Sarbanes-Oxley Act of 2002
+97
+Policy For The Recovery Of Erroneously Awarded Compensation
+
+101
+The following materials from the Company’s Annual Report on Form 10-K for the year ended December 31, 2024, formatted in inline XBRL (eXtensible Business Reporting Language): (i) the Consolidated Balance Sheets, (ii) the Consolidated Statements of Operations, (iii) the Consolidated Statements of Comprehensive Loss, (iv) the Unaudited Consolidated Statements of Changes in Stockholders' Equity, (v) the Consolidated Statements of Cash Flows and (vi) related notes to these consolidated financial statements, tagged as blocks of text and in detail
+104
+Cover Page Interactive Data File - (formatted as Inline XBRL and contained in Exhibit 101)
+
+____________________________________
+†
+Indicates management contract or compensatory plan or arrangement.
+**
+Document has been furnished, is not deemed filed and is not to be incorporated by reference into any of the Company’s filings under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, irrespective of any general incorporation language contained in any such filing.
+(1)
+Filed as Exhibit 3.1 to the Company’s Quarterly Report on Form 10-Q filed with the SEC on May 8, 2014 (the “Company’s First Quarter 2014 Form 10-Q”) and incorporated herein by reference.
+(2)
+Filed as Exhibit 3.2 to the Company’s Annual Report on Form 10-K filed with the SEC on February 8, 2022 (the "Company's 2021 Form 10-K") and incorporated herein by reference.
+(3)
+Filed as Exhibit 4.1 to the Company’s Current Report on Form 8-K filed with the SEC on May 11, 2020 and incorporated herein by reference.
+(4)
+Filed as Exhibit 4.1 to the Company’s Current Report on Form 8-K with the Securities and Exchange Commission on September 10, 2024 and incorporated herein by reference
+(5)
+Filed as Exhibit 10.1 to the Company's Registration Statement on Form S-1 (Registration No. 333-191840) (the "IPO Registration Statement") with the SEC on February 18, 2014 and incorporated herein by reference.
+(6)
+Filed as Exhibit 99.2 to the Company’s Registration Statement on Form S-8 (Registration No. 333-194657) with the SEC on March 18, 2014 and incorporated herein by reference.
+(7)
+Filed as Exhibit 10.1 to the Company’s Current Report on Form 8-K with the Securities and Exchange Commission on June 5, 2024 and incorporated herein by reference.
+(8)
+Filed as Exhibit 10.1 to the Company’s Quarterly Report on Form 10-Q filed with the SEC on August 6, 2014 (the “Company’s Third Quarter 2014 Form 10-Q”) and incorporated herein by reference.
+(9)
+Filed as Exhibit 10.4 to the Company’s Current Report on Form 8-K filed with the SEC on June 26, 2019 and incorporated herein by reference.
+(10)
+Filed as Exhibit A of the Proxy Statement on Form DEF 14A with the SEC on March 26, 2015 and incorporated herein by reference.
+(11)
+Filed as Exhibit 10.2 to the Company’s Quarterly Report on Form 10-Q filed with the SEC on July 30, 2024 (the “Company’s Second Quarter 2024 Form 10-Q”) and incorporated herein by reference.
+(12)
+Filed as Exhibit 10.3 to the Company’s Quarterly Report on Form 10-Q filed with the SEC on July 30, 2024 (the “Company’s Second Quarter 2024 Form 10-Q”) and incorporated herein by reference.
+(13)
+Filed as Exhibit 10.10 to the Company’s Annual Report on Form 10-K filed with the SEC on February 6, 2024 (the "Company's 2023 Form 10-K") and incorporated herein by reference.
+(14)
+Filed as Exhibit 10.11 to the Company’s Annual Report on Form 10-K filed with the SEC on February 6, 2024 (the "Company's 2023 Form 10-K") and incorporated herein by reference.
+(15)
+Filed as Exhibit 10.11 to the IPO Registration Statement with the SEC on February 18, 2014 and incorporated herein by reference.
+(16)
+Filed as Exhibit 10.3 to the Company’s Current Report on Form 8-K filed with the SEC on August 31, 2018 and incorporated herein by reference.
+(17)
+Filed as Exhibit 10.13 to the Company’s Annual Report on Form 10-K filed with the SEC on February 12, 2019 (the “Company’s 2018 Form 10-K”) and incorporated herein by reference.
+(18)
+Filed as Exhibit 10.1 to the Company’s Current Report on Form 8-K filed with the SEC on May 11, 2020 and incorporated herein by reference.
+(19)
+Filed as Exhibit 10.1 to the Company’s Current Report on Form 8-K with the SEC on September 10, 2024 and incorporated herein by reference.
+(20)
+Filed as Exhibit 10.1 to the Company’s Quarterly Report on Form 10-Q filed with the SEC on May 3, 2022 (the “Company’s First Quarter 2022 Form 10-Q”) and incorporated herein by reference.
+(21)
+Filed as Exhibit 10.2 to the Company’s Quarterly Report on Form 10-Q filed with the SEC on May 3, 2022 (the “Company’s First Quarter 2022 Form 10-Q”) and incorporated herein by reference.
+(22)
+Filed as Exhibit 10.2 to the Company’s Quarterly Report on Form 10-Q filed with the SEC on August 1, 2023 (the “Company’s Second Quarter 2023 Form 10-Q”) and incorporated herein by reference.
+(23)
+Filed as Exhibit 10.3 to the Company’s Quarterly Report on Form 10-Q filed with the SEC on August 1, 2023 (the “Company’s Second Quarter 2023 Form 10-Q”) and incorporated herein by reference.
+(24)
+Filed as Exhibit 10.4 to the Company’s Quarterly Report on Form 10-Q filed with the SEC on August 1, 2023 (the “Company’s Second Quarter 2023 Form 10-Q”) and incorporated herein by reference.
+(25)
+Filed as Exhibit 10.5 to the Company’s Quarterly Report on Form 10-Q filed with the SEC on August 1, 2023 (the “Company’s Second Quarter 2023 Form 10-Q”) and incorporated herein by reference.

@@ -1,0 +1,5985 @@
+mq-20250930
+0001522540
+12/31
+2025
+false
+Q3
+P3Y
+P1Y
+P3Y
+http://www.marqeta.com/20250930#AccruedLiabilitiesAndOtherLiabilitiesCurrent
+http://www.marqeta.com/20250930#AccruedLiabilitiesAndOtherLiabilitiesCurrent
+http://fasb.org/us-gaap/2025#AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent
+385
+384
+391
+421
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+xbrli:pure
+mq:investment
+utr:sqft
+mq:lease
+mq:bank
+0001522540
+2025-01-01
+2025-09-30
+0001522540
+us-gaap:CommonClassAMember
+2025-10-31
+0001522540
+us-gaap:CommonClassBMember
+2025-10-31
+0001522540
+2025-09-30
+0001522540
+2024-12-31
+0001522540
+us-gaap:CommonClassAMember
+2024-12-31
+0001522540
+us-gaap:CommonClassAMember
+2025-09-30
+0001522540
+us-gaap:CommonClassBMember
+2025-09-30
+0001522540
+us-gaap:CommonClassBMember
+2024-12-31
+0001522540
+2025-07-01
+2025-09-30
+0001522540
+2024-07-01
+2024-09-30
+0001522540
+2024-01-01
+2024-09-30
+0001522540
+us-gaap:CommonStockMember
+2024-12-31
+0001522540
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0001522540
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-31
+0001522540
+us-gaap:RetainedEarningsMember
+2024-12-31
+0001522540
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0001522540
+us-gaap:AdditionalPaidInCapitalMember
+2025-01-01
+2025-03-31
+0001522540
+2025-01-01
+2025-03-31
+0001522540
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-01-01
+2025-03-31
+0001522540
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-03-31
+0001522540
+us-gaap:CommonStockMember
+2025-03-31
+0001522540
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-31
+0001522540
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-03-31
+0001522540
+us-gaap:RetainedEarningsMember
+2025-03-31
+0001522540
+2025-03-31
+0001522540
+us-gaap:CommonStockMember
+2025-04-01
+2025-06-30
+0001522540
+us-gaap:AdditionalPaidInCapitalMember
+2025-04-01
+2025-06-30
+0001522540
+2025-04-01
+2025-06-30
+0001522540
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-04-01
+2025-06-30
+0001522540
+us-gaap:RetainedEarningsMember
+2025-04-01
+2025-06-30
+0001522540
+us-gaap:CommonStockMember
+2025-06-30
+0001522540
+us-gaap:AdditionalPaidInCapitalMember
+2025-06-30
+0001522540
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-06-30
+0001522540
+us-gaap:RetainedEarningsMember
+2025-06-30
+0001522540
+2025-06-30
+0001522540
+us-gaap:CommonStockMember
+2025-07-01
+2025-09-30
+0001522540
+us-gaap:AdditionalPaidInCapitalMember
+2025-07-01
+2025-09-30
+0001522540
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-07-01
+2025-09-30
+0001522540
+us-gaap:RetainedEarningsMember
+2025-07-01
+2025-09-30
+0001522540
+us-gaap:CommonStockMember
+2025-09-30
+0001522540
+us-gaap:AdditionalPaidInCapitalMember
+2025-09-30
+0001522540
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-09-30
+0001522540
+us-gaap:RetainedEarningsMember
+2025-09-30
+0001522540
+us-gaap:CommonStockMember
+2023-12-31
+0001522540
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-31
+0001522540
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-12-31
+0001522540
+us-gaap:RetainedEarningsMember
+2023-12-31
+0001522540
+2023-12-31
+0001522540
+us-gaap:CommonStockMember
+2024-01-01
+2024-03-31
+0001522540
+us-gaap:AdditionalPaidInCapitalMember
+2024-01-01
+2024-03-31
+0001522540
+2024-01-01
+2024-03-31
+0001522540
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-01-01
+2024-03-31
+0001522540
+us-gaap:RetainedEarningsMember
+2024-01-01
+2024-03-31
+0001522540
+us-gaap:CommonStockMember
+2024-03-31
+0001522540
+us-gaap:AdditionalPaidInCapitalMember
+2024-03-31
+0001522540
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-03-31
+0001522540
+us-gaap:RetainedEarningsMember
+2024-03-31
+0001522540
+2024-03-31
+0001522540
+us-gaap:CommonStockMember
+2024-04-01
+2024-06-30
+0001522540
+us-gaap:AdditionalPaidInCapitalMember
+2024-04-01
+2024-06-30
+0001522540
+2024-04-01
+2024-06-30
+0001522540
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-04-01
+2024-06-30
+0001522540
+us-gaap:RetainedEarningsMember
+2024-04-01
+2024-06-30
+0001522540
+us-gaap:CommonStockMember
+2024-06-30
+0001522540
+us-gaap:AdditionalPaidInCapitalMember
+2024-06-30
+0001522540
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-06-30
+0001522540
+us-gaap:RetainedEarningsMember
+2024-06-30
+0001522540
+2024-06-30
+0001522540
+us-gaap:CommonStockMember
+2024-07-01
+2024-09-30
+0001522540
+us-gaap:AdditionalPaidInCapitalMember
+2024-07-01
+2024-09-30
+0001522540
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-07-01
+2024-09-30
+0001522540
+us-gaap:RetainedEarningsMember
+2024-07-01
+2024-09-30
+0001522540
+us-gaap:CommonStockMember
+2024-09-30
+0001522540
+us-gaap:AdditionalPaidInCapitalMember
+2024-09-30
+0001522540
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-09-30
+0001522540
+us-gaap:RetainedEarningsMember
+2024-09-30
+0001522540
+2024-09-30
+0001522540
+2025-04-01
+2025-09-30
+0001522540
+srt:MinimumMember
+2025-01-01
+2025-09-30
+0001522540
+srt:MaximumMember
+2025-01-01
+2025-09-30
+0001522540
+mq:PlatformServiceRevenueNetMember
+2025-07-01
+2025-09-30
+0001522540
+mq:PlatformServiceRevenueNetMember
+2024-07-01
+2024-09-30
+0001522540
+mq:PlatformServiceRevenueNetMember
+2025-01-01
+2025-09-30
+0001522540
+mq:PlatformServiceRevenueNetMember
+2024-01-01
+2024-09-30
+0001522540
+mq:OtherServicesRevenueMember
+2025-07-01
+2025-09-30
+0001522540
+mq:OtherServicesRevenueMember
+2024-07-01
+2024-09-30
+0001522540
+mq:OtherServicesRevenueMember
+2025-01-01
+2025-09-30
+0001522540
+mq:OtherServicesRevenueMember
+2024-01-01
+2024-09-30
+0001522540
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+2025-09-30
+0001522540
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+2024-12-31
+0001522540
+us-gaap:OtherAssetsMember
+2025-09-30
+0001522540
+us-gaap:OtherAssetsMember
+2024-12-31
+0001522540
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+2025-09-30
+0001522540
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+2024-12-31
+0001522540
+us-gaap:OtherLiabilitiesMember
+2025-09-30
+0001522540
+us-gaap:OtherLiabilitiesMember
+2024-12-31
+0001522540
+2026-01-01
+2025-09-30
+0001522540
+2027-01-01
+2025-09-30
+0001522540
+2029-01-01
+2025-09-30
+0001522540
+mq:TransactPayBusinessMember
+2025-07-31
+2025-07-31
+0001522540
+mq:IndemnificationPurposesMember
+mq:TransactPayBusinessMember
+2025-07-31
+2025-07-31
+0001522540
+mq:PostClosingAdjustmentsMember
+mq:TransactPayBusinessMember
+2025-07-31
+2025-07-31
+0001522540
+mq:RegulatoryImprovementEarnOutMember
+mq:TransactPayBusinessMember
+mq:IndemnificationPurposesMember
+2025-07-31
+0001522540
+mq:DigitalProductsEarnOutMember
+mq:TransactPayBusinessMember
+2025-07-31
+0001522540
+mq:TransactPayBusinessMember
+2025-07-31
+0001522540
+mq:TransactPayBusinessMember
+us-gaap:CustomerRelationshipsMember
+2025-07-31
+0001522540
+mq:TransactPayBusinessMember
+mq:EMILicenseMember
+2025-07-31
+0001522540
+mq:TransactPayBusinessMember
+2024-10-01
+2025-09-30
+0001522540
+mq:TransactPayBusinessMember
+2024-10-01
+2024-12-31
+0001522540
+mq:TransactPayBusinessMember
+2025-07-01
+2025-09-30
+0001522540
+mq:TransactPayBusinessMember
+2025-01-01
+2025-09-30
+0001522540
+us-gaap:DevelopedTechnologyRightsMember
+2025-09-30
+0001522540
+us-gaap:CustomerRelationshipsMember
+2025-09-30
+0001522540
+mq:EMILicenseMember
+2025-09-30
+0001522540
+us-gaap:DevelopedTechnologyRightsMember
+2024-12-31
+0001522540
+us-gaap:USTreasurySecuritiesMember
+2025-09-30
+0001522540
+us-gaap:AssetBackedSecuritiesMember
+2025-09-30
+0001522540
+us-gaap:CertificatesOfDepositMember
+2025-09-30
+0001522540
+us-gaap:USTreasurySecuritiesMember
+2024-12-31
+0001522540
+us-gaap:AssetBackedSecuritiesMember
+2024-12-31
+0001522540
+us-gaap:MoneyMarketFundsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2025-09-30
+0001522540
+us-gaap:MoneyMarketFundsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001522540
+us-gaap:MoneyMarketFundsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2025-09-30
+0001522540
+us-gaap:MoneyMarketFundsMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-30
+0001522540
+us-gaap:USTreasuryBillSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2025-09-30
+0001522540
+us-gaap:USTreasuryBillSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001522540
+us-gaap:USTreasuryBillSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2025-09-30
+0001522540
+us-gaap:USTreasuryBillSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-30
+0001522540
+us-gaap:CommercialPaperMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2025-09-30
+0001522540
+us-gaap:CommercialPaperMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001522540
+us-gaap:CommercialPaperMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2025-09-30
+0001522540
+us-gaap:CommercialPaperMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-30
+0001522540
+us-gaap:CorporateDebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2025-09-30
+0001522540
+us-gaap:CorporateDebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001522540
+us-gaap:CorporateDebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2025-09-30
+0001522540
+us-gaap:CorporateDebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-30
+0001522540
+us-gaap:CertificatesOfDepositMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2025-09-30
+0001522540
+us-gaap:CertificatesOfDepositMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001522540
+us-gaap:CertificatesOfDepositMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2025-09-30
+0001522540
+us-gaap:CertificatesOfDepositMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-30
+0001522540
+us-gaap:USTreasurySecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2025-09-30
+0001522540
+us-gaap:USTreasurySecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001522540
+us-gaap:USTreasurySecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2025-09-30
+0001522540
+us-gaap:USTreasurySecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-30
+0001522540
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2025-09-30
+0001522540
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001522540
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2025-09-30
+0001522540
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-30
+0001522540
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2025-09-30
+0001522540
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001522540
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2025-09-30
+0001522540
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-30
+0001522540
+us-gaap:MoneyMarketFundsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2024-12-31
+0001522540
+us-gaap:MoneyMarketFundsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0001522540
+us-gaap:MoneyMarketFundsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2024-12-31
+0001522540
+us-gaap:MoneyMarketFundsMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001522540
+us-gaap:USTreasuryBillSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2024-12-31
+0001522540
+us-gaap:USTreasuryBillSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0001522540
+us-gaap:USTreasuryBillSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2024-12-31
+0001522540
+us-gaap:USTreasuryBillSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001522540
+us-gaap:CommercialPaperMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2024-12-31
+0001522540
+us-gaap:CommercialPaperMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0001522540
+us-gaap:CommercialPaperMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2024-12-31
+0001522540
+us-gaap:CommercialPaperMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001522540
+us-gaap:CorporateDebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2024-12-31
+0001522540
+us-gaap:CorporateDebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0001522540
+us-gaap:CorporateDebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2024-12-31
+0001522540
+us-gaap:CorporateDebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001522540
+us-gaap:CertificatesOfDepositMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2024-12-31
+0001522540
+us-gaap:CertificatesOfDepositMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0001522540
+us-gaap:CertificatesOfDepositMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2024-12-31
+0001522540
+us-gaap:CertificatesOfDepositMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001522540
+us-gaap:USTreasurySecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2024-12-31
+0001522540
+us-gaap:USTreasurySecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0001522540
+us-gaap:USTreasurySecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2024-12-31
+0001522540
+us-gaap:USTreasurySecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001522540
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2024-12-31
+0001522540
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0001522540
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2024-12-31
+0001522540
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001522540
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2024-12-31
+0001522540
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2024-12-31
+0001522540
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2024-12-31
+0001522540
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001522540
+us-gaap:LeaseholdImprovementsMember
+2025-09-30
+0001522540
+us-gaap:LeaseholdImprovementsMember
+2024-12-31
+0001522540
+us-gaap:ComputerEquipmentMember
+2025-09-30
+0001522540
+us-gaap:ComputerEquipmentMember
+2024-12-31
+0001522540
+us-gaap:FurnitureAndFixturesMember
+2025-09-30
+0001522540
+us-gaap:FurnitureAndFixturesMember
+2024-12-31
+0001522540
+us-gaap:SoftwareAndSoftwareDevelopmentCostsMember
+2025-09-30
+0001522540
+us-gaap:SoftwareAndSoftwareDevelopmentCostsMember
+2024-12-31
+0001522540
+us-gaap:PropertyPlantAndEquipmentMember
+2025-07-01
+2025-09-30
+0001522540
+us-gaap:PropertyPlantAndEquipmentMember
+2024-07-01
+2024-09-30
+0001522540
+us-gaap:PropertyPlantAndEquipmentMember
+2025-01-01
+2025-09-30
+0001522540
+us-gaap:PropertyPlantAndEquipmentMember
+2024-01-01
+2024-09-30
+0001522540
+2016-01-01
+2016-09-30
+0001522540
+mq:OaklandLeaseMember
+2025-09-30
+0001522540
+mq:TransactPayBusinessMember
+2025-09-30
+0001522540
+us-gaap:FinancialStandbyLetterOfCreditMember
+2025-09-30
+0001522540
+us-gaap:FinancialStandbyLetterOfCreditMember
+mq:RestrictedCashAndCashEquivalentsCurrentMember
+2025-09-30
+0001522540
+2025-04-30
+0001522540
+us-gaap:FinancialStandbyLetterOfCreditMember
+srt:ScenarioForecastMember
+2026-03-01
+0001522540
+mq:CardAndEMoneyWalletProgramsMember
+2025-09-30
+0001522540
+mq:CardAndEMoneyWalletProgramsMember
+us-gaap:MoneyMarketFundsMember
+2025-09-30
+0001522540
+us-gaap:SettledLitigationMember
+mq:SecuritiesActionsMember
+us-gaap:SubsequentEventMember
+2025-11-03
+2025-11-03
+0001522540
+mq:SecuritiesActionsMember
+2025-01-01
+2025-09-30
+0001522540
+us-gaap:RestrictedStockUnitsRSUMember
+2025-07-01
+2025-09-30
+0001522540
+us-gaap:RestrictedStockUnitsRSUMember
+2024-07-01
+2024-09-30
+0001522540
+us-gaap:RestrictedStockUnitsRSUMember
+2025-01-01
+2025-09-30
+0001522540
+us-gaap:RestrictedStockUnitsRSUMember
+2024-01-01
+2024-09-30
+0001522540
+mq:EmployeeStockOptionExcludingCEOLongTermPerformanceAwardMember
+2025-07-01
+2025-09-30
+0001522540
+mq:EmployeeStockOptionExcludingCEOLongTermPerformanceAwardMember
+2024-07-01
+2024-09-30
+0001522540
+mq:EmployeeStockOptionExcludingCEOLongTermPerformanceAwardMember
+2025-01-01
+2025-09-30
+0001522540
+mq:EmployeeStockOptionExcludingCEOLongTermPerformanceAwardMember
+2024-01-01
+2024-09-30
+0001522540
+us-gaap:PerformanceSharesMember
+2025-07-01
+2025-09-30
+0001522540
+us-gaap:PerformanceSharesMember
+2024-07-01
+2024-09-30
+0001522540
+us-gaap:PerformanceSharesMember
+2025-01-01
+2025-09-30
+0001522540
+us-gaap:PerformanceSharesMember
+2024-01-01
+2024-09-30
+0001522540
+us-gaap:EmployeeStockMember
+2025-07-01
+2025-09-30
+0001522540
+us-gaap:EmployeeStockMember
+2024-07-01
+2024-09-30
+0001522540
+us-gaap:EmployeeStockMember
+2025-01-01
+2025-09-30
+0001522540
+us-gaap:EmployeeStockMember
+2024-01-01
+2024-09-30
+0001522540
+mq:RestrictedStockUnitsAndPerformanceStockUnitsMember
+2024-12-31
+0001522540
+mq:RestrictedStockUnitsAndPerformanceStockUnitsMember
+2025-01-01
+2025-09-30
+0001522540
+mq:RestrictedStockUnitsAndPerformanceStockUnitsMember
+2025-09-30
+0001522540
+us-gaap:EmployeeStockOptionMember
+2024-12-31
+0001522540
+us-gaap:EmployeeStockOptionMember
+2024-01-01
+2024-12-31
+0001522540
+us-gaap:EmployeeStockOptionMember
+2025-01-01
+2025-09-30
+0001522540
+us-gaap:EmployeeStockOptionMember
+2025-09-30
+0001522540
+mq:EmployeeStockOptionExcludingCEOLongTermPerformanceAwardMember
+2025-09-30
+0001522540
+mq:A2024ShareRepurchaseProgramMember
+2024-05-06
+0001522540
+mq:A2025ShareRepurchaseProgramMember
+2025-02-25
+0001522540
+mq:A2024ShareRepurchaseProgramMember
+2025-01-01
+2025-09-30
+0001522540
+mq:A2025ShareRepurchaseProgramMember
+2025-07-01
+2025-09-30
+0001522540
+mq:A2025ShareRepurchaseProgramMember
+2025-01-01
+2025-09-30
+0001522540
+mq:A2025ShareRepurchaseProgramMember
+2025-09-30
+0001522540
+mq:A2024ShareRepurchaseProgramMember
+2024-07-01
+2024-09-30
+0001522540
+mq:A2024ShareRepurchaseProgramMember
+2024-01-01
+2024-09-30
+0001522540
+mq:A2023ShareRepurchaseProgramMember
+2024-01-01
+2024-09-30
+0001522540
+us-gaap:CommonClassAMember
+2025-07-01
+2025-09-30
+0001522540
+us-gaap:CommonClassBMember
+2025-07-01
+2025-09-30
+0001522540
+us-gaap:CommonClassAMember
+2024-07-01
+2024-09-30
+0001522540
+us-gaap:CommonClassBMember
+2024-07-01
+2024-09-30
+0001522540
+us-gaap:CommonClassAMember
+2025-01-01
+2025-09-30
+0001522540
+us-gaap:CommonClassBMember
+2025-01-01
+2025-09-30
+0001522540
+us-gaap:CommonClassAMember
+2024-01-01
+2024-09-30
+0001522540
+us-gaap:CommonClassBMember
+2024-01-01
+2024-09-30
+0001522540
+mq:WarrantsToPurchaseClassBCommonStockMember
+us-gaap:CommonClassAMember
+2025-01-01
+2025-09-30
+0001522540
+mq:WarrantsToPurchaseClassBCommonStockMember
+us-gaap:CommonClassAMember
+2025-07-01
+2025-09-30
+0001522540
+mq:WarrantsToPurchaseClassBCommonStockMember
+us-gaap:CommonClassBMember
+2025-01-01
+2025-09-30
+0001522540
+mq:WarrantsToPurchaseClassBCommonStockMember
+us-gaap:CommonClassBMember
+2025-07-01
+2025-09-30
+0001522540
+mq:WarrantsToPurchaseClassBCommonStockMember
+us-gaap:CommonClassAMember
+2024-07-01
+2024-09-30
+0001522540
+mq:WarrantsToPurchaseClassBCommonStockMember
+us-gaap:CommonClassBMember
+2024-07-01
+2024-09-30
+0001522540
+us-gaap:EmployeeStockOptionMember
+us-gaap:CommonClassAMember
+2025-01-01
+2025-09-30
+0001522540
+us-gaap:EmployeeStockOptionMember
+us-gaap:CommonClassAMember
+2025-07-01
+2025-09-30
+0001522540
+us-gaap:EmployeeStockOptionMember
+us-gaap:CommonClassBMember
+2025-01-01
+2025-09-30
+0001522540
+us-gaap:EmployeeStockOptionMember
+us-gaap:CommonClassBMember
+2025-07-01
+2025-09-30
+0001522540
+us-gaap:EmployeeStockOptionMember
+us-gaap:CommonClassAMember
+2024-07-01
+2024-09-30
+0001522540
+us-gaap:EmployeeStockOptionMember
+us-gaap:CommonClassBMember
+2024-07-01
+2024-09-30
+0001522540
+mq:WarrantsToPurchaseClassBCommonStockMember
+us-gaap:CommonClassAMember
+2024-01-01
+2024-09-30
+0001522540
+mq:WarrantsToPurchaseClassBCommonStockMember
+us-gaap:CommonClassBMember
+2024-01-01
+2024-09-30
+0001522540
+us-gaap:EmployeeStockOptionMember
+us-gaap:CommonClassAMember
+2024-01-01
+2024-09-30
+0001522540
+us-gaap:EmployeeStockOptionMember
+us-gaap:CommonClassBMember
+2024-01-01
+2024-09-30
+0001522540
+us-gaap:CreditConcentrationRiskMember
+mq:DebtSecuritiesAvailableForSaleMember
+2025-09-30
+0001522540
+mq:MarketableSecuritiesMember
+us-gaap:CreditConcentrationRiskMember
+mq:DebtSecuritiesAvailableForSaleMember
+2025-01-01
+2025-09-30
+0001522540
+us-gaap:CreditConcentrationRiskMember
+mq:DebtSecuritiesAvailableForSaleMember
+2024-12-31
+0001522540
+mq:MarketableSecuritiesMember
+us-gaap:CreditConcentrationRiskMember
+mq:DebtSecuritiesAvailableForSaleMember
+2024-01-01
+2024-12-31
+0001522540
+mq:SuttonBankMember
+us-gaap:CreditConcentrationRiskMember
+us-gaap:AccountsReceivableMember
+2025-07-01
+2025-09-30
+0001522540
+mq:SuttonBankMember
+us-gaap:CreditConcentrationRiskMember
+us-gaap:AccountsReceivableMember
+2024-07-01
+2024-09-30
+0001522540
+mq:SuttonBankMember
+us-gaap:CreditConcentrationRiskMember
+us-gaap:AccountsReceivableMember
+2025-01-01
+2025-09-30
+0001522540
+mq:SuttonBankMember
+us-gaap:CreditConcentrationRiskMember
+us-gaap:AccountsReceivableMember
+2024-01-01
+2024-09-30
+0001522540
+mq:Customer1Member
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:RevenueFromContractWithCustomerMember
+2025-07-01
+2025-09-30
+0001522540
+mq:Customer1Member
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:RevenueFromContractWithCustomerMember
+2024-07-01
+2024-09-30
+0001522540
+mq:Customer1Member
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:RevenueFromContractWithCustomerMember
+2025-01-01
+2025-09-30
+0001522540
+mq:Customer1Member
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:RevenueFromContractWithCustomerMember
+2024-01-01
+2024-09-30
+0001522540
+mq:Customer1Member
+us-gaap:CreditConcentrationRiskMember
+us-gaap:AccountsReceivableMember
+2025-01-01
+2025-09-30
+0001522540
+mq:Customer2Member
+us-gaap:CreditConcentrationRiskMember
+us-gaap:AccountsReceivableMember
+2025-01-01
+2025-09-30
+0001522540
+mq:Customer3Member
+us-gaap:CreditConcentrationRiskMember
+us-gaap:AccountsReceivableMember
+2024-01-01
+2024-12-31
+0001522540
+mq:Customer4Member
+us-gaap:CreditConcentrationRiskMember
+us-gaap:AccountsReceivableMember
+2024-01-01
+2024-12-31
+0001522540
+mq:ReportableSegmentMember
+2025-07-01
+2025-09-30
+0001522540
+mq:ReportableSegmentMember
+2024-07-01
+2024-09-30
+0001522540
+mq:ReportableSegmentMember
+2025-01-01
+2025-09-30
+0001522540
+mq:ReportableSegmentMember
+2024-01-01
+2024-09-30
+0001522540
+us-gaap:NonUsMember
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2025-07-01
+2025-09-30
+0001522540
+us-gaap:NonUsMember
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2024-07-01
+2024-09-30
+0001522540
+us-gaap:NonUsMember
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2025-01-01
+2025-09-30
+0001522540
+us-gaap:NonUsMember
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2024-01-01
+2024-09-30
+0001522540
+mq:RahulShahMember
+2025-07-01
+2025-09-30
+0001522540
+mq:RahulShahMember
+2025-09-30
+0001522540
+mq:MarthaCummingsMember
+2025-07-01
+2025-09-30
+0001522540
+mq:MarthaCummingsMember
+2025-09-30
+0001522540
+mq:NajumaAtkinsonMember
+2025-07-01
+2025-09-30
+0001522540
+mq:NajumaAtkinsonMember
+2025-09-30
+0001522540
+mq:JasonGardnerMember
+2025-07-01
+2025-09-30
+0001522540
+mq:JasonGardnerMember
+2025-09-30
+  7/6
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 
+10-Q
+(Mark One)
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended 
+September 30, 2025
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from __________  to __________
+Commission File Number: 
+001-40465
+Marqeta, Inc.
+(Exact name of registrant as specified in its charter)
+Delaware
+27-4306690
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification Number)
+180 Grand Avenue
+, 
+6th Floor
+, 
+Oakland
+, 
+California
+94612
+(Address of principal executive offices)
+(Zip Code)
+(
+510
+) 
+671-5437
+(Registrant's telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Class A common stock, $0.0001 par value per share
+MQ
+The 
+Nasdaq
+ Stock Market LLC
+(Nasdaq Global Select Market)
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 (the “Exchange Act”) during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+Yes
+ ☒ No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+Yes
+ ☒ No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☒
+Accelerated filer
+☐
+Non-accelerated filer
+☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes 
+☐
+ No ☒
+As of October 31, 2025, there were 
+407,234,623
+ shares of the registrant's Class A common stock, par value $0.0001 per share, outstanding and 
+32,864,624
+ shares of the registrant's Class B common stock, par value $0.0001 per share, outstanding.
+TABLE OF CONTENTS
+Page
+Note About Forward-Looking Statements
+3
+Part I - Financial Information
+Item 1.
+Condensed Consolidated Financial Statements:
+5
+Condensed Consolidated Balance Sheets
+5
+Condensed Consolidated Statements of Operations and Comprehensive 
+(Loss) 
+Income
+6
+Condensed Consolidated Statements of Stockholders' Equity
+7
+Condensed Consolidated Statements of Cash Flows
+9
+Notes to Condensed Consolidated Financial Statements
+11
+Item 2.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+31
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+47
+Item 4.
+Controls and Procedures
+48
+Part II - Other Information
+Item 1.
+Legal Proceedings
+49
+Item 1A.
+Risk Factors
+49
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+51
+Item 3.
+Defaults Upon Senior Securities
+51
+Item 4.
+Mine Safety Disclosures
+51
+Item 5.
+Other Information
+51
+Item 6.
+Exhibits
+53
+Signatures
+54
+2
+Note About Forward-Looking Statements
+This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of the federal securities laws, which are statements that involve substantial risks and uncertainties. Forward-looking statements generally relate to future events or our future financial or operating performance. In some cases, you can identify forward-looking statements because they contain words such as “may,” “will,” “shall,” “should,” “expects,” “plans,” “anticipates,” “could,” “intends,” “target,” “projects,” “contemplates,” “believes,” “estimates,” “predicts,” “potential,” or “continue” or the negative of these words or other similar terms or expressions that concern our expectations, strategy, plans or intentions. Forward-looking statements contained in this Quarterly Report on Form 10-Q include, but are not limited to, statements about:
+•
+uncertainties related to U.S. and global economies and the effect on our business, results of operations, and financial condition;
+•
+our future financial performance and any fluctuations in such performance, including our net revenue, costs of revenue, gross profit, and operating expenses, and our ability to achieve future profitability;
+•
+our ability to scale new products and services, such as our credit card platform;
+•
+our ability to effectively manage or sustain our growth and expand our operations;
+•
+our ability to enhance our platform and services and develop and expand our capabilities;
+•
+our ability to further attract, retain, diversify, and expand our customer base;
+•
+our ability to maintain our relationships with Issuing Banks, Card Networks, and the other third parties with which we work;
+•
+our strategies, plans, objectives, and goals;
+•
+our plans to expand internationally;
+•
+past and future acquisitions, investments, and other strategic investments;
+•
+our ability to compete in existing and new markets and offerings;
+•
+our estimated market opportunity;
+•
+economic and industry trends, projected growth, or trend analysis;
+•
+the impact of political, social, and/or economic instability or military conflict;
+•
+our ability to develop and protect our brand;
+•
+changes or developments in laws and regulations and our ability to comply with laws and regulations;
+•
+our ability to successfully defend litigation brought against us;
+•
+our ability to attract and retain qualified employees and key personnel;
+•
+our ability to repurchase shares under authorized share repurchase programs and receive expected financial benefits; and
+•
+our ability to maintain effective disclosure controls and internal controls over financial reporting.
+3
+We caution you that the foregoing list may not contain all of the forward-looking statements made in this Quarterly Report on Form 10-Q. You should not rely upon forward-looking statements as predictions of future events. We have based the forward-looking statements contained in this Quarterly Report on Form 10-Q primarily on our current expectations and projections about future events and trends that we believe may affect our business, results of operations, financial condition, and prospects. The outcome of the events described in these forward-looking statements is subject to risks, uncertainties, and other factors described or incorporated by reference in the section titled “Risk Factors” in our most recently filed Annual Report on Form 10-K for the fiscal year ended December 31, 2024 (the “2024 Annual Report”), as may be updated from time to time by this Quarterly Report on Form 10-Q or other quarterly or periodic filings. Moreover, we operate in a very competitive and rapidly changing environment. New risks and uncertainties emerge from time to time, and it is not possible for us to predict all risks and uncertainties that could have an impact on the forward-looking statements contained in this Quarterly Report on Form 10-Q. The results, events, and circumstances reflected in the forward-looking statements may not be achieved or occur, and actual results, events, or circumstances could differ materially from those described in the forward-looking statements. The forward-looking statements made in this Quarterly Report on Form 10-Q relate only to events as of the date on which the statements are made. We undertake no obligation to update any forward-looking statements made in this Quarterly Report on Form 10-Q to reflect events or circumstances after the date of this Quarterly Report on Form 10-Q or to reflect new information or the occurrence of unanticipated events, except as required by law. Unless otherwise indicated or unless the context requires otherwise, all references in this document to “Marqeta”, the “Company”, the “Registrant,” “we”, “us”, “our”, or similar references are to Marqeta, Inc. Capitalized terms used and not defined above are defined elsewhere within this Quarterly Report on Form 10-Q.
+4
+Table of Contents
+PART I - Financial Information
+Item 1. Financial Statements
+Marqeta, Inc.
+Condensed Consolidated Balance Sheets
+(in thousands, except per share amounts)
+(unaudited)
+September 30,
+2025
+December 31,
+2024
+Assets
+Current assets:
+Cash and cash equivalents
+$
+747,248
+
+$
+923,016
+
+Restricted cash
+234,519
+
+8,500
+
+Short-term investments
+83,212
+
+179,409
+
+Accounts receivable, net
+36,123
+
+29,988
+
+Settlements receivable, net
+15,616
+
+16,203
+
+Network incentives receivable
+48,765
+
+66,776
+
+Prepaid expenses and other current assets
+34,523
+
+25,405
+
+Total current assets
+1,200,006
+
+1,249,297
+
+Operating lease right-of-use assets, net
+6,932
+
+2,712
+
+Property and equipment, net
+56,527
+
+37,523
+
+Intangible assets, net
+53,643
+
+29,774
+
+Goodwill
+154,478
+
+123,523
+
+Other assets
+16,844
+
+20,375
+
+Total assets
+$
+1,488,430
+
+$
+1,463,204
+
+Liabilities and stockholders’ equity
+Current liabilities:
+Accounts payable
+$
+1,520
+
+$
+527
+
+Revenue share payable
+204,974
+
+193,399
+
+Funds payable and amounts due to customers
+233,913
+
+—
+
+Accrued expenses and other current liabilities
+196,361
+
+177,059
+
+Total current liabilities
+636,768
+
+370,985
+
+Operating lease liabilities, net of current portion
+4,843
+
+870
+
+Other liabilities
+7,590
+
+6,331
+
+Total liabilities
+649,201
+
+378,186
+
+Commitments and contingencies (Note 10)
+Stockholders’ equity:
+Preferred stock, $
+0.0001
+ par value; 
+100,000
+ and 
+100,000
+ shares authorized, 
+no
+ shares issued and outstanding as of September 30, 2025 and December 31, 2024, respectively
+—
+
+—
+
+Common stock, $
+0.0001
+ par value: 
+1,500,000
+ and 
+1,500,000
+ Class A shares authorized, 
+416,467
+ and 
+470,824
+ shares issued and outstanding as of September 30, 2025 and December 31, 2024, respectively. 
+600,000
+ and 
+600,000
+ Class B shares authorized, 
+32,878
+ and 
+33,472
+ shares issued and outstanding as of September 30, 2025 and December 31, 2024, respectively
+45
+
+50
+
+Additional paid-in capital
+1,648,226
+
+1,883,190
+
+Accumulated other comprehensive income (loss)
+1,397
+
+(
+314
+)
+Accumulated deficit
+(
+810,439
+)
+(
+797,908
+)
+Total stockholders’ equity
+839,229
+
+1,085,018
+
+Total liabilities and stockholders’ equity
+$
+1,488,430
+
+$
+1,463,204
+
+See accompanying notes to Condensed Consolidated Financial Statements.
+5
+Table of Contents
+Marqeta, Inc.
+Condensed Consolidated Statements of Operations and Comprehensive (Loss) Income
+(in thousands, except per share amounts)
+(unaudited)
+Three Months Ended September 30,
+Nine Months Ended September 30,
+2025
+2024
+2025
+2024
+Net revenue
+$
+163,306
+
+$
+127,967
+
+$
+452,771
+
+$
+371,205
+
+Costs of revenue
+48,749
+
+37,835
+
+135,474
+
+117,559
+
+Gross profit
+114,557
+
+90,132
+
+317,297
+
+253,646
+
+Operating expenses:
+Compensation and benefits
+84,871
+
+100,964
+
+252,330
+
+299,120
+
+Technology
+16,942
+
+16,317
+
+47,855
+
+44,204
+
+Professional services
+5,518
+
+4,759
+
+15,432
+
+13,437
+
+Occupancy
+1,058
+
+1,178
+
+2,818
+
+3,476
+
+Depreciation and amortization
+7,019
+
+4,448
+
+19,003
+
+11,941
+
+Marketing and advertising
+895
+
+582
+
+2,075
+
+1,688
+
+Other operating expenses
+8,624
+
+4,115
+
+15,920
+
+11,438
+
+Executive chairman long-term performance award
+—
+
+—
+
+—
+
+(
+144,617
+)
+Total operating expenses
+124,927
+
+132,363
+
+355,433
+
+240,687
+
+(Loss) income from operations
+(
+10,370
+)
+(
+42,231
+)
+(
+38,136
+)
+12,959
+
+Other income, net
+7,244
+
+13,703
+
+26,544
+
+41,845
+
+(Loss) income before income tax expense
+(
+3,126
+)
+(
+28,528
+)
+(
+11,592
+)
+54,804
+
+Income tax expense
+498
+
+115
+
+939
+
+399
+
+Net (loss) income
+$
+(
+3,624
+)
+$
+(
+28,643
+)
+$
+(
+12,531
+)
+$
+54,405
+
+Other comprehensive income (loss), net of taxes:
+Change in foreign currency translation adjustment
+1,490
+
+125
+
+1,936
+
+(
+72
+)
+Net change in unrealized gain (loss) on short-term investments
+9
+
+1,981
+
+(
+225
+)
+143
+
+Net other comprehensive income
+1,499
+
+2,106
+
+$
+1,711
+
+$
+71
+
+Comprehensive (loss) income
+$
+(
+2,125
+)
+$
+(
+26,537
+)
+$
+(
+10,820
+)
+$
+54,476
+
+Net (loss) income per share attributable to Class A and Class B common stockholders
+Basic
+$
+(
+0.01
+)
+$
+(
+0.06
+)
+$
+(
+0.03
+)
+$
+0.11
+
+Diluted
+$
+(
+0.01
+)
+$
+(
+0.06
+)
+$
+(
+0.03
+)
+$
+0.10
+
+Weighted-average shares used in computing net (loss) income per share attributable to Class A and Class B common stockholders
+Basic
+448,717
+
+507,160
+
+470,294
+
+513,678
+
+Diluted
+448,717
+
+507,160
+
+470,294
+
+522,394
+
+See accompanying notes to Condensed Consolidated Financial Statements.
+6
+Table of Contents
+Marqeta, Inc.
+Condensed Consolidated Statements of Stockholders' Equity
+(in thousands)
+(unaudited)
+Common Stock
+Additional Paid-in Capital
+Accumulated Other Comprehensive Income (Loss)
+Accumulated Deficit
+Total Stockholder’s Equity
+Shares
+Amount
+Balance as of December 31, 2024
+504,296
+
+$
+50
+
+$
+1,883,190
+
+$
+(
+314
+)
+$
+(
+797,908
+)
+$
+1,085,018
+
+Issuance of common stock upon exercise of options
+380
+
+— 
+1,444
+
+— 
+— 
+1,444
+
+Issuance of common stock upon net settlement of restricted stock units
+2,527
+
+— 
+(
+7,101
+)
+— 
+— 
+(
+7,101
+)
+Share-based compensation
+— 
+— 
+28,437
+
+— 
+— 
+28,437
+
+Repurchase and retirement of common stock, including excise tax
+(
+26,225
+)
+(
+2
+)
+(
+112,314
+)
+— 
+— 
+(
+112,316
+)
+Change in accumulated other comprehensive loss
+— 
+— 
+— 
+38
+
+— 
+38
+
+Net loss
+— 
+— 
+— 
+— 
+(
+8,260
+)
+(
+8,260
+)
+Balance as of March 31, 2025
+480,978
+
+$
+48
+
+$
+1,793,656
+
+$
+(
+276
+)
+$
+(
+806,168
+)
+$
+987,260
+
+Issuance of common stock upon exercise of options
+84
+
+— 
+136
+
+— 
+— 
+136
+
+Issuance of common stock under employee stock purchase plan
+300
+
+— 
+994
+
+— 
+— 
+994
+
+Issuance of common stock upon net settlement of restricted stock units
+3,205
+
+1
+
+(
+9,742
+)
+— 
+— 
+(
+9,741
+)
+Issuance of common stock upon exercise of common stock warrants
+135
+
+— 
+— 
+— 
+— 
+—
+
+Share-based compensation
+— 
+— 
+30,257
+
+— 
+— 
+30,257
+
+Repurchase and retirement of common stock, including excise tax
+(
+35,243
+)
+(
+4
+)
+(
+164,996
+)
+— 
+— 
+(
+165,000
+)
+Change in accumulated other comprehensive loss
+— 
+— 
+— 
+174
+
+— 
+174
+
+Net loss
+— 
+— 
+— 
+— 
+(
+647
+)
+(
+647
+)
+Balance as of June 30, 2025
+449,459
+
+$
+45
+
+$
+1,650,305
+
+$
+(
+102
+)
+$
+(
+806,815
+)
+$
+843,433
+
+Issuance of common stock upon exercise of options
+27
+
+— 
+50
+
+— 
+— 
+50
+
+Issuance of common stock upon net settlement of restricted stock units
+3,017
+
+— 
+(
+11,650
+)
+— 
+— 
+(
+11,650
+)
+Vesting of common stock warrants
+— 
+— 
+252
+
+— 
+— 
+252
+
+Share-based compensation
+— 
+— 
+28,645
+
+— 
+— 
+28,645
+
+Repurchase and retirement of common stock, including excise tax
+(
+3,158
+)
+— 
+(
+19,376
+)
+— 
+— 
+(
+19,376
+)
+Change in accumulated other comprehensive income (loss)
+— 
+— 
+— 
+1,499
+
+— 
+1,499
+
+Net loss
+— 
+— 
+— 
+— 
+(
+3,624
+)
+(
+3,624
+)
+Balance as of September 30, 2025
+449,345
+
+$
+45
+
+$
+1,648,226
+
+$
+1,397
+
+$
+(
+810,439
+)
+$
+839,229
+
+7
+Table of Contents
+Common Stock
+Additional Paid-in Capital
+Accumulated Other Comprehensive Income (Loss)
+Accumulated Deficit
+Total Stockholder’s Equity
+Shares
+Amount
+Balance as of December 31, 2023
+520,343
+
+$
+52
+
+$
+2,067,776
+
+$
+762
+
+$
+(
+825,195
+)
+$
+1,243,395
+
+Issuance of common stock upon exercise of options
+98
+
+— 
+49
+
+— 
+— 
+49
+
+Issuance of common stock upon net settlement of restricted stock units
+2,806
+
+— 
+(
+10,917
+)
+— 
+— 
+(
+10,917
+)
+Vesting of common stock warrants
+— 
+— 
+2,100
+
+— 
+— 
+2,100
+
+Share-based compensation
+— 
+— 
+33,393
+
+— 
+— 
+33,393
+
+Executive chairman long-term performance award
+— 
+— 
+13,121
+
+— 
+— 
+13,121
+
+Repurchase and retirement of common stock, including excise tax
+(
+5,238
+)
+— 
+(
+32,830
+)
+— 
+— 
+(
+32,830
+)
+Change in accumulated other comprehensive income (loss)
+— 
+— 
+— 
+(
+1,586
+)
+— 
+(
+1,586
+)
+Net loss
+— 
+— 
+— 
+— 
+(
+36,060
+)
+(
+36,060
+)
+Balance as of March 31, 2024
+518,009
+
+$
+52
+
+$
+2,072,692
+
+$
+(
+824
+)
+$
+(
+861,255
+)
+$
+1,210,665
+
+Issuance of common stock upon exercise of options
+33
+
+— 
+59
+
+— 
+— 
+59
+
+Issuance of common stock under employee stock purchase plan
+327
+
+— 
+1,629
+
+— 
+— 
+1,629
+
+Issuance of common stock upon net settlement of restricted stock units
+3,338
+
+— 
+(
+9,370
+)
+— 
+— 
+(
+9,370
+)
+Share-based compensation
+— 
+— 
+38,209
+
+— 
+— 
+38,209
+
+Executive chairman long-term performance award
+— 
+— 
+(
+157,738
+)
+— 
+— 
+(
+157,738
+)
+Repurchase and retirement of common stock, including excise tax
+(
+10,959
+)
+(
+1
+)
+(
+59,737
+)
+— 
+— 
+(
+59,738
+)
+Change in accumulated other comprehensive income (loss)
+— 
+— 
+— 
+(
+449
+)
+— 
+(
+449
+)
+Net income
+— 
+— 
+— 
+— 
+119,108
+
+119,108
+
+Balance as of June 30, 2024
+510,748
+
+$
+51
+
+$
+1,885,744
+
+$
+(
+1,273
+)
+$
+(
+742,147
+)
+$
+1,142,375
+
+Issuance of common stock upon exercise of options
+11
+
+— 
+13
+
+— 
+— 
+13
+
+Issuance of common stock upon net settlement of restricted stock units
+2,790
+
+— 
+(
+8,756
+)
+— 
+— 
+(
+8,756
+)
+Vesting of common stock warrants
+— 
+— 
+322
+
+— 
+— 
+322
+
+Share-based compensation
+— 
+— 
+37,145
+
+— 
+— 
+37,145
+
+Repurchase and retirement of common stock, including excise tax
+(
+9,399
+)
+(
+1
+)
+(
+48,903
+)
+— 
+— 
+(
+48,904
+)
+Change in accumulated other comprehensive income (loss)
+— 
+— 
+— 
+2,106
+
+— 
+2,106
+
+Net loss
+— 
+— 
+— 
+— 
+(
+28,643
+)
+(
+28,643
+)
+Balance as of September 30, 2024
+504,150
+
+$
+50
+
+$
+1,865,565
+
+$
+833
+
+$
+(
+770,790
+)
+$
+1,095,658
+
+8
+Table of Contents
+Marqeta, Inc.
+Condensed Consolidated Statements of Cash Flows
+(in thousands)
+(unaudited)
+Nine Months Ended September 30,
+2025
+2024
+Cash flows from operating activities:
+Net (loss) income
+$
+(
+12,531
+)
+$
+54,405
+
+Adjustments to reconcile net (loss) income to net cash provided by operating activities:
+Depreciation and amortization
+19,003
+
+11,941
+
+Share-based compensation expense
+78,689
+
+103,258
+
+Executive chairman long-term performance award
+—
+
+(
+144,617
+)
+Non-cash operating leases expense
+1,727
+
+1,017
+
+Accretion of discount on short-term investments
+(
+691
+)
+(
+2,650
+)
+Other
+5,365
+
+328
+
+Changes in operating assets and liabilities:
+Accounts receivable
+(
+3,834
+)
+(
+7,285
+)
+Settlements receivable
+587
+
+18,105
+
+Network incentives receivable
+18,011
+
+7,140
+
+Prepaid expenses and other assets
+(
+2,743
+)
+3,195
+
+Accounts payable
+(
+125
+)
+(
+3,274
+)
+Revenue share payable
+11,575
+
+(
+6,564
+)
+Accrued expenses and other liabilities
+(
+2,358
+)
+545
+
+Operating lease liabilities
+(
+3,374
+)
+(
+2,129
+)
+Net cash provided by operating activities
+109,301
+
+33,415
+
+Cash flows from investing activities:
+Purchases of property and equipment
+(
+1,992
+)
+(
+2,382
+)
+Capitalization of internal-use software
+(
+21,470
+)
+(
+14,577
+)
+Cash paid for business combination, net of cash acquired
+(
+44,608
+)
+—
+
+Restricted cash acquired in business combination
+229,650
+
+—
+
+Purchases of short-term investments
+(
+3,501
+)
+—
+
+Maturities of short-term investments
+100,160
+
+54,000
+
+Net cash provided by investing activities
+258,239
+
+37,041
+
+Cash flows from financing activities:
+Change in funds payable and amounts due to customers
+4,263
+
+—
+
+Proceeds from exercise of stock options, including early exercised stock options, net of repurchase of early exercised unvested options
+1,630
+
+121
+
+Proceeds from shares issued in connection with employee stock purchase plan
+994
+
+1,629
+
+Taxes paid related to net share settlement of restricted stock units
+(
+28,493
+)
+(
+29,043
+)
+Repurchase of common stock
+(
+294,788
+)
+(
+137,718
+)
+Net cash used in financing activities
+(
+316,394
+)
+(
+165,011
+)
+Net increase (decrease) in cash, cash equivalents, and restricted cash
+51,146
+
+(
+94,555
+)
+Cash, cash equivalents, and restricted cash- Beginning of period
+931,516
+
+989,472
+
+Cash, cash equivalents, and restricted cash - End of period
+$
+982,662
+
+$
+894,917
+
+See accompanying notes to Condensed Consolidated Financial Statements.
+9
+Table of Contents
+Marqeta, Inc.
+Condensed Consolidated Statements of Cash Flows
+(in thousands)
+(unaudited)
+Nine Months Ended September 30,
+2025
+2024
+Reconciliation of cash, cash equivalents, and restricted cash
+Cash and cash equivalents
+$
+747,248
+
+$
+886,417
+
+Restricted cash
+234,519
+
+8,500
+
+Restricted cash, included in Other assets
+895
+
+—
+
+Total cash, cash equivalents, and restricted cash
+$
+982,662
+
+$
+894,917
+
+Supplemental disclosures of non-cash investing and financing activities:
+Purchase of property and equipment accrued and not yet paid
+$
+1,087
+
+$
+2,240
+
+Share-based compensation capitalized to internal-use software
+$
+8,649
+
+$
+5,489
+
+Repurchase of common stock, including excise tax, accrued and not yet paid
+$
+2,808
+
+$
+4,373
+
+Operating lease right-of-use assets in exchange for lease liabilities
+$
+3,463
+
+$
+577
+
+Contingent and holdback considerations, not yet paid
+$
+7,047
+
+$
+—
+
+See accompanying notes to Condensed Consolidated Financial Statements.
+10
+Table of Contents
+Marqeta, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Tabular Amounts in Thousands, Except Per Share Amounts, Ratios, or as Noted)
+(unaudited)
+
+1.    
+Business Overview and Basis of Presentation
+Marqeta, Inc. (“the Company”) was incorporated in the state of Delaware in 2010 and creates digital payment technology for innovation leaders. The Company's modern card issuing platform empowers its customers to create customized and innovative payment card programs, giving them the configurability and flexibility to build better payment experiences.
+The Company provides all of its customers issuer processor services and for most of its customers it also acts as a card program manager. The Company primarily earns revenue from processing card transactions for its customers.
+Basis of Presentation
+The accompanying unaudited Condensed Consolidated Financial Statements have been prepared in accordance with generally accepted accounting principles in the United States of America (“GAAP”) and the applicable rules and regulations of the Securities and Exchange Commission, (“SEC”), for interim reporting. Certain information and note disclosures included in the Company’s annual financial statements prepared in accordance with GAAP have been condensed or omitted pursuant to such rules and regulations. The Condensed Consolidated Balance Sheet as of December 31, 2024 has been derived from the Company’s audited consolidated financial statements, which are included in the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2024, which was filed with the SEC on February 26, 2025. The accompanying Condensed Consolidated Financial Statements should be read in conjunction with the Company’s consolidated financial statements and notes thereto included in the Annual Report on Form 10-K.
+The accompanying unaudited Condensed Consolidated Financial Statements include the accounts of the Company and its wholly-owned subsidiaries. All intercompany balances and transactions have been eliminated in consolidation. In the opinion of management, the accompanying Condensed Consolidated Financial Statements reflect all adjustments of a normal, recurring nature considered necessary for a fair presentation of the Company's consolidated financial position, results of operations, comprehensive loss, and cash flows for the interim periods presented. The interim results for the three and nine months ended September 30, 2025 are not necessarily indicative of the results that may be expected for the year ending December 31, 2025, or for any other future annual or interim period.
+Use of Estimates
+The preparation of the financial statements in conformity with GAAP requires management to make various estimates and assumptions relating to reported amounts of assets and liabilities, disclosure of contingent liabilities, and reported amounts of revenue and expenses. Significant estimates and assumptions include, but are not limited to, the fair value and useful lives of assets acquired and liabilities assumed through business combinations, the estimation of contingent liabilities, the fair value of equity awards and warrants, share-based compensation, the estimation of variable consideration in contracts with customers, the cumulative network incentive rate the Company expects to earn during the annual measurement period, the reserve for contract contingencies and processing errors and valuation of income taxes. Actual results could differ materially from these estimates.
+Business Risks and Uncertainties
+The Company has incurred net losses each quarter since its inception with the exception of the quarter ended June 30, 2024. The Company had an accumulated deficit of $
+810.4
+ million as of September 30, 2025. The Company expects to incur net losses from operations for the foreseeable future as it incurs costs and expenses related to creating new products for customers, acquiring new customers, developing its brand, expanding into new geographies and continued development of the existing platform infrastructure. The Company believes that its cash and cash equivalents of $
+747.2
+ million and short-term investments of $
+83.2
+ million as of September 30, 2025 are sufficient to fund its operations through at least the next twelve months from the issuance of these financial statements.
+11
+Table of 
+Contents
+2.
+
+Summary of Significant Accounting Policies
+Significant Accounting Policies
+Costs of Revenue
+The Company has marketing and incentive arrangements with Card Networks that provide the Company with monetary incentives for establishing customer card programs with and routing transaction volume through the respective Card Networks. These incentives are typically calculated as a percentage of the processed transaction volume or the number of transactions routed through the Card Network. The Company accounts for these incentives as a reduction of Card Network fees within Costs of Revenue in customer arrangements where the Company acts as the principal. As processing volumes increase, the Company earns a higher cumulative incentive rate, subject to achieving specific cumulative volume thresholds within an annual measurement period. For certain incentive arrangements, the annual measurement period may not align with the Company’s fiscal year. 
+Prior to the second quarter of fiscal year 2025, the Company recognized network incentives in the period when cumulative transaction volume thresholds were met, which was due to insufficient data to reliably estimate the incentives the Card Networks would ultimately earn over the respective annual period. This approach resulted in fluctuations in Card Network fees, particularly when thresholds were reached, as higher incentive rates were applied retroactively to the entire measurement period. Historically, the Company has earned the highest incentive rates in the first quarter of its fiscal year, when annual measurement periods are nearing completion and higher cumulative transaction volume thresholds are achieved. Conversely, the second quarter generally reflected the lowest incentive rates, as the annual measurement periods and cumulative transaction volume thresholds reset to lower levels.
+Effective in the second quarter of fiscal year 2025, the Company revised its accounting policy for estimating and recognizing network incentives. The Company now estimates and recognizes network incentives based on the cumulative incentive rates it expects to earn over the annual measurement period. The Company estimates the cumulative incentive rates based on its forecasts for the annual measurement periods, which incorporate both historical experience and our expectations of future events, in addition to other qualitative considerations. The cumulative incentive rates are applied to the volume and/or number of transactions processed during the reporting period to calculate the quarterly network incentives recognized. As a result of this policy revision, the Card Network incentives recognized during the three months ended September 30, 2025 were $
+1.3
+ million lower compared to the amount that would have been recognized under the previous policy. The cumulative impact of the revised policy on Card Network incentives recognized from April 1, 2025 through September 30, 2025 was $
+5.5
+ million higher than the amount that would have been recognized under the previous policy.  
+Uncollected incentives are included in network incentives receivable on the Condensed Consolidated Balance Sheets. The Company's contracts with Card Networks and Issuing Banks generally have terms ranging between 
+three
+ to 
+five years
+, with options for renewal in 
+one
+- to 
+two-year
+ increments upon mutual agreement.
+Restricted Cash
+As of September 30, 2025, restricted cash primarily consisted of (i) cash used to secure a letter of credit for the Company’s office lease in Oakland, California, and (ii) funds held by TransactPay on behalf of its customers related to card and electronic money (“e-money”) wallet programs. The restricted cash associated with these customer funds arose from the Company’s acquisition of TransactPay on July 31, 2025 (see Note 4, “Business Combinations,” for further details). These funds represent program collateral, safeguarded funds, or settlement balances required to support timely transaction settlement. In the normal course of business, TransactPay receives customer funds in exchange for e-money issued or spent funds within the transaction settlement period for payments to the card networks. TransactPay must comply with applicable safeguarding requirements for customer funds, which is generally satisfied by maintaining cash or cash equivalents in segregated bank accounts. Accordingly, cash and cash equivalents held to meet TransactPay’s safeguarding, collateral or settlement requirements are classified as restricted cash on the Company’s Condensed Consolidated Balance Sheet. Corresponding obligations to the TransactPay customers are recognized as funds payable and amounts due to customers within current liabilities on the Condensed Consolidated Balance Sheet, reflecting the Company's custodial role.
+12
+Table of 
+Contents
+The restricted cash acquired in the TransactPay acquisition is reflected as an investing inflow in the  Condensed Consolidated Statement of Cash Flows.
+Settlement of Payment Transactions
+Generally, customers deposit a certain amount of pre-funding into accounts maintained at Issuing Banks to settle their payment transactions. For Marqeta's operations, these pre-funding amounts may only be used to settle customers' payment transactions and are not considered assets of the Company. Unlike TransactPay’s operations in Gibraltar and Malta, which are subject to safeguarding requirements for customer funds under the applicable jurisdictional regulations, Marqeta’s operations in other geographies, including the United States, are not required to comply with such regulations as there are no equivalent safeguarding rules. Accordingly, the funds held in customers’ accounts at Issuing Banks are not reflected on the Company’s Condensed Consolidated Balance Sheets. 
+Previously, the Company maintained cash balances as collateral with certain issuing bank partners in the event customers funds were not deposited at the Issuing Banks in time to settle customer transactions with the Card Networks. These deposits are no longer subject to such collateral requirements, and as such, the Company reclassified certain cash balances amounting to $
+7.0
+ million held at Issuing Banks from restricted cash to cash and cash equivalents during the three months ended September 30, 2025.
+
+Funds payable and amounts due to customers
+Following the acquisition of TransactPay on July 31, 2025, the Company recognizes liabilities related to the customer funds held in connection with card and e-money wallet programs that are classified as restricted cash.
+Program managers and corporate customers prefund the prepaid cards issued by TransactPay. Upon receipt of the prefunding from these program managers and the issuance of e-money, TransactPay records a liability equal to the value of the prefunding and the e-money issued. This liability remains outstanding until the funds are redeemed or utilized by the end-users.
+These obligations are presented as Funds payable and amounts due to customers in the Company’s Condensed Consolidated Balance Sheet. Prior to the TransactPay acquisition, the Company did not hold such customer funds or recognize the related liabilities.
+Changes in funds payable and amounts due to customers are presented as cash flows from financing activities in the Company’s Condensed Consolidated Statement of Cash Flows. This classification aligns with the underlying nature of these balances, which represent funds received in exchange for electronic money and advances received by the Company on behalf of program managers and end-users.
+There have been no other material changes to our significant accounting policies from our Annual Report on Form 10-K for the fiscal year ended December 31, 2024.
+Recent Accounting Pronouncements
+In December 2023, the 
+Financial Accounting Standards Board (“FASB”) 
+issued ASU 2023-09, “Income Taxes (Topic 740): Improvements to Income Tax Disclosures”, which modifies the rules on income tax disclosures to require entities to disclose (1) specific categories in the rate reconciliation, (2) the income or loss from continuing operations before income tax expense or benefit (separated between domestic and foreign) and (3) income tax expense or benefit from continuing operations (separated by federal, state and foreign). ASU 2023-09 also requires entities to disclose their income tax payments to international, federal, state and local jurisdictions, among other changes. The standard is effective for the Company’s annual period beginning January 1, 2025, with interim disclosures required for the period beginning January 1, 2026. ASU 2023-09 should be applied on a prospective basis, but retrospective application is permitted. The standard will be adopted prospectively, and the Company anticipates the standard will increase the extent of its tax disclosures.
+In November 2024, the FASB issued Accounting Standards Update No. 2024-03, “Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures” (“ASU 2024-03”). ASU 2024-03 is intended to improve disclosures about a public business entity's expenses and provide more detailed information to investors about the types of expenses in commonly presented expense captions. The amendments in this ASU are effective for the Company in fiscal 2027 on a retrospective basis, with early 
+13
+Table of 
+Contents
+adoption permitted. The Company is currently evaluating the operational and financial reporting implications of this standard.
+In September 2025, the FASB issued Accounting Standards Update No. 2025-06, “Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Targeted Improvements to the Accounting for Internal-Use Software” ("ASU 2025-06"). ASU 2025-06 modernizes the accounting for internal-use software costs by increasing the operability of the recognition guidance considering different methods of software development. ASU 2025-06 can be applied prospectively, retrospectively, or with a modified transition approach, and is effective for the Company for annual reporting as well as interim period reporting beginning in fiscal year 2028 with early adoption permitted. The Company is currently evaluating the impact that the adoption of this standard will have on its condensed consolidated financial statements and disclosures.
+3.    
+Revenue
+Disaggregation of Revenue
+The following table provides information about disaggregated revenue from customers:
+Three Months Ended September 30,
+Nine Months Ended September 30,
+2025
+2024
+2025
+2024
+Platform services revenue, net
+$
+155,774
+
+$
+121,800
+
+$
+430,778
+
+$
+355,005
+
+Other services revenue
+7,532
+
+6,167
+
+21,993
+
+16,200
+
+Total net revenue
+$
+163,306
+
+$
+127,967
+
+$
+452,771
+
+$
+371,205
+
+Contract Balances
+The following table provides information about contract assets and deferred revenue:
+Contract balance
+Balance sheet line reference
+September 30,
+2025
+December 31,
+2024
+Contract assets - current
+Prepaid expenses and other current assets
+$
+3,903
+
+$
+1,605
+
+Contract assets - non-current
+Other assets
+7,405
+
+10,981
+
+Total contract assets
+$
+11,308
+
+$
+12,586
+
+Deferred revenue - current
+Accrued expenses and other current liabilities
+$
+13,309
+
+$
+13,593
+
+Deferred revenue - non-current
+Other liabilities
+1,653
+
+4,779
+
+Total deferred revenue
+$
+14,962
+
+$
+18,372
+
+Net revenue recognized during the three months ended September 30, 2025 and 2024 that was included in the deferred revenue balances at the beginning of the respective periods was $
+5.0
+ million and $
+2.7
+ million, respectively. Net revenue recognized during the nine months ended September 30, 2025 and 2024 that was included in the deferred revenue balances at the beginning of the respective periods was $
+12.0
+ million and $
+7.2
+ million, respectively.
+Remaining Performance Obligations
+The Company has performance obligations associated with commitments in customer contracts for future stand-ready obligations to process transactions throughout the contractual term. As of September 30, 2025, the aggregate transaction price allocated to our remaining performance obligations was $
+44.1
+ million. The Company expects to recognize approximately 
+65
+% within 
+two years
+ and the remaining 
+35
+% over the next 
+three
+ to 
+five years
+.
+14
+Table of 
+Contents
+4.    
+Business Combinations
+TransactPay
+On July 31, 2025, the Company completed its acquisition of Neptune International Ltd, an exempted company limited by shares incorporated under the laws of Bermuda, and purchased Transact Payments Limited (collectively, with its affiliates, “TransactPay”). TransactPay provides BIN Sponsorship, E-money Licensing, and Virtual Account services in the UK and Europe. The Company’s acquisition of TransactPay strengthens its card program management in Europe and bolsters its digital payment capabilities in the UK and Europe, where e-money institution (“EMI”) licenses are required for issuing and managing electronic money.
+The preliminary purchase price consisted the following: 
+Amount 
+Cash paid at Closing
+$
+52,961
+
+Holdback consideration
+3,452
+
+Fair value of contingent consideration
+3,595
+
+Other
+(
+102
+)
+Total preliminary purchase price
+$
+59,906
+
+Holdback Consideration
+Pursuant to the terms of the merger agreement, the Company retained $
+3.5
+ million in holdback consideration, with $
+2.3
+ million for indemnification purposes and $
+1.2
+ million for post-closing adjustments, collectively, the “Holdbacks”. These Holdbacks serve to secure the sellers’ obligations with respect to pre-closing representations and warranties, potential indemnification claims, and post-closing purchase price adjustments. The Company has recognized a corresponding liability for the Holdbacks in accrued expenses and other current liabilities on the Condensed Consolidated Balance Sheet, reflecting the contingent nature of these amounts and their expected settlement within one year.
+Contingent Consideration
+As part of the acquisition, the Company agreed to provide additional contingent consideration in the form of two earn-out arrangements, which would be payable to the sellers upon satisfaction of specified post-closing performance conditions through December 31, 2025. These earn-outs are classified as liabilities and are reported in accrued expenses and other current liabilities on the Condensed Consolidated Balance Sheet. The earn-outs were initially measured at fair value as of the closing date, with subsequent changes in fair value recognized in earnings until settlement. The following details the earn-outs:
+•
+Regulatory Improvement Earn-out
+ - $
+2.3
+ million payable on an all or nothing basis if no enforcement actions, investigations, or proceedings are pending against TransactPay by any relevant regulatory authorities in Malta, Gibraltar, and/or the United States as of December 31, 2025.
+•
+Digital Products Earn-out
+ - Up to $
+3.4
+ million payable based on the achievement of escalating gross profit thresholds for TransactPay’s digital products in the year ended December 31, 2025. 
+In determining the fair value of these earn-out liabilities at Closing, the Company evaluated the probability of achieving the respective performance conditions, considering the short time frame from closing to the December 31, 2025 measurement date, along with historical and projected operational metrics. For the Regulatory Improvement Earn-Out, a high probability of success was assigned based on the lack of material regulatory issues resulting in inclusion of the full $
+2.3
+ million in the purchase price. For the Digital Products Earn-Out, a Monte Carlo simulation model was utilized, incorporating actual digital products gross profit performance through the quarter ended September 30, 2025, and forward-looking projections for the remainder of 2025, which yielded an estimated fair value of $
+1.3
+ million. These fair value estimates are Level 3 measurements under ASC 820, subject to significant unobservable inputs, and may be adjusted in future periods based on changes in anticipated outcomes.
+15
+Table of 
+Contents
+The following table summarizes the preliminary fair value of the assets acquired and liabilities assumed at the closing date:
+Amount 
+Cash and cash equivalents
+$
+8,353
+
+Restricted cash
+229,650
+
+Accounts receivable
+2,903
+
+Prepaid expenses and other current assets
+1,163
+
+Operating lease right-of-use assets
+2,484
+
+Other assets
+534
+
+Total tangible assets acquired
+245,087
+
+Funds payable and amounts due to customers
+229,650
+
+Accounts payable
+1,220
+
+Operating lease liabilities
+2,541
+
+Accrued expenses and other current liabilities
+5,991
+
+Other liabilities
+4,106
+
+Total liabilities assumed
+243,508
+
+Net tangible assets acquired
+1,579
+
+Customer relationships
+6,903
+
+EMI licenses
+21,399
+
+Goodwill
+30,025
+
+Total intangible assets acquired
+58,327
+
+Total purchase price
+$
+59,906
+
+The purchase price allocation for the TransactPay acquisition remains preliminary as of September 30, 2025, and is subject to revision for certain acquired assets and assumed liabilities. In particular, the Company continues to evaluate facts and circumstances that existed as of the closing date, which may  result in adjustments to provisional amounts for identifiable intangible assets, deferred tax assets and/or liabilities, and purchase consideration. Any measurement period adjustments will be recognized prospectively in the period in which the adjustments are determined, with the measurement period ending as soon as sufficient information is obtained or no later than one year from the closing date. 
+Restricted cash and Funds payable and amounts due to customers
+The restricted cash acquired consists of funds held on behalf of customers in segregated accounts as part of program management activities for card and e-money wallet programs. These funds function as collateral or settlement balances to facilitate timely transaction processing, and the Company is subject to restrictions on their use to ensure compliance with regulatory safeguarding requirements. Notwithstanding these restrictions, the Company bears the associated credit risk and retains the right to earn interest on the balances. Accordingly, the Company has concluded that these funds qualify as its assets and are classified as restricted cash on the Condensed Consolidated Balance Sheet. Corresponding obligations to the customers are recognized as funds payable and amounts due to customers within current liabilities on the Condensed Consolidated Balance Sheet, reflecting the Company's custodial role. 
+16
+Table of 
+Contents
+Customer Relationships
+
+The customer relationships intangible asset, which represents established relationships with program managers and end-users, was determined to have an estimated useful life of two years. The fair value was estimated using the replacement cost method, which considers the hypothetical costs to recreate these relationships.
+EMI Licenses
+The EMI licenses, which permit the issuance of e-money in relevant jurisdictions, have no fixed expiration date and can be renewed indefinitely, provided ongoing regulatory requirements, such as periodic filings and payment of required fees, are met. Accordingly, these are classified as indefinite-lived intangible assets and are not subject to amortization but will be tested for impairment annually or more frequently if indicators exist. The fair value of the EMI licenses was determined using the income approach, specifically the “with-and-without” method, which estimates the incremental economic benefit attributable to the licenses by comparing the present value of projected cash flows with and without the licenses in place. 
+Goodwill
+The goodwill is attributable to expected synergies. The acquisition is a non-taxable business combination and goodwill recognized in the acquisition is not deductible for tax purposes. 
+Acquisition Costs
+The Company incurred approximately $
+2.9
+ million acquisition related costs, of which $
+1.0
+ million was recognized during the three months ended December 31, 2024 and $
+0.8
+ million and $
+1.9
+ million were recognized during the three and nine months ended September 30, 2025, respectively, and are primarily included in professional services on the Condensed Consolidated Statements of Operations and Comprehensive (Loss) Income.
+The results of operations of TransactPay have been included in the Company’s Condensed Consolidated Statements of Operations and Comprehensive (Loss) Income from the acquisition date of July 31, 2025, through September 30, 2025. The results of operations of TransactPay for periods prior to the acquisition date were not material to the Company’s consolidated statements of operations. Accordingly, supplemental pro forma financial information has not been presented.
+5.    
+Goodwill and Intangible Assets, net 
+Goodwill
+Goodwill consisted of the following:
+Balance as of December 31, 2024
+$
+123,523
+
+Goodwill from acquisition of TransactPay
+30,025
+
+Foreign currency adjustment
+930
+
+Balance as of September 30, 2025
+$
+154,478
+
+17
+Table of 
+Contents
+Intangible Assets, net
+The following table presents the Intangible assets resulting from the Company’s business combinations  as of the dates presented:
+September 30,
+2025
+Finite-lived intangible assets:
+Developed technology
+$
+41,000
+
+Customer relationships
+7,036
+
+Total finite-lived intangible assets, gross
+48,036
+
+Accumulated amortization
+(
+16,205
+)
+Total finite-lived Intangible assets, net
+31,831
+
+Indefinite-lived intangible assets:
+EMI licenses
+21,812
+
+Total intangible assets, net
+$
+53,643
+
+December 31,
+2024
+Developed technology
+$
+41,000
+
+Accumulated amortization
+(
+11,226
+)
+Intangible assets, net
+$
+29,774
+
+The amortization period for developed technology and customer relationships intangible assets is 
+7
+ years and 
+2
+ years, respectively. Amortization expense for intangible assets was $
+2.0
+ million
+
+and $
+1.5
+ million
+
+for the three months ended September 30, 2025 and 2024, respectively, and $
+5.0
+ million and $
+4.4
+ million
+
+for the nine months ended September 30, 2025 and 2024, respectively.
+Expected future amortization expense for intangible assets was as follows as of September 30, 2025:
+Remainder of 2025
+2,344
+
+2026
+9,375
+
+2027
+7,909
+
+2028
+5,857
+
+Thereafter
+6,346
+
+Total expected future amortization expense for intangible assets
+$
+31,831
+
+6.
+
+Short-term Investments
+The Company's short-term investments are classified as available-for-sale securities and recorded at fair value within Current assets in the Condensed Consolidated Balance Sheets. These investments may be sold at anytime to support operational needs, even prior to maturity.  
+18
+Table of 
+Contents
+The following table provides the amortized cost, unrealized gain, and estimated fair value of the Company's short-term investments:
+September 30, 2025
+Amortized Cost
+Unrealized Gain
+Unrealized (Loss)
+Estimated Fair Value
+Short-term Investments
+U.S. treasury securities
+$
+71,892
+
+$
+187
+
+$
+—
+
+$
+72,079
+
+Asset-backed securities
+7,588
+
+45
+
+—
+
+7,633
+
+Certificate of deposits
+3,500
+
+—
+
+—
+
+3,500
+
+Total short-term investments
+$
+82,980
+
+$
+232
+
+$
+—
+
+$
+83,212
+
+December 31, 2024
+Amortized Cost
+Unrealized Gain
+Unrealized (Loss)
+Estimated Fair Value
+Short-term investments
+U.S. treasury securities
+$
+168,504
+
+$
+396
+
+$
+—
+
+$
+168,900
+
+Asset-backed securities
+10,444
+
+65
+
+—
+
+10,509
+
+Total short-term investments
+$
+178,948
+
+$
+461
+
+$
+—
+
+$
+179,409
+
+The Company did 
+no
+t have any short-term investments in unrealized loss positions as of September 30, 2025 and December 31, 2024. Generally, the Company does not intend to sell short-term investments that have unrealized losses, and does not anticipate that it is more likely than not that it will be required to sell such securities before any anticipated recovery of the entire amortized cost basis.
+There were 
+no
+ realized gains or losses from short-term investments that were reclassified out of accumulated other comprehensive loss for both the three and nine months ended September 30, 2025 and 2024. The Company determined there were no material credit or non-credit related impairments as of September 30, 2025.
+The following table summarizes the stated maturities of the Company’s short-term investments:
+September 30, 2025
+December 31, 2024
+Amortized Cost
+Estimated Fair Value
+Amortized Cost
+Estimated Fair Value
+Due within one year
+$
+75,392
+
+$
+75,578
+
+$
+112,750
+
+$
+113,015
+
+Due after one year through five years
+7,588
+
+7,634
+
+66,198
+
+66,394
+
+Total
+$
+82,980
+
+$
+83,212
+
+$
+178,948
+
+$
+179,409
+
+19
+Table of 
+Contents
+7.    
+Fair Value Measurements
+The following tables present the fair value hierarchy for assets and liabilities measured at fair value:
+September 30, 2025
+Level 1
+Level 2
+Level 3
+Total Fair Value
+Cash equivalents
+Money market funds
+$
+204,462
+
+$
+—
+
+$
+—
+
+$
+204,462
+
+U.S. treasury bills
+271,538
+
+—
+
+—
+
+271,538
+
+Commercial paper
+—
+
+42,203
+
+—
+
+42,203
+
+Corporate debt securities
+—
+
+10,843
+
+—
+
+10,843
+
+Certificates of deposit
+—
+
+34,443
+
+—
+
+34,443
+
+Short-term investments
+U.S. treasury securities
+72,079
+
+—
+
+—
+
+72,079
+
+Asset-backed securities
+—
+
+7,633
+
+—
+
+7,633
+
+Certificates of deposit
+—
+
+3,500
+
+—
+
+3,500
+
+Restricted cash
+Money market funds
+42,781
+
+—
+
+—
+
+42,781
+
+Total assets measured at fair value
+$
+590,860
+
+$
+98,622
+
+$
+—
+
+$
+689,482
+
+Accrued expenses and other current liabilities
+Contingent consideration liability
+$
+—
+
+$
+—
+
+$
+3,664
+
+$
+3,664
+
+Total liabilities
+$
+—
+
+$
+—
+
+$
+3,664
+
+$
+3,664
+
+December 31, 2024
+Level 1
+Level 2
+Level 3
+Total Fair Value
+Cash equivalents
+Money market funds
+$
+458,195
+
+$
+—
+
+$
+—
+
+$
+458,195
+
+U.S. treasury bills
+214,189
+
+—
+
+—
+
+214,189
+
+Commercial paper
+—
+
+8,028
+
+—
+
+8,028
+
+Corporate debt securities
+—
+
+53,238
+
+—
+
+53,238
+
+Certificates of deposit
+—
+
+25,779
+
+—
+
+25,779
+
+Short-term investments
+U.S. treasury securities
+168,900
+
+—
+
+—
+
+168,900
+
+Asset-backed securities
+—
+
+10,509
+
+—
+
+10,509
+
+Total assets measured at fair value
+$
+841,284
+
+$
+97,554
+
+$
+—
+
+$
+938,838
+
+The Company classifies money market funds, U.S. treasury bills, commercial paper, certificates of deposit, U.S. treasury securities, asset-backed securities, and corporate debt securities within Level 1 or Level 2 of the fair value hierarchy because the Company values these investments using quoted market prices or alternative pricing sources and models utilizing market observable inputs. The Company classifies the fair value of contingent consideration liability within Level 3 of the fair value hierarchy due to significant inputs that are not observable in the market, including the probability of achieving the milestones, estimated gross profit and discount rates. 
+There were no transfers of financial instruments between the fair value hierarchy levels during the three and nine months ended September 30, 2025, or the year ended December 31, 2024.
+20
+Table of 
+Contents
+8.    
+Certain Balance Sheet Components
+Property and Equipment, net
+Property and equipment consisted of the following:
+September 30,
+2025
+December 31,
+2024
+Leasehold improvements
+$
+9,666
+
+$
+8,110
+
+Computer equipment
+9,615
+
+9,415
+
+Furniture and fixtures
+2,611
+
+2,525
+
+Internally developed and purchased software
+77,652
+
+47,300
+
+Total property and equipment, gross
+99,544
+
+67,350
+
+Accumulated depreciation and amortization
+(
+43,017
+)
+(
+29,827
+)
+Property and equipment, net
+$
+56,527
+
+$
+37,523
+
+Depreciation and amortization expense related to property and equipment was $
+5.6
+ million and $
+2.9
+ million for the three months ended September 30, 2025 and 2024, respectively and $
+14.6
+ million and $
+7.5
+ million for the nine months ended September 30, 2025 and 2024, respectively.
+The Company capitalized $
+11.0
+ million and $
+5.6
+ million as internal-use software development costs during the three months ended September 30, 2025, and 2024, respectively, and $
+30.5
+ million and $
+20.2
+ million during the nine months ended September 30, 2025, and 2024, respectively.
+Accrued Expenses and Other Current Liabilities
+Accrued expenses and other current liabilities consisted of the following:
+September 30,
+2025
+December 31, 2024
+Accrued costs of revenue
+$
+91,550
+
+$
+85,745
+
+Accrued compensation and benefits
+35,288
+
+45,754
+
+Deferred revenue
+13,309
+
+13,593
+
+Due to Issuing Banks
+7,721
+
+7,721
+
+Accrued tax liabilities
+7,946
+
+5,434
+
+Accrued professional services
+1,454
+
+3,567
+
+Operating lease liabilities, current portion
+3,065
+
+4,627
+
+Holdback consideration liability (see Note 4)
+3,518
+
+—
+
+Contingent consideration liability (see Note 4)
+3,664
+
+—
+
+Reserve for contract contingencies and processing errors
+—
+
+1,862
+
+Other accrued liabilities
+28,846
+
+8,756
+
+Accrued expenses and other current liabilities
+$
+196,361
+
+$
+177,059
+
+9.    
+Leases
+In 2016, the Company entered into a lease agreement for its principal executive office located in Oakland, California (the “Oakland lease”), for 
+19,000
+ square feet of office space, which was subsequently amended resulting in a total of 
+63,000
+ square feet of office space being leased. The Company’s lease payments consist primarily of fixed rental payments for the right to use the underlying leased assets over the lease terms. The Company is responsible for operating expenses that exceed the amount of base operating expenses as defined in the original lease agreement.
+21
+Table of 
+Contents
+During the second quarter of 2025, the Company amended its Oakland lease, extending the term for certain floors by 
+24
+ months. The lease modification was not accounted for as a separate contract, and the extension has been accounted for as an operating lease. Accordingly, the Company recorded an increase to the Operating lease right-of-use assets, net and Operating lease liabilities, net of current portion in the Condensed Consolidated Balance Sheets of approximately $
+3.5
+ million, which represents the present value of the lease payments for the 24-month extension.  
+As part of the TransactPay acquisition (see Note 4, “Business Combinations,” for further details), the Company assumed 
+two
+ operating leases for office space in Malta and Gibraltar expiring in October 2029 and October 2035, respectively. Consistent with the Oakland lease, these lease arrangements consist primarily of fixed rental payments in exchange for the right to use the underlying leased assets over the respective lease terms, with no significant variable lease payments or purchase options. As of the acquisition date, the Company recognized right-of-use assets and corresponding operating lease liabilities of $
+2.5
+ million based on the present value of the remaining lease payments.
+The Company's operating lease costs are as follows:
+Three Months Ended September 30,
+Nine Months Ended September 30,
+2025
+2024
+2025
+2024
+Operating lease cost
+$
+687
+
+$
+900
+
+$
+1,922
+
+$
+2,637
+
+Variable lease cost
+152
+
+152
+
+432
+
+492
+
+Short-term lease cost
+162
+
+146
+
+472
+
+333
+
+Total lease cost
+$
+1,001
+
+$
+1,198
+
+$
+2,826
+
+$
+3,462
+
+The Company does not have any sublease income and its lease agreements do not contain any residual value guarantees or material restrictive covenants.
+The weighted average remaining operating lease term and the weighted average discount rate used in the calculation of the Company's lease assets and lease liabilities were as follows:
+September 30, 2025
+December 31, 2024
+Weighted average remaining operating lease term (in years)
+4.3
+1.1
+Weighted average discount rate
+4.5
+%
+7.6
+%
+Maturities of operating lease liabilities by year are as follows as of September 30, 2025:
+Operating Leases
+2025 (remaining)
+$
+1,242
+
+2026
+2,635
+
+2027
+2,218
+
+2028
+685
+
+2029
+347
+
+Thereafter
+1,612
+
+Total lease payments
+8,739
+
+Less imputed interest
+(
+831
+)
+Total operating lease liabilities
+$
+7,908
+
+As of September 30, 2025, the Company had additional operating lease commitments of approximately $
+1.9
+ million on an undiscounted basis for a certain office lease that will commence during the fourth quarter of 2025, with a lease term of 
+three years
+.
+22
+Table of 
+Contents
+10.    
+Commitments and Contingencies
+Letter of Credit and Restricted Cash
+In connection with the Oakland lease, the Company is required to provide the landlord a $
+1.5
+ million letter of credit. The Company has secured this letter of credit by depositing $
+1.5
+ million with the issuing financial institution. In April 2025, the lease was amended, which extended the lease for a reduced amount of office space by 
+two years
+. As part of the extension, the letter of credit will be reduced to $
+0.9
+ million effective on March 1, 2026, with an expiration date of February 2028. As of September 30, 2025, $
+0.9
+ million of restricted cash is recorded in other assets on the Condensed Consolidated Balance Sheet to reflect the extended obligation, while the remaining $
+0.6
+ million, not required after February 2026, is recorded in current assets as restricted cash. 
+As previously disclosed in Note 2, “Summary of Significant Accounting Policies” and Note 4, “Business Combinations”, restricted cash also includes customer funds held by TransactPay in segregated accounts as part of its program management activities related to card and e-money wallet programs. As of September 30, 2025, the balance of restricted cash associated with these customer funds was $
+233.9
+ million, of which $
+42.8
+ million is invested in money market funds. 
+Legal Contingencies
+From time to time in the normal course of business, the Company may be subject to various legal matters such as threatened or pending claims or proceedings. Given the unpredictable nature of legal proceedings, the Company bases its assessment on the information available at the time the financials are available to be issued. As additional information becomes available, the Company reassesses the probability of the loss contingency and the potential liability, and may revise the estimate. The Company is currently involved in the following matters:
+On December 9, 2024, a putative securities class action lawsuit, captioned 
+Wai v. Marqeta, Inc., et al.
+, Case No. 24-cv-08874 (N.D. Cal.), was filed in federal court in the Northern District of California (“Court”) against the Company, its former Chief Executive Officer, and its Chief Financial Officer (“Defendants”) alleging violations of federal securities laws. The lawsuit asserted that Defendants made false or misleading statements relating to the Company’s performance or revenue and gross profit expectations in violation of Sections 10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated thereunder.
+On December 10, 2024, a second putative securities class action lawsuit, captioned 
+Ford v. Marqeta, Inc.
+, et al., Case No. 24-cv-08892 (N.D. Cal.), was filed in the same Court against the same Defendants alleging violations of the same federal securities laws. The second lawsuit asserted similar theories of liability as the first lawsuit. Both lawsuits (collectively, the “Securities Actions”) seek to recover damages on behalf of shareholders who acquired shares of the Company’s common stock during their respective putative class periods.
+The Securities Actions have been consolidated into one consolidated securities litigation captioned 
+In re Marqeta, Inc. Securities Litigation
+, Case No. 24-08874-YGR (N.D. Cal) and the Court has appointed a lead plaintiff and lead plaintiff’s counsel in the matter. On April 10, 2025, the lead plaintiff filed a consolidated amended complaint, which alleges a putative class period of between February 28, 2024 and November 4, 2024. The Company and the other Defendants filed a motion to dismiss the consolidated amended complaint on May 15, 2025. 
+On November 3, 2025, a settlement was reached, in principle, with the lead plaintiff’s counsel to resolve the Securities Actions for payments totaling $
+13.0
+ million. The settlement is subject to further documentation and judicial approvals. The Company has recorded a legal contingency expense of $
+4.3
+ million during the three and nine months ended September 30, 2025, which represents the Company’s probable loss amount related to the Securities Actions and is included within other operating expenses on the Condensed Consolidated Statement of Operations and Comprehensive (Loss) Income. This expense is based upon the remaining retention of the Company’s Directors & Officers Insurance Policy, pursuant to which the Company is responsible for the first $
+5.0
+ million of expenses incurred, inclusive of legal defense fees, of which the Company has paid approximately $
+0.7
+ million as of September 30, 2025. Insurance proceeds are expected to cover any amount of the settlement above the Company’s $5.0 million self-insured retention. The determination that the insurance recovery of any figure higher 
+23
+Table of 
+Contents
+than the Company’s self-insured retention is based on the terms of the applicable insurance policies and the Company’s communications with the insurers. 
+The settlement liability is recorded in accrued expenses and other current liabilities on the Condensed Consolidated Balance Sheet, and an other asset has been established for the amount the Company expects to receive from the insurers, which is recorded in prepaid expenses and other current assets on the Condensed Consolidated Balance Sheet. 
+On February 4, 2025, a putative shareholder derivative lawsuit, captioned 
+Smith v. Khalaf, et al.
+, Case No. 25-cv-01174 (N.D. Cal.), was filed in the same Court against the Company’s former Chief Executive Officer, its Chief Financial Officer, and its Board of Directors (as then constituted), and names the Company as a nominal defendant. This lawsuit asserts claims for breach of fiduciary duties and violations of federal securities laws, among other claims, between the time period of May 7, 2024 and November 4, 2024 under similar theories as the Securities Actions. Two other substantially similar putative shareholder derivative lawsuits, captioned 
+Ojserkis v. Khalaf, et al.
+, Case No. 25-cv-01883 (N.D. Cal.) and 
+Preciado v. Khalaf, et al.
+, Case No. 3:25-cv-02100 (N.D. Cal.), were filed on February 21, 2025 and February 27, 2025, respectively. All three putative shareholder derivative suits have been consolidated into one lawsuit captioned 
+In re Marqeta, Inc. Derivative Litigation
+, Case No. 4:25-cv-01174-YGR (N.D. Cal). The consolidated derivative action is currently stayed pending developments in the consolidated Securities Actions. 
+Settlement of Payment Transactions
+As described in Note 2, “Summary of Significant Accounting Policies,”  pre-funding amounts deposited by program management customers into accounts maintained at Issuing Banks may only be used to settle customers’ payment transactions, and are not subject to same safeguarding regulations as TransactPay’s customer funds,  and as such, are not considered assets of the Company. Accordingly, the funds held in customers’ accounts at Issuing Banks are not reflected on the Company’s Condensed Consolidated Balance Sheets. If a customer does not have sufficient funds to settle a transaction, the Company is liable to the Issuing Bank to settle the transaction and would therefore incur losses if such amounts cannot be subsequently recovered from the customer. The Company did not incur losses of this nature during the three and nine months ended September 30, 2025 and 2024, respectively.
+Indemnifications
+In the ordinary course of business, the Company enters into agreements of varying scope and terms pursuant to which it agrees to indemnify customers, Card Networks, Issuing Banks, vendors, lessors, and other parties with respect to certain matters, including, but not limited to, losses or expenses arising out of the breach of such agreements, services to be provided by the Company or from intellectual property infringement claims made by third parties. With respect to Issuing Banks, the Company has received requests for indemnification from time to time and may indemnify an Issuing Bank  for losses such Issuing Bank may incur for non-compliance with applicable laws and regulations, if those losses resulted from the Company’s failure to perform under its program agreement. No significant claims have been incurred during the three and nine months ended September 30, 2025 and 2024. 
+In addition, the Company has entered into indemnification agreements with its directors and certain officers and employees that will require the Company, among other things, to indemnify them against certain liabilities that may arise by reason of their status or service as directors, officers, or employees. As of September 30, 2025 and December 31, 2024, no demands have been made upon the Company to provide indemnification under such agreements, and the Company is not aware of any claims that could have a material effect on its Condensed Consolidated Financial Statements.
+The Company also includes service level commitments to its customers, warranting certain levels of performance and permitting these customers to receive credits in the event the Company fails to meet the levels outlined in their respective agreements. No material credits were issued during the three and nine months ended September 30, 2025 and 2024.
+
+24
+Table of 
+Contents
+11.    
+Stock Incentive Plans
+The following table presents the share-based compensation expense by award type recognized within the following line items in the Condensed Consolidated Statement of Operations and Comprehensive (Loss) Income and Condensed Consolidated Balance Sheet in the periods presented:
+Three Months Ended September 30,
+Nine Months Ended September 30,
+2025
+2024
+2025
+2024
+Restricted stock units
+$
+23,132
+
+$
+27,903
+
+$
+71,041
+
+$
+80,722
+
+Stock options
+1,185
+
+5,837
+
+4,808
+
+18,422
+
+Performance restricted stock units
+1,172
+
+1,631
+
+2,244
+
+3,239
+
+Employee Stock Purchase Plan
+215
+
+283
+
+596
+
+875
+
+Share-based compensation recorded within Compensation and benefits
+25,704
+
+35,654
+
+78,689
+
+103,258
+
+Executive chairman long-term performance award
+—
+
+—
+
+—
+
+(
+144,617
+)
+Property and equipment (capitalized internal-use software)
+2,941
+
+1,491
+
+8,649
+
+5,489
+
+Total share-based compensation expense (benefit)
+$
+28,645
+
+$
+37,145
+
+$
+87,338
+
+$
+(
+35,870
+)
+Restricted Stock Units and Performance Share Units
+A summary of the Company's restricted stock units (RSUs) and performance-based restricted stock units (PSUs) activity under the Plans was as follows:
+Number of Units
+Weighted- average grant date fair value per share
+Balance as of December 31, 2024
+33,806
+
+$
+5.96
+
+Granted
+23,130
+
+$
+4.38
+
+Vested
+(
+14,219
+)
+$
+5.92
+
+Forfeited
+(
+8,912
+)
+$
+5.74
+
+Balance as of September 30, 2025
+33,805
+
+$
+4.95
+
+As of September 30, 2025, unrecognized compensation expense related to unvested RSUs and PSUs was $
+151.5
+ million. These costs are expected to be recognized over a weighted-average period of 
+1.9
+ years.
+25
+Table of 
+Contents
+Stock Options
+A summary of the Company's stock option activity under the Plans is as follows:
+Number of Options
+Weighted- Average Exercise Price per Share
+Weighted - Average remaining Contractual Life (Years)
+Aggregate Intrinsic Value 
+(1)
+Balance as of December 31, 2024
+14,962
+
+$
+9.19
+
+5.82
+$
+5,819
+
+Granted
+—
+
+—
+
+Exercised
+(
+491
+)
+3.34
+
+Forfeited
+(
+6,254
+)
+12.72
+
+Balance as of September 30, 2025
+8,217
+
+$
+6.84
+
+5.97
+$
+9,161
+
+Exercisable as of September 30, 2025 
+(2)
+7,346
+
+$
+6.98
+
+5.82
+$
+9,161
+
+Vested as of September 30, 2025
+7,261
+
+$
+6.96
+
+5.81
+$
+8,681
+
+(1) Intrinsic value is calculated based on the difference between the exercise price of in-the-money-stock options and the fair value of the common stock as of the respective balance sheet dates.
+(2) The 2011 Plan allows for early exercise of stock options. Accordingly, options granted under this plan are included as exercisable stock options regardless of vesting status.
+As of September 30, 2025, aggregate unrecognized compensation expense related to unvested outstanding stock options was $
+3.5
+ million. These costs are expected to be recognized over a weighted-average period of 
+1.0
+ years.
+12.    
+Stockholders’ Equity Transactions
+Share Repurchase Programs
+On May 6, 2024, the Company’s Board of Directors authorized a share repurchase program of up to $
+200
+ million of the Company’s Class A common stock (the “2024 Share Repurchase Program”). Under the 2024 Share Repurchase Program, the Company was authorized to repurchase shares through open market purchases, in privately negotiated transactions or by other methods, in accordance with applicable federal securities laws, including through trading plans under Rule 10b5-1 of the Exchange Act. Repurchase decisions, including timing and volume of repurchases, are based on general business and market conditions, and other factors, including legal requirements. The 2024 Share Repurchase Program had no set expiration date and was fully completed during the first quarter of 2025. 
+On February 25, 2025, the Company’s Board of Directors authorized an additional share repurchase program for up to $
+300
+ million of the Company’s Class A common stock (the “2025 Share Repurchase Program”). Under the 2025 Share Repurchase Program, the Company is authorized to repurchase shares through open market purchases, in privately negotiated transactions, or by other means, in accordance with applicable federal securities laws, including through trading plans under Rule 10b5-1 of the Exchange Act. Repurchase decisions are based on general business and market conditions, and other factors, including legal requirements. The 2025 Share Repurchase Program has no set expiration date.
+During the nine months ended September 30, 2025, the Company repurchased approximately 
+19.2
+ million shares under the 2024 Share Repurchase Program for a total cost of $
+80.5
+ million, at an average price of $
+4.20
+ per share. The aggregate cost of the shares repurchased and the related transaction costs and excise taxes of $
+1.1
+ million during the nine months ended September 30, 2025 are reflected as a reduction to common stock and Additional paid-in capital on the Company’s Condensed Consolidated Balance Sheet. 
+During the three and nine months ended September 30, 2025, the Company repurchased approximately 
+3.2
+ million and 
+45.5
+ million shares under the 2025 Share Repurchase Program for $
+19.3
+ million and $
+212.4
+ million, at an average price of $
+6.12
+ and $
+4.67
+ per share, respectively. The aggregate cost of the shares repurchased and the related transaction costs and excise taxes of $
+0.1
+ million and $
+2.7
+ million during the three and nine months ended September 30, 2025, respectively, are reflected as a reduction to 
+26
+Table of 
+Contents
+Common stock and Additional paid-in capital on the Company’s Condensed Consolidated Balance Sheet. As of September 30, 2025, $
+87.6
+ million remained available for future share repurchases under the 2025 Share Repurchase Program.
+During the three and nine months ended September 30, 2024, the Company repurchased approximately 
+9.4
+ million and 
+20.4
+ million shares in the open market under the 2024 Share Repurchase Program for $
+48.4
+ million and $
+107.5
+ million at an average price of $
+5.15
+ and $
+5.28
+ per share, respectively. The aggregate cost of the shares repurchased and the related transaction costs and excise taxes of $
+0.5
+ million and $
+1.2
+ million during the three and nine months ended September 30, 2024 are reflected as a reduction to Common stock and Additional paid-in capital on the Company’s Condensed Consolidated Balance Sheets. 
+Additionally, during the nine months ended September 30, 2024, the Company repurchased 
+5.2
+ million shares under the 2023 Share Repurchase Program authorized in May 2023 (the “2023 Share Repurchase Program”) for $
+32.8
+ million, at an average price of $
+6.27
+ per share. Repurchases under the 2023 Share Repurchase Program were completed during the first quarter of 2024.
+13.    
+Net (Loss) Income Per Share Attributable to Common Stockholders
+Basic net (loss) income per share is computed by dividing the net (loss) income by the weighted-average number of shares of common stock outstanding during the period. Diluted net (loss) income per share is computed by dividing net (loss) income by the weighted-average number of shares of common stock outstanding adjusted for the dilutive effect of all potential shares of common stock. In periods when the Company reported a net loss, diluted net loss per share is the same as basic net loss per share because the effects of potentially dilutive items are anti-dilutive.
+The Company calculated basic and diluted net (loss) income per share attributable to common stockholders as follows: 
+Three Months Ended September 30,
+Nine Months Ended September 30,
+2025
+2024
+2025
+2024
+Class A
+Class B
+Class A
+Class B
+Class A
+Class B
+Class A
+Class B
+Numerator
+Net (loss) income attributable to common stockholders, basic
+$
+(
+3,355
+)
+$
+(
+269
+)
+$
+(
+26,581
+)
+$
+(
+2,062
+)
+$
+(
+11,644
+)
+$
+(
+887
+)
+$
+49,672
+
+$
+4,733
+
+Net (loss) income attributable to common stockholders, diluted
+$
+(
+3,355
+)
+$
+(
+269
+)
+$
+(
+26,581
+)
+$
+(
+2,062
+)
+$
+(
+11,644
+)
+$
+(
+887
+)
+$
+49,419
+
+$
+4,986
+
+Denominator
+Weighted-average shares used in computing basic net (loss) income share attributable to common stockholders
+415,462
+
+33,256
+
+470,642
+
+36,518
+
+437,012
+
+33,282
+
+468,994
+
+44,684
+
+Effect of dilutive potential shares of common stock
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+5,522
+
+3,194
+
+Weighted-average shares used in computing diluted net (loss) income per share attributable to common stockholders
+415,462
+
+33,256
+
+470,642
+
+36,518
+
+437,012
+
+33,282
+
+474,516
+
+47,878
+
+Net (loss) income per share attributable to common stockholders, basic
+$
+(
+0.01
+)
+$
+(
+0.01
+)
+$
+(
+0.06
+)
+$
+(
+0.06
+)
+(
+0.03
+)
+(
+0.03
+)
+0.11
+
+0.11
+
+Net (loss) income per share attributable to common stockholders, diluted
+$
+(
+0.01
+)
+$
+(
+0.01
+)
+$
+(
+0.06
+)
+$
+(
+0.06
+)
+(
+0.03
+)
+(
+0.03
+)
+0.10
+
+0.10
+
+27
+Table of 
+Contents
+As the liquidation and dividend rights are identical for Class A common stock and Class B common stock, the undistributed earnings are allocated on a proportionate basis and the resulting income or loss per share will, therefore, be the same for both Class A common stock and Class B common stock on an individual or combined basis. 
+The following potentially dilutive securities were excluded from the computation of diluted net loss per share during the three and nine months ended September 30, 2025 and the three months ended September 30, 2024 because including them would have had an anti-dilutive effect as the Company was in a loss position during the periods:
+Three and Nine Months Ended September 30, 2025
+Three Months Ended 
+September 30, 2024
+Class A
+Class B
+Class A
+Class B
+Warrants to purchase Class B common stock
+—
+
+1,133
+
+—
+
+1,900
+
+Stock options, restricted stock, and employee stock purchase plan
+38,176
+
+3,846
+
+45,983
+
+7,464
+
+Total
+38,176
+
+4,979
+
+45,983
+
+9,364
+
+Potentially dilutive securities that were excluded from the computation of diluted net income per share because including them would have had an anti-dilutive effect were as follows:
+Nine Months Ended 
+September 30, 2024
+Class A
+Class B
+Warrants to purchase Class B common stock
+—
+
+—
+
+Stock options, restricted stock, and employee stock purchase plan
+27,281
+
+17,327
+
+Total
+27,281
+
+17,327
+
+14.    
+Income Tax
+The Company recorded an income tax expense of $
+0.5
+ million and $
+0.1
+ million for the three months ended September 30, 2025 and 2024, respectively, and $
+0.9
+ million and $
+0.4
+ million for the nine months ended September 30, 2025 and 2024, respectively. Income tax expense for both respective periods was primarily attributable to income tax expense in profitable foreign jurisdictions.
+The Company is subject to income tax audits in the U.S. and foreign jurisdictions. The Company records liabilities related to uncertain tax positions and believes that it has provided adequate reserves for income tax uncertainties in all open tax years.
+In July 2025, Congress passed and the President signed into law H.R. 1, the One Big Beautiful Bill Act (the "Tax Act"), which addresses certain business tax provisions enacted as a part of the 2017 Tax Cuts and Jobs Act including restoration of 100% bonus depreciation under Section 168(k) and Section 174 expensing for US-based research. Accounting Standards Codification Topic 740, Income Taxes, (“Topic 740”) requires the tax impacts to be included in the reporting period that includes the date the Tax Act was signed into law. As the Tax Act was enacted in the third quarter of fiscal year 2025, the Company reflected the impacts of the Tax Act in its income tax expense beginning in the third quarter of fiscal year 2025. Due to the Company's full valuation allowance on its net deferred tax assets, these tax law changes did not have a significant effect on the Company's financial position or results of operations.
+15.    
+Concentration Risks and Significant Customers 
+Financial instruments that potentially expose the Company to concentration of credit risk consist of cash and cash equivalents, short-term investments, and accounts receivable. Cash and cash equivalents held with financial institutions may exceed federally insured limits, posing potential credit risk. 
+28
+Table of 
+Contents
+As of September 30, 2025 and December 31, 2024, short-term investments were $
+83.2
+ million and $
+179.4
+ million, respectively, and there was no concentration of securities of the same issuer with an aggregate fair value greater than 5% of the total balance, except for U.S. treasury securities, which amounted to $
+72.1
+ million, or 
+87
+%, at September 30, 2025 and $
+168.9
+ million, or 
+94
+%, at December 31, 2024, respectively. 
+A significant portion of the Company's payment transactions are settled through 
+one
+ Issuing Bank, Sutton Bank. For the three months ended September 30, 2025 and 2024, 
+63
+% and 
+69
+%, respectively, of Total Processing Volume, which is the total dollar amount of payments processed through the Company’s platform, net of returns and chargebacks, was settled through Sutton Bank. For the nine months ended September 30, 2025 and 2024, 
+65
+% and 
+72
+%, respectively, of Total Processing Volume was settled through Sutton Bank.
+The Company derives a significant portion of its revenue from one customer. This customer accounted for 
+44
+% and 
+47
+% net revenue for the three months ended September 30, 2025 and 2024, respectively, and 
+45
+% and 
+48
+% for the nine months ended September 30, 2025 and 2024, respectively. As of September 30, 2025, two separate customers accounted for 
+16
+% and 
+12
+% of the Company’s accounts receivable balance. As of December 31, 2024, two separate customers accounted for 
+13
+% and 
+10
+% of the Company’s accounts receivable balance.
+
+16.    
+Segment Information
+The Company's chief operating decision maker (“CODM”) is its Chief Executive Officer and Chief Financial Officer, who regularly reviews financial information presented on a consolidated basis for purposes of allocating resources and evaluating financial performance. The Company provides a single, global, cloud-based, open API platform for modern card issuing and transaction processing, and primarily earns revenue from processing card transactions for its customers. As such, the Company operates as a single operating segment and reporting unit.
+The CODM assesses performance and decides how to allocate resources based on consolidated net income or loss as the measure of profit and loss and consolidated total assets. The measure of segment assets is reported on the balance sheet as total assets. The CODM uses net income or loss in the annual budgeting process and subsequent monitoring of budget versus actual results as well as in assessing the return on consolidated total assets.  
+29
+Table of 
+Contents
+The following is the information used by the CODM in assessing segment performance:
+Three Months Ended September 30,
+Nine Months Ended September 30,
+2025
+2024
+2025
+2024
+Net revenue
+$
+163,306
+
+$
+127,967
+
+$
+452,771
+
+$
+371,205
+
+Cost of revenue
+48,749
+
+37,835
+
+135,474
+
+117,559
+
+Gross profit
+114,557
+
+90,132
+
+317,297
+
+253,646
+
+Significant expenses:
+Employee compensation and benefits
+59,167
+
+65,311
+
+173,641
+
+195,862
+
+Share based compensation
+25,704
+
+35,653
+
+78,689
+
+103,258
+
+Technology
+16,942
+
+16,317
+
+47,855
+
+44,204
+
+Professional services
+5,518
+
+4,759
+
+15,432
+
+13,437
+
+Occupancy
+1,058
+
+1,178
+
+2,818
+
+3,476
+
+Depreciation and amortization
+7,019
+
+4,448
+
+19,003
+
+11,941
+
+Marketing and advertising
+895
+
+582
+
+2,075
+
+1,688
+
+Other operating expenses
+8,624
+
+4,115
+
+15,920
+
+11,438
+
+Executive Chairman Long-Term Performance Award
+—
+
+—
+
+—
+
+(
+144,617
+)
+(Loss) income from operations
+(
+10,370
+)
+(
+42,231
+)
+(
+38,136
+)
+12,959
+
+Interest income
+7,707
+
+13,518
+
+26,564
+
+42,020
+
+Other income (expense)
+(
+463
+)
+185
+
+(
+20
+)
+(
+175
+)
+Income tax expense
+498
+
+115
+
+939
+
+399
+
+Segment and consolidated net (loss) income
+1
+$
+(
+3,624
+)
+$
+(
+28,643
+)
+$
+(
+12,531
+)
+$
+54,405
+
+1
+  The Company operates as a single reportable segment that is managed on a consolidated basis, therefore the Company’s segment net (loss) income is the same as the Company’s consolidated net (loss) income.
+
+Net revenue outside of the United States, based on the billing address of the customer, was 
+14
+% and 
+10
+%, for the three months ended September 30, 2025 and 2024, respectively, and was 
+13
+% and 
+9
+%, for the nine months ended September 30, 2025 and 2024, respectively. 
+As of September 30, 2025 and December 31, 2024, tangible long lived assets outside of the US were not material and not used by the CODM in assessing and evaluating financial performance and allocating resources.
+
+30
+Table of Contents
+Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
+You should read the following discussion and analysis of our financial condition and results of operations together with our Condensed Consolidated Financial Statements and the related notes included elsewhere in this Quarterly Report on Form 10-Q and in our 2024 Annual Report. This discussion contains forward-looking statements based upon current expectations that involve risks and uncertainties. As discussed in the section titled “Note About Forward Looking Statements”, our actual results may differ materially from those discussed in these forward-looking statements as a result of various factors, including those set forth or incorporated by reference under the section titled “Risk Factors” in this Quarterly Report on Form 10-Q and in our 2024 Annual Report.
+Overview
+Marqeta’s mission is modernizing financial services by making the entire payment experience native and delightful. Marqeta’s modern platform empowers our customers to create customized and innovative payment card programs with configurability and flexibility. Marqeta’s open APIs provide instant access to highly scalable, cloud-based payment infrastructure that enables customers to embed the payments experience into apps or websites for a personalized user experience. Customers can launch and manage their own card programs, issue cards, and authorize and settle payment transactions quickly using our platform. We also deliver robust card program management, allowing our customers to embed Marqeta in their offering without having to build certain complex compliance elements or customer support services.
+Marqeta’s innovative products are developed with deep domain expertise and a customer-first mindset to launch, scale, and manage card programs. Marqeta provides all of its customers with issuer processor services, and for most of its customers it also acts as a card program manager. Depending on a customer’s desired level of control and responsibility, Marqeta can work with companies in a range of different configurations, but generally provides the following offerings:
+•
+Managed By Marqeta: With Managed By Marqeta (“MxM”), Marqeta typically connects customers to an Issuing Bank partner to act as the Bank Identification Number (“BIN”) sponsor for the customer’s card program, manages the customer’s card program on behalf of the Issuing Bank, and provides a full range of services including configuring many of the critical resources required by a customer’s production environment. In addition to providing the customer access to the Marqeta dashboard via our APIs, Marqeta also manages a number of the primary tasks related to launching a card program, such as defining and managing the program with the Card Networks and Issuing Bank, operating the program and managing certain profitability components, and managing compliance with applicable regulations, the Issuing Bank, and Card Network rules. Also available are a variety of managed services, including dispute management, fraud scoring, card fulfillment, reconciliation, and cardholder support services.
+•
+Powered By Marqeta: With Powered By Marqeta (“PxM”), Marqeta also provides customers access to the Marqeta dashboard via our APIs, provides payment processing, and assists with certain configuration elements that enable the customer to use the platform independently. Generally, our PxM customers are responsible for other elements of the card program, including defining and managing the program with the Card Networks and Issuing Bank as well as managing compliance with applicable regulations, the Issuing Bank, and Card Network rules.
+Given the modularity of the Marqeta platform, certain customers can also opt to incorporate some elements of MxM into their card program to create a custom solution. Many customers adopt some combination of the MxM managed services even when not adopting the full MxM offering.
+Impact of Macroeconomic Factors
+We are unable to predict the impact macroeconomic factors, including various geopolitical conflicts, uncertainty related to global elections, changes in inflation and interest rates, and uncertainty in global regulatory and economic conditions, including as a result of uncertainty in global trade from potential tariffs and counter tariffs, will have on our processing volumes, and on our future results of operations. A deterioration in macroeconomic conditions could increase the risk of lower consumer spending, including discretionary spending, consumer and merchant bankruptcy, insolvency, business failure, higher credit losses, foreign currency fluctuations, or other business interruption, which may adversely impact our business. We continue to monitor these situations and may take actions that alter our operations and business practices as may be required by federal, state, or local authorities or that we determine are in the best interests of our customers, vendors, and employees. See the section titled “Risk Factors” in this 
+31
+Table of Contents
+Quarterly Report on Form 10-Q and in our 2024 Annual Report for further discussion or incorporation by reference of the possible impact of these macroeconomic factors on our business.
+Key Operating Metric and Non-GAAP Financial Measures
+We review a number of operating and financial metrics, including the key operating metric set forth below, to help us evaluate our business and growth trends, establish budgets, evaluate the effectiveness of our investments, and assess operational efficiencies. In addition to the results determined in accordance with GAAP, the following table sets forth a key operating metric and non-GAAP financial measures that we consider useful in evaluating our operating performance:
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(dollars in thousands unless otherwise noted)
+2025
+2024
+2025
+2024
+Total Processing Volume (TPV) (in millions)
+$
+97,962 
+$
+73,899 
+$
+273,819 
+$
+211,192 
+Net revenue
+$
+163,306 
+$
+127,967 
+$
+452,771 
+$
+371,205 
+Gross profit
+$
+114,557 
+$
+90,132 
+$
+317,297 
+$
+253,646 
+Gross margin
+70 
+%
+70 
+%
+70 
+%
+68 
+%
+Net (loss) income
+$
+(3,624)
+$
+(28,643)
+$
+(12,531)
+$
+54,405 
+Net (loss) income margin
+(2)
+%
+(22)
+%
+(3)
+%
+15 
+%
+Total operating expenses (benefit)
+$
+124,927 
+$
+132,363 
+$
+355,433 
+$
+240,687 
+Non-GAAP Measures:
+Adjusted EBITDA
+$
+30,312 
+$
+9,019 
+$
+78,900 
+$
+16,429 
+Adjusted EBITDA margin
+19 
+%
+7 
+%
+17 
+%
+4 
+%
+Adjusted operating expenses
+$
+84,245 
+$
+81,113 
+$
+238,397 
+$
+237,217 
+Total Processing Volume (“TPV”)
+ - 
+TPV represents the total dollar amount of payments processed through our platform, net of returns and chargebacks. We believe that TPV is a key operating metric and a principal indicator of the market adoption of our platform, growth of our brand, growth of our customers' businesses, and scale of our business.
+Adjusted EBITDA
+ - 
+Adjusted EBITDA is a non-GAAP financial measure that is calculated as Net (loss) income adjusted to exclude depreciation and amortization; share-based compensation expense; executive chairman long-term performance award; payroll tax related to share-based compensation; restructuring and other one-time costs; acquisition related expenses which consist of due diligence costs, transaction costs and integration costs related to potential or successful acquisitions and cash and non-cash postcombination compensation expenses; non-recurring litigation expense; income tax expense; and other income, net, which consists primarily of interest income from our short-term investments and cash deposits, impairment of financial instruments, and realized foreign currency gains and losses. We believe that Adjusted EBITDA is an important measure of operating performance because it allows management and our Board of Directors to evaluate and compare our core operating results, including our operating efficiencies, from period to period. Additionally, we utilize Adjusted EBITDA as an input into our calculation of our annual employee bonus plans and performance-based restricted stock units. See the section below titled “Use of Non-GAAP Financial Measures” for a discussion of the use of non-GAAP measures, a change in presentation, and a reconciliation of Net (loss) income to Adjusted EBITDA.
+Adjusted EBITDA Margi
+n - 
+Adjusted EBITDA Margin is a non-GAAP financial measure that is calculated as Adjusted EBITDA divided by Net revenue. This measure is used by management and our Board of Directors to evaluate our operating efficiency. See the section below titled “Use of Non-GAAP Financial Measures” for a discussion of the use of non-GAAP measures and a reconciliation of Net (loss) income to Adjusted EBITDA Margin.
+Adjusted Operating Expenses
+ - 
+Adjusted operating expenses is a non-GAAP financial measure that is calculated as Total operating expenses adjusted to exclude depreciation and amortization; share-based compensation expense; executive chairman long-term performance award; payroll tax related to share-based compensation; restructuring and other one-time costs; acquisition-related expenses which consists of due diligence costs, transaction cost and integration costs related to potential or successful 
+32
+Table of Contents
+acquisitions, and cash and non-cash postcombination compensation expenses; and non-recurring litigation expense. We believe that Adjusted operating expenses is an important measure of operating performance because it allows management and our Board of Directors to evaluate and compare our core operating results, including our operating efficiencies, from period to period. See the section below titled “Use of Non-GAAP Financial Measures” for a discussion of the use of non-GAAP measures, a change in presentation, and a reconciliation of total operating expenses to Adjusted operating expenses.
+Components of Results of Operations
+Net Revenue
+We have two components of net revenue: platform services revenue, net and other services revenue.
+Platform services revenue, net
+.
+
+Platform services revenue includes Interchange Fees, net of Revenue Share and other service-level payments to customers, and Card Network and Issuing Bank costs for certain customer arrangements where the Company is an agent in the delivery of services to the customer. Platform services revenue also includes processing and other fees. “Interchange Fees” are transaction-based and volume-based fees set by a Card Network and paid by a merchant bank to the Issuing Bank that issued the payment card used to purchase goods or services from a merchant. We earn Interchange Fees on card transactions we process for our customers and the fees are based on a percentage of the transaction amount plus a fixed amount per transaction. Interchange Fees are recognized when the associated transactions are settled.
+Revenue Share payments are incentives to our customers to increase their processing volumes on our platform. Revenue Share is generally computed as a percentage of the Interchange Fees earned or processing volume and is paid to our MxM customers monthly. Revenue Share payments are recorded as a reduction to net revenue. Generally, as customers' processing volumes increase, the rates at which we share revenue increase.
+Processing and other fees are priced as either a percentage of processing volume or on a fee per transaction basis and are earned when payment cards are used at automated teller machines or to make cross-border purchases. Minimum processing fees, where customers' processing volumes fall below certain thresholds, are also included in processing and other fees.
+We recognize revenue when the promised services are complete, and our performance obligations are satisfied. Platform services are considered complete when we have authorized the transaction, validated that the transaction has no errors, and accepted and posted the data to our records. 
+Other services revenue.
+ Other services revenue primarily consists of revenue earned for card fulfillment services. Card fulfillment fees are generally billed to customers upon ordering card inventory and recognized as revenue when the cards are shipped to the customers. 
+Costs of Revenue
+Costs of revenue consist of Card Network fees, Issuing Bank fees, and card fulfillment costs for customer arrangements where we are the principal in providing services to the customer and excludes depreciation and amortization, which is reported separately within the Condensed Consolidated Statements of Operations and Comprehensive Income (Loss). Card Network fees are equal to a specified percentage of processing volume or a fixed amount per transaction routed through the respective Card Network. Issuing Bank fees compensate our Issuing Banks for issuing cards to our customers and sponsoring our card programs with the Card Networks and are typically equal to a specified percentage of processing volume or a fixed amount per transaction. Card fulfillment costs include physical cards, packaging, and other fulfillment costs.
+We have marketing and incentive arrangements with Card Networks, that provide us with monetary incentives for establishing customer card programs with and routing transaction volume through the respective Card Networks. These incentives are typically calculated as a percentage of the processed transaction volume or the number of transactions routed through the Card Network. We account for these incentives as a reduction of Card Network fees within Costs of Revenue in customer arrangements where we act as the principal. As processing volumes increase, we earn a higher cumulative incentive rate, 
+33
+Table of Contents
+subject to achieving specific cumulative volume thresholds within an annual measurement period. For certain incentive arrangements, the annual measurement period may not align with our fiscal year. 
+Prior to the second quarter of fiscal year 2025, we recognized network incentives in the period when cumulative transaction volume thresholds were met, due to insufficient data to reliably estimate the amount of incentives Card Networks would ultimately earn over the respective annual period. This approach resulted in fluctuations in Card Network incentives, particularly when thresholds were reached, as higher incentive rates were applied retroactively to the entire measurement period. Historically, we have earned the highest incentive rates in the first quarter of our fiscal year, when annual measurement periods are nearing completion and higher cumulative transaction volume thresholds are achieved. Conversely, the second quarter generally reflected the lowest incentive rates, as the annual measurement periods and cumulative transaction volume thresholds reset to lower levels.
+Effective in the second quarter of fiscal year 2025, we revised our accounting policy for estimating and recognizing network incentives. We now estimate and recognize network incentives based on the cumulative incentive rate we expect to earn over the annual measurement period. We estimate the cumulative incentive rates based on our forecasts for the annual measurement periods, which incorporates both historical experience and our expectations of future events, in addition to other qualitative considerations. The estimated cumulative incentive rates are applied to the volume and/or number of transactions processed during the reporting period to calculate the quarterly network incentives recognized. As a result of this policy revision, the Card Network incentives recognized during t
+he three months ended June 30, 2025 were $1.3 million lower compared to the amount that would have been recognized under the previous policy. The cumulative impact of the revised policy on Card Network incentives recognized from April 1, 2025 through September 30, 2025 was $5.5 million higher than the amount that would have been recognized under the previous policy.  
+Operating Expenses
+Compensation and Benefits
+ consists primarily of salaries, employee benefits, severance and other termination benefits, incentive compensation, contractors’ cost, and share-based compensation.
+Technology 
+consists primarily of third-party hosting fees, software licenses, and hardware purchases below our capitalization threshold, and support and maintenance costs.
+Professional Services 
+consists primarily of consulting, legal, audit, and recruiting fees.
+Occupancy 
+consists primarily of rent expense, repairs, maintenance, and other building related costs.
+Depreciation and Amortization 
+consists primarily of depreciation of our fixed assets and amortization of capitalized Internal-use software and developed technology intangible assets.
+Marketing and Advertising 
+consists primarily of costs of general marketing and promotional activities.
+
+Other Operating Expenses 
+consists primarily of insurance costs, indemnification costs, travel-related expenses, indirect state and local taxes, and other general office expenses.
+Executive Chairman Long-Term Performance Award
+ consists of share-based compensation related to the Executive Chairman Long-Term Performance Award, including the impact of forfeiture. The Executive Chairman Long-Term Performance Award was forfeited in the prior year as a result of the Company’s Executive Chairman transitioning to a non-employee director role on the Board of Directors. 
+Other Income, net
+Other income, net consists primarily of interest income from our short-term investments and cash deposits, impairment of financial instruments, and realized foreign currency gains and losses.
+Income Tax Expense
+Income tax expense consists of U.S. federal and state income taxes, and income taxes related to certain foreign jurisdictions. We maintain a full valuation allowance against our U.S. federal and state net deferred tax assets as we have concluded that it is not more likely than not that we will realize our net deferred tax assets.
+34
+Table of Contents
+In July 2025, the One Big Beautiful Bill Act (H.R. 1, the “Tax Act”) was signed into law, reinstating certain provisions from the 2017 Tax Cuts and Jobs Act, including 100% bonus depreciation under Section 168(k) and immediate expensing of U.S.-based research costs under Section 174. We are currently evaluating the impact of these tax law changes on our financial condition and results of operations. Due to the full valuation allowance on our deferred tax assets, we do not expect the Tax Act to have a material impact on our overall tax expense or effective tax rate for the year ending December 31, 2025.
+Results of Operations 
+The following table sets forth our results of operations for the periods presented:
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(dollars in thousands)
+2025
+2024
+2025
+2024
+Net revenue
+$
+163,306 
+$
+127,967 
+$
+452,771 
+$
+371,205 
+Costs of revenue
+48,749 
+37,835 
+135,474 
+117,559 
+Gross profit
+114,557 
+90,132 
+317,297 
+253,646 
+Operating expenses (benefit):
+Compensation and benefits
+84,871 
+100,964 
+252,330 
+299,120 
+Technology
+16,942 
+16,317 
+47,855 
+44,204 
+Professional services
+5,518 
+4,759 
+15,432 
+13,437 
+Occupancy
+1,058 
+1,178 
+2,818 
+3,476 
+Depreciation and amortization
+7,019 
+4,448 
+19,003 
+11,941 
+Marketing and advertising
+895 
+582 
+2,075 
+1,688 
+Other operating expenses
+8,624 
+4,115 
+15,920 
+11,438 
+Executive chairman long-term performance award
+— 
+— 
+— 
+(144,617)
+Total operating expenses
+124,927 
+132,363 
+355,433 
+240,687 
+(Loss) income from operations
+(10,370)
+(42,231)
+(38,136)
+12,959 
+Other income, net
+7,244 
+13,703 
+26,544 
+41,845 
+(Loss) income before income tax expense
+(3,126)
+(28,528)
+(11,592)
+54,804 
+Income tax expense
+498 
+115 
+939 
+399 
+Net (loss) income
+$
+(3,624)
+$
+(28,643)
+$
+(12,531)
+$
+54,405 
+35
+Table of Contents
+Comparison of the Three Months Ended September 30, 2025 and 2024
+Net Revenue
+Three Months Ended September 30,
+(dollars in thousands)
+2025
+2024
+$ Change
+% Change
+Net revenue:
+Total platform services, net
+$
+155,774
+$
+121,800
+$
+33,974 
+28 
+%
+Other services
+7,532
+6,167
+1,365 
+22 
+%
+Total net revenue
+$
+163,306
+$
+127,967
+$
+35,339 
+28 
+%
+Total Processing Volume (TPV) (in millions)
+$
+97,962
+$
+73,899
+$
+24,063 
+33 
+%
+Total platform services, net revenue increased by $34.0 million, or 28%, for the three months ended September 30, 2025, compared to the same period in 2024. The overall increase
+
+in platform services revenue was primarily driven by a 33% increase in TPV, partially offset by unfavorable shifts in our card program mix, particularly the expansion of programs where we provide processing services with minimal or no program management.
+Other services revenue increased $1.4 million, or 22%, in the three months ended September 30, 2025, compared to the same period in 2024, driven by higher card-related fulfillment, including one-time card replacements and increased customer card shipments.
+The increase in TPV was driven by strong performance across all our major use cases, particularly financial services, lending including buy-now-pay later, and expense management. TPV for our top five customers, based on  their individual processing volumes in each respective period, increased by 22% in the three months ended September 30, 2025, compared to the same period in 2024, while TPV from all other customers, as a group, grew by 72% over the same period. Note that the composition of the top five customers may differ between the two periods.
+Costs of Revenue and Gross Margin
+Three Months Ended September 30,
+(dollars in thousands)
+2025
+2024
+$ Change
+% Change
+Costs of revenue:
+Card Network fees, net
+$
+38,822
+$
+29,676
+$
+9,146 
+31 
+%
+Issuing Bank fees
+4,500
+3,388
+1,112 
+33 
+%
+Other
+5,427
+4,771
+656 
+14 
+%
+Total costs of revenue
+$
+48,749
+$
+37,835
+$
+10,914 
+29 
+%
+Gross profit
+$
+114,557
+$
+90,132
+$
+24,425 
+27 
+%
+Gross margin
+70 
+%
+70 
+%
+Costs of revenue increased by $10.9 million, or 29%, for the three months ended September 30, 2025, compared to the same period in 2024. This increase was driven by higher Card Network and Issuing Bank fees related to the 33% increase in TPV.
+As the increase in costs of revenue was outpaced by the net revenue growth discussed above,  gross profit increased by $24.4 million, or 27%, and gross margin remained flat for the three months ended September 30, 2025, compared to the same period in 2024. 
+36
+Table of Contents
+Operating Expenses
+Three Months Ended September 30,
+(dollars in thousands)
+2025
+2024
+$ Change
+% Change
+Operating expenses:
+Salaries, bonus, benefits and payroll taxes
+$
+59,167 
+$
+65,310 
+$
+(6,143)
+(9)
+%
+Share-based compensation
+25,704 
+35,654 
+(9,950)
+(28)
+%
+Total compensation and benefits
+84,871 
+100,964 
+(16,093)
+(16)
+%
+Percentage of net revenue
+52 
+%
+79 
+%
+Technology
+16,942 
+16,317 
+625 
+4 
+%
+Percentage of net revenue
+10 
+%
+13 
+%
+Professional services
+5,518 
+4,759 
+759 
+16 
+%
+Percentage of net revenue
+3 
+%
+4 
+%
+Occupancy
+1,058 
+1,178 
+(120)
+(10)
+%
+Percentage of net revenue
+1 
+%
+1 
+%
+Depreciation and amortization
+7,019 
+4,448 
+2,571 
+58 
+%
+Percentage of net revenue
+4 
+%
+3 
+%
+Marketing and advertising
+895 
+582 
+313 
+54 
+%
+Percentage of net revenue
+1 
+%
+— 
+%
+Other operating expenses
+8,624 
+4,115 
+4,509 
+110 
+%
+Percentage of net revenue
+5 
+%
+3 
+%
+Total operating expenses
+$
+124,927
+$
+132,363
+$
+(7,436)
+(6)
+%
+Percentage of net revenue
+76%
+103%
+Salaries, bonus, benefits, and payroll taxes decreased by $6.1 million, or 9%, for the three months ended September 30, 2025, compared to the same period in 2024. This decrease was primarily driven by lower post-combination compensation expenses for former Power Finance employees and an increase in capitalized salaries, bonus, and benefits costs related to internal-use software development in 2025. These savings were partially offset a year-over-year increase in bonus expense and expenses incurred during the three months ended September 30, 2025 related to one-time retention bonuses given to certain key employees following the departure of our former CEO in the first quarter of 2025, which were not incurred in the same period in 2024. 
+Share-based compensation decreased by $10.0 million, or 28%, for the three months ended September 30, 2025, compared to the same period in 2024, mainly due to higher year-over-year forfeitures of stock based awards and the full vesting of older stock option awards exceeding the expense associated with newer restricted stock unit awards. No new stock options have been granted in recent years.
+Technology expenses remained relatively flat for the three months ended September 30, 2025, compared to the same period in 2024.
+Professional services expenses increased by $0.8 million or 16%, for the three months ended September 30, 2025, compared to the same period in 2024 due to higher legal and consulting fees. 
+Occupancy expense decreased slightly during the three months ended September 30, 2025 compared to the same period in 2024, which was largely due to the impairment of the right-of-use asset associated with our Oakland office recorded during the fourth quarter of 2024.
+Depreciation and amortization expense increased by $2.6 million, or 58%, for the three months ended September 30, 2025 compared to the same period in 2024. This increase was primarily driven by higher amortization of internally developed software as additional projects were capitalized and placed into service.
+37
+Table of Contents
+Marketing and advertising expenses increased by $0.3 million, or 54%, for the three months ended September 30, 2025 compared to the same period in 2024, which was driven by our continued investment in marketing.
+Other operating expenses increased by $4.5 million, or 110%, for the three months ended September 30, 2025 compared to the same period in 2024 primarily due to $4.3 million of legal contingency expense recognized in the three months ended September 30, 2025 associated with the securities class action lawsuit. 
+Other Income, net
+Three Months Ended September 30,
+(dollars in thousands)
+2025
+2024
+$ Change
+% Change
+Other income, net
+$
+7,244 
+$
+13,703 
+$
+(6,459)
+(47)
+%
+Percentage of net revenue
+4 
+%
+11 
+%
+Other income, net decreased by $6.5 million, or 47%, for the three months ended September 30, 2025, compared to the same period in 2024. This decrease was primarily driven by lower interest income from our short-term investment portfolio and cash balances, as average balances were lower due to share repurchases completed in 2025. We also realized lower average yields during the third quarter of 2025 compared to the same period in 2024.
+Income Tax Expense 
+Income tax expense increased by $0.4 million
+, or 
+333%  for the three months ended September 30, 2025 compared to the same period in 2024 due to an increase in foreign deferred tax liabilities.
+Customer Concentration
+We generated 44% and 47% of our net revenue from our largest customer, Block, during the three months ended September 30, 2025 and 2024, respectively.
+38
+Table of Contents
+Comparison of the Nine Months Ended September 30, 2025 and 2024
+Net Revenue
+Nine Months Ended September 30,
+(dollars in thousands)
+2025
+2024
+$ Change
+% Change
+Net revenue:
+Total platform services, net
+$
+430,778
+$
+355,005
+75,773 
+21 
+%
+Other services
+21,993
+16,200
+5,793 
+36 
+%
+Total net revenue
+$
+452,771
+$
+371,205
+$
+81,566 
+22 
+%
+Total Processing Volume (TPV) (in millions)
+$
+273,819
+$
+211,192
+$
+62,627 
+30 
+%
+Total platform services, net revenue  increased by $75.8 million, or 21%, for the nine months ended September 30, 2025, compared to the same period in 2024. The overall increase in platform services revenue was primarily driven by a 30% increase in TPV, partially offset by unfavorable shifts in our card program mix, particularly the expansion of programs where we provide processing services with minimal or no program management.
+Other services revenue increased $5.8 million, or 36% in the nine months ended September 30, 2025, compared to the same period in 2024, driven by higher card-related fulfillment, including one-time card replacements and increased customer card shipments.
+The TPV increase was driven by robust growth across all major use cases, particularly financial services, lending including buy-now-pay later, and expense management. TPV for our top five customers, based on their individual processing volumes in each respective period, grew by 20% for the nine months ended September 30, 2025, compared to the same period in 2024. TPV from all other customers, as a group, increased by 69% in the nine months ended September 30, 2025, compared to the same period in 2024. Note that the composition of the top five customers may differ between the two periods.
+Costs of Revenue and Gross Margin
+Nine Months Ended September 30,
+(dollars in thousands)
+2025
+2024
+$ Change
+% Change
+Costs of revenue:
+Card Network fees, net
+$
+105,737
+$
+94,859
+$
+10,878 
+11 
+%
+Issuing Bank fees
+12,997
+9,684
+3,313 
+34 
+%
+Other
+16,740
+13,016
+3,724 
+29 
+%
+Total costs of revenue
+$
+135,474
+$
+117,559
+$
+17,915 
+15 
+%
+Gross profit
+$
+317,297
+$
+253,646
+$
+63,651 
+25 
+%
+Gross margin
+70 
+%
+68 
+%
+Costs of revenue increased by $17.9 million for the nine months ended September 30, 2025, compared to the same period in 2024. This increase was primarily driven by a 30% increase in TPV, but was partially offset by $5.5 million of higher network incentives recognized during the second and third quarter as a result of the revised accounting policy. Card Network fees are presented net of monetary incentives from Card Networks for processing volume during the period.
+Gross profit increased by $63.7 million, or 25%, with gross margin improving by 2 percentage points, as net revenue growth outpaced the increase in cost of revenue for the nine months ended September 30, 2025, compared to the same period in 2024.
+39
+Table of Contents
+Operating Expenses
+Nine Months Ended September 30,
+(dollars in thousands)
+2025
+2024
+$ Change
+% Change
+Operating expenses:
+Salaries, bonus, benefits and payroll taxes
+$
+173,641 
+$
+195,862 
+$
+(22,221)
+(11)
+%
+Share-based compensation
+78,689 
+103,258 
+(24,569)
+(24)
+%
+Total compensation and benefits
+252,330 
+299,120 
+(46,790)
+(16)
+%
+Percentage of net revenue
+56 
+%
+81 
+%
+Technology
+47,855 
+44,204 
+3,651 
+8 
+%
+Percentage of net revenue
+11 
+%
+12 
+%
+Professional services
+15,432 
+13,437 
+1,995 
+15 
+%
+Percentage of net revenue
+3 
+%
+4 
+%
+Occupancy
+2,818 
+3,476 
+(658)
+(19)
+%
+Percentage of net revenue
+1 
+%
+1 
+%
+Depreciation and amortization
+19,003 
+11,941 
+7,062 
+59 
+%
+Percentage of net revenue
+4 
+%
+3 
+%
+Marketing and advertising
+2,075 
+1,688 
+387 
+23 
+%
+Percentage of net revenue
+— 
+%
+— 
+%
+Other operating expenses
+15,920 
+11,438 
+4,482 
+39 
+%
+Percentage of net revenue
+4 
+%
+3 
+%
+Executive chairman long-term performance award
+—
+(144,617)
+144,617 
+(100)
+%
+Percentage of net revenue
+— 
+%
+(39)
+%
+Total operating expenses
+$
+355,433
+$
+240,687
+$
+114,746
+48 
+%
+Percentage of net revenue
+79%
+65%
+Salaries, bonus, benefits, and payroll taxes decreased by $22.2 million, or 11%, for the nine months ended September 30, 2025, compared to the same period in 2024. This decrease was primarily driven by lower year-over-year post-combination compensation expenses for former Power Finance employees and an increase in capitalized salaries, bonus, and benefits costs related to internal-use software development during nine months ended September 30, 2025. These savings were partially offset a year-over-year increase in bonus expense and expenses incurred during the nine months ended September 30, 2025 related to one-time retention bonuses given to certain key employees following the departure of our former CEO in the first quarter of 2025, which were not incurred in the same period in 2024. 
+Share-based compensation decreased by $24.6 million, 24%
+,
+ for the nine months ended September 30, 2025, compared to the same period in 2024, mainly due to higher year-over-year forfeitures of stock based awards, including those related to the CEO’s departure during the first quarter of 2025, as well as the full vesting of older stock option awards outpacing the expense from newer restricted stock unit awards. No new stock options have been granted in recent years.
+Technology expenses increased by $3.7 million, or 8%, for the nine months ended September 30, 2025, compared to the same period in 2024, mainly driven by higher licensing and hosting costs to support system and tool implementations amid ongoing business growth.
+Professional services expenses increased by $2.0 million, or 15%, for the nine months ended September 30, 2025, compared to the same period in 2024, primarily due to higher consulting and legal fees.
+Occupancy expense decreased by $0.7 million, or 19%, for the nine months ended September 30, 2025, compared to the same period in 2024, primarily due to the impairment of the right-of-use asset associated with our Oakland office recorded during the fourth quarter of 2024. 
+40
+Table of Contents
+Depreciation and amortization increased by $7.1 million, or 59%, for the nine months ended September 30, 2025, compared to the same period in 2024. This increase was primarily driven by higher amortization of internally developed software as additional projects were capitalized and placed into service.
+Marketing and advertising expenses increased by $0.4 million, or 23%, for the nine months ended September 30, 2025, compared to the same period in 2024, which was driven by our continued investment in marketing.
+Other operating expenses increased by $4.5 million, or 39%, for the nine months ended September 30, 2025, compared to the same period in 2024 primarily due to $4.3 million of legal contingency expense recognized in the nine months ended September 30, 2025 associated with the securities class action lawsuit. 
+The Executive chairman long-term performance award decreased by 100% for the nine months ended September 30, 2025, compared to the same period in 2024, due to the forfeiture in the second quarter of 2024 following the Executive Chairman’s transition to a non-employee director role on the Board of Directors.
+Other Income, net
+Nine Months Ended September 30,
+(dollars in thousands)
+2025
+2024
+$ Change
+% Change
+Other income, net
+$
+26,544 
+$
+41,845 
+$
+(15,301)
+(37)
+%
+Percentage of net revenue
+6 
+%
+11 
+%
+Other income, net decreased by $15.3 million, or 37%, for the nine months ended September 30, 2025, compared to the same period in 2024. This decrease was primarily driven by lower interest income from our short-term investment portfolio and cash balances, as average balances were lower due to $212.4 million of share repurchases completed during the nine months ended September 30, 2025. We also realized lower average yields during the nine months ended September 30, 2025 compared to the same period in 2024.
+Income Tax Expense
+Income tax expense increased
+
+by
+
+$0.5 million
+, 
+or
+
+135%
+,
+ for the nine months ended September 30, 2025 compared to the same period in 2024 due to an increase in foreign deferred tax liabilities.
+Customer Concentration 
+We generated 45% and 48% of our net revenue from our largest customer, Block, during the nine months ended September 30, 2025 and 2024, respectively.
+41
+Table of Contents
+Use of Non-GAAP Financial Measures
+Our non-GAAP financial measures, such as adjusted EBITDA and Adjusted operating expenses, have limitations as analytical tools and should not be considered in isolation or as substitutes for, or superior to, financial measures prepared in accordance with GAAP. When evaluating these non-GAAP measures, note that we will likely incur expenses in the future similar to the adjustments in the presentation of our non-GAAP measures set forth under “Key Operating Metric and Non-GAAP Financial Measures”. There are a number of key limitations related to the use of these non-GAAP measures compared to their most directly comparable GAAP measures including the following:
+•
+other companies, including companies in our industry, may calculate adjusted EBITDA and Adjusted operating expenses differently or not at all, limiting  their usefulness as comparative measures;
+•
+although depreciation and amortization are non-cash charges, the assets being depreciated or amortized may require future replacement, and adjusted EBITDA does not reflect cash requirements for such replacements or new capital expenditures; and 
+•
+adjusted EBITDA does not reflect the effect of income taxes that may represent a reduction in cash available to us.
+We encourage investors to review the related GAAP financial measures and the reconciliation of the non-GAAP financial measures to their most directly comparable GAAP financial measures. 
+42
+Table of Contents
+A reconciliation of Net (loss) income to adjusted EBITDA and GAAP operating expenses to Adjusted operating expenses for the periods presented is as follows:
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(dollars in thousands)
+2025
+2024
+2025
+2024
+Net revenue
+$
+163,306 
+$
+127,967 
+$
+452,771 
+$
+371,205 
+Net (loss) income
+$
+(3,624)
+$
+(28,643)
+$
+(12,531)
+$
+54,405 
+Net (loss) income margin
+(2)
+%
+(22)
+%
+(3)
+%
+15 
+%
+Total operating expenses
+$
+124,927 
+$
+132,363 
+$
+355,433 
+$
+240,687 
+Net (loss) income
+$
+(3,624)
+$
+(28,643)
+$
+(12,531)
+$
+54,405 
+Depreciation and amortization expense
+7,019 
+4,448 
+19,003 
+11,941 
+Share-based compensation expense
+25,704 
+35,654 
+78,689 
+103,258 
+Executive chairman long-term performance award
+— 
+— 
+— 
+(144,617)
+Payroll tax expense related to share-based compensation
+583 
+440 
+2,150 
+2,307 
+Acquisition-related expenses 
+(1)
+1,828 
+10,708 
+7,315 
+30,581 
+Restructuring and other one-time costs 
+(2)
+1,251 
+— 
+5,582 
+— 
+Non-recurring litigation expense
+ (3)
+4,297 
+— 
+4,297 
+— 
+Other income, net
+(7,244)
+(13,703)
+(26,544)
+(41,845)
+Income tax expense
+498 
+115 
+939 
+399 
+Adjusted EBITDA
+$
+30,312 
+$
+9,019 
+$
+78,900 
+$
+16,429 
+Adjusted EBITDA Margin
+19 
+%
+7 
+%
+17 
+%
+4 
+%
+Total operating expenses
+$
+124,927 
+$
+132,363 
+$
+355,433 
+$
+240,687 
+Depreciation and amortization expense
+(7,019)
+(4,448)
+(19,003)
+(11,941)
+Share-based compensation expense 
+(25,704)
+(35,654)
+(78,689)
+(103,258)
+Executive chairman long-term performance award
+— 
+— 
+— 
+144,617 
+Payroll tax expense related to share-based compensation
+(583)
+(440)
+(2,150)
+(2,307)
+Restructuring and other one-time costs 
+(2)
+(1,251)
+— 
+(5,582)
+— 
+Non-recurring litigation expense
+ (3)
+(4,297)
+— 
+(4,297)
+— 
+Acquisition-related expenses
+ (1)
+(1,828)
+(10,708)
+(7,315)
+(30,581)
+Adjusted operating expenses
+$
+84,245 
+$
+81,113 
+$
+238,397 
+$
+237,217 
+(1) Acquisition-related expenses, which include transaction costs, integration costs and cash and non-cash postcombination compensation expense, have been excluded from adjusted EBITDA as such expenses are not reflective of our ongoing core operations and are not representative of the ongoing costs necessary to operate our business; instead, these are costs specifically associated with a discrete transaction.
+(2) Restructuring and other one-time costs include the costs associated with the transition of our former CEO and other one-time costs related to retention bonuses provided to other key employees. These bonuses have service requirements and are expensed over the requisite service period.
+(3) Non-recurring litigation expense includes a legal contingency expense related to the Securities Actions. See Note 10, “Commitments and Contingencies” for additional information.
+Liquidity and Capital Resources
+As of September 30, 2025, our primary sources of liquidity consisted of cash, cash equivalents, and short-term investments totaling $830.5 million, held primarily for working capital purposes. Our cash equivalents and short-term investments were comprised primarily of bank deposits, money market funds, U.S. treasury bills, U.S. treasury securities, asset-backed securities, commercial paper, certificates of 
+43
+Table of Contents
+deposit, and corporate debt securities. We have historically incurred significant operating losses, as reflected in our accumulated deficit, and anticipate continued operating losses for the foreseeable future.
+Our transaction with Neptune International Ltd to acquire TransactPay was completed on July 31, 2025 (“Closing”) for a total purchase price of approximately $59.9 million, as disclosed in Note 4 “Business Combinations” to the condensed consolidated financial statements. The total consideration primarily consisted of $53.0 million in cash paid at Closing, approximately $3.6 million in contingent consideration payable upon achievement of specified post-closing performance conditions through December 31, 2025, and approximately $3.5 million in holdbacks retained to secure sellers’ indemnification obligations and post-closing purchase price adjustments, which will be released within one year upon satisfactory resolution of related matters.  
+On February 25, 2025, our Board of Directors authorized a new share repurchase program for up to $300 million of our Class A common stock (the “2025 Share Repurchase Program”). Repurchases may be executed through open market purchases, privately negotiated transactions, or other methods, in compliance with applicable federal securities laws, including Rule 10b5-1 trading plans under the Exchange Act. Repurchase decisions are based on general business and market conditions, legal requirements, and other relevant factors. The 2025 Share Repurchase Program has no set expiration date. During the nine months ended September 30, 2025, we repurchased approximately 45.5 million shares for $212.4 million under this program. As of September 30, 2025, $87.6 million remained available for future share repurchases.
+On May 6, 2024, the our Board of Directors authorized a $200 million share repurchase program for our Class A common stock (the "2024 Share Repurchase Program"), following the exhaustion of the $200 million 2023 Share Repurchase Program in the first quarter of fiscal year 2024. Repurchases under the 2024 Share Repurchase Program were made through open market purchases, privately negotiated transactions, or other methods, in accordance with applicable federal securities laws, including Rule 10b5-1 trading plans of the Exchange Act. Repurchase decisions were based on general business and market conditions, legal requirements, and other factors. During the nine months ended September 30, 2025, we repurchased approximately 19.2 million shares for $80.5 million, fully utilizing the 2024 Share Repurchase Program authorization. 
+On February 3, 2023, we acquired all outstanding stock of Power Finance Inc. (“Power Finance”). As part of the terms of the acquisition, we entered into postcombination cash compensation arrangements with certain key acquired employees whereby we agreed to pay them $85.1 million of cash over a weighted average service period of 2.2 years from the acquisition date, subject to forfeiture upon termination. As of September 30, 2025, $2.1 million of the postcombination cash compensation arrangements remained outstanding.
+We believe our existing cash and cash equivalents, and short-term investments of $830.5 million as of September 30, 2025, will be sufficient to meet our working capital and capital expenditure needs for at least the next 12 months. As of the date of filing this Quarterly Report on Form 10-Q, we maintain full access to and control over all our cash, cash equivalents and short-term investments, except amounts held as restricted cash. Our future capital requirements will depend on many factors, such as continued investment in product development, platform infrastructure, share repurchases, potential strategic acquisitions, capital expenditures, and global expansion. We plan to allocate cash to support ongoing business investments, infrastructure enhancements, and non-cancellable purchase commitments with cloud-computing service providers and certain Issuing Banks.
+As of September 30, 2025, we had $235.4 million in restricted cash, of which $233.9 million is related to the cash and cash equivalents held by TransactPay on behalf of its customers related to card and e-money wallet programs. Restricted cash also includes $1.5 million cash held at a bank to secure our payments under a lease agreement for our office space, of which $0.9 million is recorded in other assets in the September 30, 2025 Condensed Consolidated Balance Sheet.
+44
+Table of Contents
+Cash Flows
+The following table summarizes our cash flows for the periods indicated:
+Nine Months Ended September 30,
+2025
+2024
+(in thousands)
+Net cash provided by operating activities
+$
+109,301 
+$
+33,415 
+Net cash provided by investing activities
+258,239 
+37,041 
+Net cash used in financing activities
+(316,394)
+(165,011)
+Net increase (decrease) in cash, cash equivalents, and restricted cash
+$
+51,146 
+$
+(94,555)
+Operating Activities
+Our primary source of cash from operating activities is net revenue. The primary uses of cash in operating activities include Card Network and Issuing Bank fees and employee-related compensation. The timing of settlements of certain operating assets and liabilities, such as revenue share payments, bonus payments, prepayments to cloud-computing service providers, settlements receivable and network incentives receivable, may impact the amounts reported as net cash provided by or used in operating activities in the Condensed Consolidated Statements of Cash Flows.
+Net cash provided by operating activities was $109.3 million for the nine months ended September 30, 2025, an increase from $33.4 million for the same period in 2024. The year-over-year increase was primarily driven by higher gross profit and lower operating expenses and the favorable timing of settlements for network incentive receivables and revenue share payable. 
+Investing Activities
+Net cash provided by investing activities primarily consists of proceeds from maturities of short-term investments, while net cash used in investing activities primarily includes purchases of short-term investments, purchases of property and equipment, capitalized costs for internal-use software development, and business combinations. 
+Net cash provided by investing activities increased by $221.2 million to $258.2 million for the nine months ended September 30, 2025, from $37.0 million in the same period in 2024. This increase was primarily due to $229.7 million in restricted cash acquired in the TransactPay acquisition and $46.2 million in additional proceeds from maturities of short-term investments, partially offset by $44.6 million in net cash used for the TransactPay acquisition and ongoing investments in property, equipment, and internal-use software. 
+Financing Activities
+Net cash used in financing activities consists primarily of net payments related to share-based compensation activities, our share repurchase programs and the net impact of funds payable and amounts owed to customers.
+Net cash used in financing activities increased to $316.4 million for the nine months ended September 30, 2025, from $165.0 million in the same period in 2024. This increase was primarily due to repurchases of our Class A common stock under the 2024 and 2025 Share Repurchase Programs.
+Obligations and Other Commitments 
+Except for the lease extension disclosed in Note 9 “Leases” to our condensed consolidated financial statements, there have been no other material changes to our obligations and other commitments from those reported in our 2024 Annual Report.
+For additional information about our contractual obligations and other commitments, see Note 10 “Commitments and Contingencies” to our condensed consolidated financial statements.
+45
+Table of Contents
+Critical Accounting Policies and Estimates 
+Our Condensed Consolidated Financial Statements are prepared in accordance with GAAP. The preparation of these Condensed Consolidated Financial Statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, costs, and expenses, and the related disclosures. On an ongoing basis, we evaluate our accounting estimates and assumptions. Our actual results may differ from these estimates under different assumptions or conditions.
+Except for (i) the revised accounting policy for estimating Card Network incentives and (ii) the new accounting policies associated with restricted cash and funds payable and amounts due to customers, as detailed in Note 2 “Summary of Significant Accounting Policies,” to the condensed consolidated financial statements, no other changes have been made to our accounting policies. The new policies for restricted cash and funds payable and amounts due to customers, which were adopted in connection with TransactPay acquisition, specifically address the classification and presentation of customer funds held in segregated accounts as part of TransactPay’s program management activities related to card and e-money wallet programs. 
+Additionally, there have been no material changes to our critical accounting policies and estimates described in “Management's Discussion and Analysis of Financial Condition and Results of Operations” set forth in our 2024 Annual Report.
+46
+Table of Contents
+Item 3. Quantitative and Qualitative Disclosures about Market Risk
+We
+ have operations within the United States and globally, and are exposed to market risks in the ordinary course of our business. Information relating to quantitative and qualitative disclosures about these market risks is described below.
+Interest Rate Risk
+As of September 30, 2025, our cash, cash equivalents, and short-term investments totaled $830.5 million, comprising cash deposits, money market funds, U.S. treasury bills, U.S. treasury securities, commercial paper, certificates of deposits, asset-backed securities and corporate debt securities. The fair value of these holdings would not be significantly impacted by interest rate fluctuations due to their short-term maturities. Because we classify our short-term investments as “available-for-sale”
+, 
+no gains or losses are recognized in the Condensed Consolidated Statements of Operations and Comprehensive (Loss) Income  due to changes in interest rates unless such securities are sold prior to maturity or declines in fair value are due to credit losses. We have the ability and intent to hold all short-term investments until maturity. A hypothetical 100 basis point increase or decrease in interest rates would not have a material effect on our financial results or condition.
+Foreign Currency Exchange Risk
+Most
+ of our sales and operating expenses are denominated in U.S. dollars, and therefore our results of operations are not currently subject to significant foreign currency risk. As of September 30, 2025, a hypothetical 10% change in foreign currency exchange rates applicable to our business would not have had a material impact on our Condensed Consolidated Financial Statements.
+47
+Table of Contents
+Item 4. Controls and Procedures
+Evaluation of Disclosure Controls and Procedures
+Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, has evaluated the effectiveness of our disclosure controls and procedures as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act as of the end of the period covered by this Quarterly Report on Form 10-Q. Disclosure controls and procedures are designed to provide reasonable assurance that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the SEC’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is accumulated and communicated to the company’s management, including its principal executive and principal financial officers, or persons performing similar functions, as appropriate to allow timely decisions regarding required disclosure. 
+Based on such evaluation, our management has concluded our disclosure controls and procedures were effective at a reasonable assurance level as of 
+September 30, 2025
+. 
+Changes in Internal Control Over Financial Reporting
+There have been no changes in the Company’s internal control over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) during the third quarter of fiscal 2025 that have materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting. 
+Limitations on Effectiveness of Controls and Procedures
+The effectiveness of any internal control over financial reporting is subject to inherent limitations, including the exercise of judgment in designing, implementing, operating, and evaluating the controls and procedures, and the inability to eliminate misconduct completely. Accordingly, any system of internal control over financial reporting, no matter how well designed and operated, can only provide reasonable, not absolute assurance that its objectives will be met. In addition, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. We intend to continue to monitor and upgrade our internal controls as necessary or appropriate for our business, but cannot assure you that such improvements will be sufficient to provide us with effective internal control over financial reporting.
+48
+Table of Contents
+PART II - Other Information
+Item 1. Legal Proceedings
+From time to time, we may be subject to legal proceedings and claims arising in the ordinary course of business. We are currently involved in the following matters:
+On December 9, 2024, a putative securities class action lawsuit, captioned 
+Wai v. Marqeta, Inc., et al.
+, Case No. 24-cv-08874 (N.D. Cal.), was filed in federal court in the Northern District of California (“Court”) against us, our former Chief Executive Officer, and our Chief Financial Officer (“Defendants”) alleging violations of federal securities laws. The lawsuit asserted that Defendants made false or misleading statements relating to our performance or revenue and gross profit expectations in violation of Sections 10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated thereunder.
+On December 10, 2024, a second putative securities class action lawsuit, captioned 
+Ford v. Marqeta, Inc.
+, et al., Case No. 24-cv-08892 (N.D. Cal.), was filed in the same Court against the same Defendants alleging violations of the same federal securities laws. The second lawsuit asserted similar theories of liability as the first lawsuit. Both lawsuits (collectively, the “Securities Actions”) seek to recover damages on behalf of shareholders who acquired shares of our common stock during their respective putative class periods. The Securities Actions have been consolidated into one consolidated securities litigation captioned 
+In re Marqeta, Inc. Securities Litigation
+, Case No. 24-08874-YGR (N.D. Cal) and the Court has appointed a lead plaintiff and lead plaintiff’s counsel in the matter. On April 10, 2025, the lead plaintiff filed a consolidated amended complaint, which alleges a putative class period of between February 28, 2024 and November 4, 2024. We and the other Defendants filed a motion to dismiss the consolidated amended complaint on May 15, 2025. 
+On November 3, 2025, a settlement was reached, in principle, with the lead plaintiff’s counsel to resolve the Securities Actions for payments totaling $13.0 million. The settlement is subject to further documentation and judicial approvals. The Company has recorded a legal contingency expense of $4.3 million during the three and nine months ended September 30, 2025, which represents the Company’s probable loss amount related to the Securities Actions, based upon the remaining retention of the Company’s Directors & Officers Insurance Policy, pursuant to which the Company is responsible for the first $5.0 million of expenses incurred, inclusive of legal defense fees, of which the Company has paid approximately $0.7 million as of September 30, 2025. Insurance proceeds are expected to cover any amount of the settlement above the company’s $5.0 million self-insured retention. The determination that the insurance recovery of any figure higher than the Company’s self-insured retention is based on the terms of the applicable insurance policies and the Company’s communications with the insurers.  
+On February 4, 2025, a putative shareholder derivative lawsuit, captioned 
+Smith v. Khalaf, et al.
+, Case No. 25-cv-01174 (N.D. Cal.), was filed in the same Court against the Company’s former Chief Executive Officer, its Chief Financial Officer, and its Board of Directors (as then constituted), and names the Company as a nominal defendant. This lawsuit asserts claims for breach of fiduciary duties and violations of federal securities laws, among other claims, between the time period of May 7, 2024 and November 4, 2024 under similar theories as the Securities Actions. Two other substantially similar putative shareholder derivative lawsuits, captioned 
+Ojserkis v. Khalaf, et al.
+, Case No. 25-cv-01883 (N.D. Cal.) and 
+Preciado v. Khalaf, et al.
+, Case No. 3:25-cv-02100 (N.D. Cal.), were filed on February 21, 2025 and February 27, 2025, respectively. All three putative shareholder derivative suits have been consolidated into one lawsuit captioned 
+In re Marqeta, Inc. Derivative Litigation
+, Case No. 4:25-cv-01174-YGR (N.D. Cal). The consolidated derivative action is currently stayed pending developments in the consolidated Securities Actions.
+Item 1A. Risk Factors
+49
+Table of Contents
+In addition to the other information set forth in this Quarterly Report on Form 10-Q, our business, financial condition, results of operations, cash flows, future prospects, and the trading price of our Class A common stock can be affected by a number of factors, whether currently known or unknown, including but not limited to those described in Part I, Item 1A of our 2024 Annual Report under the heading "Risk Factors," which are incorporated herein by reference, any one or more of which could, directly or indirectly, materially and adversely affect our business, financial condition, results of operations, cash flows, future prospects, and the trading price of our Class A common stock, or cause them to vary materially from past or anticipated future results. There have been no material changes to our risk factors since the 2024 Annual Report.
+50
+Table of Contents
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+Recent Sales of Unregistered Securities
+None.
+Purchase of Equity Securities
+The following table summarizes the repurchases of our Class A common stock during the three months ended September 30, 2025 (in thousands, except per share amounts): 
+Period
+Total Number of
+ Shares Purchased
+Average Price 
+Paid per Share
+Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs 
+(1)
+Approximate Dollar Value of Shares that May Yet Be Purchased Under the Plans or Programs 
+(1)
+July 1 - 31, 2025
+1,256 
+$
+5.85 
+1,256 
+$
+99,549 
+August 1 - 31, 2025
+905 
+$
+6.14 
+905 
+$
+93,998 
+September 1 - 30, 2025
+998 
+$
+6.43 
+998 
+$
+87,581 
+Total
+3,159 
+3,159 
+(1) 
+On February 25, 2025, our Board of Directors authorized a new share repurchase program of up to $300 million of our Class A common stock (the “2025 Share Repurchase Program”). Under the 2025 Share Repurchase Program, we are authorized to repurchase shares through open market purchases, in privately negotiated transactions, or by other means, in accordance with applicable federal securities laws, including through trading plans under Rule 10b5-1 of the Exchange Act. Repurchase decisions are based on general business and market conditions, and other factors, including legal requirements. The 2025 Share Repurchase Program has no set expiration date.
+Item 3. Defaults Upon Senior Securities
+Not applicable.
+Item 4. Mine Safety Disclosures
+Not applicable.
+Item 5. Other Information
+(c) On 
+September 10, 2025
+, 
+Rahul Shah
+, our 
+Chief Product and Engineering Officer
+, 
+adopted
+ a “Rule 10b5-1 trading arrangement” as defined in Regulation S-K Item 408 providing for the sale from time to time of an aggregate of up to 
+629,815
+ shares of our Class A Common Stock. The actual number of shares subject to the Rule 10b5-1 trading arrangement is expected to be different due to our withholding of certain shares to satisfy tax withholding obligations in connection with the vesting of restricted stock units. The trading arrangement is intended to satisfy the affirmative defense in Rule 10b5-1(c). The duration of the trading arrangement is until 
+September 30, 2026
+, or earlier if all transactions under the trading arrangement are completed, but in no case earlier than one year, or later than two years, from September 10, 2025.
+O
+n 
+September 11, 2025
+, 
+Martha Cummings
+, a member of our 
+board of directors
+, 
+adopted
+ a Rule 10b5-1 trading arrangement providing for the sale from time to time of an aggregate of up to 
+69,366
+ shares of our Class A Common Stock. The actual number of shares subject to the Rule 10b5-1 trading arrangement is expected to be different due to our withholding of certain shares to satisfy tax withholding obligations in connection with the vesting of restricted stock units. The trading arrangement is intended to satisfy the affirmative defense in Rule 10b5-1(c). The duration of the trading arrangement is until 
+September 30, 2026
+, or earlier if all transactions under the trading arrangement are completed, but in no case earlier than one year, or later than two years, from September 11, 2025.
+51
+Table of Contents
+On 
+September 12, 2025
+, 
+Najuma Atkinson
+, a member of our 
+board of directors
+, 
+adopted
+ a Rule 10b5-1 trading arrangement providing for the sale from time to time of an aggregate of up to 
+60,148
+ shares of our Class A Common Stock. The actual number of shares subject to the Rule 10b5-1 trading arrangement is expected to be different due to our withholding of certain shares to satisfy tax withholding obligations in connection with the vesting of restricted stock units. The trading arrangement is intended to satisfy the affirmative defense in Rule 10b5-1(c). The duration of the trading arrangement is until 
+October 8, 2026
+, or earlier if all transactions under the trading arrangement are completed, but in no case earlier than one year, or later than two years, from September 12, 2025.
+On 
+September 12, 2025
+, The Gardner 2008 Living Trust (the “Gardner Trust”) along with two trusts established for the benefit of the children of Jason Gardner (the “Children’s Trusts”), 
+adopted
+ an umbrella Rule 10b5-1 trading arrangement providing for the sale from time to time of an aggregate of up to 
+3,321,000
+ shares of our Class A Common Stock. The shares held by the Gardner Trust may be deemed to be beneficially owned by 
+Jason Gardner
+, a member of our 
+board of directors
+. Jason Gardner disclaims beneficial ownership of the shares held by the Children’s Trusts. The trading arrangement is intended to satisfy the affirmative defense in Rule 10b5-1(c). The duration of the trading arrangement is until 
+November 27, 2026
+, or earlier if all transactions under the trading arrangement are completed, but in no case earlier than one year, or later than two years, from September 12, 2025.
+No other officers, as defined in Rule 16a-1(f), or directors 
+adopted
+ or 
+terminated
+ a Rule 10b5-1 trading arrangement or a “non-Rule 10b5-1 trading arrangement,” as defined in Item 408 of Regulation S-K, during our last fiscal quarter.
+52
+Table of Contents
+Item 6. Exhibits
+The following exhibits are filed herewith or incorporated by reference herein:
+Incorporated by Reference
+Exhibit No.
+Description
+Form
+File No.
+Exhibit No.
+Filing Date
+10.1†*
+Amendment No. 26 to the Master Services Agreement by and between the Registrant and Block, Inc. dated August 11, 2025
+ and effective as of June 30, 2025
+.
+10.2#*
+Offer Letter between the Registrant and 
+Michael (
+Mike
+)
+ Milotich dated September 8, 2025.
+31.1*
+Certification of the Principal Executive and Financial Officer, pursuant to Rules 13a-14(a) and 15d-14(a) under the Exchange Act, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+32.1**
+Certification of the Principal Executive and Financial Officer, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+101.INS*
+Inline XBRL Instance Document.
+101.SCH*
+Inline XBRL Taxonomy Extension Schema Document.
+101.CAL*
+Inline XBRL Taxonomy Extension Calculation Linkbase Document.
+101.DEF*
+Inline XBRL Taxonomy Extension Definition Linkbase Document.
+101.LAB*
+Inline XBRL Taxonomy Extension Labels Linkbase Document.
+101.PRE*
+Inline XBRL Taxonomy Extension Presentation Linkbase Document.
+104*
+Cover Page Interactive Data File (formatted as inline XBRL and contained in Exhibit 101).
+†
+Certain confidential information contained in this exhibit has been omitted because it is both (i) not material and (ii) is the type that the Registrant treats as private or confidential.
+#
+Indicates management contract or compensatory plan, contract or agreement.
+*
+Filed herewith.
+**
+Furnished herewith. The certifications attached as Exhibits 32.1 and 32.2 that accompany this Quarterly Report on Form 10-Q are deemed furnished and not filed with the SEC and are not to be incorporated by reference into any filing of the Company under the Securities Act or the Exchange Act, whether made before or after the date of this Quarterly Report on Form 10-Q, irrespective of any general incorporation language contained in such filing.
+53
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+MARQETA, INC.
+Date:
+ November 5, 2025
+By:
+/s/ Michael (Mike) Milotich
+Name:
+Michael (Mike) Milotich
+Title:
+Chief Executive Officer & Chief Financial Officer (Principal Executive and Financial Officer)
+Date:
+ November 5, 2025
+By:
+/s/ Sarah Barkema
+Name:
+Sarah Barkema
+Title:
+Chief Accounting Officer (Principal Accounting Officer)
+54

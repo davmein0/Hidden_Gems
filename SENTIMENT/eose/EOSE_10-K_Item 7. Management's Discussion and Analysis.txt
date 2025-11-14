@@ -1,0 +1,272 @@
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+36
+Item 7A.
+
+Quantitative and Qualitative Disclosure about Market Risk
+50
+Item 8. Financial Statements and Supplementary Data
+51
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosures
+111
+Item 9A. Controls and Procedures
+111
+Item 9B. Other Information
+112
+Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+112
+Part III
+113
+Item 10. Directors, Executive Officers and Corporate Governance
+113
+Item 11. Executive Compensation
+113
+Item 12. Security Ownership of Certain Beneficial Owner and Management and Related Stockholder Matters
+113
+Item 13. Certain Relationships and Related Transactions, and Director Independence
+113
+Item 14. Principal Accounting Fees and Services
+113
+Part IV
+113
+Item 15. Exhibits
+ and Financial Statement Schedules
+113
+Item 16. Form 10-K Summary
+121
+Forward-Looking Statements
+All statements included in this Annual Report on Form 10-K ("Annual Report"), other than statements or characterizations of historical fact, are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. The words "anticipate," "believe," "continue," "could," "estimate," "expect," "intends," "may," "might," "plan," "possible," "potential," "predict," "project," "should," "would" and similar expressions, as they relate to us, are intended to identify forward-looking statements. These statements appear in a number of places in this Annual Report and include statements regarding the intent, belief or current expectations of Eos Energy Enterprises, Inc. Forward-looking statements are based on our management’s beliefs, as well as assumptions made by, and information currently available to, them. Because such statements are based on expectations as to future financial and operating results and are not statements of fact, actual results may differ materially from those projected. Factors which may cause actual results to differ materially from current expectations include, but are not limited to:    
+•
+changes adversely affecting the business in which we are engaged;
+•
+our ability to forecast trends accurately; 
+1
+•
+our ability to generate cash, service indebtedness and incur additional indebtedness;
+•
+our ability to raise financing in the future;
+•
+our customer's ability to secure project financing;
+•
+risks associated with the Credit Agreement (defined below), including risks of default, dilution of 
+outstanding common stock, consequences for failure to meet milestones and contractual lockup of shares;
+•
+the amount of final tax credits available to our customers or to Eos pursuant to the Inflation Reduction Act including potential impacts from any repeal or modification of the legislation;
+•
+the timing and availability of future funding under the Department of Energy Loan Facility;
+•
+our ability to continue to develop efficient manufactu
+ring processes to scale and to forecast relat
+ed costs and efficiencies accurately;
+•
+fluctuations in our revenue and operating results;
+•
+competition from existing or new competitors;
+•
+our ability to convert firm order backlog and pipeline to revenue;
+•
+risks associated with security breaches in our information technology systems;
+•
+risks related to legal proceedings or claims;
+•
+risks associated with evolving energy policies in the United States and other countries and the potential costs of regulatory compliance;
+•
+risks associated with changes to the U.S. trade environment;
+•
+our ability to maintain the listing of our shares of common stock on NASDAQ;
+•
+our ability to grow our business and manage growth profitably, maintain relationships with customers and suppliers and retain our management and key employees;
+•
+risks related to adverse changes in general economic conditions, including inflationary pressures and increased interest rates; 
+•
+risk from supply chain disruptions and other impacts of geopolitical conflict;
+•
+changes in applicable laws or regulations; and
+•
+other factors detailed under the section titled “Risk Factors” herein.
+More information on these important factors that could cause actual results to differ materially from those projected in the forward‑looking statements we make in this Annual Report are set forth in Part I, Item 1A under “Risk Factors”. In addition, there may be other factors of which we are presently unaware or that we currently deem immaterial that could cause our actual results to be materially different from the results referenced in the forward‑looking statements. 
+Forward-looking statements speak only as of the date they are made. Readers are cautioned not to put undue reliance on forward-looking statements, and, except as required by law, the Company assumes no obligation and does not intend to update or revise these forward-looking statements, whether as a result of new information, future events, or otherwise. 
+2
+PART I
+ITEM. 1 BUSINESS
+General
+Eos Energy Enterprises, Inc. (NASDAQ: EOSE) (“Eos”, “we,” “us,” “our,” or “Company”) is an American energy company and America’s leading innovator in designing, manufacturing, and providing zinc-based battery energy storage systems ("BESS"), sourced, and manufactured in the United States. The Eos BESS are safe, non-flammable, secure, and sustainable alternatives to lithium-ion batteries, making them ideal for utility-scale, microgrid, and commercial and industrial long-duration applications.
+Eos, a Delaware corporation, was originally incorporated in Delaware on June 3, 2019, as a special purpose acquisition company under the name B. Riley Principal Merger Corp. II., in order to acquire a company or companies, through a merger, capital stock exchange, asset acquisition, stock purchase, reorganization or similar business combination. Upon the completion of a business combination on November 16, 2020 (the "Merger"), the Company changed its name to “Eos Energy Enterprises, Inc.” The Company’s common shares started trading under the ticker NASDAQ: EOSE on November 16, 2020.
+On April 8, 2021, the Company entered into a unit purchase agreement (the “Purchase Agreement”) with Holtec Power, Inc. (“Holtec”), in accordance with the terms and conditions of which the Company purchased from Holtec the remaining 51% interest in HI-POWER, LLC (“Hi-Power”) that was not already owned by the Company. Hi-Power was incorporated as a joint venture between the Company and Holtec in 2019. In connection with the transaction, the Company also entered into a transition services agreement and a sublease with Holtec. The transaction closed on April 9, 2021. Following the consummation of the transactions set forth in the Purchase Agreement (the “Transactions”), Hi-Power became a 100% indirect, wholly-owned subsidiary of the Company and the obligations of the parties under the Hi-Power joint venture terminated. 
+The Company designs, develops, manufactures, and markets innovative zinc-based energy storage solutions for utility-scale, microgrid, and commercial & industrial (“C&I”) applications. We believe that our batteries have the potential to emerge as a leading alternative to Lithium-ion (“Li-ion”) batteries for such long-duration applications. The Company has developed a broad range of intellectual property with multiple patents covering unique battery chemistry, mechanical product design, energy block configuration and a software operating system (Battery Management System or "BMS"). The BMS software uses proprietary Eos-developed algorithms and includes ambient and battery temperature sensors, as well as voltage and electric current sensors for the electrical strings and the system. The Company currently focuses on manufacturing and selling turn-key direct current ("DC") battery energy storage systems. The Company plans to develop a turn-key alternating current ("AC") system. The Company’s primary applications focus on integrating battery storage solutions with: (1) renewable energy systems that are connected to the utility power grid; (2) renewable energy systems that are not connected to the utility power grid; (3) storage systems utilized to relieve congestion; and (4) storage systems to assist C&I customers in reducing their peak energy usage or participating in the utilities ancillary and demand response markets. The Company has a manufacturing facility in Turtle Creek, Pennsylvania to produce DC energy blocks with an integrated BMS. The Company’s primary market is North America.
+
+The Company has one operating and reportable segment.
+3
+Principal Products and Services
+The Company offers an innovative Znyth™ technology battery energy storage system ("BESS") designed to provide the operating flexibility to manage increased grid complexity and price volatility resulting from an overall increase in renewable energy generation and a congested grid coming from an increase in electricity demand growth. The Company’s BESS is a validated chemistry with accessible non-precious earth components in a durable design that is intended to deliver results in extreme temperatures and conditions. The system is designed to be safe, flexible, scalable, sustainable and manufactured in the United States using raw materials primarily sourced in the United States. We believe the Company’s Z3™ battery module is the core of its innovative systems. The Z3 battery module is the only U.S. designed and manufactured battery module that today provides utilities, independent power producers, renewables developers and C&I customers with an alternative to lithium-ion and lead-acid monopolar batteries for critical 3- to 12-hour or longer discharge duration applications. We believe the Z3 battery is transforming how utility, industrial and commercial customers store power.
+In addition to its BESS, the Company currently offers: (a) a BMS which provides a remote asset monitoring capability and service to track the performance and health of the Company’s BESS and to proactively identify future system performance issues through predictive analytics; (b) project management services to ensure the process of implementing the Company’s BESS are coordinated in conjunction with the customer’s overall project plans; (c) commissioning services that ensure the customer’s installation of the BESS meets the performance expected by the customer; and (d) long-term maintenance plans to maintain optimal operating performance of the Company’s systems
+.
+Availability of Raw Materials
+The Company procures materials from various third parties and across commodities, including chemicals and substrates, fabricated metal products, plastics, electronics and electrical components. We use both domestic and international raw materials suppliers to create our current Z3™ battery module. We will continue to focus on domesticating our supply chain in an economically sustainable manner. 
+While we believe we have sufficient sources for the materials, components, services and supplies used in our manufacturing activities, we are highly dependent on the availability of essential materials, parts and subassemblies from our suppliers. The predominant raw materials that are required for our Z3™ battery product are zinc halide salts, felt, resin, titanium and conductive polymer.  
+The Company effectively manages its supply chain through close relationships with key suppliers. We engage in formal agreements with our strategic supplier partners and continually look to implement strategies and opportunities to ensure a resilient supply network. 
+Additionally, based on the latest Internal Revenue Service ("IRS") guidance, the Company believes that our current Z3™ battery module feature raw materials sourcing sufficient to qualify for the Domestic Content Bonus awarded by the Inflation Reduction Act’s ("IRA") tax credits. 
+Industry Overview
+We believe the energy storage industry has evolved into a critical sector and increased global demand for global sustainable energy systems. The Company's development of clean energy complements fossil fuels in meeting the world’s growing demands for electricity. The world moves towards decarbonization and the increased use of renewable energy sources like solar and wind, energy storage plays a pivotal role in stabilizing grids, ensuring reliable power supply and maximizing the utility of intermittent power generation. 
+The global energy storage market is experiencing robust growth, driven by the rising need for grid reliability, increased renewable energy integration and advancements in energy storage technologies. We believe the market size is expected to expand significantly in the next decade. Key drivers of industry growth are renewable energy integration, grid modernization, cost reductions and energy security.
+4
+Certain countries' government policies, subsidies, and incentives play a role in accelerating the development and deployment of energy storage technologies. In the United States, the Department of Energy (“DOE”) has historically supported energy storage research and development, and some states have even adopted energy storage mandates. 
+Energy storage is a rapidly evolving industry that we believe is integral to the future of global energy systems. The Eos Z3 BESS provides a viable use case for standalone storage as an alternative to the bottleneck for the energy storage grid as the world continues to use fossil fuels for energy and electricity. Additionally, we believe our BESS' technology, safety and wide operating range makes us a "workhorse" asset for the energy grid.
+Strategy
+The Company continues to invest in the design, development, and production of its next-generation product, the Eos Z3 battery. This new battery builds upon the same electrochemistry that has remained largely unchanged for nearly a decade. The Eos Z3 is engineered to reduce costs and weight while enhancing manufacturability and overall system performance. Compared to the previous Gen 2.3, the Z3 features a more cost-effective design with a simplified tub structure, 50% fewer cells, and 98% fewer welds per battery module. We believe that the Eos Z3 will offer customers twice the energy density per square foot, while maintaining the same level of safety and reliability as the previous generation.
+The transition to the Eos Z3 is progressing as planned, with the first fully-automated battery manufacturing line now installed and in commercial production. The Z3 uses the same chemistry, known for its ability to endure over 3 million cycles, but introduces a new mechanical design aimed at improving performance, reducing costs, and enhancing manufacturability. The Company began delivering Z3 battery modules in Q3 2023. The Z3 incorporates valuable lessons learned from the past fifteen years, which the Company expects will drive efficiencies as it scales its state-of-the-art manufacturing capabilities.  
+The Company believes that the simplicity, flexibility, and safety of its products are key attributes desired by the market. Moreover, the Company recognizes the competitive advantage offered by the Inflation Reduction Act, which provides production tax credits (PTC) for domestically manufactured battery components, as well as tax credits for customers involved in projects meeting domestic content requirements (see the Regulations section in Item 1 - Business). The Company also plans to collaborate with a consortium of community leaders, universities, and supply chain partners to pursue funding opportunities under the Bipartisan Infrastructure Law of 2021.  
+Market Trends and Opportunities
+The Company believes there is a global push to generate energy through sustainable, renewable sources. However, this shift creates imbalances in existing energy grids that must be addressed. Managing these imbalances will require a variety of energy storage technologies to provide safe, reliable power. Until now, most energy storage systems have been short-duration, typically providing power for less than four hours. The Company anticipates that the future will demand mid-duration (6-12 hour) BESS that offer the flexibility to address intermittency and congestion challenges.  
+The Z3 battery is primarily composed of five earth-abundant, readily available raw materials with established supply chains, which enables the Company to drive costs down as production scales up. While lithium-ion batteries currently dominate stationary energy storage, driven in large part by the electric vehicle (EV) market, the Company sees an emerging challenge in the lithium supply chain. 
+There is growing industry-wide concern regarding the safety risks associated with lithium-ion batteries, including incidents of thermal runaway, fires, and explosions. Lithium-ion batteries are vulnerable to internal short circuits and thermal instability due to the flammable nature of their electrolytes, which can lead to significant safety incidents and have prompted intensified regulatory scrutiny. In contrast, our battery technology is designed without these characteristics, offering a significantly enhanced safety profile and reinforcing our commitment to reliable and secure energy storage solutions.
+5
+Intellectual Property
+The success of our business depends, in part, on our ability to maintain and protect our proprietary technology, information, processes and know-how. We rely primarily on patent, trademark, copyright and trade secret laws in the United States and similar laws in other countries, confidentiality agreements and procedures and other contractual arrangements. These patents are subject to regulatory approval by the respective governing entity where the patent was filed. A majority of our patents relate to cell chemistry, architecture and battery mechanical design, system packaging and BMS. We continually assess opportunities to seek patent protection for those aspects of our technology, design, methodologies and processes that we believe provide significant competitive advantages. 
+The Company periodically assesses its patent portfolio in relation to the patents’ utility and materiality to the current operation and future strategy of the business and abandons applications or ceases to maintain patents which are deemed immaterial to our current or future business operations. As of December 31, 2024, we have 26 patent families and 160 patents pending, issued, or published in 29 countries, protecting our technology and system architecture. The Company's key patents, related to its most recent generation product and future products, are not scheduled to expire until 2035 or later.
+In addition, the Company relies on trade secret protection and confidentiality agreements to safeguard our interests with respect to proprietary know-how that is not patentable and processes for which patents are difficult to enforce. We believe that many key elements of our manufacturing processes involve proprietary know-how, technology or data that are not covered by patents or patent applications, including technical processes, test equipment designs, algorithms and procedures. All of our research and development personnel have entered into confidentiality and proprietary information agreements with us. These agreements address intellectual property protection issues and requires our employees to assign to us all of the inventions, designs and technologies that Company personnel develop during the course of their employment. We also require our customers and business partners to enter into confidentiality agreements before we disclose any sensitive aspects of our technology or business plans.
+Regulations
+Governmental Programs and Incentives
+Globally, both the operations of our business by us and the ownership of our products by our customers are impacted by various government programs, incentives and other arrangements. 
+DOE Loan Facility
+On November 26, 2024, the Company entered into a note purchase agreement with the United States Federal Financing Bank ("FFB") and the United States DOE Loan Programs Office (“LPO”) ("DOE Loan Facility") pursuant to which, among other things, the DOE provided a guarantee of the Company’s (x) obligations to repay the term loan borrowings provided by the FFB to the Company and evidenced by a future advance promissory note (the “FFB Promissory Note”) and (y) the Company’s other obligations owing to FFB in respect of such guaranteed loan, and in connection and concurrently therewith, the Company entered into a Loan Guarantee Agreement with the DOE (collectively, such agreements provide for a multi draw term loan facility, the DOE Loan Facility), marking the first Title XVII battery loan closed. The DOE Loan Facility is a key step in advancing the Company's Project American Made Zinc Energy ("AMAZE") and is expected to fund the expansion of Eos’ manufacturing capacity to 8 GWh by 2027 to meet the growing demand for longer duration battery energy storage systems. The DOE Loan Facility provides for up to $303.5 million in funding, including capitalized interest.
+The DOE Loan Facility provides for a multi draw term loan facility under a series of at least two and, if the Company elects, up to four tranches of the loan (each, a “Tranche”), subject to the achievement of certain funding conditions, with each Tranche corresponding to the production, maintenance and development, and operation of a given production line to be funded using the proceeds of such Tranche and the principal amount of each Tranche consisting of a maximum principal amount designated for such Tranche in the DOE Loan Facility. Each Tranche provides the Company funding for 80% of the Eligible Project Costs (as defined in the DOE Loan Facility) associated with the corresponding production line, with the Company responsible for funding the remaining 20% of the Eligible Project Costs. 
+6
+Through December 31, 2024, the Company has received funding under the DOE Loan Facility for an aggregate amount of $68.3 million, at an interest rate of 4.791% for eligible project costs incurred through December 6, 2024. These costs are a portion of Tranche 1 of the DOE Loan Facility. Tranche 1 provides up to $102.0 million for eligible costs in connection with the design, construction, installation, startup and shakedown of a battery automation line and related tools, with a projected annual production capacity of approximately 1.25 GWh ("Line 1").
+For further discussion, see Note 13, 
+Borrowings, 
+to the Consolidated Financial Statements.
+Inflation Reduction Act of 2022
+On August 16, 2022, President Biden signed the Inflation Reduction Act of 2022 into law. The IRA has significant economic incentives for both energy storage customers and manufacturers for projects placed in service after December 31, 2022. One of the most important features of the IRA is that it offers a 10-year term tax credit, whereas historically similar industrial credits have been shorter in duration. Customers placing new energy storage facilities in service, which include our Gen 2.3 and Z3™ BESS, could qualify for investment tax credit (“ITC”). The IRA also offers an extra ten percent credit if the project is in an “energy community” and another ten percent credit if the project satisfies domestic content requirements, which have been set forth. The ten percent bonus for domestic content could represent a strategic advantage for the Company resulting from the Company’s near-sourcing and Made in America strategy, and we currently anticipate that projects utilizing Eos batteries will qualify for the bonus.
+The Production Tax Credits under Internal Revenue Code 45X (“PTC”), can be claimed on battery components manufactured in the U.S. and sold to U.S. or foreign customers. These tax credits available to manufacturers include a credit for ten percent of the cost incurred to make electrode active materials in addition to credits of $35 per kWh of capacity of battery cells and $10 per kWh of capacity of battery modules. These credits are cumulative, meaning that companies will be able to claim each of the available tax credits based on the battery components produced and sold through 2029, after which the PTC will begin to gradually phase down through 2032. In April 2024, the IRS issued final regulations related to applicable tax credit transferability and direct pay provisions of the Inflation Reduction Act. The Company has reviewed these regulations and believes they do not have a material impact on the financial statements.
+Competition
+The markets for our products are competitive, and we compete with manufacturers of traditional Li-ion and other battery storage systems. Factors affecting customers when choosing from different battery storage systems in the market include:
+•
+product performance and features;
+•
+safety and sustainability;
+•
+total lifetime cost of ownership;
+•
+total operational costs related to auxiliary equipment;
+•
+total product lifespan and degradation rate;
+•
+power and energy efficiency;
+•
+duration of the battery's storage;
+•
+customer service and support; and
+•
+U.S.-based manufacturing and sourced materials.
+7
+Our Znyth
+™
+ battery system competes with products from traditional Li-ion battery manufacturers and solution providers such as Panasonic, Samsung Electronics Co., Ltd, LG Chem, Ltd., Tesla, BYD, Sungrow, and Contemporary Amperex Technology Co. Limited. Our longer duration competitors include ESS Inc., Enervenue, Ambri, Form Energy, and Lockheed Martin. We believe that our current and next generation battery system offers significant technology, safety and cost advantages that reflect a competitive differentiation over Li-ion storage technologies.
+Competitive Strengths
+We believe the following strengths of our business distinguish us from our competitors and position us to capitalize on the expected continued growth in the energy storage market:
+•
+Differentiated Product- 
+Lithium cells must be kept within a narrow temperature range (25 °C +/- 5 °C), otherwise they are at risk of thermal runaway, potentially leading to fire or explosion. The Znyth™ BESS has a significantly wider thermal operating range (-20°C to 50°C), which eliminates the need for costly thermal management measures such as HVAC and fire suppression systems. Additionally, the product is a static modular battery design, which eliminates the need for pumps or compressors, both maintenance prone equipment required for flow batteries. Our battery system can charge and discharge at different durations, covering a wide range of use cases. The charge and discharge rates are fixed for Li-ion, and the life of a Li-ion battery can degrade if it is not charged or discharged at the rate for which it was designed, while the Eos Znyth technology BESS is not subject to the same degradation. This is because Eos batteries are manufactured at zero voltage and a zero percent state of charge, whereas Li-ion batteries must be kept at a specific voltage and state of charge even when not actively being used. 
+•
+Minimal Supply Chain Constraints-
+ All materials for producing our Z3™ battery products are widely available commodities with fewer supply chain constraints and minimal competition from electric vehicles. Additionally, the majority of the materials are recyclable with commercially available recycling processes at end of product life, helping preserve the environment.
+•
+Proven Technology Solution in the Growing and Evolving Energy Storage Market
+- As we launch the Z3 battery and ramp up manufacturing to gigawatt-hours (“GWh”) scale, we believe that we will benefit from the overall growth of the energy storage market, which is expected to reach 6,214 GWh by the end of 2035, as projected by BNEF. From an application perspective, the market is evolving to a LDES market. Our technology is tailored to address such a need. While Li-ion has been optimized for shorter duration, the performance of our batteries improves as it moves towards longer duration, making us the prime technology for the long-duration storage market.
+•
+Experienced Technology Team Focused on Continuous Innovation-
+ Our research and development team is responsible for growing and advancing our intellectual property portfolio, protecting our technology and system architecture. We believe that our continued investment in research and development will enable us to improve efficiency, energy density, functionality, and reliability while reducing the cost of our battery solution. We are also focused on leveraging our technology know-how to improve our BMS, expanding the operation of our batteries and increasing our overall performance. This same leverage would allow us to optimize our energy management solution to contextualize the operation of the battery based on the application, expanding our customers' ability to use our Znyth™ BESS in a wider set of use-cases. 
+•
+Established Global Sales Channels Anchored with Top-Tier Customers-
+ We sell products directly to the electric utility industry and through sales channels to the commercial and industrial market. We continue to build relationships with new customers and enter into agreements to provide battery solutions to new customers.
+•
+Strong management team- 
+We have assembled an executive team focused on accelerating the commercialization of the next-generation Z3™ battery product. With decades of combined, diverse experience in the energy industry and deep expertise in manufacturing, battery storage and executing complex power and energy projects around the world, our management team is able to develop, manufacture and deliver systems at scale to meet the growing demands of the global storage market.
+8
+Customers
+Our customers include the following:
+•
+Unity Scale renewable developers. 
+•
+Independent power producers
+•
+Industrial companies.
+•
+Microgrid developers.
+During fiscal year 2024, two customers individually accounted for 50.6% and 33.2%, respectively, of our total revenue. 
+Environmental, Social and Governance ("ESG")
+Eos is accelerating the shift to American energy independence by transforming how the world stores power in a safe, scalable, efficient, and sustainable way. We are committed to advancing global sustainable development through our products, working to systematically grow our business to meet the challenges of the global energy transition and combat the global climate change. Additionally, the Company has not incurred significant costs to remain in compliance with environmental laws.
+Our approach to ESG is intrinsically united to our four product themes: safety, scalability, sustainability, and efficiency. As we continue to scale, we remain committed to driving progress across these themes. 
+Human Capital
+The table below represents our 2024 employees by gender
+* 
+and ethnicity as a percentage of total headcount across non-exempt and exempt positions:
+By Gender
+By Ethnicity
+Female
+Male
+African American
+Asian
+Hispanic or Latino
+Two or more races
+White
+Non-exempt
+8 
+%
+36 
+%
+19 
+%
+2 
+%
+2 
+%
+2 
+%
+19 
+%
+Exempt
+12 
+%
+44 
+%
+5 
+%
+10 
+%
+4 
+%
+1 
+%
+36 
+%
+  Total
+20
+
+%
+80
+
+%
+24
+
+%
+12
+
+%
+6
+
+%
+3
+
+%
+55
+
+%
+*
+While we present male and female, we acknowledge this is not fully encompassing of all gender identities.
+As of December 31, 2024, we have 430 total employees, all of which are full-time employees. We have not experienced any employment-related work stoppages, and we consider relations with our employees to be good.
+Our success is based on the focused passion and dedication of our personnel. We are committed to providing a positive and engaging work environment for our employees and taking an active role in the betterment of the communities in which our employees live and work. Our full-time employees are provided a competitive benefits program, including comprehensive healthcare benefits, a 3% non-elective employer contribution 401(k) plan, equity awards, discretionary bonus and incentive pay opportunities, paid time-off benefits, paid parental leave, wellness programs, and periodic surveys.
+9
+Available Information
+Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and all amendments to these reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 (the "Exchange Act") are available free of charge on our investor website, located at https://investors.eose.com/, as soon as reasonably practicable after they are filed with or furnished to the Securities and Exchange Commission. Our reports are also available on the Securities and Exchange Commission's website at https://www.sec.gov/. The information on our website is not, and shall not be deemed to be, a part hereof or incorporated into this or any of our other filings with the SEC.
+10

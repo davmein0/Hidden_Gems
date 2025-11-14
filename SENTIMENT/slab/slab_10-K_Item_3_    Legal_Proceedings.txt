@@ -1,0 +1,4212 @@
+Item 3.     Legal Proceedings
+Information regarding legal proceedings is provided in Note 11, 
+Commitments and Contingencies
+, to the Consolidated Financial Statements. Such information is incorporated by reference herein.
+Item 4.     Mine Safety Disclosures
+Not applicable.
+27
+Table of Contents
+Part II
+Item 5.     Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+Market Information and Holders
+Our common stock is quoted on the NASDAQ National Market under the symbol “SLAB”. As of January 28, 2025, there were 46 holders of record of our common stock.
+Dividend Policy
+We have never declared or paid any cash dividends on our common stock and we currently do not intend to pay cash dividends. We currently expect to retain any future earnings to fund the operation and expansion of our business.
+Stock Performance Graph
+The graph depicted below shows a comparison of cumulative total stockholder returns for an investment in Silicon Laboratories Inc. common stock, the NASDAQ Composite Index and the PHLX Semiconductor Index.
+Company / Index
+12/28/19
+01/02/21
+01/01/22
+12/31/22
+12/30/23
+12/28/24
+Silicon Laboratories Inc.
+$
+100.00 
+$
+109.29 
+$
+177.15 
+$
+116.43 
+$
+113.52 
+$
+109.66 
+NASDAQ Composite Index
+$
+100.00 
+$
+144.38 
+$
+176.40 
+$
+119.01 
+$
+172.14 
+$
+227.78 
+PHLX Semiconductor Index
+$
+100.00 
+$
+152.93 
+$
+218.45 
+$
+142.26 
+$
+237.57 
+$
+294.12 
+_________________________________________________
+(1)
+The graph assumes that $100 was invested in our common stock and in each index at the market close on December 28, 2019, and that all dividends were reinvested. No cash dividends have been declared on our common stock.
+(2)
+Stockholder returns over the indicated period should not be considered indicative of future stockholder returns.
+28
+Table of Contents
+Issuer Purchases of Equity Securities
+There were no repurchases of our common stock during the three months ended December 28, 2024.
+Our share repurchase program authorized repurchases up to $100 million through December 2024.  The program allowed for repurchases to be made in the open market or in private transactions, including structured or accelerated transactions, subject to applicable legal requirements and market conditions.
+Item 6.     [Reserved]
+29
+Table of Contents
+Item 7.     Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion and analysis of financial condition and results of operations should be read in conjunction with the Consolidated Financial Statements and related notes thereto included elsewhere in this report. This discussion contains forward-looking statements. Please see the “Cautionary Statement” and “Risk Factors” above for discussions of the uncertainties, risks and assumptions associated with these statements. Our fiscal year-end financial reporting periods are a 52- or 53-week fiscal year that ends on the Saturday closest to December 31. Fiscal 2024, 2023, and 2022 had 52 weeks. Fiscal 2024, 2023, and 2022 ended on December 28, 2024, December 30, 2023 and December 31, 2022, respectively.
+Impact of Macroeconomic Conditions
+In recent years, the global economic environment has experienced inflationary pressure, high interest rates, and geopolitical tension, and we have experienced declines in revenues as our customers slowed purchases to reduce existing inventories in a softening market. While certain conditions improved during fiscal 2024, including deceleration of inflation and lowering of interest rates in certain geographies, there continues to be uncertainty regarding overall macroeconomic conditions, including increased geopolitical tensions, risk of recessions, and the effects of potential trade policies including tariffs. Although we saw sequential improvements in revenues over the course of fiscal 2024, the extent of the continued impact, or any new impact, of macroeconomic conditions on our operational and financial performance will depend on future developments, their impact to the business of our suppliers and/or customers, and other items identified under “Risk Factors” above, all of which are uncertain and cannot be predicted. Any extended period of global supply chain and economic disruption could materially affect our business, results of operations, access to sources of liquidity, and financial condition.
+Overview
+We are a leader in secure, intelligent wireless technology for a more connected world. Our integrated hardware and software platform, intuitive development tools, industry leading ecosystem and robust support enable customers in building advanced industrial, commercial, home and life applications. We make it easy for developers to solve complex wireless challenges throughout the product lifecycle and get to market quickly with innovative solutions that transform industries, grow economies and improve lives. We provide analog-intensive, mixed-signal solutions for use in a variety of electronic products in a broad range of applications for the Internet of Things (“IoT”) including connected home and security, industrial automation and control, smart metering, smart lighting, commercial building automation, consumer electronics, asset tracking and medical instrumentation. We group our products as Industrial & Commercial or Home & Life based on the target markets they address.
+As a fabless semiconductor company, we rely on third-party semiconductor fabricators in Asia, and to a lesser extent the United States and Europe, to manufacture the silicon wafers that reflect our integrated chip (“IC”) designs. Each wafer contains numerous die, which are cut from the wafer to create a chip for an IC. We rely on third parties in Asia to assemble, package, and, in most cases, test these devices and ship these units to our customers. Testing performed by such third parties facilitates faster delivery of products to our customers (particularly those located in Asia), shorter production cycle times, lower inventory requirements, lower costs and increased flexibility of test capacity.
+The sales cycle for our ICs can be as long as 12 months or more. An additional three to six months or more are usually required before a customer ships a significant volume of devices that incorporate our ICs. Due to this lengthy sales cycle, we typically experience a significant delay between incurring research and development and selling, general and administrative expenses, and the corresponding sales. Consequently, if sales in any quarter do not occur when expected, expenses and inventory levels could be disproportionately high, and our operating results for that quarter and, potentially, future quarters would be adversely affected. Moreover, the amount of time between initial research and development and commercialization of a product, if ever, can be substantially longer than the sales cycle for the product. Accordingly, if we incur substantial research and development costs without developing a commercially successful product, our operating results, as well as our growth prospects, could be adversely affected.
+Because some of our ICs are designed for use in consumer products, we expect that the demand for our products will be typically subject to some degree of seasonal demand. However, rapid changes in our markets and across our product areas make it difficult for us to accurately estimate the impact of seasonal factors on our business.
+30
+Table of Contents
+Current Period Highlights
+Revenues decreased $197.9 million in fiscal 2024 compared to fiscal 2023 due to decreased revenues from both our Industrial & Commercial products and Home & Life products. Gross margin decreased to 53.4% in fiscal 2024 compared to 58.9% in fiscal 2023 primarily due to variations in customer and product mix. Operating expenses decreased $7.1 million in fiscal 2024 compared to fiscal 2023 due primarily to continued efforts to contain costs. Operating loss in fiscal 2024 was $165.5 million compared to operating loss of $24.2 million in fiscal 2023. Refer to “Results of Operations” below for further discussion.
+We ended fiscal 2024 with $382.2 million in cash, cash equivalents and short-term investments. Net cash used in operating activities was $13.9 million during fiscal 2024. Accounts receivable were $54.5 million at December 28, 2024, representing 29 days sales outstanding (“DSO”). Inventory was $105.6 million at December 28, 2024, representing 125 days of inventory (“DOI”). 
+During fiscal 2024, 2023, and 2022, we had no customer that represented more than 10% of our revenues. In addition to direct sales to customers, some of our end customers purchase products indirectly from us through distributors and contract manufacturers. An end customer purchasing through a contract manufacturer typically instructs such contract manufacturer to obtain our products and incorporate such products with other components for sale by such contract manufacturer to the end customer. Although we actually sell the products to, and are paid by, the distributors and contract manufacturers, we refer to the end customer as our customer. Two of our distributors who sell to our customers, Arrow Electronics and Edom Technology, represented 27% and 16% of our revenues during fiscal 2024, 34% and 15% during fiscal 2023, and 33% and 17% during fiscal 2022, respectively. 
+The percentage of our revenues derived from outside of the United States was 90% in fiscal 2024, 88% in fiscal 2023 and 83% in fiscal 2022. All of our revenues to date have been denominated in U.S. dollars. We believe that a majority of our revenues will continue to be derived from customers outside of the United States.
+Results of Operations
+The following describes the line items set forth in our Consolidated Statements of Operations:
+Revenues. 
+Revenues are generated predominately by sales of our products. Our revenues are subject to variation from period to period due to the volume of shipments made within a period, the mix of products we sell and the prices we charge for our products.
+Cost of Revenues. 
+Cost of revenues includes the cost of purchasing finished silicon wafers processed by independent foundries; costs associated with assembly, test and shipping of those products; costs of personnel and equipment associated with manufacturing support, logistics and quality assurance; costs of software royalties, other intellectual property license costs and certain acquired intangible assets; and an allocated portion of our occupancy costs. Our gross margin fluctuates depending on product mix, manufacturing yields, inventory valuation adjustments, average selling prices and other factors.
+Research and Development. 
+Research and development expense consists primarily of personnel-related expenses, including stock-based compensation, as well as new product masks, external consulting and services costs, equipment tooling, equipment depreciation, amortization of intangible assets and an allocated portion of our occupancy costs. Research and development activities include the design of new products, refinement of existing products and design of test methodologies to ensure compliance with required specifications.
+Selling, General and Administrative. 
+Selling, general and administrative expense consists primarily of personnel-related expenses, including stock-based compensation, as well as an allocated portion of our occupancy costs, sales commissions to independent sales representatives, amortization of intangible assets, professional fees, legal fees, and promotional and marketing expenses.
+Interest Income and Other, Net.
+ Interest income and other, net reflects interest earned on our cash, cash equivalents and investment balances, foreign currency remeasurement adjustments, and other non-operating income and expenses.
+Interest Expense. 
+Interest expense consists of interest on our short and long-term obligations, including our convertible senior notes that were previously outstanding and our credit facility. Interest expense on our convertible senior notes included contractual interest and amortization of debt issuance costs.
+31
+Table of Contents
+Provision for Income Taxes. 
+Provision for income taxes includes both domestic and foreign income taxes at the applicable tax rates adjusted for non-deductible expenses, research and development tax credits, global intangible low-taxed income, Subpart F income inclusions, and other permanent differences.
+Equity-method Earnings (Loss).
+ Equity-method earnings (loss) represents income or loss on our equity-method investment.
+The following table sets forth our Consolidated Statements of Operations data as a percentage of revenues for the periods indicated:
+Fiscal Year
+2024
+2023
+2022
+Revenues
+100.0 
+%
+100.0 
+%
+100.0 
+%
+Cost of revenues
+46.6 
+41.1 
+37.3 
+Gross profit
+53.4 
+58.9 
+62.7 
+Operating expenses:
+Research and development
+56.9 
+43.2 
+32.5 
+Selling, general and administrative
+24.9 
+18.8 
+18.6 
+Operating expenses
+81.7 
+62.0 
+51.1 
+Operating income (loss)
+(28.3)
+(3.1)
+11.6 
+Other income (expense):
+Interest income and other, net
+2.1 
+2.4 
+1.4 
+Interest expense
+(0.2)
+(0.7)
+(0.6)
+Income (loss) before income taxes
+(26.5)
+(1.3)
+12.4 
+Provision for income taxes
+6.2 
+1.0 
+3.8 
+Equity-method earnings (loss)
+— 
+(2.0)
+0.3 
+Net income (loss)
+(32.7)
+%
+(4.4)
+%
+8.9 
+%
+Comparison of Fiscal 2024 to Fiscal 2023
+Revenues
+Fiscal Year
+
+(in millions)
+2024
+2023
+Change
+% Change
+
+Industrial & Commercial
+$
+338.5 
+$
+496.6 
+$
+(158.1)
+(31.8)
+%
+Home & Life
+245.9 
+285.7 
+(39.8)
+(13.9)
+%
+$
+584.4 
+$
+782.3 
+$
+(197.9)
+(25.3)
+%
+The decrease in revenues in fiscal 2024 was due to decreased revenues of $158.1 million from our Industrial & Commercial products and $39.8 million from our Home & Life products. Unit volumes and average selling prices of our products decreased compared to fiscal 2023. The weakness in the overall demand environment for our customers’ products we experienced in the second half of fiscal 2023 continued into fiscal 2024 as customers sought to reduce inventory levels that had become elevated as a result of the supply chain disruptions during fiscal 2021 and 2022. The average selling prices of our products may fluctuate significantly from period to period due to changes in product mix, customer mix, pricing decisions, and other factors. In general, as our products become more mature, we expect to experience decreases in average selling prices.
+32
+Table of Contents
+Gross Profit
+Fiscal Year
+(in millions)
+2024
+2023
+Change
+
+Gross profit
+$
+312.2 
+$
+460.6 
+$
+(148.4)
+Gross margin
+53.4 
+%
+58.9 
+%
+(5.5)
+%
+Gross profit decreased in fiscal 2024 due primarily as a result of a decrease in revenues in the period. Gross margin decreased primarily due to variations in customer and product mix, with the percentage of revenues attributed to direct customers increasing as compared to revenue from distributors in fiscal 2024.
+We may experience variations in the average selling prices of certain of our products. Increases in average selling prices may occur during periods of increased demand, but such demand may be short-lived and could be accompanied by higher product costs. Declines in average selling prices create downward pressure on gross margin and may be offset to the extent we are able to introduce higher margin new products and gain market share with our products; reduce costs of existing products through improved design; achieve lower production costs from our wafer suppliers and third-party assembly and test subcontractors; achieve lower production costs per unit as a result of improved yields throughout the manufacturing process; or reduce logistics costs.
+Research and Development
+Fiscal Year
+(in millions)
+2024
+2023
+Change
+% Change
+
+Research and development
+$
+332.2 
+$
+337.7 
+$
+(5.5)
+(1.6)
+%
+Percent of revenue
+56.9 
+%
+43.2 
+%
+
+The decrease in research and development expense in fiscal 2024 was primarily due to a decrease of $7.2 million for personnel-related expenses as a result of our workforce reductions implemented in the fourth quarter of fiscal 2023. Other decreases to research and development expense in fiscal 2024 were $2.3 million for the amortization of intangible assets, $2.0 million for technical services, and $1.4 million for IT-related costs, partially offset by an increase of $7.8 million in software expense. The increase in research and development expense as a percent of revenues in fiscal 2024 was due to our decreased revenues.
+Selling, General and Administrative
+Fiscal Year
+
+(in millions)
+2024
+2023
+Change
+% Change
+
+Selling, general and administrative
+$
+145.5 
+$
+147.0 
+$
+(1.5)
+(1.0)
+%
+Percent of revenue
+24.9 
+%
+18.8 
+%
+The decrease in selling, general and administrative expense in fiscal 2024 was primarily due to a $2.0 million decrease in outside services, a $1.4 million decrease in IT-related costs, and a $0.8 million decrease in occupancy costs, partially offset by a $2.9 million increase in personnel-related costs. The increase in selling, general and administrative expense as a percent of revenues in fiscal 2024 was due to our decreased revenues.  
+Interest Income and Other, Net
+Interest income and other, net in fiscal 2024 was $12.0 million compared to $19.2 million in fiscal 2023. The decrease in interest income and other, net in fiscal 2024 was primarily due to lower interest-bearing investment balances as a result of the sale of investments to fund the settlement of our 2025 convertible senior notes in the second quarter of fiscal 2023, stock repurchases in the first three quarters of fiscal 2023, and repayment of borrowing from our credit facility in the third quarter of fiscal 2023.
+33
+Table of Contents
+ Interest Expense
+Interest expense in fiscal 2024 was $1.3 million compared to $5.6 million in fiscal 2023. The decrease was primarily due to the settlement of our 2025 convertible senior notes in the second quarter of fiscal 2023.
+Provision for Income Taxes
+Fiscal Year
+(in millions)
+2024
+2023
+Change
+Provision for income taxes
+$
+36.2 
+$
+7.9 
+$
+28.3 
+Effective tax rate
+(23.4)
+%
+(29.9)
+%
+
+The increase in the provision for income taxes for fiscal 2024 as compared to fiscal 2023 was primarily due to the establishment of a valuation allowance against the majority of our U.S. and Singapore deferred tax assets during the second quarter of fiscal 2024. There is a need for a valuation allowance in the U.S. and Singapore due to a forecasted three-year cumulative pre-tax loss for the current and two preceding years in conjunction with the recent downturn in the semiconductor industry. We intend to maintain the valuation allowance until sufficient future sources of taxable income are forecasted to realize the benefit of the deferred tax assets.
+Equity-method Loss
+Equity-method loss in fiscal 2023 was $16.0 million. Our equity-method investment was sold in the fourth quarter of fiscal 2023.
+Liquidity and Capital Resources
+Our principal sources of liquidity as of December 28, 2024 consisted of $382.2 million in cash, cash equivalents and short-term investments, of which $194.1 million was held by our U.S. entities. The remaining balance was held by our foreign subsidiaries. Our cash equivalents and short-term investments consisted of government debt securities, which include U.S. government securities; corporate debt securities, which include asset-backed securities, corporate bonds, and Yankee bonds; and money market funds. 
+Operating Activities
+Net cash used in operating activities was $13.9 million during fiscal 2024, compared to net cash used in operating activities of $30.3 million during fiscal 2023. Operating cash flows during fiscal 2024 reflect our net loss of $191.0 million, adjustments of $139.6 million for depreciation, amortization, stock-based compensation, and deferred income taxes, and a net cash inflow of $37.5 million due to changes in our operating assets and liabilities.
+Accounts receivable increased to $54.5 million at December 28, 2024 from $29.3 million at December 30, 2023. The increase in accounts receivable resulted primarily from an increase in shipments during the last quarter of fiscal 2024 compared to the last quarter of fiscal 2023. Our DSO was 29 days at December 28, 2024 and 30 days at December 30, 2023.
+Inventory decreased to $105.6 million at December 28, 2024 from $194.3 million at December 30, 2023, due to an intentional reduction of inventory holding levels in response to reduced demand. Our inventory levels will vary based on the availability of supply and the impact of variations between forecasted demand used for purchasing inventory and actual demand. Our DOI was 125 days at December 28, 2024 and 407 days at December 30, 2023.
+Investing Activities
+Net cash provided by investing activities was $113.1 million during fiscal 2024, compared to $469.8 million during fiscal 2023. The decrease in cash inflows was principally due to a decrease in cash provided by net purchases, sales, and maturities of marketable securities of $380.1 million in fiscal 2024.
+34
+Table of Contents
+Financing Activities
+Net cash used in financing activities was $45.1 million during fiscal 2024, compared to $711.9 million during fiscal 2023. The decrease in cash outflows was principally due to $571.2 million in debt repayments and $217.1 million for repurchases of common stock, partially offset by $80.0 million in proceeds from our revolving line of credit, in fiscal 2023.
+Debt
+As of December 28, 2024, we had a $400 million revolving credit facility. We have an option to increase the size of the borrowing capacity of the revolving credit facility by up to the greater of an aggregate of $250 million and 100% of EBITDA, plus an amount that would not cause a secured net leverage ratio to exceed 3.50 to 1.00, subject to certain conditions. As of December 28, 2024, no amounts were outstanding on the revolving credit facility. We were granted a waiver of compliance for the minimum interest coverage ratio through March 29, 2025. In the event we are not able to achieve compliance by the end of the waiver period, we may need to amend the covenant or obtain an additional waiver in order to access the revolving credit facility.
+Capital Requirements
+Our future capital requirements will depend on many factors, including the rate of sales growth, market acceptance of our products, the timing and extent of research and development projects, potential acquisitions of companies or technologies and the expansion of our sales and marketing activities. We believe our existing cash, cash equivalents, investments, credit under our credit facility, and cash generated from operations are sufficient to meet our short-term (i.e., over at least the next twelve months) and long-term capital requirements, although we could be required, or could elect, to seek additional funding prior to that time. We may enter into acquisitions or strategic arrangements in the future which also could require us to seek additional equity or debt financing.
+Contractual Obligations
+Our purchase obligations primarily include contractual arrangements in the form of purchase orders and purchase commitments with suppliers. As of December 28, 2024, such purchase obligations were $39.5 million. For a description of other contractual obligations, see Note 9, 
+Debt
+, and Note 10, 
+Leases
+, to the Consolidated Financial Statements.
+Comparison of Fiscal 2023 to Fiscal 2022
+A discussion of changes in our results of operations and liquidity and capital resources from fiscal 2022 to fiscal 2023 has been omitted from this Form 10-K, but may be found in “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” of our Form 10-K filed with the Securities and Exchange Commission on February 20, 2024.
+Critical Accounting Estimates
+The preparation of financial statements and accompanying notes in conformity with U.S. generally accepted accounting principles requires that we make estimates and assumptions that affect the amounts reported. Changes in facts and circumstances could have a significant impact on the resulting estimated amounts included in the financial statements. We believe the following critical accounting policies affect our more complex judgments and estimates.
+Inventory valuation
+ – We assess the recoverability of inventories through the application of a set of methods, assumptions and estimates. In determining net realizable value, we write down inventory that may be slow moving or have some form of obsolescence, including inventory that has aged more than 24 months. We also adjust the valuation of inventory when its manufacturing cost exceeds the estimated selling price less costs of completion, disposal and transportation. We assess the potential for any unusual customer returns based on known quality or business issues and write-off inventory losses for scrap or non-saleable material. Inventory not otherwise identified to be written down is compared to an assessment of our 18-month forecasted demand. The result of this methodology is compared against the product life cycle and competitive situations in the marketplace to determine the appropriateness of the resulting inventory levels. Demand for our products may fluctuate significantly over time, and actual demand and market conditions may be more or less favorable than those that we project. In the event that actual demand is lower, or market conditions are worse than originally projected, additional inventory write-downs may be required.
+35
+Table of Contents
+Revenue recognition
+ – We recognize revenue when control of the promised goods or services is transferred to customers, in an amount that reflects the consideration we expect to be entitled to in exchange for those goods or services. In order to achieve this core principle, we apply a five-step process. As part of this process, we analyze the performance obligations in a customer contract and estimate the variable consideration we expect to receive. The evaluation of performance obligations requires that we identify the promised goods and services in the contract. For contracts that contain more than one promised good and service, we then must determine whether the promises are capable of being distinct and if they are separately identifiable from other promises in the contract. Variable consideration primarily includes sales made to distributors under agreements allowing certain rights of return, referred to as stock rotation, and credits issued to the distributor due to price protection. We estimate variable consideration at the most likely amount to which we expect to be entitled. We make these estimates based on available information, including recent sales activity and pricing data. We apply a constraint to our variable consideration estimate which considers both the likelihood of a return and the amount of a potential price concession. If our evaluation of performance obligations is incorrect, we may recognize revenue sooner or later than is appropriate. If our estimates of variable consideration are inaccurate, we may recognize too much or too little revenue in a period. We may adjust assumptions used to estimate consideration periodically based on analysis of prior estimates. 
+Income taxes
+ – We are required to calculate income taxes in each of the jurisdictions in which we operate. This process involves calculating the actual current tax liability together with assessing temporary differences in recognition of income (loss) for tax and accounting purposes. These differences result in deferred tax assets and liabilities, which are included in our Consolidated Balance Sheets. Evaluating the need for a valuation allowance for deferred tax assets requires analysis of all positive and negative evidence available, including recent earnings history and taxable income in recent years, reversals of deferred tax liabilities, projected future taxable income, and tax planning strategies to determine whether all or some portion of the deferred tax assets will not be realized. We record a valuation allowance when it is more likely than not that some portion or all of the deferred tax assets will not be realized. Judgment is inherent in this process, and differences between the estimated and actual taxable income could result in a material impact on our Consolidated Financial Statements.
+We recognize liabilities for uncertain tax positions based on a two-step process. The first step requires us to determine whether the weight of available evidence indicates that the tax position has met the threshold for recognition. Therefore, we must evaluate whether it is more likely than not that the position will be sustained on audit, including resolution of any related appeals or litigation processes. The second step requires us to measure the tax benefit of the tax position taken, or expected to be taken, in an income tax return as the largest amount that is more than 50% likely of being realized upon ultimate settlement. This measurement step is inherently complex and requires subjective estimations of such amounts to determine the probability of various possible outcomes. We re-evaluate the uncertain tax positions each quarter based on factors including, but not limited to, changes in facts or circumstances, changes in tax law, expirations of statutes of limitation, effectively settled issues under audit, and new audit activity. Such a change in recognition or measurement would result in the recognition of a tax benefit or an additional charge to the tax provision in the period.
+Although we believe the measurement of our liabilities for uncertain tax positions is reasonable, no assurance can be given that the final outcome of these matters will not be different than what is reflected in the historical income tax provisions and accruals. If additional taxes are assessed as a result of an audit or litigation, they could have a material effect on our income tax provision and net income in the period or periods for which that determination is made. We operate within multiple taxing jurisdictions and are subject to audit in these jurisdictions. These audits can involve complex issues which may require an extended period of time to resolve and could result in additional assessments of income tax. We believe adequate provisions for income taxes have been made for all periods.
+Recent Accounting Pronouncements
+Information regarding recent accounting pronouncements is provided in Note 2, 
+Significant Accounting Policies
+, to the Consolidated Financial Statements. Such information is incorporated by reference herein.
+Item 7A.     Quantitative and Qualitative Disclosures about Market Risk
+Interest Income
+Our investment portfolio includes cash, cash equivalents and short-term investments. Our main investment objective is the preservation of investment capital. Our interest income is sensitive to changes in the general level of U.S. interest rates. A 100 basis point decline in yield on our investment portfolio holdings as of December 28, 2024 would decrease our future 
+36
+Table of Contents
+annual interest income by approximately $3.0 million. A 100 basis point decline in yield on our investment portfolio holdings as of December 30, 2023 would decrease our future annual interest income by approximately $3.6 million. We believe that our investment policy, which defines the duration, concentration, and minimum credit quality of the allowable investments, meets our investment objectives.
+Interest Expense
+We are exposed to interest rate fluctuations in the normal course of our business, including through our credit facility. The interest rate on the credit facility consists of a variable-rate of interest and an applicable margin. While we have drawn from the credit facility in the past, we have no borrowings as of December 28, 2024. If we borrow from the credit facility in the future, we will again be exposed to interest rate fluctuations.
+Foreign currency exchange rate risk
+We are exposed to foreign currency exchange rate risk primarily through assets, liabilities and operating expenses of our subsidiaries denominated in currencies other than the U.S. dollar. Our foreign subsidiaries are considered to be extensions of the U.S. parent. The functional currency of the foreign subsidiaries is the U.S. dollar. Accordingly, gains and losses resulting from remeasuring transactions denominated in currencies other than U.S. dollars are recorded in the Consolidated Statements of Operations. We use foreign currency forward contracts to manage exposure to foreign exchange risk. Gains and losses on foreign currency forward contracts are recognized in earnings in the same period during which the hedged transaction is recognized.
+Item 8.     Financial Statements and Supplementary Data
+The Financial Statements and supplementary data required by this item are included in Part IV, Item 15 of this Form 10-K and are presented beginning on page F-1.
+Item 9.     Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+None.
+Item 9A.     Controls and Procedures
+Evaluation of Disclosure Controls and Procedures
+We have performed an evaluation under the supervision and with the participation of our management, including our Chief Executive Officer (CEO) and Chief Financial Officer (CFO), of the effectiveness of our disclosure controls and procedures, as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934 (the Exchange Act). Based on that evaluation, our management, including our CEO and CFO, concluded that our disclosure controls and procedures were effective as of December 28, 2024 to provide reasonable assurance that information required to be disclosed by us in the reports filed or submitted by us under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms. Such disclosure controls and procedures include controls and procedures designed to ensure that information required to be disclosed is accumulated and communicated to our management, including our CEO and CFO, to allow timely decisions regarding required disclosures.
+Changes in Internal Control over Financial Reporting
+There was no change in our internal controls during the fiscal quarter ended December 28, 2024 that materially affected, or is reasonably likely to materially affect, our internal controls over financial reporting, other than the remediation efforts of the material weakness discussed below.
+Remediation of Material Weakness in Internal Control over Financial Reporting
+As previously disclosed in Item 9A. Controls and Procedures in our Annual Report on Form 10-K for the year ended December 30, 2023 filed with the SEC, our management, including our CEO and CFO, identified deficiencies in our internal control over financial reporting that we believe rose to the level of a material weakness.  A material weakness is a deficiency, or a combination of deficiencies in internal control over financial reporting, such that there is a reasonable 
+37
+Table of Contents
+possibility that a material misstatement of our annual or interim consolidated financial statements will not be prevented or detected on a timely basis. This material weakness did not result in any material errors.
+To address the material weakness related to undue reliance on forecasted inventory demand information used in determining inventory carrying value adjustments, we completed the following:
+•
+Evaluated and reassessed the design of our inventory valuation methods, including key assumptions used in the determination of the net realizable value of our inventory;
+•
+Designed and implemented enhanced controls and documentation requirements during the quarter ended December 28, 2024 that support the completeness and accuracy of data used in the inventory valuation assessment;
+•
+Formalized management’s review and assessment of information used in the inventory valuation assessment; and
+•
+Refined the critical assumptions to be used in the inventory valuation assessment, including demand forecast information, historical results, market conditions, and aging of inventory.
+During the quarter ended December 28, 2024, we successfully completed the testing necessary to conclude that this material weakness has been remediated.
+Management’s Report on Internal Control over Financial Reporting
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting. Our internal control system was designed to provide reasonable assurance to our management and Board of Directors regarding the preparation and fair presentation of published financial statements.
+Our management assessed the effectiveness of our internal control over financial reporting as of December 28, 2024. In making this assessment, it used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in Internal Control—Integrated Framework (2013 framework). Based on our assessment we concluded that, as of December 28, 2024, our internal control over financial reporting is effective based on those criteria.
+Our independent registered public accounting firm, Ernst & Young LLP, issued an attestation report on our internal control over financial reporting. This report appears on page F-3.
+Item 9B.     Other Information
+Rule 10b5-1 Trading Arrangements
+The following table describes contracts, instructions, or written plans for the purchase or sale of our securities intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) entered into or terminated during the quarter ended December 28, 2024 by our directors and officers (as defined under Rule 16b-1(f) of the Exchange Act). There were no non-Rule 10b5-1 trading arrangements 
+entered into
+ or 
+terminated
+ by our directors and officers during the quarter ended December 28, 2024.
+Name and Title of Director or Officer
+Date of Adoption of Arrangement
+Duration of the Arrangement
+Aggregate Number of Securities to be Purchased or Sold Pursuant to the Arrangement
+R. Matthew Johnson
+President & CEO
+November 27, 2024
+Expires 
+June 02, 2025
+58,820
+1
+(1)
+Represents the total number of shares that may be sold under the trading arrangement, which includes shares underlying restricted stock units (“RSUs”) and performance share units (“PSUs”).  The actual number of shares sold may be less based on tax withholdings and performance and vesting conditions of the award
+s.
+Item 9C.     Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+None.
+38
+Table of Contents
+Part III
+Certain information required by Part III is omitted from this report because we intend to file a definitive Proxy Statement pursuant to Regulation 14A (the “Proxy Statement”) no later than 120 days after the end of the fiscal year covered by this report, and certain information to be included therein is incorporated herein by reference.
+Item 10.     Directors, Executive Officers and Corporate Governance
+The information required by this Item will be included in the Proxy Statement and is incorporated herein by reference.
+Item 11.     Executive Compensation
+The information required by this Item will be included in the Proxy Statement and is incorporated herein by reference.
+Item 12.     Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+The information required by this Item will be included in the Proxy Statement and is incorporated herein by reference.
+Item 13.     Certain Relationships and Related Transactions, and Director Independence
+The information required by this Item will be included in the Proxy Statement and is incorporated herein by reference.
+Item 14.     Principal Accounting Fees and Services
+The information required by this Item will be included in the Proxy Statement and is incorporated herein by reference.
+39
+Table of Contents
+Part IV
+Item 15.     Exhibits and Financial Statement Schedules
+(a)
+1.    Financial Statements
+Index
+Page
+Report of Independent Registered Public Accounting Firm
+ (PCAOB ID: 
+42
+)
+F-
+1
+Report of Independent Registered Public Accounting Firm
+F-
+3
+Consolidated Balance Sheets at 
+December 28, 2024
+ and
+ December 30, 2023
+F-
+4
+Consolidated Statements of 
+Operations
+ for the fiscal years ended 
+December 28, 2024
+, 
+December 30, 2023
+ and 
+December 31, 2022
+F-
+5
+Consolidated Statements of 
+Comprehensive Income (Loss)
+ for the fiscal years ended 
+December 28, 2024
+, 
+December 30, 2023
+ and 
+December 31, 2022
+F-
+6
+Consolidated Statements of Changes in Stockholders’ Equity for the fiscal years ended 
+December 28, 2024
+, 
+December 30, 2023
+ and 
+December 31, 2022
+F-
+7
+Consolidated Statements of Cash Flows for the fiscal years ended 
+December 28, 2024
+, 
+December 30, 2023
+ and 
+December 31, 2022
+F-
+8
+Notes to Consolidated Financial Statements 
+F-
+9
+2.
+Schedules
+All schedules have been omitted since the information required by the schedule is not applicable or is not present in amounts sufficient to require submission of the schedule, or because the information required is included in the Consolidated Financial Statements and notes thereto.
+3.
+Exhibits
+The exhibits listed on the accompanying index to exhibits immediately following the Consolidated Financial Statements are filed as part of, or hereby incorporated by reference into, this Form 10-K.
+(b)
+Exhibits
+The following exhibits are filed as part of this report:
+Exhibit
+Number
+2.1*
+Asset Purchase Agreement dated April 22, 2021 between Silicon Laboratories Inc. and Skyworks Solutions, Inc. (filed as Exhibit 2.1 to the Form 8-K filed on April 22, 2021).
+3.1*
+Form of Fourth Amended and Restated Certificate of Incorporation of Silicon Laboratories Inc. (filed as Exhibit 3.1 to the Registration Statement on Form S-1 (Securities and Exchange Commission File No. 333-94853) (the “IPO Registration Statement”)).
+3.2*
+Fifth Amended and Restated Bylaws of Silicon Laboratories Inc. (filed as Exhibit 3.1 to the Form 8-K filed on February 3, 2021).
+4.1*
+Description of Registrant’s Securities Registered under Section 12 of the Exchange Act (filed as Exhibit 4.7 to the Form 10 - K filed on February 1, 2023).
+40
+Table of Contents
+Exhibit
+Number
+10.1*+
+Form of Indemnification Agreement between Silicon Laboratories Inc. and each of its directors and executive officers (filed as Exhibit 10.1 to the IPO Registration Statement).
+10.2*
+Credit Agreement, dated July 31, 2012, by and among Silicon Laboratories Inc., the subsidiaries of the borrower identified therein, Bank of America, N.A., Wells Fargo Bank, National Association, and Regions Bank (filed as Exhibit 10.1 to the Form 8-K filed August 1, 2012).
+10.3*
+First Amendment to Credit Agreement, dated July 24, 2015, by and among Silicon Laboratories Inc., the subsidiaries of the borrower identified therein, Wells Fargo Bank, National Association, Citibank, N.A., Regions Bank, Bank of America, N.A. and the lenders party thereto (filed as Exhibit 10.1 to the Form 8-K filed on July 29, 2015).
+10.4*
+Second Amendment to Credit Agreement, dated February 27, 2017, by and among Silicon Laboratories Inc., the subsidiaries of the borrower identified therein, Wells Fargo Bank, National Association and the lenders party thereto (filed as Exhibit 10.1 to the Form 8-K filed on February 27, 2017).
+10.5*
+Third Amendment to Credit Agreement, dated August 7, 2019, by and among Silicon Laboratories Inc., the subsidiaries of the borrower identified therein, Wells Fargo Bank, National Association and the lenders party thereto (filed as Exhibit 10.1 to the Form 8-K filed on August 7, 2019).
+10.6*
+Fourth Amendment to Credit Agreement, dated May 26, 2020, by and among Silicon Laboratories Inc., the subsidiaries of the borrower identified therein, Wells Fargo Bank, National Association and the lenders party thereto (filed as Exhibit 10.1 to the Form 8-K filed on May 27, 2020).
+10.7*
+Security and Pledge Agreement, dated July 31, 2012, by and among Silicon Laboratories Inc., with the other parties identified as “Obligors” (as defined therein) and such other parties that may become Obligors thereunder after the date thereof, and Bank of America, N.A (filed as Exhibit 10.2 to the Form 8-K filed August 1, 2012).
+10.8*+
+Form of Restricted Stock Units Grant Notice and Global Restricted Stock Units Award Agreement under Registrant’s 2009 Stock Incentive Plan, as amended and restated (filed as Exhibit 10.7 to the Form 10-K filed on February 1, 2017).
+10.9*+
+Form of Market Stock Units Grant Notice and Global Market Stock Units Award Agreement under Registrant’s 2009 Stock Incentive Plan, as amended and restated (filed as Exhibit 10.8 to the Form 10-K filed on February 1, 2017).
+10.10*+
+Form of Stock Option Grant Notice and Global Stock Option Award Agreement under Registrant’s 2009 Stock Incentive Plan, as amended and restated (filed as Exhibit 10.9 to the Form 10-K filed on February 1, 2017).
+10.11*+
+Silicon Laboratories Inc. Form of Executive Severance Agreement (filed as Exhibit 10.2 to the Form 8-K filed on May 17, 2021).
+10.12*+
+Silicon Laboratories Inc. Form of Performance Stock Units Grant Notice and Global PSU Award Agreement under Registrant’s 2009 Stock Incentive Plan, as amended and restated (filed as Exhibit 10.3 to the Form 8-K filed on May 17, 2021).
+10.13*+
+Silicon Laboratories Inc. 2009 Stock Incentive Plan (As Amended and Restated on April 22, 2021) (filed as Exhibit 4.3 to the Form S-8 filed on May 5, 2021).
+10.14*+
+Silicon Laboratories Inc. 2009 Employee Stock Purchase Plan (As Amended and Restated on April 22, 2021) (filed as Exhibit 4.4 to the Form S-8 filed on May 5, 2021).
+10.15*+
+Silicon Laboratories Inc. Form of Performance Stock Units Grant Notice and Global PSU Award Agreement under Registrant’s 2009 Stock Incentive Plan, as amended and restated (filed as Exhibit 10.1 to the Form 8-K filed on December 23, 2021).
+10.16*+
+Silicon Laboratories Inc. Form of Performance Stock Units Grant Notice and Global PSU Award Agreement under Registrant’s 2009 Stock Incentive Plan, as amended and restated (filed as Exhibit 10.20 to the Form 10-K filed on February 1, 2023).
+10.17*+
+Fifth Amendment to Credit Agreement, dated June 30, 2023, by and among Silicon Laboratories Inc., the subsidiaries of the borrower identified therein, Wells Fargo Bank, National Association and the lenders party thereto
+ (filed as Exhibit 10.1 to the Form 8-K filed on July 3, 2023).
+10.18*+
+Silicon Laboratories Inc. Form of Performance Stock Units Grant Notice and Global PSU Award Agreement under Registrant’s 2009 Stock Incentive Plan, as amended and restated
+ (filed as Exhibit 10.19 to the Form 10-K 
+filed on February 20,
+ 2024)
+.
+41
+Table of Contents
+Exhibit
+Number
+19
+Insider Trading Policy.
+21
+Subsidiaries of the Registrant.
+23.1
+Consent of Independent Registered Public Accounting Firm.
+24
+Power of Attorney (included on signature page to this Form 10-K).
+31.1
+Certification of the Principal Executive Officer, as required by Section 302 of the Sarbanes-Oxley Act of 2002.
+31.2
+Certification of the Principal Financial Officer, as required by Section 302 of the Sarbanes-Oxley Act of 2002.
+32.1
+Certification as required by Section 906 of the Sarbanes-Oxley Act of 2002.
+97*
+Policy Relating to Recovery of Erroneously Awarded Compensation (filed as Exhibit 97 to the Form 10-K filed on February 20, 2024).
+101.INS
+Inline XBRL Instance Document – the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+________________________________________
+*
+Incorporated herein by reference to the indicated filing.
++
+Management contract or compensatory plan or arrangement
+Item 16.     Form 10-K Summary
+None.
+42
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized, in Austin, Texas, on February 4, 2025.
+SILICON LABORATORIES INC.
+By:
+/s/ R. Matthew Johnson
+R. Matthew Johnson
+President and 
+Chief Executive Officer
+POWER OF ATTORNEY
+KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears below constitutes and appoints R. Matthew Johnson and Dean Butler and each of them, acting individually, as his or her attorney-in-fact, each with full power of substitution and resubstitution, for him or her and in his or her name, place and stead, in any and all capacities, to sign any and all amendments to this annual report on Form 10-K and other documents in connection herewith and therewith, and to file the same, with all exhibits thereto, with the Securities and Exchange Commission, granting unto said attorneys-in-fact and agents, and each of them, full power and authority to do and perform each and every act and thing requisite and necessary to be done in connection herewith and therewith and about the premises, as fully to all intents and purposes as he or she might or could do in person, hereby ratifying and confirming all that said attorneys-in-fact and agents, or any of them, or their or his substitute or substitutes, may lawfully do or cause to be done by virtue hereof.
+43
+Table of Contents
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated:
+Name
+Title
+Date
+/s/ Navdeep S. Sooch
+Chairman of the Board
+February 4, 2025
+Navdeep S. Sooch
+/s/ R. Matthew Johnson
+President, Chief Executive Officer and Director
+February 4, 2025
+R. Matthew Johnson
+(Principal Executive Officer)
+/s/ Dean Butler
+Senior Vice President and Chief Financial Officer
+February 4, 2025
+Dean Butler
+(Principal Financial Officer)
+/s/ Mark D. Mauldin
+Chief Accounting Officer
+February 4, 2025
+Mark D. Mauldin
+(Principal Accounting Officer)
+/s/ William G. Bock
+Director 
+February 4, 2025
+William G. Bock
+/s/ Gregg Lowe
+Director
+February 4, 2025
+Gregg Lowe
+/s/ Sherri Luther
+Director
+February 4, 2025
+Sherri Luther
+/s/ Nina Richardson
+Director
+February 4, 2025
+Nina Richardson
+/s/ Sumit Sadana
+Director
+February 4, 2025
+Sumit Sadana
+/s/ Christy Wyatt
+Director
+February 4, 2025
+Christy Wyatt
+44
+Table of Contents
+Report of Independent Registered Public Accounting Firm
+To the Stockholders and the Board of Directors of Silicon Laboratories Inc.
+Opinion on the Financial Statements
+We have audited the accompanying consolidated balance sheets of Silicon Laboratories Inc. (the Company) as of December 28, 2024 and December 30, 2023, the related consolidated statements of operations, comprehensive income (loss), changes in stockholders’ equity and cash flows for each of the three years in the period ended December 28, 2024, and the related notes (collectively referred to as the “consolidated financial statements”). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company at December 28, 2024 and December 30, 2023, and the results of its operations and its cash flows for each of the three years in the period ended December 28, 2024, in conformity with U.S. generally accepted accounting principles.
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company
+’
+s internal control over financial reporting as of December 28, 2024, based on criteria established in Internal Control—Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework), and our report dated February 4, 2025 expressed an unqualified opinion thereon.
+Basis for Opinion
+These financial statements are the responsibility of the Company
+’
+s management. Our responsibility is to express an opinion on the Company’s financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+Critical Audit Matter
+The critical audit matter communicated below is a matter arising from the current period audit of the financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of the critical audit matter does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+F-1
+Table of Contents
+Inventory Valuation
+Description of the matter
+At December 28, 2024, the Company’s net inventory balance was $105.6 million. As discussed in Note 2 to the consolidated financial statements, inventories are stated at the lower of cost, determined using the first-in, first-out method, or net realizable value. The Company writes down the carrying value of inventory to net realizable value if it is obsolete or if quantities are in excess of projected customer demand.  
+Auditing management’s estimates of excess and obsolete inventory was challenging because the estimate is judgmental and considers a number of factors that are affected by market and economic conditions that are outside of the Company’s control. In particular, excess and obsolete inventory calculations are sensitive to significant assumptions that relate to projected customer demand for the Company’s products.
+How we addressed the matter in our audit
+We obtained an understanding, evaluated the design and tested the operating effectiveness of internal controls over the Company’s inventory valuation process for inventory. This included assessing management’s basis for developing the significant assumptions for projected customer demand.
+Our audit procedures included, among others, evaluating the significant assumptions stated above and the underlying data used in management’s excess and obsolete inventory assessment. We evaluated inventory levels compared to projected customer demand and historical sales with an incremental focus on product groups subject to a longer demand horizon. We assessed the accuracy of historical forecasts underlying management’s estimates and performed sensitivity analyses over the significant assumptions used by management to evaluate necessary changes in inventory valuation.
+/s/ 
+Ernst & Young LLP
+We have served as the Company’s auditor since 1996.
+Austin, Texas
+February 4, 2025
+F-2
+Table of Contents
+Report of Independent Registered Public Accounting Firm
+To the Stockholders and the Board of Directors of Silicon Laboratories Inc.
+Opinion on Internal Control Over Financial Reporting
+We have audited Silicon Laboratories Inc.’s internal control over financial reporting as of December 28, 2024, based on criteria established in Internal Control—Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) (the COSO criteria). In our opinion, Silicon Laboratories Inc. (the Company) maintained, in all material respects, effective internal control over financial reporting as of December 28, 2024, based on the COSO criteria.
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheets of the Company as of December 28, 2024 and December 30, 2023, the related consolidated statements of operations, comprehensive income (loss), changes in stockholders’ equity and cash flows for each of the three years in the period ended December 28, 2024, and the related notes and our report dated February 4, 2025 expressed an unqualified opinion thereon.
+Basis for Opinion
+The Company’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting included in the accompanying Management’s Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company’s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. 
+Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+Definition and Limitations of Internal Control Over Financial Reporting
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+/s/ Ernst & Young LLP
+Austin, Texas
+February 4, 2025
+F-3
+Table of Contents
+Silicon Laboratories Inc.
+Consolidated Balance Sheets
+(In thousands, except per share data)
+December 28,
+2024
+December 30,
+2023
+Assets
+Current assets:
+Cash and cash equivalents
+$
+281,607
+
+$
+227,504
+
+Short-term investments
+100,554
+
+211,720
+
+Accounts receivable, net
+54,479
+
+29,295
+
+Inventories
+105,639
+
+194,295
+
+Prepaid expenses and other current assets
+59,754
+
+75,117
+
+Total current assets
+602,033
+
+737,931
+
+Property and equipment, net
+132,136
+
+145,890
+
+Goodwill
+376,389
+
+376,389
+
+Other intangible assets, net
+36,499
+
+59,533
+
+Other assets, net
+75,617
+
+123,313
+
+Total assets
+$
+1,222,674
+
+$
+1,443,056
+
+Liabilities and Stockholders’ Equity
+Current liabilities:
+Accounts payable
+$
+42,448
+
+$
+57,498
+
+Revolving line of credit
+—
+
+45,000
+
+Deferred revenue and returns liability
+3,073
+
+2,117
+
+Other current liabilities
+52,362
+
+58,955
+
+Total current liabilities
+97,883
+
+163,570
+
+Other non-current liabilities
+44,770
+
+70,804
+
+Total liabilities
+142,653
+
+234,374
+
+Commitments and contingencies
+Stockholders’ equity:
+Preferred stock – $
+0.0001
+ par value; 
+10,000
+ shares authorized; 
+no
+ shares issued 
+—
+
+—
+
+Common stock – $
+0.0001
+ par value; 
+250,000
+ shares authorized; 
+32,458
+ and 
+31,897
+ shares issued and outstanding at December 28, 2024 and December 30, 2023, respectively
+3
+
+3
+
+Additional paid-in capital
+78,227
+
+16,973
+
+Retained earnings
+1,001,721
+
+1,192,731
+
+Accumulated other comprehensive income (loss)
+70
+
+(
+1,025
+)
+Total stockholders’ equity
+1,080,021
+
+1,208,682
+
+Total liabilities and stockholders’ equity
+$
+1,222,674
+
+$
+1,443,056
+
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+F-4
+Table of Contents
+Silicon Laboratories Inc.
+Consolidated Statements of Operations
+(In thousands, except per share data)
+Year Ended
+December 28,
+2024
+December 30,
+2023
+December 31,
+2022
+Revenues
+$
+584,386
+
+$
+782,258
+
+$
+1,024,106
+
+Cost of revenues
+272,198
+
+321,672
+
+381,549
+
+Gross profit
+312,188
+
+460,586
+
+642,557
+
+Operating expenses:
+Research and development
+332,225
+
+337,744
+
+332,326
+
+Selling, general and administrative
+145,453
+
+146,996
+
+190,971
+
+Operating expenses
+477,678
+
+484,740
+
+523,297
+
+Operating income (loss)
+(
+165,490
+)
+(
+24,154
+)
+119,260
+
+Other income (expense):
+Interest income and other, net
+11,987
+
+19,165
+
+13,915
+
+Interest expense
+(
+1,310
+)
+(
+5,554
+)
+(
+6,723
+)
+Income (loss) before income taxes
+(
+154,813
+)
+(
+10,543
+)
+126,452
+
+Provision for income taxes
+36,197
+
+7,943
+
+38,450
+
+Equity-method earnings (loss)
+—
+
+(
+16,030
+)
+3,400
+
+Net income (loss)
+$
+(
+191,010
+)
+$
+(
+34,516
+)
+$
+91,402
+
+Earnings (loss) per share:
+Basic
+$
+(
+5.93
+)
+$
+(
+1.09
+)
+$
+2.61
+
+Diluted
+$
+(
+5.93
+)
+$
+(
+1.09
+)
+$
+2.54
+
+Weighted-average common shares outstanding:
+Basic
+32,191
+31,804
+35,086
+Diluted
+32,191
+31,804
+36,042
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+F-5
+Table of Contents
+Silicon Laboratories Inc.
+Consolidated Statements of Comprehensive Income (Loss)
+(In thousands)
+Year Ended
+December 28,
+2024
+December 30,
+2023
+December 31,
+2022
+Net income (loss)
+$
+(
+191,010
+)
+$
+(
+34,516
+)
+$
+91,402
+
+Other comprehensive income (loss), before tax:
+Net changes to available-for-sale securities:
+Unrealized gains (losses) arising during the period
+1,277
+
+7,709
+
+(
+12,562
+)
+Reclassification for losses included in net income (loss)
+41
+
+4,596
+
+2,088
+
+Net changes to cash flow hedges:
+Unrealized gains (losses) arising during the period
+684
+
+210
+
+(
+4,110
+)
+Reclassification for losses (gains) included in net income (loss)
+(
+644
+)
+(
+250
+)
+4,110
+
+Other comprehensive income (loss), before tax
+1,358
+
+12,265
+
+(
+10,474
+)
+Provision (benefit) for income taxes
+263
+
+2,602
+
+(
+2,205
+)
+Other comprehensive income (loss)
+1,095
+
+9,663
+
+(
+8,269
+)
+Comprehensive income (loss)
+$
+(
+189,915
+)
+$
+(
+24,853
+)
+$
+83,133
+
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+F-6
+Table of Contents
+Silicon Laboratories Inc.
+Consolidated Statements of Changes in Stockholders’ Equity
+(In thousands)
+ Shares
+Common
+ Stock
+Additional
+Paid-In
+Capital
+Retained
+Earnings
+Accumulated 
+Other
+Comprehensive
+Income (Loss)
+Total
+Stockholders’
+Equity
+Balance as of January 1, 2022
+38,481
+$
+4
+
+$
+—
+
+$
+2,214,839
+
+$
+(
+2,419
+)
+$
+2,212,424
+
+Cumulative effect of adoption of accounting standard
+—
+— 
+— 
+(
+59,963
+)
+— 
+(
+59,963
+)
+Net income
+—
+— 
+— 
+91,402
+
+— 
+91,402
+
+Other comprehensive loss
+—
+— 
+— 
+— 
+(
+8,269
+)
+(
+8,269
+)
+Stock issuances, net of shares withheld for taxes
+387
+— 
+(
+3,608
+)
+— 
+— 
+(
+3,608
+)
+Repurchases of common stock
+(
+6,874
+)
+(
+1
+)
+(
+56,968
+)
+(
+830,585
+)
+— 
+(
+887,554
+)
+Stock-based compensation
+—
+— 
+60,576
+
+— 
+— 
+60,576
+
+Balance as of December 31, 2022
+31,994
+3
+
+—
+
+1,415,693
+
+(
+10,688
+)
+1,405,008
+
+Net loss
+—
+— 
+— 
+(
+34,516
+)
+— 
+(
+34,516
+)
+Other comprehensive income
+—
+— 
+— 
+— 
+9,663
+
+9,663
+
+Stock issuances, net of shares withheld for taxes
+505
+— 
+(
+3,577
+)
+— 
+— 
+(
+3,577
+)
+Repurchases of common stock
+(
+1,522
+)
+— 
+(
+24,578
+)
+(
+188,446
+)
+— 
+(
+213,024
+)
+Stock-based compensation
+—
+— 
+48,688
+
+— 
+— 
+48,688
+
+Convertible debt activity
+920
+— 
+(
+3,560
+)
+— 
+— 
+(
+3,560
+)
+Balance as of December 30, 2023
+31,897
+3
+
+16,973
+
+1,192,731
+
+(
+1,025
+)
+1,208,682
+
+Net loss
+—
+— 
+— 
+(
+191,010
+)
+— 
+(
+191,010
+)
+Other comprehensive income
+—
+— 
+— 
+— 
+1,095
+
+1,095
+
+Stock issuances, net of shares withheld for taxes
+561
+— 
+(
+88
+)
+— 
+— 
+(
+88
+)
+Stock-based compensation
+—
+— 
+61,342
+
+— 
+— 
+61,342
+
+Balance as of December 28, 2024
+32,458
+$
+3
+
+$
+78,227
+
+$
+1,001,721
+
+$
+70
+
+$
+1,080,021
+
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+F-7
+Table of Contents
+Silicon Laboratories Inc.
+Consolidated Statements of Cash Flows
+(In thousands)
+Year Ended
+December 28,
+2024
+December 30,
+2023
+December 31,
+2022
+Operating Activities
+Net income (loss)
+$
+(
+191,010
+)
+$
+(
+34,516
+)
+$
+91,402
+
+Adjustments to reconcile net income (loss) to net cash provided by (used in) operating activities of continuing operations:
+Depreciation of property and equipment
+25,551
+
+25,707
+
+22,524
+
+Amortization of other intangible assets
+23,034
+
+25,374
+
+34,071
+
+Amortization of debt discount and debt issuance costs
+—
+
+960
+
+2,003
+
+Loss on extinguishment of convertible debt
+—
+
+—
+
+3
+
+Stock-based compensation expense
+61,503
+
+48,208
+
+60,510
+
+Equity-method loss (earnings)
+—
+
+16,030
+
+(
+3,400
+)
+Deferred income taxes
+29,470
+
+(
+11,815
+)
+(
+18,240
+)
+Changes in operating assets and liabilities:
+Accounts receivable
+(
+25,184
+)
+42,142
+
+26,876
+
+Inventories
+88,494
+
+(
+93,398
+)
+(
+51,044
+)
+Prepaid expenses and other assets
+27,362
+
+(
+10,733
+)
+(
+31,240
+)
+Accounts payable
+(
+15,155
+)
+(
+25,644
+)
+36,797
+
+Other current liabilities and income taxes
+(
+21,768
+)
+(
+37,793
+)
+(
+12,738
+)
+Deferred revenue and returns liability
+956
+
+(
+4,663
+)
+(
+7,069
+)
+Other non-current liabilities
+(
+17,163
+)
+29,793
+
+(
+9,181
+)
+Net cash provided by (used in) operating activities of continuing operations
+(
+13,910
+)
+(
+30,348
+)
+141,274
+
+Investing Activities
+Purchases of marketable securities
+(
+73,602
+)
+(
+103,485
+)
+(
+607,237
+)
+Sales of marketable securities
+54,227
+
+395,565
+
+223,354
+
+Maturities of marketable securities
+131,858
+
+200,530
+
+650,946
+
+Purchases of property and equipment
+(
+11,748
+)
+(
+22,282
+)
+(
+26,525
+)
+Proceeds from sale of equity investment
+12,382
+
+—
+
+—
+
+Purchases of other assets
+—
+
+(
+520
+)
+—
+
+Net cash provided by investing activities of continuing operations
+113,117
+
+469,808
+
+240,538
+
+Financing Activities
+Proceeds from issuance of debt
+—
+
+80,000
+
+—
+
+Payments on debt
+(
+45,000
+)
+(
+571,157
+)
+(
+21
+)
+Repurchases of common stock
+(
+16
+)
+(
+217,137
+)
+(
+883,424
+)
+Payment of taxes withheld for vested stock awards
+(
+16,434
+)
+(
+18,189
+)
+(
+15,387
+)
+Proceeds from the issuance of common stock
+16,346
+
+14,612
+
+11,779
+
+Net cash used in financing activities of continuing operations
+(
+45,104
+)
+(
+711,871
+)
+(
+887,053
+)
+Discontinued Operations
+Operating activities
+—
+
+—
+
+(
+69,467
+)
+Net cash used in discontinued operations
+—
+
+—
+
+(
+69,467
+)
+Increase (decrease) in cash and cash equivalents
+54,103
+
+(
+272,411
+)
+(
+574,708
+)
+Cash and cash equivalents at beginning of period
+227,504
+
+499,915
+
+1,074,623
+
+Cash and cash equivalents at end of period
+$
+281,607
+
+$
+227,504
+
+$
+499,915
+
+Supplemental Disclosure of Cash Flow Information:
+Interest paid
+$
+988
+
+$
+4,471
+
+$
+4,427
+
+Income taxes paid
+$
+19,120
+
+$
+31,713
+
+$
+132,005
+
+Noncash financing activities:
+Issuance of common stock in connection with settlement of convertible debt
+$
+—
+
+$
+148,487
+
+$
+—
+
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+F-8
+Table of Contents
+Silicon Laboratories Inc.
+Notes to Consolidated Financial Statements
+December 28, 2024
+
+1. 
+Description of Business
+Silicon Laboratories Inc. (the “Company”), a Delaware corporation, is a leader in secure, intelligent wireless technology for a more connected world. Our integrated hardware and software platform, intuitive development tools, industry-leading ecosystem, and robust support help customers build advanced industrial, commercial, home, and life applications. The Company provides analog-intensive, mixed-signal solutions for use in a variety of electronic products in a broad range of applications for the Internet of Things (“IoT”) including connected home and security, industrial automation and control, smart metering, smart lighting, commercial building automation, consumer electronics, asset tracking, and medical instrumentation. Within the semiconductor industry, the Company is known as a “fabless” company meaning that the integrated circuits (“ICs”) incorporated in its products are manufactured by third-party foundry semiconductor companies.
+2. 
+Significant Accounting Policies
+Basis of Presentation and Principles of Consolidation
+The Company prepares financial statements on a 52- or 53-week fiscal year that ends on the Saturday closest to December 30. Fiscal 2024, 2023, and 2022 had 52 weeks. Fiscal 2024, 2023 and 2022 ended on December 28, 2024, December 30, 2023, and December 31, 2022, respectively. The accompanying Consolidated Financial Statements include the accounts of the Company and its wholly owned subsidiaries. All intercompany balances and transactions have been eliminated in consolidation.
+Foreign Currency Transactions
+The Company’s foreign subsidiaries are considered to be extensions of the U.S. Company. The functional currency of the foreign subsidiaries is the U.S. dollar. Accordingly, gains and losses resulting from remeasuring transactions denominated in currencies other than U.S. dollars are included in interest income and other, net in the Consolidated Statements of Operations.
+Use of Estimates
+The preparation of financial statements in conformity with U.S. generally accepted accounting principles (“GAAP”) requires management to make estimates and assumptions that affect the amounts reported in the financial statements and accompanying notes. Among the significant estimates affecting the financial statements are those related to inventories, goodwill, acquired intangible assets, other long-lived assets, revenue recognition, stock-based compensation, and income taxes. Actual results could differ from those estimates, and such differences could be material to the financial statements. The Company periodically reviews the assumptions used in its financial statement estimates.
+Fair Value of Financial Instruments
+The fair values of the Company’s financial instruments are recorded using a hierarchical disclosure framework based upon the level of subjectivity of the inputs used in measuring assets and liabilities. The three levels are described below:
+Level 1 - Inputs are unadjusted, quoted prices in active markets for identical assets or liabilities at the measurement date.
+Level 2 - Inputs other than Level 1 that are directly or indirectly observable, such as quoted prices for similar assets or liabilities and quoted prices in less active markets.
+Level 3 - Inputs are unobservable for the asset or liability and are developed based on the best information available in the circumstances, which might include the Company’s own data.
+F-9
+Table of Contents
+Silicon Laboratories Inc.
+Notes to Consolidated Financial Statements (Continued)
+December 28, 2024
+2. Significant Accounting Policies (Continued)
+Cash and Cash Equivalents
+Cash and cash equivalents consist of cash deposits and money market funds.
+Investments
+The Company’s investments typically have original maturities greater than ninety days as of the date of purchase and are classified as available-for-sale securities. Investments in available-for-sale securities are reported at fair value, with unrealized gains and losses, net of tax, recorded as a component of accumulated other comprehensive loss in the Consolidated Balance Sheet. Investments in which the Company has the ability and intent, if necessary, to liquidate in order to support its current operations (including those with contractual maturities greater than one year from the date of purchase) are classified as short-term.
+The Company reviews its available-for-sale investments as of the end of each reporting period for declines in fair value based on the specific identification method. The Company records an allowance for credit loss when a decline in fair value is due to credit-related factors. The Company considers various factors in determining whether an investment is impaired, including the severity of the impairment, changes in underlying credit ratings, forecasted recovery, its intent to sell or the likelihood that it would be required to sell the investment before its anticipated recovery in market value and the probability that the scheduled cash payments will continue to be made. When the Company concludes that a credit-related impairment has occurred, the Company assesses whether it intends to sell the security or if it is more likely than not that it will be required to sell the security before recovery. If either of these two conditions is met, the Company recognizes a charge in earnings equal to the entire difference between the security’s amortized cost basis and its fair value. If the Company does not intend to sell a security and it is not more likely than not that it will be required to sell the security before recovery, the unrealized loss is separated into an amount representing the credit loss, which is recognized in earnings, and the amount related to all other factors, which is recorded in accumulated other comprehensive loss.
+In addition, the Company has made equity investments in non-publicly traded companies. Equity investments in which the Company does not have control, but has the ability to exercise significant influence over operating and financial policies, are accounted for using the equity method. The Company’s proportionate share of income or loss is recorded in equity-method earnings in the Consolidated Statements of Operations. The Company has elected to use the measurement alternative under Financial Accounting Standards Board (“FASB”) Accounting Standards Update (“ASU”) 2019-04,
+ Codification Improvements to Topic 326, Financial Instruments—Credit Losses, Topic 815, Derivatives and Hedging, and Topic 825, Financial Instruments,
+ to value non-marketable equity investments that do not have readily determinable fair values. Under the alternative, these non-marketable equity investments are recorded at cost minus impairment, if any, plus or minus changes resulting from qualifying observable price changes of the same or similar securities in observable transactions. The Company periodically reviews its equity investments for declines in fair value based on the specific identification method and writes down investments to their estimated fair values when it determines that a decline has occurred. In fiscal 2023, the Company sold its ownership in Walden Technology Ventures III, a limited partnership, and recognized the loss in the Consolidated Statement of Operations.
+Derivative Financial Instruments
+The Company uses derivative financial instruments to manage certain exposures to the variability of foreign currency exchange rates. The Company’s objective is to offset increases and decreases in expenses resulting from these exposures with gains and losses on the derivative contracts, thereby reducing volatility of earnings. The Company does not use derivative contracts for speculative or trading purposes. The Company recognizes derivatives, on a gross basis, in the Consolidated Balance Sheet at fair value. Cash flows from derivatives are classified according to the nature of the cash receipt or payment in the Consolidated Statement of Cash Flows.
+The Company also uses foreign currency forward contracts to reduce the earnings impact that exchange rate fluctuations have on non-U.S. dollar balance sheet exposures. The Company does not apply hedge accounting to these foreign currency forward contracts.
+F-10
+Table of Contents
+Silicon Laboratories Inc.
+Notes to Consolidated Financial Statements (Continued)
+December 28, 2024
+2. Significant Accounting Policies (Continued)
+Inventories
+Inventories are stated at the lower of cost, determined using the first-in, first-out method, or net realizable value. The Company writes down the carrying value of inventory to net realizable value for estimated obsolescence or unmarketable inventory based upon assumptions about the age of inventory, future demand and market conditions. Inventory impairment charges establish a new cost basis for inventory and charges are not subsequently reversed to income even if circumstances later suggest that increased carrying amounts are recoverable.
+Government Incentives
+Incentives provided by government entities are recognized when we have reasonable assurance that we will comply with the conditions of the incentive, if any, and that the incentive will be received. Incentives for specific operating activities are recognized as a reduction to expense in the same line item on the Consolidated Statements of Operations as the expenditure for which the incentive is intended to compensate. Incentives related to the acquisition or construction of fixed assets are recognized as a reduction to property, plant and equipment within the Consolidated Balance Sheets and a reduction to depreciation expense over the useful life of the corresponding acquired asset.
+
+The Company receives incentives from governmental agencies in Singapore, France, and Canada, principally in the form of cash grants and refundable tax credits. As of December 28, 2024, the Company recognized receivables of $
+5.2
+ million in 
+Prepaid expenses and other current assets
+ and $
+4.9
+ million in 
+Other assets, net
+. 
+In fiscal 2024, 
+Cost of revenues and Research and development
+ benefited by $
+0.7
+ million and $
+4.0
+ million, respectively, from a reduction in depreciation expense and operating-related incentives, and 
+property, plant and equipment
+ was reduced by $
+1.1
+ million from government incentives related to capital expenditures. 
+Property and Equipment
+Property and equipment are stated at cost, net of accumulated depreciation. Depreciation is computed using the straight-line method over the useful lives of the assets ranging from 
+three
+ to 
+fifteen years
+. Leasehold improvements are depreciated over the lease term or their useful life, whichever is shorter.
+The Company owns the facilities for its headquarters in Austin, Texas. The buildings are located on land which is leased through 2099 from a third party. The rents for these ground leases were prepaid for the term of the leases. The buildings and leasehold interest in ground leases are being depreciated on a straight-line basis over their estimated useful lives of 
+40
+ years and 
+86
+ years, respectively.
+Business Combinations
+The Company records business combinations using the acquisition method of accounting and, accordingly, allocates the fair value of acquisition consideration to the assets acquired and liabilities assumed based on their fair values at the acquisition date. The excess of the fair value of purchase consideration over the fair value of the assets acquired and liabilities assumed is recorded as goodwill. The results of operations of the businesses acquired are included in the Company’s consolidated results of operations beginning on the date of the acquisition.
+Long-Lived Assets
+Purchased intangible assets are stated at cost, net of accumulated amortization, and are amortized using the straight-line method over their estimated useful lives, ranging from 
+seven
+ to 
+twelve years
+. Fair values are determined primarily using the income approach, in which the Company projects future expected cash flows and applies an appropriate discount rate.
+Long-lived assets “held and used” by the Company are reviewed for impairment whenever events or changes in circumstances indicate that their net book value may not be recoverable. When such factors and circumstances exist, the 
+F-11
+Table of Contents
+Silicon Laboratories Inc.
+Notes to Consolidated Financial Statements (Continued)
+December 28, 2024
+2. Significant Accounting Policies (Continued)
+Company compares the projected undiscounted future cash flows associated with the related asset or group of assets over their estimated useful lives against their respective carrying amounts. Impairment, if any, is based on the excess of the carrying amount over the fair value of those assets and is recorded in the period in which the determination was made.
+The Company tests goodwill for impairment annually as of the first day of its fourth fiscal quarter and in interim periods if events occur that would indicate that the carrying value of goodwill may be impaired. The Company assesses goodwill for impairment by comparing the fair value of the reporting unit to its carrying amount. In determining fair value, several valuation methodologies are allowed, although quoted market prices are the best evidence of fair value. If the fair value of the reporting unit is less than its carrying amount, an impairment loss is recognized equal to that excess amount.
+Leases
+At the commencement date of a lease, the Company recognizes a liability to make lease payments and an asset representing the right to use the underlying asset during the lease term. The lease liability is measured at the present value of lease payments over the lease term. As its leases typically do not provide an implicit rate, the Company uses its incremental borrowing rate based on the information available at the commencement date taking into consideration necessary adjustments for collateral, depending on the facts and circumstances of the lessee and the leased asset, and term to match the lease term. The right-of-use (“ROU”) asset is measured at cost, which includes the initial measurement of the lease liability and initial direct costs incurred by the Company and excludes lease incentives. Lease liabilities are recorded in other current liabilities and other non-current liabilities. ROU assets are recorded in other assets, net.
+Lease terms may include options to extend or terminate the lease when it is reasonably certain that the Company will exercise that option. Operating lease costs are recognized on a straight-line basis over the lease term. Lease agreements that contain both lease and non-lease components are generally accounted for separately.
+Revenue Recognition
+Revenue is recognized when control of the promised goods or services is transferred to the customer, in an amount that reflects the consideration the Company expects to be entitled to in exchange for those goods or services. Substantially all of the Company’s contracts with customers contain a single performance obligation, the sale of mixed-signal integrated circuit (IC) products. This performance obligation is satisfied when control of the product is transferred to the customer, which typically occurs upon delivery. Unsatisfied performance obligations primarily represent contracts for products with future delivery dates. The Company has opted to not disclose the amount of unsatisfied performance obligations as these contracts have original expected durations of less than 
+one year
+.
+The transaction price reflects the Company’s expectations about the consideration it will be entitled to receive from the customer and may include fixed or variable amounts. Variable consideration primarily includes sales made to distributors under agreements allowing for credits to be issued to the distributor due to price protection and certain rights of return, referred to as stock rotation. The Company estimates variable consideration at the most likely amount to which it expects to be entitled. The estimate is based on information available to the Company, including recent sales activity and pricing data. The Company applies a constraint to its variable consideration estimate which considers both the likelihood of a return and the amount of a potential price concession. Variable consideration that does not meet revenue recognition criteria is deferred. The Company records a right of return asset in prepaid expenses and other current assets for the costs of distributor inventory not meeting revenue recognition criteria. A corresponding deferred revenue and returns liability amount is recorded for unrecognized revenue associated with such costs. The Company’s products carry a 
+one-year
+ replacement warranty. Payments are typically due within 
+30
+ days of invoicing and do not include a significant financing component.
+Shipping and Handling
+Shipping and handling costs are classified as a component of cost of revenues in the Consolidated Statements of Operations.
+F-12
+Table of Contents
+Silicon Laboratories Inc.
+Notes to Consolidated Financial Statements (Continued)
+December 28, 2024
+2. Significant Accounting Policies (Continued)
+Stock-Based Compensation
+The Company has stock-based compensation plans, which are more fully described in Note 14, 
+Stock-Based Compensation
+. The Company accounts for those plans using a fair-value method and recognizes the expense in its Consolidated Statement of Operations.
+Research and Development
+Research and development costs are expensed as incurred. Research and development expense consists primarily of personnel-related expenses, including stock-based compensation, as well as new product masks, external consulting and services costs, equipment tooling, equipment depreciation, amortization of intangible assets, and an allocated portion of our occupancy costs. Assets purchased to support the Company’s ongoing research and development activities are capitalized when related to products which have achieved technological feasibility or have an alternative future use, and are amortized over their estimated useful lives.
+Advertising
+Advertising costs are expensed as incurred. Advertising expenses were not material for any of the periods presented.
+Income Taxes
+The Company accounts for income taxes using the liability method whereby deferred tax asset and liability account balances are determined based on differences between the financial reporting and the tax bases of assets and liabilities and are measured using the enacted tax laws and related rates that will be in effect when the differences are expected to reverse. These differences result in deferred tax assets and liabilities, which are included in the Company’s Consolidated Balance Sheets. The Company then assesses the likelihood that the deferred tax assets will be realized. A valuation allowance is established against deferred tax assets to the extent the Company believes that it is more likely than not that the deferred tax assets will not be realized, taking into consideration the level of historical taxable income and projections for future taxable income over the periods in which the temporary differences are deductible.
+Uncertain tax positions must meet a more-likely-than-not threshold to be recognized in the financial statements and the tax benefits recognized are measured based on the largest benefit that has a greater than 50% likelihood of being realized upon final settlement. See Note 16, 
+Income Taxes
+, for additional information.
+Adoption of New Accounting Standard
+The Company adopted FASB ASU 2023-07, 
+Segment Reporting (Topic 280)—Improvements to Reportable Segment Disclosures 
+on December 28, 2024. This ASU requires interim and annual disclosure of significant segment expenses that are regularly provided to the chief operating decision-maker (“CODM”) and included within the reported measure of a segment’s profit or loss, requires interim disclosures about a reportable segment’s profit or loss and assets that are currently required annually, requires disclosure of the position and title of the CODM, clarifies circumstances in which an entity can disclose multiple segment measures of profit or loss, and contains other disclosure requirements. This authoritative guidance is effective for annual periods beginning after December 15, 2023, and interim periods within fiscal years beginning after December 15, 2024. The requirements of this ASU are disclosure-related and did not have an impact on the Company’s consolidated financial position and results of operations. See Note 17, 
+Segment Information
+, for the updated segment disclosures as a result of adopting this ASU. 
+Recent Accounting Pronouncements
+In December 2023, the FASB issued ASU 2023-09, 
+Income Taxes (Topic 740)—Improvements to Income Tax Disclosures
+. This ASU requires that reporting entities disclose specific categories in the effective tax rate reconciliation as well as information about income taxes paid. The authoritative guidance is effective for annual periods beginning after December 15, 2024, with early adoption permitted. As the requirements of this ASU are disclosure-related, the adoption 
+F-13
+Table of Contents
+Silicon Laboratories Inc.
+Notes to Consolidated Financial Statements (Continued)
+December 28, 2024
+2. Significant Accounting Policies (Continued)
+will not have an impact on the Company’s consolidated financial position and results of operations. The Company is currently evaluating the impact of this update on its income tax disclosures. 
+In November 2024, the FASB issued ASU 2024-03, 
+Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures (Subtopic 220-40)
+.  This ASU requires that public business entities disclose additional information about specific expense categories in the notes to financial statements at interim and annual reporting periods. The prescribed categories include purchases of inventory, employee compensation, depreciation, intangible asset amortization, and depletion.  This authoritative guidance is effective for annual periods beginning after December 15, 2026 and interim periods beginning after December 15, 2027, with early adoption permitted.  The Company is currently evaluating the effect of this new guidance on its consolidated financial statements.
+3. 
+Earnings (Loss) Per Share
+The following table sets forth the computation of basic and diluted earnings (loss) per share (in thousands, except per share data):
+Year Ended
+December 28,
+2024
+December 30,
+2023
+December 31,
+2022
+Net income (loss)
+$
+(
+191,010
+)
+$
+(
+34,516
+)
+$
+91,402
+
+Shares used in computing basic earnings (loss) per share
+32,191
+
+31,804
+
+35,086
+
+Effect of dilutive securities:
+Stock-based awards and convertible debt
+—
+
+—
+
+956
+
+Shares used in computing diluted earnings (loss) per share
+32,191
+
+31,804
+
+36,042
+
+Earnings (loss) per share:
+Basic
+$
+(
+5.93
+)
+$
+(
+1.09
+)
+$
+2.61
+
+Diluted
+$
+(
+5.93
+)
+$
+(
+1.09
+)
+$
+2.54
+
+In periods where the Company reports net income, diluted earnings per share was computed using the treasury stock method for stock-based awards and the if-converted method for convertible debt. Diluted shares for fiscal 2024 excluded 
+0.2
+ million shares and fiscal 2023 excluded 
+0.9
+ million shares due to the Company’s net loss for the periods.
+The Company irrevocably elected to settle the principal amount of its 
+0.625
+% convertible senior notes due 2025 (the “2025 Notes”) in cash and any excess value in shares in the event of a conversion. In June 2023, the Company paid $
+535.0
+ million in cash and issued 
+0.9
+ million shares of common stock in connection with the conversions and redemptions of the 2025 Notes. For fiscal 2022, approximately 
+0.6
+ million shares were included in the denominator for the calculation of diluted earnings per share (related to the not yet converted or redeemed 2025 Notes.) Securities that were anti-dilutive were insignificant and were excluded from the computation of diluted earnings per share in all periods presented.
+F-14
+Table of Contents
+Silicon Laboratories Inc.
+Notes to Consolidated Financial Statements (Continued)
+December 28, 2024
+4. 
+Fair Value of Financial Instruments
+The following summarizes the valuation of the Company’s financial instruments (in thousands). The tables do not include either cash on hand or assets and liabilities that are measured at historical cost or any basis other than fair value.
+Fair Value Measurements
+at December 28, 2024 Using
+Total
+Description
+Quoted Prices in
+Active Markets for
+Identical Assets
+(Level 1)
+Significant Other
+Observable
+Inputs
+(Level 2)
+Cash equivalents:
+Money market funds
+$
+188,057
+
+$
+—
+
+$
+188,057
+
+Total cash equivalents
+$
+188,057
+
+$
+—
+
+$
+188,057
+
+Short-term investments:
+Corporate debt securities
+$
+—
+
+$
+13,514
+
+$
+13,514
+
+Government debt securities
+—
+
+87,040
+
+87,040
+
+Total short-term investments
+$
+—
+
+$
+100,554
+
+$
+100,554
+
+Total
+$
+188,057
+
+$
+100,554
+
+$
+288,611
+
+Fair Value Measurements
+at December 30, 2023 Using
+Total
+Description
+Quoted Prices in
+Active Markets for
+Identical Assets
+(Level 1)
+Significant Other
+Observable
+Inputs
+(Level 2)
+Cash equivalents:
+Money market funds
+$
+137,195
+
+$
+—
+
+$
+137,195
+
+Total cash equivalents
+$
+137,195
+
+$
+—
+
+$
+137,195
+
+Short-term investments:
+Corporate debt securities
+$
+—
+
+$
+130,047
+
+$
+130,047
+
+Government debt securities
+—
+
+81,673
+
+81,673
+
+Total short-term investments
+$
+—
+
+$
+211,720
+
+$
+211,720
+
+Total
+$
+137,195
+
+$
+211,720
+
+$
+348,915
+
+Valuation methodology
+The Company’s cash equivalents and short-term investments that are classified as Level 2 are valued using non-binding market consensus prices that are corroborated with observable market data; quoted market prices for similar instruments in active markets; quoted prices in less active markets; or pricing models, such as a discounted cash flow model, with all significant inputs derived from or corroborated with observable market data. The Company’s foreign currency derivative instruments are valued using discounted cash flow models. The assumptions used in preparing the valuation models include foreign exchange rates, forward and spot prices for currencies and market observable data of similar instruments.
+F-15
+Table of Contents
+Silicon Laboratories Inc.
+Notes to Consolidated Financial Statements (Continued)
+December 28, 2024
+4. Fair Value of Financial Instruments (Continued)
+The following summarizes the components of available-for-sale investments:
+Reported As
+As of December 28, 2024
+Amortized Cost Basis
+Gross Unrealized Gains
+Gross Unrealized Losses
+Fair Value
+Cash Equivalent
+Marketable Securities
+Corporate debt securities
+$
+13,517
+
+$
+12
+
+$
+(
+15
+)
+$
+13,514
+
+$
+— 
+$
+13,514
+
+Government debt securities
+86,949
+
+141
+
+(
+49
+)
+87,040
+
+— 
+87,040
+
+Money market funds
+188,057
+
+— 
+— 
+188,057
+
+188,057
+
+— 
+Total
+$
+288,523
+
+$
+153
+
+$
+(
+64
+)
+$
+288,611
+
+$
+188,057
+
+$
+100,554
+
+Reported As
+As of December 30, 2023
+Amortized Cost Basis
+Gross Unrealized Gains
+Gross Unrealized Losses
+Fair Value
+Cash Equivalent
+Marketable Securities
+Corporate debt securities
+$
+130,858
+
+$
+69
+
+$
+(
+880
+)
+$
+130,047
+
+$
+— 
+$
+130,047
+
+Government debt securities
+82,091
+
+137
+
+(
+555
+)
+81,673
+
+— 
+81,673
+
+Money market funds
+137,195
+
+— 
+— 
+137,195
+
+137,195
+
+— 
+Total
+$
+350,144
+
+$
+206
+
+$
+(
+1,435
+)
+$
+348,915
+
+$
+137,195
+
+$
+211,720
+
+Contractual maturities of investments
+The Company’s available-for-sale investments are reported at fair value, with unrealized gains and losses, net of tax, recorded as a component of accumulated other comprehensive loss in the Consolidated Balance Sheet. 
+The following summarizes the contractual underlying maturities of the Company’s available-for-sale investments at December 28, 2024 (in thousands):
+Cost
+Fair
+Value
+Due in one year or less
+$
+44,953
+
+$
+45,009
+
+Due after one year through five years
+55,513
+
+55,546
+
+$
+100,466
+
+$
+100,554
+
+F-16
+Table of Contents
+Silicon Laboratories Inc.
+Notes to Consolidated Financial Statements (Continued)
+December 28, 2024
+4. Fair Value of Financial Instruments (Continued)
+Unrealized Gains and Losses
+The available-for-sale investments that were in a continuous unrealized loss position, aggregated by length of time that individual securities have been in a continuous loss position, were as follows (in thousands):
+Less Than 12 Months
+12 Months or Greater
+Total
+As of December 28, 2024
+Fair
+Value
+Gross
+Unrealized
+Losses
+Fair
+Value
+Gross
+Unrealized
+Losses
+Fair
+Value
+Gross
+Unrealized
+Losses
+Corporate debt securities
+$
+—
+$
+—
+
+$
+4,187
+$
+(
+15
+)
+$
+4,187
+$
+(
+15
+)
+Government debt securities 
+26,318
+(
+49
+)
+—
+—
+
+26,318
+(
+49
+)
+$
+26,318
+$
+(
+49
+)
+$
+4,187
+$
+(
+15
+)
+$
+30,505
+$
+(
+64
+)
+Less Than 12 Months
+12 Months or Greater
+Total
+As of December 30, 2023
+Fair
+Value
+Gross
+Unrealized
+Losses
+Fair
+Value
+Gross
+Unrealized
+Losses
+Fair
+Value
+Gross
+Unrealized
+Losses
+Corporate debt securities
+$
+12,449
+$
+(
+13
+)
+$
+95,760
+$
+(
+867
+)
+$
+108,209
+$
+(
+880
+)
+Government debt securities 
+28,255
+(
+115
+)
+31,122
+(
+440
+)
+59,377
+(
+555
+)
+$
+40,704
+$
+(
+128
+)
+$
+126,882
+$
+(
+1,307
+)
+$
+167,586
+$
+(
+1,435
+)
+The gross unrealized losses as of December 28, 2024 and December 30, 2023 were due primarily to changes in market interest rates.
+The Company records an allowance for credit loss when a decline in investment market value is due to credit-related factors. When evaluating an investment for impairment, the Company reviews factors such as the severity of the impairment, changes in underlying credit ratings, forecasted recovery, the Company’s intent to sell or the likelihood that it would be required to sell the investment before its anticipated recovery in market value and the probability that the scheduled cash payments will continue to be made. As of December 28, 2024, there were no material declines in the market value of available-for-sale investments due to credit-related factors.
+At December 28, 2024 and December 30, 2023, there were no material unrealized gains associated with the Company’s available-for-sale investments.
+Fair values of other financial instruments
+Prior to its conversion or redemption in June 2023, the Company’s debt was recorded at cost, but measured at fair value for disclosure purposes. The fair value of the Company’s 2025 Notes was determined using observable market prices. The notes were traded in less active markets and were therefore classified as a Level 2 fair value measurement. 
+No
+ notes were outstanding as of December 28, 2024. 
+The Company’s other financial instruments, including cash, accounts receivable and accounts payable, are recorded at amounts that approximate their fair values due to their short maturities.
+5. 
+Derivative Financial Instruments
+The Company uses derivative financial instruments to manage certain exposures to the variability of foreign currency exchange rates. The Company’s objective is to offset increases and decreases in expenses resulting from these exposures with gains and losses on the derivative contracts, thereby reducing volatility of earnings.
+F-17
+Table of Contents
+Silicon Laboratories Inc.
+Notes to Consolidated Financial Statements (Continued)
+December 28, 2024
+5. Derivative Financial Instruments (Continued)
+Cash Flow Hedges
+Foreign Currency Forward Contracts
+The Company may use foreign currency forward contracts to reduce the earnings impact that exchange rate fluctuations have on operating expenses denominated in currencies other than the U.S. dollar. Changes in the fair value of the contracts are recorded in accumulated other comprehensive income (loss) in the Consolidated Balance Sheet and subsequently reclassified into earnings in the period during which the hedged transaction is recognized. The reclassified amount is reported in the same financial statement line item as the hedged item. If the foreign currency forward contracts are terminated or can no longer qualify as hedging instruments prior to maturity, the fair value of the contracts recorded in accumulated other comprehensive income (loss) may be recognized in the Consolidated Statement of Operations based on an assessment of the contracts at the time of termination. As of December 28, 2024, the Company held no such foreign currency forward contracts. The fair value of the contracts, contract gains or losses recognized in other comprehensive income (loss) and amounts reclassified from accumulated other comprehensive income (loss) into earnings were not material for any of the periods presented.
+6. 
+Supplemental Information
+The following tables show the details of selected Consolidated Balance Sheet items (in thousands):
+Inventories
+December 28,
+2024
+December 30,
+2023
+Work in progress
+$
+83,562
+
+$
+173,802
+
+Finished goods
+22,077
+
+20,493
+
+$
+105,639
+
+$
+194,295
+
+Property and Equipment
+December 28,
+2024
+December 30,
+2023
+Buildings and improvements
+$
+131,098
+
+$
+130,482
+
+Equipment
+72,385
+
+68,703
+
+Computers and purchased software
+51,940
+
+51,755
+
+Leasehold interest in ground leases
+23,840
+
+23,840
+
+Leasehold improvements
+15,030
+
+14,971
+
+Furniture and fixtures
+10,265
+
+9,574
+
+304,558
+
+299,325
+
+Accumulated depreciation
+(
+172,422
+)
+(
+153,435
+)
+$
+132,136
+
+$
+145,890
+
+F-18
+Table of Contents
+Silicon Laboratories Inc.
+Notes to Consolidated Financial Statements (Continued)
+December 28, 2024
+6. Supplemental Information (Continued)
+Other Current Liabilities 
+December 28,
+2024
+December 30,
+2023
+Accrued compensation and benefits
+$
+18,599
+
+$
+16,891
+
+Income taxes payable
+8,681
+
+6,133
+
+Other
+25,082
+
+35,931
+
+$
+52,362
+
+$
+58,955
+
+Other Non-Current Liabilities
+December 28,
+2024
+December 30,
+2023
+Lease liability – non-current
+$
+15,549
+
+$
+19,830
+
+Other
+29,221
+
+50,974
+
+$
+44,770
+
+$
+70,804
+
+7. 
+Risks and Uncertainties
+Financial Instruments
+Financial instruments that potentially subject the Company to significant concentrations of credit risk consist primarily of cash equivalents, investments, accounts receivable and derivatives. The Company places its cash equivalents and investments primarily in money market funds, corporate bonds, U.S. government securities, asset-back securities, and Yankee bonds. Concentrations of credit risk with respect to accounts receivable are primarily due to customers with large outstanding balances. 
+The Company’s customers that accounted for greater than 10% of accounts receivable consisted of the following:
+December 28,
+2024
+December 30,
+2023
+Customer A
+19
+
+%
+*
+Customer B
+17
+
+%
+*
+Customer C
+*
+13
+
+%
+____________________________________________
+*
+Less than 10% of accounts receivable
+The Company performs periodic credit evaluations of its customers’ financial condition and generally requires no collateral from its customers. The Company provides an allowance for expected credit losses based upon the net amount expected to be collected on such receivables. Losses have not been significant for any of the periods presented.
+As a result of its use of derivative instruments, the Company is exposed to the risk that its counterparties will fail to meet their contractual obligations. To mitigate this counterparty credit risk, the Company has a policy to enter into contracts with only selected major financial institutions. The Company periodically reviews and re-assesses the creditworthiness of such counterparties based on a variety of factors.
+Distributor Advances
+On sales to distributors, the Company’s payment terms often require the distributor to initially pay amounts owed to the Company for an amount in excess of their ultimate cost. The Company’s sales price to its distributors may be higher than the amount that the distributors will ultimately owe the Company because distributors often negotiate price reductions 
+F-19
+Table of Contents
+Silicon Laboratories Inc.
+Notes to Consolidated Financial Statements (Continued)
+December 28, 2024
+7. Risks and Uncertainties (Continued)
+after purchasing the product from the Company and such reductions are often significant. These negotiated price discounts are not granted until the distributor sells the product to the end customer, which may occur after the distributor has paid the original invoice amount to the Company. Payment of invoices prior to receiving an associated discount can have an adverse impact on the working capital of the Company’s distributors. Accordingly, the Company has entered into agreements with certain distributors whereby it advances cash to the distributors to reduce the distributor’s working capital requirements. The advance amounts are based on the distributor’s inventory balance and are adjusted quarterly. Such amounts are recorded in prepaid expenses and other current assets in the Consolidated Balance Sheet. The terms of these advances are set forth in binding legal agreements and are unsecured, bear no interest on unsettled balances and are due upon demand. The agreements governing these advances can be cancelled by the Company at any time.
+Suppliers
+A significant portion of the Company’s products are fabricated by Taiwan Semiconductor Manufacturing Co. (“TSMC”) or Semiconductor Manufacturing International Corporation (“SMIC”). The inability of TSMC or SMIC to deliver wafers to the Company on a timely basis could impact the production of the Company’s products for a substantial period of time, which could have a material adverse effect on the Company’s business, financial condition, results of operations and cash flows.
+Customers
+The Company sells directly to end customers, distributors and contract manufacturers. Although the Company actually sells the products to, and is paid by, distributors and contract manufacturers, the Company refers to the end customer as its customer. None of the Company’s end customers accounted for greater than 10% of revenue during fiscal 2024, 2023 or 2022. 
+The Company’s distributors that accounted for greater than 10% of revenue consisted of the following:
+Year Ended
+
+December 28,
+2024
+December 30,
+2023
+December 31,
+2022
+Arrow Electronics
+27
+
+%
+34
+
+%
+33
+
+%
+Edom Technology
+16
+
+%
+15
+
+%
+17
+
+%
+8. 
+Other Intangible Assets, Net
+The gross carrying amount and accumulated amortization of other intangible assets, net are as follows (in thousands):
+Weighted-Average
+Amortization
+Period
+(Years)
+December 28, 2024
+December 30, 2023
+Gross
+Amount
+Accumulated
+Amortization
+Gross
+Amount
+Accumulated
+Amortization
+Developed technology
+8
+$
+189,987
+
+$
+(
+153,488
+)
+$
+211,217
+
+$
+(
+151,722
+)
+Trademarks
+12
+910
+
+(
+910
+)
+910
+
+(
+872
+)
+Total intangible assets
+8
+$
+190,897
+
+$
+(
+154,398
+)
+$
+212,127
+
+$
+(
+152,594
+)
+F-20
+Table of Contents
+Silicon Laboratories Inc.
+Notes to Consolidated Financial Statements (Continued)
+December 28, 2024
+8. Other Intangible Assets, Net (Continued)
+The following table presents details of intangible asset amortization expense recognized in the Consolidated Statements of Operations (in thousands): 
+Year Ended
+December 28,
+2024
+December 30,
+2023
+December 31,
+2022
+Research and development
+$
+22,996
+
+$
+25,298
+
+$
+28,962
+
+Selling, general and administrative
+38
+
+76
+
+5,109
+
+$
+23,034
+
+$
+25,374
+
+$
+34,071
+
+The estimated aggregate amortization expense for intangible assets subject to amortization for each of the five succeeding fiscal years is as follows (in thousands):
+Fiscal Year
+2025
+$
+13,369
+
+2026
+9,178
+
+2027
+9,178
+
+2028
+4,039
+
+2029
+735
+
+9. 
+Debt
+Credit Facility 
+The Company and certain of its domestic subsidiaries (the “Guarantors”) have a $
+400
+ million revolving credit facility, as amended on June 30, 2023, with a maturity date of June 30, 2028. The credit facility includes a $
+25
+ million letter of credit sublimit and a $
+10
+ million swingline loan sublimit. The Company also has an option to increase the size of the borrowing capacity by up to the greater of an aggregate of $
+250
+ million and 
+100
+% of EBITDA of the last four fiscal quarters, plus an amount that would not cause a secured net leverage ratio (funded debt secured by assets/EBITDA) to exceed 
+3.50
+ to 1.00, subject to certain conditions.
+The credit facility, other than swingline loans, will bear interest at the Adjusted Term Secured Overnight Financing Rate (“SOFR”) plus an applicable margin or, at the option of the Company, a base rate (defined as the highest of the Wells Fargo prime rate, the Federal Funds rate plus 
+0.50
+% and the Adjusted Term SOFR plus 
+1.00
+%) plus an applicable margin. Swingline loans accrue interest at the base rate plus the applicable margin for base rate loans. The applicable margins for the Adjusted Term SOFR loans range from 
+1.00
+% to 
+1.75
+% and for base rate loans range from 
+0.00
+% to 
+0.75
+%, depending in each case, on the leverage ratio as defined in the credit facility. 
+The credit facility contains various conditions, covenants and representations with which the Company must be in compliance in order to borrow funds and to avoid an event of default, including financial covenants that the Company must maintain a consolidated net leverage ratio (funded indebtedness less cash and cash equivalents up to $
+750
+ million and divided by EBITDA) of no more than 
+4.25
+ to 1, and a minimum interest coverage ratio (EBITDA/interest payments) of no less than 
+2.50
+ to 1. 
+The Company was granted a waiver of compliance for the minimum interest coverage ratio through March 29, 2025.  Based on the waiver, as of December 28, 2024, the Company was in compliance with all covenants of the credit facility. The Company’s obligations under the credit facility are guaranteed by the Guarantors and are secured by a security interest in substantially all assets of the Company and the Guarantors. As of December 28, 2024, 
+no
+ amounts were outstanding on the credit facility.
+F-21
+Table of Contents
+Silicon Laboratories Inc.
+Notes to Consolidated Financial Statements (Continued)
+December 28, 2024
+10. 
+Leases
+The Company leases certain facilities under operating lease agreements that expire at various dates through 2031. Some of these arrangements contain renewal options and require the Company to pay taxes, insurance and maintenance costs. Lease costs for operating leases were $
+7.7
+ million, $
+7.8
+ million and $
+7.3
+ million during fiscal 2024, 2023 and 2022, respectively.
+Supplemental Lease Information
+Balance Sheet Information (in thousands)
+Consolidated Balance
+Sheet Classification
+December 28,
+2024
+December 30,
+2023
+Operating lease right-of-use assets
+Other assets, net
+$
+21,535
+
+$
+26,740
+
+Operating lease liabilities
+Other current liabilities
+$
+5,878
+
+$
+7,185
+
+Operating lease liabilities
+Other non-current liabilities
+$
+15,549
+
+$
+19,830
+
+Year Ended
+Cash Flow Information (in thousands)
+December 28,
+2024
+December 30,
+2023
+Cash paid for operating lease liabilities
+$
+7,883
+
+$
+7,487
+
+Right-of-use assets obtained in exchange for operating lease obligations
+$
+13,867
+
+$
+534
+
+Operating Lease Information
+December 28,
+2024
+December 30,
+2023
+Weighted-average remaining lease term
+5.3
+ years
+5.4
+ years
+Weighted-average discount rate
+4.87
+
+%
+4.72
+
+%
+The maturities of operating lease liabilities as of December 28, 2024 were as follows (in thousands):
+Fiscal Year
+2025
+$
+6,488
+
+2026
+5,718
+
+2027
+4,793
+
+2028
+3,706
+
+2029
+3,654
+
+Thereafter
+5,663
+
+Total lease payments
+30,022
+
+Less imputed interest
+(
+8,595
+)
+Total lease liabilities
+$
+21,427
+
+Lease income
+The Company leases a portion of its headquarter facilities to other tenants. Lease income from operating leases was $
+2.8
+ million, $
+3.1
+ million and $
+6.2
+ million during fiscal 2024, 2023 and 2022, respectively.
+F-22
+Table of Contents
+Silicon Laboratories Inc.
+Notes to Consolidated Financial Statements (Continued)
+December 28, 2024
+10. Leases (Continued)
+Maturities of lease income as of December 28, 2024 were as follows (in thousands):
+Fiscal Year
+2025
+$
+1,939
+
+2026
+1,322
+
+2027
+439
+
+2028
+452
+
+2029
+233
+
+Thereafter
+—
+
+11. 
+Commitments and Contingencies
+Litigation
+The Company is involved in various legal proceedings that have arisen in the normal course of business. While the ultimate results cannot be predicted with certainty, the Company does not expect them to have a material adverse effect on its Consolidated Financial Statements.
+12. 
+Share Repurchases
+The Company repurchased 
+1.5
+ million shares and 
+6.9
+ million shares of its common stock for $
+213.0
+ million and $
+887.6
+ million during fiscal 2023 and 2022, respectively. There were 
+no
+ share repurchases in fiscal 2024.
+13. 
+Revenues
+The Company groups its products as Industrial & Commercial or Home & Life based on the target markets they address. 
+The following represents revenue by product category (in thousands):
+Year Ended
+December 28,
+2024
+December 30,
+2023
+December 31,
+2022
+Industrial & Commercial
+$
+338,528
+
+$
+496,578
+
+$
+573,725
+
+Home & Life
+245,858
+
+285,680
+
+450,381
+
+$
+584,386
+
+$
+782,258
+
+$
+1,024,106
+
+A portion of the Company’s sales are made to distributors under agreements allowing certain rights of return and/or price protection related to the final selling price to the end customers. These factors impact the timing and uncertainty of revenues and cash flows. During fiscal 2024 and 2023, the impact of revenue related to performance obligations that were satisfied in previous reporting periods was insignificant. The Company recognized revenue of $
+30.1
+ million during fiscal 2022 from performance obligations that were satisfied in previous reporting periods. 
+The following disaggregates the Company’s revenue by sales channel (in thousands): 
+Year Ended
+December 28,
+2024
+December 30,
+2023
+December 31,
+2022
+Distributors
+$
+393,148
+
+$
+611,332
+
+$
+829,373
+
+Direct customers
+191,238
+
+170,926
+
+194,733
+
+$
+584,386
+
+$
+782,258
+
+$
+1,024,106
+
+F-23
+Table of Contents
+Silicon Laboratories Inc.
+Notes to Consolidated Financial Statements (Continued)
+December 28, 2024
+14. 
+Stock-Based Compensation
+The Company has two active stock plans, the 2009 Stock Incentive Plan (the “2009 Plan”) and the 2009 Employee Stock Purchase Plan (the “2009 ESPP”) that have been amended and approved by shareholders from time to time.
+•
+The 2009 Plan allows for grants of stock options, stock appreciation rights, performance shares, performance stock units, restricted stock units (“RSUs”), restricted stock awards (“RSAs”), performance-based stock units (“PSUs”) and other awards (collectively, “awards”). All awards deduct 
+one
+ share from the 2009 Plan shares available for issuance for each share granted. Awards granted under the 2009 Plan contain vesting provisions mostly ranging from 
+three
+ to 
+four years
+. To the extent awards granted under the 2009 Plan terminate, expire, or lapse for any reason, or are settled in cash, shares subject to such awards will again be available for grant.
+•
+The 2009 ESPP allows eligible employees to purchase a limited number of shares of the Company’s common stock at no less than 
+85
+% of the fair market value of a share of common stock at prescribed purchase intervals during an offering period. Each offering period is comprised of a series of one or more successive and/or overlapping purchase intervals and has a maximum term of 
+27
+ months.
+2009 Plan
+The Company granted to its employees 
+0.7
+ million, 
+0.5
+ million and 
+0.5
+ million shares of full value awards from the 2009 Plan during fiscal 2024, 2023 and 2022, respectively. Full value awards include RSUs, MSUs, and PSUs.
+MSUs provide the rights to acquire a number of shares of common stock for 
+no
+ cash consideration based upon achievement of specified levels of market conditions. The requisite measurement period for these MSUs is also the vesting period, which is generally 
+three years
+. MSUs granted in 2020 measured the relative performance of the total stockholders’ return of the Company against that of a selected benchmarked group of companies. The Company granted 
+no
+ MSUs in fiscal 2024, 2023 and 2022.
+PSUs provide for the rights to acquire a number of shares of common stock for 
+no
+ cash consideration based upon the achievement of specified revenue or profitability objectives during the year. The requisite performance period of these PSUs is approximately 
+three years
+ from the date of grant. The Company granted 
+95,953
+, 
+85,554
+, and 
+52,078
+ PSUs in fiscal 2024, 2023, and 2022, respectively.
+2009 ESPP
+The rights to purchase common stock granted under the 2009 ESPP are intended to be treated as either (i) purchase rights granted under an “employee stock purchase plan,” as that term is defined in Section 423(b) of the Internal Revenue Code (the “423(b) Plan”), or (ii) purchase rights granted under an employee stock purchase plan that is not subject to the terms and conditions of Section 423(b) of the Internal Revenue Code (the “Non-423(b) Plan”). The Company will retain the discretion to grant purchase rights under either the 423(b) Plan or the Non-423(b) Plan. During fiscal 2024, 2023 and 2022, the Company issued 
+173,000
+, 
+154,000
+, and 
+109,000
+ shares, respectively, under the 2009 ESPP to its employees. The weighted-average fair value for purchase rights granted in fiscal 2024 under the 2009 ESPP was $
+32.28
+ per share.
+Accounting for Stock-Based Compensation
+Stock-based compensation costs are based on the fair values on the date of grant for awards under the 2009 Plan, and on the date of enrollment for grants under the 2009 ESPP. The fair values of stock awards (such as RSUs, PSUs and RSAs) are estimated based on their intrinsic values. The fair values of MSUs are estimated using a Monte Carlo simulation. The fair values of stock options and grants under the 2009 ESPP are estimated using the Black-Scholes option-pricing model. The fair values of all such stock-based grants are generally amortized on a straight-line basis over the vesting period of the grants.
+The Company estimates potential forfeitures of stock grants and adjusts compensation cost recorded accordingly. The estimate of forfeitures will be adjusted over the requisite service period to the extent that actual forfeitures differ, or are 
+F-24
+Table of Contents
+Silicon Laboratories Inc.
+Notes to Consolidated Financial Statements (Continued)
+December 28, 2024
+14. Stock-Based Compensation (Continued)
+expected to differ, from such estimates. Changes in estimated forfeitures are recognized through a cumulative catch-up adjustment in the period of change and will also impact the amount of stock-based compensation expense to be recognized in future periods.
+The following table presents details of stock-based compensation costs recognized in the Consolidated Statements of Operations (in thousands):
+Year Ended
+December 28,
+2024
+December 30,
+2023
+December 31,
+2022
+Cost of revenues
+$
+1,678
+
+$
+906
+
+$
+1,152
+
+Research and development
+40,393
+
+35,491
+
+32,860
+
+Selling, general and administrative
+19,431
+
+11,812
+
+26,498
+
+61,503
+
+48,208
+
+60,510
+
+Income tax benefit
+(
+8,557
+)
+(
+6,230
+)
+(
+5,980
+)
+Total
+$
+52,946
+
+$
+41,978
+
+$
+54,530
+
+The Company recorded $
+0.6
+ million and $
+0.6
+ million of stock-based compensation charges during fiscal 2024 and 2023 respectively, in connection with the modification of certain equity awards. The modifications were pursuant to employee terminations. There were no other significant modifications made to any stock grants during fiscal 2024, 2023 or 2022.
+The Company had approximately $
+104.3
+ million of total unrecognized compensation cost related to equity grants as of December 28, 2024 that is expected to be recognized over a weighted-average period of approximately 
+2.0
+ years. There were no significant stock-based compensation costs capitalized into assets in any of the periods presented.
+Fair value assumptions and stock awards activity
+The fair values estimated from the Black-Scholes option-pricing model for ESPP shares granted were calculated using the following assumptions:
+Year Ended
+
+Employee Stock Purchase Plan
+December 28,
+2024
+December 30,
+2023
+December 31,
+2022
+Expected volatility
+45
+
+%
+40
+
+%
+44
+
+%
+Risk-free interest rate %
+4.39
+
+%
+5.47
+
+%
+3.18
+
+%
+Expected term (in months)
+9
+9
+9
+Dividend yield
+—
+
+—
+
+—
+
+F-25
+Table of Contents
+Silicon Laboratories Inc.
+Notes to Consolidated Financial Statements (Continued)
+December 28, 2024
+14. Stock-Based Compensation (Continued)
+A summary of stock-based compensation activity with respect to fiscal 2024 follows:
+Stock Options
+Shares
+(000s)
+Weighted-
+Average
+Exercise
+Price
+Weighted-Average
+Remaining
+Contractual Term
+(In Years)
+Aggregate
+Intrinsic
+Value
+(000s)
+Outstanding at December 30, 2023
+94
+$
+39.03
+
+2.12
+$
+8,790
+
+Exercised
+76
+$
+37.88
+
+$
+6,063
+
+Outstanding at December 28, 2024
+18
+$
+43.82
+
+1.08
+$
+1,534
+
+Vested at December 28, 2024 and expected to vest
+18
+$
+43.82
+
+1.08
+$
+1,534
+
+Exercisable at December 28, 2024
+18
+$
+43.82
+
+1.08
+$
+1,534
+
+RSAs and RSUs
+Shares
+(000s)
+Weighted-
+Average
+Grant Date 
+Fair Value
+Weighted-Average
+Remaining
+Vesting Term
+(In Years)
+Aggregate
+Intrinsic
+Value
+(000s)
+Outstanding at December 30, 2023
+824
+$
+138.95
+
+Granted
+605
+$
+125.19
+
+Vested or issued
+(
+385
+)
+$
+135.90
+
+Cancelled or forfeited
+(
+76
+)
+$
+129.69
+
+Outstanding at December 28, 2024
+968
+$
+132.26
+
+1.22
+$
+123,685
+
+Outstanding at December 28, 2024 and expected to vest
+887
+$
+132.62
+
+1.22
+$
+113,354
+
+PSUs and MSUs
+Shares
+(000s)
+Weighted-
+Average
+Grant Date 
+Fair Value
+Weighted-Average
+Remaining
+Vesting Term
+(In Years)
+Aggregate
+Intrinsic
+Value
+(000s)
+Outstanding at December 30, 2023
+245
+$
+164.62
+
+Granted
+116
+$
+138.22
+
+Vested or issued
+(
+55
+)
+$
+165.27
+
+Cancelled or forfeited
+(
+71
+)
+$
+143.51
+
+Outstanding at December 28, 2024
+235
+$
+165.73
+
+1.23
+$
+30,069
+
+Outstanding at December 28, 2024 and expected to vest
+50
+$
+139.69
+
+1.23
+$
+6,401
+
+The following summarizes the Company’s weighted average fair value at the date of grant:
+Year Ended
+December 28,
+2024
+December 30,
+2023
+December 31,
+2022
+Per grant of RSAs and RSUs
+$
+125.19
+
+$
+137.11
+
+$
+144.40
+
+Per grant of PSUs and MSUs
+$
+138.22
+
+$
+188.45
+
+$
+160.97
+
+F-26
+Table of Contents
+Silicon Laboratories Inc.
+Notes to Consolidated Financial Statements (Continued)
+December 28, 2024
+14. Stock-Based Compensation (Continued)
+The following summarizes the Company’s stock-based payment and stock option values (in thousands):
+Year Ended
+December 28,
+2024
+December 30,
+2023
+December 31,
+2022
+Intrinsic value of stock options exercised
+$
+6,063
+
+$
+2,162
+
+$
+—
+
+Intrinsic value of RSUs that vested
+$
+49,008
+
+$
+61,371
+
+$
+57,621
+
+Grant date fair value of RSUs that vested
+$
+52,371
+
+$
+53,088
+
+$
+41,610
+
+Intrinsic value of PSUs and MSUs that vested
+$
+7,202
+
+$
+5,163
+
+$
+—
+
+Grant date fair value of PSUs and MSUs that vested
+$
+9,067
+
+$
+3,037
+
+$
+—
+
+As of December 28, 2024, the Company had reserved shares of common stock for future issuance as follows (in thousands):
+2009 Plan
+1,522
+2009 ESPP
+818
+Total shares reserved
+2,340
+15. 
+Employee Benefit Plan
+The Company maintains a defined contribution or 401(k) Plan for its qualified U.S. employees. Participants may contribute a percentage of their compensation on a pre-tax basis, subject to a maximum annual contribution imposed by the Internal Revenue Code. The Company may make discretionary matching contributions as well as discretionary profit-sharing contributions to the 401(k) Plan. The Company contributed $
+3.0
+ million, $
+3.3
+ million and $
+3.2
+ million to the 401(k) Plan during fiscal 2024, 2023 and 2022, respectively.
+16. 
+Income Taxes
+Income (loss), inclusive of equity-method earnings (loss) and before income taxes, includes the following components (in thousands):
+Year Ended
+December 28,
+2024
+December 30,
+2023
+December 31,
+2022
+Domestic
+$
+(
+33,032
+)
+$
+(
+14,539
+)
+$
+32,088
+
+Foreign
+(
+121,781
+)
+(
+12,034
+)
+97,764
+
+$
+(
+154,813
+)
+$
+(
+26,573
+)
+$
+129,852
+
+F-27
+Table of Contents
+Silicon Laboratories Inc.
+Notes to Consolidated Financial Statements (Continued)
+December 28, 2024
+16. Income Taxes (Continued)
+The provision (benefit) for income taxes consists of the following (in thousands):
+Year Ended
+December 28,
+2024
+December 30,
+2023
+December 31,
+2022
+Current:
+Domestic
+$
+(
+252
+)
+$
+3,291
+
+$
+52,834
+
+Foreign
+6,978
+
+15,599
+
+3,856
+
+Total Current 
+6,726
+
+18,890
+
+56,690
+
+Deferred:
+Domestic
+29,745
+
+(
+9,036
+)
+(
+17,728
+)
+Foreign 
+(
+274
+)
+(
+1,911
+)
+(
+512
+)
+Total Deferred
+29,471
+
+(
+10,947
+)
+(
+18,240
+)
+Provision for income taxes
+$
+36,197
+
+$
+7,943
+
+$
+38,450
+
+The reconciliation of the federal statutory tax rate to the Company’s effective tax rate is as follows:
+Year Ended
+
+December 28,
+2024
+December 30,
+2023
+December 31,
+2022
+Federal statutory rate
+21.0
+
+%
+21.0
+
+%
+21.0
+
+%
+Foreign tax rate benefit
+(
+9.2
+)
+(
+33.2
+)
+(
+6.2
+)
+Current period valuation allowance
+(
+18.9
+)
+—
+
+—
+
+Change in prior period valuation allowance
+(
+12.9
+)
+(
+1.5
+)
+(
+0.3
+)
+GILTI and Subpart F income, net of foreign tax credits
+(
+4.3
+)
+(
+24.2
+)
+16.5
+
+(Nondeductible) nontaxable foreign items
+(
+3.1
+)
+(
+26.0
+)
+4.5
+
+(Nondeductible) nontaxable domestic items
+(
+0.9
+)
+(
+3.6
+)
+0.7
+
+Nondeductible officer compensation
+(
+0.8
+)
+1.3
+
+2.0
+
+Return to provision adjustments
+(
+0.3
+)
+16.5
+
+(
+2.0
+)
+State tax expense
+—
+
+(
+1.5
+)
+1.2
+
+Base erosion and anti-abuse tax
+—
+
+(
+7.4
+)
+—
+
+Other tax effects of equity compensation
+0.1
+
+1.1
+
+(
+0.3
+)
+Foreign withholding taxes
+0.3
+
+(
+2.2
+)
+0.4
+
+Excess tax benefit of stock-based compensation
+0.6
+
+4.0
+
+(
+1.1
+)
+Release of prior year unrecognized tax benefits
+1.2
+
+—
+
+(
+0.4
+)
+Research and development tax credits
+4.2
+
+26.9
+
+(
+5.5
+)
+Other
+(
+0.4
+)
+(
+1.1
+)
+(
+0.9
+)
+Effective tax rate
+(
+23.4
+)
+%
+(
+29.9
+)
+%
+29.6
+
+%
+The increase in the provision for income taxes for fiscal 2024 as compared to fiscal 2023 was primarily due to the establishment of a valuation allowance against the majority of the Company’s U.S. and Singapore deferred tax assets during the second quarter of fiscal 2024. The decrease in the provision for income taxes for fiscal 2023 was primarily due to decreases in pre-tax book income and global intangible low-taxed income inclusions as compared to fiscal 2022. 
+F-28
+Table of Contents
+Silicon Laboratories Inc.
+Notes to Consolidated Financial Statements (Continued)
+December 28, 2024
+16. Income Taxes (Continued)
+The Tax Cuts and Jobs Act (the “Act”) was enacted on December 22, 2017. Under the Act, research and experimental expenditures incurred for tax years beginning after December 31, 2021 must be capitalized and amortized ratably over five or fifteen years for tax purposes, depending on where the research activities are conducted. The Company has elected to treat global intangible low-taxed income (“GILTI”) as a period cost, so the capitalization of research and experimental costs in GILTI increases the Company’s provision for income taxes. 
+Additionally, the Act required companies to pay a one-time transition tax on the earnings of certain foreign subsidiaries that were previously deferred from U.S. income tax under U.S. tax law. The Company elected to pay the transition tax over the eight-year period provided in the Act. As of December 28, 2024, the unpaid balance of its transition tax obligation was $
+7.9
+ million, which is payable in April 2025 and recorded as a component of other current liabilities in the Consolidated Balance Sheet.
+Deferred Income Taxes
+Deferred tax assets and liabilities are recorded for the estimated tax impact of temporary differences between the tax basis and book basis of assets and liabilities. 
+Significant components of the Company’s deferred taxes as of December 28, 2024 and December 30, 2023 were as follows (in thousands):
+December 28,
+2024
+December 30,
+2023
+Deferred tax assets:
+Capitalized research and development
+$
+28,613
+
+$
+27,402
+
+Tax credit carryforwards
+23,100
+
+13,303
+
+Net operating loss carryforwards 
+17,484
+
+6,911
+
+Intangible assets
+6,447
+
+7,188
+
+Leases
+6,388
+
+6,584
+
+Deferred income on shipments to distributors
+2,153
+
+6,465
+
+Accrued liabilities
+2,063
+
+2,859
+
+Other
+6,130
+
+3,072
+
+92,378
+
+73,784
+
+Less: Valuation allowance
+(
+60,760
+)
+(
+10,530
+)
+31,618
+
+63,254
+
+Deferred tax liabilities:
+Intangible assets
+13,718
+
+13,916
+
+Fixed assets
+6,812
+
+8,353
+
+Leases
+6,053
+
+6,238
+
+Prepaid expenses and other
+3,555
+
+4,534
+
+Stock-based compensation
+1,001
+
+—
+
+31,139
+
+33,041
+
+Net deferred tax assets (liabilities)
+$
+479
+
+$
+30,213
+
+As of December 28, 2024, the Company had foreign net operating loss and research and development tax credit carryforwards of approximately $
+172.6
+ million and $
+0.4
+ million, respectively. The foreign net operating loss carryforward does not expire. The foreign research and development tax credits expire in fiscal years 2043 through 2044.
+As of December 28, 2024, the Company had U.S. federal net operating loss, research and development tax credit and foreign tax credit carryforwards of approximately $
+10.2
+ million, $
+7.3
+ million and $
+3.7
+ million, respectively. All of the net 
+F-29
+Table of Contents
+Silicon Laboratories Inc.
+Notes to Consolidated Financial Statements (Continued)
+December 28, 2024
+16. Income Taxes (Continued)
+operating loss and $
+1.1
+ million of the research and development tax credit carryforwards are subject to an annual limit, which may cause them to expire before they are used. The net operating loss and research and development tax credit carryforwards that are subject to limitation expire in fiscal years 2026 through 2031, the remaining research and development tax credit carryforwards expire in fiscal year 2044, and the foreign tax credit carryforwards expire in fiscal years 2033 through 2034.
+Additionally, the Company had state net operating loss and state research and development tax credit carryforwards of approximately $
+34.7
+ million and $
+13.7
+ million, respectively. Certain of these carryforwards expire in fiscal years 2025 through 2044, and others do not expire. Recognition of some of these loss and credit carryforwards is subject to an annual limit, which may cause them to expire before they are used.
+A valuation allowance is established against a deferred tax asset when it is more likely than not that the deferred tax asset will not be realized. The Company maintains a valuation allowance with respect to the majority of deferred tax assets in the U.S. and Singapore and with respect to research and development tax credit carryforwards in Canada. In the three months ended June 29, 2024, the Company determined that there is a need for a valuation allowance in the U.S. and Singapore due to a forecasted three-year cumulative pre-tax loss for the current and two preceding years in conjunction with the recent downturn in the semiconductor industry. The company intends to maintain the valuation allowance until sufficient future sources of taxable income are forecasted to realize the benefit of the deferred tax assets. 
+The following table summarizes the activity related to the valuation allowance for deferred tax assets (in thousands):
+Balance at
+Beginning of
+Period
+Additions
+Charged to
+Expenses
+Deductions
+Balance at
+End of
+ Period
+Year ended December 28, 2024
+$
+10,530
+
+$
+50,230
+
+—
+
+$
+60,760
+
+Year ended December 30, 2023
+$
+9,409
+
+$
+1,121
+
+$
+—
+
+$
+10,530
+
+Year ended December 31, 2022
+$
+9,529
+
+$
+792
+
+$
+(
+912
+)
+$
+9,409
+
+Uncertain Tax Positions
+The following table summarizes the activity related to gross unrecognized tax benefits (in thousands):
+Year Ended
+December 28,
+2024
+December 30,
+2023
+December 31,
+2022
+Beginning balance
+$
+4,868
+
+$
+4,109
+
+$
+3,677
+
+Additions based on tax positions related to current year
+970
+
+737
+
+872
+
+Additions based on tax positions related to prior years
+—
+
+22
+
+—
+
+Reductions based on tax positions related to prior years
+(
+5
+)
+—
+
+(
+6
+)
+Reductions for tax positions as a result of a lapse of the applicable statute of limitations
+(
+1,406
+)
+—
+
+(
+434
+)
+Ending balance
+$
+4,427
+
+$
+4,868
+
+$
+4,109
+
+As of December 28, 2024, December 30, 2023 and December 31, 2022, the Company had gross unrecognized tax benefits, inclusive of interest, of $
+4.7
+ million, $
+5.4
+ million and $
+4.4
+ million, respectively, of which $
+3.5
+ million, $
+5.1
+ million and $
+4.4
+ million, respectively, would affect the effective tax rate if recognized. 
+The Company recognizes interest and penalties related to unrecognized tax benefits in the provision for income taxes. These amounts were not material for any of the periods presented.
+F-30
+Table of Contents
+Silicon Laboratories Inc.
+Notes to Consolidated Financial Statements (Continued)
+December 28, 2024
+16. Income Taxes (Continued)
+Following the completion of the Norwegian Tax Administration (“NTA”) examination of the Company’s Norwegian subsidiary for income tax matters relating to fiscal years 2013 – 2016, the Company received an assessment from the NTA in December 2017 concerning an adjustment to its 2013 taxable income related to the pricing of an intercompany transaction. The Company is currently appealing the assessment. The adjustment to the pricing of the intercompany transaction results in approximately 
+141.3
+ million Norwegian kroner, or $
+12.4
+ million, additional Norwegian income tax. The Company disagrees with the NTA’s assessment and believes the Company’s position on this matter is more likely than not to be sustained. The Company plans to exhaust all available administrative remedies, and if unable to resolve this matter through administrative remedies with the NTA, the Company plans to pursue judicial remedies. 
+The Company believes that it has accrued adequate reserves related to all matters contained in tax periods open to examination. Should the Company experience an unfavorable outcome in the NTA matter, however, such an outcome could have a material impact on its financial statements.
+Tax years 2019 through 2024 remain open to examination by the major taxing jurisdictions in which the Company operates. The Company’s 2021 and 2022 tax years are currently under examination in India. Although the outcome of tax audits is always uncertain, the Company believes that the results of the examination will not materially impact its financial position or results of operations. The Company is not currently under audit in any other major taxing jurisdiction.
+The Company believes it is reasonably possible that its gross unrecognized benefits will decrease by approximately $
+1.7
+ million, inclusive of interest, in the next 12 months due to the lapse of the statute of limitations.
+17. 
+Segment Information
+The Company has 
+one
+ operating segment, mixed-signal analog intensive products, consisting of numerous product areas. The Company’s chief operating decision maker (“CODM”) is its Chief Executive Officer. The CODM allocates resources and assesses performance of the business and other activities at the operating segment level. The CODM assesses performance for the operating segment and decides how to allocate resources based on net income (loss) that is also reported on the Consolidated Statement of Operations as Consolidated Net income (loss). The measure of segment assets is reported on the Consolidated Balance Sheets as Total assets.
+The CODM uses net income (loss) to evaluate income generated in deciding whether to reinvest profits into the segment or to use such profits for other purposes, such as for acquisitions or share repurchases. Net income (loss) is used to monitor budget versus actual results. The CODM also uses net income (loss) in competitive analyses by benchmarking to the Company’s competitors. The competitive analysis along with the monitoring of budget versus actual results are used in assessing performance of the segment, and in establishing management and variable compensation. 
+The Company groups its products into two categories, based on the target markets they address. See Note 13, 
+Revenues
+, for a summary of the Company’s revenue by product category.
+Revenue is attributed to a geographic area based on the shipped-to location. The following summarizes the Company’s revenue by geographic area (in thousands):
+Year Ended
+December 28,
+2024
+December 30,
+2023
+December 31,
+2022
+United States
+$
+56,493
+
+$
+92,550
+
+$
+176,379
+
+China
+188,169
+
+219,741
+
+334,821
+
+Taiwan
+77,430
+
+90,382
+
+105,602
+
+Rest of world
+262,294
+
+379,585
+
+407,304
+
+Total
+$
+584,386
+
+$
+782,258
+
+$
+1,024,106
+
+F-31
+Table of Contents
+Silicon Laboratories Inc.
+Notes to Consolidated Financial Statements (Continued)
+December 28, 2024
+17. Segment Information (Continued)
+The CODM regularly reviews the Consolidated Statement of Operations and a disaggregation of operating expenses, of which the significant expenses are related to employee base compensation. Other segment items include other personnel-related expenses, outside services, software expense, depreciation and amortization of intangible assets, and other expenses. 
+The following summarizes the significant and other operating expenses:
+Year Ended
+December 28,
+2024
+December 30,
+2023
+December 31,
+2022
+Operating expenses:
+Employee base compensation
+$
+176,193
+
+$
+179,438
+
+$
+164,255
+
+Other segment items
+301,485
+
+305,302
+
+359,042
+
+Operating expenses
+$
+477,678
+
+$
+484,740
+
+$
+523,297
+
+The following summarizes the Company’s property and equipment, net by geographic area (in thousands):
+December 28,
+2024
+December 30,
+2023
+United States
+$
+107,612
+
+$
+116,357
+
+Rest of world
+24,524
+
+29,533
+
+Total
+$
+132,136
+
+$
+145,890
+
+18. 
+Restructuring Activities
+During 2023, the Company implemented a workforce reduction of approximately 
+10
+% of its employees to reduce costs and align its business in response to market conditions. The Company incurred total employee separation costs of $
+10.0
+ million and non-cash charges for the accelerated vesting of certain equity awards of approximately $
+0.6
+ million. All employee separation costs were paid by the fourth quarter of fiscal 2024.
+F-32

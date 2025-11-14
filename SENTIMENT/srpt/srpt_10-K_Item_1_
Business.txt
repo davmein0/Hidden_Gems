@@ -1,0 +1,343 @@
+Item 1. 
+Business.
+
+Overview
+
+We are a commercial-stage biopharmaceutical company focused on helping patients through the discovery and development of unique RNA-targeted therapeutics, gene therapy and other genetic therapeutic modalities for the treatment of rare diseases. Applying our proprietary, highly-differentiated and innovative technologies, and through collaborations with our strategic partners, we have developed multiple approved products for the treatment of Duchenne and are developing potential therapeutic candidates for a broad range of diseases and disorders, including Duchenne, LGMDs, other neuromuscular disorders, such as facioscapulohumeral muscular dystrophy (“FSHD”) and myotonic dystrophy type 1 (“DM1”), and central nervous system (“CNS”) related disorders.
+
+               To date, we have developed and commercialized the following four approved products for the treatment of Duchenne: EXONDYS 51 (eteplirsen) Injection (“EXONDYS 51”), VYONDYS 53 (golodirsen) Injection (“VYONDYS 53”), AMONDYS 45 (casimersen) Injection (“AMONDYS 45”), and ELEVIDYS. Each of these approved products, and the indications for which they have been approved for, is described under the heading “Our Commercial Products” in this Item 1.
+
+Objectives and Business Strategy
+
+We believe that our proprietary technology platforms and collaborations can be used to develop novel pharmaceutical products to treat a broad range of diseases and address key currently-unmet medical needs. We intend to leverage our technology platforms, organizational capabilities, collaborations and resources to lead the field of precision genetic medicines, including the treatment of rare, neuromuscular and other diseases, with a diversified portfolio of product candidates. In pursuit of this objective, we intend to focus on the following activities:
+
+•
+continuing to build our gene therapy engine, including developing gene therapy product candidates, operationalizing our manufacturing strategy and furthering our commercial capabilities in preparation for potential regulatory approvals;
+
+•
+advancing our RNA technologies, launching potential approved products and supporting commercialization of approved products;
+
+•
+investing in next-generation precision medicine through internal research, strategic partnerships, collaborations and other potential opportunities; and  
+
+•
+continuing to nurture our culture, which is based on strong patient focus, bias to action, a self-starter mentality, smart and appropriate risk-taking and high ethics.
+
+Technology and Platforms
+
+•
+Exon skipping is intended to promote the production of an internally truncated but functional dystrophin protein. The original phosphorodiamidate morpholino oligomer (“PMO”) structure and variations of this structure that are so-called PMO-based (collectively “PMO-based”) are central to our proprietary chemistry platform. PMO technologies can be used to selectively up-regulate or down-regulate the production of a target protein through pre-mRNA splice alteration. PMO-based compounds have the potential to be designed to create more, less, or none of certain proteins, or produce analogues of endogenous proteins. This technology can be used to correct disease-causing genetic errors by inducing the targeted expression of novel proteins.
+
+•
+As part of our multifaceted approach to Duchenne, we are also developing gene therapy technologies to treat Duchenne. Our gene therapy aims to express a smaller but still functional version of dystrophin. We use a unique adeno-associated virus (“AAV”) vector called AAVrh.74 to transport the transgene – the genetic material that will make the protein of interest – to the target cells. A unique, engineered dystrophin is used because naturally-occurring dystrophin is too large to fit in an AAV. We are also developing gene therapy programs for various forms of LGMDs. Our most advanced LGMD product candidate, SRP-9003, is designed to transfer a gene that codes for and restores beta-sarcoglycan protein with the goal of restoring the dystrophin associated protein complex. SRP-9003 utilizes the AAVrh.74 vector, the same vector used in ELEVIDYS. 
+
+Our pipeline includes programs at various stages of discovery, pre-clinical and clinical development. Through our collaborations with our strategic partners, we are expanding into adjacent therapeutic areas. Our pipeline reflects our aspiration to apply our multifaceted approach and expertise in precision genetic medicine to make a profound difference in the lives of patients suffering from rare diseases.
+
+-
+6
+-
+
+Core Therapeutic Areas
+
+Duchenne
+: Duchenne is a rare X-linked recessive genetic disorder affecting children (primarily males) that is characterized by progressive muscle deterioration and weakness. It is the most common type of 
+muscular dystrophy
+. Duchenne is caused by an absence of dystrophin, a protein that protects muscle cells. The absence of dystrophin in muscle cells leads to significant cell damage and ultimately causes muscle cell death and fibrotic replacement. In the absence of dystrophin protein, affected individuals generally experience the following symptoms, although disease severity and life expectancy vary:
+
+•
+muscle damage characterized by inflammation, fibrosis and loss of myofibers beginning at an early age;
+
+•
+muscle weakness and progressive loss of muscle function beginning in the first few years of life;
+
+•
+decline of ambulation and respiratory function after the age of seven;
+
+•
+total loss of ambulation in the pre-teenage or early teenage years;
+
+•
+progressive loss of upper extremity function during mid- to late-teens; and
+
+•
+respiratory and/or cardiac failure, resulting in death before the age of 30.
+
+LGMDs
+ are autosomal recessive, monogenic, rare neuromuscular diseases caused by missense and deletion mutations. These diseases affect males and females equally. Some types of LGMDs affect skeletal muscle and cardiac muscle. More severe forms of LGMDs mimic Duchenne. LGMDs as a class affect an estimated range of approximately 1 in every 14,500 to 1 in every 123,000 individuals. Currently, there are no approved treatment options for LGMDs.
+
+Charcot-Marie-Tooth (“CMT”) Disease 
+is a group of hereditary, degenerative nerve diseases that are caused by mutations in genes that produce proteins involved in the structure and function of either the peripheral nerve axon or the myelin sheath. CMT can cause degeneration of motor skills, resulting in muscle weakness, and limiting patients’ ability to walk or use their hands, and in some cases, can cause degeneration of sensory nerves, resulting in a reduced ability to feel heat, cold, and pain. CMT affects approximately 1 in every 2,500 individuals, while CMT type 1A, which is most often caused by an extra copy of the PMP22 gene, affects approximately 50,000 patients in the U.S. Most patients are diagnosed at infancy, while other patients develop symptoms at adolescence. Currently, there are no available treatment options.
+
+Other Neuromuscular Disorders
+: We, and through our strategic collaborations with partners, are exploring a wide range of neuromuscular disorders, including facioscapulohumeral muscular dystrophy and myotonic dystrophy.
+
+Our Commercial Products
+
+EXONDYS 51
+. 
+We launched our first commercial product, EXONDYS 51, in 2016. EXONDYS 51 is indicated for the treatment of Duchenne in patients who have a confirmed mutation of the dystrophin gene that is amenable to exon 51 skipping. EXONDYS 51 uses our PMO chemistry and exon-skipping technology to skip exon 51 of the dystrophin gene. PMO-based compounds are synthetic compounds that bind to complementary sequences of RNA by standard Watson-Crick nucleobase pairing. The two key structural differences between PMO-based compounds and naturally occurring RNA are that the PMO nucleobases are bound to synthetic morpholino rings instead of ribose rings, and the morpholino rings are linked by phosphorodiamidate groups instead of phosphodiester groups. Replacement of the negatively charged phosphodiester in RNA with the uncharged phosphorodiamidate group in PMO eliminates linkage ionization at physiological pH. Due to these modifications, PMO-based compounds are resistant to degradation by plasma and intracellular enzymes. Unlike the RNA-targeted technologies such as siRNAs and DNA gapmers, PMO-based compounds operate by steric blockade rather than by cellular enzymatic degradation to achieve their biological effects. Thus, PMOs use a fundamentally different mechanism from other RNA-targeted technologies.
+
+EXONDYS 51 targets the most frequent series of mutations that cause Duchenne. Approximately 13% of Duchenne patients are amenable to exon 51 skipping.
+
+VYONDYS 53
+. We launched VYONDYS 53 in 2019. VYONDYS 53 is indicated for the treatment of Duchenne in patients who have a confirmed mutation of the dystrophin gene that is amenable to exon 53 skipping. VYONDYS 53 uses our PMO chemistry and exon-skipping technology to skip exon 53 of the dystrophin gene. Approximately 8% of Duchenne patients are amenable to exon 53 skipping.
+
+AMONDYS 45
+. We launched AMONDYS 45 in 2021. AMONDYS 45 is indicated for the treatment of Duchenne in patients who have a confirmed mutation of the dystrophin gene that is amenable to exon 45 skipping. AMONDYS 45 uses our PMO chemistry and exon-skipping technology to skip exon 45 of the dystrophin gene. Approximately 8% of Duchenne patients are amenable to exon 45 skipping.
+
+-
+7
+-
+
+We are conducting various clinical trials for EXONDYS 51, VYONDYS 53 and AMONDYS 45, including studies that are required to comply with our post-marketing FDA requirements and commitments to verify and describe the clinical benefit of the three products.
+
+ELEVIDYS
+. 
+We launched ELEVIDYS in the second quarter of 2023.
+
+ELEVIDYS, an AAV-based gene therapy, was approved by the FDA in June 2024 for the treatment of ambulatory patients at least four years old with Duchenne with a confirmed mutation in the Duchenne gene. ELEVIDYS is also approved for non-ambulatory patients under the accelerated approval pathway. ELEVIDYS was previously granted accelerated approval by the FDA in June 2023 for the treatment of ambulatory patients aged four through five years with Duchenne with a confirmed mutation in the Duchenne gene. ELEVIDYS is contraindicated in patients with any deletion in exon 8 and/or exon 9 in the Duchenne gene.
+
+We are conducting various clinical trials for ELEVIDYS, including studies that are required to comply with our post-marketing FDA requirements and commitments to verify and describe clinical benefit.
+
+For the years ended December 31, 2024, 2023 and 2022, we recorded net revenues of $1,788.0 million, $1,144.9 million and $843.8 million, respectively, related to the sale of our products.
+
+Our Pipeline – Key Programs
+
+SRP-9003 (LGMD, gene therapy program)
+. The most advanced of our LGMD product candidates, SRP-9003, aims to treat LGMD2E, also known as beta-sarcoglycanopathy, a severe and debilitating form of LGMD characterized by progressive muscle fiber loss, inflammation and muscle fiber replacement with fat and fibrotic tissue. SRP-9003 is designed to transfect a gene that codes for and restores beta-sarcoglycan protein with the goal of restoring the dystrophin associated protein complex. SRP-9003 has generated positive pre-clinical safety and efficacy data utilizing the AAVrh.74 vector, the same vector used in our SRP-9001 gene therapy program.
+
+A Phase 1/2a trial of SRP-9003 commenced in the fourth quarter of 2018. In June 2020, we announced safety and expression results from three clinical trial participants in the high-dose cohort measured at 60 days, and one-year functional data from three clinical trial participants in the low-dose cohort. In March 2022, we announced 36-month functional data from three clinical trial participants in the low-dose cohort and 24-month functional data from two clinical trial participants in the high-dose cohort. In December 2024, we announced that we had completed enrollment and dosing in EMERGENE (Study SRP-9003-301), a Phase 3 clinical trial of SRP-9003 (bidridistrogene xeboparvovec).
+
+The chart below summarizes the status of our programs, including those with our strategic partners:
+
+-
+8
+-
+
+Manufacturing, Supply and Distribution
+
+We have developed proprietary state-of-the-art Chemistry, Manufacturing and Controls (“CMC”) capabilities that allow manufacturing and testing of our products and product candidates to support both clinical development and commercialization. We continue to refine and optimize our manufacturing processes and test methods. We have entered into certain manufacturing and supply arrangements with third-party suppliers which will in part utilize these capabilities to support production of certain of our product candidates and their components. We have also opened facilities over the past several years that significantly enhanced our internal research and development capabilities. However, we currently do not have internal GMP manufacturing capabilities to produce our products and product candidates for commercial and/or clinical use. For our current and future manufacturing needs, we have entered into supply agreements with specialized contract manufacturing organizations (each a “CMO”) to produce custom raw materials, the active pharmaceutical ingredients (“APIs”), drug product and finished goods for our products and product candidates for both commercial and clinical use. All of our CMO partners have extensive technical expertise, GMP experience and experience manufacturing our specific technology.
+
+For our commercial Duchenne PMO program, we have worked with our existing CMOs to increase production capacity from mid-scale to large-scale. While there is a limited number of companies that can produce raw materials and APIs in the quantities and with the quality and purity that we require for our commercial products, based on our diligence to date, we believe our current network of CMOs is able to fulfill these requirements, and is capable of expanding capacity as needed. Additionally, we have evaluated, and will continue to evaluate further relationships with additional suppliers to increase overall capacity as well as further reduce risks associated with relying on a limited number of suppliers for manufacturing.
+
+Our gene therapy manufacturing capabilities have been greatly enhanced through partnerships with Aldevron and Catalent. We have adopted a hybrid development and manufacturing strategy in which we have built internal expertise relative to all aspects of AAV-based manufacturing, including gene therapy and gene editing, while closely partnering with experienced manufacturing partners to expedite development and commercialization of our gene therapy programs. We have secured manufacturing capacity at Catalent to support our clinical and commercial manufacturing demand for ELEVIDYS and our LGMD programs, while also acting as a manufacturing platform for potential future gene therapy programs. The collaboration integrates process development, clinical and commercial production and testing. Aldevron provides GMP-grade plasmid for ELEVIDYS and is expected to provide plasmid source material for our LGMD programs and future gene therapy programs.
+
+Manufacturers and suppliers of our commercial products and product candidates are subject to the current GMP (“cGMP”) requirements and other rules and regulations prescribed by the FDA and other foreign regulatory authorities. We depend on our third-party partners for continued compliance with cGMP requirements and applicable foreign standards.
+
+Our PMO commercial products are distributed in the U.S. through a limited network of home infusion specialty pharmacy providers that deliver the medication to patients and a specialty distributor that distributes our products to hospitals and hospital outpatient clinics. With respect to the pre-commercial distribution of our products to patients outside of the U.S., we have contracted with third party distributors and service providers to distribute our products in certain countries through our EAPs. We plan to continue building out our network for commercial distribution in jurisdictions in which our products are approved.
+
+The U.S. distribution model for ELEVIDYS employs multiple distribution partners that include third-party logistics providers, as well as a limited network of specialty pharmacy providers that provide the medication to hospitals for infusion.
+
+Material Agreements
+
+We believe that our RNA-targeted and gene therapy technologies could be broadly applicable for the potential development of pharmaceutical products in many therapeutic areas. To enhance and further exploit our core technologies, we have and may continue to enter into research, development or commercialization alliances with universities, hospitals, independent research centers, non-profit organizations, pharmaceutical and biotechnology companies and other entities for new technologies, including for specific molecular targets or selected disease indications. We may also selectively pursue opportunities to access certain intellectual property rights that complement our internal portfolio through license agreements or other arrangements.
+
+The following descriptions of the terms of our material agreements is not complete and is qualified in their entirety by reference to the text of the agreements, copies of which are filed as exhibits to this Annual Report.
+
+F. Hoffman-La Roche Ltd
+
+License, Collaboration, and Option Agreement
+
+On December 21, 2019, we entered into a license, collaboration, and option agreement (the “Roche Agreement”) with F. Hoffman-La Roche Ltd (“Roche”) pursuant to which we granted Roche an exclusive license under certain of our intellectual property rights to develop, manufacture, and commercialize ELEVIDYS (SRP-9001) in all countries outside of the U.S. We retained all rights
+
+-
+9
+-
+
+to ELEVIDYS in the U.S. The transaction closed on February 4, 2020. We have subsequently entered into Amendments 1 through 14 to the Roche Agreement on: October 23, 2020, October 28, 2020, February 4, 2021, June 23, 2021, August 31, 2021, November 30, 2021, January 5, 2022, January 28, 2022, March 23, 2022, May 31, 2022, June 23, 2022, July 28, 2022, August 31, 2022 and October 31, 2022, respectively.
+
+Also, under the terms of the Roche Agreement, Roche granted us a license to use certain of its intellectual property rights to perform development activities worldwide under a joint global development plan, commercialize ELEVIDYS in the U.S., and perform certain manufacturing and medical affairs activities worldwide. Such license is non-exclusive under Roche’s background intellectual property rights, exclusive in the U.S. under intellectual property rights developed by Roche under the Roche Agreement, and non-exclusive outside the U.S. under intellectual property rights developed by Roche under the Roche Agreement.
+
+We intend to manufacture and supply ELEVIDYS in the relevant markets in which we have approval, or in the future receive approval.
+
+Roche Options and Negotiation Rights
+
+Pursuant to the Roche Agreement, we granted Roche an exclusive option to obtain an exclusive license to develop, manufacture and commercialize the following products outside of the U.S.: (i) certain exon-skipping products that target the dystrophin gene to induce exon skipping, including eteplirsen, golodirsen, casimersen (and previously our SRP-5051 program); (ii) certain gene therapy products other than ELEVIDYS that encode and directly express dystrophin or a derivative thereof, which right has since expired; and (iii) certain gene-editing products that modify, repair, or activate an endogenous dysfunctional dystrophin gene, which right has since expired (collectively, the “Option Products.”) Upon option exercise, the Option Product that is the subject of the option exercise will be included under the Roche Agreement as a product licensed to Roche subject to similar obligations, including with respect to development, manufacturing, commercialization, and cost-sharing as those that apply to ELEVIDYS.
+
+Pursuant to the Roche Agreement, Roche has a right of first negotiation if we seek to grant a third-party license to commercialize ELEVIDYS in the U.S. Roche had a similar right of first negotiation with respect to our LGMDs products, but such right has expired.
+
+Exclusivity
+
+Other than under the Roche Agreement, Roche may not perform any clinical trials for, or commercialize, any gene therapy product, gene-editing product, or antisense oligonucleotide for Duchenne for a period of five years following the effective date of the Roche Agreement, which obligation has since expired with respect to gene therapy products and gene-editing products. The exclusivity period for antisense oligonucleotide products will be extended for a period of five years from the time of option exercise if Roche exercises its option with respect to exon skipping products.
+
+Development
+
+The parties will use commercially reasonable efforts to conduct development activities with respect to ELEVIDYS under the Roche Agreement pursuant to agreed-upon development plans. Subject to certain exceptions, we will perform all development activities directed to obtaining and maintaining, as applicable, regulatory approvals for ELEVIDYS in the U.S. and the EU, as set forth in a joint global development plan. Subject to certain exceptions, the parties will share the costs of the development activities under such joint global development plan. Roche will have sole responsibility to perform all development activities set forth in a territory-specific development plan for ELEVIDYS, including additional activities not set forth in the joint global development plan that are specifically directed to obtaining and maintaining regulatory approvals for ELEVIDYS outside of the U.S. Roche will be solely responsible for costs arising from the territory-specific development plan for ELEVIDYS.
+
+Governance
+
+Governing committees have been established to facilitate collaboration between the parties with respect to development, manufacturing, medical affairs, intellectual property protection, and commercialization of ELEVIDYS and any other licensed products.
+
+Financial Terms
+
+In consideration for the rights that we granted and for prepaid funding for development activities, in February 2020, Roche and Roche Finance Ltd, an affiliate of Roche (“Roche Finance”), together paid us an up-front payment of approximately $1.2 billion. Of the $1.2 billion cash received from Roche, (i) $312.1 million, net of issuance costs, was allocated to the approximately 2.5 million shares of our common stock issued to Roche based on the closing price when the shares were issued, (ii) $485.0 million was allocated
+
+-
+10
+-
+
+to the option to purchase the Option Products, and (iii) $348.7 million was allocated to a single, combined performance obligation comprised of: (i) the license of IP relating to ELEVIDYS transferred to Roche, (ii) the related research and development services provided under the joint global development plan, (iii) the services provided to manufacture clinical supplies of ELEVIDYS, and (iv) our participation in a joint steering committee with Roche, because we determined that the license of IP and related activities were not capable of being distinct from one another. Additionally, we are eligible to receive up to $1.7 billion in development, regulatory and sales milestone payments with respect to ELEVIDYS.
+
+In addition, the Roche Agreement provides that Roche will pay us royalties on net sales of ELEVIDYS, at a tiered royalty rate based on the average cost to manufacture ELEVIDYS.
+
+In the event that Roche chooses to exercise its option with respect to one or more Option Products, we will be paid an option exercise fee upon each such exercise and the Option Products that are the subject of the option exercise will be subject to separate milestone payments and royalties on sales of such Option Product.
+
+Term; Termination
+
+Unless earlier terminated as described below, the Roche Agreement will continue with respect to ELEVIDYS or any Option Product for which Roche has exercised its option, on a product-by-product and country-by-country basis, until the end of the royalty term for such product in such country. The royalty term expires on the later of (a) twelve years after first commercial sale in such country, (b) loss of regulatory exclusivity in such country and (c) expiration of all valid claims of specific licensed patents in such country.
+
+Either party may terminate the Roche Agreement for the other party’s material breach if such breach is not cured within a specified cure period.
+
+If Roche breaches its development or commercialization diligence obligations with respect to a licensed product or fails to develop or commercialize a particular licensed product in a particular region for a specified period of time, then we may terminate the Roche Agreement with respect to such licensed products in such regions.
+
+Roche may terminate the Roche Agreement if we fail to supply ELEVIDYS to Roche in accordance with the terms of the Roche Agreement and the supply agreements to be entered into between the parties. Roche may also terminate the Roche Agreement for convenience with extended advance notice, in its entirety or on a licensed product-by-licensed product and region-by-region basis.
+
+Myonexus Therapeutics Inc.
+
+In April 2019, we acquired Myonexus Therapeutics Inc. (“Myonexus”), a privately-held Delaware corporation, for $173.8 million pursuant to an exclusive warrant to purchase Myonexus that we purchased in May 2018 for an up-front payment of $60.0 million. As part of the consideration for the transaction, we are required to make contingent payments to the former shareholders of Myonexus upon achievement of a threshold amount of net sales of Myonexus products and the receipt and subsequent sale of a Priority Review Voucher (“PRV”) with respect to a Myonexus product.
+
+BioMarin Pharmaceutical Inc. (“BioMarin”)
+
+License Agreement
+
+On July 17, 2017, we executed a license agreement (as amended on April 14, 2019 and November 17, 2021, the “License Agreement”) with BioMarin Leiden Holding BV, BioMarin Nederlands BV and BioMarin Technologies BV (collectively, the “BioMarin Parties”), pursuant to which BioMarin Parties granted us a royalty-bearing, worldwide license under patent rights (“Licensed Patents”) and know-how (“Licensed Know-How”) controlled by the BioMarin Parties with respect to BioMarin’s Parties' Duchenne program, which are potentially necessary or useful for the treatment of Duchenne, to practice and exploit the Licensed Patents and Licensed Know-How in all fields of use and for all purposes, including to develop and commercialize antisense oligonucleotide products that target one or more exons of the dystrophin gene to induce exon skipping, including eteplirsen, golodirsen and casimersen (collectively, the “Products”).
+
+The license granted to us by the BioMarin Parties is co-exclusive with the BioMarin Parties, with respect to the Licensed Patents, and is non-exclusive with respect to Licensed Know-How. Pursuant to the amendment to the License Agreement dated November 17, 2021 (the “2021 Amendment”), the BioMarin Parties exercised their rights to convert the exclusive license under the Licensed Patents to the current co-exclusive license.
+
+-
+11
+-
+
+Under the terms of the License Agreement, we were required to pay the BioMarin Parties an up-front payment of $15.0 million. Pursuant to the 2021 Amendment, the BioMarin Parties are eligible to receive up to $20.0 million from us per dystrophin gene exon (other than exon 51) targeted by one or more Products in specified regulatory milestones, as well as an additional $10.0 million milestone, payable following the regulatory approval of eteplirsen by the EMA. The BioMarin Parties were also eligible to receive through June 30, 2022 royalties segmented by specified geographic markets, in some jurisdictions dependent on the existence of a patent, ranging from 4% to 8% of net sales on a product-by-product and country-by-country basis. Beginning July 1, 2022, pursuant to the 2021 Amendment, the BioMarin Parties were eligible to receive royalties of 4% in the U.S. and 5% outside the U.S. of net sales of Products covered by a Licensed Patent on a product-by-product and country-by-country basis.
+
+Milestones and royalties were payable with respect to the Products through June 30, 2022. Beginning July 1, 2022, pursuant to the 2021 Amendment, milestones and royalties are payable only with respect to the Products covered by a Licensed Patent. Beginning July 1, 2022, pursuant to the 2021 Amendment, the royalty term applicable to the Products covered by a Licensed Patent expired upon March 31, 2024 in the U.S. and December 31, 2024 outside the U.S. The royalties for all Products covered by a Licensed Patent were subject to reductions, including for generic competition and, under specified conditions, for a specified portion of payments that we may become required to pay under third-party license agreements, subject to a maximum royalty reduction.
+
+The License Agreement expired upon the expiration of the last-to-expire royalty term. We retain a royalty free, fully paid license to the Licensed Patents.
+
+Settlement Agreement
+
+On July 17, 2017, Sarepta and The University of Western Australia (“UWA”) on the one hand, and the BioMarin Parties and Academisch Ziekenhuis Leiden (“AZL”) on the other hand (collectively, the “Settlement Parties”), executed a Settlement Agreement (the "Settlement Agreement") pursuant to which all legal actions in the U.S. and certain legal actions in Europe (the “Actions”) would be stopped or withdrawn as between the Settlement Parties. Specifically, the terms of the Settlement Agreement required that existing efforts pursuing ongoing litigation and opposition proceedings would be stopped as between the Settlement Parties, and the Settlement Parties would cooperate to withdraw the Actions before the European Patent Office (except for actions involving third parties), the U.S. Patent and Trademark Office (“USPTO”), the U.S. Court of Appeals for the Federal Circuit and the High Court of Justice of England and Wales, except for the cross-appeal of the Interlocutory Decision of the Opposition Division dated April 15, 2013 of the European Patent Office of EP 1619249B1 in which Sarepta agreed to withdraw its appeal and the BioMarin Parties/AZL agreed to continue with its appeal with Sarepta having oversight of the continued appeal by the BioMarin Parties/AZL.
+
+Additionally, under the terms of the Settlement Agreement, the Settlement Parties agreed to release each other and the customers, end-users, agents, suppliers, distributors, resellers, contractors, consultants, services and partners of Sarepta or the BioMarin Parties (as applicable) from claims and damages related to (i) the patent rights controlled by the releasing party that are involved in the Actions, (ii) with respect to Sarepta and UWA, its patent rights related to the patent rights involved in the Actions, and (iii) with respect to the BioMarin Parties and AZL, all of the Licensed Patents and Licensed Know-How.
+
+Under the terms of the Settlement Agreement, we made an up-front payment of $20.0 million to the BioMarin Parties.
+
+University of Western Australia
+
+In April 2013, we entered into an agreement with UWA under which an existing exclusive license agreement between the two parties was amended and restated and, in June 2016, we entered into the first amendment to the license agreement (the “UWA License Agreement”). The UWA License Agreement grants us specific rights to compounds for the treatment of Duchenne by inducing exon skipping. EXONDYS 51, VYONDYS 53 and AMONDYS 45 fall under the scope of the license agreement. Under the UWA License Agreement, we are required to make payments of up to $6.0 million in the aggregate to UWA based on the successful achievement of certain development and regulatory milestones relating to EXONDYS 51, VYONDYS 53, AMONDYS 45 and up to three additional product candidates. As of December 31, 2024, $4.2 million of the $6.0 million development and regulatory milestone payments had been made. We are also obligated to make payments to UWA of up to $20.0 million upon the achievement of certain sales milestones. Additionally, we are required to pay a low-single-digit percentage royalty on net sales of products covered by issued patents licensed from UWA during the term of the UWA License Agreement.
+
+Currently, the latest date on which an issued patent covered by the UWA License Agreement expires in November 2030 (excluding any patent term extension, supplemental protection certificate or pediatric extensions that may be available); however, patents granted from pending patent applications could result in a later expiration date.
+
+Catalent Maryland, Inc.
+
+-
+12
+-
+
+Catalent Supply Agreement
+
+On November 28, 2022, we entered into an amended and restated product manufacturing and supply agreement with Catalent. Under the Catalent Supply Agreement, Catalent has agreed, to manufacture and supply ELEVIDYS. Catalent is responsible for the operation of dedicated clean room suites for the manufacture of ELEVIDYS subject to Sarepta placing minimum annual orders. Catalent may not develop or manufacture products that compete with ELEVIDYS.
+
+Supply Terms and Quality Assurance
+
+The Catalent Supply Agreement contains customary supply terms, including requirements for forecasting, purchase orders, product specifications, batch testing and review procedures, price, payment terms, delivery mechanics and product insurance. In addition, it contains, a grant to Catalent of certain limited license rights of our intellectual property in connection with Catalent’s performance of services under the Catalent Supply Agreement, certain indemnification rights in favor of both parties, and limitations of liability. We and Catalent have also entered into a quality agreement, pursuant to which Catalent will conduct certain quality assurance, testing, characterization, stability and other quality control procedures in connection with the manufacture and supply of our ELEVIDYS product under the Catalent Supply Agreement.
+
+Financial Terms
+
+Upon receipt of a purchase order from us, Catalent will manufacture ELEVIDYS in accordance with the terms of the Catalent Supply Agreement, the then-current quality agreement and any applicable laws in exchange for the batch price specified in the Catalent Supply Agreement, which may be increased annually for industry standard cost increases.
+
+We are obligated to meet certain minimum annual thresholds with respect to orders of batches of ELEVIDYS to maintain dedicated manufacturing space, and, if we do not release the dedicated manufacturing space, we may be obligated to make certain payments to Catalent to the extent we do not meet such thresholds.
+
+Term; Termination
+
+Unless earlier terminated as described below, the Catalent Supply Agreement will continue with respect to the manufacture and supply of ELEVIDYS until December 31, 2028.
+
+Either party may terminate the Catalent Supply Agreement for the other party’s material breach, if such breach is not cured within a specified cure period, and in the event that the other party files a petition in bankruptcy, insolvency, or for reorganization or similar arrangement for the benefit of creditors, in the event the other party is served with an involuntary petition against it in any insolvency proceeding and such involuntary petition has not been stayed or dismissed within a specified timeframe, or in the event that the other party makes an assignment of substantially all of its assets for the benefit of creditors.
+
+We may also terminate the Catalent Supply Agreement in the event of certain delivery or supply failures, involuntary market withdrawals, material safety risks, a change of control by Catalent without our prior written consent, or certain patent disputes, among other things.
+
+There can be no assurance that we will be able to continue our present arrangement with Catalent. Our dependence upon our arrangement with Catalent for the supply and manufacture of ELEVIDYS could adversely affect our ability to manufacture and deliver ELEVIDYS on a timely and competitive basis. See “Risk Factors—
+
+Risks Related to Manufacturing.”
+
+Nationwide Children’s Hospital
+
+On October 8, 2018, we entered into an exclusive license agreement (as amended on May 19, 2019 and July 11, 2023, the “Nationwide License Agreement”) with Nationwide Children’s Hospital (“Nationwide”) pursuant to which we acquired an exclusive license under certain intellectual property rights to develop, manufacture and commercialize ELEVIDYS in all countries. We entered into Amendment 1 and Amendment 2 to the Nationwide License Agreement on May 29, 2019 and July 11, 2023, respectively.
+
+In consideration for the rights that Nationwide granted to us, we made an up-front payment and are obligated to make payments to Nationwide upon the achievement of certain development and sales milestones with respect to ELEVIDYS. In addition, we are required to pay a low-single-digit percentage royalty on net sales of ELEVIDYS, as well as a tiered percentage of remuneration
+
+-
+13
+-
+
+we receive in connection with any sublicenses we grant. Unless earlier terminated, the Nationwide License Agreement will expire upon the expiration of the last-to-expire royalty period. Either party may terminate the Nationwide License Agreement in the event of the other party’s uncured material breach. Nationwide may also terminate the Nationwide License Agreement under specified circumstances if we pursue litigation against Nationwide.
+
+Arrowhead Pharmaceuticals, Inc.
+
+On November 25, 2024, we and Arrowhead Pharmaceuticals, Inc. (“Arrowhead”) entered into an Exclusive License and Collaboration Agreement (the “Arrowhead Collaboration Agreement”) pursuant to which Arrowhead granted us an exclusive license under certain of Arrowhead’s intellectual property rights to develop, manufacture, commercialize, and otherwise exploit the lead candidate (and all backup candidates) for four clinical programs (the “Arrowhead Clinical Programs”) and three pre-clinical programs (the “Arrowhead Pre-Clinical Programs”). The Arrowhead Clinical Programs are for targeted siRNA therapies directed to (a) DUX4 for the treatment of facioscapulohumeral muscular dystrophy, (b) DMPK for the treatment of type 1 myotonic dystrophy, (c) ATXN2 for the treatment of ataxias, and (d) MMP7 for the treatment of idiopathic pulmonary fibrosis. The pre-clinical programs are for targeted siRNA therapies directed to (a) ATXN1 for the treatment of ataxias, (b) ATXN3 for the treatment of ataxias, and (c) HTT for the treatment of Huntington’s Disease. We will also collaborate on the discovery and development of compounds that are directed to six targets to be selected by us during the term (each an “Arrowhead Discovery Program,” and together with the Arrowhead Clinical Programs and Pre-Clinical Programs, the “Arrowhead Programs”). The selection of targets will be subject to certain restrictions set forth in the Arrowhead Collaboration Agreement. Subject to certain restrictions set forth in the Arrowhead Collaboration Agreement, if an Arrowhead Discovery Program target is deemed futile, then we will have the right to substitute any such target up to two times.
+
+Exclusivity
+
+Except for its performance of activities under the Arrowhead Collaboration Agreement, Arrowhead may not perform any development or commercialization activities with respect to any compounds or products (a) directed to any target that is the subject of activities under the Arrowhead Collaboration Agreement until the target for such Arrowhead Program has been terminated, (b) for the treatment of spinocerebellar ataxias until the ATXN1 Program, ATXN2 Program, and ATXN3 Program have all been terminated, or (c) directed to a list of reserved skeletal muscle targets for five years, provided that two of the reserved skeletal muscles will be subject to an additional two years of exclusivity.
+
+Development, Manufacturing, and Commercialization
+
+Arrowhead will conduct development activities with respect to the Arrowhead Programs under the Arrowhead Collaboration Agreement pursuant to agreed-upon development plans. At pre-determined transition points for each Arrowhead Program, Arrowhead will transfer development responsibility to us. We will then perform all development activities in furtherance of obtaining and maintaining regulatory approvals for licensed products throughout the world. We will reimburse Arrowhead for certain pre-determined development activities for the Arrowhead Clinical Programs. Each party is responsible for the costs and expenses of other development activities under the Arrowhead Collaboration Agreement.
+
+Arrowhead will complete all manufacturing activities necessary for Arrowhead’s development activities for each Arrowhead Program. Arrowhead will also provide clinical supply of licensed compounds and licensed products for all Arrowhead Programs under the Arrowhead Collaboration Agreement and commercial supply of licensed compounds and licensed products for the Arrowhead Clinical Programs. The parties will determine at a later date whether Arrowhead will provide commercial supply of licensed compounds and licensed products for the Arrowhead Preclinical Programs and Arrowhead Discovery Programs. Upon the occurrence of certain conditions, Arrowhead will transfer control of manufacturing and supply to us.
+
+We will have the sole right to commercialize licensed products throughout the world.
+
+Governance
+
+The exploitation of licensed compounds and licensed products will be governed by a series of committees established to facilitate transition and collaboration between the parties with respect to development and manufacturing of such products.
+
+Financial Terms
+
+At closing, on February 7, 2025, we paid Arrowhead an up-front payment of $500.0 million in cash. Arrowhead has the potential to receive $300.0 million in near-term payments associated with the continued enrollment of certain cohorts of a Phase 1/2 study. Additionally, Arrowhead is eligible to receive up to $250.0 million in annual fees and, for each of the Programs, Arrowhead is eligible to receive development milestone payments between $110.0 million and $180.0 million per Arrowhead Program and sales milestone payments between $500.0 million and $700.0 million per Arrowhead Program from us.
+
+-
+14
+-
+
+In addition, the Arrowhead Collaboration Agreement provides that we will pay Arrowhead tiered royalties on annual net sales of all licensed products for a given Arrowhead Program, up to the low double digits.
+
+Term; Termination
+
+Unless earlier terminated as described below, the Arrowhead Collaboration Agreement will continue on a licensed product-by-licensed product and country-by-country basis, until the expiration of the royalty term for such licensed product in such country. The Arrowhead Collaboration Agreement includes a customary royalty term.
+
+Either party may terminate the Arrowhead Collaboration Agreement for the other party’s material breach if such breach is not cured within a specified cure period.
+
+We may terminate the Arrowhead Collaboration Agreement for convenience, in its entirety, on an Arrowhead Program-by-Arrowhead Program and region-by-region basis prior to the first regulatory approval for a licensed product that is the subject of such Arrowhead Program, or on a licensed product-by-licensed product and region-by-region basis after the first regulatory approval for a licensed product that is the subject of such Arrowhead Program. If there is a clinical trial failure of the ongoing clinical trial for ARO-DM1, then, at our election, we may terminate the Arrowhead Collaboration Agreement with respect to either the DM1 Program or ARO-DM1.
+
+Equity Investment
+
+In connection with the Arrowhead Collaboration Agreement, Sarepta Therapeutics Investments, Inc., a wholly owned subsidiary of Sarepta (“Sarepta Investments”), purchased 11,926,301 shares of common stock, par value $0.001 per share, of Arrowhead (the “Arrowhead Shares”), in a private placement transaction, for an aggregate purchase price of $325.0 million on February 7, 2025.
+
+Patents and Proprietary Rights
+
+Our success depends in part upon our ability to obtain and maintain exclusivity for our products, product candidates and platform technologies. We typically rely on a combination of patent protection and regulatory exclusivity to maintain exclusivity for our products and product candidates, whereas exclusivity for our platform technologies is generally based on patent protection and trade secret protection. In addition to patent protection, regulatory exclusivity, and trade secret protection, we protect our products, product candidates and platform technologies with copyrights, trademarks, and contractual protections.
+
+We actively seek patent protection for our product candidates and certain of our proprietary technologies by filing patent applications in the U.S. and other countries as appropriate. These patent applications are directed to various inventions, including, but not limited to, active ingredients, pharmaceutical formulations, methods of use, and manufacturing methods. In addition, we actively acquire exclusive rights to third party patents and patent applications to protect our in-licensed product candidates and corresponding platform technologies.
+
+We do not have patents or patent applications in every jurisdiction where there is a potential commercial market for our product candidates. For each of our programs, our decision to seek patent protection in specific foreign markets, in addition to the U.S., is based on many factors, including:
+
+•
+our available resources;
+
+•
+the number and types of patents already filed or pending;
+
+•
+the likelihood of success of the product candidate;
+
+•
+the size of the commercial market;
+
+•
+the presence of a potential competitor in the market; and
+
+•
+whether the legal authorities in the market effectively enforce patent rights.
+
+We continually evaluate our patent portfolio and patent strategy and believe our owned and licensed patents and patent applications provide us with a competitive advantage; however, if markets where we do not have patents or patent applications become commercially important, our business may be adversely affected. A discussion of certain risks and uncertainties that may affect our freedom to operate, patent position, regulatory exclusivities and other proprietary rights is set forth in

@@ -1,0 +1,294 @@
+ITEM 1. Business.
+
+General Developments
+
+2024 Year in Review
+
+We introduced new partnerships and focused on improvements to our product set in 2024, all in support of revenue growth while at the same time taking actions to control our costs. This strategy enabled us to mark a milestone as we achieved our first-ever GAAP net income in the second quarter of fiscal year 2024, ahead of our third anniversary as a publicly traded company. We believe that this profitability milestone was, in part, attributable to how our value proposition of accounts payable automation and payments solutions, built upon our two-sided network of buyers and suppliers, continued to resonate with middle market companies.
+
+Highlights related to growth and retention included:
+
+•
+Referral Partnerships—we identified new opportunities and pursued referral partnerships in our health care facilities vertical, which is comprised of numerous sub-verticals or sub-domains, including long-term and elderly care centers, dental centers, and veterinary centers. We also pursued a sales strategy to establish reseller partnerships with regional and community banks, a sub-vertical that we believe holds promise within the financial services vertical. 
+
+•
+Integrations—new relationships were formed with Buildium, a cloud-based property management software company that extends our relationship with RealPage; with MIP Fund Accounting by Community Brands, a cloud-based, SaaS accounting solution purpose-built for nonprofits and government organizations; and with Workamajig, a leading agency management software solution for the creative and media industry. We made progress on further integrating our offerings with M3 Accounting Solutions, Inc. in the hospitality vertical, and AppFolio, in the real estate vertical. 
+
+•
+Product Offerings and Development—we continued to work throughout 2024 on scaling Payment Accelerator (our invoice financing offering) and developing our spend management offering.
+
+•
+Customer Service—we invested resources in customer service and retention and appointed our very first Senior Vice President of Customer Experience who brought our Customer Success, Customer Onboarding, and Customer Care organizations together as one team. At the end of the year, we launched the AvidXchange Trust Center as an initiative to strengthen the customer experience with respect to our security posture and policies. The trust center is an online portal that enables customers and prospects to connect with and access our security information. 
+
+Despite our focus on growth and retention, the macroeconomic environment in 2024 impacted several of our core verticals. We had expected that the Federal Reserve’s interest rate cuts during the year would, in part, drive spending and investment decisions. Based on activity in the real estate, community association management, and construction verticals, we believe that changing fiscal policy in 2024 and the Federal Reserve’s actions did not materially improve sentiment within these verticals and that spending and investments were curtailed or postponed. We also believe that negative sentiment drove many of our buyer customers to continue to moderate or defer discretionary spending.
+
+As in year’s past, our cost structure continued to be an area of focus, and cost efficiencies were pursued throughout the year. Actions taken to control costs included continued discipline in the pursuit of unit cost efficiencies in our processing of invoices and payments, the pursuit of cost management strategies in our portfolio of office locations outside of Charlotte, North Carolina, and the use of generative AI in building out new integrations with ERP partners.
+
+In addition to managing our core operating business, we managed our access to capital and engaged with our investor community throughout 2024. In the third quarter, our wholly-owned subsidiaries, AvidXchange, Inc. and AFV Commerce, Inc. entered into a credit agreement with KeyBank National Association to amend and restate the previous agreement that dated from 2022. We repaid all amounts outstanding under our prior credit agreement upon closing the 2024 amended and restated credit agreement. The amended and restated credit agreement has a term of five years and consists of a $150.0 million 5-year revolving credit facility with a $150 million accordion feature—no sums had been drawn on the revolver as of December 31, 2024. Refer to 
+Note 10 of our Notes to Consolidated Financial Statements
+ included elsewhere in this Annual Report on Form 10-K for additional details about our credit facilities. The third quarter also saw us announce a share repurchase program with authorization to purchase up to $100 million shares of our common stock. Under this program, approximately $50 million of shares of common stock were repurchased during the third and fourth quarters of 2024. Refer to 
+Note 11 of the Notes to Consolidated Financial Statements
+ included elsewhere in this Annual Report on Form 10-K for additional details about our share repurchase program.
+
+3
+
+Impact of Macroeconomic Events on Revenue
+
+Despite the resiliency exhibited by aspects of the United States economy during 2024, we believe that certain of our customers continued to exhibit caution in their purchasing decisions. More broadly, we believe that certain of the verticals or sub-components of those verticals in which we operate have been and continue to be more adversely impacted by the macroeconomic environment, which contrasts with the broader but measured improvement in overall economic sentiment. Tempered spending by existing customers and prospects impacts us two ways. First, tempered spending and a focus on costs can impact payment volumes, payment amounts, and payment type mix, particularly with respect to the acceptance rate of electronic forms of payment on our network that result in interchange revenue. The business metrics that best reflect these impacts include transaction yield and total payment volume. Second, cautious spending impacts sales and is reflected, in part, in our software revenue as well as the number of invoices and payments that we process. The business metrics that best reflect these impacts can be found in transactions processed as well as the number of buyers that we serve.
+
+Looking forward, we expect the macroeconomic environment in 2025 will be affected by interest rates, inflation, and new federal policies on tariffs, immigration, taxes, deregulation, and fiscal sustainability. With respect to interest rates, when rates are lowered, interest income, which is a component of our payment revenue, is negatively impacted. Should the Federal Reserve cut interest rates in 2025, we would expect to experience negative impacts on our payment revenue and interest income. However, a lower interest rate environment could benefit certain segments of our buyer customers, such as those in certain segments of our real estate vertical, which could lead to increases in discretionary spending and transaction volume on our network.
+
+With respect to inflation, the value of our customers' payments can increase in an inflationary environment, positively impacting our total payment volume and the base on which we earn interchange revenue. On the other hand, inflation can cause certain of our customers to moderate their expenditures and purchasing decisions, particularly discretionary spending, impacting the number of transactions processed across our network. Inflationary pressure can also negatively impact our operating costs by increasing costs incurred by us to operate our business, some of which we may not be able to recoup from our customers.
+
+The impact of these macroeconomic conditions on payment volumes, payment amounts, and payment type mix, including the acceptance rate of electronic forms of payment on our network that result in interchange revenue, remains highly uncertain. A changing macroeconomic environment could also lead to difficulty in comparing our current consolidated financial results to our results in future reporting periods.
+
+Description of Business
+
+Overview
+
+We are a leading provider of accounts payable ("AP") automation software and payment solutions for middle market businesses and their suppliers. Our Software-as-a-Service ("SaaS") based, end-to-end software and payment platform digitizes and automates the AP workflows for more than 8,500 businesses
+(1)
+ (our buyers) and we have made payments to more than 1,350,000 supplier customers of our buyers (suppliers) over the past five years. While acquiring new and retaining existing relationships with buyers and suppliers are important to our business, the growth of our business is ultimately dependent upon the number of transactions we process, as well as our total payment volume. We developed our technology platform through years of working to solve our buyers’ unique middle market workflow challenges. We define middle market businesses primarily as companies with between $5 million and $1 billion in annual revenue. Many middle market businesses are challenged by their high invoice throughput and complex AP workflows, while they also operate at a small enough scale such that complicated enterprise solutions are cost prohibitive and difficult to implement. Leveraging our domain expertise, we purpose-built a two-sided network that connects buyers and suppliers, drives digital transformation, increases efficiency and accuracy in AP workflows, accelerates payments, enables insight into critical analytics, and lowers operating costs for our buyers.
+
+By integrating with our buyers’ middle market-oriented accounting and information systems, our platform automates the end-to-end AP workflows for our buyers and enhances the payment experience for our suppliers through the following products and features:
+
+•
+AP Automation Software. 
+We have developed a SaaS-based solution automating and digitizing the capture, review, approval and payment of invoices for our buyers. We digitally capture invoices from suppliers and apply the buyer’s specific business rules to enable them to begin processing the invoice, extract and utilize transaction data from the invoice to enhance and configure the approval workflows, and manage the entire AP process through the payment of the invoice.
+
+•
+The AvidPay Network.
+ Our two-sided payments network connects our buyers with their suppliers, enabling invoice payments on behalf of a buyer and according to the supplier’s business rules, payment preferences and remittance data. We support a variety of payment methods depending on the supplier’s preference, including virtual credit card ("VCC"), enhanced automated clearing house ("ACH") (our AvidPay Direct) and physical check, while delivering enhanced remittance data to streamline the reconciliation process.
+
+4
+
+•
+The AvidXchange Supplier Hub. 
+We provide our supplier network insights into their cash flow, tools that offer visibility of their in-network invoices and payments, and for certain suppliers an early payment feature (Payment Accelerator). These additional features, and others in our product pipeline, allow us to both monetize and increase engagement on our two-sided payments network.
+
+We do not have significant customer concentration in our business, with no single customer contributing more than 5% of 2024 revenue and with our top 10 customers contributing less than 5% of revenue in 2024. Our customers operate across a variety of verticals in which we have domain expertise, including real estate, community association management, construction, financial services (including banks and credit unions), healthcare facilities, social services, education, media, and hospitality. Certain segments of our customers, particularly the customers we acquired through the FastPay acquisition that focus on political advertising within our media vertical, are subject to seasonal and cyclical trends. As described in more detail in the section titled “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” we generate revenue from each transaction processed on a per transaction basis and earn interchange revenue from a portion of the total payment volume.
+
+(1)
+
+Buyer customer number reflects the de-commissioning and exit of our legacy Create-a-Check (CAC) on-premise check printing software product as of the end of 2023. The associated base of CAC customers was approximately 1,400.
+
+Our Market Opportunity
+
+The business-to-business ("B2B") payments market is evolving and represents an opportunity for digital transformation.
+
+We believe that manual invoice payments processes, with their cost inefficiencies, lack of scalability, inability to accommodate remote work, and susceptibility to fraud present an opportunity for our business.
+
+In addition to providing B2B payments, we believe we can team with our suppliers’ finance organizations to better manage expenses and cash flow. We believe that there is an unmet need in supplier invoice finance. Our solutions help suppliers manage supplier payment preferences, forecast future cash flows, and, for certain of our suppliers, accelerate invoices for early payment.
+
+Go-To-Market
+
+We sell our solutions through a hybrid go-to-market strategy that includes direct and indirect channels. Our direct sales force leverages their domain expertise in select verticals and over 290 referral relationships with integrated software providers, financial institutions and other partners to identify and attract buyers that would benefit from our AP software solutions and the AvidPay Network. Our indirect channel includes reseller partners and other strategic partnerships with banks and financial institutions such as our partnerships with Mastercard, through Mastercard’s B2B Hub, which includes Fifth Third Bank and Bank of America, other financial institutions, such as KeyBank, third-party software providers, and technology business partners such as AppFolio, MRI Software, RealPage and Sage Software. Our referral and indirect channel partnerships provide us greater reach across the market to access a variety of buyers.
+
+Our go-to-market team is core to our growth and continues to evolve with the evolving market and our own internal development of products. We continuously monitor key metrics that measure our sales team and channel sales success, productivity, and efficiency. We maintain long-term customer satisfaction through our relationship management and customer care organization, who provide customer support through multiple avenues of communication including email, phone, chat, and forums.
+
+Our marketing is focused on our ability to serve the middle market, our end-to-end solutions, the value we provide to our customers, and our continued product innovation. Our targeted marketing to the middle market includes both digital and traditional brand campaigns, targeted advertisements, social, thought leadership pieces, trade shows, and webinars.
+
+We continue to invest in our sales and marketing capabilities to capitalize on our market opportunity.
+
+Why We Win
+
+We believe we have several competitive advantages that drive our ability to leverage our first mover market position:
+
+•
+Built to solve the unique business challenges of the middle market. 
+Since our inception, our solution has been purpose-built for the middle market. Our platform addresses enterprise level challenges, but at the scale, price and in the language of the middle market.
+
+•
+Digitize the entire AP workflow. 
+We apply data and SaaS-based software automation to the entirety of the AP workflow and focus on transforming the buyer experience by owning, and enhancing each point of the value chain. Our platform will handle invoice ingestion, whether through paper or electronic means, and replicate that ownership and automation through to payment.
+
+•
+Comprehensive, end-to-end AP Automation and payments platform. 
+Our solution provides a single-vendor approach to eliminate paper, streamline workflows and deliver timely and accurate reconciliations and payments. We 
+
+5
+
+have spent years building a software and payments platform coupled with hundreds of integrations to vertical-specific middle market accounting and information systems.
+
+•
+Scaled, two-sided network of buyers and suppliers powers a flywheel effect.
+ We provide the infrastructure layer connecting our buyers with their suppliers. As buyers approve and pay more invoices through our platform, we connect them to their suppliers and add more suppliers to our network, which drives an expansion of the flywheel effect that fuels our growth. As a result of this ongoing flywheel, we have built a high level of supplier density that allows us to monetize payments after a buyer joins our platform.
+
+•
+Diverse and deep integration layer.
+ We offer more than 265 integrations with different accounting systems that allow our clients to curate a technology stack tailored to the nuances of their size, scale and vertical. Our “built inside” integrations, many of which are flexible API based integrations, facilitate exchanges of data, driving enhanced user experiences and utility and providing a feature set and level of customization historically reserved only for enterprises.
+
+•
+Unparalleled data capabilities. 
+Our buyers and suppliers benefit from the millions of invoices we have ingested and processed since inception. From the beginning, we recognized the feedback value of data and as such our product development and operations benefit from two decades of transactions. We believe we ingest invoices more accurately, manage risk more insightfully and assess credit more thoughtfully in part due to a knowledge base that continues to grow every day.
+
+Growth Strategy
+
+Fundamentally, the growth of our business is dependent upon the number of transactions we process, as well as our total payment volume. Key elements of our growth strategy include the following.
+
+6
+
+•
+Win new buyers and their suppliers.
+ We believe the middle market opportunity remains largely underpenetrated. As the number of middle market companies continues to increase and their AP and payment complexity grows, we anticipate demand for our products by new customers to increase. We will continue to invest in our direct and indirect sales channels to increase awareness of our platform, drive sales opportunities, and convert more of our pipeline into customers. We will also continue to grow and scale the number of strategic partnerships we have, providing more opportunities to acquire new customers from our software and bank channels as well as our referral partnerships.
+
+•
+Grow with existing buyers and suppliers. 
+We expect to continue to grow with our existing buyer base of over 8,500 businesses. As our buyer base continues to grow and mature, we expect them to continue to increase invoice and payment transaction volume across the AvidXchange platform. In addition, we plan to continue to cross-sell solutions to our existing buyers.
+
+•
+Increase conversion of paper checks to electronic payments.
+ As our buyers continue to mature and increase their overall payment transaction volume, we believe there is an opportunity to increase the penetration of electronic payments. As additional buyers and suppliers join our proprietary AvidPay Network, we will continue to build functionality and drive conversion of manual to electronic payments. Our growing supplier density will continue to drive higher monetization rates leading to increased e-payment adoption.
+
+•
+Continue to innovate and enhance new products.
+ We will continue leveraging the data and business insights we have accumulated across buyer and supplier transactions to add new innovations and capabilities. Our goal is to create more end-to-end solutions that integrate purchasing and payments workflows. In addition to enhancing products for our buyer customers, we also intend to continue to use our access to data to build out more offerings for suppliers, including financing solutions. 
+
+•
+Enter new verticals.
+ We believe there is untapped opportunity in the middle market to expand into new and adjacent verticals. We intend to invest in our vertical sales teams across different geographies, execute in-house development to build vertical domain capabilities, increase our number of bank and software partnerships, and expand the number of next-generation API and “built inside” integrations. 
+
+•
+Selectively pursue strategic M&A.
+ We plan to supplement our organic growth by pursuing strategic M&A with an intent to expand into new verticals and horizontal capabilities, capture unmonetized or under-monetized spend, and enhance and expand products and capabilities. We have a track record of acquiring and executing M&A to drive revenue growth, efficiency leverage, and scalability across the organization.
+
+•
+International expansion.
+ We may in the future expand internationally with an initial focus on Canada and possibly the United Kingdom, and Europe thereafter. We would likely leverage our existing business partner relationships we have already in place in the United States to build our presence worldwide.
+
+Human Capital and Culture
+
+As of December 31, 2024, we had over 1,600 full-time employee-teammates based in the United States. We also engage temporary employees and consultants as needed to support our operations. None of our employee-teammates are represented by a labor union or covered by a collective bargaining agreement. We have not experienced any work stoppages and we consider our relations with our employee-teammates to be good.
+
+We promote a performance culture throughout the Company, with our teams, and with each individual employee-teammate. The contributions of our human capital organization to this performance culture include a focus on attracting, engaging, retaining, and developing our employee-teammates. In assessing our efforts, we monitor several human capital indicators which are measured regularly and shared monthly among the management team: Monthly Teammate Engagement Score, Regretted Attrition, Quality of Hire, Internal Moves, and Teammate Development. We believe that these metrics provide objective assessments on our efforts to attract, engage, retain and develop human capital by tracking the quality and outcomes of our recruiting efforts, the level of employee-teammate satisfaction, and the impacts of our culture initiatives.
+
+Our Teammate Engagement Score is based on a monthly 5-question pulse survey. With 100 out of 100 being a perfect score, our company-wide Monthly Teammate Engagement Scores for the 2024 calendar year ranged from 78 to 85. External benchmarking considers a Teammate Engagement Score of between 83 and 100 to reflect strongly engaged teammates and a score of between 62 and 82 to reflect moderate engagement.
+
+We believe that engaged employee-teammates are more closely connected to the business, are brand advocates, strive to achieve goals, and have higher retention.
+
+Regretted Attrition represents the annualized number of attritted, regretted employee-teammates over all employee-teammates. Regretted Attrition was 1.0%. We believe that our Regretted Attrition is below external benchmarks and that this score reflects our focus on keeping top talent and the strength of our culture initiatives.
+
+7
+
+Our Quality of Hire metric measures the percentage of employee-teammates who left the company prior to their first year of employment. We ended 2024 with a score of 6.37%. We believe that our score is below external benchmarks and reflects that our selection methodologies are aligned between candidate assessment and the role that is being filled.
+
+Internal Moves measures the percentage of employee-teammates who moved into new roles within the Company. In 2024, Internal Moves were undertaken by 18% of our employee-teammate population. We strive for a metric at or above 20% and believe that this metric reflects our commitment to developing the potential and skills of employee-teammates to assume new and often greater roles and responsibilities.
+
+Our Teammate Development metric measures the percentage of employee-teammates who have participated in at least one development activity during the year. Activities consist of an approved curriculum and vary from internal classes, courses from LinkedIn Learning's extensive offerings, or sessions provided by external facilitators. While striving for a metric at or above 90%, we ended 2024 with our Teammate Development metric standing at 88%.
+
+We have built a performance-based culture that focuses on all employee-teammates. Our employee-teammates foster support and camaraderie, strengthen the foundations of our workplace community, and enhance our performance culture through initiatives and programming undertaken by various meet-up groups. We believe that the efforts and engagement of these groups of employee-teammates increase workplace satisfaction, improve retention, and drive individual, team, and organizational performance. In 2024, we continued to recognize the contributions of our employee-teammates and they, in turn, recognized our efforts to foster their success:
+
+•
+We celebrate tenure through our V-Crew and X-Crew recognition programs. The V-Crew is defined as employee-teammates who have been with AvidXchange for 5+ years and the X-Crew consists of employee-teammates that have been with AvidXchange for 10+ years. As of December 31, 2024, nearly 37% of AvidXchange employee-teammates belong to the V-Crew and 8% belong to the X-Crew. On an annual basis, V-Crew and X-Crew teammates receive a customized award, and Michael Praeger, our Chief Executive Officer and Founder, invites V-Crew and X-Crew teammates to celebrate their milestones with a dinner in their honor.
+
+•
+AvidXcellence is our AvidXchange Annual Company-Wide Recognition Program. This program recognizes and rewards the highest performing employee-teammates across the Company. Our highest performing employee-teammates are those who consistently demonstrate exceptional results and are exemplary of our AvidDNA (our culture). 
+
+•
+With 73% of our employee-teammates saying “AvidXchange is a Great Place to Work,” we earned a Top Certification by Great Place to Work® for the period June 2024 through June 2025—our third time in a row.
+
+While we are a technology company by trade, at our core, we are a people company, and that means not only taking care of each other, but those in the communities in which we work and live.
+
+•
+We understand that engaging with our communities and striving to improve the quality of life for our employee-teammates and neighbors is an opportunity and a responsibility. We enable our employee-teammates who are passionate about giving back to the community, in whatever way is most meaningful to them, with paid volunteer time off. In 2024, our employee-teammates committed 6,172 hours to such volunteer efforts. 
+
+•
+We are committed to sharing our resources and time in support of philanthropic efforts. In demonstration of this commitment, on June 24, 2021, our board of directors approved the reservation of 1,657,296 shares of our common stock (representing approximately 1% of our issued and outstanding common stock and common stock equivalents as of June 24, 2021) for future issuance to fund our philanthropic endeavors over a ten-year period, including the potential issuance to a philanthropic partner in connection with the establishment of a donor-advised fund. On October 1, 2021, we executed an agreement with a philanthropic partner to whom we intend to provide annual ongoing grants of 10% of the pledged shares for a period of nine subsequent years, subject in each case to the approval of our board of directors. The latest tranche of our pledge was authorized by our board of directors in the fourth quarter of 2024.
+
+•
+We coordinate philanthropic efforts through the AvidXchange Foundation. The mission statement of the foundation is to advance the economic and social mobility of underserved youth and young adults where we live and work. The AvidXchange Foundation pursues its mission statement by supporting programs in education, digital equity, and workforce development. During 2024, 17 organizations, programs, and initiatives in the Charlotte metropolitan area were positively impacted by the efforts of our foundation. 
+
+Our executive compensation plans and philosophy will be included in our 2025 Proxy Statement, and we intend to provide further disclosures regarding our sustainability efforts prior to our 2025 Annual Meeting of Stockholders.
+
+8
+
+Competition
+
+We believe the overall market for AP software and payments solutions is fragmented, competitive and evolving and is marked by rapid change and consolidation due to technological innovations and continued adoption by businesses. Although we expect businesses to continue to adopt AP and payment automation solutions, we often find that we are selling our products and services to potential customers that use a variety of legacy and internally developed solutions, policies, and procedures, and we must be able to convince internal stakeholders that our products and solutions are superior to their existing processes or third-party solutions.
+
+Our current competitors range from fintech companies and financial institutions to smaller, niche providers of software and services, as well as point solutions provided by 
+enterprise resource planning
+ ("ERP") vendors. We compete with companies that offer comprehensive solutions focused on the entire AP and payment processes and companies that focus only on select portions of these processes such as invoice and bill presentment, document and workflow management, AP and payment processing or accounts receivable. Solutions are also often specifically tailored to industry vertical or customer size making it difficult to expand into new verticals or attract larger or smaller customer types.
+
+Accounting and ERP software providers, financial institutions, payment processing, and other service providers, a number of which we partner with in offering our solutions, may currently offer or develop solutions, acquire third-party solutions or competitors, or enter into strategic relationships that would enable them to expand their solutions to compete more effectively with our products and services. These parties may have access to larger, installed customer bases and may be able to bundle and cross sell competitive solutions with their other services, which may enable them to compete more effectively or provide them with greater pricing and operating flexibility.
+
+Companies that currently focus on providing solutions to enterprise businesses or small-to-medium businesses (“SMBs”) may seek to expand the offering of their solutions to middle market customers which would be more directly competitive with the products and services that we offer. New entrants not currently considered to be competitors may also enter the market through acquisitions, partnerships, or strategic relationships.
+
+We currently compete on several factors, including:
+
+•
+product and service features, functionality and quality and system stability;
+
+•
+integrations with leading accounting and banking systems;
+
+•
+our value-added services provided through various strategic partnership;
+
+•
+pricing and incentives;
+
+•
+supplier network;
+
+•
+ability to automate existing processes; and
+
+•
+customer onboarding time and effort.
+
+We believe that we compare favorably with our competitors on the basis of these factors. We expect the middle market AP software and B2B payment solutions market to continue to evolve and grow, as greater numbers of middle market and larger businesses digitize their back offices. We believe that we are well-positioned to help them.
+
+Regulatory Environment
+
+We operate in a complex and evolving regulatory environment. The manner in which existing laws and regulations are applied or in which new laws and regulations are implemented is often unclear and unpredictable, in particular as such laws and regulations relate to our business in the United States and internationally to the extent we might in the future elect to expand our services outside the United States.
+
+Most states and certain territories in the United States require a license to engage in certain money transmission or payment services. We have procured and maintain money transmitter licenses, or the statutory equivalent, in all of the jurisdictions within the United States that currently require them for our business, and we actively work to comply with new license requirements as they arise. These licenses enable us to provide commercial payment services to businesses through AvidXchange, Inc. “for the benefit of customer” bank accounts that are restricted for such purposes and subject us, among other things, to record-keeping requirements, reporting requirements, bonding requirements, limitations on the investment of customer funds, and examination by state regulatory agencies.
+
+We are also registered as a Money Services Business with the United States Department of Treasury’s Financial Crimes Enforcement Network, or FinCEN, and are subject to the Bank Secrecy Act ("BSA"), and certain obligations contained therein, including, among other things, certain record-keeping and reporting requirements, and examinations by FinCEN.
+
+9
+
+The BSA is the primary compendium of laws and regulations within the United States regarding anti-money laundering ("AML") and countering the financing of terrorism. As required under the BSA, we have implemented and are continuing to expand an AML program designed to prevent our platform from being used to facilitate money laundering, terrorist financing, and other financial crimes. Our program is also designed to prevent our products from being used to facilitate business in certain countries, or with certain persons or entities, which are targets of economic or trade sanctions that the Office of Foreign Assets Control (the "OFAC") and various foreign authorities administer or enforce. Our AML and sanctions compliance programs include policies, procedures, reporting protocols, and internal controls, require the designation of a BSA and AML compliance officer to oversee the programs, and are designed to address our legal and regulatory requirements and to assist in managing risk associated with sanctions, compliance, money laundering, and terrorist financing.
+
+Our invoice payment accelerator product, Payment Accelerator, offers qualifying suppliers the opportunity to better manage cash flows and receive payments even faster by enabling these suppliers to receive advance payment on eligible invoices. Certain of these services may be regulated as lending activities under certain laws and regulations of various states. Payment Accelerator is currently provided by our affiliated subsidiary, FPP Enterprise LLC, a licensed finance lender in California. We intend to secure and maintain all applicable licenses and to comply with applicable statutory and regulatory obligations as we expand our Payment Accelerator product to supplier customers throughout the United States.
+
+Although we do not provide consumer services or products, we do collect and use a wide variety of information for various purposes in our business, including to help ensure the integrity of our services and to provide features and functionality to our customers. Our customers’ data is stored in our platform, and we must monitor and, as applicable, comply with a wide variety of laws and regulations regarding the data stored and processed on our platform as well as the operation of our business. This may present legal challenges to our business and operations, such as rights of privacy or intellectual property rights related to the content loaded onto our platform.
+
+This aspect of our business, including the collection, use, disclosure, and protection of the information we acquire in connection with our customers’ use of our services, may be subject to certain laws and regulations in the United States. In particular, data privacy and security with respect to the collection, processing, and retention of personal data or Personally Identifiable Information ("PII") continues to be the focus of domestic and worldwide legislation and regulation. In recent years, there have been a number of well-publicized data breaches involving the unauthorized use and disclosure of individuals’ PII. We also suffered a cyber event that led to the unauthorized disclosure of certain of our confidential information, including PII, on the dark web, in 2023. Many states within the United States have responded to these incidents by enacting laws requiring holders of PII to maintain safeguards and to take certain actions in response to a data breach, such as providing prompt notification of the breach to affected individuals and state officials or amending existing laws to expand compliance obligations. Federal laws are also under consideration that may create additional compliance obligations and penalties. Accordingly, we publish our privacy policies and terms of service, which describe our practices concerning the use, transmission, and disclosure of information.
+
+In addition, several foreign countries and governmental bodies, including within the European Union, have laws and regulations dealing with the collection, use, disclosure, and protection of information that are more restrictive than those in the United States. While we believe that the products and services that we currently offer in the United States do not subject us to such laws or regulations in foreign jurisdictions, such laws and regulations may be modified or subject to new or different interpretations, new laws and regulations may be enacted, or we may modify or expand our products or services in the future, or acquire a company operating internationally, which may subject us to such laws and regulations.
+
+Various regulatory agencies in the United States and in foreign jurisdictions continue to examine a wide variety of issues which may be applicable to us and may impact our business. These issues include identity theft, account management guidelines, privacy, disclosure rules, cybersecurity, and marketing. As our business continues to develop and expand, we continue to monitor the additional rules and regulations that may become relevant or applicable to our business.
+
+Any actual or perceived failure to comply with legal and regulatory requirements may result in, among other things, revocation of required licenses or registrations, loss of approved status, private litigation, regulatory or governmental investigations, administrative enforcement actions, sanctions, civil and criminal liability, and constraints on our ability to continue to operate. For an additional discussion on governmental regulation affecting our business, please see the risk factors related to regulation of our payments business and regulation in the areas of privacy and data use, under the section titled “Risk Factors — Risks Related to our Business and Industry.”
+
+Research and Development
+
+Our research and development efforts focus on the development of new products and business intelligence tools, enhancements to existing products and applications, and large-scale infrastructure projects that improve the underlying architecture of our technology. We make investments in our technology to maintain and enhance our position as a leading provider of AP automation software and payment solutions for middle market businesses and their suppliers. We leverage emerging technologies, such as artificial intelligence, and invest in the development of features that meet and anticipate the needs of both buyers and suppliers.
+
+10
+
+Intellectual Property
+
+We seek to protect our intellectual property rights by relying upon a combination of contractual measures as well as trademark, copyright, and trade secret laws.
+
+We rely on trade secrets and confidential information to develop and maintain our competitive position. It is our practice to enter into confidentiality and invention assignment agreements (or similar agreements) with our employees, consultants, and contractors involved in the development of intellectual property on our behalf. We also enter into confidentiality agreements with other third parties in order to limit access to, and disclosure and use of, our confidential information and proprietary information. We further control the use of our proprietary technology and intellectual property through provisions in our terms of service.
+
+As of December 31, 2024, we had several trademark applications and registrations for certain of our logos. We will pursue additional trademark registrations to the extent we believe it would be beneficial and cost effective. We also own several domain names, including www.avidxchange.com.
+
+Patents have not historically been a significant part of our intellectual property strategy. We may however pursue patent protection in the future to the extent we believe it would be beneficial and cost effective.
+
+From time to time, we may also use or incorporate certain intellectual property licensed from third parties, including under certain open-source licenses. Even if any such third-party technology was not available to us on commercially reasonable terms, we believe that alternative technologies would be available as needed.
+
+Despite our efforts to protect our intellectual property rights, they may not be respected in the future or may be invalidated, circumvented, or challenged. Our industry is characterized by the existence of a large number of patents, frequent claims and related litigation based on allegations of patent infringement or other violations of intellectual property rights.
+
+We believe that competitors will try to develop products that are similar to ours and that may infringe our intellectual property rights. Our competitors or other third parties may also claim that our solutions infringe upon their intellectual property rights. In particular, some companies in our industry have extensive patent portfolios and are large and established and have greater resources than we do. From time to time, third parties have in the past and may in the future assert claims of infringement, misappropriation, and other violations of intellectual property rights against us or our customers or partners, with whom our agreements may obligate us to indemnify against these claims. Successful claims of infringement by a third party could prevent us from offering certain products or features, require us to develop alternate, non-infringing technology, which could require significant time during which time we could be unable to continue to offer our affected products, require us to obtain a license, which may not be available on reasonable terms or at all, or force us to pay substantial damages, royalties, or other fees. Moreover, our products may incorporate software components licensed to the general public under open-source software licenses. Open-source licenses may grant licensees broad permissions to use, copy, modify, and redistribute our platform. As a result, open-source development and license practices can limit the value of our software copyright assets.
+
+For additional information about our intellectual property and associated risks, see the section titled “Risk Factors — Risks Related to our Business and Industry.”
+
+Available Information
+
+Our principal executive offices are located at 1210 AvidXchange Lane, Charlotte, NC 28206, and our phone number is (800) 560-9305.
+
+We file annual, quarterly, and current reports, proxy statements and other information with the SEC. The SEC maintains an Internet website at http://www.sec.gov that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC, including AvidXchange. We maintain an Internet website at www.avidxchange.com. Information found on our website or that can be accessed through our website is neither part of this annual report on Form 10-K nor any other report filed with the SEC. You may obtain a copy of our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports free of charge on our Internet website on the earliest practicable date following the filing with the SEC.

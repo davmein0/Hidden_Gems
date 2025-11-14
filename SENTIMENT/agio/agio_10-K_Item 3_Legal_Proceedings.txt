@@ -1,0 +1,4106 @@
+Item 3. Legal Proceedings
+As of December 31, 2024, we were not a party to any material legal or arbitration proceedings. No governmental proceedings are pending or, to our knowledge, contemplated against us. We are not a party to any material proceedings in which any director, member of senior management or affiliate of ours is either a party adverse to us or our subsidiaries or has a material interest adverse to us or our subsidiaries.
+Item 4. Mine Safety Disclosures
+Not applicable.
+65
+Table of Content
+s
+PART II
+Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+Market Information
+Our common stock has been publicly traded on the Nasdaq Global Select Market under the symbol “AGIO” since July 24, 2013. Prior to that time, there was no public market for our common stock.
+Holders
+As of February 7, 2025, there were nine holders of record of our common stock. This number does not include beneficial owners whose shares are held by nominees in street name.
+Dividends
+We have not declared or paid any cash dividends on our capital stock since our inception. We intend to retain future earnings, if any, to finance the operation and expansion of our business and do not anticipate paying any cash dividends to holders of common stock in the foreseeable future.
+Securities Authorized for Issuance under Equity Compensation Plans
+Information about our equity compensation plans is incorporated herein by reference to 
+Item 12, 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+, of this Annual Report on Form 10-K.
+Performance Graph
+The following performance graph and related information shall not be deemed to be “soliciting material” or to be “filed” with the Securities and Exchange Commission, or SEC, for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or the Exchange Act, or otherwise subject to the liabilities under that Section, nor shall such information be incorporated by reference into any future filing under the Exchange Act or the Securities Act of 1933, as amended, or the Securities Act, except to the extent that we specifically incorporate it by reference into such filing.
+The following graph compares the performance of our common stock to the NASDAQ Composite Index and the NASDAQ Biotechnology Index from December 31, 2019 through December 31, 2024. The comparison assumes $100 was invested after the market closed on December 31, 2019 in our common stock and in each of the foregoing indices, and it assumes reinvestment of dividends, if any. The stock price performance included in this graph is not necessarily indicative of future stock price performance.
+66
+Table of Content
+s
+Recent Sales of Unregistered Securities
+None.
+Purchases of Equity Securities by the Issuer or Affiliated Purchasers
+None.
+Item 6. Reserved.
+67
+Table of Content
+s
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+You should read the following discussion and analysis of our financial condition and results of operations together with our consolidated financial statements and the related notes and other financial information included elsewhere in this Annual Report on Form 10-K. Some of the information contained in this discussion and analysis or set forth elsewhere in this Annual Report on Form 10-K, including information with respect to our plans and strategy for our business, includes forward-looking statements that involve risks and uncertainties. You should review "
+Item 1A, Risk Factors
+" of this Annual Report on Form 10-K for a discussion of important factors that could cause actual results to differ materially from the results described in or implied by the forward-looking statements contained in the following discussion and analysis. 
+Overview
+We are a biopharmaceutical company committed to transforming patients’ lives through leadership in the field of cellular metabolism, with the goal of creating differentiated medicines for rare diseases, with a focus on classical hematology. With a history of focused study on cellular metabolism, we have a deep and mature understanding of this biology, which is involved in the healthy functioning of nearly every system in the body. Building on this expertise, these learnings can be rapidly applied to our clinical trials with the goal of developing medicines that can have a significant impact for patients. We accelerate the impact of our portfolio by cultivating connections with patient communities, healthcare professionals, partners and colleagues to discover, develop and deliver potential therapies for rare diseases.
+The lead product candidate in our portfolio, PYRUKYND® (mitapivat), is an activator of both wild-type and mutant pyruvate kinase, or PK, enzymes for the potential treatment of hemolytic anemias. PYRUKYND® is approved for use by the U.S. Food and Drug Administration, or FDA, for the treatment of hemolytic anemia in adults with PK deficiency in the United States and by the European Commission for the treatment of PK deficiency in adult patients in the European Union, or EU. Additionally, we received marketing authorization in Great Britain for PYRUKYND® for the treatment of PK deficiency in adult patients under the European Commission Decision Reliance Procedure. In December 2024, we announced that we submitted a supplemental new drug application, or sNDA, to the FDA for PYRUKYND® for the treatment of adult patients with non-transfusion dependent and transfusion-dependent alpha- or beta-thalassemia, which was accepted with standard review by the FDA and granted a Prescription Drug User Fee Act, or PDUFA, goal date of September 7, 2025. Also in December 2024, we announced that we submitted a marketing authorization application, or MAA, to the European Medicines Agency, or EMA, and regulatory applications to the Kingdom of Saudi Arabia and United Arab Emirates health authorities for PYRUKYND® for the treatment of adult patients with non-transfusion dependent and transfusion-dependent alpha- or beta-thalassemia.
+In addition, we are currently evaluating PYRUKYND® in Phase 3 clinical trials for the treatment of sickle cell disease, or SCD, and in pediatric patients with PK deficiency. We are also developing (i) tebapivat, a novel PK activator, for the potential treatment of lower-risk myelodysplastic syndromes, or LR MDS, and hemolytic anemias; (ii) AG-181, our phenylalanine hydroxylase, or PAH, stabilizer for the potential treatment of phenylketonuria, or PKU; and (iii) AG-236, an siRNA in-licensed from Alnylam Pharmaceuticals, Inc., or Alnylam, targeting the transmembrane serine protease 6, or TMPRSS6 gene for the potential treatment of polycythemia vera, or PV.
+Alnylam License Agreement
+In accordance with the license agreement with Alnylam, in the year ended December 31, 2023, we made an up-front payment to Alnylam and recognized in-process research and development of $17.5 million which was recorded in research and development expense within our consolidated statements of operations and classified as investing activities within our consolidated statements of cash flows. We will also pay Alnylam for certain expenses associated with the development of AG-236, an siRNA targeting the TMPRSS6 gene, and these will be recorded in our consolidated statements of operations as incurred. Additionally, we are responsible to pay up to $130.0 million in potential development and regulatory milestones, in addition to sales milestones as well as tiered royalties on annual net sales, if any, of licensed products, which may be subject to specified reductions and offsets. Because the acquired assets under the license agreement with Alnylam do not meet the definition of a business in accordance with Accounting Standards Codification, or ASC, 805, 
+Business Combinations
+, we accounted for the agreement as an asset acquisition.
+Sale of Oncology Business to Servier Pharmaceuticals, LLC (Servier) and Sale of Contingent Payments
+On March 31, 2021, we completed the sale of our oncology business to Servier Pharmaceuticals, LLC, or Servier, which represented a discontinued operation. The transaction included the sale of our oncology business, including TIBSOVO®, our clinical-stage product candidates vorasidenib, AG-270 and AG-636, and our oncology research programs for a payment of approximately $1.8 billion in cash at the closing, subject to certain adjustments, and a payment of $200.0 million in cash, if, prior to January 1, 2027, vorasidenib is granted new drug application, or NDA, approval from the FDA with an approved label that permits vorasidenib’s use as a single agent for the adjuvant treatment of patients with Grade 2 glioma that have an isocitrate dehydrogenase, or IDH, 1 or 2 mutation (and, to the extent required by such approval, the vorasidenib companion diagnostic test is granted an FDA premarket approval), or the Vorasidenib Milestone Payment, as well as a royalty of 5% of U.S. net sales 
+68
+Table of Content
+s
+of TIBSOVO® from the close of the transaction through loss of exclusivity, and a royalty of 15% of U.S. net sales of vorasidenib from the first commercial sale of vorasidenib through loss of exclusivity, or the Vorasidenib Royalty Rights. The Vorasidenib Milestone Payment, Vorasidenib Royalty Rights and royalty payments related to TIBSOVO® are referred to as contingent payments and recognized as income when realizable. Servier also acquired our co-commercialization rights for Bristol Myers Squibb’s IDHIFA® and the right to receive a $25.0 million potential milestone payment under our prior collaboration agreement with Celgene Corporation, or Celgene, and following the sale Servier agreed to conduct certain clinical development activities within the IDHIFA® development program.
+In October 2022, we sold our rights to future contingent payments associated with the royalty of 5% of U.S. net sales of TIBSOVO® from the close of the transaction through the loss of exclusivity to entities affiliated with Sagard Healthcare Partners, or Sagard, and recognized income of $127.9 million within the gain on sale of contingent payments line item in our consolidated statements of operations for the year ended December 31, 2022.
+In August 2024, the FDA approved vorasidenib for adult and pediatric patients 12 years and older with Grade 2 astrocytoma or oligodendroglioma with a susceptible IDH1 or IDH2 mutation, following surgery including biopsy, sub-total resection, or gross total resection.  In September 2024, we received the Vorasidenib Milestone Payment from Servier and recognized income of $200.0 million within the milestone payment from gain on sale of oncology business line item in our consolidated statements of operations for the year ended December 31, 2024. In May 2024, we entered into a purchase and sale agreement to sell the Vorasidenib Royalty Rights to Royalty Pharma Investments 2019 ICAV, or Royalty Pharma, for $905.0 million in cash, or the Upfront Payment. The sale was contingent upon FDA approval of vorasidenib and other customary closing conditions. 
+Upon consummation of the sale in August 2024, Royalty Pharma acquired 100% of the Vorasidenib Royalty Rights payments made by Servier on account of up to $1.0 billion in U.S. net sales for each calendar year. In addition, any such Vorasidenib Royalty Rights payments made by Servier on account of U.S. net sales in each calendar year in excess of $1.0 billion will be split, with Royalty Pharma having the rights to a 12% earn-out on those excess payments and Agios retaining the rights to a 3% earn-out on those excess payments, or the Retained Earn-Out Rights. As a result of the sale, we recognized income of $889.1 million ($905.0 million net of fees of $15.9 million) within the gain on sale of contingent payments line item in our consolidated statements of operations for the year ended December 31, 2024. Royalty income related to the Retained Earn-Out Rights, if any, will be recognized in the period when realizable. 
+Financial Operations Overview
+General
+Since inception, our operations have primarily focused on organizing and staffing our company, business planning, raising capital, assembling our core capabilities in cellular metabolism and classical hematology, identifying potential product candidates, undertaking preclinical studies, conducting clinical trials, establishing a commercial infrastructure, preparing for and executing on the commercial launch of PYRUKYND® and, prior to the sale of our oncology business to Servier on March 31, 2021, marketing TIBSOVO® and IDHIFA®. Through March 31, 2021, we financed our operations primarily through proceeds from the sale of our royalty rights, commercial sales of TIBSOVO®, funding received from our collaboration agreements, private placements of our preferred stock, our initial public offering of our common stock and concurrent private placement of common stock to an affiliate of Celgene, and our follow-on public offerings. Following the sale of our oncology business to Servier on March 31, 2021, we have financed and expect to continue to finance our operations primarily through cash on hand, potential royalty payments with respect to the Retained Earn-Out Rights, the actual and potential future sales of PYRUKYND® and, potentially, collaborations, strategic alliances, licensing arrangements and other nondilutive strategic transactions. In addition, we may pursue opportunistic debt offerings, and equity or equity-linked offerings.
+Additionally, since inception, we have historically incurred significant operating losses. Our net income for the year ended December 31, 2024 was $673.7 million, our net loss for the year ended December 31, 2023 was $352.1 million and our net loss for the year ended December 31, 2022 was $231.8 million. As of December 31, 2024, we had an accumulated deficit of $148.9 million. The net income we generated in the year ended December 31, 2024 was primarily due to the sale of the Vorasidenib Royalty Rights to Royalty Pharma and our receipt of the Vorasidenib Milestone Payment discussed above in 
+Overview
+. We expect to continue to incur significant expenses and net losses until such time we are able to report profitable results. Our net losses may fluctuate significantly from year to year. We expect that we will continue to incur significant expenses as we continue to advance and expand clinical development and commercialization activities for PYRUKYND®, including with respect to the review by the FDA and other regulatory authorities of our regulatory submissions made, which we announced in December 2024, for the treatment of thalassemia; continue to advance and expand clinical development of tebapivat, our novel PK activator; continue to advance clinical development of AG-181, our PAH stabilizer; continue preclinical development of AG-236, a licensed siRNA development candidate pursuant to our license agreement with Alnylam; expand and protect our intellectual property portfolio, including by in-licensing or acquiring assets for pipeline growth; and hire additional commercial and development personnel.
+69
+Table of Content
+s
+Revenues
+Our wholly owned product, PYRUKYND®, received approval from the FDA on February 17, 2022, for the treatment of hemolytic anemia in adults with PK deficiency in the United States. Upon FDA approval of PYRUKYND® in the United States, we began generating product revenue from sales of PYRUKYND®. We sell PYRUKYND® to a limited number of specialty distributors and specialty pharmacy providers, or collectively, the Customers. These Customers subsequently resell PYRUKYND® to pharmacies or dispense PYRUKYND® directly to patients. In addition to distribution agreements with Customers, we enter into arrangements with healthcare providers and payors that provide for government-mandated and/or privately-negotiated rebates, chargebacks and discounts with respect to the purchase of PYRUKYND®. In July 2024, we entered into a distribution agreement, or the NewBridge Agreement, with NewBridge Pharmaceuticals FZ-LLC, or NewBridge, pursuant to which we granted NewBridge the right to commercialize PYRUKYND® in Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates, or the GCC region. For further discussion of our revenue recognition policy, see 
+Note 2, Summary of Significant Accounting Polices
+ and 
+Note 8, Product Revenue
+, to the consolidated financial statements in this Annual Report on Form 10-K.
+In the future, we expect to continue to generate revenue from product sales. We may also generate revenue from milestone payments, upfront payments or royalties on product sales under collaborations or licensing agreements that we may enter into in the future.
+Cost of Sales
+Cost of sales consists primarily of manufacturing costs for sales of PYRUKYND®. Based on our policy to expense costs associated with the manufacturing of our products prior to regulatory approval, certain of the manufacturing costs associated with product shipments of PYRUKYND® recorded during the years ended December 31, 2024, December 31, 2023 and December 31, 2022 were expensed prior to February 17, 2022, and, therefore, are not included in costs of sales during the years ended December 31, 2024, December 31, 2023 and December 31, 2022. The amounts excluded from cost of sales were not significant during the years ended December 31, 2024, December 31, 2023 and December 31, 2022.
+Inventories are reviewed periodically to identify excess or obsolete inventory based on projected sales activity as well as product shelf-life. Expired inventory is disposed of, and the related costs are recognized as cost of sales in our consolidated statements of operations, when, based on the expiry date, we do not believe we are able to sell the inventory. We have not reserved for excess or obsolete inventory during the years ended December 31, 2024 and December 31, 2023.
+Research and Development Expenses
+Research and development activities are central to our business model. Product candidates in later stages of clinical development generally have higher development costs than those in earlier stages of clinical development, primarily due to the increased size and duration of later-stage clinical trials. We expect research and development costs related to our portfolio to increase as our product candidate development programs progress. However, the successful development of our product candidates is highly uncertain. As such, at this time, we cannot reasonably estimate or know the nature, timing and estimated costs of the efforts that will be necessary to complete the development of and to commercialize these product candidates. We are unable to predict the amount of net cash inflows from PYRUKYND® or any of our product candidates. This is due to the numerous risks and uncertainties associated with developing medicines, including the uncertainty of:
+•
+establishing an appropriate safety profile with an investigational new drug application, or IND, and/or NDA-enabling toxicology and clinical trials;
+•
+successfully enrolling in, and completion of, clinical trials;
+•
+receiving marketing approvals from applicable regulatory authorities;
+•
+establishing compliant commercial manufacturing capabilities or making arrangements with third-party manufacturers;
+•
+obtaining and maintaining patent and trade secret protection and regulatory exclusivity for our product candidates;
+•
+launching commercial sales of the products, if and when approved, in the United States or in other jurisdictions, whether alone or in collaboration with others, including pursuant to the NewBridge Agreement; and
+•
+maintaining an acceptable safety profile of the products following approval.
+A change in the outcome of any of these variables with respect to the development of any of our product candidates would significantly change the costs and timing associated with the development of that product candidate.
+70
+Table of Content
+s
+Research and development expenses consist primarily of costs incurred for our research activities, including our drug discovery efforts, and the development of our product candidates, which include:
+•
+employee-related expenses, including salaries, benefits and stock-based compensation expense;
+•
+expenses incurred under agreements with third parties, including contract research organizations, or CROs, that conduct research and development and both preclinical and clinical activities on our behalf, and the cost of consultants;
+•
+the cost of lab supplies and acquiring, developing and manufacturing preclinical study and clinical trial materials; and
+•
+facilities, depreciation, and other expenses, which include direct and allocated expenses for rent and the maintenance of facilities, insurance and other operating costs.
+The following summarizes our most advanced programs:
+PYRUKYND® (mitapivat): First-in-Class PK Activator
+We are developing PYRUKYND® for the treatment of PK deficiency and other hemolytic anemias such as thalassemia and SCD. PYRUKYND® is an orally available small molecule and a potent activator of the wild-type and mutated PK enzymes.
+PYRUKYND® is approved for use by the FDA for the treatment of hemolytic anemia in adults with PK deficiency in the United States and by the European Commission for the treatment of PK deficiency in adult patients in the EU. Additionally, we received marketing authorization in Great Britain for PYRUKYND® for the treatment of PK deficiency in adult patients under the European Commission Decision Reliance Procedure. In December 2024, we announced that we submitted an sNDA to the FDA for PYRUKYND® for the treatment of adult patients with non-transfusion dependent and transfusion-dependent alpha- or beta-thalassemia, which was accepted with standard review by the FDA and granted a PDUFA goal date of September 7, 2025. Also in December 2024, we announced that we submitted an MAA to the EMA and regulatory applications to the Kingdom of Saudi Arabia and United Arab Emirates health authorities for PYRUKYND® for the treatment of adult patients with non-transfusion dependent and transfusion-dependent alpha- or beta-thalassemia. In addition, we are currently evaluating PYRUKYND® in clinical trials for the treatment of SCD and in pediatric patients with PK deficiency. 
+We have worldwide development and commercial rights to PYRUKYND®.  In July 2024, we entered into a distribution agreement with NewBridge Pharmaceuticals FZ-LLC, or the NewBridge Agreement, pursuant to which we granted NewBridge the right to commercialize PYRUKYND® in the GCC region. We expect to fund the future development and commercialization costs related to this program. PYRUKYND® has been granted orphan drug designation for the treatment of PK deficiency by the FDA and the EMA. Additionally, PYRUKYND® has received orphan drug designation from the FDA for the treatment of thalassemia and SCD, orphan medicinal product designation from the EMA for the treatment of SCD, and breakthrough medicine designation from the Saudi Food and Drug Authority for the treatment of thalassemia.  
+We built our commercial infrastructure to support the commercialization of PYRUKYND® in adult PK deficiency in the United States, and have expanded this infrastructure to support the potential commercial launch of PYRUKYND® in thalassemia in the United States. In connection with our regulatory approvals in the EU and Great Britain, we are currently providing access to PYRUKYND® on a free of charge basis for eligible patients in those jurisdictions through a global managed access program. We provide access to PYRUKYND® for adult patients with PK deficiency in other jurisdictions upon request through the global managed access program, on either a free of charge or for charge basis. Our global managed access program has not had a significant impact on our business, financial condition or results of operations. Beyond the global managed access program, we continue to evaluate options for the commercialization of PYRUKYND® outside of the United States, including through exploring potential partnership opportunities, such as the NewBridge Agreement.
+We are evaluating PYRUKYND® in numerous clinical trials, including the following:
+•
+An extension study evaluating the long-term safety, tolerability and efficacy of treatment with PYRUKYND® in patients from ENERGIZE, our completed phase 3, double-blind, randomized, placebo-controlled multicenter study pivotal trial of PYRUKYND® in adults with non-transfusion-dependent alpha- or beta-thalassemia. We announced topline data for ENERGIZE in January 2024 and a more detailed analysis of the data in June 2024. A total of 194 patients were enrolled in the study, with 130 randomized to PYRUKYND® 100 mg twice-daily, or BID, and 64 randomized to matched placebo. 122 patients (93.8%) in the PYRUKYND® arm and 62 patients (96.9%) in the placebo arm completed the 24-week double-blind period of the study.  The study met the primary endpoint of hemoglobin response, where treatment with PYRUKYND® demonstrated a statistically significant increase in hemoglobin response compared to placebo, as 42.3% of patients in the PYRUKYND® arm achieved a hemoglobin response, compared to 1.6% of patients in the placebo arm (2-sided p<0.0001). Treatment with PYRUKYND® also demonstrated statistically significant improvements compared to placebo for both key secondary endpoints: (i) change from baseline in average Functional Assessment of Chronic Illness Therapy-Fatigue, or FACIT-Fatigue, subscale score from week 12 to week 24 and (ii) 
+71
+Table of Content
+s
+change from baseline in average hemoglobin concentration from week 12 to week 24.  During the 24-week double-blind period, four (3.1%) subjects in the PYRUKYND® arm experienced adverse events, or AEs, leading to discontinuation, and there were no AEs in the placebo arm leading to discontinuation. AEs that led to discontinuation in the PYRUKIND® arm were thrombocytopenia, arthralgia, abdominal distension, and 5 concurrent laboratory adverse events (alanine aminotransferase increase, aspartate aminotransferase increase, blood bilirubin increase, blood LDH increase, and international normalized ratio increase), all in one patient each.     
+•
+An extension study evaluating the long-term safety, tolerability and efficacy of treatment with PYRUKYND® in patients from ENERGIZE-T, our completed phase 3, double-blind, randomized, placebo-controlled multicenter study evaluating the efficacy and safety of PYRUKYND® as a potential treatment for adults with transfusion-dependent alpha- or beta-thalassemia, defined as 6 to 20 red blood cell, or RBC, units transfused and ≤ six-week transfusion-free period during the 24-week period before randomization. The primary endpoint of the trial is percentage of patients with transfusion reduction response, defined as a ≥50% reduction in transfused RBC units with a reduction of ≥2 units of transfused RBCs in any consecutive 12-week period through week 48 compared with baseline. Secondary endpoints include additional transfusion reduction measures and percentage of participants with transfusion-independence. We announced topline data for ENERGIZE-T in June 2024 and a more detailed analysis of the data in December 2024. A total of 258 patients were enrolled in the study, with 171 randomized to PYRUKYND® 100 mg twice-daily and 87 randomized to matched placebo. 155 patients (90.6%) in the PYRUKYND® arm and 83 patients (95.4%) in the placebo arm completed the 48-week double-blind period of the study. The study met the primary endpoint of transfusion reduction response, where treatment with PYRUKYND® demonstrated a statistically significant reduction in transfusion burden compared to placebo, as 30.4% of patients achieved a transfusion reduction response, compared to 12.6% of patients in the placebo arm (2-sided p=0.0003). Treatment with PYRUKYND® also demonstrated a statistically significant reduction in additional measures of transfusion reduction response compared to placebo as assessed by the three key secondary endpoints: (i) ≥50% reduction in transfused RBC units in any consecutive 24-week period through week 48 compared with baseline, (ii) ≥33% reduction in transfused RBC units from week 13 through week 48 compared with baseline, and (iii) ≥50% reduction in transfused RBC units from week 13 through week 48 compared with baseline. In addition, a higher proportion of patients in the PYRUKYND® arm (9.9%) compared to the placebo arm (1.1%) achieved the secondary endpoint of transfusion independence (transfusion-free for ≥8 consecutive weeks through week 48). The proportion of patients with any treatment-emergent adverse events, or TEAEs, was 90.1% in patients on PYRUKYND® and 83.5% in patients on placebo. The most frequent TEAEs that occurred in at least 10% of patients on PYRUKYND® were headache, upper respiratory tract infection, initial insomnia, diarrhea and fatigue. Serious TEAEs were reported in 11.0% and 15.3% of patients on PYRUKYND® and placebo, respectively; 2.3% and 1.2%, respectively, were considered treatment-related. During the 48-week double-blind period, 5.8% of the patients in the PYRUKYND® arm experienced a TEAE leading to discontinuation compared to 1.2% of patients in the placebo arm. The TEAEs leading to discontinuation of PYRUKYND®, each of which occurred in one patient, were diarrhea, paresthesia oral, concurrent anxiety and insomnia, initial insomnia, supraventricular tachycardia, fatigue, hypertransaminasemia, hepatitis C, hepatic cancer, and renal mass. The TEAE that led to discontinuation of the one patient on placebo was blood creatine phosphokinase increase.
+As indicated above, during the double-blind periods of ENERGIZE and ENERGIZE-T, two patients on PYRUKYND® experienced events of hepatocellular injury. In addition, during the open-label extension periods of both trials, a total of three patients experienced events of hepatocellular injury after switching from placebo to PYRUKYND®. All of these events occurred within the first six months of exposure to PYRUKYND® and liver tests improved following discontinuation of PYRUKYND®. 
+Based on the results of the ENERGIZE and ENERGIZE-T trials, in December 2024 we announced that we filed regulatory applications for PYRUKYND® for the treatment of adult patients with non-transfusion-dependent and transfusion-dependent alpha- or beta-thalassemia with the FDA, EMA and Kingdom of Saudi Arabia and United Arab Emirates health authorities and we included in our regulatory applications hepatocellular injury as an important potential risk of PYRUKYND® in patients with thalassemia and proposed monthly monitoring of liver tests for the first six months of treatment with PYRUKYND®.  We updated our PYRUKYND® clinical trial protocols across all indications to incorporate monthly monitoring of liver tests for the first six months of treatment and updated the U.S. Prescribing Information, or USPI, for PYRUKYND® for the treatment of hemolytic anemia in adults with PK deficiency to reflect the aforementioned hepatocellular injury and monitoring.
+•
+RISE UP, a phase 2/3 study evaluating the efficacy and safety of PYRUKYND® in SCD patients who are 16 years of age or older, have had between two and 10 sickle cell pain crises, or SCPCs, in the past 12 months, and have hemoglobin within the range of 5.5 to 10.5 g/dL during screening. We enrolled 79 patients in the phase 2 portion of the trial, with 26 patients in the 50 mg twice daily mitapivat arm, 26 patients in the 100 mg twice daily mitapivat arm and 27 patients in the placebo arm. The primary endpoints of the phase 2 portion of the trial were hemoglobin response, defined as ≥ 1 g/dL increase in average hemoglobin concentration from week 10 to week 12 compared to baseline, and safety.  In June 2023, 
+72
+Table of Content
+s
+we announced the phase 2 portion of this trial had achieved its primary endpoint of hemoglobin response in patients in both the 50 mg and 100 mg twice daily mitapivat arms. 46.2% of patients (n=12) in the 50 mg twice daily mitapivat arm and 50.0% of patients (n=13) in the 100 mg twice daily mitapivat arm achieved a hemoglobin response, compared to 3.7% of patients (n=1) in the placebo arm (2-sided p=0.0003 and 0.0001, respectively). In December 2023, we announced the following additional results of the phase 2 portion of the trial: (i) the least-squares mean (95% confidence interval) for average change from baseline in hemoglobin levels, from week 10 through week 12, for patients in the 50 mg twice daily mitapivat, 100 mg twice daily mitapivat, and placebo arms, respectively, was 1.11 (0.77, 1.45) g/dL, 1.13 (0.79, 1.47) g/dL, and 0.05 (−0.28, 0.39) g/dL; (ii) we observed improvements in annualized rates of SCPCs as the annualized rate of SCPCs (95% confidence interval) for patients in the 50 mg twice daily and 100 mg twice daily mitapivat arms, respectively, was 0.83 (0.34, 1.99) and 0.51 (0.16, 1.59), compared to 1.71 (0.95, 3.08) for patients in the placebo arm; (iii) we observed improvement in patient-reported fatigue scores in the 50 mg twice daily mitapivat arm compared to the placebo arm, and the least-squares mean (95% confidence interval) for average changes from baseline in patient-reported fatigue score, from week 10 through week 12, for patients in the 50 mg twice daily mitapivat, 100 mg twice daily mitapivat, and placebo arms, respectively, was −3.80 (−7.16, −0.45), −0.10 (−3.27, 3.08), and −0.17 (−3.40, 3.07). The safety profile for mitapivat observed in the phase 2 portion of the trial was generally consistent with previously reported data in other studies of SCD and other hemolytic anemias. The most common TEAEs in the 50 mg BID, 100 mg BID, and placebo arms, respectively, were: headache (n=6, 6, 7), arthralgia (n=3, 5, 9), dysmenorrhea (n=0, 3, 0), pain (n=3, 3, 2), pain in extremity (n=1, 3, 6), back pain (n=4, 2, 3), nausea (n=1, 2, 4), fatigue (n=4, 1, 5), and influenza-like illness (n=1, 1, 3). There were no serious TEAEs attributed to mitapivat and there were no AEs leading to drug reduction, discontinuation, interruption or death in either the mitapivat or the placebo arms. Of the 79 patients enrolled in the study, 73 continued into the Phase 2 open-label extension period. In October 2023, we enrolled the first patient in the phase 3 portion of this trial and we have since enrolled over 200 patients worldwide. The phase 3 portion includes a 52-week randomized, placebo-controlled period in which participants will be randomized in a 2:1 ratio to receive the recommended (100 mg twice daily) PYRUKYND® dose level or the placebo. The primary endpoints are hemoglobin response, defined as ≥1 g/dL increase in average hemoglobin from week 24 through week 52 compared to baseline, and annualized rate of SCPCs. The secondary endpoints include additional clinical efficacy measures related to anemia, hemolysis, erythropoiesis, patient-reported fatigue and pain, annualized frequency of hospitalizations for SCPCs, and change from baseline in six minute walk test. Participants who complete either the phase 2 or phase 3 portion will have the option to move into a 216-week open-label extension period to continue to receive PYRUKYND®. We have completed enrollment and expect to announce topline data for this trial in late 2025, with a potential U.S. commercial launch in 2026, if approved.
+•
+ACTIVATE-kids and ACTIVATE-kidsT, double-blind phase 3 studies evaluating the efficacy and safety of PYRUKYND® as a potential treatment for PK deficiency in not regularly transfused and regularly transfused patients between one and 18 years old, respectively. 
+A total of 49 patients were enrolled in ACTIVATE-kidsT, with 32 randomized to mitapivat twice-daily and 17 randomized to matched placebo. 30 patients (93.8%) in the mitapivat arm and 16 (94.1%) in the placebo arm completed the 32-week double-blind period of the study. The primary endpoint of ACTIVATE-kidsT is transfusion reduction response, defined as ≥33% reduction in total RBC transfusion volume from week 9 through week 32 of the double-blind period. We announced topline data for ACTIVATE-kidsT in August 2024. Using Bayesian methodology, the prespecified statistical criterion for the primary endpoint in ACTIVATE-kidsT was not met using low or moderate borrowing of data from the ACTIVATE-T study in adults. In the study, 28.1% of patients in the mitapivat arm achieved the primary endpoint of transfusion reduction response, compared to 11.8% of patients in the placebo arm. Transfusion-free response and normal hemoglobin response were secondary endpoints in this study and only observed in patients in the mitapivat arm. In the 32-week double-blind treatment period, mitapivat was generally safe and well-tolerated, with safety results consistent with the safety profile for mitapivat previously observed in adults with PK deficiency who are regularly transfused.
+A total of 30 patients were enrolled in ACTIVATE-kids, with 19 randomized to mitapivat twice-daily and 11 randomized to matched placebo. All patients in both treatment arms completed the 20-week double-blind period of the study. The primary endpoint of ACTIVATE-kids is percentage of patients with hemoglobin response, defined as ≥1.5 g/dL increase in hemoglobin concentration from baseline that is sustained at two or more scheduled assessments at weeks 12, 16, and 20 during the double-blind period. We announced topline data for ACTIVATE-kids in February 2025. Using Bayesian methodology, the prespecified statistical criterion for the primary endpoint in ACTIVATE-kids was met using a range of relative borrowing from the adult ACTIVATE study, for all possible borrowing weights (ranging from 0 to 1). In addition, the pre-specified supportive analysis based on traditional methodology comparing the hemoglobin response rate for mitapivat versus placebo provided further evidence that the primary endpoint was met. There were 31.6% of patients in the mitapivat arm achieving a hemoglobin response compared to 0% of patients in the placebo arm; the 95% confidence interval for the difference in hemoglobin response rates between mitapivat and placebo was >0 (95% CI=10.8% to 52.7%). In addition, improvements in changes from baseline for markers of hemolysis (indirect bilirubin, 
+73
+Table of Content
+s
+lactate dehydrogenase and haptoglobin) were observed in the mitapivat arm compared to the placebo arm. In the 20-week double-blind period of the study, a similar proportion of patients had AEs in the mitapivat and placebo arms and there were no discontinuations of study treatment due to AEs or for any reason. The safety results from the trial were consistent with the safety profile for mitapivat previously observed for adult patients with PK deficiency who are not regularly transfused.
+•
+An extension study evaluating the long-term safety, tolerability and efficacy of treatment with PYRUKYND® in patients from ACTIVATE and ACTIVATE-T, our completed pivotal trials of PYRUKYND® in not regularly transfused and regularly transfused adult patients with PK deficiency. 
+•
+An extension study evaluating the long-term safety, tolerability and efficacy of treatment with PYRUKYND® in patients from DRIVE PK, our completed global phase 2, first-in-patient, open-label safety and efficacy clinical trial of PYRUKYND® in adult, not regularly transfused patients with PK deficiency. 
+Tebapivat: Novel PK Activator
+We are developing tebapivat, a novel PK activator for the potential treatment of LR MDS and hemolytic anemias. Tebapivat has been granted orphan drug designation for the treatment of MDS by the FDA. 
+We have completed a phase 1 clinical trial evaluating tebapivat in healthy volunteers and patients with SCD, and we expect to dose the first patient in a phase 2 clinical trial of tebapivat in adult patients with SCD in mid-2025.
+We also initiated a phase 2a clinical trial of tebapivat in adults with LR MDS in the third quarter of 2022, and the trial has completed enrollment with 22 patients, including 12 patients classified as non-transfused and 10 patients classified as low transfusion burden. Patients received 5 mg of tebapivat once daily for up to 16 weeks. The two primary endpoints of the trial were transfusion independence (for patients classified as low transfusion burden), defined as transfusion-free for ≥ eight consecutive weeks during the 16-week treatment period, and hemoglobin response, defined as a ≥ 1.5 g/dL increase from baseline in the average hemoglobin concentration measured from week 8 through week 16.
+
+In November 2023, we announced that we achieved clinical proof-of-concept in the phase 2a portion of the trial. We observed that four of the 10 patients with low transfusion burden achieved the transfusion independence endpoint, and one of the 22 patients achieved the hemoglobin response endpoint in the 16-week treatment period. The safety profile observed was consistent with data reported in the healthy volunteer study of tebapivat. 19 patients elected to enroll in the extension period for up to 156 weeks. We evaluated the phase 2a trial results and assessed the impact of those results on the phase 2b portion of the protocol, and based on the data generated in the phase 2a portion of the trial, we plan to increase the dosage levels evaluated in the phase 2b portion of the trial, which we initiated in the third quarter of 2024. We expect to complete enrollment in this phase 2b trial in late 2025.
+Other Programs
+In addition to the aforementioned development programs, we are developing AG-181, a PAH stabilizer for the potential treatment of PKU, for which we filed an IND in December 2023. We initiated a phase 1 clinical trial of AG-181 in healthy volunteers in the first quarter of 2024. Also, in July 2023, we entered into a license agreement with Alnylam for the development and commercialization of products containing or comprised of an siRNA preclinical development candidate discovered by Alnylam and targeting the TMPRSS6 gene, and we have begun preclinical development of a product candidate, AG-236, for the potential treatment of patients with PV. We expect to file an investigational new drug application, or IND, with the FDA for AG-236 for the treatment of PV in mid-2025.
+Selling, General and Administrative Expenses
+Selling, general and administrative expenses consist primarily of salaries and other related costs, including stock-based compensation, for personnel in executive, finance, business development, commercial, legal, information technology and human resources functions. Other significant costs include facility-related costs not otherwise included in research and development expenses, legal fees relating to patent and corporate matters, and fees for accounting and consulting services.
+We anticipate that our selling, general and administrative expenses will increase in the future to support continued research and development activities, and ongoing and future commercialization activities related to our portfolio, including the ongoing commercialization of PYRUKYND® and any of our other product candidates, which may include the hiring of additional personnel. 
+Critical Accounting Policies and Significant Judgments and Estimates
+Our management’s discussion and analysis of our financial condition and results of operations are based on our consolidated financial statements, which we have prepared in accordance with accounting principles generally accepted in the United States. The preparation of these consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the financial 
+74
+Table of Content
+s
+statements, as well as the reported amounts of revenue and expenses during the reporting periods. On an ongoing basis, we evaluate our estimates and judgments. We base our estimates on historical experience and various other factors that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions.
+While our significant accounting policies are described in more detail in the notes to our consolidated financial statements included in this Annual Report on Form 10-K, we believe that the following accounting policies are the most critical in fully understanding and evaluating our financial condition and results of operations and are policies that require a significant level of judgment and estimates.
+Revenue recognition
+Under ASC 606, 
+Revenue from Contracts with Customers
+, or ASC 606, revenue is recognized when the customer obtains control of promised goods or services, in an amount that reflects the consideration that we expect to receive in exchange for those goods or services. To determine revenue recognition for arrangements that have been determined to be within the scope of ASC 606, we perform the following five steps: (i) identify the contract(s) with a customer; (ii) identify the performance obligations in the contract; (iii) determine the transaction price; (iv) allocate the transaction price to the performance obligations in the contract; and (v) recognize revenue when (or as) we satisfy a performance obligation. We only apply the five-step model to contracts when it is probable that we will collect the consideration we are entitled to in exchange for the goods or services we transfer to the customer.
+This standard applies to all contracts with customers, except for contracts that are within the scope of other standards, such as leases, insurance, collaboration arrangements and financial instruments.
+Once the contract is determined to be within the scope of ASC 606, we assess the goods or services promised within each contract and determine those that are performance obligations, and assess whether each promised good or service is distinct. We will then recognize as revenue the amount of the transaction price that is allocated to the respective performance obligation when (or as) the performance obligation is satisfied.
+Product Revenue
+We generate product revenue from sales of PYRUKYND® to a limited number of specialty distributors and specialty pharmacy providers, or collectively, the Customers. These Customers subsequently resell PYRUKYND® to pharmacies or dispense PYRUKYND® directly to patients. In addition to distribution agreements with Customers, we enter into arrangements with healthcare providers and payors that provide for government-mandated and/or privately-negotiated rebates, chargebacks and discounts with respect to the purchase of PYRUKYND®.
+The performance obligation related to the sale of PYRUKYND® is satisfied and revenue is recognized when the Customer obtains control of the product, which occurs at a point in time, typically upon delivery to the Customer.
+Revenues from product sales are recorded at the net sales price, or transaction price, which includes estimates of variable consideration for which reserves are established and result from contractual adjustments, government rebates, returns and other allowances that are offered within the contracts with our Customers, healthcare providers, payors and other indirect customers relating to the sale of our products.
+Contractual Adjustments
+. We generally provide Customers with discounts, including prompt pay discounts, and allowances that are explicitly stated in the contracts and are recorded as a reduction of revenue in the period the related product revenue is recognized. In addition, we receive sales order management, data and distribution services from certain Customers.
+Chargebacks and discounts represent the estimated obligations resulting from contractual commitments to sell products to qualified healthcare providers at prices lower than the list prices charged to Customers who directly purchase the product from us. Customers charge us for the difference between what they pay for the product and the ultimate selling price to the qualified healthcare providers. These reserves are estimated using the expected value method, based upon a range of possible outcomes that are probability-weighted for the estimated channel mix and are established in the same period that the related revenue is recognized, resulting in a reduction of product revenue.
+Government Rebates
+. Government rebates include Medicare, TriCare, and Medicaid rebates, which we estimate using the expected value method, based upon a range of possible outcomes that are probability-weighted for the estimated payor mix. These reserves are recorded in the same period the related revenue is recognized, resulting in a reduction of product revenue. For Medicare, we also estimate the number of patients in the prescription drug coverage gap for whom we will owe an additional liability under the Medicare Part D program.
+Returns
+. We estimate the amount of product sales that may be returned by Customers and record this estimate as a reduction of revenue in the period the related product revenue is recognized. We currently estimate product return 
+75
+Table of Content
+s
+liabilities using the expected value method, based on available industry data, including our visibility into the inventory remaining in the distribution channel.
+Accrued Research and Development Expenses
+As part of the process of preparing our consolidated financial statements, we are required to estimate our accrued expenses. This process involves reviewing quotations and contracts, identifying services that have been performed on our behalf and estimating the level of service performed and the associated cost incurred for the service when we have not yet been invoiced or otherwise notified of the actual cost. Certain service providers invoice us in arrears for services performed or when contractual milestones are met. We make estimates of our accrued expenses as of each balance sheet date in our financial statements based on facts and circumstances known to us at that time. We periodically confirm the accuracy of our estimates with the service providers and make adjustments, if necessary. Examples of estimated accrued research and development expenses include fees paid to: (i) CROs and other third parties in connection with clinical trials and preclinical development activities; (ii) investigative sites in connection with clinical trials; and (iii) third parties related to product manufacturing, development and distribution of clinical supplies.
+We base our expenses related to CROs on our estimates of the services received and efforts expended pursuant to quotes and contracts with CROs that conduct research and development on our behalf. The financial terms of these agreements are subject to negotiation, vary from contract to contract and may result in uneven payment flows. There may be instances in which payments made to our vendors will exceed the level of services provided and result in a prepayment of the research and development expense. In accruing service fees, we estimate the time period over which services will be performed and the level of effort to be expended in each period. If the actual timing of the performance of services or the level of effort varies from our estimate, we adjust the accrual or prepaid accordingly. Although we do not expect our estimates to be materially different from amounts actually incurred, our understanding of the status and timing of services performed relative to the actual status and timing of services performed may vary and could result in us reporting amounts that are too high or too low in any particular period.
+Stock-based Compensation
+We account for stock-based compensation awards in accordance with ASC 718, 
+Compensation –Stock Compensation
+, or ASC 718. For stock-based awards granted to employees, non-employees and members of the board of directors for their services and for participation in our employee stock purchase plan, we estimate the grant date fair value of each option award using the Black-Scholes option-pricing model. The use of the Black-Scholes option-pricing model requires us to make assumptions with respect to the expected term of the option, the expected volatility of the common stock consistent with the expected life of the option, risk-free interest rates and expected dividend yields of the common stock.
+Expected term. 
+We use the “simplified method” as prescribed by the SEC Staff Accounting Bulletin No. 107, 
+Share Based Payments
+, to estimate the expected term of stock option grants. Under this approach, the weighted-average expected life is presumed to be the average of the contractual term of ten years and the weighted-average vesting term of the stock options, taking into consideration multiple vesting tranches. We utilize this method due to the plain-vanilla nature of our share-based awards. 
+Volatility. 
+The expected volatility has been determined using Agios' historical volatilities for a period equal to the expected term of the option grant.
+Risk-free rate. 
+The risk-free rate is based on the yield curve of U.S. Treasury securities with periods commensurate with the expected term of the options being valued.
+Dividends. 
+We have never paid, and do not anticipate paying, any cash dividends in the foreseeable future, and, therefore, use an expected dividend yield of zero in the option-pricing model. 
+Forfeitures. 
+We account for forfeitures as they occur and, therefore, do not estimate forfeitures.
+For awards subject to service-based vesting conditions, we recognize stock-based compensation expense equal to the grant date fair value of stock options on a straight-line basis over the requisite service period. For awards subject to performance-based vesting conditions, we recognize stock-based compensation expense if the performance condition is considered probable of achievement using management’s best estimates.
+76
+Table of Content
+s
+Results of Operations
+Comparison of years ended December 31, 2024, 2023 and 2022
+Revenues
+(In thousands)
+2024
+2023
+2022
+Revenues:
+Product revenue, net
+$
+36,498 
+$
+26,823 
+$
+11,740 
+Milestone revenue
+— 
+— 
+2,500 
+Total revenue
+$
+36,498 
+$
+26,823 
+$
+14,240 
+Total Revenue – 2024 vs. 2023
+ – The increase in total revenue of $9.7 million in 2024 compared to 2023 was due to increased volume associated with PYRUKYND®.
+Total Revenue – 2023 vs. 2022
+ – The increase in total revenue of $12.6 million in 2023 compared to 2022 was due to increased product revenue associated with PYRUKYND®, which was approved by the FDA in February 2022, partially offset by revenue recognized in 2022 associated with the licensing of intellectual property for our Friedreich's Ataxia preclinical program.
+Total Operating Expenses
+(In thousands)
+2024
+2023
+2022
+Operating expenses
+Cost of sales
+$
+4,165 
+$
+2,881 
+$
+1,704 
+Research and development
+301,286 
+295,526 
+279,910 
+Selling, general and administrative
+156,784 
+119,903 
+121,673 
+Total Operating Expenses
+$
+462,235 
+$
+418,310 
+$
+403,287 
+Total Operating Expenses – 2024 vs. 2023 
+– The increase in total operating expenses of $43.9 million in 2024 compared to 2023 was primarily due to an increase of $36.9 million in selling, general and administrative expenses, driven by an increase in commercial-related activities as we prepare for the potential approval of PYRUKYND® in thalassemia, and an increase of $5.8 million in research and development expenses, which is described below under Research and Development Expenses.
+Total Operating Expenses – 2023 vs 2022 
+– The increase in total operating expenses of $15.0 million in 2023 compared to 2022 was primarily due to an increase of $15.6 million in research and development expenses, which is described below under Research and Development Expenses. 
+Research and Development Expenses
+Our research and development expenses, by major program, are outlined in the table below: 
+(In thousands)
+2024
+2023
+2022
+PK activator (PYRUKYND®)
+$
+112,720 
+$
+101,322 
+$
+83,271 
+Novel PK activator (tebapivat)
+14,544 
+18,267 
+15,747 
+In-process research and development
+— 
+17,500 
+— 
+Other research and platform programs
+20,730 
+11,492 
+26,837 
+Total direct research and development expenses
+147,994 
+148,581 
+125,855 
+Compensation and related expenses
+114,618 
+108,484 
+109,248 
+Facilities and IT related expenses & other
+38,674 
+38,461 
+43,290 
+Other expenses - transition services
+— 
+— 
+1,517 
+Total indirect research and development expenses
+153,292 
+146,945 
+154,055 
+Total research and development expense
+$
+301,286 
+$
+295,526 
+$
+279,910 
+Total Research and Development Expenses – 2024 vs. 2023 
+– The increase in research and development expenses of $5.8 million in 2024 compared to 2023 was due to a $6.3 million increase in our indirect expenses, partially offset by a $0.6 million decrease in our direct expenses. 
+The increase in indirect expenses was primarily due to a 
+$6.1 million
+ increase in compensation and related expenses 
+due to an increase in workforce related expenses. The decrease in direct expenses was due to the $17.5 million up-front payment in 2023 associated with the Alnylam license agreement discussed above under Overview 
+77
+Table of Content
+s
+and a decrease of $3.7 million
+
+in tebapivat costs due to decreased costs associated with clinical trials of tebapivat in patients with SCD and MDS, offset by an $11.4 million increase in PYRUKYND® costs and a $9.2 million increase in other research and platform programs. The increase in PYRUKYND® costs was primarily due to increased process development expenses and increased costs associated with clinical trials for patients with SCD, partially offset by lower costs associated with the phase 3 clinical trials of PYRUKYND® in patients with thalassemia, ENERGIZE and ENERGIZE-T. 
+The increase in other research and platform programs was primarily 
+a result of costs associated with AG-236, the in-licensed siRNA TMPRSS6 program for PV.
+Total Research and Development Expenses – 2023 vs 2022 
+– The increase in research and development expenses of $15.6 million in 2023 compared to 2022 was due to a $22.7 million increase in our direct expense offset by a $7.1 million decrease in our indirect expenses. The increase in direct expenses was primarily due to a $18.1 million increase in PYRUKYND® costs and in-process research and development from the $17.5 million up-front payment associated with the license agreement with Alnylam discussed above under Overview, offset by a $15.3 million decrease in other research and platform programs. The increase in PYRUKYND® costs was primarily due to increased costs for the phase 3 trials of PYRUKYND® in patients with thalassemia, ENERGIZE and ENERGIZE-T, and increased process development and medical affairs expenses. 
+The decrease in other research and platform programs was primarily due to
+ our decision to evolve our approach to exploratory research and drug discovery to focus on our existing late-lead optimization programs. 
+The decrease in indirect expenses was primarily due to a 
+$4.8 million
+ decrease in facilities and IT related expenses & other 
+due to a reduction in facility expenses associated with the evolution of our research organization, and the $1.5 million of reimbursable transition related services we provided to Servier in 2022 related to the sale of the oncology business for discovery, clinical development, technical operations, and related activities, which were completed during the three months ended March 31, 2022.
+Other Income and Expense
+(In thousands)
+2024
+2023
+2022
+Gain on sale of contingent payments
+$
+889,136 
+$
+— 
+$
+127,853 
+Milestone payment from gain on sale of oncology business
+200,000 
+— 
+— 
+Royalty income from gain on sale of oncology business
+— 
+— 
+9,851 
+Interest income, net
+48,083 
+33,344 
+12,793 
+Other income, net
+6,487 
+6,055 
+6,749 
+Other Income and Expense 
+–
+ 2024 vs. 2023 
+– The increase in gain on sale of contingent payments in 2024 compared to 2023 was due to the sale of the Vorasidenib Royalty Rights in 2024 discussed above in 
+O
+verview
+. The increase in milestone payment from gain on sale of oncology business was due to the receipt of the Vorasidenib Milestone Payment in 2024 as discussed above in 
+Overview
+. The $14.7 million increase in interest income, net in 2024 compared to 2023 is primarily attributable to increased return on our investments.
+Other Income and Expense 
+–
+ 2023 vs 2022 
+– The decrease in gain on sale of contingent payments and royalty income from gain on sale of oncology business in 2023 compared to 2022 was due to the sale to Sagard in the fourth quarter of 2022 of our rights to future contingent payments associated with royalties on U.S. next sales of TIBSOVO®. The $20.6 million increase in interest income, net in 2023 compared to 2022 is primarily attributable to an increase in interest rates. The $0.7 million decrease in other income, net in 2023 compared to 2022 primarily related to approximately $2.6 million of reimbursable transition related services and fees for the sale of the oncology business in 2022, partially offset by sublease income of $6.1 million in 2023 compared to $4.1 million in 2022.
+Net Income (Loss)
+(In thousands)
+2024
+2023
+2022
+Net income (loss) before taxes
+$
+717,969 
+$
+(352,088)
+$
+(231,801)
+Income tax expense
+44,244 
+— 
+— 
+Net income (loss)
+673,725 
+(352,088)
+(231,801)
+Net Income (Loss) – 2024 vs 2023 
+– The increase in net income in 2024 compared to 2023 was primarily driven by the sale of the Vorasidenib Royalty Rights in 2024 discussed above in 
+Overview
+ and the receipt of the Vorasidenib Milestone Payment in  2024 discussed above in 
+Overview
+, partially offset by the increase in income tax expense as a result of the income related to the sale of the Vorasidenib Royalty Rights and the receipt of the Vorasidenib Milestone Payment. 
+Net Income (Loss) – 2023 vs 2022 
+– The $120.3 million increase in net loss in 2023 compared to 2022 was primarily driven by the gain on sale of contingent payments in 2022 described above in Other Income and Expense, higher research and development expenses discussed above under Research and Development Expenses, which includes the $17.5 million up-front 
+78
+Table of Content
+s
+payment associated with the license agreement with Alnylam discussed above under Overview, and the decrease in royalty income from gain on sale of oncology business described above in Other Income and Expense. These were partially offset by the increase in interest income, net discussed above in Other Income and Expense and the increase in revenue discussed above under Revenues.
+Liquidity and Capital Resources
+Sources of Liquidity
+Since our inception, and through March 31, 2021, we financed our operations primarily through proceeds from the sale of our royalty rights, commercial sales of TIBSOVO®, funding received from our collaboration agreements, private placements of our preferred stock, our initial public offering of our common stock and concurrent private placement of common stock to an affiliate of Celgene, and our follow-on public offerings. Following the sale of our oncology business to Servier on March 31, 2021, we have financed and expect to continue to finance our operations primarily through cash on hand, potential royalty payments with respect to the Retained Earn-Out Rights, the actual and potential future sales of PYRUKYND® and, potentially, collaborations, strategic alliances, licensing arrangements and other nondilutive strategic transactions. In addition, we may pursue opportunistic debt offerings, and equity or equity-linked offerings.
+On March 31, 2021, we completed the sale of our oncology business to Servier. The transaction included the sale of our oncology business, including TIBSOVO®, our clinical-stage product candidates vorasidenib, AG-270 and AG-636, and our oncology research programs for a payment of approximately $1.8 billion in cash at the closing, subject to certain adjustments, and the right to the Vorasidenib Milestone Payment, as well as a royalty of 5% of U.S. net sales of TIBSOVO® from the close of the transaction through loss of exclusivity, and the Vorasidenib Royalty Rights. The Vorasidenib Milestone Payment, Vorasidenib Royalty Rights and royalty payments related to TIBSOVO® are referred to as contingent payments and recognized as income when realizable. Servier a
+lso acquired our co-commercialization rights for Bristol Myers Squibb's IDHIFA® and the right to receive a $25.0 million potential milestone payment under our prior collaboration agreement with Celgene, and following the sale Servier has agreed to conduct certain clinical development 
+activities
+ within the IDHIFA® development progra
+m. As discussed in 
+Note 1, 
+Nature of  Business
+
+to the consolidated financial statements in this Annual Report on Form 10-K, in October 2022, we sold our rights to the royalty on U.S. net sales of TIBSOVO® to Sagard for $131.8 million, but we retained our rights to the Vorasidenib Milestone Payment and Vorasidenib Royalty Rights. 
+In August 2024, the FDA approved vorasidenib for adult and pediatric patients 12 years and older with Grade 2 astrocytoma or oligodendroglioma with a susceptible IDH1 or IDH2 mutation, following surgery including biopsy, sub-total resection, or gross total resection.  In September 2024, we received the Vorasidenib Milestone Payment from Servier and recognized income of $200.0 million within the milestone payment from gain on sale of oncology business line item in our consolidated statements of operations for the year ended December 31, 2024. In May 2024, we entered into a purchase and sale agreement to sell the Vorasidenib Royalty Rights to Royalty Pharma Investments 2019 ICAV, or Royalty Pharma, for $905.0 million in cash, or the Upfront Payment. The sale was contingent upon FDA approval of vorasidenib and other customary closing conditions. 
+Upon consummation of the sale in August 2024, Royalty Pharma acquired 100% of the Vorasidenib Royalty Rights payments made by Servier on account of up to $1.0 billion in U.S. net sales for each calendar year. In addition, any such Vorasidenib Royalty Rights payments made by Servier on account of U.S. net sales in each calendar year in excess of $1.0 billion will be split, with Royalty Pharma having the rights to a 12% earn-out on those excess payments and Agios retaining the rights to a 3% earn-out on those excess payments, or the Retained Earn-Out Rights. As a result of the sale, we recognized income of $889.1 million ($905.0 million net of fees of $15.9 million) within the gain on sale of contingent payments line item in our consolidated statements of operations for the year ended December 31, 2024. Royalty income related to the Retained Earn-Out Rights, if any, will be recognized in the period when realizable. 
+Our cash, cash equivalents and marketable securities balance was $1.5 billion at December 31, 2024. The Retained Earn-Out Rights discussed above are our only committed potential external sources of funds. We cannot predict what success, if any, Servier may have in the United States with respect to the sale of vorasidenib, and consequently, we cannot estimate the amount of payments, if any, we may receive on account of the Retained Earn-Out Rights.
+79
+Table of Content
+s
+Cash Flows
+The following table provides information regarding our cash flows for the years ended December 31, 2024, 2023 and 2022:
+(In thousands) 
+2024
+2023
+2022
+Net cash used in operating activities
+$
+(389,841)
+$
+(296,062)
+$
+(309,478)
+Net cash provided by investing activities
+363,441 
+239,575 
+243,261 
+Net cash provided by financing activities
+14,442 
+5,433 
+2,350 
+Net change in cash and cash equivalents
+$
+(11,958)
+$
+(51,054)
+$
+(63,867)
+Net cash used in operating activities
+Cash used in operating activities of $389.8 million during the year ended December 31, 2024 was primarily due to operating expenses driven by research and development costs described above under Research and Development Expenses, partially offset by cash received related to interest income of $43.5 million and cash received from product revenues of $37.8 million.
+Cash used in operating activities of $296.1 million during the year ended December 31, 2023 was primarily due to operating expenses driven by research and development costs described above under Research and Development Expenses, partially offset by cash received related to interest income of $31.2 million and cash received from revenues of $28.6 million.
+Cash used in operating activities of $309.5 million during the year ended December 31, 2022 was primarily due to operating expenses driven by research and development costs described above under Research and Development Expenses, partially offset by cash received from revenues of $13.3 million, cash received related to interest income of $11.6 million and cash received from royalties on U.S. net sales of TIBSOVO® of $8.6 million.
+Net cash provided by investing activities
+Cash provided by investing activities of $363.4 million during the year ended December 31, 2024 was primarily due to the proceeds from the Upfront Payment from Royalty Pharma and the Vorasidenib Milestone Payment from Servier, partially offset by higher purchases of marketable securities than proceeds from maturities and sales of marketable securities as a result of the proceeds from the Upfront Payment and the Vorasidenib Milestone Payment.
+The cash provided by investing activities for the year ended December 31, 2023 was primarily due to higher proceeds from maturities and sales of marketable securities than purchases of marketable securities, partially offset by the $17.5 million up-front payment associated with the Alnylam license agreement discussed above under Overview.
+The cash provided by investing activities for the year ended December 31, 2022 was primarily due to cash received of $131.8 million from the sale of future contingent payments described above in Other Income and Expense and higher proceeds from maturities and sales of marketable securities than purchases of marketable securities.
+Net cash provided by financing activities
+The cash provided by financing activities for the year ended December 31, 2024 was due to $14.4 million of proceeds received from stock option exercises and purchases made pursuant to our employee stock purchase plan.
+The cash provided by financing activities for the year ended December 31, 2023 was due to $5.4 million of proceeds received from stock option exercises and purchases made pursuant to our employee stock purchase plan.
+The cash provided by financing activities for the year ended December 31, 2022 was primarily due to $2.7 million of proceeds received from stock option exercises and purchases made pursuant to our employee stock purchase plan.
+Funding Requirements
+We expect our expenses to increase as we continue the research, development and clinical trials of, seek marketing approvals for, and commercialize our product candidates in our portfolio, including as we continue to commercialize PYRUKYND®. If we obtain additional marketing approvals for PYRUKYND® in thalassemia or in other indications, or outside of the United States or for any of our product candidates, we expect to incur significant commercialization expenses related to product sales, marketing, manufacturing and distribution.
+We expect that our existing cash, cash equivalents and marketable securities as of December 31, 2024, together with anticipated product revenue and interest income, will provide the financial independence to prepare for potential PYRUKYND® commercial launches in thalassemia and SCD, advance our existing programs, and opportunistically expand our pipeline through both internally and externally discovered assets. Our expectations regarding our long-term funding requirements are 
+80
+Table of Content
+s
+based on assumptions that may prove to be wrong, and we may need additional capital resources to fund our operating plans and capital expenditure requirements.
+Our future capital requirements will depend on many factors, including:
+•
+the amount and timing of future revenue received from commercial sales of PYRUKYND® or any of our product candidates for which we may receive marketing approval;
+•
+the amount of payments, if any, we may receive on account of the Retained Earn-Out Rights;
+•
+the costs and timing of our ongoing and future commercialization activities, including product manufacturing, sales, marketing and distribution for PYRUKYND® in the approved jurisdictions and for any product candidate for which we may receive approval; 
+•
+the scope, progress, results and costs of preclinical development, laboratory testing and clinical trials for our product candidates;
+•
+the costs associated with in-licensing or acquiring assets for pipeline growth, including the amount and timing of future milestone and royalty payments potentially payable to Alnylam pursuant to the license agreement;
+•
+the costs, timing and outcome of regulatory review of our product candidates, including with respect to regulatory submissions for PYRUKYND® for the treatment of thalassemia;
+•
+the costs of preparing, filing and prosecuting patent applications, maintaining and enforcing our intellectual property rights and defending intellectual property-related claims;
+•
+our ability to establish and maintain collaborations on favorable terms, if at all;
+•
+our ability to successfully execute on our strategic plans; 
+•
+operational delays due to public health epidemics; and
+•
+operational delays, disruptions and/or increased costs associated with global economic and political developments, rising global energy prices or energy shortages or rationing.
+Until such time, if ever, as we can generate substantial product revenue, we expect to finance our cash needs primarily through cash on hand, potential royalty payments with respect to the Retained Earn-Out Rights, the actual and potential future sales of PYRUKYND® and, potentially, collaborations, strategic alliances, licensing arrangements and other nondilutive strategic transactions. In addition, we may pursue opportunistic debt offerings, and equity or equity-linked offerings. We do not have any committed external source of funds other than the Retained Earn-Out Rights. To the extent that we raise additional capital through the sale of equity or convertible debt securities, the ownership interest of our stockholders will be diluted, and the terms of these securities may include liquidation or other preferences that adversely affect the rights of our common stockholders. Debt financing, if available, may involve agreements that include covenants limiting or restricting our ability to take specific actions, such as incurring additional debt, selling or licensing our assets, making capital expenditures or declaring dividends.
+If we raise funds through collaborations, strategic alliances or licensing arrangements with third parties, we may have to relinquish valuable rights to our technologies, future revenue streams, research programs or product candidates, or grant licenses on terms that may not be favorable to us. If we are unable to raise additional funds through equity or debt financings when needed or on attractive terms, we may be required to delay, limit, reduce or terminate our product development or future commercialization efforts, or grant rights to develop and market product candidates that we would otherwise prefer to develop and market ourselves.
+Off-Balance Sheet Arrangements
+We did not have, during the periods presented, and we do not currently have, any off-balance sheet arrangements, as defined under applicable SEC rules. 
+81
+Table of Content
+s
+Contractual Obligations
+The following table summarizes our significant contractual obligations as of the payment due date by period at December 31, 2024:
+Payments due by period
+(In thousands)
+Total
+Less
+than
+1 year
+1-3
+years
+3-5
+years
+More
+than
+5 years
+Operating lease obligations (1)
+$
+62,328 
+$
+17,943 
+$
+40,906 
+$
+3,479 
+$
+— 
+Manufacturing arrangements (2)
+942 
+314 
+628 
+— 
+— 
+Service arrangements (3)
+6,625 
+3,142 
+1,742 
+1,741 
+— 
+(1) Relates to payment obligations under lease agreements covering approximately 146,000 square feet at 88 Sidney Street, 43,000 square feet at 64 Sidney Street, and 13,000 square feet at 38 Sidney Street, Cambridge, Massachusetts. All leases, as amended, expire on February 29, 2028. At the end of the initial lease period, we have the option to extend the leases at all facilities for two consecutive five-year periods at the fair market rent at the time of the extension. 
+(2) Relates to payment obligations under a packaging and supply agreement for drug product.
+(3) Relates to payment obligations under a development and manufacturing services agreement for drug product. Arrangement is for a contractual term of five years, however, the total funds can be allocated in any manner to meet the agreement terms.
+We also enter into agreements in the normal course of business with CROs for clinical trials and contract manufacturing organizations, or CMOs, for supply manufacturing, and with vendors for preclinical research studies and other services and products for operating purposes. These contractual obligations are cancelable at any time by us, generally upon prior written notice to the vendor, and are thus not included in the contractual obligations table. 
+In July 2023, we entered into a license agreement with Alnylam as discussed above under Overview and under 
+Note 1, 
+Nature of Business
+, to our consolidated financial statements. Under the license agreement, we may be required to pay up to $130.0 million in potential development and regulatory milestones, in addition to sales milestones as well as tiered royalties on annual net sales, if any, of licensed products, which may be subject to specified reductions and offsets. Such payment obligations are contingent upon the occurrence of future events and the timing and likelihood of such potential obligations are not known.
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk
+We are exposed to market risk related to changes in interest rates. As of December 31, 2024 and December 31, 2023, we had cash, cash equivalents and marketable securities of $1.5 billion and $0.8 billion, respectively, consisting primarily of investments in U.S. Treasuries, government securities, corporate debt securities and certificates of deposit. Our primary exposure to market risk is interest rate sensitivity, which is affected by changes in the general level of U.S. interest rates, particularly because our investments are primarily in short-term marketable securities. Our marketable securities are subject to interest rate risk and could fall in value if market interest rates increase. Due to the short-term duration of our investment portfolio and the low risk profile of our investments, we do not believe an immediate and uniform 100 basis point change in interest rates would have a material effect on the fair market value of our investment portfolio. 
+We are also exposed to market risk related to changes in foreign currency exchange rates. We have contracts with CROs and CMOs that are located in Asia and Europe and are denominated in foreign currencies. We are subject to fluctuations in foreign currency rates in connection with these agreements. We do not currently hedge our foreign currency exchange rate risk. As of December 31, 2024 and December 31, 2023, we had minimal or no liabilities denominated in foreign currencies.
+Item 8. Financial Statements and Supplementary Data
+The financial statements required to be filed pursuant to this Item 8 are appended to this Annual Report on Form 10-K. An index of those financial statements is found in 
+Item 15, 
+Exhibits and Financial Statement Schedules
+, of this Annual Report on Form 10-K.
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+None.
+Item 9A. Controls and Procedures
+Evaluation of Disclosure Controls and Procedures
+Our management, with the participation of our principal executive officer and our principal financial officer, evaluated, as of the end of the period covered by this Annual Report on Form 10-K, the effectiveness of our disclosure controls and procedures. Based on that evaluation of our disclosure controls and procedures as of December 31, 2024, our principal executive officer and 
+82
+Table of Content
+s
+principal financial officer concluded that our disclosure controls and procedures as of such date are effective at the reasonable assurance level. The term “disclosure controls and procedures,” as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended, or the Exchange Act, means controls and other procedures of a company that are designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act are recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by us in the reports we file or submit under the Exchange Act is accumulated and communicated to our management, including our principal executive officer and principal financial officer, as appropriate to allow timely decisions regarding required disclosure. Management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving their objectives and our management necessarily applies its judgment in evaluating the cost-benefit relationship of possible controls and procedures.
+Management’s Annual Report on Internal Control over Financial Reporting
+Our management is responsible for establishing and maintaining adequate internal control over our financial reporting. Internal control over financial reporting is defined in Rules 13a-15(f) and 15d-15(f) promulgated under the Exchange Act as a process designed by, or under the supervision of, our principal executive and principal financial officers and effected by our board of directors, management and other personnel to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with U.S. GAAP. Our internal control over financial reporting includes those policies and procedures that:
+•
+pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect our transactions and dispositions of our assets;
+•
+provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with U.S. GAAP, and that our receipts and expenditures are being made only in accordance with authorizations of our management and directors; and
+•
+provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of our assets that could have a material effect on our financial statements.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+Our management assessed the effectiveness of our internal control over financial reporting as of December 31, 2024. In making this assessment, management used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in its 2013 Internal Control – Integrated Framework. Based on our assessment, our management has concluded that, as of December 31, 2024, our internal control over financial reporting is effective based on those criteria.
+The effectiveness of our internal control over financial reporting as of December 31, 2024, has been audited by PricewaterhouseCoopers LLP, an independent registered public accounting firm, as stated in their report, which is included herein.
+Changes in Internal Control over Financial Reporting
+There were no changes in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) during the fiscal quarter ended December 31, 2024 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+Item 9B. Other Information
+(b) 
+Director and Officer Trading Arrangements
+A significant portion of the compensation of our directors and officers (as defined in Rule 16a-1(f) under the Exchange Act) is in the form of equity awards and, from time to time, directors and officers engage in open-market transactions with respect to the securities acquired pursuant to such equity awards or other of our securities, including to satisfy tax withholding obligations when equity awards vest or are exercised, and for diversification or other personal reasons.
+Transactions in our securities by directors and officers are required to be made in accordance with our 
+insider trading policy
+, which requires that the transactions be in accordance with applicable U.S. federal securities laws that prohibit trading while in possession of material nonpublic information. Rule 10b5-1 under the Exchange Act provides an affirmative defense that enables directors and officers to prearrange transactions in our securities in a manner that avoids concerns about initiating transactions while in possession of material nonpublic information. 
+83
+Table of Content
+s
+Each Rule 10b5-1 trading arrangement described below was entered into in accordance with our insider trading policy, and only permitted or permits transactions upon the expiration of the applicable mandatory cooling-off periods under Rule 10b5-1 of the Exchange Act. Actual transactions are required to be disclosed publicly in Section 16 filings with the SEC.
+The following table describes, for the fourth quarter of 2024, each trading arrangement for the sale or purchase of Company securities adopted or terminated by our directors and officers that is either (1) a contract, instruction or written plan intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) (a “Rule 10b5-1 trading arrangement”) or (2) a “non-Rule 10b5-1 trading arrangement” (as defined in Item 408(c) of Regulation S-K): 
+Name (Title)
+Action Taken (Date of Action)
+Type of Trading Arrangement
+Nature of Trading Arrangement
+Duration of Trading Arrangement
+Aggregate Number of Securities
+Cecilia Jones
+ (
+Chief Financial Officer
+)
+Adoption
+ (
+December 13, 2024
+)
+Rule 10b5-1 trading arrangement
+Sale
+Through and including 
+March 17, 2026
+Up to 
+24,779
+ shares
+Tsveta Milanova
+ (
+Chief Commercial Officer
+)
+Adoption
+ (
+December 13, 2024
+)
+Rule 10b5-1 trading arrangement
+Sale
+Through and including 
+March 17, 2026
+Up to 
+18,831
+ shares
+Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+Not applicable.
+84
+Table of Content
+s
+PART III
+Item 10. Directors, Executive Officers and Corporate Governance
+The information required by this Item 10 will be included in our definitive proxy statement to be filed with the Securities and Exchange Commission, or SEC, with respect to our 2025 Annual Meeting of Stockholders and is incorporated herein by reference.
+
+Item 11. Executive Compensation
+The information required by this Item 11 will be included in our definitive proxy statement to be filed with the SEC with respect to our 2025 Annual Meeting of Stockholders and, other than the information required by Item 402(v) of Regulation S-K, is incorporated herein by reference.
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+The information required by this Item 12 will be included in our definitive proxy statement to be filed with the SEC with respect to our 2025 Annual Meeting of Stockholders and is incorporated herein by reference.
+Item 13. Certain Relationships and Related Transactions, and Director Independence
+The information required by this Item 13 will be included in our definitive proxy statement to be filed with the SEC with respect to our 2025 Annual Meeting of Stockholders and is incorporated herein by reference.
+Item 14. Principal Accountant Fees and Services
+The information required by this Item 14 will be included in our definitive proxy statement to be filed with the SEC with respect to our 2025 Annual Meeting of Stockholders and is incorporated herein by reference.
+85
+Table of Content
+s
+PART IV
+Item 15. Exhibits and Financial Statement Schedules 
+(1)   Financial Statements
+The following documents are included on pages F-1 through F-28 attached hereto and are filed as part of this Annual Report on Form 10-K.
+Report of Independent Registered Public Accounting Firm
+ (PCAOB ID 238)
+2
+Consolidated Balance Sheets
+4
+Consolidated Statements of Operations
+5
+Consolidated Statements of Comprehensive 
+Income (Loss)
+6
+Consolidated Statements of Stockholders’ Equity
+7
+Consolidated Statements of Cash Flows
+8
+Notes to Consolidated Financial Statements
+9
+(2)   Financial Statement Schedules
+Schedules have been omitted since they are either not required or not applicable or the information is otherwise included herein.
+(3)   Exhibits
+Exhibit
+Number
+Description of Exhibit
+Incorporated by Reference
+Filed
+Herewith
+Form
+File
+Number
+Date of Filing
+Exhibit
+Number
+2.1
+Purchase and Sale Agreement, dated as of December 20, 2020, by and among the Registrant, Servier Pharmaceuticals, LLC, and, solely for purposes of guaranteeing certain obligations of the Purchaser, Servier S.A.S
+8-K
+001-36014
+December 22, 2020
+2.1
+2.2**
+Purchase and Sale Agreement, dated October 27, 2022, by and among the Registrant, 
+Sagard Healthcare Royalty Partners, LP
+ and S
+agard Healthcare Partners Co-Invest Designated Activity Company
+10-K
+001-36014
+February 23, 2023
+2.2
+3.1
+Restated Certificate of Incorporation of the Registrant
+8-K
+001-36014
+July 30, 2013
+3.1
+3.2
+Third Amended and Restated By-Law
+s
+8-K
+001-36014
+March 3, 2023
+3.1
+4.1
+Specimen Stock Certificate evidencing the shares of common stock
+S-1
+333-189216
+June 24, 2013
+4.1
+4.2
+Description of Securities Registered Under Section 12 of the Securities Exchange Act of 1934
+10-K
+001-36014
+February 19, 2020
+4.3
+10.1#
+2013 Stock Incentive Plan
+S-1
+333-189216
+June 24, 2013
+10.4
+10.2#
+Form of Incentive Stock Option Agreement under 2013 Stock Incentive Plan
+S-1
+333-189216
+June 24, 2013
+10.5
+10.3#
+Form of Nonstatutory Stock Option Agreement under 2013 Stock Incentive Plan
+S-1
+333-189216
+June 24, 2013
+10.6
+10.4#
+Amended and Restated 2013 Employee Stock Purchase Plan
+X
+86
+Table of Content
+s
+10.5
+Form of Indemnification Agreement between the Registrant and each of its Executive Officers and Directors
+S-1
+333-189216
+July 11, 2013
+10.12
+10.6
+Lease, dated as of September 15, 2014, between the Registrant and Forest City 88 Sidney, LLC
+8-K
+001-36014
+September 19, 2014
+10.1
+10.7
+First Amendment to Lease for 88 Sidney Street, dated as of November 21, 2014, between the Registrant and Forest City 88 Sidney, LLC
+8-K
+001-36014
+November 26, 2014
+10.1
+10.8#
+Summary Description of Annual Cash Incentive Program
+10-Q
+001-36014
+May 11, 2015
+10.1
+10.9
+Second Amendment to Lease for 88 Sidney Street, dated July 20, 2015, by and between the Registrant and Forest City 88 Sidney Street, LLC
+8-K
+001-36014
+July 23, 2015
+10.1
+10.10#
+Form of Performance Share Unit Agreement under 2013 Stock Incentive Plan
+10-K
+001-36014
+February 26, 2016
+10.25
+10.11
+Lease, dated as of November 17, 2017, between the Registrant and UP 64 Sidney Street, LLC
+8-K
+001-36014
+November 22, 2017
+10.1
+10.12
+Third Amendment to Lease for 88 Sidney Street, dated November 17, 2017, by and between the Registrant and Forest City 88 Sidney Street, LLC
+8-K
+001-36014
+November 22, 2017
+10.2
+10.13
+First Amendment of Lease, dated April 11, 2018, by and between UP 64 Sidney Street, LLC and Agios Pharmaceuticals. Inc.
+8-K
+001-36014
+April 13, 2018
+10.1
+10.14#
+Form of Restricted Stock Unit Agreement under 2013 Stock Incentive Plan (for employees)
+10-Q
+001-36014
+May 4, 2018
+10.1
+10.15#
+Form of Restricted Stock Unit Agreement under 2013 Stock Incentive Plan (for directors)
+10-K
+001-36014
+February 14, 2019
+10.32
+10.16
+Lease, dated as of April 11, 2019, by and between the Registrant and Thirty-Eight Sidney Street Limited LLC
+10-Q
+001-36014
+August 1, 2019
+10.1
+10.17
+Fourth Amendment to Lease, dated as of April 11, 2019, by and between the Registrant and Forest City 88 Sidney Street, LLC
+10-Q
+001-36014
+August 1, 2019
+10.2
+10.18
+Third Amendment of Lease, dated as of April 11, 2019, by and between the Registrant and UP 64 Sidney Street, LLC
+10-Q
+001-36014
+August 1, 2019
+10.3
+10.19
+Sublease Agreement, dated July 27, 2021, between the Registrant and Prime Medicine, Inc. (64 Sidney Street)
+10-K
+001-36014
+February 24, 2022
+10.44
+10.20
+Sublease Agreement, dated April 14, 2023, between the Registrant and Watershed Informatics, Inc.
+10-K
+001-36014
+February 15, 2024
+10.21
+10.21#
+Letter Agreement, dated July 8, 2022, between the Registrant and Brian Goff
+10-Q
+001-36014
+August 4, 2022
+10.2
+10.22#
+Form of Inducement Stock Option Agreement for Brian Goff
+10-Q
+001-36014
+August 4, 2022
+10.3
+10.23#
+Form of Inducement Restricted Stock Unit Agreement for Brian Goff
+10-Q
+001-36014
+August 4, 2022
+10.4
+87
+Table of Content
+s
+10.24#**
+Form of Inducement Performance Stock Unit Agreement for Brian Goff
+10-Q
+001-36014
+August 4, 2022
+10.5
+10.25#
+Letter Agreement, dated as of September 16, 2022, between the Registrant and Cecilia Jones
+10-Q
+001-36014
+November 3, 2022
+10.5
+10.26#
+Form of Inducement Stock Option Agreement for Cecilia Jones
+S-8
+333- 267624
+September 26, 2022
+99.1
+10.27#
+Form of Inducement Restricted Stock Unit Agreement for Cecilia Jones
+S-8
+333- 267624
+September 26, 2022
+99.2
+10.28#**
+Form of Inducement Performance Stock Unit Agreement for Cecilia Jones
+S-8
+333- 267624
+September 26, 2022
+99.3
+10.29#
+Amended and Restated Severance Benefits Plan
+8-K
+001-36014
+October 7, 2022
+10.1
+10.30#
+Letter Agreement, dated as of December 5, 2022, between the Registrant and Tsveta Milanova
+10-K
+001-36014
+February 23, 2023
+10.38
+10.31#
+Form of Inducement Stock Option Agreement for Tsveta Milanova
+S-8
+333- 269018
+January 3, 2023
+99.1
+10.32#
+Form of Inducement Restricted Stock Unit Agreement for Tsveta Milanova
+S-8
+333- 269108
+January 3, 2023
+99.2
+10.33#**
+Form of Inducement Performance Stock Unit Agreement for Tsveta Milanova
+S-8
+333- 269108
+January 3, 2023
+99.3
+10.34#
+2023 Stock Incentive Plan
+S-8
+333-272615
+June 13, 2023
+99.1
+10.35#
+Form of Stock Option Agreement Under 2023 Stock Incentive Plan
+10-Q
+001-36014
+August 3, 2023
+10.2
+10.36#
+Form of Restricted Stock Unit  Agreement Under 2023 Stock Incentive Plan
+10-Q
+001-36014
+August 3, 2023
+10.3
+10.37#
+Form of Restricted Stock Unit  Agreement (Performance-Based) Under 2023 Stock Incentive Plan
+10-Q
+001-36014
+August 3, 2023
+10.4
+10.38**
+Purchase and Sale Agreement, dated May 24, 2024, by and between the Registrant and Royalty Pharma Investments 2019 ICAV
+10-Q
+001-36014
+August 1, 2024
+10.1
+19.1
+Insider Trading Policy
+X
+21.1
+Subsidiaries of the Registrant
+X
+23.1
+Consent of PricewaterhouseCoopers LLP, an Independent Registered Public Accounting Firm
+X
+31.1
+Certification of principal executive officer pursuant to Rule 13a-14(a)/15d-14(a) of the Securities Exchange Act of 1934, as amended
+X
+31.2
+Certification of principal financial officer pursuant to Rule 13a-14(a)/15d-14(a) of the Securities Exchange Act of 1934, as amended.
+X
+32.1*
+Certification of principal executive officer pursuant to 18 U.S.C. §1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+X
+88
+Table of Content
+s
+32.2*
+Certification of principal financial officer pursuant to 18 U.S.C. §1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+X
+97.1
+Dodd-Frank Compensation Recovery Policy
+10-K
+001-36014
+February 15, 2024
+97.1
+101.INS
+XBRL Instance Document
+X
+101.SCH
+XBRL Taxonomy Extension Schema Document
+X
+101.CAL
+XBRL Taxonomy Calculation Linkbase Document
+X
+101.DEF
+XBRL Taxonomy Extension Definition Linkbase Document
+X
+101.LAB
+XBRL Taxonomy Label Linkbase Document
+X
+101.PRE
+XBRL Taxonomy Presentation Linkbase Document
+X
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+X
+#
+Indicates management contract or compensatory plan or arrangement.
+*
+This certification will not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or the Exchange Act, or otherwise subject to the liability of that section. Such certification will not be deemed to be incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act, except to the extent specifically incorporated by reference into such filing.
+**
+Portions of this exhibit have been omitted pursuant to Item 601(b)(10)(iv) of Regulation S-K.
+Item 16. Form 10-K Summary
+None.
+89
+Table of Content
+s
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+AGIOS PHARMACEUTICALS, INC.
+February 13, 2025
+By:
+/s/ Brian Goff
+Brian Goff
+Chief Executive Officer
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.
+Signature
+Title
+Date
+/s/ Brian Goff
+Chief Executive Officer
+(Principal executive officer)
+February 13, 2025
+Brian Goff
+/s/ Cecilia Jones
+Chief Financial Officer
+(Principal financial officer)
+February 13, 2025
+Cecilia Jones
+/s/ T.J. Washburn
+Vice President, Controller
+(Principal accounting officer)
+February 13, 2025
+T.J. Washburn
+/s/ Jacqualyn A. Fouse
+Chair of the Board of Directors
+February 13, 2025
+Jacqualyn A. Fouse, Ph.D.
+/s/ Rahul Ballal
+Director
+February 13, 2025
+Rahul Ballal, Ph.D.
+/s/ Jeffrey Capello
+Director
+February 13, 2025
+Jeffrey Capello
+/s/ Kaye Foster
+Director
+February 13, 2025
+Kaye Foster
+/s/ Maykin Ho
+Director
+February 13, 2025
+Maykin Ho, Ph.D.
+/s/ Catherine Owen
+Director
+February 13, 2025
+Catherine Owen
+/s/ David Scadden
+Director
+February 13, 2025
+David Scadden, M.D.
+/s/ David P. Schenkein
+Director
+February 13, 2025
+David P. Schenkein, M.D.
+/s/ Cynthia Smith
+Director
+February 13, 2025
+Cynthia Smith
+90
+Table of Content
+s
+Agios Pharmaceuticals, Inc.
+Index to Consolidated Financial Statements
+Report of Independent Registered Public Accounting Firm 
+(PCAOB ID 
+238
+)
+2
+Consolidated Balance Sheets
+4
+Consolidated Statements of Operations
+5
+Consolidated Statements of Comprehensive 
+Income (Loss)
+6
+Consolidated Statements of Stockholders’ Equity
+7
+Consolidated Statements of Cash Flows
+8
+Notes to Consolidated Financial Statements
+9
+F-1
+Table of Content
+s
+ Report of Independent Registered Public Accounting Firm
+To the Board of Directors and Stockholders of Agios Pharmaceuticals, Inc.
+Opinions on the Financial Statements and Internal Control over Financial Reporting
+We have audited the accompanying consolidated balance sheets of Agios Pharmaceuticals, Inc. and its subsidiaries (the “Company”) as of December 31, 2024 and 2023, and the related consolidated statements of operations, of comprehensive (loss) income, of stockholders’ equity and of cash flows for each of the three years in the period ended December 31, 2024, including the related notes (collectively referred to as the “consolidated financial statements”).
+
+We also have audited the Company's internal control over financial reporting as of December 31, 2024, based on criteria established in 
+Internal Control - Integrated Framework
+
+(2013)
+
+issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO).
+In our opinion, the consolidated
+
+financial statements referred to above present fairly, in all material respects, the financial position of the Company as of December 31, 2024 and 2023
+, 
+and the results of its
+
+operations and its
+
+cash flows for each of the three years in the period ended December 31, 2024 in conformity with accounting principles generally accepted in the United States of America. Also in our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 31, 2024, based on criteria established in 
+Internal Control - Integrated Framework
+
+(2013)
+
+issued by the COSO.
+Basis for Opinions
+The Company's management is responsible for these consolidated financial statements, for maintaining effective internal control over financial reporting, and for its assessment of the effectiveness of internal control over financial reporting, included in
+
+Management's Annual Report on Internal Control over Financial Reporting appearing under Item 9A. Our responsibility is to express opinions on the Company’s consolidated
+
+financial statements and on the Company's internal control over financial reporting based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the consolidated
+
+financial statements are free of material misstatement, whether due to error or fraud, and whether effective internal control over financial reporting was maintained in all material respects.
+Our audits of the consolidated
+
+financial statements included performing procedures to assess the risks of material misstatement of the consolidated
+
+financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated
+
+financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. Our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audits also included performing such other procedures as we considered necessary in the circumstances. We believe that our audits provide a reasonable basis for our opinions.
+Definition and Limitations of Internal Control over Financial Reporting
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (iii) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+Critical Audit Matters
+The critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial statements that was communicated or required to be communicated to the audit committee and that (i) relates to accounts or 
+F-2
+Table of Content
+s
+disclosures that are material to the consolidated financial statements and (ii) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+Revenue Recognition - PYRUKYND® Product Revenue
+As described in Notes 
+2
+ and 
+8
+ to the consolidated financial statements, the Company generates product revenue from sales of PYRUKYND® to a limited number of specialty distributors and specialty pharmacy providers, or collectively, the Customers.  These Customers subsequently resell PYRUKYND® to pharmacies or dispense directly to patients.  The performance obligation related to the sale of PYRUKYND® is satisfied and revenue is recognized when the Customer obtains control of the product, which occurs at a point in time, typically upon delivery to the Customer.  Revenues from product sales are recorded at the net sales price, or transaction price, which includes estimates of variable consideration for which reserves are established and result from contractual adjustments, government rebates, returns and other allowances that are offered within the contracts with the Customers, healthcare providers, payors and other indirect customers relating to the sale of its products.  For the year ended December 31, 2024, the Company recognized $36.5 million of net product revenue relating to the sale of PYRUKYND®.
+The principal consideration for our determination that performing procedures relating to PYRUKYND® product revenue recognition is a critical audit matter is a high degree of auditor effort in performing procedures related to the Company’s product revenue recognition.
+Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the consolidated financial statements. These procedures included testing the effectiveness of controls relating to the revenue recognition process, including controls over the recording of PYRUKYND® product revenue at the transaction price once control passes to the customer.  These procedures also included, among others, (i) evaluating management’s revenue recognition policy and (ii) testing the completeness, accuracy, and occurrence of revenue recognized for a sample of product revenue transactions by obtaining and inspecting source documents, such as purchase orders, invoices, proof of delivery, and subsequent cash receipts. 
+/s/ 
+PricewaterhouseCoopers LLP
+Boston, Massachusetts
+February 13, 2025
+ We have served as the Company’s auditor since 2017.
+F-3
+Table of Content
+s
+Agios Pharmaceuticals, Inc.
+Consolidated Balance Sheets
+(In thousands, except share and per share data) December 31:
+2024
+2023
+Assets
+Current assets:
+Cash and cash equivalents
+$
+76,247
+
+$
+88,205
+
+Marketable securities
+817,463
+
+688,723
+
+Accounts receivable, net
+4,109
+
+2,810
+
+Inventory
+27,616
+
+19,076
+
+Prepaid expenses and other current assets
+40,165
+
+35,021
+
+Total current assets
+965,600
+
+833,835
+
+Marketable securities
+638,321
+
+29,435
+
+Operating lease assets
+42,879
+
+54,409
+
+Property and equipment, net
+11,675
+
+15,382
+
+Other non-current assets
+4,724
+
+4,057
+
+Total assets
+$
+1,663,199
+
+$
+937,118
+
+Liabilities and stockholders’ equity
+Current liabilities:
+Accounts payable
+$
+16,643
+
+$
+9,780
+
+Accrued expenses
+46,861
+
+43,167
+
+Income taxes payable
+871
+
+—
+
+Operating lease liabilities
+16,781
+
+15,008
+
+Total current liabilities
+81,156
+
+67,955
+
+Operating lease liabilities, net of current portion
+40,207
+
+56,988
+
+Other non-current liabilities
+880
+
+1,156
+
+Total liabilities
+122,243
+
+126,099
+
+Commitments and contingent liabilities (Note 14)
+Stockholders’ equity:
+Preferred stock, $
+0.001
+ par value; 
+25,000,000
+ shares authorized, 
+no
+ shares issued and outstanding at December 31, 2024 and 2023
+—
+
+—
+
+Common stock, $
+0.001
+ par value; 
+125,000,000
+ shares authorized; 
+73,372,696
+ shares issued and 
+57,156,285
+ outstanding at December 31, 2024 and 
+72,161,489
+ shares issued and 
+55,945,078
+ outstanding at December 31, 2023
+73
+
+72
+
+Additional paid-in capital
+2,493,811
+
+2,436,523
+
+Accumulated other comprehensive loss
+(
+1,518
+)
+(
+441
+)
+Accumulated deficit
+(
+148,924
+)
+(
+822,649
+)
+Treasury stock, at cost (
+16,216,411
+ shares at December 31, 2024 and December 31, 2023)
+(
+802,486
+)
+(
+802,486
+)
+Total stockholders’ equity
+1,540,956
+
+811,019
+
+Total liabilities and stockholders’ equity
+$
+1,663,199
+
+$
+937,118
+
+See accompanying Notes to Consolidated Financial Statements.
+F-4
+Table of Content
+s
+Agios Pharmaceuticals, Inc.
+Consolidated Statements of Operations
+
+(In thousands, except share and per share data) Years Ended December 31:
+2024
+2023
+2022
+Revenues:
+Product revenue, net
+$
+36,498
+
+$
+26,823
+
+$
+11,740
+
+Milestone revenue
+—
+
+—
+
+2,500
+
+Total revenue
+36,498
+
+26,823
+
+14,240
+
+Operating expenses
+Cost of sales
+$
+4,165
+
+$
+2,881
+
+$
+1,704
+
+Research and development
+301,286
+
+295,526
+
+279,910
+
+Selling, general and administrative
+156,784
+
+119,903
+
+121,673
+
+Total operating expenses
+462,235
+
+418,310
+
+403,287
+
+Loss from operations
+(
+425,737
+)
+(
+391,487
+)
+(
+389,047
+)
+Gain on sale of contingent payments
+889,136
+
+—
+
+127,853
+
+Milestone payment from gain on sale of oncology business
+200,000
+
+—
+
+—
+
+Royalty income from gain on sale of oncology business
+—
+
+—
+
+9,851
+
+Interest income, net
+48,083
+
+33,344
+
+12,793
+
+Other income, net
+6,487
+
+6,055
+
+6,749
+
+Net income (loss) before taxes
+717,969
+
+(
+352,088
+)
+(
+231,801
+)
+Income tax expense
+44,244
+
+—
+
+—
+
+Net income (loss)
+$
+673,725
+
+$
+(
+352,088
+)
+$
+(
+231,801
+)
+Net income (loss) per share - basic
+$
+11.86
+
+$
+(
+6.33
+)
+$
+(
+4.23
+)
+Net income (loss) per share - diluted
+$
+11.64
+
+$
+(
+6.33
+)
+$
+(
+4.23
+)
+Weighted-average number of common shares used in computing net income (loss) per share – basic
+56,807,415
+
+55,651,487
+
+54,789,435
+
+Weighted-average number of common shares used in computing net income (loss) per share – diluted
+57,889,255
+
+55,651,487
+
+54,789,435
+
+See accompanying Notes to Consolidated Financial Statements.
+F-5
+Table of Content
+s
+Agios Pharmaceuticals, Inc.
+Consolidated Statements of Comprehensive Income (Loss)
+
+(In thousands) Years Ended December 31:
+2024
+2023
+2022
+Net income (loss)
+$
+673,725
+
+$
+(
+352,088
+)
+$
+(
+231,801
+)
+Other comprehensive (loss) income
+Unrealized (loss) gain on available-for-sale securities
+(
+1,077
+)
+12,094
+
+(
+11,337
+)
+Comprehensive income (loss)
+$
+672,648
+
+$
+(
+339,994
+)
+$
+(
+243,138
+)
+See accompanying Notes to Consolidated Financial Statements.
+F-6
+Table of Content
+s
+Agios Pharmaceuticals, Inc.
+Consolidated Statements of Stockholders’ Equity
+
+Common Stock
+Additional
+Paid-In
+Capital
+Accumulated
+Other
+Comprehensive
+Income (Loss)
+Accumulated
+Deficit
+Treasury
+Total
+Stockholders’
+Equity
+(In thousands, except share amounts)
+Shares
+Amount
+Shares
+Amount
+Balance at December 31, 2021
+70,550,631
+
+$
+71
+
+$
+2,334,348
+
+$
+(
+1,198
+)
+$
+(
+238,760
+)
+(
+16,216,411
+)
+$
+(
+802,486
+)
+$
+1,291,975
+
+Unrealized loss on available-for-sale securities
+— 
+— 
+— 
+(
+11,337
+)
+— 
+— 
+— 
+(
+11,337
+)
+Net loss
+— 
+— 
+— 
+— 
+(
+231,801
+)
+— 
+— 
+(
+231,801
+)
+Stock-based compensation expense
+— 
+— 
+49,296
+
+— 
+— 
+— 
+— 
+49,296
+
+Common stock issued under stock incentive plan and ESPP
+705,487
+
+—
+
+2,681
+
+— 
+— 
+— 
+— 
+2,681
+
+Balance at December 31, 2022
+71,256,118
+
+$
+71
+
+$
+2,386,325
+
+$
+(
+12,535
+)
+$
+(
+470,561
+)
+(
+16,216,411
+)
+$
+(
+802,486
+)
+$
+1,100,814
+
+Unrealized gain on available-for-sale securities
+— 
+— 
+— 
+12,094
+
+— 
+— 
+— 
+12,094
+
+Net loss
+— 
+— 
+— 
+— 
+(
+352,088
+)
+— 
+— 
+(
+352,088
+)
+Stock-based compensation expense
+— 
+— 
+44,766
+
+— 
+— 
+— 
+— 
+44,766
+
+Common stock issued under stock incentive plan and ESPP
+905,371
+
+1
+
+5,432
+
+— 
+— 
+— 
+— 
+5,433
+
+Balance at December 31, 2023
+72,161,489
+
+$
+72
+
+$
+2,436,523
+
+$
+(
+441
+)
+$
+(
+822,649
+)
+(
+16,216,411
+)
+$
+(
+802,486
+)
+$
+811,019
+
+Unrealized loss on available-for-sale securities
+— 
+— 
+— 
+(
+1,077
+)
+— 
+— 
+— 
+(
+1,077
+)
+Net income
+— 
+— 
+— 
+— 
+673,725
+
+— 
+— 
+673,725
+
+Stock-based compensation expense
+— 
+— 
+42,847
+
+— 
+— 
+— 
+— 
+42,847
+
+Common stock issued under stock incentive plan and ESPP
+1,211,207
+
+1
+
+14,441
+
+— 
+— 
+— 
+— 
+14,442
+
+Balance at December 31, 2024
+73,372,696
+
+$
+73
+
+$
+2,493,811
+
+$
+(
+1,518
+)
+$
+(
+148,924
+)
+(
+16,216,411
+)
+$
+(
+802,486
+)
+$
+1,540,956
+
+See accompanying Notes to Consolidated Financial Statements.
+F-7
+Table of Content
+s
+Agios Pharmaceuticals, Inc.
+Consolidated Statements of Cash Flows
+(In thousands) Years Ended December 31:
+2024
+2023
+2022
+Operating activities
+Net income (loss)
+$
+673,725
+
+$
+(
+352,088
+)
+$
+(
+231,801
+)
+Adjustments to reconcile net income (loss) to net cash used in operating activities:
+Depreciation and amortization
+5,653
+
+6,623
+
+8,564
+
+Stock-based compensation expense
+42,847
+
+44,766
+
+49,296
+
+Net accretion of discount on marketable securities
+(
+14,486
+)
+(
+5,051
+)
+(
+1,198
+)
+Gain on sale of contingent payments
+(
+889,136
+)
+—
+
+(
+127,853
+)
+Loss (gain) on disposal of property and equipment
+(
+39
+)
+553
+
+(
+48
+)
+Non-cash operating lease expense
+11,530
+
+10,720
+
+9,995
+
+Expense associated with license agreement
+—
+
+17,500
+
+—
+
+Realized gain on investments
+(
+167
+)
+(
+28
+)
+—
+
+Milestone payment from gain on sale of oncology business
+(
+200,000
+)
+—
+
+—
+
+Changes in operating assets and liabilities:
+Accounts receivable, net
+(
+1,299
+)
+(
+604
+)
+(
+2,206
+)
+Inventory
+(
+8,540
+)
+(
+10,584
+)
+(
+8,492
+)
+Other receivables
+—
+
+—
+
+447
+
+Prepaid expenses and other current and non-current assets
+(
+5,811
+)
+3,833
+
+(
+176
+)
+Accounts payable
+6,601
+
+(
+8,733
+)
+3,436
+
+Accrued expenses
+3,694
+
+12,817
+
+(
+1,617
+)
+Income taxes payable
+871
+
+—
+
+—
+
+Operating lease liabilities
+(
+15,008
+)
+(
+13,663
+)
+(
+10,828
+)
+Other liabilities
+(
+276
+)
+(
+2,123
+)
+3,003
+
+Net cash used in operating activities
+(
+389,841
+)
+(
+296,062
+)
+(
+309,478
+)
+Investing activities
+Purchases of marketable securities
+(
+1,542,433
+)
+(
+417,930
+)
+(
+1,030,781
+)
+Proceeds from maturities and sales of marketable securities
+818,383
+
+674,679
+
+1,146,175
+
+Proceeds from sale of contingent payments
+889,136
+
+—
+
+131,784
+
+Proceeds from milestone payment from gain on sale of oncology business
+200,000
+
+—
+
+—
+
+Payments associated with license agreement
+—
+
+(
+17,500
+)
+—
+
+Purchases of property and equipment
+(
+1,685
+)
+(
+999
+)
+(
+4,881
+)
+Proceeds from sale of equipment
+40
+
+1,325
+
+964
+
+Net cash provided by investing activities
+363,441
+
+239,575
+
+243,261
+
+Financing activities
+Payments on financing lease obligations
+—
+
+—
+
+(
+331
+)
+Net proceeds from stock option exercises and employee stock purchase plan
+14,442
+
+5,433
+
+2,681
+
+Net cash provided by financing activities
+14,442
+
+5,433
+
+2,350
+
+Net change in cash and cash equivalents
+(
+11,958
+)
+(
+51,054
+)
+(
+63,867
+)
+Cash and cash equivalents at beginning of the period
+88,205
+
+139,259
+
+203,126
+
+Cash and cash equivalents at end of the period
+$
+76,247
+
+$
+88,205
+
+$
+139,259
+
+Supplemental disclosure of non-cash investing and financing transactions:
+Additions to property and equipment in accounts payable and accrued expenses
+$
+317
+
+$
+55
+
+$
+158
+
+Net cash taxes paid
+$
+43,150
+
+$
+1,569
+
+$
+—
+
+See accompanying Notes to Consolidated Financial Statements.
+F-8
+Table of Content
+s
+Agios Pharmaceuticals, Inc.
+Notes to Consolidated Financial Statements
+Note 1. 
+Nature of Business
+References to Agios
+Throughout this Annual Report on Form 10-K, “the Company,” “Agios,” “we,” “us,” and “our,” and similar expressions, except where the context requires otherwise, refer to Agios Pharmaceuticals, Inc. and its consolidated subsidiaries, and “our board of directors” refers to the board of directors of Agios Pharmaceuticals, Inc. 
+Overview
+We are a biopharmaceutical company committed to transforming patients’ lives through leadership in the field of cellular metabolism, with the goal of creating differentiated medicines for rare diseases, with a focus on classical hematology. With a history of focused study on cellular metabolism, we have a deep and mature understanding of this biology, which is involved in the healthy functioning of nearly every system in the body. Building on this expertise, these learnings can be rapidly applied to our clinical trials with the goal of developing medicines that can have a significant impact for patients. We accelerate the impact of our portfolio by cultivating connections with patient communities, healthcare professionals, partners and colleagues to discover, develop and deliver potential therapies for rare diseases. We are located in Cambridge, Massachusetts.
+The lead product candidate in our portfolio, PYRUKYND® (mitapivat), is an activator of both wild-type and mutant pyruvate kinase, or PK, enzymes for the potential treatment of hemolytic anemias. PYRUKYND® is approved for use by the U.S. Food and Drug Administration, or FDA, for the treatment of hemolytic anemia in adults with PK deficiency in the United States and by the European Commission for the treatment of PK deficiency in adult patients in the European Union, or EU. Additionally, we received marketing authorization in Great Britain for PYRUKYND® for the treatment of PK deficiency in adult patients under the European Commission Decision Reliance Procedure. In December 2024, we announced that we submitted a supplemental new drug application, or sNDA, to the FDA for PYRUKYND® for the treatment of adult patients with non-transfusion dependent and transfusion-dependent alpha- or beta-thalassemia, which was accepted with standard review by the FDA and granted a Prescription Drug User Fee Act, or PDUFA, goal date of September 7, 2025. Also in December 2024, we announced that we submitted a marketing authorization application, or MAA, to the European Medicines Agency, or EMA, and regulatory applications to the Kingdom of Saudi Arabia and United Arab Emirates health authorities for PYRUKYND® for the treatment of adult patients with non-transfusion dependent and transfusion-dependent alpha- or beta-thalassemia.
+In addition, we are currently evaluating PYRUKYND® in Phase 3 clinical trials for the treatment of sickle cell disease, or SCD, and in pediatric patients with PK deficiency. We are also developing (i) tebapivat, a novel PK activator, for the potential treatment of lower-risk myelodysplastic syndromes, or LR MDS, and hemolytic anemias; (ii) AG-181, our phenylalanine hydroxylase, or PAH, stabilizer for the potential treatment of phenylketonuria, or PKU; and (iii) AG-236, an siRNA in-licensed from Alnylam Pharmaceuticals, Inc., or Alnylam, targeting the transmembrane serine protease 6, or TMPRSS6 gene for the potential treatment of polycythemia vera, or PV. 
+We are subject to risks common to companies in our industry including, but not limited to, uncertainties relating to conducting preclinical and clinical research and development, the manufacture and supply of products for clinical and commercial use, obtaining and maintaining regulatory approvals and pricing and reimbursement for our products, market acceptance, managing global growth and operating expenses, availability of additional capital, competition, obtaining and enforcing patents, stock price volatility, dependence on collaborative relationships and third-party service providers, dependence on key personnel, potential litigation, potential product liability claims and potential government investigations. 
+Alnylam License Agreement
+On July 28, 2023, we entered into a license agreement with Alnylam under which we acquired the rights to develop and commercialize Alnylam’s novel preclinical siRNA targeting the TMPRSS6 gene, as a potential disease-modifying treatment for patients with PV. Because the acquired assets do not meet the definition of a business in accordance with Accounting Standards Codification, or ASC, 805, 
+Business Combinations
+, we accounted for the agreement as an asset acquisition. 
+In accordance with the license agreement, in the year ended December 31, 2023, we made an up-front payment to Alnylam and recognized in-process research and development of $
+17.5
+ million which was recorded in research and development expense within our consolidated statements of operations and classified as investing activities within our consolidated statements of cash flows. We will also pay Alnylam for certain expenses associated with the development of AG-236, an siRNA targeting the TMPRSS6 gene, and these will be recorded in our consolidated statements of operations as incurred. Additionally, we are responsible to pay up to $
+130.0
+ million in potential development and regulatory milestones, in addition to sales milestones as 
+F-9
+Table of Content
+s
+well as tiered royalties on annual net sales, if any, of licensed products, which may be subject to specified reductions and offsets.
+Sale of Oncology Business to Servier and Sale of Contingent Payments
+On March 31, 2021, we completed the sale of our oncology business to Servier Pharmaceuticals, LLC, or Servier, which represented a discontinued operation. The transaction included the sale of our oncology business, including TIBSOVO®, our clinical-stage product candidates vorasidenib, AG-270 and AG-636, and our oncology research programs for a payment of approximately $
+1.8
+ billion in cash at the closing, subject to certain adjustments, and a payment of $
+200.0
+ million in cash, if, prior to January 1, 2027, vorasidenib is granted new drug application approval from the FDA with an approved label that permits vorasidenib’s use as a single agent for the adjuvant treatment of patients with Grade 2 glioma that have an isocitrate dehydrogenase, or IDH, 1 or 2 mutation (and, to the extent required by such approval, the vorasidenib companion diagnostic test is granted an FDA premarket approval), or the Vorasidenib Milestone Payment, as well as a royalty of 
+5
+% of U.S. net sales of TIBSOVO® from the close of the transaction through loss of exclusivity, and a royalty of 
+15
+% of U.S. net sales of vorasidenib from the first commercial sale of vorasidenib through loss of exclusivity, or the Vorasidenib Royalty Rights. The Vorasidenib Milestone Payment, Vorasidenib Royalty Rights and royalty payments related to TIBSOVO® are referred to as contingent payments and recognized as income when realizable. Servier also acquired our co-commercialization rights for Bristol Myers Squibb’s IDHIFA® and the right to receive a $
+25.0
+ million potential milestone payment under our prior collaboration agreement with Celgene Corporation, or Celgene, and following the sale Servier has agreed to conduct certain clinical development activities within the IDHIFA® development program.
+In October 2022, we sold our rights to future contingent payments associated with the royalty of 
+5
+% of U.S. net sales of TIBSOVO® from the close of the transaction through the loss of exclusivity to entities affiliated with Sagard Healthcare Partners, or Sagard, and recognized income of $
+127.9
+ million within the gain on sale of contingent payments line item in our consolidated statements of operations for the year ended December 31, 2023. 
+In August 2024, the FDA approved vorasidenib for adult and pediatric patients 12 years and older with Grade 2 astrocytoma or oligodendroglioma with a susceptible IDH1 or IDH2 mutation, following surgery including biopsy, sub-total resection, or gross total resection.  In September 2024, we received the Vorasidenib Milestone Payment from Servier and recognized income of $
+200.0
+ million within the milestone payment from gain on sale of oncology business line item in our consolidated statements of operations for the year ended December 31, 2024. In May 2024, we entered into a purchase and sale agreement to sell the Vorasidenib Royalty Rights to Royalty Pharma Investments 2019 ICAV, or Royalty Pharma, for $
+905.0
+ million in cash, or the Upfront Payment. The sale was contingent upon FDA approval of vorasidenib and other customary closing conditions. 
+Upon consummation of the sale in August 2024, Royalty Pharma acquired 
+100
+% of the Vorasidenib Royalty Rights payments made by Servier on account of up to $
+1.0
+ billion in U.S. net sales for each calendar year. In addition, any such Vorasidenib Royalty Rights payments made by Servier on account of U.S. net sales in each calendar year in excess of $
+1.0
+ billion will be split, with Royalty Pharma having the rights to a 
+12
+% earn-out on those excess payments and Agios retaining the rights to a 
+3
+% earn-out on those excess payments, or the Retained Earn-Out Rights. As a result of the sale, we recognized income of $
+889.1
+ million ($
+905.0
+ million net of fees of $
+15.9
+ million) within the gain on sale of contingent payments line item in our consolidated statements of operations for the year ended December 31, 2024. Royalty income related to the Retained Earn-Out Rights, if any, will be recognized in the period when realizable. 
+We recorded income from royalties of $
+9.9
+ million on U.S. net sales of TIBSOVO® by Servier in the royalty income from gain on sale of oncology business line item within the consolidated statements of operation
+s
+ for the year ended December 31, 2022.
+Liquidity
+As of December 31, 2024, we had cash, cash equivalents and marketable securities of $
+1.5
+ billion. Although we have incurred recurring losses and expect to continue to incur losses for the foreseeable future, we expect our cash, cash equivalents and marketable securities to be sufficient to fund current operations for at least the next twelve months from the issuance of the financial statements. If we are unable to raise additional funds through equity or debt financings, we may be required to delay, limit, reduce or terminate product development or future commercialization efforts or grant rights to develop and market products or product candidates that we would otherwise prefer to develop and market ourselves.
+Note 2. 
+Summary of Significant Accounting Policies 
+Principles of consolidation
+The consolidated financial statements include our accounts and the accounts of our wholly owned subsidiaries, Agios Securities Corporation, Agios International Sarl (GmbH), Agios Germany GmbH, Agios Netherlands B.V., Agios Italy S.R.L., Agios France SARL, and Agios Limited. All intercompany transactions have been eliminated in consolidation. The consolidated financial statements have been prepared in conformity with U.S. generally accepted accounting principles, or U.S. GAAP.
+F-10
+Table of Content
+s
+Use of estimates
+The preparation of our consolidated financial statements requires us to make estimates, judgments and assumptions that may affect the reported amounts of assets, liabilities, equity, revenues and expenses and related disclosure of contingent assets and liabilities. On an ongoing basis we evaluate our estimates, judgments and methodologies. We base our estimates on historical experience and on various other assumptions that we believe are reasonable, the results of which form the basis for making judgments about the carrying values of assets, liabilities and equity and the amount of revenues and expenses.
+Cash and cash equivalents
+We consider highly liquid investments with a maturity of three months or less when purchased to be cash equivalents. Cash equivalents are stated at fair value.
+Accounts receivable, net
+Our trade accounts receivable arise from product sales and represent amounts due from specialty distributors and specialty pharmacy providers in the U.S. We monitor the financial performance and creditworthiness of our customers so that we can properly assess and respond to changes in their credit profile. We reserve against these receivables for estimated losses that may arise from a customer’s inability to pay. Amounts determined to be uncollectible are charged or written-off against the reserve.
+Inventory
+Inventory is stated at the lower of cost or estimated net realizable value on a first-in, first-out basis. Prior to the regulatory approval of our product candidates, we incur expenses for the manufacture of drug product that could potentially be available to support the commercial launch of those products. Until the date at which regulatory approval has been received or is otherwise considered probable, we record all such costs as research and development expenses. Upon approval of our wholly owned product, PYRUKYND®, by the FDA on February 17, 2022 for the treatment of hemolytic anemia in adults with PK deficiency in the United States, we began to capitalize inventories of PYRUKYND®.
+Revenue recognition
+Under ASC 606, 
+Revenue from Contracts with Customers
+, or ASC 606, revenue is recognized when the customer obtains control of promised goods or services, in an amount that reflects the consideration that we expect to receive in exchange for those goods or services. To determine revenue recognition for arrangements that have been determined to be within the scope of ASC 606, we perform the following five steps: (i) identify the contract(s) with a customer; (ii) identify the performance obligations in the contract; (iii) determine the transaction price; (iv) allocate the transaction price to the performance obligations in the contract; and (v) recognize revenue when (or as) we satisfy a performance obligation. We only apply the five-step model to contracts when it is probable that we will collect the consideration we are entitled to in exchange for the goods or services we transfer to the customer.
+This standard applies to all contracts with customers, except for contracts that are within the scope of other standards, such as leases, insurance, collaboration arrangements and financial instruments.
+Once the contract is determined to be within the scope of ASC 606, we assess the goods or services promised within each contract and determine those that are performance obligations, and assess whether each promised good or service is distinct. We will then recognize as revenue the amount of the transaction price that is allocated to the respective performance obligation when (or as) the performance obligation is satisfied.
+Product Revenue
+We generate product revenue from sales of PYRUKYND® to a limited number of specialty distributors and specialty pharmacy providers, or collectively, the Customers. These Customers subsequently resell PYRUKYND® to pharmacies or dispense PYRUKYND® directly to patients. In addition to distribution agreements with Customers, we enter into arrangements with healthcare providers and payors that provide for government-mandated and/or privately-negotiated rebates, chargebacks and discounts with respect to the purchase of PYRUKYND®.
+The performance obligation related to the sale of PYRUKYND® is satisfied and revenue is recognized when the Customer obtains control of the product, which occurs at a point in time, typically upon delivery to the Customer.
+Revenues from product sales are recorded at the net sales price, or transaction price, which includes estimates of variable consideration for which reserves are established and result from contractual adjustments, government rebates, returns and other allowances that are offered within the contracts with our Customers, healthcare providers, payors and other indirect customers relating to the sale of our products.
+F-11
+Table of Content
+s
+Contractual Adjustments
+. We generally provide Customers with discounts, including prompt pay discounts, and allowances that are explicitly stated in the contracts and are recorded as a reduction of revenue in the period the related product revenue is recognized. In addition, we receive sales order management, data and distribution services from certain Customers.
+Chargebacks and discounts represent the estimated obligations resulting from contractual commitments to sell products to qualified healthcare providers at prices lower than the list prices charged to Customers who directly purchase the product from us. Customers charge us for the difference between what they pay for the product and the ultimate selling price to the qualified healthcare providers. These reserves are estimated using the expected value method, based upon a range of possible outcomes that are probability-weighted for the estimated channel mix and are established in the same period that the related revenue is recognized, resulting in a reduction of product revenue.
+Government Rebates
+. Government rebates include Medicare, TriCare, and Medicaid rebates, which we estimate using the expected value method, based upon a range of possible outcomes that are probability-weighted for the estimated payor mix. These reserves are recorded in the same period the related revenue is recognized, resulting in a reduction of product revenue. For Medicare, we also estimate the number of patients in the prescription drug coverage gap for whom we will owe an additional liability under the Medicare Part D program.
+Returns
+. We estimate the amount of product sales that may be returned by Customers and record this estimate as a reduction of revenue in the period the related product revenue is recognized. We currently estimate product return liabilities using the expected value method, based on available industry data, including our visibility into the inventory remaining in the distribution channel.
+Cost of sales
+Cost of sales consists primarily of manufacturing costs for sales of PYRUKYND®. Based on our policy to expense costs associated with the manufacturing of our products prior to regulatory approval, certain of the manufacturing costs associated with product shipments of PYRUKYND® recorded during the years ended December 31, 2024, 2023 and 2022 were expensed prior to February 17, 2022 and, therefore, are not included in costs of sales during the years ended December 31, 2024, 2023 and 2022. The amounts excluded from cost of sales were not significant during the years ended December 31, 2024, 2023 and 2022.
+Inventories are reviewed periodically to identify excess or obsolete inventory based on projected sales activity as well as product shelf-life. Expired inventory is disposed of, and the related costs are recognized as cost of sales in our consolidated statements of operations, when, based on the expiry date, we do not believe we are able to sell the inventory. We have not reserved for excess or obsolete inventory during the years ended December 31, 2024 and 2023.
+Marketable securities
+Marketable securities at December 31, 2024 and 2023 consisted of investments in U.S. Treasuries, government securities,  corporate debt securities and certificates of deposit. We determine the appropriate classification of the securities at the time they are acquired and evaluate the appropriateness of such classifications at each balance sheet date. We classify our marketable securities as available-for-sale pursuant to ASC 320, 
+Investments – Debt and Equity Securities
+. Marketable securities are recorded at fair value. Unrealized gains and losses are included as a component of accumulated other comprehensive (loss) income in the consolidated balance sheets and statements of stockholders’ equity and a component of total comprehensive income (loss) in the consolidated statements of comprehensive income (loss), until realized. Realized gains and losses are included in interest income, net on a specific-identification basis.
+At December 31, 2024 and 2023, we held both current and non-current investments. Investments classified as current are those that: (i) have a maturity of less than 
+one year
+, or (ii) have a maturity of 
+one
+ to 
+two years
+ but we intend to liquidate within the next twelve months. Investments classified as non-current are those that: (i) have a maturity of 
+one
+ to 
+two years
+, and (ii) we do not intend to liquidate within the next 
+one year
+, although these funds are available for use and therefore classified as available-for-sale.
+We review marketable securities for impairment whenever the fair value of a marketable security is less than the amortized cost and evidence indicates that a marketable security’s carrying amount is not recoverable. Unrealized losses are evaluated for impairment under ASC 326, 
+Financial Instruments - Credit Losses
+, to determine if the impairment is credit-related or noncredit-related. Credit-related impairment is recognized as an allowance on the balance sheet with a corresponding adjustment to earnings, and noncredit-related impairment is recognized in other comprehensive (loss) income, net of taxes. Evidence considered in this assessment includes reasons for the impairment, compliance with our investment policy, the severity of the impairment, collectability of the security, and any adverse conditions specifically related to the security, an industry, or geographic area.
+F-12
+Table of Content
+s
+Fair value measurements
+We record cash equivalents and marketable securities at fair value. ASC 820, 
+Fair Value Measurements and Disclosures
+, establishes a fair value hierarchy for those instruments measured at fair value that distinguishes between assumptions based on market data (observable inputs) and our own assumptions (unobservable inputs). The hierarchy consists of three levels:
+Level 1 –
+ Unadjusted quoted prices in active markets for identical assets or liabilities.
+Level 2 –
+ Quoted prices for similar assets and liabilities in active markets, quoted prices in markets that are not active, or inputs which are observable, either directly or indirectly, for substantially the full term of the asset or liability.
+Level 3 –
+ Unobservable inputs that reflect our own assumptions about the assumptions market participants would use in pricing the asset or liability in which there is little, if any, market activity for the asset or liability at the measurement date.
+Our financial assets, which include cash equivalents and marketable securities, have been initially valued at the transaction price, and subsequently revalued at the end of each reporting period, utilizing third-party pricing services or other observable market data. The pricing services utilize industry standard valuation models, including both income and market based approaches, and observable market inputs to determine value. After completing our validation procedures, we did not adjust or override any fair value measurements provided by the pricing services as of December 31, 2024 or 2023. Fair value information for these assets, including their classification in the fair value hierarchy is included in 
+Note 3, 
+Fair Value Measurements
+.
+There have been no changes to the valuation methods during the years ended December 31, 2024 and 2023. We evaluate transfers between levels at the end of each reporting period.
+The carrying amounts of other receivables, prepaid expenses and other current assets, accounts payable, and accrued expenses approximate their fair values due to their short-term maturities.
+Concentrations of credit risk 
+Financial instruments which potentially subject us to credit risk consist primarily of cash, cash equivalents, and marketable securities. We hold these investments in highly rated financial institutions, and, by policy, limit the amounts of credit exposure to any one financial institution. These amounts at times may exceed federally insured limits. We have not experienced any credit losses in such accounts and do not believe we are exposed to any significant credit risk on these funds. We have no off-balance sheet concentrations of credit risk, such as foreign currency exchange contracts, option contracts, or other hedging arrangements.
+Property and equipment
+Property and equipment consist of laboratory equipment, computer equipment and software, leasehold improvements, furniture and fixtures, and office equipment. Costs of major additions and betterment are capitalized; maintenance and repairs, which do not improve or extend the life of the respective assets, are charged to expense as incurred. Upon retirement or sale, the cost of the disposed asset and the related accumulated depreciation are removed from the accounts and the resulting gain or loss is recognized.
+Property and equipment is stated at cost, and depreciated using the straight-line method over the estimated useful lives of the respective assets:
+Years
+Laboratory equipment
+5
+Computer equipment and software
+3
+Furniture and fixtures
+5
+Office equipment
+5
+Leasehold improvements are amortized over the lesser of the remaining lease term or the estimated useful life of the improvement.
+Impairment of long-lived assets
+We periodically evaluate our long-lived assets for potential impairment in accordance with ASC 360, 
+Property, Plant and Equipment
+. Potential impairment is assessed when there is evidence that events or changes in circumstances indicate that the carrying amount of an asset may not be recovered. Recoverability of these assets is assessed based on the undiscounted expected future cash flows from the assets, considering a number of factors, including past operating results, budgets and 
+F-13
+Table of Content
+s
+economic projections, market trends and product development cycles. If impairments are identified, assets are written down to their estimated fair value. We did not recognize any impairment charges through December 31, 2024.
+Leases
+We determine if an arrangement is a lease at inception. An arrangement is determined to contain a lease if the contract conveys the right to control the use of an identified property or equipment for a period of time in exchange for consideration. If we can benefit from the various underlying assets of a lease on their own or together with other resources that are readily available, or if the various underlying assets are neither highly dependent on nor highly interrelated with other underlying assets in the arrangement, they are considered to be a separate lease component. In the event multiple underlying assets are identified, the lease consideration is allocated to the various components based on each of the component’s relative fair value.
+Operating lease assets represent our right to use an underlying asset for the lease term and operating lease liabilities represent our obligation to make lease payments arising from the leasing arrangement. Operating lease assets and operating lease liabilities are recognized at commencement date based on the present value of lease payments over the lease term. As most of our leases do not provide an implicit rate, in determining the operating lease liabilities we use an estimate of our incremental borrowing rate. The incremental borrowing rate is determined using two alternative credit scoring models to estimate our credit rating, adjusted for collateralization. The calculation of the operating lease assets includes any lease payments made and excludes any lease incentives. Our lease terms may include options to extend or terminate the lease when it is reasonably certain that we will exercise that option.
+For operating leases, we record operating lease assets and lease liabilities in our consolidated balance sheets. Lease expense for lease payments is recognized on a straight-line basis over the lease term. Short-term leases, or leases that have a lease term of 12 months or less at commencement date, are excluded from this treatment and are recognized on a straight-line basis over the term of the lease.
+We have not entered into any material short-term leases or financing leases as of December 31, 2024.
+Research and development costs
+Research and development costs, including those accrued as of each balance sheet date, are expensed as incurred. These costs include salaries and personnel-related costs, consulting fees, fees paid for contract research services, fees paid to contract research organizations, or CROs, and other third parties in connection with clinical trials and preclinical development activities, fees paid to investigative sites in connection with clinical trials, the costs associated with the product manufacturing, development, and distribution of clinical supplies, the costs of laboratory equipment and facilities, and other external costs.
+Nonrefundable advance payments for goods or services to be received in the future for use in research and development activities are deferred and capitalized. Additionally, there may be instances as of a given balance sheet date in which payments made to our vendors will exceed the level of services provided, and result in a prepayment of the research and development expense. The capitalized amounts are expensed as the related goods are delivered or the services are performed. We estimate the time period over which services will be performed and the level of effort to be expended in each period. If the actual timing of the performance of services or the level of effort varies from our estimate, we adjust the accrual or prepaid accordingly.
+Stock-based compensation
+We account for stock-based compensation awards in accordance with ASC 718, 
+Compensation –Stock Compensation
+, or ASC 718. For stock-based awards granted to employees, non-employees and members of the board of directors for their services and for participation in our employee stock purchase plan, we estimate the grant date fair value of each option award using the Black-Scholes option-pricing model. The use of the Black-Scholes option-pricing model requires us to make assumptions with respect to the expected term of the option, the expected volatility of the common stock consistent with the expected life of the option, risk-free interest rates and expected dividend yields of the common stock. For awards subject to service-based vesting conditions, we recognize stock-based compensation expense equal to the grant date fair value of stock options on a straight-line basis over the requisite service period. For awards subject to performance-based vesting conditions, we recognize stock-based compensation expense if the performance condition is considered probable of achievement using management’s best estimates.
+Income taxes
+Income taxes are recorded in accordance with ASC 740, 
+Accounting for Income Taxes
+, or ASC 740, which provides for deferred taxes using an asset and liability approach. We recognize deferred tax assets and liabilities for the expected future tax consequences of events that have been included in our financial statements or tax returns. We determine our deferred tax assets and liabilities based on differences between the financial reporting and tax bases of assets and liabilities, which are measured using the enacted tax rates and laws that will be in effect when the differences are expected to reverse. Valuation allowances are 
+F-14
+Table of Content
+s
+provided, if based upon the weight of available evidence, it is more likely than not that some or all of the deferred tax assets will not be realized.
+We also account for uncertain tax positions in accordance with the provisions of ASC 740. When uncertain tax positions exist, we recognize the tax benefit of tax positions to the extent that the benefit will more likely than not be realized. The determination as to whether the tax benefit will more likely than not be realized is based upon the technical merits of the tax position as well as consideration of the available facts and circumstances.
+Comprehensive income (loss)
+Comprehensive income (loss) is defined as the change in equity of a business enterprise during a period from transactions, and other events and circumstances, and currently consists of net income (loss) and unrealized gains and losses on available-for-sale securities. Accumulated other comprehensive loss consists entirely of unrealized gains and losses from available-for-sale securities as of December 31, 2024 and 2023.
+Net income (loss) per share
+Basic net income (loss) per share is calculated by dividing net income (loss) by the weighted-average shares outstanding during the period, without consideration for common stock equivalents. Diluted net income (loss) per share is calculated by adjusting the weighted-average shares outstanding for the dilutive effect of common stock equivalents outstanding for the period, determined using the treasury stock method. For purposes of the dilutive net income (loss) per share calculation, stock options, restricted stock units, or RSUs, and performance-based stock units, or PSUs, for which the performance and market vesting conditions, respectively, have been deemed probable, and 2013 Employee Stock Purchase Plan, or 2013 ESPP, shares are considered to be common stock equivalents, while PSUs with performance and market vesting conditions, respectively, that were not deemed probable as of December 31, 2024 are not considered to be common stock equivalents.
+We utilize the control number concept in the computation of diluted earnings per share to determine whether potential common stock equivalents are dilutive. The control number used is net income (loss) from continuing operations. The control number concept requires that the same number of potentially dilutive securities applied in computing diluted earnings per share from continuing operations be applied to all other categories of income or loss, regardless of their anti-dilutive effect on such categories. Since we had a net loss for the years ended December 31, 2023 and 2022, no dilutive effect was recognized in the calculation of loss per share and basic and diluted net loss per share was the same for those periods.
+Segment information
+Operating segments are identified as components of an enterprise about which separate discrete financial information is available for evaluation by the chief operating decision maker, or CODM, or decision-making group in making decisions on how to allocate resources and assess performance. Our CODM is our chief executive officer, or CEO. Our CEO views our operations and manages our business as 
+one
+ operating segment, which derives its revenues from the development and commercialization of therapies for patients with rare diseases.
+Treasury stock
+Treasury stock purchases are accounted for under the cost method whereby the entire cost of the acquired stock is recorded as treasury stock. Repurchased shares are held as treasury stock until they are retired or re-issued. Treasury stock purchases are accounted for under the cost method whereby the entire cost of the acquired stock is recorded as treasury stock. Repurchases of our common stock are accounted for as of the settlement date. There were no repurchases, retirements or re-issuances of treasury stock during the year ended December 31, 2024.
+Recent accounting pronouncements
+In December 2023, the Financial Accounting Standards Board, or FASB, issued Accounting Standards Update, or ASU, 2023-09, 
+Income Taxes (Topics 740): Improvements to Income Tax Disclosures
+, to expand the disclosure requirements for income taxes. Upon adoption, companies will be required to disclose additional specified categories in the rate reconciliation. Companies will also be required to disclose the amount of income taxes paid disaggregated by jurisdiction, among other disclosure requirements. The standard is effective for annual periods beginning after December 15, 2024, and can be applied either prospectively or retrospectively. We plan to adopt the standard in our 2025 annual period and are currently assessing its effect on our financial statement disclosures. 
+In November 2024, the FASB issued ASU 2024-03, 
+Income Statement – Reporting Comprehensive Income – Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses
+, to improve disclosures around an entity’s expenses. Upon adoption, companies will be required to disclose in the notes to the financial statements a disaggregation of certain expense categories included within the expense captions on the face of the income statement. The 
+F-15
+Table of Content
+s
+standard is effective for annual periods beginning after December 15, 2026 and interim periods beginning after December 15, 2027, with early adoption permitted, and can be applied either prospectively or retrospectively. We plan to adopt the standard in our 2027 annual period and are currently assessing its effect the standard on our financial statement disclosures.
+Subsequent events
+We considered events or transactions occurring after the balance sheet date, but prior to the issuance of the consolidated financial statements, for potential recognition or disclosure in our consolidated financial statements. All significant subsequent events have been properly disclosed in the consolidated financial statements.
+Note 3. 
+Fair Value Measurements
+The following table summarizes our cash equivalents and marketable securities measured at fair value and by level (as described in 
+Note 2, 
+Summary of Significant Accounting Policies
+) on a recurring basis as of December 31, 2024:
+(In thousands)
+Level 1
+Level 2
+Level 3
+Total
+Cash equivalents
+$
+44,988
+
+$
+3,386
+
+$
+—
+
+$
+48,374
+
+Total cash equivalents
+44,988
+
+3,386
+
+—
+
+48,374
+
+Marketable securities:
+Certificates of deposit
+—
+
+10,385
+
+—
+
+10,385
+
+U.S. Treasuries
+—
+
+281,119
+
+—
+
+281,119
+
+Government securities
+—
+
+279,707
+
+—
+
+279,707
+
+Corporate debt securities
+—
+
+884,573
+
+—
+
+884,573
+
+Total marketable securities
+—
+
+1,455,784
+
+—
+
+1,455,784
+
+Total cash equivalents and marketable securities
+$
+44,988
+
+$
+1,459,170
+
+$
+—
+
+$
+1,504,158
+
+There were no transfers between Level 1 and Level 2 and we had 
+no
+ financial assets or liabilities that were classified as Level 3 at any point during the year ended December 31, 2024.
+Note 4. 
+Marketable Securities
+Marketable securities at December 31, 2024 consisted of the following:
+(In thousands)
+Amortized
+Cost
+Unrealized
+Gains
+Unrealized
+Losses
+Fair
+Value
+Current:
+Certificates of deposit
+$
+10,374
+
+$
+11
+
+$
+—
+
+$
+10,385
+
+U.S. Treasuries
+173,465
+
+153
+
+(
+27
+)
+173,591
+
+Government securities
+167,970
+
+103
+
+(
+75
+)
+167,998
+
+Corporate debt securities
+465,427
+
+321
+
+(
+259
+)
+465,489
+
+Total Current
+817,236
+
+588
+
+(
+361
+)
+817,463
+
+Non-current:
+U.S. Treasuries
+107,725
+
+106
+
+(
+303
+)
+107,528
+
+Government securities
+112,175
+
+3
+
+(
+469
+)
+111,709
+
+Corporate debt securities
+420,166
+
+181
+
+(
+1,263
+)
+419,084
+
+Total Non-current
+640,066
+
+290
+
+(
+2,035
+)
+638,321
+
+Total marketable securities
+$
+1,457,302
+
+$
+878
+
+$
+(
+2,396
+)
+$
+1,455,784
+
+F-16
+Table of Contents
+Marketable securities at December 31, 2023 consisted of the following:
+(In thousands)
+Amortized
+Cost
+Unrealized
+Gains
+Unrealized
+Losses
+Fair
+Value
+Current:
+U.S. Treasuries
+$
+30,876
+
+$
+—
+
+$
+(
+56
+)
+$
+30,820
+
+Government securities
+247,460
+
+194
+
+(
+695
+)
+246,959
+
+Corporate debt securities
+411,045
+
+874
+
+(
+975
+)
+410,944
+
+Total Current
+689,381
+
+1,068
+
+(
+1,726
+)
+688,723
+
+Non-current:
+U.S. Treasuries
+4,802
+
+30
+
+—
+
+4,832
+
+Government securities
+9,986
+
+75
+
+—
+
+10,061
+
+Corporate debt securities
+14,430
+
+112
+
+—
+
+14,542
+
+Total Non-current
+29,218
+
+217
+
+—
+
+29,435
+
+Total marketable securities
+$
+718,599
+
+$
+1,285
+
+$
+(
+1,726
+)
+$
+718,158
+
+There were 
+no
+ material realized gains or losses on marketable securities for the years ended December 31, 2024 and 2023.
+At December 31, 2024 and 2023, we held 
+213
+ and 
+151
+ debt securities, respectively, that were in an unrealized loss position for less than one year. We did 
+no
+t record an allowance for credit losses as of December 31, 2024 and 2023 related to these securities. The aggregate fair value of debt securities in an unrealized loss position at December 31, 2024 and 2023 was $
+768.1
+ million and $
+513.5
+ million, respectively. There were 
+no
+ individual securities that were in a significant unrealized loss position as of December 31, 2024 and 2023. We regularly review the securities in an unrealized loss position and evaluate the current expected credit loss by considering factors such as historical experience, market data, issuer-specific factors, and current economic conditions. We do not consider these marketable securities to be impaired as of December 31, 2024 and 2023.
+Note 5. 
+Inventory
+Inventory, which consists of commercial supply of PYRUKYND®, consisted of the following:
+(In thousands)
+December 31, 2024
+December 31, 2023
+Raw materials
+$
+89
+
+$
+51
+
+Work-in-process
+24,509
+
+17,568
+
+Finished goods
+3,018
+
+1,457
+
+Total inventory
+$
+27,616
+
+$
+19,076
+
+Note 6. 
+Leases
+Our building leases are comprised of office and laboratory space under non-cancelable operating leases. These lease agreements have remaining lease terms of 
+three years
+ and contain various clauses for renewal at our option. The renewal options were not included in the calculation of the operating lease assets and the operating lease liabilities as the renewal options are not reasonably certain of being exercised. The lease agreements do not contain residual value guarantees. 
+We currently lease approximately 
+146,000
+ square feet at 88 Sidney Street, 
+43,000
+ square feet at 64 Sidney Street, and 
+13,000
+ square feet at 38 Sidney Street, Cambridge, Massachusetts. All leases, as amended, expire on February 29, 2028. At the end of the initial lease period, we have the option to extend the leases at all facilities for 
+two
+ consecutive 
+five-year
+ periods at the fair market rent at the time of the extension.
+The components of lease expense and other information related to leases were as follows:
+(In thousands)
+2024
+2023
+2022
+Operating lease costs
+$
+15,227
+
+$
+15,227
+
+$
+15,227
+
+Cash paid for amounts included in the measurement of operating lease liabilities
+18,705
+
+18,170
+
+17,035
+
+We have not entered into any material short-term leases or financing leases as of December 31, 2024.
+F-17
+Table of Contents
+In arriving at the operating lease liabilities as of December 31, 2024, we applied the weighted-average incremental borrowing rate of 
+5.7
+% from inception over a weighted-average remaining lease term of 
+3.2
+ years. In arriving at the operating lease liabilities as of December 31, 2023, we applied the weighted-average incremental borrowing rate of 
+5.7
+% over a weighted-average remaining lease term of 
+4.2
+ years.
+As of December 31, 2024, undiscounted minimum rental commitments under non-cancelable leases, for each of the next five years and total thereafter, were as follows:
+(In thousands)
+2025
+$
+17,943
+
+2026
+20,151
+
+2027
+20,755
+
+2028
+3,479
+
+Undiscounted minimum rental commitments
+62,328
+
+Interest
+(
+5,340
+)
+Total operating lease liabilities 
+$
+56,988
+
+We provided our landlord a security deposit of $
+2.9
+ million as security for our leases, which is included within other non-current assets on our consolidated balance sheet.
+In August 2021, we entered into a long-term sublease agreement for 
+13,000
+ square feet of the office space at 38 Sidney Street, Cambridge, Massachusetts, which expired on December 31, 2024. In April 2022, we entered into a long-term sublease agreement for 
+27,000
+ square feet of the office space at 64 Sidney Street, Cambridge, Massachusetts, with the term of the lease running through April 2025. At the end of the initial sublease period, the subtenant has the option to extend the lease for 
+one
+ additional 
+6
+-month period. 
+In May 2023, we entered into a long-term sublease agreement for 
+7,407
+ square feet of office space on the first floor of 64 Sidney Street, Cambridge, Massachusetts, with the term of the lease running through April 2025. At the end of the initial sublease period, the subtenant has the option to extend the lease for 
+one
+ additional year, followed by a second extension option for 
+twenty-two
+ additional months. 
+We recorded operating sublease income of $
+6.4
+ million and $
+6.1
+ million for the years ended December 31, 2024 and December 31, 2023, respectively, in other income, net in the consolidated statements of operations. We hold security deposits from our sublessees of approximately $
+0.9
+ million which is recorded within other non-current assets on our consolidated balance sheet.
+As of December 31, 2024, the future minimum lease payments to be received under the long-term sublease agreements were as follows:
+(In thousands)
+2025
+$
+1,310
+
+Total
+$
+1,310
+
+Note 7. 
+Accrued Expenses
+Accrued expenses consisted of the following at December 31:
+(In thousands)
+2024
+2023
+Accrued compensation
+$
+29,935
+
+$
+23,232
+
+Accrued research and development costs
+10,548
+
+15,463
+
+Accrued professional fees
+4,316
+
+3,115
+
+Accrued other
+2,062
+
+1,357
+
+Total accrued expenses
+$
+46,861
+
+$
+43,167
+
+F-18
+Table of Contents
+Note 8. 
+Product Revenue
+We generate product revenue from sales of PYRUKYND® to a limited number of specialty distributors and specialty pharmacy providers, or collectively, the Customers. These Customers subsequently resell PYRUKYND® to pharmacies or dispense PYRUKYND® directly to patients. In addition to distribution agreements with Customers, we enter into arrangements with healthcare providers and payors that provide for government-mandated and/or privately-negotiated rebates, chargebacks and discounts with respect to the purchase of PYRUKYND®.
+The performance obligation related to the sale of PYRUKYND® is satisfied and revenue is recognized when the Customer obtains control of the product, which occurs at a point in time, typically upon delivery to the Customer.
+Product revenue, net, was as follows for the years ended December 31: 
+(In thousands)
+2024
+2023
+2022
+Product revenue, net
+$
+36,498
+
+$
+26,823
+
+$
+11,740
+
+One Customer accounted for 
+95
+%, 
+96
+% and 
+97
+% of our consolidated revenues for the years ended December 31, 2024, 2023 and 2022, respectively, and 
+92
+% and 
+97
+% of accounts receivable from product sales for the years ended December 31, 2024 and 2023, respectively.
+Reserves for Variable Consideration
+Revenues from product sales are recorded at the net sales price, or transaction price, which includes estimates of variable consideration for which reserves are established and result from contractual adjustments, government rebates, returns and other allowances that are offered within the contracts with our Customers, healthcare providers, payors and other indirect customers relating to the sale of our products.
+The following tables summarize balances and activity in each of the product revenue allowance and reserve categories for the years ended December 31, 2024 and December 31, 2023:
+(In thousands)
+Contractual Adjustments
+Government Rebates
+Returns
+Total
+Balance at December 31, 2023
+$
+156
+
+$
+1,084
+
+$
+232
+
+$
+1,472
+
+Current provisions relating to sales in the current year
+1,300
+
+2,593
+
+399
+
+4,292
+
+Adjustments relating to prior years
+(
+39
+)
+(
+711
+)
+(
+45
+)
+(
+795
+)
+Payments/returns relating to sales in the current year
+(
+1,079
+)
+(
+1,239
+)
+—
+
+(
+2,318
+)
+Payments/returns relating to sales in the prior years
+(
+85
+)
+(
+373
+)
+(
+97
+)
+(
+555
+)
+Balance at December 31, 2024
+$
+253
+
+$
+1,354
+
+$
+489
+
+$
+2,096
+
+(In thousands)
+Contractual Adjustments
+Government Rebates
+Returns
+Total
+Balance at December 31, 2022
+$
+65
+
+$
+573
+
+$
+133
+
+$
+771
+
+Current provisions relating to sales in the current year
+1,079
+
+2,086
+
+2,182
+
+5,347
+
+Adjustments relating to prior years
+—
+
+(
+237
+)
+(
+77
+)
+(
+314
+)
+Payments/returns relating to sales in the current year
+(
+938
+)
+(
+1,003
+)
+(
+1,958
+)
+(
+3,899
+)
+Payments/returns relating to sales in the prior years
+(
+50
+)
+(
+335
+)
+(
+48
+)
+(
+433
+)
+Balance at December 31, 2023
+$
+156
+
+$
+1,084
+
+$
+232
+
+$
+1,472
+
+F-19
+Table of Contents
+Total revenue-related reserves above, included in our consolidated balance sheets, are summarized as follows:
+(In thousands)
+December 31, 2024
+December 31, 2023
+Reduction of accounts receivable
+$
+124
+
+$
+151
+
+Component of accrued expenses 
+1,972
+
+1,321
+
+Total revenue-related reserves
+$
+2,096
+
+$
+1,472
+
+The following table presents changes in our contract assets, which consisted of accounts receivable, net: 
+(In thousands)
+December 31, 2024
+December 31, 2023
+Beginning balance
+$
+2,810
+
+$
+2,206
+
+   Additions 
+(1)
+39,973
+
+31,855
+
+   Deductions 
+(1)
+(
+38,674
+)
+(
+31,251
+)
+Ending balance
+$
+4,109
+
+$
+2,810
+
+(1)  Additions to contract assets relate to amounts billed to Customers for product sales, and deductions to contract assets primarily relate to collection of receivables during the reporting period.
+
+Note 9. 
+Share-Based Payments 
+2023 Stock Incentive Plan and Inducement Grants
+In June 2023, our stockholders approved the 2023 Stock Incentive Plan, or the 2023 Plan. The 2023 Plan provides for the grant of incentive stock options, nonstatutory stock options, stock appreciation rights, restricted stock awards, RSUs, PSUs, and other stock-based awards to employees, advisors, consultants and non-employee directors. 
+Following the adoption of the 2023 Plan, we ceased granting equity awards under the 2013 Stock Incentive Plan, or the 2013 Plan. Any outstanding equity awards that were previously granted under the 2013 Plan continue to be governed by their terms. Following adoption of the 2013 Plan, we ceased granting equity awards under the 2007 Stock Incentive Plan, or the 2007 Plan. There are no outstanding equity awards under the 2007 Plan.
+In connection with the start of employment of our Chief Executive Officer and Chief Financial Officer in 2022, and our Chief Commercial Officer in 2023, our board of directors granted each of them equity awards in the form of stock options, RSUs and PSUs, which awards were made outside our equity incentive plans as inducements material to their respective entry into employment with us in accordance with Nasdaq Listing Rule 5635(c)(4).
+As of December 31, 2024, the maximum number of shares reserved under the 2013 Plan, the 2023 Plan and the inducement grants described above was 
+10,896,149
+, and we had 
+2,868,747
+ shares available for future issuance under the 2023 Plan.
+F-20
+Table of Contents
+Stock options
+The following table summarizes the stock option activity of all stock incentive plans for the year ended December 31, 2024:
+Number of
+Stock
+Options
+Weighted-
+Average
+Exercise
+Price
+Weighted-
+Average
+Remaining
+Contractual
+Term
+(in years)
+Aggregate
+Intrinsic
+Value (in
+thousands)
+Outstanding at December 31, 2023
+5,263,681
+
+$
+44.94
+
+6.36
+$
+423
+
+Granted
+1,050,087
+
+34.40
+
+Exercised
+(
+343,341
+)
+34.39
+
+Cancelled/Forfeited
+(
+79,253
+)
+39.00
+
+Expired
+(
+56,918
+)
+71.76
+
+Outstanding at December 31, 2024
+5,834,256
+
+$
+43.48
+
+6.21
+$
+11,911
+
+Exercisable at December 31, 2024
+3,851,037
+
+$
+49.62
+
+5.02
+$
+6,574
+
+Vested and expected to vest at December 31, 2024
+5,834,256
+
+$
+43.48
+
+6.21
+$
+11,911
+
+The weighted-average grant date fair value of options granted was $
+18.92
+, $
+14.32
+ and $
+15.64
+ during the years ended December 31, 2024, 2023 and 2022, respectively. The total intrinsic value of options exercised was $
+3.3
+ million, $
+2.9
+ million and $
+0.3
+ million during the years ended December 31, 2024, 2023 and 2022, respectively.
+At December 31, 2024, the total unrecognized compensation expense related to unvested stock option awards was $
+29.1
+ million, which we expect to recognize over a weighted-average period of approximately 
+2.37
+ years.
+Restricted stock units
+Upon vesting, each RSU entitles the holder to receive a specified number of shares of our common stock. 
+The following table presents RSU activity for the year ended December 31, 2024:
+Number of
+Stock Units
+Weighted-Average
+Grant Date
+Fair Value
+Unvested shares at December 31, 2023
+1,346,701
+
+$
+29.67
+
+Granted
+1,144,164
+
+32.33
+
+Vested
+(
+594,511
+)
+32.70
+
+Forfeited
+(
+77,791
+)
+30.86
+
+Unvested shares at December 31, 2024
+1,818,563
+
+$
+30.31
+
+As of December 31, 2024, there was approximately $
+33.6
+ million of total unrecognized compensation expense related to RSUs, which we expect to be recognized over a weighted-average period of 
+1.87
+ years.
+Performance-based stock units
+At the achievement of the performance-based and service-based vesting criteria, each PSU entitles the holder to receive a specified number of shares of our common stock. 
+The following table presents PSU activity for the year ended December 31, 2024:
+Number of
+Stock Units
+Weighted-Average
+Grant Date
+Fair Value
+Unvested shares at December 31, 2023
+362,133
+
+$
+30.66
+
+Granted
+183,000
+
+32.27
+
+Vested
+(
+170,550
+)
+35.04
+
+Unvested shares at December 31, 2024
+374,583
+
+$
+29.45
+
+Stock-based compensation expense associated with these PSUs is recognized if the underlying performance condition is considered probable of achievement using our management’s best estimates. As of December 31, 2024, there was 
+no
+ unrecognized compensation expense related to PSUs with performance-based vesting criteria that are considered probable of achievement that we expect to recognize. There was $
+11.0
+ million of total unrecognized compensation expense related to PSUs 
+F-21
+Table of Contents
+with performance-based vesting criteria that are considered not probable of achievement.
+Market-based stock units
+We have issued certain equity awards that contain market based vesting conditions, in which shares of stock are earned at vesting based on stock price performance. The fair value of market-based stock units, or MSUs, are estimated using a Monte Carlo simulation model. Assumptions and estimates utilized in the model include the risk-free interest rate, dividend yield, expected stock volatility and the estimated period to achievement of the market condition. 
+The following table presents MSU activity for the year ended December 31, 2024:
+Number of
+Stock Units
+Weighted-Average
+Grant Date
+Fair Value
+Unvested shares at December 31, 2023
+42,695
+
+$
+41.50
+
+Expired
+(
+42,695
+)
+41.50
+
+Unvested shares at December 31, 2024
+—
+
+$
+—
+
+As of December 31, 2024, there was 
+no
+ remaining unrecognized compensation expense related to MSUs.
+Amended and Restated 2013 Employee Stock Purchase Plan
+In June 2013, our Board of Directors adopted, and in July 2013 our stockholders approved, the 2013 ESPP, which was further amended and restated by our Board of Directors in December 2024. We issued 
+102,805
+ shares and 
+112,832
+ shares during the years ended December 31, 2024 and 2023, respectively, under the 2013 ESPP. The 2013 ESPP provides participating employees with the opportunity to purchase up to an aggregate of 
+2,363,636
+ shares of our common stock. As of December 31, 2024, we had 
+1,583,234
+ shares available for future issuance under the 2013 ESPP. 
+Stock-based compensation expense
+During the years ended December 31, 2024, 2023 and 2022, we recorded stock-based compensation expense for employee and non-employee stock options, RSUs, PSUs, and ESPP shares. 
+Stock-based compensation expense by award type included within the consolidated statements of operations is as follows:
+(In thousands)
+2024
+2023
+2022
+Stock options
+$
+17,519
+
+$
+17,163
+
+$
+23,731
+
+Restricted stock units
+23,553
+
+19,367
+
+21,670
+
+Performance-based stock units
+750
+
+7,368
+
+2,919
+
+Employee Stock Purchase Plan
+1,025
+
+868
+
+976
+
+Total stock-based compensation expense
+$
+42,847
+
+$
+44,766
+
+$
+49,296
+
+Expenses related to equity-based awards were allocated as follows in the consolidated statements of operations:
+(In thousands)
+2024
+2023
+2022
+Research and development expense
+$
+16,910
+
+$
+17,064
+
+$
+20,988
+
+Selling, general and administrative expense
+25,937
+
+27,702
+
+28,308
+
+Total stock-based compensation expense
+$
+42,847
+
+$
+44,766
+
+$
+49,296
+
+No
+ related tax benefits were recognized for the years ended December 31, 2024, 2023 and 2022.
+F-22
+Table of Contents
+The fair value of each stock option granted to employees and non-employees is estimated on the date of grant using the Black-Scholes option-pricing model. 
+The following table summarizes the weighted average assumptions used in calculating the grant date fair value of the awards:
+2024
+2023
+2022
+Risk-free interest rate
+4.15
+
+%
+4.05
+
+%
+2.55
+
+%
+Expected dividend yield
+—
+
+—
+
+—
+
+Expected term (in years)
+6.02
+5.99
+6.03
+Expected volatility
+53.32
+
+%
+54.26
+
+%
+55.30
+
+%
+Expected term
+We use the “simplified method” as prescribed by the Securities and Exchange Commission Staff Accounting Bulletin No. 107, 
+Share Based Payments
+, to estimate the expected term of stock option grants. Under this approach, the weighted-average expected life is presumed to be the average of the contractual term of 
+ten years
+ and the weighted-average vesting term of the stock options, taking into consideration multiple vesting tranches. We utilize this method due to the plain-vanilla nature of our share-based awards. 
+Volatility
+The expected volatility has been determined using our historical volatilities for a period equal to the expected term of the option grant.
+Risk-free rate
+The risk-free rate is based on the yield curve of U.S. Treasury securities with periods commensurate with the expected term of the options being valued. 
+Dividends
+We have never paid, and do not anticipate paying, any cash dividends in the foreseeable future, and, therefore, use an expected dividend yield of 
+zero
+ in the option-pricing model. 
+Forfeitures
+We account for forfeitures as they occur and, therefore, do not estimate forfeitures.
+Note 10. 
+Net Income (Loss) per Share
+Basic net income (loss) per share is calculated by dividing net income (loss) by the weighted-average shares outstanding during the period, without consideration for common stock equivalents. Diluted net income (loss) per share is calculated by adjusting the weighted-average shares outstanding for the dilutive effect of common stock equivalents outstanding for the period, determined using the treasury stock method. For purposes of the dilutive net income (loss) per share calculation, stock options, RSUs and PSUs for which the performance and market vesting conditions, respectively, have been deemed probable, and 2013 ESPP shares are considered to be common stock equivalents, while PSUs with performance and market vesting conditions, respectively, that were not deemed probable as of December 31, 2024 are not considered to be common stock equivalents.
+We utilize the control number concept in the computation of diluted earnings per share to determine whether potential common stock equivalents are dilutive. The control number used is net income (loss) from continuing operations. The control number concept requires that the same number of potentially dilutive securities applied in computing diluted earnings per share from continuing operations be applied to all other categories of income or loss, regardless of their anti-dilutive effect on such categories. Since we had a net loss for the years ended December 31, 2023 and 2022, no dilutive effect was recognized in the calculation of loss per share and basic and diluted net loss per share was the same for those periods.
+F-23
+Table of Contents
+The following is a reconciliation of basic weighted-average number of common shares used in computing net income (loss) per share to diluted weighted-average number of common shares used in computing net income (loss) per share for the periods indicated:
+Years ended December 31,
+2024
+2023
+2022
+Basic shares
+56,807,415
+
+55,651,487
+
+54,789,435
+
+Effect of dilutive securities
+Stock options
+336,446
+
+—
+
+—
+
+Restricted stock units
+732,925
+
+—
+
+—
+
+Performance-based stock units
+8,845
+
+—
+
+—
+
+Employee stock purchase plan shares
+3,624
+
+—
+
+—
+
+Diluted shares
+57,889,255
+
+55,651,487
+
+54,789,435
+
+The following common stock equivalents were excluded from the calculation of diluted net income (loss) per share applicable to common stockholders for the periods indicated because including them would have had an anti-dilutive effect:
+Years ended December 31,
+2024
+2023
+2022
+Stock options
+3,926,330
+
+5,263,681
+
+5,772,564
+
+Restricted stock units
+95,679
+
+1,346,701
+
+1,117,921
+
+Performance-based stock units
+—
+
+145,023
+
+—
+
+Employee Stock Purchase Plan shares
+3,987
+
+48,713
+
+42,026
+
+Total
+4,025,996
+
+6,804,118
+
+6,932,511
+
+Note 11. 
+Income Taxes
+The domestic and foreign components of income (loss) before income taxes are as follows:
+(In thousands)
+2024
+2023
+2022
+Domestic
+$
+717,967
+
+$
+(
+352,085
+)
+$
+(
+231,767
+)
+Foreign
+2
+
+(
+3
+)
+(
+34
+)
+Total
+$
+717,969
+
+$
+(
+352,088
+)
+$
+(
+231,801
+)
+We did not have any provision for income taxes for the years ended December 31, 2023 and 2022.
+A reconciliation of the expected income tax expense (benefit) computed using the federal statutory income tax rate to our effective income tax rate is as follows for the years ended December 31, 2024, 2023 and 2022:
+2024
+2023
+2022
+Federal statutory tax rate
+21.0
+
+%
+21.0
+
+%
+21.0
+
+%
+State taxes, net of federal benefit
+1.6
+
+%
+1.9
+
+%
+2.9
+
+%
+Change in valuation allowance
+(
+14.5
+)
+%
+(
+23.8
+)
+%
+(
+25.7
+)
+%
+General business credits and other credits
+(
+2.6
+)
+%
+4.2
+
+%
+5.2
+
+%
+Permanent differences and other adjustments
+0.6
+
+%
+(
+2.8
+)
+%
+(
+2.3
+)
+%
+Stock based compensation
+0.1
+
+%
+(
+0.5
+)
+%
+(
+1.1
+)
+%
+Total
+6.2
+
+%
+—
+
+%
+—
+
+%
+F-24
+Table of Contents
+Deferred income taxes reflect the net tax effects of temporary differences between the carrying amount of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes. 
+Significant components of our deferred tax assets and liabilities for the years ended December 31, 2024 and 2023 are as follows:
+(In thousands)
+2024
+2023
+Deferred tax assets:
+Net operating loss carryforwards
+$
+26,492
+
+$
+64,066
+
+Tax credit carryforwards
+83,994
+
+180,635
+
+Purchased intangible assets
+12,713
+
+14,155
+
+Stock-based compensation
+21,090
+
+20,954
+
+Operating lease liability
+13,023
+
+16,780
+
+Non-deductible accruals and reserves, including inventory
+8,635
+
+5,134
+
+Section 174 R&D expense
+121,530
+
+93,333
+
+Total deferred tax assets
+287,477
+
+395,057
+
+Depreciation and amortization
+(
+1,193
+)
+(
+1,986
+)
+Operating lease right of use asset
+(
+10,713
+)
+(
+13,411
+)
+Less: valuation allowance
+(
+275,571
+)
+(
+379,660
+)
+Net deferred taxes
+$
+—
+
+$
+—
+
+The Tax Cuts and Jobs Act, or TCJA, requires taxpayers to capitalize and amortize research and experimental expenditures under Internal Revenue Code section 174 for tax years beginning after December 31, 2021. We capitalized research and experimental costs of $
+244.9
+ million and $
+232.7
+ million for the years ended December 31, 2024 and December 31, 2023, respectively. We will amortize these costs for tax purposes over 
+5
+ years if the research and experimentation was performed in the U.S. and over 
+15
+ years if the research and experimentation was performed outside the U.S.
+As of December 31, 2024, we had net operating loss carryforwards, or NOLs, available to reduce state and foreign income taxes of approximately $
+320.0
+ million and $
+65.2
+ million, respectively. At December 31, 2024, we also had available research and development tax credits for federal and state income tax purposes of approximately $
+23.2
+ million and $
+29.3
+ million, respectively. If not utilized, the credits begin to expire in 2040 and 2028 for federal and state income tax purposes, respectively. We engaged in clinical testing activities and incurred expenses that qualify for the federal orphan drug tax credit. At December 31, 2024, we had available orphan drug tax credits for federal purposes only of approximately $
+37.5
+ million. If not utilized, the orphan drug credits begin to expire in 2040.
+As provided by Section 382 of the Internal Revenue Code of 1986, or Section 382, and similar state provisions, utilization of NOLs and tax credit carryforwards may be subject to substantial annual limitations due to ownership change limitations that have previously occurred or that could occur in the future. Ownership changes may limit the amount of NOLs and tax credit carryforwards that can be utilized annually to offset future taxable income and tax, respectively. In general, an ownership change, as defined by Section 382, results from transactions that increase the ownership of five percent stockholders in the stock of a corporation by more than 
+50
+ percent in the aggregate over a 
+three year
+ period. We completed a review of our changes in ownership through December 31, 2024 and determined that transactions have resulted in no ownership changes during the year ended December 31, 2024, as defined by Section 382. The impact of the historical ownership changes has been reflected in our deferred tax assets in the table above. 
+As required by ASC 740, we have evaluated the positive and negative evidence bearing upon the realizability of our deferred tax assets. Based on the weight of available evidence, both positive and negative, we recorded a valuation allowance of $
+275.6
+ million and $
+379.7
+ million as of December 31, 2024 and December 31, 2023, respectively, because we have determined that it is more likely than not that these assets will not be fully realized. The valuation allowance decreased by $
+104.1
+ million for the year ended December 31, 2024 and increased by $
+83.7
+ million for the year ended December 31, 2023. The decrease for the year ended December 31, 2024 relates primarily to the utilization of tax attributes to offset taxable income, and the increase for the year ended December 31, 2023 primarily due to the Section 174 R&D expense capitalization.
+F-25
+Table of Contents
+The following table presents our change in valuation allowance for the years ended December 31, 2024 and, 2023:
+(In thousands)
+2024
+2023
+Valuation allowance at the beginning of the year
+$
+379,660
+
+$
+295,993
+
+Increase (decrease) for the current period
+(
+104,089
+)
+83,667
+
+Valuation allowance at the end of the year
+$
+275,571
+
+$
+379,660
+
+As of December 31, 2024, the unremitted earnings of our foreign subsidiaries are not material. We have not provided for U.S. income taxes or foreign withholding taxes on these earnings as it is our current intention to permanently reinvest these earnings outside the U.S. The tax liability on these earnings is also not material. Events that could trigger a tax liability include, but are not limited to, distributions, reorganizations or restructurings and/or tax law changes.
+We apply the accounting guidance in ASC 740 related to accounting for uncertainty in income taxes. Our reserves related to taxes are based on a determination of whether, and how much of, a tax benefit taken by us in our tax filings or positions is more likely than not to be realized following resolution of any potential contingencies present related to the tax benefit.
+The following table presents our unrecognized tax benefits activity for the years ended December 31, 2024 and 2023:
+(In thousands)
+2024
+2023
+Unrecognized tax benefits at the beginning of the year
+$
+28,578
+
+$
+26,190
+
+Gross increases - current period tax positions
+3,013
+
+2,388
+
+Unrecognized tax benefits at the end of the year
+$
+31,591
+
+$
+28,578
+
+We will recognize interest and penalties related to uncertain tax positions above the line as an expense to continuing operations. As of December 31, 2024 and 2023, we had 
+no
+ accrued interest or penalties related to uncertain tax positions and no such amounts have been recognized. If all of our unrecognized tax benefits as of December 31, 2024 were to become recognizable in the future, we would record $
+31.6
+ million of unrecognized tax benefits. The uncertain tax position does not impact our effective income tax rate due to the full valuation allowance.
+We are subject to taxation in the United States, Switzerland, Netherlands, Germany, Italy and France. The statute of limitations for assessment by the IRS and state tax authorities is open for tax years ending December 31, 2024, 2023, 2022, and 2021, although carryforward attributes that were generated for tax years prior to 2021 may still be adjusted upon examination by the IRS or state tax authorities if they either have been, or will be, used in a future period. The statute of limitations for assessments in Switzerland, the Netherlands and Italy remains open for tax years ending December 31, 2024, 2023, 2022, 2021 and 2020. Our subsidiary in Germany has statute of limitations for assessments open are for the tax years ending December 31, 2024, 2023, 2022, and 2021, and our subsidiary in France has statute of limitations for assessments for the tax years ending December 31, 2024, 2023, and 2022. There are currently 
+no
+ federal, state or foreign audits in progress.
+As of December 31, 2024 we had an income tax payable of $
+0.9
+ million and as of December 31, 2023 we had an income tax receivable of $
+1.1
+ million, which is recorded within prepaid expenses and other current assets
+ in our consolidated balance sheets.
+F-26
+Table of Contents
+Note 12. 
+Property and Equipment, net
+Property and equipment, net consisted of the following at December 31:
+(In thousands)
+2024
+2023
+Laboratory equipment
+$
+17,529
+
+$
+17,433
+
+Computer equipment and software
+6,454
+
+6,566
+
+Leasehold improvements
+37,519
+
+37,277
+
+Furniture and fixtures
+3,454
+
+3,459
+
+Office equipment
+2,319
+
+2,268
+
+Construction in progress
+897
+
+608
+
+Total property and equipment
+68,172
+
+67,611
+
+Less: accumulated depreciation
+(
+56,497
+)
+(
+52,229
+)
+Total property and equipment, net
+$
+11,675
+
+$
+15,382
+
+Depreciation expense for the years ended December 31, 2024, 2023 and 2022 was $
+5.7
+ million, $
+6.6
+ million and $
+8.4
+ million, respectively.
+Note 13. 
+Common Stock
+We are authorized to issue 
+125,000,000
+ shares of our common stock. Holders of common stock are entitled to 
+one
+ vote per share. Additionally, holders of common stock are entitled to receive dividends, if and when declared by our board of directors, and to share ratably in our assets legally available for distribution to our shareholders in the event of liquidation.
+
+Note 14. 
+Commitments and Contingent Liabilities 
+Manufacturing Commitments
+We are party to various agreements with contract manufacturing organizations that we are not contractually able to terminate for convenience and avoid any and all future obligations to the vendors. Under such agreements, we are obligated to make certain minimum payments, with the exact amounts in the event of termination to be based on the timing of the termination and the exact terms of the agreement.
+Legal Contingencies
+From time to time, we may be involved in disputes and legal proceedings in the ordinary course of business. These proceedings may include allegations of infringement of intellectual property, employment or other matters. We do 
+no
+t have any ongoing legal proceedings that, based on our estimates, could have a material effect on our consolidated financial statements.
+Note 15. 
+Defined Contribution Benefit Plan
+We sponsor a 401(k) retirement plan, in which substantially all our full-time employees are eligible to participate. Participants may contribute a percentage of their annual compensation to this plan, subject to statutory limitations. We will make matching contributions equal to 
+100
+% of the employee’s contributions, subject to a maximum of 
+4
+% of eligible compensation.
+Note 16. 
+Segment Information
+Operating segments are identified as components of an enterprise about which separate discrete financial information is available for evaluation by the CODM or decision-making group in making decisions on how to allocate resources and assess performance. Our CODM is our CEO. Our CEO views our operations and manages our business as 
+one
+ operating segment, which derives its revenues from the development and commercialization of therapies for patients with rare diseases.
+Our CEO manages and allocates resources to the operations of our company on a total company basis by assessing the overall level of resources available and how to best deploy these resources across functions and research and development projects that are in line with our long-term company-wide strategic goals. In making these decisions, our CEO uses consolidated financial information for purposes of evaluating performance, forecasting future period financial results, allocating resources and setting incentive targets. The CODM performs this assessment based on the Company’s consolidated net income (loss). Through this analysis, the CODM assesses performance by comparing actual consolidated net income (loss) versus the budget, and then decides how to allocate resources to invest in the Company’s research and development programs. The measure of segment assets is reported on the consolidated balance sheets as total assets.
+F-27
+The following table contains additional information on our consolidated revenue and net income (loss), including significant segment expenses:
+(In thousands) Years Ended December 31:
+2024
+2023
+2022
+Product revenue, net
+$
+36,498
+
+$
+26,823
+
+$
+11,740
+
+PK activator (PYRUKYND®) direct expenses - research and development
+(
+112,720
+)
+(
+101,322
+)
+(
+83,271
+)
+Compensation and related expenses - research and development
+(
+114,618
+)
+(
+108,484
+)
+(
+109,248
+)
+Total selling, general and administrative expenses
+(
+156,784
+)
+(
+119,903
+)
+(
+121,673
+)
+Gain on sale of contingent payments
+889,136
+
+—
+
+127,853
+
+Milestone payment from gain on sale of oncology business
+200,000
+
+—
+
+—
+
+Other segment items*
+(
+67,787
+)
+(
+49,202
+)
+(
+57,202
+)
+Net income (loss)
+$
+673,725
+
+$
+(
+352,088
+)
+$
+(
+231,801
+)
+*Other segment items primarily include milestone revenue, cost of sales, other research and development expenses, interest income and income taxes.
+F-28

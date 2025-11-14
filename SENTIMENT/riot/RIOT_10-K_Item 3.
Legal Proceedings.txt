@@ -1,0 +1,84 @@
+Item 3.
+Legal Proceedings
+32
+Item 4.
+Mine Safety Disclosures
+32
+​
+PART II
+​
+Item 5.
+Market for Registrant’s Common Equity, Related Stockholder Matters, and Issuer Purchases of Equity Securities
+32
+Item 6.
+[Reserved]
+35
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+35
+Item 7A.
+Quantitative and Qualitative Disclosures About Market Risk
+53
+Item 8.
+Financial Statements and Supplementary Data
+55
+Item 9.
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+67
+Item 9A.
+Controls and Procedures
+67
+Item 9B.
+Other Information
+70
+Item 9C.
+Disclosure Regarding Foreign Jurisdictions That Prevent Inspections
+70
+​
+PART III
+​
+Item 10.
+Directors, Executive Officers, and Corporate Governance
+71
+Item 11.
+Executive Compensation
+71
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+72
+Item 13.
+Certain Relationships and Related Transactions, and Director Independence
+73
+Item 14.
+Principal Accountant Fees and Services
+73
+​
+PART IV
+​
+Item 15.
+Exhibits and Financial Statement Schedules
+74
+Item 16.
+Form 10-K Summary
+79
+​
+​
+​
+​
+2
+
+Table of Contents
+RIOT PLATFORMS, INC.
+As used in this Annual Report on Form 10-K for the fiscal year ended December 31, 2024 (this “Annual Report”), the terms “we,” “us,” “our,” the “Company,” the “Registrant,” “Riot Platforms,” and “Riot” mean Riot Platforms, Inc., a Nevada corporation, and its consolidated subsidiaries, unless otherwise indicated.
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+This Annual Report contains forward-looking statements within the meaning of the United States Private Securities Litigation Reform Act of 1995 (the “PSLRA”). The Company may also make forward-looking statements in the other reports and documents filed with the United States Securities and Exchange Commission (the “SEC”), including those documents and filings incorporated by reference herein. All statements in this Annual Report and the documents incorporated by reference herein, other than statements of historical fact, are “forward-looking statements” within the scope of this cautionary note, including, but not limited to, statements concerning: our plans, strategies and objectives for future operations, integration of new equipment, systems, technologies, services or developments, the feasibility of developing the Company’s remaining power capacity for artificial intelligence (“AI”)/high-performance computing (“HPC”) uses, and the development and implementation of industrial-scale immersion-cooled Bitcoin mining hardware at our Bitcoin Mining facilities in Kentucky and Texas; the anticipated demand for AI/HPC uses; future economic conditions, performance, or outlooks; future political conditions; the outcome of contingencies; potential acquisitions or divestitures; the number and value of Bitcoin rewards and transaction fees we earn from our Bitcoin Mining operations; future self-mining hash rate capacity; timing of receipt and deployment of miners; expected cash flows or capital expenditures; our beliefs or expectations; activities, events or developments that we intend, expect, project, believe, or anticipate will or may occur in the future; and assumptions underlying or based upon any of the foregoing. Forward-looking statements may be identified by their use of forward-looking terminology, such as “believes,” “expects,” “may,” “should,” “would,” “will,” “intends,” “plans,” “estimates,” “anticipates,” “projects” and similar words or expressions; however, forward-looking statements may be made without such terminology. 
+​
+Such forward-looking statements reflect our management’s opinions, expectations, beliefs, and assumptions based on information currently available to management regarding future events, which may not materialize or prove to be correct due to certain risks and uncertainties, including those risks which our management has identified and believes to be material and those which management has not identified, or which management does not believe to be material. Such risk factors are described in greater detail under the heading “Risk Factors” in Part I, Item 1A of this Annual Report. It is not possible for our management to predict all risks, the potential impact of all factors on our business, or the extent to which any factor, or combination of factors, may cause our actual results to differ, perhaps materially, from those contained in, or implied by, any forward-looking statements we may make. You should not place undue reliance on these forward-looking statements, which reflect our management’s opinions only as of the date the statements are made and are not guarantees of future performance or actual results. Should any risks or uncertainties develop into actual events, these developments could have a material adverse effect on our business, financial condition, results of operations, stockholder’s equity, and cash flows, and the market price of our securities may decline, as a result. 
+​
+Accordingly, you should read this Annual Report, and the other filings we make with the SEC, completely and with the understanding that our future results may be materially different from our historical results and from the results expressed in, or implied by, the forward-looking statements contained in this Annual Report and the documents incorporated by reference herein. The forward-looking statements contained in this Annual Report and the documents incorporated by reference herein speak only as of the date they are made and, unless otherwise required by applicable securities laws, we disclaim any intention or obligation to update or revise any such forward-looking statements, whether as a result of new information, future events or otherwise. All forward-looking statements attributable to us are expressly qualified by the foregoing cautionary statements and are made in reliance of the safe harbor provisions of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), and the PSLRA. 
+Industry and Market Data
+Information regarding market and industry statistics referenced in or incorporated into this Annual Report has been obtained from industry and other publications that we believe to be reliable, but that are not produced for the purposes of securities filings. We have not independently verified any market, industry, or similar data presented or referenced in this Annual Report, and we cannot assure you of the accuracy or completeness of such data. Further, we have not reviewed or included data from all sources. Forecasts and other forward-looking information obtained from third-party sources are subject to the same qualifications and the additional uncertainties discussed above in this cautionary note accompanying any of our forward-looking statements regarding estimates of future market size, revenue, and market acceptance of products and services. As a result, investors should not place undue reliance on any such forecasts and other forward-looking information.
+3
+
+Table of Contents
+PART I

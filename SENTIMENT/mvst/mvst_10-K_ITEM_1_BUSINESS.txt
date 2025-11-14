@@ -1,0 +1,278 @@
+ITEM 1. BUSINESS
+Microvast Holdings, Inc. is an advanced battery technology company, headquartered in Stafford, Texas, and publicly traded on the NASDAQ under the ticker symbol MVST. We specialize in the design, development, and manufacturing of battery components and systems primarily for electric commercial vehicles and utility-scale energy storage systems ("ESS").
+Founded in 2006, Microvast was built on a guiding principle that remains central to our mission today: to innovate lithium-ion battery designs without relying on past technologies. We call this true innovation. We started without preconceived notions of lithium-ion battery creation, unlike many companies that repurposed legacy technologies for new markets like electric vehicles – a process we consider product development rather than true innovation.  To understand this difference is to understand what we have set out to achieve.
+Our mission is to accelerate the global transition to electrification by delivering innovative battery solutions that support the adoption of electric vehicles and renewable energy. A key strategic focus is to be in a position to lead U.S. domestic battery production, reducing reliance on overseas suppliers, and strengthening national energy independence.  We believe continuous investment in our technology and operations will deliver long-term targeted revenue and income growth.
+Through a vertically integrated approach, we have developed proprietary technologies spanning the entire battery system—from the core cell materials - including cathodes, anodes, electrolytes, and separators - to cells, modules, packs, energy storage containers, thermal management systems, battery management systems, high voltage control boxes, and more.  Our expertise has driven advancements in ultra-fast charging, high energy density, long lifespan, and safety—critical factors for commercial transportation and ESS applications.
+We are expanding our production of battery systems and components, with an increased emphasis on ESS solutions to support the broader shift to electrification. Our goal is to become a global leader in ESS, bridging the gap between EVs and renewable energy. 
+One of our recent innovations is our high-energy nickel manganese cobalt ("NMC") 53.5 ampere-hour battery cell (the “53.5Ah”). We believe its advanced performance characteristics make it an optimal solution for both commercial vehicle and ESS applications. To bring this product to market, we have made substantial investments in capacity expansion in Huzhou, China, where we operate fully automated production equipment that delivers significant operational efficiencies. 
+In previous years, we made significant investments in our capacity expansion in Clarksville, Tennessee and by the fourth quarter of 2023 had started to install certain sections of the production line. However, progress on certain third party construction workstreams as well as taking delivery and possession of further equipment started to be impacted toward the end of the fourth quarter of 2023 due to the required funding to complete the project not being secured. Ultimately, in the second quarter of 2024, we paused construction efforts on the Clarksville development due to insufficient funding. We made a strategic decision to pivot from the originally planned production of NMC production in Clarksville, Tennessee to the 565Ah lithium iron phosphate ("LFP") battery. We also consolidated our ESS operations previously in Colorado to Clarksville, Tennessee in order to enhance operational efficiencies and speed of deliveries for our U.S. business.
+In August 2024, we introduced the Mega Energizer 6 MWh ("ME6") ESS container, featuring the LFP battery. The shift toward LFP technology for the U.S. ESS market is a strategic decision. The ME6 system offers a cycle life exceeding 10,000 cycles, a lifespan of up to 30 years, compact storage capabilities (6 megawatt hours ("MWh"), and enhanced reliability through IP55, C4, and nitrogen protection features. The adoption of LFP batteries provides lower costs, greater safety, and environmental benefits compared to NMC technology, further supporting our sustainability goals. Although construction progress has been negatively impacted by funding constraints, our goal is that our Clarksville, Tennessee facility will be our major production facility for LFP cells once financing is secured and the facility is completed. 
+In January 2025, we announced what we believe is a major breakthrough in solid-state battery technology. This innovation represents a paradigm shift, delivering higher energy density for extended range and improved efficiency, enhanced safety by eliminating risks associated with thermal runaway, and faster charging capabilities with an extended cycle life. We plan to make substantial investments in research and development ("R&D") to accelerate commercialization, with applications spanning EVs, grid storage, and high-performance energy systems.
+1
+Table of Contents
+ For the year ended December 31, 2024, our revenue increased by $73.2 million, reaching $379.8 million, a 24% year-over-year increase. Additionally, our order backlog stood at $401.3 million, with the majority of these orders expected to be fulfilled in 2025 and 2026. As we continue to expand production capacity and advance next-generation battery technologies, we remain committed to driving electrification, fostering innovation, and supporting long-term sustainable growth.
+We remain committed to driving battery innovation, scaling global production, and delivering high-performance sustainable energy solutions that power the future of mobility and energy storage.
+Our Applications
+We are focusing on electrification with battery technologies designed to revolutionize three core sectors: electric commercial vehicles, ESS, and battery components. Our solutions empower industries to transition to cleaner, more efficient power sources, unlocking new levels of performance, longevity, and cost efficiency.
+Electric Commercial Vehicles
+We design, develop, and manufacture high-performance battery solutions for light, medium, and heavy-duty trucks, buses, trains, mining trucks, marine and port vehicles, automated guided vehicles, and specialty vehicles. Our advanced lithium-ion battery systems integrate ultra-fast charging, high energy density, extended lifespan, and industry-exceeding safety standards.
+Our battery technology enables rapid charging from 10% to 80% in just 10 to 30 minutes, significantly reducing vehicle downtime. This ultra-fast charging capability is critical for industries requiring continuous fleet operation, such as logistics, ports, warehouses, and mass transit systems, where substantial downtime is not an option.
+Microvast batteries are engineered to align with the full operational lifespan of commercial vehicles, eliminating the need for mid-cycle battery replacements. Our batteries are engineered for high durability and longevity, with performance validated for extended service life in the field. Our advanced cell chemistry and proprietary thermal management allow for a greater lifespan than many other competing products, which typically have a lifespan of five to six years.
+The extended lifecycle of Microvast battery solutions translates into lower long-term costs for fleet operators, reducing the frequency of battery replacements and minimizing total system expenditures. This advantage is particularly significant in applications where high energy throughput and continuous operation are required, such as public transportation, heavy-duty trucking, and port electrification.
+Fleet operators prioritize total cost of ownership ("TCO") metrics when evaluating battery solutions as an alternative to internal combustion engines ("ICEs"). Our combination of ultra-fast charging, extended cycle life, and high energy density provides a significant TCO advantage compared to traditional batteries, ensuring cost efficiency over the vehicle’s lifetime.
+By reducing charging downtime, replacement cycles, and overall maintenance costs, Microvast batteries enable fleet operators to achieve a lower cost per mile compared to both ICE vehicles and traditional lithium-ion battery solutions. This financial advantage makes Microvast battery systems a strategic long-term investment for commercial fleets transitioning to electrification.
+We develop our own BMS technology in-house, ensuring that we control design and can make efforts to optimize battery performance, safety, and longevity. The latest BMS 5.0 platform meets ISO 26262 functional safety and ISO 21434 cybersecurity standards, integrating digital twin technology to better optimize battery for real-time monitoring and predictive diagnostics.
+This technology enhances operational efficiency by:
+•
+Optimizing battery performance through advanced cell balancing algorithms
+•
+Identifying and addressing safety risks, including thermal runaway detection and mitigation
+•
+Providing predictive analytics to extend battery lifespan and minimize unplanned downtime
+2
+Table of Contents
+Expanding Market Presence
+The market potential for electric commercial vehicles is significant because the global transportation sector is the second largest emitter of greenhouse gases (“GHGs”), with commercial vehicles accounting for approximately one third of these emissions. This EV opportunity encompasses a large variety of vehicles, including buses, light commercial vans, light, medium and heavy duty trucks, mining equipment, port equipment and specialty vehicles. Microvast technologies are in operation in all of these vehicle types across Asia & Pacific, India, Europe, and North America.
+The key benefits of our technologies are being recognized by leading commercial vehicle original equipment manufacturers (“OEMs”). Building upon the Industrial and Commercial Cooperation Agreement we entered into with Iveco Group N.V. in 2019, we are benefiting from the successful deployment of their light commercial vehicles (IVECO eDaily, which launched in fourth quarter of 2022) and also certain bus platforms, such as the Iveco Citybus, Intercity, Crossway, and others which have been presented for multiple tenders since 2022 using our battery technologies. 
+Additionally, we are collaborating with large OEMs such as BAIC Truck Co., Ltd., Higer Bus Co., Ltd., JBM Electric Vehicles Private Ltd. and Ashok Leyland Ltd.  In the port equipment sector, we continue to supply to Kalmar Corp. (one of the world's leading OEMs in this segment), based on our existing long-term partnership agreement which is scheduled to run until 2026. Additionally, we are working on strengthening our position in the market for terminal tractors by serving customers like Trepel Airport Equipment GmbH. We remain engaged with mining truck OEMs such as Xuzhou Construction Machinery Group Co., Ltd., Lingong Heavy Machinery Co., Ltd. and others. 
+We have identified the marine market as an additional application for our battery systems. On June 27, 2024, Microvast announced a strategic partnership with Evoy AS (“Evoy”) to electrify small leisure boats marking our entry into the marine segment in Europe. Evoy will be integrating Microvast MV-I high-power battery packs into their leisure boat product line.  The MV-I battery pack offers a range of environmental and technical benefits such as fast responsive torque for quick acceleration.  The self-contained, integrated cooling plate of the MV-I battery pack offers enhanced safety and reliability in boat applications.  Microvast-powered marine motors will provide an exhaust and fuel free power solution that reduces noise, air, and water pollution. The MV-I battery pack combines a lightweight design with innovative lithium-ion technology, increasing energy density by up to 180 Wh/kg. This groundbreaking design maintains the robustness required for boat applications, supporting high-performance electric boating. In addition to the marine market, we believe the railway market also presents potential attractive possibilities for our technologies which we are actively pursuing.
+Microvast’s breakthroughs in ultra-fast charging, battery lifespan, TCO efficiency and BMS innovation solidify its potential as a key player in commercial fleet electrification. As global regulations push toward zero-emission transport, our proprietary battery solutions provide a distinct competitive edge, ensuring high performance, reliability and long-term cost savings for fleet operators and OEM partners worldwide.
+Utility-Scale ESS
+The transition to zero-emission commercial vehicles is most impactful when paired with clean, reliable energy sources. Renewable energy, such as solar and wind, requires robust storage solutions to ensure consistent availability, making energy storage a cornerstone of electrification and grid stability.
+In October 2022, we announced the development of our new ESS battery solution. Our ESS solution captures excess energy from renewable sources and dispatches it to the grid during peak demand periods, a process known as energy shifting. Designed for high performance and efficiency, our ESS container incorporates our high-energy 53.5Ah NMC cell technology, offering an energy density of 235 Wh/kg to maximize efficiency and reliability.
+On August 8, 2024, we unveiled the latest ESS product, the high energy density ME6 system and the latest product in our extensive battery solutions portfolio, the 565Ah LFP battery. Unlike our ultra-high performance NMC batteries which are produced to meet the demands of our commercial vehicle customers, our new 565Ah LFP batteries are specifically tailored to the unique demands of ESS customers, providing superior long-term performance, cost efficiency and reliability.
+Our Clarksville, Tennessee facility, initially planned as a key U.S. manufacturing hub, remains incomplete due to the need for additional funding. These funding challenges have delayed our plans for domestic cell and module manufacturing, requiring us to leverage production capacity at our Huzhou, China facility to fulfill existing commitments. Despite these challenges, we remain committed to U.S. manufacturing expansion and continue to seek financing to complete the Clarksville facility.
+3
+Table of Contents
+We believe that the global energy storage market is poised for rapid expansion.  In 2024, global energy storage installations surged to 169 gigawatt hours ("GWh"), marking a 76% increase from the previous year. Industry forecasts project further expansion, with a CAGR of 21%, reaching 137 GW/442 GWh by 2030. The U.S. and China are expected to lead this growth, with U.S. energy storage capacity projected to increase from 30 GWh in 2023 to approximately 450 GWh by 2030. A significant portion of this growth is projected to go towards energy-shifting applications, aligning with our expertise and market focus.
+Battery Components
+As a vertically integrated battery company, Microvast develops and owns proprietary intellectual property and know-how relating to the design, development, and manufacture of the four critical components of lithium-ion batteries: cathode, anode, electrolyte, and separator. This vertical integration allows us to use these components in our products and market the individual components to other lithium-ion battery manufacturers.
+Our latest advancements in cathode and separator technology represent major breakthroughs in battery performance and safety. We believe that our FCG Cathode (as defined below) and polyaramid separator technologies are industry-leading innovations that provide higher energy density, enhanced safety and longer battery lifespan compared to conventional materials.
+Our Technologies
+Since 2008, our research and development efforts have been dedicated to pioneering cutting-edge battery technologies that offer ultra-fast charging, extended lifespan, high energy density and enhanced safety. Our commitment to innovation has positioned us as a leader in the development of next-generation lithium-ion batteries. Below are key highlights from our technology portfolio:
+Battery Cell Materials
+•
+Polyaramid Separator:  Our proprietary polyaramid separator provides safety and durability, offering superior thermal stability and mechanical strength compared to traditional polyethylene or polypropylene separators. Made from polyaramid, the same high-performance material used in bulletproof vests, it provides exceptional chemical, electrochemical, and thermal resistance, is intended to ensure long-term reliability. Unlike conventional separators that melt at 138°C (280°F), our polyaramid separator maintains its structural integrity at temperatures up to 300°C (572°F), significantly enhancing battery safety. Additionally, it is intrinsically non-flammable, reducing the risk of thermal runaway, a critical factor in improving lithium-ion battery performance and reliability.
+•
+Lithium Titanate Oxide ("LTO") Powder: Our LTO powder enhances high-power operation, making it ideal for ultra-fast charging applications. Unlike traditional anode materials, LTO is inherently stable with conventional lithium-ion electrolytes, offering superior safety and longevity when compared to traditional graphite anodes.
+•
+Full Concentration Gradient ("FCG") Cathode: Licensed from Argonne National Laboratory in 2017, our FCG cathode technology is now produced with flexible and cost-effective manufacturing techniques, significantly improving affordability compared to standard NMC materials. We have found that by controlling the concentration of metals within each particle, we enhance battery safety and performance. Additionally, the cobalt content is reduced to less than 2% by weight, significantly lowering material costs while addressing the environmental and ethical concerns associated with cobalt mining. This versatile cathode can be customized for specific end-use applications, making it well-suited for ultra-fast charging and cost-efficient advanced lithium-ion cells. Additionally, this technology is especially well suited going forward for the development of materials that significantly reduce or eliminate cobalt.
+•
+Electrolyte Formulation: Our proprietary electrolyte formulation significantly reduces the risk of lithium-ion cell fires. Reducing the flammability of lithium-ion cells is an important safety feature that we believe will become more valued as the industry shifts toward higher energy density batteries.
+Cell Chemistries
+•
+Lithium Titanate Oxide ("LTO"): LTO replaces traditional graphite anodes, significantly enhancing safety and fast-charging capabilities while maintaining a longer lifespan. Although it has slightly lower energy density, our LTO cells last up to 20 times longer than standard lithium-ion cells. They also mitigate cell gassing, a major factor in battery degradation, ensuring greater durability.
+4
+Table of Contents
+•
+Nickel Manganese Cobalt Oxide ("NMC"): For applications demanding higher energy density, our NMC-based cells excel in long-term cycle performance, sustaining thousands of charge cycles before significant degradation occurs. Our expertise in cathode and separator technology, enabled by our vertical integration, ensures that our NMC cells offer a lower total cost of ownership and enhanced safety compared to competitors. Third-party evaluations from U.S. National Labs and Technischer Überwachungsverein ("TÜV") have validated our performance claims. Our latest high-energy 53.5Ah cell exemplifies our advancements in NMC technology.
+•
+Lithium Iron Phosphate ("LFP"): LFP is one of the safest and most cost-effective cathode materials, widely used in ESS and commercial vehicle applications. While LFP uses higher lithium quantities than NMC, its lower-cost raw materials contribute to its affordability.
+•
+Solid-State Battery Development: Since 2015, we have been developing a 100% solid-state battery technology that eliminates the need for liquid electrolytes. This breakthrough approach replaces conventional designs with a fully solid framework, enhancing safety, energy density and longevity. Our dedicated R&D team has secured over 20 patents in the process and announcing what we believe is a major breakthrough in the development of all solid-state battery technology in January 2025.  Currently, the energy density of the cell reaches 320 Wh/kg, and in bench scale validation.
+Key Benefits of our Technology and Applications
+Our advanced battery technologies and systems provide what we believe to be numerous advantages, ensuring high performance, safety and cost efficiency of our batteries across a wide range of applications.
+Tailored Battery Solutions
+Our research in lithium-ion battery technology has enabled us to develop and commercialize a diverse range of cell chemistries, including LTO, LFP, NMC-1 and NMC-2. This broad portfolio allows us to customize solutions to meet specific customer requirements. By integrating their preferred chemistry into our modules and packs, we optimize the performance of each of our battery systems.
+Microvast has developed and commercialized multiple cell chemistries, including LTO, LFP, NMC-1 and NMC-2, enabling customized battery solutions. By integrating the preferred chemistry into our modules and packs, we optimize performance for each application.
+We serve a diverse range of commercial vehicle markets, including:
+•
+Light, medium and heavy-duty trucks.
+•
+Buses and trains.
+•
+Mining trucks, port vehicles and leisure boats.
+•
+Automated guided vehicles and specialty vehicles.
+Additionally, we provide BMS and installation support, enhancing safety, optimizing thermal control and extending system lifespan.
+Ultra-Fast Charging Capability
+Depending on battery chemistry, Microvast's battery solutions achieve a full charge in as little as 10 to 30 minutes, far exceeding conventional systems.
+•
+LTO cells: Fully charge within 10 minutes, offering an energy density of up to 180 watt-hours per liter ("Wh/L") and 95 watt-hours per kilogram ("Wh/kg").
+•
+NMC-2 products: Fully charge within 30 minutes, providing an energy density of over 220 Wh/kg.
+Ultra-fast charging is a critical differentiator for our commercial vehicle solutions, while higher energy density cells are particularly beneficial for both electric commercial vehicles and ESS customers.
+Long Battery Lifespan
+5
+Table of Contents
+Our battery systems last between 2,500 to 20,000 full charge cycles, ensuring they match the lifespan of vehicles and energy storage projects. LTO batteries retain 90% of their initial capacity after 10,300 full charge/discharge cycles, as validated by the Warwick Manufacturing Group at the University of Warwick.
+Enhanced Safety and Reliability
+Built on over a decade of research, our battery technologies deliver higher safety margins than conventional lithium-ion systems.
+•
+LTO batteries offer exceptional thermal stability and operate across a wide temperature range, minimizing fire risks.
+•
+High-energy applications utilize our polyaramid separator, non-flammable electrolyte and FCG cathode, further improving safety and durability.
+Our Strategies 
+Our strategic objective is to generate long-term value for stakeholders, focusing on:
+•
+Expanding our ESS and electric commercial vehicle solutions. 
+We are committed to scaling our ESS and electric commercial vehicle battery solutions to meet the growing demand for clean and renewable energy sources. Our strategy includes leveraging our proprietary technologies to gain market share, support global decarbonization efforts and drive climate change mitigation. To date, we have primarily supplied our battery solutions to OEMs for use in electric commercial vehicles and specialty vehicles. We are continuously advancing our battery technologies to improve performance, efficiency and reliability in commercial applications. The energy storage market presents significant growth potential, with increasing demand for grid stabilization, renewable energy storage and frequency regulation. We are focusing on the development and deployment of our ESS container utilizing our 565Ah cell technology to strengthen our presence in the utility-scale ESS sector.
+•
+Continue our focus on U.S. and European Operations. 
+Historically, demand for electric commercial vehicle batteries was concentrated in the Asia & Pacific regions. As customer demand for our products and services grew in Europe and the U.S., we have expanded to meet these growth opportunities for our battery technologies. However, in 2024, Microvast intensified efforts to expand its footprint in the U.S. and Europe to capitalize on favorable policies such as the Inflation Reduction Act (IRA) in the U.S. and the European Union’s Green Deal and Fit for 55 initiatives. In 2021, Microvast opened a 170,000-square-foot module and pack manufacturing facility near Berlin, Germany. In 2024, we consolidated our ESS operations into our Clarksville, Tennessee facility. In Florida, we continue to maintain our R&D center focusing on advanced technologies.  
+While prioritizing growth in the European and U.S. markets, we continue to invest in our operations in Asia-Pacific to capitalize on regional growth opportunities. This ensures a balanced global strategy while maintaining strong partnerships with OEMs in high-demand markets.
+•
+Improve Performance  to Reduce Total Cost of Ownership ("TCO"). 
+For commercial EV and ESS customers, TCO is an important criterion. To remain competitive, Microvast is committed to:
+•
+Investing in R&D to continuously improve battery technology and lower costs.
+•
+Developing new battery cells and modules with higher energy densities to enhance efficiency.
+•
+Integrating advanced materials and next-generation designs to optimize performance, durability and cost-effectiveness.
+•
+Strengthening our focus on material innovation, ensuring that improvements in base components translate to benefits across all battery solutions—including ESS systems and battery components.
+•
+Expand our manufacturing capacity to meet growing demand. 
+To support expanding global demand for EVs and ESS solutions, Microvast is strategically planning to increase its production capacity across the U.S., Europe and China. As of December 31, 2024, our total annual manufacturing capacity stands at approximately 3.5 GWh. We plan to add an additional 2 GWh of capacity annually with a future capability to produce both current and upcoming advanced cells such as HpCO-53.5Ah and HPCo-55Ah by the fourth quarter of 2025 to supporting growing demand for our existing products. Pending securing additional financing to complete expansion on our facility in Clarksville, Tennessee, we will be able to add up to 4GWh of new capacity.
+Manufacturing Capacity
+6
+Table of Contents
+We measure our manufacturing capacity in GWh, which represents the energy capacity of all batteries produced for a single complete discharge, rather than the number of batteries we produce per year.
+As of Dece
+mber 31, 2024, we had an annual manufacturing capacity of approximately 3.5 GWh cell, module and pack capacity, 600 tons per year of cathode capacity, 3,000 tons of electrolyte capacity and 5 million square meters of separator material capacity on a pilot line. All of this capacity currently originates from our Huzhou, China facility.
+In Europe, we have a 170,000-square-foot module and pack manufacturing facility near Berlin, Germany which has been in production since 2021.
+ W
+e will continue to review investing in European manufacturing capacity to comply with new E.U. regulations and in order to meet the anticipated increased demand for battery-operated solutions due to "green" policies.
+In 2021, we purchased an existing building in Clarksville, Tennessee and began renovating it to support up to 2 GWh of cell, module and pack capacity, which we initially expected to be in production by the third quarter of 2023.  
+Due to delays 
+ in securing additional financing, progress of this project started to be impacted towards the end of the fourth quarter of 2023 and certain construction work streams could not be progressed on the timeframes we had originally planned.   In the second quarter of 2024, we paused construction on the Clarksville facility due to insufficient funding. This facility was intended to produce 53.5Ah cells for our ESS solutions. We made a strategic decision to pivot from the originally planned production of NMC cells to LFP cells. Additionally, we consolidated our ESS operations from Colorado to Clarksville, Tennessee in order to streamline operations. Until financing is in place, this will limit our growth opportunities, especially in the U.S. market where our customers desire products that meet their domestic content requirements. We are seeking to secure financing to complete the Tennessee facility.
+Patents and Other Intellectual Property
+Over the past 18 years, Microvast has built a comprehensive intellectual property portfolio, encompassing patents, licenses and proprietary know-how that support our battery technology leadership. 
+Key Proprietary Material Technologies
+•
+Polyaramid Separator – Our high-thermal polyaramid separator features a melting point above 300°C, significantly improving battery safety by reducing thermal runaway risks.
+•
+Full Concentration Gradient (FCG) Cathode – Licensed from Argonne National Laboratory in 2017, this cathode technology is distinguished by a gradual gradient in transition metal content, enhancing energy density, stability, and longevity.
+•
+High/Low-Temperature Electrolyte – Our proprietary electrolyte remains stable at high temperatures (up to approximately 70°C) while maintaining approximately 70% energy efficiency at extreme cold temperatures (down to approximately -30°C). It supports full charge cycles from 0% to 100% in just one hour, ensuring high performance in diverse environmental conditions.
+•
+Lithium Titanate Oxide (LTO) Anode – Our LTO anode technology enables higher volumetric density, while maintaining ultra-fast charging properties. It prevents solid-electrolyte interphase (SEI) degradation and mitigates dendrite formation, which can lead to short circuits and fire hazards. Additionally, our proprietary LTO powder minimizes volume expansion, ensuring battery stability and extended lifespan.
+•
+Advanced Anode Materials – We continue to experiment with and develop novel anode materials, including porous carbon-based anodes that allow higher charging rates than conventional materials. The porous structure enhances lithium-ion transport, contributing to faster charging without compromising safety or durability.
+Intellectual Property Protection and Strategy
+Our commercial success relies, in part, on securing and maintaining intellectual property protection for our designs and proprietary technologies. Safeguarding our intellectual property assets is critical, given that it is a key driver of profitability.
+To mitigate technology infringement risks, we employ strict data compartmentalization, ensuring that U.S. trade secrets and proprietary know-how remain isolated. We actively pursue patent protections and implement internal safeguards to protect both current and future proprietary innovations. For a detailed discussion on intellectual property risks, refer to "Risk Factors - Risks Related to Our Intellectual Property."
+Trademarks and Branding
+7
+Table of Contents
+To reinforce brand recognition and market positioning, we apply trademarks to our batteries and battery-related technologies. We consider distinctive trademarks crucial for marketing and brand differentiation.
+Microvast has registered its corporate trademarks, including our logo and product marks, across China, the U.S. and key international markets. Our trademark portfolio includes:
+•
+Microvast®
+•
+LpTO®, LpCO®, MpCO®, HpCO®
+•
+Clean City Transit®
+Research and Development 
+At Microvast, our R&D and engineering teams are dedicated to pioneering new battery solutions and enhancing the performance of existing systems. Our battery systems are designed to meet specific performance metrics, including energy density, power density, charge rate capability, cycle life, throughput energy and safety. By continuously innovating, we aim to develop higher-performing, more efficient and safer batteries for a wide range of applications.
+Our technology center leads the development of advanced battery materials, cells and packs, with a focus on FCG cathode technology, polyaramid separator manufacturing, high-energy density cells, battery safety and IT-integrated battery components. Our research efforts are dedicated to improving energy storage efficiency, thermal and mechanical performance and overall battery lifespan.
+We recognize that our ability to deliver high-performance batteries depends on the seamless transfer of R&D breakthroughs into large-scale production. To bridge this gap, we allocate part of our manufacturing capacity to pilot plants, enabling structured experimentation for process refinement and scalability. By integrating R&D with manufacturing, we ensure that new innovations transition smoothly from the lab to full-scale production.
+Our Huzhou, China manufacturing facility includes a technology center consisting of several buildings and is equipped with advanced scientific instruments such as X-ray powder diffraction machines, scanning electron microscopes, gas chromatograph/mass spectrometers, laser particle size analyzers and electrochemical test analyzers. These tools enable in-depth material analysis, safety testing and process optimization.
+In September 2016, we established a research center in Orlando, Florida, focusing on long-term technology development. To further strengthen our U.S. R&D capabilities, we expanded our presence in October 2021 with the acquisition of a 75,000-square-foot facility, dedicated to advancing next-generation battery technologies.
+Our continued investment in cutting-edge battery technology is reflected in our annual R&D expenditures, totaling $41.1 million in 2024, $45.0 million in 2023 and $43.5 million in 2022. These investments underscore our commitment to research excellence, ensuring that Microvast remains at the forefront of battery innovation, safety and performance.
+Sales and Marketing
+Our products are marketed and sold through a direct sales force across three regions: Europe, Middle East and Africa; North and South America; and Asia & Pacific. Some of our key marketing attributes are our innovative technology and our commitment to quality and customer satisfaction.  Microvast utilizes digital marketing and social media to reach a wide audience and engage with customers. Microvast also participates in industry trade shows and events to showcase its products and technologies, network with potential customers and generate leads. After-sales service and support are critical components of Microvast’s sales strategy. We offer maintenance services, technical support and training programs to ensure that customers are satisfied with their products and receive ongoing assistance as needed. By utilizing a combination of direct sales, online channels and trade shows, Microvast is able to effectively reach customers across various industries and geographies. This diverse sales approach enables the company to maximize its market potential and drive continued growth in the battery industry. 
+Electric Commercial Vehicles
+8
+Table of Contents
+We directly engage with EV and drivetrain manufacturers to highlight our technology and product benefits. Sales cycles differ by market segment and usually involve an extensive development and qualification period before commercial production. We expect the total time from customer introduction to commercial manufacturing will range from 2 to 4 years depending on the specific solution and market segment. For example, total time in the transportation market includes a customer’s preliminary technology review, which generally ranges from 3 to 9 months, followed by test and evaluation, which generally ranges from 12 to 18 months. We offer off-the-shelf packs that can significantly shorten our customers' time to market. Such off-the-shelf opportunities become more and more relevant for new market players of small and medium size whose prime objective is to disrupt the established markets especially in the light and medium duty vehicle sector by offering new vehicle concepts. 
+Utility-Scale ESS 
+The target audience for Microvast includes commercial and industrial scale customers.  Our sales channels include direct sales, partnerships with utilities and developers.  
+ Our sales cycle, involving a request for proposal process, typically spans 6 to 12 months from initiation to manufacturing.  A key advantage of our ESS business is the shorter sales cycle, as project owners and developers face fewer testing requirements than those for EV batteries.
+Battery Components
+Our promotion of battery components begins with engaging R&D engineers from passenger car OEMs and consumer electronics manufacturers. We may provide select customers with material samples or prototypes for evaluation to facilitate component sales.
+Materials
+Every lithium-ion battery consists of an anode, cathode, electrolyte and separator. 
+•
+Anode 
+— Our anode is selected historically from LTO or graphite in our product cells. In the coming years, we anticipate that we will develop and market a new product that contains silicon or silicon oxide.  
+•
+Cathode 
+— For NMC, our existing products are made using commercially supplied materials, and our future cell products will utilize FCG when possible. For NMC-based cathodes, the sourcing and availability of cobalt is a key issue for many OEM buyers. As such, we are actively engaged in research to greatly reduce or eliminate the use of cobalt from our material stream. We have made LFP cells for a manufacturer of passenger EVs in China and the raw materials for this cell are sourced from a commercial supplier.
+•
+Electrolyte 
+— Our current lithium-ion cells utilize liquid-based electrolyte formulations. We often purchase base solvents for carbonate-based electrolytes from commercial suppliers to leverage cost benefits of scale, blending them in-house to protect our proprietary formulations.
+•
+Separator 
+— The separator is another key material in our lithium-ion cells. While we have in the past used the industry norm polyethylene/polypropylene materials, we are now working so that in the future we will integrate as many cells as possible with our proprietary polyaramid technology. Additionally, we are leveraging our polyaramid expertise to develop a solid electrolyte battery system incorporating polyaramid material. If the solid electrolyte approach is successful, not only will it eliminate the use of liquid electrolytes, but it will also potentially enable new anode chemistries such as lithium metal, which is needed to reach cells with over 1,000 Wh/l energy densities.
+Suppliers and Supply Arrangements
+We source key electrode raw materials and various components exclusively from a select few third-party suppliers. Purchasing raw materials in bulk has enabled us to secure long-term supply agreements, improving cost and payment terms with suppliers. We have also increased the sources of supply for some of our key raw materials.  Our suppliers may adjust prices based on fluctuations in benchmark prices for raw materials or their base metals. See “
+Risk Factors — Risks Related to our Business and Industry — We currently purchase certain key raw materials and components from third parties, some of which we only source from one supplier or from a limited number of suppliers.
+”
+9
+Table of Contents
+Customers 
+We have established various arrangements with leading global EV manufacturers to develop batteries and systems, primarily for the commercial vehicle market. Our battery systems are used in the plug-in hybrid EV, battery EV and hybrid EV markets. In the electric commercial vehicle market, we typically engage in long-term supply or framework agreements without imposing minimum purchase obligations on the customer. Customers under these agreements issue purchase orders for specific quantities of battery systems, which serve as their contractual commitments.
+
+The sales cycle of our solutions and a relatively small customer base result in significant customer concentration. In 2024, our top five customers accounted for 60.0% of our revenue. See “
+Risk Factors — Risks Related to our Business and Industry — Our revenue heavily depends on a limited customer base, a trend likely to continue."
+As of December 31, 2024, our battery systems had an order backlog worth approximately $401.3 million. We expect to fulfill most of our backlog within 2025 and 2026.
+Human Capital
+As of December 31, 2024, Microvast employed 1,921 full-time employees and 334 independent contractors. Our senior management team and key decision-making processes are centralized in the U.S., ensuring strategic alignment across our global operations.
+Our human capital strategy is centered on attracting, developing, and retaining top talent while fostering a culture rooted in integrity, transparency, safety, diversity, open-mindedness, and teamwork. We understand that our commitment to technological innovation and exceptional customer service is driven by the dedication and contributions of our employees. A versatile workforce—encompassing various backgrounds, skills, and perspectives—fuels innovation, enhances problem-solving, and strengthens our ability to meet customer needs.
+Our results-oriented culture is dedicated to delivering differentiated solutions faster than our competitors, reinforcing our competitive edge. To support this, we provide full-time employees with competitive benefits packages, including annual performance-based bonuses and equity-based compensation opportunities for eligible employees. These programs help us attract, engage, and retain high-caliber professionals who are invested in our company’s growth.
+Employee safety remains a top priority at all Microvast locations. Our health and safety programs are built on global safety standards, and performance is measured, evaluated and reported to leadership on a monthly basis. To date, we have not experienced any work stoppages due to labor disputes, health or safety issues, and we consider our employee relations to be strong. By continuously investing in workplace safety, employee well-being and professional growth, we aim to cultivate a dynamic and high-performing workforce that drives long-term success.
+Competition 
+The battery industry is highly competitive and rapidly evolving, driven by technological advancements, shifting customer demands and the continuous introduction of new innovations. To maintain a competitive edge, battery manufacturers must adapt to changing market dynamics while delivering high-performance, cost-effective and reliable solutions.
+We believe the primary competitive factors in our industry include:
+•
+product performance, reliability and safety;
+•
+integrated solutions;
+•
+total cost of ownership;
+•
+regional and industrial regulations;
+•
+pricing and payment terms;
+•
+balance sheet strength and access to financing;
+•
+availability and pricing of raw materials;
+•
+time to market for new technologies; and
+•
+manufacturing capabilities.
+Our competitors range from large, well-established battery manufacturers to emerging technology startups focused on disruptive battery innovations. The global battery market is dominated by manufacturers from China, Japan and South Korea, who leverage economies of scale and aggressive pricing strategies to maintain market share. See “Risk Factors — 
+10
+Table of Contents
+Risks Related to Our Business and Industry.” Our ability to differentiate through superior technology, operational efficiency and market adaptability will be critical to sustaining long-term growth and competitiveness in this rapidly evolving landscape.
+Governmental Regulation and Environmental Compliance
+Environmental, Health and Safety Matters  — Our China Facility
+Our manufacturing activities in China are subject to the requirements of Chinese environmental laws and regulations on air emission, wastewater discharge, solid waste, noise and the generation, handling, storage, use, transportation and disposal of hazardous materials. Our Environmental Management system is certified to 
+
+ISO 14001:2015 and our Occupational Health and Safety system is certified to ISO 45001:2018. Our management systems support our commitment to ensure we are in
+
+compliance with applicable environmental, health and safety laws and regulations in all material aspects.  We have built environmental treatment facilities concurrently with the construction of our manufacturing facilities, where the waste air, wastewater and waste solids we generate can be treated in accordance with the relevant requirements. We have outsourced the disposal of hazardous solid waste we generate to a third-party contractor in accordance with the relevant laws. We believe we have maintained pollutant emission levels at each of our facilities in material compliance with levels prescribed by the relevant governmental authorities.
+Environmental , Health and Safety Matters — Our Germany Production Facility
+Operations at our German facility are subject to a variety of environmental, health and safety regulations. Quality Management system is certified to IATF 16949:2016 and ISO 9001:2015. We are working on the environmental certification to ISO 14001:2015 expected later into 2025. All our machines and production lines are delivered with Conformitè Europëenne, European Quality Standard label according to the Machinery Directive 2006/42/EG.
+In transit, lithium-ion batteries are subject to rules governing the transportation of “dangerous goods.” We only use carriers that meet applicable legal requirements. Beginning in the third quarter of 2025, the shipment of used and waste batteries will be subject to the new EU Battery Regulation 2023/1542, requiring us to keep documentation on hand to allow authorities to distinguish between the shipments of used and waste batteries. We have policies and programs in place to help assure compliance with our obligations such as machine guarding, laser welding, hazardous material management and transportation. Furthermore, in order to obtain existing building permits, we are obligated to perform environmental compliance and fire protection concept requirements under German regulations. All these standards and certificates are designed to comply with applicable government regulations and laws, as well as the standards of the automotive industry.
+We train our employees and conduct internal audits of our operations to assess our fulfillment of these policies. As demonstrated in our pilot project for “Sustainable Battery Production” with TÜV SÜD Germany, the environment is very important to us. Therefore, we are confident in our ability to timely meet the upcoming European regulatory obligations with regard to the environmental and sustainability requirements applicable to battery manufacturers.
+Environmental, Health and Safety Matters — Our U.S. Production Facility 
+Federal, state and local regulations impose significant environmental, health, and safety requirements on the manufacture, storage, transportation and disposal of various components as currently used or that will be used in our U.S. battery cell manufacturing and ESS container assembly operations. On the federal level, various agencies regulate the manufacture, storage, transportation, and disposal of batteries, including the U.S. Environmental Protection Agency (“EPA”), the Occupational Safety and Health Administration (“OSHA”), and the U.S. Department of Transportation (“DOT”). Battery manufacturing facilities must follow the EPA’s Battery Manufacturing Effluent Guidelines and Standards, which are incorporated into the EPA’s National Pollutant Discharge Elimination System’s (“NPDES”) permitting regulations. NPDES permits are required for direct dischargers of certain battery manufacturing waste. In addition to providing general industrial safety regulations, OSHA also dictates specific safety requirements for workers in the battery manufacturing and battery charging industries. On the transportation side, lithium batteries are regulated as a hazardous material under the DOT’s Hazardous Materials Regulations (“HMR”) and must conform to all applicable HMR requirements when transported by air, highway, rail, or water. In addition, U.S. state and local laws can impose additional regulations, particularly in the areas of safety, recycling, and proper handling of batteries. 
+Moreover, federal, state and local governments may in the future enact additional regulations relating to the manufacture, storage, transportation and disposal of components of advanced ESS. Compliance with such additional regulations could require us to devote significant time and resources and could adversely affect demand for our products. 
+11
+Table of Contents
+As we continue to develop our operations in the U.S. we are following international standards and guidelines as we develop our Environmental and Occupational Health and Safety Management systems. Although we believe that our operations are in material compliance with current applicable environmental regulations, there can be no assurance that changes in such laws and regulations will not impose costly compliance requirements on us or otherwise subject us to future liabilities. 
+General Environmental Matters
+Currently, we face no admonitions, penalties, investigations, or inquiries from environmental regulators, nor are we involved in any legal proceedings as a defendant for violating environmental laws. We have no reason to anticipate any claims, actions, or proceedings against us related to environmental law that would materially and adversely affect our business, finances, or operations. See “
+Risk Factors — Risks Related to our Business and Industry — Compliance with environmental regulations can be expensive, and failure to comply with these regulations may result in monetary damages and fines, adverse publicity and have a material adverse effect on our business.
+”
+Workers’ Health and Production Safety Compliance
+We are subject to numerous laws and regulations related to the health of our employees and production safety of our facilities in each jurisdiction in which we operate. 
+These laws and regulations include in some jurisdictions a requirement to engage a qualified institution to make a safety evaluation report on its work safety conditions and to file such a safety evaluation report with the local work safety authority for the use of hazardous chemicals in our manufacturing process.
+We are not currently subject to any admonitions, penalties, investigations or inquiries relating to workers’ health and production safety law or regulations, nor are we subject to any claims or legal proceedings to which we are named as a defendant for violation of any workers’ health and production safety law or regulation. We do not have any reasonable basis to believe that there are any threatened claims, actions or legal proceedings against us relating to any workers’ health and production safety law or regulation that would have a material adverse effect on our business, financial condition or results of operations. See “
+Risk Factors — Risks Related to our Business and Industry — We may fail to comply with certain health and production safety laws and regulations governing hazardous materials.
+”
+Seasonality
+We have historically experienced higher sales during our third and fourth fiscal quarters as compared to our first and second fiscal quarters. However, our limited operating history makes it difficult for us to judge the exact nature or extent of the seasonality of our business.
+Corporate Information
+Microvast, Inc. was initially incorporated in Texas in 2006, then re-incorporated as a Delaware corporation in December 2015. On July 23, 2021, Tuscan Holdings Corp. ("Tuscan") a Delaware corporation established in November 2018 for the purpose of effecting a merger, capital stock exchange, asset acquisition, stock purchase, reorganization, or similar business combination with one or more businesses, consummated the acquisition of Microvast, Inc. pursuant to an Agreement and Plan of Merger dated February 1, 2021, between Tuscan, Microvast, Inc. and TSCN Merger Sub Inc. (the “Business Combination”). Following the Business Combination, we changed our name from Tuscan to “Microvast Holdings, Inc.” Our principal executive offices are located at 12603 Southwest Freeway, Suite 300, Stafford, Texas 77477, and our telephone number is (281) 491-9505. Our website is https://microvast.com. The information posted on our website is not incorporated by reference into this Annual Report.
+We make available on or through our website certain reports and amendments to those reports that we file with or furnish to the U.S. Securities and Exchange Commission (“SEC”) in accordance with the Securities Exchange Act of 1934, as amended (the “Exchange Act”). These include our annual reports on Form 10-K, our quarterly reports on Form 10-Q, and our current reports on Form 8-K, amendments to those reports and our Proxy Statement for our annual meeting of stockholders. These filings are available for download free of charge on our investor relations website located at 
+https://ir.microvast.com/financials-filings/sec-filings
+. The SEC also maintains a website that contains reports, proxy statements and other information about issuers that file electronically at 
+www.sec.gov
+.
+12
+Table of Contents

@@ -1,0 +1,7790 @@
+10-Q
+
+--12-31
+Q3
+0001520262
+false
+Alkermes plc.
+http://fasb.org/us-gaap/2025#OtherNonoperatingIncomeExpense
+P56D
+0001520262
+us-gaap:OtherNoncurrentLiabilitiesMember
+2024-12-31
+0001520262
+alks:RISPERDALCONSTAMember
+us-gaap:RoyaltyMember
+2025-07-01
+2025-09-30
+0001520262
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0001520262
+alks:VivitrolMember
+2025-09-30
+0001520262
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-12-31
+0001520262
+us-gaap:CorporateDebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001520262
+us-gaap:AdditionalPaidInCapitalMember
+2025-07-01
+2025-09-30
+0001520262
+us-gaap:RetainedEarningsMember
+2024-04-01
+2024-06-30
+0001520262
+us-gaap:PropertyPlantAndEquipmentMember
+2024-12-31
+0001520262
+us-gaap:OtherCurrentLiabilitiesMember
+2025-09-30
+0001520262
+alks:MedicarePartDMember
+2025-09-30
+0001520262
+alks:VivitrolMember
+2025-01-01
+2025-09-30
+0001520262
+alks:OtherProductsAndServicesMember
+alks:ManufacturingRevenueMember
+2025-01-01
+2025-09-30
+0001520262
+alks:MedicarePartDMember
+2024-12-31
+0001520262
+alks:DiscountsMember
+2025-01-01
+2025-09-30
+0001520262
+us-gaap:USGovernmentAgenciesDebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-30
+0001520262
+us-gaap:AdditionalPaidInCapitalMember
+2024-01-01
+2024-03-31
+0001520262
+us-gaap:AdditionalPaidInCapitalMember
+2024-09-30
+0001520262
+us-gaap:FairValueInputsLevel3Member
+us-gaap:CorporateDebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-30
+0001520262
+alks:StateUSMedicaidRebatesMember
+2024-12-31
+0001520262
+us-gaap:AdditionalPaidInCapitalMember
+2024-07-01
+2024-09-30
+0001520262
+us-gaap:RestrictedStockUnitsRSUMember
+2025-01-01
+2025-09-30
+0001520262
+alks:RISPERDALCONSTAMember
+alks:ManufacturingRevenueMember
+2024-07-01
+2024-09-30
+0001520262
+alks:VivitrolMember
+2024-01-01
+2024-09-30
+0001520262
+alks:VumerityMember
+us-gaap:RoyaltyMember
+2024-07-01
+2024-09-30
+0001520262
+us-gaap:ResearchAndDevelopmentExpenseMember
+2024-07-01
+2024-09-30
+0001520262
+alks:ManufacturedProductAndRoyaltyMember
+alks:RISPERDALCONSTAMember
+2025-07-01
+2025-09-30
+0001520262
+2023-01-01
+2023-01-31
+0001520262
+us-gaap:USGovernmentAgenciesDebtSecuritiesMember
+2025-09-30
+0001520262
+us-gaap:SegmentContinuingOperationsMember
+us-gaap:CostOfSalesMember
+2025-07-01
+2025-09-30
+0001520262
+us-gaap:CorporateDebtSecuritiesMember
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001520262
+us-gaap:AdditionalPaidInCapitalMember
+2025-09-30
+0001520262
+us-gaap:RoyaltyMember
+2025-01-01
+2025-09-30
+0001520262
+alks:ProductReturnsMember
+2024-12-31
+0001520262
+alks:OtherMember
+2024-12-31
+0001520262
+us-gaap:RestrictedStockUnitsRSUMember
+2024-01-01
+2024-09-30
+0001520262
+us-gaap:CommonStockMember
+2024-09-30
+0001520262
+us-gaap:FairValueInputsLevel2Member
+us-gaap:USGovernmentAgenciesDebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-30
+0001520262
+us-gaap:SegmentContinuingOperationsMember
+us-gaap:CostOfSalesMember
+2025-01-01
+2025-09-30
+0001520262
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-30
+0001520262
+2025-07-01
+2025-09-30
+0001520262
+alks:ManufacturedProductAndRoyaltyMember
+alks:VumerityMember
+2024-07-01
+2024-09-30
+0001520262
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-31
+0001520262
+us-gaap:AdditionalPaidInCapitalMember
+2024-04-01
+2024-06-30
+0001520262
+alks:ManufacturingRevenueMember
+alks:VumerityMember
+2025-01-01
+2025-09-30
+0001520262
+2025-01-01
+2025-03-31
+0001520262
+us-gaap:EmployeeStockOptionMember
+2025-07-01
+2025-09-30
+0001520262
+alks:ProductDiscountsMember
+2024-12-31
+0001520262
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-04-01
+2025-06-30
+0001520262
+alks:OtherProductsAndServicesMember
+us-gaap:RoyaltyMember
+2025-01-01
+2025-09-30
+0001520262
+us-gaap:USGovernmentAgenciesDebtSecuritiesMember
+2024-12-31
+0001520262
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-07-01
+2024-09-30
+0001520262
+us-gaap:CommonStockMember
+2025-07-01
+2025-09-30
+0001520262
+alks:AristadaAndAristadaInitioMember
+2025-07-01
+2025-09-30
+0001520262
+us-gaap:USGovernmentAgenciesDebtSecuritiesMember
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001520262
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001520262
+alks:RISPERDALCONSTAMember
+us-gaap:RoyaltyMember
+2024-07-01
+2024-09-30
+0001520262
+us-gaap:AccountsReceivableMember
+2025-09-30
+0001520262
+us-gaap:CorporateDebtSecuritiesMember
+alks:LongTermInvestmentsMember
+2025-09-30
+0001520262
+us-gaap:InventoriesMember
+2025-09-30
+0001520262
+us-gaap:SegmentContinuingOperationsMember
+2024-07-01
+2024-09-30
+0001520262
+us-gaap:CommonStockMember
+2024-12-31
+0001520262
+alks:DiscountsMember
+2024-12-31
+0001520262
+alks:ResearchAndDevelopmentMember
+2025-01-01
+2025-09-30
+0001520262
+alks:OtherProductsAndServicesMember
+alks:ManufacturedProductAndRoyaltyMember
+2024-01-01
+2024-09-30
+0001520262
+alks:OtherProductsAndServicesMember
+alks:ManufacturedProductAndRoyaltyMember
+2025-07-01
+2025-09-30
+0001520262
+us-gaap:TreasuryStockCommonMember
+2025-01-01
+2025-03-31
+0001520262
+us-gaap:RestrictedStockUnitsRSUMember
+2025-07-01
+2025-09-30
+0001520262
+us-gaap:CommonStockMember
+2025-04-01
+2025-06-30
+0001520262
+us-gaap:EmployeeStockOptionMember
+2025-01-01
+2025-09-30
+0001520262
+us-gaap:TreasuryStockCommonMember
+2024-01-01
+2024-03-31
+0001520262
+us-gaap:TreasuryStockCommonMember
+2025-07-01
+2025-09-30
+0001520262
+us-gaap:LandMember
+2024-12-31
+0001520262
+us-gaap:TreasuryStockCommonMember
+2025-03-31
+0001520262
+alks:RISPERDALCONSTAMember
+alks:ManufacturedProductAndRoyaltyMember
+2025-01-01
+2025-09-30
+0001520262
+us-gaap:ShortTermInvestmentsMember
+us-gaap:CorporateDebtSecuritiesMember
+2024-12-31
+0001520262
+us-gaap:TreasuryStockCommonMember
+2024-09-30
+0001520262
+alks:ManufacturingRevenueMember
+2025-07-01
+2025-09-30
+0001520262
+2024-01-01
+2024-09-30
+0001520262
+alks:ManufacturedProductAndRoyaltyMember
+2025-07-01
+2025-09-30
+0001520262
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001520262
+alks:OtherProductsAndServicesMember
+alks:ManufacturedProductAndRoyaltyMember
+2024-07-01
+2024-09-30
+0001520262
+alks:ManufacturingRevenueMember
+alks:VumerityMember
+2024-01-01
+2024-09-30
+0001520262
+2024-06-30
+0001520262
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-04-01
+2024-06-30
+0001520262
+us-gaap:CommonStockMember
+2023-12-31
+0001520262
+2024-07-01
+2024-09-30
+0001520262
+2024-03-31
+0001520262
+us-gaap:PropertyPlantAndEquipmentMember
+2025-09-30
+0001520262
+us-gaap:USGovernmentAgenciesDebtSecuritiesMember
+alks:LongTermInvestmentsMember
+2024-12-31
+0001520262
+us-gaap:ProductMember
+2025-01-01
+2025-09-30
+0001520262
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-01-01
+2025-03-31
+0001520262
+alks:LYBALVIMember
+2025-01-01
+2025-09-30
+0001520262
+us-gaap:LeaseholdImprovementsMember
+2025-09-30
+0001520262
+alks:AvadelPharmaceuticalsPlcMember
+us-gaap:SubsequentEventMember
+2025-10-22
+0001520262
+us-gaap:SegmentContinuingOperationsMember
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+2025-07-01
+2025-09-30
+0001520262
+us-gaap:SegmentContinuingOperationsMember
+us-gaap:CostOfSalesMember
+2024-07-01
+2024-09-30
+0001520262
+alks:WinterStreetLeaseTwoMember
+2025-01-01
+2025-09-30
+0001520262
+alks:OtherProductsAndServicesMember
+alks:ManufacturedProductAndRoyaltyMember
+2025-01-01
+2025-09-30
+0001520262
+us-gaap:BuildingAndBuildingImprovementsMember
+2025-09-30
+0001520262
+2025-02-28
+0001520262
+alks:OtherMember
+2025-09-30
+0001520262
+us-gaap:SegmentContinuingOperationsMember
+us-gaap:ResearchAndDevelopmentExpenseMember
+2025-01-01
+2025-09-30
+0001520262
+us-gaap:USGovernmentAgenciesDebtSecuritiesMember
+alks:LongTermInvestmentsMember
+2025-09-30
+0001520262
+2025-01-01
+2025-09-30
+0001520262
+us-gaap:RetainedEarningsMember
+2024-06-30
+0001520262
+2024-01-01
+2024-03-31
+0001520262
+us-gaap:CorporateDebtSecuritiesMember
+2024-12-31
+0001520262
+us-gaap:RestrictedStockUnitsRSUMember
+2024-07-01
+2024-09-30
+0001520262
+alks:DiscountsMember
+2025-09-30
+0001520262
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-31
+0001520262
+alks:VivitrolMember
+2025-07-01
+2025-09-30
+0001520262
+alks:ManufacturedProductAndRoyaltyMember
+alks:LongActingINVEGAProductsMember
+2024-01-01
+2024-09-30
+0001520262
+2024-12-31
+0001520262
+alks:OtherProductsAndServicesMember
+alks:ManufacturingRevenueMember
+2024-01-01
+2024-09-30
+0001520262
+alks:ResearchAndDevelopmentMember
+2025-07-01
+2025-09-30
+0001520262
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001520262
+us-gaap:AdditionalPaidInCapitalMember
+2025-06-30
+0001520262
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-03-31
+0001520262
+alks:AristadaAndAristadaInitioMember
+2024-07-01
+2024-09-30
+0001520262
+us-gaap:RoyaltyMember
+2025-07-01
+2025-09-30
+0001520262
+2025-05-21
+2025-05-21
+0001520262
+alks:ManufacturingRevenueMember
+alks:VumerityMember
+2025-07-01
+2025-09-30
+0001520262
+alks:OtherProductsAndServicesMember
+alks:ManufacturingRevenueMember
+2024-07-01
+2024-09-30
+0001520262
+alks:VumerityMember
+us-gaap:RoyaltyMember
+2024-01-01
+2024-09-30
+0001520262
+us-gaap:CorporateDebtSecuritiesMember
+alks:LongTermInvestmentsMember
+2024-12-31
+0001520262
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-09-30
+0001520262
+alks:RISPERDALCONSTAMember
+alks:ManufacturingRevenueMember
+2025-07-01
+2025-09-30
+0001520262
+us-gaap:SegmentContinuingOperationsMember
+us-gaap:ResearchAndDevelopmentExpenseMember
+2024-07-01
+2024-09-30
+0001520262
+srt:MinimumMember
+2025-01-01
+2025-09-30
+0001520262
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-07-01
+2025-09-30
+0001520262
+us-gaap:CorporateDebtSecuritiesMember
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-30
+0001520262
+alks:ManufacturedProductAndRoyaltyMember
+alks:LongActingINVEGAProductsMember
+2025-01-01
+2025-09-30
+0001520262
+alks:ProductReturnsMember
+2025-09-30
+0001520262
+alks:ContractualAdjustmentsMember
+2025-09-30
+0001520262
+us-gaap:ShortTermInvestmentsMember
+us-gaap:USGovernmentAgenciesDebtSecuritiesMember
+2025-09-30
+0001520262
+alks:RISPERDALCONSTAMember
+alks:ManufacturingRevenueMember
+2024-01-01
+2024-09-30
+0001520262
+us-gaap:SegmentContinuingOperationsMember
+2025-01-01
+2025-09-30
+0001520262
+2024-02-29
+0001520262
+alks:VumerityMember
+us-gaap:RoyaltyMember
+2025-01-01
+2025-09-30
+0001520262
+alks:LongActingINVEGAProductsMember
+us-gaap:RoyaltyMember
+2024-01-01
+2024-09-30
+0001520262
+alks:AristadaAndAristadaInitioMember
+2025-09-30
+0001520262
+us-gaap:CommonStockMember
+2025-03-31
+0001520262
+us-gaap:RoyaltyMember
+2024-07-01
+2024-09-30
+0001520262
+alks:ManufacturedProductAndRoyaltyMember
+alks:LongActingINVEGAProductsMember
+2025-07-01
+2025-09-30
+0001520262
+us-gaap:USGovernmentAgenciesDebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001520262
+alks:ManufacturedProductAndRoyaltyMember
+2025-01-01
+2025-09-30
+0001520262
+us-gaap:CommonStockMember
+2024-06-30
+0001520262
+us-gaap:ShortTermInvestmentsMember
+us-gaap:CorporateDebtSecuritiesMember
+2025-09-30
+0001520262
+alks:ManufacturedProductAndRoyaltyMember
+alks:VumerityMember
+2024-01-01
+2024-09-30
+0001520262
+alks:ManufacturedProductAndRoyaltyMember
+alks:VumerityMember
+2025-07-01
+2025-09-30
+0001520262
+us-gaap:SegmentContinuingOperationsMember
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+2024-01-01
+2024-09-30
+0001520262
+us-gaap:EmployeeStockOptionMember
+2024-01-01
+2024-09-30
+0001520262
+alks:ManufacturedProductAndRoyaltyMember
+alks:RISPERDALCONSTAMember
+2024-01-01
+2024-09-30
+0001520262
+alks:VumerityMember
+us-gaap:RoyaltyMember
+2025-07-01
+2025-09-30
+0001520262
+alks:RISPERDALCONSTAMember
+us-gaap:RoyaltyMember
+2025-01-01
+2025-09-30
+0001520262
+us-gaap:LeaseholdImprovementsMember
+2024-12-31
+0001520262
+us-gaap:TreasuryStockCommonMember
+2025-04-01
+2025-06-30
+0001520262
+us-gaap:CommonStockMember
+2024-03-31
+0001520262
+alks:LYBALVIMember
+2024-07-01
+2024-09-30
+0001520262
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-30
+0001520262
+us-gaap:RetainedEarningsMember
+2024-01-01
+2024-03-31
+0001520262
+us-gaap:AdditionalPaidInCapitalMember
+2025-01-01
+2025-03-31
+0001520262
+us-gaap:RoyaltyMember
+2024-01-01
+2024-09-30
+0001520262
+us-gaap:RetainedEarningsMember
+2023-12-31
+0001520262
+alks:OtherAdjustmentsMember
+2025-09-30
+0001520262
+us-gaap:AdditionalPaidInCapitalMember
+2024-06-30
+0001520262
+2025-04-01
+2025-06-30
+0001520262
+alks:LongTermInvestmentsMember
+2024-12-31
+0001520262
+alks:OtherProductsAndServicesMember
+us-gaap:RoyaltyMember
+2025-07-01
+2025-09-30
+0001520262
+us-gaap:ConstructionInProgressMember
+2024-12-31
+0001520262
+us-gaap:OtherCurrentLiabilitiesMember
+2024-12-31
+0001520262
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-06-30
+0001520262
+us-gaap:SegmentContinuingOperationsMember
+us-gaap:ResearchAndDevelopmentExpenseMember
+2024-01-01
+2024-09-30
+0001520262
+alks:ProductDiscountsMember
+2025-09-30
+0001520262
+alks:ManufacturedProductAndRoyaltyMember
+2024-07-01
+2024-09-30
+0001520262
+alks:WinterStreetLeaseTwoMember
+2025-09-30
+0001520262
+alks:LYBALVIMember
+2024-01-01
+2024-09-30
+0001520262
+us-gaap:ConstructionInProgressMember
+2025-09-30
+0001520262
+alks:ContractualAdjustmentsMember
+2025-01-01
+2025-09-30
+0001520262
+us-gaap:ProductMember
+2024-07-01
+2024-09-30
+0001520262
+alks:AristadaAndAristadaInitioMember
+2025-01-01
+2025-09-30
+0001520262
+alks:AristadaAndAristadaInitioMember
+2024-01-01
+2024-09-30
+0001520262
+us-gaap:SegmentContinuingOperationsMember
+us-gaap:CostOfSalesMember
+2024-01-01
+2024-09-30
+0001520262
+alks:MedicaidRebateMember
+2024-12-31
+0001520262
+alks:ContractLiabilitiesMember
+2025-09-30
+0001520262
+us-gaap:SegmentContinuingOperationsMember
+us-gaap:ResearchAndDevelopmentExpenseMember
+2025-07-01
+2025-09-30
+0001520262
+alks:ManufacturedProductAndRoyaltyMember
+alks:VumerityMember
+2025-01-01
+2025-09-30
+0001520262
+alks:ManufacturingRevenueMember
+2025-01-01
+2025-09-30
+0001520262
+2024-09-30
+0001520262
+alks:AvadelPharmaceuticalsPlcMember
+alks:JPMorganChaseBankNAMember
+alks:BridgeTermLoanCreditAgreementMember
+us-gaap:SubsequentEventMember
+2025-10-22
+0001520262
+us-gaap:AdditionalPaidInCapitalMember
+2025-04-01
+2025-06-30
+0001520262
+alks:OtherAdjustmentsMember
+2025-01-01
+2025-09-30
+0001520262
+alks:LongActingINVEGAProductsMember
+us-gaap:RoyaltyMember
+2024-07-01
+2024-09-30
+0001520262
+us-gaap:FairValueInputsLevel2Member
+us-gaap:USGovernmentAgenciesDebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001520262
+alks:ManufacturedProductAndRoyaltyMember
+alks:LongActingINVEGAProductsMember
+2024-07-01
+2024-09-30
+0001520262
+us-gaap:BuildingAndBuildingImprovementsMember
+2024-12-31
+0001520262
+alks:RISPERDALCONSTAMember
+us-gaap:RoyaltyMember
+2024-01-01
+2024-09-30
+0001520262
+us-gaap:RetainedEarningsMember
+2024-12-31
+0001520262
+alks:StateUSMedicaidRebatesMember
+2025-09-30
+0001520262
+us-gaap:CorporateDebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-30
+0001520262
+alks:FurnitureFixtureAndEquipmentMember
+2024-12-31
+0001520262
+srt:MaximumMember
+2025-01-01
+2025-09-30
+0001520262
+alks:FacilityAndCertainRelatedAssetsMember
+2024-01-01
+2024-09-30
+0001520262
+alks:ResearchAndDevelopmentMember
+2024-07-01
+2024-09-30
+0001520262
+us-gaap:TreasuryStockCommonMember
+2025-06-30
+0001520262
+us-gaap:TreasuryStockCommonMember
+2024-12-31
+0001520262
+us-gaap:EmployeeStockOptionMember
+2024-07-01
+2024-09-30
+0001520262
+2024-04-01
+2024-06-30
+0001520262
+us-gaap:SegmentContinuingOperationsMember
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+2024-07-01
+2024-09-30
+0001520262
+us-gaap:ProductMember
+2024-01-01
+2024-09-30
+0001520262
+alks:RISPERDALCONSTAMember
+alks:ManufacturingRevenueMember
+2025-01-01
+2025-09-30
+0001520262
+2023-12-31
+0001520262
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-03-31
+0001520262
+alks:LYBALVIMember
+2025-07-01
+2025-09-30
+0001520262
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-09-30
+0001520262
+2025-03-31
+0001520262
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-31
+0001520262
+us-gaap:AdditionalPaidInCapitalMember
+2024-03-31
+0001520262
+alks:VivitrolMember
+2024-07-01
+2024-09-30
+0001520262
+us-gaap:InventoriesMember
+2024-12-31
+0001520262
+alks:ManufacturingRevenueMember
+alks:VumerityMember
+2024-07-01
+2024-09-30
+0001520262
+us-gaap:RetainedEarningsMember
+2024-09-30
+0001520262
+us-gaap:RetainedEarningsMember
+2025-09-30
+0001520262
+alks:AvadelPharmaceuticalsPlcMember
+alks:JPMorganChaseBankNAMember
+alks:BridgeTermLoanCreditAgreementMember
+us-gaap:SubsequentEventMember
+2025-10-22
+2025-10-22
+0001520262
+us-gaap:CertificatesOfDepositMember
+2025-09-30
+0001520262
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0001520262
+alks:ManufacturingRevenueMember
+2024-01-01
+2024-09-30
+0001520262
+alks:ResearchAndDevelopmentMember
+2024-01-01
+2024-09-30
+0001520262
+us-gaap:TreasuryStockCommonMember
+2024-06-30
+0001520262
+us-gaap:CommonStockMember
+2024-07-01
+2024-09-30
+0001520262
+us-gaap:CommonStockMember
+2025-09-30
+0001520262
+us-gaap:AccountsReceivableMember
+2024-12-31
+0001520262
+alks:OtherProductsAndServicesMember
+us-gaap:RoyaltyMember
+2024-07-01
+2024-09-30
+0001520262
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-03-31
+0001520262
+alks:FurnitureFixtureAndEquipmentMember
+2025-09-30
+0001520262
+us-gaap:USGovernmentAgenciesDebtSecuritiesMember
+us-gaap:ShortTermInvestmentsMember
+2024-12-31
+0001520262
+alks:OtherProductsAndServicesMember
+alks:ManufacturingRevenueMember
+2025-07-01
+2025-09-30
+0001520262
+us-gaap:RetainedEarningsMember
+2025-03-31
+0001520262
+2025-06-30
+0001520262
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-06-30
+0001520262
+us-gaap:SegmentContinuingOperationsMember
+2025-07-01
+2025-09-30
+0001520262
+us-gaap:ShortTermInvestmentsMember
+2025-09-30
+0001520262
+us-gaap:TreasuryStockCommonMember
+2023-12-31
+0001520262
+alks:ContractualAdjustmentsMember
+2024-12-31
+0001520262
+alks:MedicaidRebateMember
+2025-09-30
+0001520262
+us-gaap:TreasuryStockCommonMember
+2024-03-31
+0001520262
+us-gaap:OtherNoncurrentLiabilitiesMember
+2025-09-30
+0001520262
+alks:ProductReturnsMember
+2025-01-01
+2025-09-30
+0001520262
+2025-09-30
+0001520262
+alks:OtherAdjustmentsMember
+2024-12-31
+0001520262
+us-gaap:TreasuryStockCommonMember
+2025-09-30
+0001520262
+us-gaap:TreasuryStockCommonMember
+2024-04-01
+2024-06-30
+0001520262
+us-gaap:RetainedEarningsMember
+2025-04-01
+2025-06-30
+0001520262
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-30
+0001520262
+us-gaap:RetainedEarningsMember
+2024-03-31
+0001520262
+alks:LongActingINVEGAProductsMember
+us-gaap:RoyaltyMember
+2025-01-01
+2025-09-30
+0001520262
+us-gaap:USGovernmentAgenciesDebtSecuritiesMember
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-30
+0001520262
+us-gaap:CommonStockMember
+2024-04-01
+2024-06-30
+0001520262
+us-gaap:TreasuryStockCommonMember
+2024-07-01
+2024-09-30
+0001520262
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-30
+0001520262
+2025-10-24
+0001520262
+us-gaap:CommonStockMember
+2025-06-30
+0001520262
+us-gaap:RetainedEarningsMember
+2025-06-30
+0001520262
+us-gaap:CommonStockMember
+2024-01-01
+2024-03-31
+0001520262
+alks:LongTermInvestmentsMember
+2025-09-30
+0001520262
+alks:ManufacturedProductAndRoyaltyMember
+2024-01-01
+2024-09-30
+0001520262
+us-gaap:ShortTermInvestmentsMember
+2024-12-31
+0001520262
+us-gaap:ResearchAndDevelopmentExpenseMember
+2024-01-01
+2024-09-30
+0001520262
+alks:LongActingINVEGAProductsMember
+us-gaap:RoyaltyMember
+2025-07-01
+2025-09-30
+0001520262
+alks:ManufacturingRevenueMember
+2024-07-01
+2024-09-30
+0001520262
+us-gaap:RetainedEarningsMember
+2024-07-01
+2024-09-30
+0001520262
+us-gaap:ProductMember
+2025-07-01
+2025-09-30
+0001520262
+us-gaap:SegmentContinuingOperationsMember
+2024-01-01
+2024-09-30
+0001520262
+alks:OtherProductsAndServicesMember
+us-gaap:RoyaltyMember
+2024-01-01
+2024-09-30
+0001520262
+alks:RISPERDALCONSTAMember
+alks:ManufacturedProductAndRoyaltyMember
+2024-07-01
+2024-09-30
+0001520262
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-01-01
+2024-03-31
+0001520262
+us-gaap:CertificatesOfDepositMember
+2024-12-31
+0001520262
+us-gaap:LandMember
+2025-09-30
+0001520262
+us-gaap:CorporateDebtSecuritiesMember
+2025-09-30
+0001520262
+alks:ContractLiabilitiesMember
+2024-12-31
+0001520262
+us-gaap:RetainedEarningsMember
+2025-07-01
+2025-09-30
+0001520262
+us-gaap:SegmentContinuingOperationsMember
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+2025-01-01
+2025-09-30
+iso4217:EUR
+iso4217:USD
+xbrli:shares
+xbrli:pure
+utr:sqft
+xbrli:shares
+alks:Segment
+iso4217:USD
+alks:Investmentsecurity
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+Form 
+10-Q
+
+(Mark One)
+
+☒
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended 
+September 30, 
+2025
+
+OR
+
+☐
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Commission File Number 
+001-35299
+ALKERMES PUBLIC LIMITED COMPANY
+(Exact name of registrant as specified in its charter)
+
+Ireland
+
+98-1007018
+
+(State or other jurisdiction of incorporation or organization)
+
+(I.R.S. Employer Identification No.)
+
+Connaught House
+1 Burlington Road
+Dublin 4
+, 
+Ireland
+, 
+D04 C5Y6
+(Address of principal executive offices)
+
++ 
+353
+-
+1-772-8000
+(Registrant’s telephone number, including area code)
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Ordinary shares, $0.01 par value
+
+ALKS
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+Yes
+
+☒
+  No 
+☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+Yes
+
+☒
+ No 
+☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+Large accelerated filer
+
+☒
+
+Accelerated filer 
+☐
+
+Non-accelerated filer 
+☐
+
+Smaller reporting company 
+☐
+
+Emerging growth company 
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes 
+☐
+  No 
+☒
+
+The number of the registrant’s ordinary shares, $0.01 par value, outstanding as of October 24, 2025 was 
+165,117,509
+ shares.
+
+ALKERMES PLC AND SUBSIDIARIES
+QUARTERLY REPORT ON FORM 10-Q
+FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2025
+
+Page No.
+
+PART I - FINANCIAL INFORMATION
+
+Item 1.
+
+Condensed Consolidated Financial Statements (unaudited):
+
+Condensed Consolidated Balance Sheets — September 30, 2025 and December 31, 2024
+
+5
+
+Condensed Consolidated Statements of Income and Comprehensive Income — For the Three and Nine Months Ended September 30, 2025 and 2024
+
+6
+
+Condensed Consolidated Statements of Cash Flows — For the Nine Months Ended September 30, 2025 and 2024
+
+7
+
+Condensed Consolidated Statements of Shareholders’ Equity — For the Three and Nine Months Ended September 30, 2025 and 2024
+
+8
+
+Notes to Condensed Consolidated Financial Statements
+
+10
+
+Item 2.
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+25
+
+Item 3.
+
+Quantitative and Qualitative Disclosures about Market Risk
+
+36
+
+Item 4.
+
+Controls and Procedures
+
+36
+
+PART II - OTHER INFORMATION
+
+Item 1.
+
+Legal Proceedings
+
+37
+
+Item 1A.
+
+Risk Factors
+
+37
+
+Item 2.
+
+Unregistered Sales of Equity Securities and Use of Proceeds
+
+39
+
+Item 5.
+
+Other Information
+
+39
+
+Item 6.
+
+Exhibits
+
+40
+
+Signatures
+
+41
+
+2
+
+Cautionary Note Concerning Forward-Looking Statements
+This document contains and incorporates by reference “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). In some cases, these statements can be identified by the use of forward-looking terminology such as “may,” “will,” “could,” “should,” “would,” “expect,” “anticipate,” “continue,” “believe,” “plan,” “estimate,” “intend” or other similar words. These statements discuss future expectations and contain projections of results of operations or of financial condition, or state trends and known uncertainties or other forward-looking information. Forward-looking statements in this Quarterly Report on Form 10-Q (this “Form 10-Q”) may include, without limitation, statements regarding:
+•
+our expectations regarding our financial performance, including revenues, expenses, liquidity, capital expenditures, income taxes and profitability;
+•
+our expectations regarding our products, including expectations related to product development, regulatory filings, approvals and timelines; therapeutic and commercial value, scope and potential; and the costs and expenses related to such activities and expectations;
+•
+our expectations regarding the timing, design and results of clinical trials of our products; 
+•
+our expectations regarding the competitive, payer, legislative, regulatory and policy landscape, and changes therein, related to our products, including competition from generic forms of our products or competitive products and development programs; barriers to access or coverage of our products and potential changes in reimbursement of our products; and legislation, regulations, executive orders, guidance or other measures that may impact pricing and reimbursement of, and access to, our products;
+•
+our expectations regarding the financial impact of currency exchange rate fluctuations and valuations;
+•
+our expectations regarding acquisitions, collaborations, licensing arrangements and other significant agreements with third parties, including those related to our products, development programs, and other business development opportunities; 
+•
+our expectations regarding the impacts of new legislation, rules and regulations, the adoption of new accounting pronouncements, government shutdowns, or other global, political or economic changes, instability or disruptions;
+•
+our expectations regarding near-term changes in the nature of our market risk exposures or in our management’s objectives and strategies with respect to managing such exposures;
+•
+our expectations regarding future capital requirements and expenditures for our operations and our ability to finance such capital requirements and expenditures;
+•
+our expectations regarding the timing, outcome and impact of administrative, regulatory, legal and other proceedings related to our products and intellectual property (“IP”), including our patents, know-how, and related rights or obligations; 
+•
+our expectations regarding the Proposed Acquisition (as defined below) and the terms, structure and timing for expected completion of the Proposed Acquisition; 
+•
+our expectations regarding the tax treatment and other anticipated benefits of the completed separation of our oncology business; and
+•
+other expectations discussed elsewhere in this Form 10-Q.
+Actual results might differ materially from those expressed or implied by these forward-looking statements because these forward-looking statements are subject to risks, assumptions and uncertainties. In light of these risks, assumptions and uncertainties, the forward-looking expectations discussed in this Form 10-Q might not occur. You are cautioned not to place undue reliance on the forward-looking statements in this Form 10-Q, which speak only as of the date of this Form 10-Q. All subsequent written and oral forward-looking statements concerning the matters addressed in this Form 10-Q and attributable to us or any person acting on our behalf are expressly qualified in their entirety by the cautionary statements contained or referred to in this section. Except as required by applicable law or regulation, we do not undertake any obligation to update publicly or revise any forward-looking statements, whether as a result of new information, future events or otherwise. For information about the risks, assumptions and uncertainties of our business, see “Part I, Item 1A—Risk Factors” in our Annual Report on Form 10-K for the year ended December 31, 2024, filed with the United States (“U.S.”) Securities and Exchange Commission (the “SEC”) on February 12, 2025 (our “Annual Report”) and “Part II, Item 1A—Risk Factors” in this Form 10-Q.
+
+3
+
+This Form 10-Q may include data that we obtained from industry publications and third-party research, surveys and studies. Industry publications and third-party research, surveys and studies generally indicate that their information has been obtained from sources believed to be reliable, although they do not guarantee the accuracy or completeness of such information. While we believe that any industry publications and third-party research, surveys and studies from which data is included in this Form 10-Q are reliable, we have not independently verified any such data. This Form 10-Q may also include data based on our own internal estimates and research. Our internal estimates and research have not been verified by any independent source and are necessarily subject to a high degree of uncertainty and risk due to a variety of factors, including those described in “Part I, Item 1A—Risk Factors” in our Annual Report and “Part II, Item 1A—Risk Factors” in this Form 10-Q. These and other factors could cause our results to differ materially from those expressed or implied in this Form 10-Q.
+Note Regarding Company and Product References
+Alkermes plc is a global biopharmaceutical company that seeks to develop innovative medicines in the field of neuroscience. We have a portfolio of proprietary commercial products for the treatment of alcohol dependence, opioid dependence, schizophrenia and bipolar I disorder, and a pipeline of clinical and preclinical candidates in development for neurological disorders, including narcolepsy and idiopathic hypersomnia. Use of terms such as “us,” “we,” “our,” “Alkermes” or the “Company” in this Form 10-Q is meant to refer to Alkermes plc and its consolidated subsidiaries. Except as otherwise suggested by the context, (a) references to “products” or “our products” in this Form 10-Q include our marketed products, marketed products using our proprietary technologies, our licensed products, our product candidates and product candidates using our proprietary technologies, (b) references to the “biopharmaceutical industry” in this Form 10-Q are intended to include reference to the “biotechnology industry” and/or the “pharmaceutical industry” and (c) references to “licensees” in this Form 10-Q are used interchangeably with references to “partners.”
+Note Regarding Trademarks
+We are the owner of various U.S. federal trademark registrations (“
+®
+”) and other trademarks (“
+TM
+”), including ALKERMES
+®
+, ARISTADA
+®
+, ARISTADA INITIO
+®
+, LinkeRx
+®
+, LYBALVI
+®
+, NanoCrystal
+®
+ and VIVITROL
+®
+.
+
+The following are trademarks of the respective companies listed: BYANNLI
+®
+, INVEGA
+®
+, INVEGA HAFYERA
+®
+, INVEGA SUSTENNA
+®
+, INVEGA TRINZA
+®
+, RISPERDAL CONSTA
+®
+, TREVICTA
+®
+, and XEPLION
+®
+—Johnson & Johnson or its affiliated companies; FAMPYRA
+TM
+—Merz Pharmaceuticals, LLC; and VUMERITY
+®
+—Biogen MA Inc. (together with its affiliates, “Biogen”). Other trademarks, trade names and service marks appearing in this Form 10-Q are the property of their respective owners. Solely for convenience, the trademarks and trade names in this Form 10-Q may be referred to without the 
+®
+ or 
+TM
+ symbol, but such references should not be construed as any indicator that their respective owners will not assert, to the fullest extent under applicable law, their rights thereto.
+
+4
+
+PART I. FINANCI
+AL INFORMATION
+Item 1. Condensed Consolid
+ated Financial Statements:
+ALKERMES PLC AND SUBSIDIARIES
+CONDENSED CONSOLIDA
+TED BALANCE SHEETS
+(unaudited)
+
+September 30, 2025
+
+December 31, 2024
+
+(In thousands, except share and per share amounts)
+
+ASSETS
+
+CURRENT ASSETS:
+
+Cash and cash equivalents
+
+$
+
+616,449
+
+$
+
+291,146
+
+Investments—short-term
+
+494,665
+
+460,522
+
+Receivables, net
+
+354,394
+
+384,528
+
+Inventory
+
+190,997
+
+182,887
+
+Prepaid expenses and other current assets
+
+84,442
+
+91,282
+
+Contract assets
+
+717
+
+4,990
+
+Total current assets
+
+1,741,664
+
+1,415,355
+
+PROPERTY, PLANT AND EQUIPMENT, NET
+
+246,982
+
+227,564
+
+INVESTMENTS—LONG-TERM
+
+27,869
+
+73,148
+
+RIGHT-OF-USE ASSETS
+
+79,128
+
+84,245
+
+INTANGIBLE ASSETS, NET AND GOODWILL
+
+83,861
+
+83,917
+
+DEFERRED TAX ASSETS
+
+130,344
+
+154,835
+
+OTHER ASSETS
+
+19,664
+
+16,503
+
+TOTAL ASSETS
+
+$
+
+2,329,512
+
+$
+
+2,055,567
+
+LIABILITIES AND SHAREHOLDERS’ EQUITY
+
+CURRENT LIABILITIES:
+
+Accounts payable and accrued expenses
+
+$
+
+214,985
+
+$
+
+185,332
+
+Accrued sales discounts, allowances and reserves
+
+252,743
+
+272,452
+
+Operating lease liabilities—short-term
+
+6,632
+
+6,166
+
+Contract liabilities—short-term
+
+—
+
+1,249
+
+Total current liabilities
+
+474,360
+
+465,199
+
+OPERATING LEASE LIABILITIES—LONG-TERM
+
+64,966
+
+69,372
+
+OTHER LONG-TERM LIABILITIES
+
+56,754
+
+56,019
+
+Total liabilities
+
+596,080
+
+590,590
+
+COMMITMENTS AND CONTINGENT LIABILITIES (Note 16)
+
+SHAREHOLDERS’ EQUITY:
+
+Preferred shares, par value, $
+0.01
+ per share; 
+50,000,000
+ shares authorized; and 
+zero
+ issued and outstanding at September 30, 2025 and December 31, 2024
+
+—
+
+—
+
+Ordinary shares, par value, $
+0.01
+ per share; 
+450,000,000
+ shares authorized; 
+180,499,470
+ and 
+176,670,785
+ shares issued; and 
+165,103,891
+ and 
+162,176,994
+ shares outstanding at September 30, 2025 and December 31, 2024, respectively
+
+1,805
+
+1,767
+
+Treasury shares, at cost (
+15,395,579
+ and 
+14,493,791
+ shares at September 30, 2025 and December 31, 2024, respectively)
+
+(
+450,021
+
+)
+
+(
+419,255
+
+)
+
+Additional paid-in capital
+
+2,966,842
+
+2,860,890
+
+Accumulated other comprehensive loss
+
+(
+1,059
+
+)
+
+(
+1,967
+
+)
+
+Accumulated deficit
+
+(
+784,135
+
+)
+
+(
+976,458
+
+)
+
+Total shareholders’ equity
+
+1,733,432
+
+1,464,977
+
+TOTAL LIABILITIES AND SHAREHOLDERS’ EQUITY
+
+$
+
+2,329,512
+
+$
+
+2,055,567
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+5
+
+ALKERMES PLC AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF
+ INCOME AND COMPREHENSIVE INCOME
+(unaudited)
+
+Three Months Ended
+
+Nine Months Ended
+
+September 30,
+
+September 30,
+
+2025
+
+2024
+
+2025
+
+2024
+
+(In thousands, except per share amounts)
+
+REVENUES:
+
+Product sales, net
+
+$
+
+317,423
+
+$
+
+272,999
+
+$
+
+869,151
+
+$
+
+775,808
+
+Manufacturing and royalty revenues
+
+76,762
+
+105,144
+
+222,201
+
+351,835
+
+Research and development revenue
+
+—
+
+—
+
+—
+
+3
+
+Total revenues
+
+394,185
+
+378,143
+
+1,091,352
+
+1,127,646
+
+EXPENSES:
+
+Cost of goods manufactured and sold (exclusive of amortization of acquired intangible assets shown below)
+
+51,591
+
+63,099
+
+150,248
+
+183,215
+
+Research and development
+
+81,739
+
+59,892
+
+230,926
+
+187,152
+
+Selling, general and administrative
+
+171,773
+
+150,382
+
+514,326
+
+498,244
+
+Amortization of acquired intangible assets
+
+—
+
+14
+
+—
+
+1,087
+
+Total expenses
+
+305,103
+
+273,387
+
+895,500
+
+869,698
+
+OPERATING INCOME FROM CONTINUING OPERATIONS
+
+89,082
+
+104,756
+
+195,852
+
+257,948
+
+OTHER INCOME, NET:
+
+Interest income
+
+11,943
+
+10,916
+
+33,174
+
+31,050
+
+Interest expense
+
+—
+
+(
+6,000
+
+)
+
+—
+
+(
+17,930
+
+)
+
+Other (expense) income, net
+
+(
+280
+
+)
+
+558
+
+2,047
+
+2,793
+
+Total other income, net
+
+11,663
+
+5,474
+
+35,221
+
+15,913
+
+INCOME BEFORE INCOME TAXES
+
+100,745
+
+110,230
+
+231,073
+
+273,861
+
+INCOME TAX PROVISION
+
+17,984
+
+17,435
+
+38,750
+
+47,460
+
+NET INCOME FROM CONTINUING OPERATIONS
+
+82,761
+
+92,795
+
+192,323
+
+226,401
+
+LOSS FROM DISCONTINUED OPERATIONS, NET OF TAX
+
+—
+
+(
+414
+
+)
+
+—
+
+(
+5,834
+
+)
+
+NET INCOME
+
+$
+
+82,761
+
+$
+
+92,381
+
+$
+
+192,323
+
+$
+
+220,567
+
+EARNINGS PER ORDINARY SHARE:
+
+Earnings per ordinary share from continuing operations - basic
+
+$
+
+0.50
+
+$
+
+0.57
+
+$
+
+1.17
+
+$
+
+1.36
+
+Loss per ordinary share from discontinued operations - basic
+
+$
+
+—
+
+$
+
+—
+
+$
+
+—
+
+$
+
+(
+0.04
+
+)
+
+Earnings per ordinary share - basic
+
+$
+
+0.50
+
+$
+
+0.57
+
+$
+
+1.17
+
+$
+
+1.32
+
+Earnings per ordinary share from continuing operations - diluted
+
+$
+
+0.49
+
+$
+
+0.56
+
+$
+
+1.14
+
+$
+
+1.33
+
+Loss per ordinary share from discontinued operations - diluted
+
+$
+
+—
+
+$
+
+—
+
+$
+
+—
+
+$
+
+(
+0.03
+
+)
+
+Earnings per ordinary share - diluted
+
+$
+
+0.49
+
+$
+
+0.55
+
+$
+
+1.14
+
+$
+
+1.30
+
+WEIGHTED AVERAGE NUMBER OF ORDINARY SHARES OUTSTANDING:
+
+Basic
+
+165,086
+
+163,368
+
+164,490
+
+166,546
+
+Diluted
+
+168,510
+
+167,025
+
+168,445
+
+170,196
+
+COMPREHENSIVE INCOME:
+
+Net income
+
+$
+
+82,761
+
+$
+
+92,381
+
+$
+
+192,323
+
+$
+
+220,567
+
+Holding gain, net of a tax provision of $
+108
+, $
+376
+, $
+293
+ and $
+293
+, respectively
+
+341
+
+4,015
+
+908
+
+3,535
+
+COMPREHENSIVE INCOME
+
+$
+
+83,102
+
+$
+
+96,396
+
+$
+
+193,231
+
+$
+
+224,102
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+6
+
+ALKERMES PLC AND SUBSIDIARIES
+CONDENSED CONSOLIDATED S
+TATEMENTS OF CASH FLOWS
+(unaudited)
+
+Nine Months Ended
+
+September 30,
+
+2025
+
+2024
+
+(In thousands)
+
+CASH FLOWS FROM OPERATING ACTIVITIES:
+
+Net income
+
+$
+
+192,323
+
+$
+
+220,567
+
+Adjustments to reconcile net income to cash flows from operating activities:
+
+Depreciation and amortization
+
+23,319
+
+21,686
+
+Share-based compensation expense
+
+72,441
+
+75,889
+
+Deferred income taxes
+
+30,494
+
+32,313
+
+Gain on sale of the Athlone Facility
+
+—
+
+(
+1,462
+
+)
+
+Other non-cash charges
+
+4,396
+
+4,794
+
+Changes in assets and liabilities:
+
+Receivables
+
+30,134
+
+(
+34,734
+
+)
+
+Contract assets
+
+4,273
+
+(
+2,263
+
+)
+
+Inventory
+
+(
+9,198
+
+)
+
+(
+6,051
+
+)
+
+Prepaid expenses and other assets
+
+(
+2,984
+
+)
+
+1,892
+
+Right-of-use assets
+
+5,628
+
+5,384
+
+Accounts payable and accrued expenses
+
+27,864
+
+(
+82,978
+
+)
+
+Accrued sales discounts, allowances and reserves
+
+(
+19,709
+
+)
+
+18,377
+
+Contract liabilities
+
+(
+1,249
+
+)
+
+(
+2,435
+
+)
+
+Operating lease liabilities
+
+(
+7,733
+
+)
+
+(
+7,594
+
+)
+
+Other long-term liabilities
+
+686
+
+5,342
+
+Cash flows provided by operating activities
+
+350,685
+
+248,727
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+
+Additions of property, plant and equipment
+
+(
+40,440
+
+)
+
+(
+23,711
+
+)
+
+Proceeds from the sale of property, plant and equipment
+
+34
+
+454
+
+Proceeds from the sale of the Athlone Facility
+
+1,708
+
+97,933
+
+Purchases of investments
+
+(
+308,534
+
+)
+
+(
+396,895
+
+)
+
+Sales and maturities of investments
+
+320,383
+
+224,786
+
+Cash flows used in investing activities
+
+(
+26,849
+
+)
+
+(
+97,433
+
+)
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+
+Proceeds from the issuance of ordinary shares under share-based compensation arrangements
+
+32,233
+
+19,354
+
+Employee taxes paid related to net share settlement of equity awards
+
+(
+30,766
+
+)
+
+(
+29,293
+
+)
+
+Payment for the repurchase of ordinary shares
+
+—
+
+(
+200,281
+
+)
+
+Principal payments of long-term debt
+
+—
+
+(
+2,250
+
+)
+
+Cash flows provided by (used in) financing activities
+
+1,467
+
+(
+212,470
+
+)
+
+NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS
+
+325,303
+
+(
+61,176
+
+)
+
+CASH AND CASH EQUIVALENTS—Beginning of period
+
+291,146
+
+457,469
+
+CASH AND CASH EQUIVALENTS—End of period
+
+$
+
+616,449
+
+$
+
+396,293
+
+SUPPLEMENTAL CASH FLOW DISCLOSURE:
+
+Cash paid for taxes
+
+$
+
+3,108
+
+$
+
+1,930
+
+Non-cash investing and financing activities:
+
+Purchased capital expenditures included in accounts payable and accrued expenses
+
+$
+
+5,263
+
+$
+
+3,053
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+7
+
+ALKERMES PLC AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS 
+OF SHAREHOLDERS’ EQUITY
+(unaudited)
+
+Ordinary Shares
+
+Additional 
+Paid-In
+
+Accumulated Other Comprehensive
+
+Accumulated
+
+Treasury Stock
+
+Shares
+
+Amount
+
+Capital
+
+(Loss) Income
+
+Deficit
+
+Shares
+
+Amount
+
+Total
+
+(In thousands, except share data)
+
+BALANCE — December 31, 2024
+
+176,670,785
+
+$
+
+1,767
+
+$
+
+2,860,890
+
+$
+
+(
+1,967
+
+)
+
+$
+
+(
+976,458
+
+)
+
+(
+14,493,791
+
+)
+
+$
+
+(
+419,255
+
+)
+
+$
+
+1,464,977
+
+Issuance of ordinary shares under employee stock plans
+
+3,510,611
+
+35
+
+29,493
+
+—
+
+—
+
+—
+
+—
+
+29,528
+
+Receipt of Alkermes' ordinary shares for the exercise of stock options or to satisfy minimum tax withholding obligations related to share-based awards
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(
+834,590
+
+)
+
+(
+28,781
+
+)
+
+(
+28,781
+
+)
+
+Share-based compensation
+
+—
+
+—
+
+22,883
+
+—
+
+—
+
+—
+
+—
+
+22,883
+
+Unrealized gain on marketable securities, net of tax provision of $
+168
+
+—
+
+—
+
+—
+
+512
+
+—
+
+—
+
+—
+
+512
+
+Net income
+
+—
+
+—
+
+—
+
+—
+
+22,464
+
+—
+
+—
+
+22,464
+
+BALANCE — March 31, 2025
+
+180,181,396
+
+$
+
+1,802
+
+$
+
+2,913,266
+
+$
+
+(
+1,455
+
+)
+
+$
+
+(
+953,994
+
+)
+
+(
+15,328,381
+
+)
+
+$
+
+(
+448,036
+
+)
+
+$
+
+1,511,583
+
+Issuance of ordinary shares under employee stock plans
+
+258,354
+
+3
+
+2,080
+
+—
+
+—
+
+—
+
+—
+
+2,083
+
+Receipt of Alkermes' ordinary shares for the exercise of stock options or to satisfy minimum tax withholding obligations related to share-based awards
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(
+56,457
+
+)
+
+(
+1,678
+
+)
+
+(
+1,678
+
+)
+
+Share-based compensation
+
+—
+
+—
+
+25,443
+
+—
+
+—
+
+—
+
+—
+
+25,443
+
+Unrealized gain on marketable securities, net of tax provision of $
+16
+
+—
+
+—
+
+—
+
+55
+
+—
+
+—
+
+—
+
+55
+
+Net income
+
+—
+
+—
+
+—
+
+—
+
+87,098
+
+—
+
+—
+
+87,098
+
+BALANCE — June 30, 2025
+
+180,439,750
+
+$
+
+1,805
+
+$
+
+2,940,789
+
+$
+
+(
+1,400
+
+)
+
+$
+
+(
+866,896
+
+)
+
+(
+15,384,838
+
+)
+
+$
+
+(
+449,714
+
+)
+
+$
+
+1,624,584
+
+Issuance of ordinary shares under employee stock plans
+
+59,720
+
+—
+
+622
+
+—
+
+—
+
+—
+
+—
+
+622
+
+Receipt of Alkermes' ordinary shares for the exercise of stock options or to satisfy minimum tax withholding obligations related to share-based awards
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(
+10,741
+
+)
+
+(
+307
+
+)
+
+(
+307
+
+)
+
+Share-based compensation
+
+—
+
+—
+
+25,431
+
+—
+
+—
+
+—
+
+—
+
+25,431
+
+Unrealized gain on marketable securities, net of tax provision of $
+108
+
+—
+
+—
+
+—
+
+341
+
+—
+
+—
+
+—
+
+341
+
+Net income
+
+—
+
+—
+
+—
+
+—
+
+82,761
+
+—
+
+—
+
+82,761
+
+BALANCE — September 30, 2025
+
+180,499,470
+
+$
+
+1,805
+
+$
+
+2,966,842
+
+$
+
+(
+1,059
+
+)
+
+$
+
+(
+784,135
+
+)
+
+(
+15,395,579
+
+)
+
+$
+
+(
+450,021
+
+)
+
+$
+
+1,733,432
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+8
+
+Ordinary Shares
+
+Additional 
+Paid-In
+
+Accumulated Other Comprehensive
+
+Accumulated
+
+Treasury Stock
+
+Shares
+
+Amount
+
+Capital
+
+(Loss) Income
+
+Deficit
+
+Shares
+
+Amount
+
+Total
+
+(In thousands, except share data)
+
+BALANCE — December 31, 2023
+
+172,569,051
+
+$
+
+1,726
+
+$
+
+2,736,934
+
+$
+
+(
+3,110
+
+)
+
+$
+
+(
+1,343,528
+
+)
+
+(
+5,589,218
+
+)
+
+$
+
+(
+189,336
+
+)
+
+$
+
+1,202,686
+
+Issuance of ordinary shares under employee stock plans
+
+3,165,169
+
+31
+
+11,195
+
+—
+
+—
+
+—
+
+—
+
+11,226
+
+Receipt of Alkermes' ordinary shares for the exercise of stock options or to satisfy minimum tax withholding obligations related to share-based awards
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(
+960,486
+
+)
+
+(
+28,349
+
+)
+
+(
+28,349
+
+)
+
+Share-based compensation
+
+—
+
+—
+
+32,863
+
+—
+
+—
+
+—
+
+—
+
+32,863
+
+Unrealized loss on marketable securities, net of tax benefit of $
+75
+
+—
+
+—
+
+—
+
+(
+491
+
+)
+
+—
+
+—
+
+—
+
+(
+491
+
+)
+
+Net income
+
+—
+
+—
+
+—
+
+—
+
+36,828
+
+—
+
+—
+
+36,828
+
+BALANCE — March 31, 2024
+
+175,734,220
+
+$
+
+1,757
+
+$
+
+2,780,992
+
+$
+
+(
+3,601
+
+)
+
+$
+
+(
+1,306,700
+
+)
+
+(
+6,549,704
+
+)
+
+$
+
+(
+217,685
+
+)
+
+$
+
+1,254,763
+
+Issuance of ordinary shares under employee stock plans
+
+225,052
+
+3
+
+2,604
+
+—
+
+—
+
+—
+
+—
+
+2,607
+
+Receipt of Alkermes' ordinary shares for the exercise of stock options or to satisfy minimum tax withholding obligations related to share-based awards
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(
+26,692
+
+)
+
+(
+651
+
+)
+
+(
+651
+
+)
+
+Repurchase of Alkermes' ordinary shares
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(
+3,496,187
+
+)
+
+(
+84,689
+
+)
+
+(
+84,689
+
+)
+
+Share-based compensation
+
+—
+
+—
+
+20,606
+
+—
+
+—
+
+—
+
+—
+
+20,606
+
+Unrealized gain on marketable securities, net of tax benefit of $
+8
+
+—
+
+—
+
+—
+
+11
+
+—
+
+—
+
+—
+
+11
+
+Net income
+
+—
+
+—
+
+—
+
+—
+
+91,358
+
+—
+
+—
+
+91,358
+
+BALANCE — June 30, 2024
+
+175,959,272
+
+$
+
+1,760
+
+$
+
+2,804,202
+
+$
+
+(
+3,590
+
+)
+
+$
+
+(
+1,215,342
+
+)
+
+(
+10,072,583
+
+)
+
+$
+
+(
+303,025
+
+)
+
+$
+
+1,284,005
+
+Issuance of ordinary shares under employee stock plans
+
+298,898
+
+3
+
+5,518
+
+—
+
+—
+
+—
+
+—
+
+5,521
+
+Receipt of Alkermes' ordinary shares for the exercise of stock options or to satisfy minimum tax withholding obligations related to share-based awards
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(
+11,152
+
+)
+
+(
+293
+
+)
+
+(
+293
+
+)
+
+Repurchase of Alkermes' ordinary shares
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(
+4,398,230
+
+)
+
+(
+115,593
+
+)
+
+(
+115,593
+
+)
+
+Share-based compensation
+
+—
+
+—
+
+22,070
+
+—
+
+—
+
+—
+
+—
+
+22,070
+
+Unrealized gain on marketable securities, net of tax provision of $
+376
+
+—
+
+—
+
+—
+
+4,015
+
+—
+
+—
+
+—
+
+4,015
+
+Net income
+
+—
+
+—
+
+—
+
+—
+
+92,381
+
+—
+
+—
+
+92,381
+
+BALANCE — September 30, 2024
+
+176,258,170
+
+$
+
+1,763
+
+$
+
+2,831,790
+
+$
+
+425
+
+$
+
+(
+1,122,961
+
+)
+
+(
+14,481,965
+
+)
+
+$
+
+(
+418,911
+
+)
+
+$
+
+1,292,106
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+9
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited)
+
+1. THE
+
+COMPANY
+Alkermes plc is a global biopharmaceutical company that seeks to develop innovative medicines in the field of neuroscience. Alkermes has a portfolio of proprietary commercial products for the treatment of alcohol dependence, opioid dependence, schizophrenia and bipolar I disorder and a pipeline of clinical and preclinical candidates in development for neurological disorders, including narcolepsy and idiopathic hypersomnia. Headquartered in Ireland, Alkermes also has a corporate office and research and development (“R&D”) center in Massachusetts and a manufacturing facility in Ohio.
+In May 2024, the Company completed the sale of its research and development business and manufacturing facility in Athlone, Ireland (the “Athlone Facility”) to Novo Nordisk (“Novo”). The Company and Novo also entered into subcontracting arrangements to continue certain development and manufacturing activities performed at the Athlone Facility for a period of time after the closing of the transaction, which activities may continue through the end of 2025. In connection with the sale of the Athlone Facility, the Company received approximately $
+97.9
+ million from Novo, which included a payment of approximately $
+91.0
+ million for the facility and certain related assets, and recorded a gain of approximately $
+1.5
+ million within “
+Other (expense) income, net
+” in the accompanying condensed consolidated statements of income and comprehensive income for the nine months ended September 30, 2024.
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Basis of Presentation
+The accompanying condensed consolidated financial statements of the Company for the three and nine months ended September 30, 2025 and 2024 are unaudited and have been prepared on a basis substantially consistent with the audited financial statements for the year ended December 31, 2024. The year-end consolidated balance sheet data, which is presented for comparative purposes, was derived from audited financial statements, but does not include all disclosures required by accounting principles generally accepted in the U.S. (commonly referred to as “GAAP”). In the opinion of management, the condensed consolidated financial statements include all adjustments of a normal recurring nature that are necessary to state fairly the results of operations for the reported periods.
+The accompanying condensed consolidated financial statements should be read in conjunction with the audited consolidated financial statements and notes thereto of the Company, which are contained in the Annual Report. The results of the Company’s operations for any interim period are not necessarily indicative of the results of the Company’s operations for any other interim period or for any full fiscal year.
+Principles of Consolidation
+The accompanying condensed consolidated financial statements include the accounts of Alkermes plc and its wholly-owned subsidiaries as disclosed in Note 2, 
+Summary of Significant Accounting Policies
+ in the “Notes to Consolidated Financial Statements” accompanying the Annual Report. Intercompany accounts and transactions have been eliminated. Columns and rows within tables may not sum due to rounding.
+Discontinued Operations
+The Company determined that the separation of its former oncology business into Mural Oncology plc (“Mural”), a new, independent, publicly-traded company (the “Separation”), completed in November 2023, met the criteria for classification of the oncology business as discontinued operations in accordance with Financial Accounting Standards Board (“FASB”) Accounting Standards Codification (“ASC”) 205, 
+Discontinued Operations 
+(“Topic 205”).
+Use of Estimates
+The preparation of the Company’s condensed consolidated financial statements in accordance with GAAP requires that Company management make estimates, judgments and assumptions that may affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. On an ongoing basis, the Company evaluates its estimates, judgments and methodologies, including, but not limited to, those related to revenue from contracts with its customers and related allowances, impairment of long-lived assets, share-based compensation, income taxes including the valuation allowance for deferred tax assets, valuation of investments and litigation. The Company bases its estimates on historical experience and on various other assumptions that are believed to be reasonable, the results of which form the basis for making judgments about the carrying values of assets and liabilities. Actual results may differ from these estimates under different conditions or using different assumptions.
+
+10
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited) (Continued)
+
+Segment Information
+Operating segments are defined as components of an enterprise engaging in business activities for which separate financial information is available and regularly reviewed by the chief operating decision maker (“CODM”) in deciding how to allocate resources and in assessing performance. The Company has utilized the management approach to determine that the Company is managed as 
+one
+ segment on a consolidated basis and is in the business of developing, manufacturing and commercializing medicines designed to help people living with complex and difficult-to-treat psychiatric and neurological disorders. The Company’s CODM, the Chairman and Chief Executive Officer, reviews the Company’s operating results on an aggregate basis and manages the Company’s operations as a single operating unit. The Company’s CODM measures profitability on a reportable segment basis using net income and utilizes this information in allocating resources and in assessing performance by monitoring budget versus actual results. Please refer to Note 15, 
+Segment Reporting
+, in these “Notes to Condensed Consolidated Financial Statements” in this Form 10-Q for further information.
+New Accounting 
+Pronouncements
+From time to time, new accounting pronouncements are issued by the FASB or other standard-setting bodies that are adopted by the Company on or prior to the specified effective date. Unless otherwise described in this Form 10-Q, the Company believes that the impact of recently issued standards that are not yet effective will not have a material impact on its financial position or results of operations upon adoption.
+In December 2023, the FASB issued Accounting Standards Update (“ASU”) 2023-09, Income Taxes (Topic 740): 
+Improvements to Income Tax Disclosures,
+ to enhance the transparency and decision usefulness of income tax disclosures in order to provide information to assist key stakeholders in better assessing how the Company’s operations and related tax risks and tax planning and operational opportunities affect the Company’s tax rate and prospects for future cash flows. This ASU becomes effective for public companies for annual periods beginning after December 15, 2024. This guidance will be applied on a prospective basis. The Company is currently evaluating the impact this ASU will have on its consolidated financial statements and related disclosures.
+In November 2024, the FASB issued ASU 2024-03, Income Statement - 
+Reporting Comprehensive Income-Expense Disaggregation Disclosures
+, to improve disclosures about public business entity expenses and address requests from investors for more detailed information about the types of expenses (including purchases of inventory, employee compensation, depreciation, amortization and depletion) in commonly-presented expense captions, such as cost of sales, selling, general and administrative expenses, and research and development. All disclosure requirements under this guidance are required for public business entities and will be effective for annual periods beginning after December 15, 2026 and interim periods beginning after December 15, 2027. Early adoption is permitted and the amendments in this guidance will be applied prospectively to financial statements for periods after the effective dates. The Company is currently evaluating the impact this ASU will have on its consolidated financial statements and related disclosures.
+In September 2025, the FASB issued ASU 2025-06, 
+Targeted Improvements to the Accounting for Internal-Use Software.
+ This ASU updates the requirements for capitalization of internal-use software, removing all reference to prescriptive and sequential software development stages (referred to as “project stages”). This ASU is effective for annual periods beginning after December 15, 2027, and for interim periods within those fiscal years. The Company is currently assessing the impact this ASU will have on its consolidated financial statements and related disclosures.
+
+11
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited) (Continued)
+
+3. DISCONTINUED OPERATIONS
+Mural Oncology Separation
+
+In connection with the Separation, the Company and Mural entered into, among other agreements: a separation agreement; a tax matters agreement; and an employee matters agreement, which are described in Note 3, 
+Discontinued Operations
+ in the “Notes to Consolidated Financial Statements” accompanying the Annual Report.
+
+Discontinued Operations
+
+The Company determined that the Separation met the criteria for classification of its former oncology business as discontinued operations in accordance with Topic 205. During the three and nine months ended September 30, 2025, the Company recorded no losses from discontinued operations. 
+The following summarizes the losses from discontinued operations for the three and nine months ended September 30, 2024: 
+
+Three Months Ended
+
+Nine Months Ended
+
+(In thousands)
+
+September 30, 2024
+
+September 30, 2024
+
+Operating expenses from discontinued operations
+
+Cost of goods manufactured
+
+$
+
+—
+
+$
+
+—
+
+Research and development
+
+481
+
+6,910
+
+Selling, general and administrative
+
+—
+
+—
+
+Total operating expenses from discontinued operations
+
+481
+
+6,910
+
+Operating loss from discontinued operations
+
+(
+481
+
+)
+
+(
+6,910
+
+)
+
+Income tax benefit from discontinued operations
+
+(
+67
+
+)
+
+(
+1,076
+
+)
+
+Net loss and comprehensive loss from discontinued operations
+
+$
+
+(
+414
+
+)
+
+$
+
+(
+5,834
+
+)
+
+4. REVENUE FROM CONTRACTS WITH CUSTOMERS
+The Company recognizes revenue when its customer obtains control of promised goods or services, in an amount that reflects the consideration which it expects to receive in exchange for those goods or services. The Company recognizes revenue following the five-step model prescribed in accordance with FASB ASC 606, 
+Revenue from Contracts with Customers
+, or Topic 606: (i) identify contract(s) with a customer; (ii) identify the performance obligations in the contract; (iii) determine the transaction price; (iv) allocate the transaction price to the performance obligations in the contract; and (v) recognize revenue when (or as) the Company satisfies the performance obligations.
+
+Product Sales, Net
+The Company’s product sales, net consist of sales in the U.S. of VIVITROL, ARISTADA and ARISTADA INITIO, and LYBALVI, primarily to wholesalers, specialty distributors and pharmacies. Product sales, net are recognized when the customer obtains control of the product, which is when the product has been received by the customer.
+During the 
+three and nine months ended September 30, 2025 and 2024, the Company recorded product sales, net, as follows:
+
+Three Months Ended September 30,
+
+Nine Months Ended September 30,
+
+(In thousands)
+
+2025
+
+2024
+
+2025
+
+2024
+
+VIVITROL
+
+$
+
+121,125
+
+$
+
+113,650
+
+$
+
+343,781
+
+$
+
+323,182
+
+ARISTADA and ARISTADA INITIO
+
+98,050
+
+84,652
+
+272,820
+
+249,571
+
+LYBALVI
+
+98,248
+
+74,697
+
+252,550
+
+203,055
+
+Total product sales, net
+
+$
+
+317,423
+
+$
+
+272,999
+
+$
+
+869,151
+
+$
+
+775,808
+
+12
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited) (Continued)
+
+Revenues from product sales are recorded net of reserves established for applicable discounts and allowances that are offered within contracts with the Company’s customers, healthcare providers or payers. The Company’s process for estimating reserves established for these variable consideration components does not differ materially from historical practices. The transaction price, which includes variable consideration reflecting the impact of discounts and allowances, may be subject to constraint and is included in the net sales price only to the extent that it is probable that a significant reversal of the amount of the cumulative revenues recognized will not occur in a future period. Actual amounts may ultimately differ from the Company’s estimates. If actual results vary, the Company adjusts these estimates, which could have an effect on earnings in the period of adjustment. See the “Revenue from Contracts with Customers” section in Note 2, 
+Summary of Significant Accounting Policies 
+in the “Notes to Consolidated Financial Statements” in the Annual Report for information with respect to the Company’s significant categories of sales discounts and allowances.
+
+Actual Medicaid rebates related to VIVITROL and ARISTADA/ARISTADA INITIO
+ during the nine months ended September 30, 2025 were lower than original estimates, and as a result the Company reduced its rebate reserve for each product by approximately $
+25.3
+ million and $
+12.1
+ million, respectively, during the period.
+
+A rollfor
+ward of the Company’s provisions for sales discounts and allowances is as follows:
+
+Nine Months Ended September 30, 2025
+
+(In thousands)
+
+Contractual Adjustments
+(1)
+
+Discounts
+(2)
+
+Product Returns
+
+Other
+
+Total
+
+Beginning balance — December 31, 2024
+
+$
+
+228,978
+
+$
+
+43,645
+
+$
+
+50,507
+
+$
+
+13,297
+
+$
+
+336,427
+
+Current provisions relating to sales in current year
+
+404,353
+
+312,419
+
+19,841
+
+67,803
+
+804,416
+
+Adjustments relating to prior years
+
+(
+34,939
+
+)
+
+156
+
+(
+7,302
+
+)
+
+(
+373
+
+)
+
+(
+42,458
+
+)
+
+Payments relating to sales in current year
+
+(
+260,213
+
+)
+
+(
+293,195
+
+)
+
+—
+
+(
+55,560
+
+)
+
+(
+608,968
+
+)
+
+Payments relating to sales in prior years
+
+(
+127,928
+
+)
+
+(
+23,940
+
+)
+
+(
+9,569
+
+)
+
+(
+12,512
+
+)
+
+(
+173,949
+
+)
+
+Ending balance — September 30, 2025
+
+$
+
+210,251
+
+$
+
+39,085
+
+$
+
+53,477
+
+$
+
+12,655
+
+$
+
+315,468
+
+1.
+“Contractual Adjustments” include “Medicaid Rebates” and “Medicare Part D” accruals.
+2.
+“Discounts” in
+clude “Chargebacks” and “Product Discounts.”
+Total revenue-related reserves as of September 30, 2025 and December 31, 2024 included in the accompanying consolidated balance sheets are summarized as follows:
+
+September 30,
+
+December 31,
+
+(In thousands)
+
+2025
+
+2024
+
+Reduction of accounts receivable
+
+$
+
+19,249
+
+$
+
+22,031
+
+Components of accrued sales discounts, allowances and reserves
+
+252,743
+
+272,452
+
+Components of other long-term liabilities
+
+43,476
+
+41,944
+
+Total revenue-related reserves
+
+$
+
+315,468
+
+$
+
+336,427
+
+Manufacturing and Royalty Revenues
+During the 
+three and nine months ended September 30, 2025 and 2024, the Company recorded manufacturing and royalty revenues from its collaboration arrangements as follows:
+
+Three Months Ended September 30, 2025
+
+Nine Months Ended September 30, 2025
+
+(In thousands)
+
+Manufacturing
+Revenue
+
+Royalty
+Revenue
+
+Total
+
+Manufacturing
+Revenue
+
+Royalty
+Revenue
+
+Total
+
+Long-acting INVEGA products
+(1)
+
+$
+
+—
+
+$
+
+30,180
+
+$
+
+30,180
+
+$
+
+—
+
+$
+
+78,240
+
+$
+
+78,240
+
+VUMERITY
+
+3,494
+
+32,122
+
+35,616
+
+16,852
+
+85,996
+
+102,848
+
+RISPERDAL CONSTA
+
+3,732
+
+19
+
+3,751
+
+16,659
+
+41
+
+16,700
+
+Other
+
+1,562
+
+5,653
+
+7,215
+
+9,171
+
+15,242
+
+24,413
+
+$
+
+8,788
+
+$
+
+67,974
+
+$
+
+76,762
+
+$
+
+42,682
+
+$
+
+179,519
+
+$
+
+222,201
+
+13
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited) (Continued)
+
+Three Months Ended September 30, 2024
+
+Nine Months Ended September 30, 2024
+
+(In thousands)
+
+Manufacturing
+Revenue
+
+Royalty
+Revenue
+
+Total
+
+Manufacturing
+Revenue
+
+Royalty
+Revenue
+
+Total
+
+Long-acting INVEGA products
+(1)
+
+$
+
+—
+
+$
+
+58,448
+
+$
+
+58,448
+
+$
+
+—
+
+$
+
+199,860
+
+$
+
+199,860
+
+VUMERITY
+
+8,753
+
+23,821
+
+32,574
+
+30,740
+
+68,322
+
+99,062
+
+RISPERDAL CONSTA
+
+2,417
+
+11
+
+2,428
+
+8,440
+
+264
+
+8,704
+
+Other
+
+4,777
+
+6,917
+
+11,694
+
+27,077
+
+17,132
+
+44,209
+
+$
+
+15,947
+
+$
+
+89,197
+
+$
+
+105,144
+
+$
+
+66,257
+
+$
+
+285,578
+
+$
+
+351,835
+
+(1)
+“long-acting INVEGA products”: INVEGA SUSTENNA/XEPLION (paliperidone palmitate), INVEGA TRINZA/TREVICTA (paliperidone palmitate) and INVEGA HAFYERA/BYANNLI (paliperidone palmitate). 
+
+In August 2024, the Company’s royalty on U.S. net sales of INVEGA SUSTENNA expired. Accordingly, royalty revenues from net sales of the long-acting INVEGA products have been, and the Company expects will continue to be, lower in 2025, as the royalty revenues related to U.S. net sales of INVEGA SUSTENNA comprised a significant portion of the overall royalty revenues from the long-acting INVEGA products.
+
+Contract Assets
+Contract assets include unbilled amounts related to the manufacture of a product that, once complete, will be sold under certain of the Company’s manufacturing contracts. The amounts included in the contract assets table below are classified as “Current assets” in the accompanying condensed consolidated balance sheets, as they relate to manufacturing processes that are completed in 
+ten days
+ to 
+eight weeks
+.
+Total contract assets at 
+September 30, 2025 were as follows:
+
+(In thousands)
+
+Contract Assets
+
+Contract assets at December 31, 2024
+
+$
+
+4,990
+
+Additions
+
+4,483
+
+Transferred to receivables, net
+
+(
+8,756
+
+)
+
+Contract assets at September 30, 2025
+
+$
+
+717
+
+Contract Liabilities
+
+Contract liabilities consist of contractual obligations related to deferred revenue. At September 30, 2025
+ and December 31, 2024, 
+no
+ne and $
+1.2
+ million of the contract liabilities, respectively, were classified as “Contract liabilities–short-term” in the accompanying condensed consolidated balance sheets and 
+no
+ne of the contract liabilities in either period were classified as “Other long-term liabilities” in the accompanying condensed consolidated balance sheets.
+
+Total contract liabilities at 
+September 30, 2025 were as follows:
+
+(In thousands)
+
+Contract Liabilities
+
+Contract liabilities at December 31, 2024
+
+$
+
+1,249
+
+Additions
+
+1,313
+
+Amounts recognized into revenue
+
+(
+2,562
+
+)
+
+Contract liabilities at September 30, 2025
+
+$
+
+—
+
+14
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited) (Continued)
+
+5. INVESTMENTS
+Investments consist of the following (in thousands):
+
+Gross Unrealized
+
+Losses
+
+Amortized
+
+Less than
+
+Greater than
+
+Estimated
+
+September 30, 2025
+
+Cost
+
+Gains
+
+One Year
+
+One Year
+
+Fair Value
+
+Short-term investments:
+
+Available-for-sale securities:
+
+U.S. government and agency debt securities
+
+$
+
+273,690
+
+$
+
+1,032
+
+$
+
+(
+3
+
+)
+
+$
+
+(
+6
+
+)
+
+$
+
+274,713
+
+Corporate debt securities
+
+218,685
+
+1,268
+
+—
+
+(
+1
+
+)
+
+219,952
+
+ Total short-term investments
+
+492,375
+
+2,300
+
+(
+3
+
+)
+
+(
+7
+
+)
+
+494,665
+
+Long-term investments:
+
+Available-for-sale securities:
+
+U.S. government and agency debt securities
+
+10,062
+
+—
+
+(
+4
+
+)
+
+(
+6
+
+)
+
+10,052
+
+Corporate debt securities
+
+17,690
+
+—
+
+(
+5
+
+)
+
+(
+13
+
+)
+
+17,672
+
+27,752
+
+—
+
+(
+9
+
+)
+
+(
+19
+
+)
+
+27,724
+
+Held-to-maturity securities:
+
+Certificates of deposit
+
+145
+
+—
+
+—
+
+—
+
+145
+
+Total long-term investments
+
+27,897
+
+—
+
+(
+9
+
+)
+
+(
+19
+
+)
+
+27,869
+
+Total investments
+
+$
+
+520,272
+
+$
+
+2,300
+
+$
+
+(
+12
+
+)
+
+$
+
+(
+26
+
+)
+
+$
+
+522,534
+
+December 31, 2024
+
+Short-term investments:
+
+Available-for-sale securities:
+
+U.S. government and agency debt securities
+
+$
+
+266,506
+
+$
+
+763
+
+$
+
+(
+58
+
+)
+
+$
+
+(
+6
+
+)
+
+$
+
+267,205
+
+Corporate debt securities
+
+192,617
+
+762
+
+(
+58
+
+)
+
+(
+4
+
+)
+
+193,317
+
+ Total short-term investments
+
+459,123
+
+1,525
+
+(
+116
+
+)
+
+(
+10
+
+)
+
+460,522
+
+Long-term investments:
+
+Available-for-sale securities:
+
+U.S. government and agency debt securities
+
+48,856
+
+—
+
+—
+
+(
+179
+
+)
+
+48,677
+
+Corporate debt securities
+
+24,484
+
+—
+
+—
+
+(
+158
+
+)
+
+24,326
+
+73,340
+
+—
+
+—
+
+(
+337
+
+)
+
+73,003
+
+Held-to-maturity securities:
+
+Certificates of deposit
+
+145
+
+—
+
+—
+
+—
+
+145
+
+Total long-term investments
+
+73,485
+
+—
+
+—
+
+(
+337
+
+)
+
+73,148
+
+Total investments
+
+$
+
+532,608
+
+$
+
+1,525
+
+$
+
+(
+116
+
+)
+
+$
+
+(
+347
+
+)
+
+$
+
+533,670
+
+At September 30, 2025, the Company’s investments in corporate debt securities had a minimum rating of A2 (Moody’s)/A (Standard and Poor’s), and 
+26
+ of the Company’s 
+322
+ investment securities were in an unrealized loss position with an aggregate estimated fair value of $
+45.0
+ million. The primary reason these securities were in an unrealized loss position is that they are fixed-rate securities that were acquired in a rising interest rate environment. In making the determination whether the decline in fair value of these securities was temporary, the Company evaluated whether it intended to sell the security and whether it was more likely than not that the Company would be required to sell the security before recovering its amortized cost basis. The Company has the intent and ability to hold these investments until recovery, which may be at maturity.
+
+15
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited) (Continued)
+
+Realized gains and losses on the sales and maturities of investments, which were identified using the specific identification method, were as follows:
+
+Nine Months Ended September 30,
+
+(In thousands)
+
+2025
+
+2024
+
+Proceeds from the sales and maturities of investments
+
+$
+
+320,383
+
+$
+
+224,786
+
+Realized gains
+
+$
+
+4
+
+$
+
+—
+
+Realized losses
+
+$
+
+—
+
+$
+
+—
+
+The Company’s available-for-sale and held-to-maturity securities at 
+September 30, 2025 had contractual maturities in the following periods:
+
+Available-for-sale
+
+Held-to-maturity
+
+Amortized
+
+Estimated
+
+Amortized
+
+Estimated
+
+(In thousands)
+
+Cost
+
+Fair Value
+
+Cost
+
+Fair Value
+
+Within 1 year
+
+$
+
+247,712
+
+$
+
+248,291
+
+$
+
+145
+
+$
+
+145
+
+After 1 year through 5 years
+
+272,415
+
+274,098
+
+—
+
+—
+
+Total
+
+$
+
+520,127
+
+$
+
+522,389
+
+$
+
+145
+
+$
+
+145
+
+In February 2025, the Company entered into an agreement whereby it is committed to provide up to €
+10.0
+ million to a partnership, Fountain Healthcare Partners Fund IV, L.P. (“Fountain”), which was created to carry on the business of investing exclusively in companies and businesses engaged in the healthcare, pharmaceutical and life sciences sectors. The Company’s commitment represents approximately 
+9.2
+% of the partnership’s total funding, and the Company is accounting for its investment in Fountain under the equity method. During each of the three and nine months ended September 30, 2025, the Company recorded a decrease in its investment in Fountain of approximately $
+0.1
+ million. The changes recorded represent the Company’s proportional share of Fountain’s net losses for these periods. As of September 30, 2025, the Company had made payments of, and its investment is equal to, $
+0.5
+ million (€
+0.4
+ million), which is included within “Other assets” in the accompanying condensed consolidated balance sheets.
+
+6. FAIR VALUE
+The following table presents information about the Company’s assets and liabilities that are measured at fair value on a recurring basis and indicates the fair value hierarchy and the valuation techniques that the Company utilized to determine such fair value:
+
+September 30,
+
+(In thousands)
+
+2025
+
+Level 1
+
+Level 2
+
+Level 3
+
+Assets:
+
+Cash equivalents
+
+$
+
+186,317
+
+$
+
+186,317
+
+$
+
+—
+
+$
+
+—
+
+U.S. government and agency debt securities
+
+284,765
+
+250,937
+
+33,828
+
+—
+
+Corporate debt securities
+
+237,624
+
+—
+
+237,124
+
+500
+
+Total
+
+$
+
+708,706
+
+$
+
+437,254
+
+$
+
+270,952
+
+$
+
+500
+
+December 31,
+
+2024
+
+Level 1
+
+Level 2
+
+Level 3
+
+Assets:
+
+Cash equivalents
+
+$
+
+8,388
+
+$
+
+8,388
+
+$
+
+—
+
+$
+
+—
+
+U.S. government and agency debt securities
+
+315,882
+
+265,090
+
+50,792
+
+—
+
+Corporate debt securities
+
+217,643
+
+—
+
+217,643
+
+—
+
+Total
+
+$
+
+541,913
+
+$
+
+273,478
+
+$
+
+268,435
+
+$
+
+—
+
+The Company transfers its financial assets and liabilities, measured at fair value on a recurring basis, between the fair value hierarchies at the end of each reporting period. There were 
+no
+ transfers of any securities between levels during the 
+nine months ended September 30, 2025.
+
+16
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited) (Continued)
+
+The following table is a rollforward of the fair value of the Company’s assets with fair values that were determined using Level 3 inputs at 
+September 30, 2025:
+
+(In thousands)
+
+Fair Value
+
+Balance, January 1, 2025
+
+$
+
+—
+
+Purchase of a corporate debt security
+
+500
+
+Balance, September 30, 2025
+
+$
+
+500
+
+The Company’s investments classified as Level 2 within the fair value hierarchy were initially valued at the transaction price and subsequently valued, at the end of each reporting period, utilizing market-observable data. The market-observable data included reportable trades, benchmark yields, credit spreads, broker/dealer quotes, bids, offers, current spot rates and other industry and economic events. The Company validated the prices developed using the market-observable data by obtaining market values from other pricing sources, analyzing pricing data in certain instances and confirming that the relevant markets are active.
+The carrying amounts reflected in the accompanying condensed consolidated balance sheets for cash and cash equivalents, accounts receivable, contract assets, other current assets, accounts payable and accrued expenses, sales discounts, allowances and reserves approximate fair value due to their short-term nature.
+
+7. INVENTORY
+Inventory is stated at the lower of cost and net realizable value. Cost is determined using the first-in, first-out method. Inventory consists of the following:
+
+September 30,
+
+December 31,
+
+(In thousands)
+
+2025
+
+2024
+
+Raw materials
+
+$
+
+66,225
+
+$
+
+72,139
+
+Work in process
+
+89,413
+
+79,871
+
+Finished goods
+(1)
+
+35,359
+
+30,877
+
+Total inventory
+
+$
+
+190,997
+
+$
+
+182,887
+
+(1)
+At 
+September 30, 2025 and December 31, 2024
+, the Company had $
+29.3
+ million and $
+22.7
+ million, respectively, of finished goods inventory located at its third-party warehouse and shipping service provider.
+8. PROPERTY, PLANT AND EQUIPMENT
+Property, plant and equipment consist of the following:
+
+September 30,
+
+December 31,
+
+(In thousands)
+
+2025
+
+2024
+
+Land
+
+$
+
+957
+
+$
+
+957
+
+Building and improvements
+
+150,324
+
+134,699
+
+Furniture, fixtures and equipment
+
+267,641
+
+244,113
+
+Leasehold improvements
+
+42,535
+
+42,416
+
+Construction in progress
+
+49,119
+
+58,391
+
+Subtotal
+
+510,576
+
+480,576
+
+Less: accumulated depreciation
+
+(
+263,594
+
+)
+
+(
+253,012
+
+)
+
+Total property, plant and equipment, net
+
+$
+
+246,982
+
+$
+
+227,564
+
+17
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited) (Continued)
+
+9. LEASES
+Future lease payments under non-cancelable leases at 
+September 30, 2025 consist of the following:
+
+September 30,
+
+(In thousands)
+
+2025
+
+2025
+
+2,585
+
+2026
+
+10,479
+
+2027
+
+9,613
+
+2028
+
+9,677
+
+2029
+
+9,611
+
+Thereafter
+
+50,371
+
+Total operating lease payments
+
+$
+
+92,336
+
+Less: imputed interest
+
+(
+20,738
+
+)
+
+Total operating lease liabilities
+
+$
+
+71,598
+
+At September 30, 2025
+, the weighted average incremental borrowing rate and the weighted average remaining lease term for all operating leases held by the Company were 
+3.7
+% and 
+6.1
+ years, respectively. Cash paid for lease liabilities was $
+2.6
+ million and $
+7.7
+ million during the three and nine months ended September 30, 2025, respectively, as compared to $
+2.5
+ million and $
+7.6
+ million during the three and nine months ended September 30, 2024, respectively. The Company recorded operating lease expense from continuing operations of $
+1.9
+ million and $
+5.6
+ million during the three and nine months ended September 30, 2025, respectively, as compared to $
+1.8
+ million and $
+5.4
+ million during the three and nine months ended September 30, 2024, respectively.
+
+10. ACCOUNTS PAYABLE AND ACCRUED EXPENSES
+Accounts payable and accrued expenses consist of the following:
+
+September 30,
+
+December 31,
+
+(In thousands)
+
+2025
+
+2024
+
+Accounts payable
+
+$
+
+67,998
+
+$
+
+45,630
+
+Accrued compensation
+
+67,197
+
+70,960
+
+Accrued other
+
+79,790
+
+68,742
+
+Total accounts payable and accrued expenses
+
+$
+
+214,985
+
+$
+
+185,332
+
+A summary of the Company’s current provision for sales discounts, allowances and reserves was as follows:
+
+September 30,
+
+December 31,
+
+(In thousands)
+
+2025
+
+2024
+
+Medicaid rebates
+
+$
+
+191,430
+
+$
+
+202,044
+
+Product discounts
+
+17,711
+
+19,351
+
+Medicare Part D
+
+18,821
+
+26,933
+
+Other
+
+24,781
+
+24,124
+
+Total accrued sales discounts, allowances and reserves
+
+$
+
+252,743
+
+$
+
+272,452
+
+Included in accounts payable was approximately $
+31.3
+ million and $
+11.4
+ million of amounts payable related to state U.S. Medicaid rebates as of September 30, 2025 and December 31, 2024, respectively.
+11. SHAREHOLDERS’ EQUITY
+In February 2024, the Company announced approval by its board of directors of a share repurchase program authorizing the Company to repurchase its ordinary shares in an aggregate amount of up to $
+400.0
+ million 
+(exclusive of any fees, commissions or other expenses related to such repurchases) from time to time (the “Repurchase Program”), with the specific timing and amounts of repurchases under the Repurchase Program dependent on a variety of factors, including but not limited to ongoing assessments of the Company’s needs, alternative investment opportunities, the market price of its ordinary shares and general market conditions. The Repurchase Program has no set expiration date
+
+18
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited) (Continued)
+
+and 
+may be suspended or discontinued at any time. During the nine months ended September 30, 2025, the Company did 
+no
+t repurchase any of its ordinary shares under the Repurchase Program. During the nine months ended September 30, 2024, the Company repurchased approximately $
+7.9
+ million of its ordinary shares under the Repurchase Program at an average purchase price of $
+25.33
+ per share, resulting in a total cost, exclusive of any fees, commissions or other expenses related to such repurchase, of $
+200.0
+ million. As of September 30, 2025, the remaining amount authorized under the Repurchase Program was $
+200.0
+ million.
+On May 21, 2025, the Company’s shareholders approved an amended version of the Alkermes plc 2018 Stock Option and Incentive Plan that served to, among other things, increase the number of ordinary shares authorized for issuance thereunder by 
+4,250,000
+.
+12. SHARE-BASED COMPENSATION
+The following table presents share-based compensation expense included in the accompanying condensed consolidated statements of income and comprehensive income:
+
+Three Months Ended
+
+Nine Months Ended
+
+September 30,
+
+September 30,
+
+(In thousands)
+
+2025
+
+2024
+
+2025
+
+2024
+
+Cost of goods manufactured and sold
+
+$
+
+1,621
+
+$
+
+1,653
+
+$
+
+4,882
+
+$
+
+4,280
+
+Research and development
+
+6,435
+
+6,148
+
+18,836
+
+22,447
+
+Selling, general and administrative
+
+16,608
+
+14,732
+
+48,723
+
+49,162
+
+Total share-based compensation expense
+
+$
+
+24,664
+
+$
+
+22,533
+
+$
+
+72,441
+
+$
+
+75,889
+
+At September 30, 2025 and December 31, 2024
+, $
+3.3
+ million and $
+3.1
+ million, respectively, of share-based compensation expense was capitalized and recorded as “Inventory”, and $
+1.2
+ million and 
+no
+ne, respectively, of share-based compensation expense was capitalized and recorded as “Property, plant and equipment, net” in the accompanying condensed consolidated balance sheets.
+13. EARNINGS PER ORDINARY SHARE
+
+Basic earnings per ordinary share from continuing operations is calculated based upon net income from continuing operations available to holders of ordinary shares, divided by the weighted average number of ordinary shares outstanding. Basic loss per ordinary share from discontinued operations is calculated based upon net loss from discontinued operations available to holders of ordinary shares, divided by the weighted average number of ordinary shares outstanding. For the calculation of diluted earnings (loss) per ordinary share from continuing operations and discontinuing operations, the Company utilizes the treasury stock method and adjusts the weighted average number of ordinary shares outstanding for the potential dilutive effect of outstanding ordinary share equivalents such as stock options and restricted stock unit awards.
+
+Three Months Ended
+
+Nine Months Ended
+
+September 30,
+
+September 30,
+
+(In thousands)
+
+2025
+
+2024
+
+2025
+
+2024
+
+Numerator:
+
+Net income from continuing operations
+
+$
+
+82,761
+
+$
+
+92,795
+
+$
+
+192,323
+
+$
+
+226,401
+
+Net loss from discontinued operations
+
+—
+
+(
+414
+
+)
+
+—
+
+(
+5,834
+
+)
+
+Net income
+
+$
+
+82,761
+
+$
+
+92,381
+
+$
+
+192,323
+
+$
+
+220,567
+
+Denominator:
+
+Weighted average number of ordinary shares outstanding
+
+165,086
+
+163,368
+
+164,490
+
+166,546
+
+Effect of dilutive securities:
+
+Stock options
+
+1,457
+
+1,310
+
+1,822
+
+1,293
+
+Restricted stock unit awards
+
+1,967
+
+2,347
+
+2,133
+
+2,357
+
+Dilutive ordinary share equivalents
+
+3,424
+
+3,657
+
+3,955
+
+3,650
+
+Shares used in calculating diluted earnings per ordinary share
+
+168,510
+
+167,025
+
+168,445
+
+170,196
+
+19
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited) (Continued)
+
+The following potential ordinary share equivalents were not included in the net earnings per ordinary share calculation because the effect would have been anti-dilutive:
+
+Three Months Ended
+
+Nine Months Ended
+
+September 30,
+
+September 30,
+
+(In thousands)
+
+2025
+
+2024
+
+2025
+
+2024
+
+Stock options
+
+9,668
+
+11,047
+
+9,711
+
+12,311
+
+Restricted stock unit awards
+
+2,020
+
+1,276
+
+2,575
+
+2,401
+
+Total
+
+11,688
+
+12,323
+
+12,286
+
+14,712
+
+14. INCOME TAXES
+
+The Company recognizes income taxes under the asset and liability method. Deferred income taxes are recognized for differences between the financial reporting and tax bases of assets and liabilities at enacted statutory tax rates in effect for the years in which the differences are expected to reverse. The effect on deferred taxes of a change in tax rates is recognized in income in the period that includes the enactment date. In determining future taxable income, the Company is responsible for assumptions that it utilizes, including the amount of Irish and non-Irish pre-tax operating income, the reversal of temporary differences and the implementation of feasible and prudent tax planning strategies. These assumptions require significant judgment about the forecasts of future taxable income and are consistent with the plans and estimates that the Company uses to manage the underlying business.
+
+The Company recorded income tax provisions on income from continuing operations of $
+18.0
+ million and $
+38.8
+ million during the three and nine months ended September 30, 2025, respectively, and of $
+17.4
+ million and $
+47.5
+ million during the three and nine months ended September 30, 2024, respectively. The income tax provisions during each of the three and nine months ended September 30, 2025 and 2024 were 
+primarily attributable to taxes on income earned in Ireland.
+
+The Company’s effective tax rate during the nine months ended September 30, 2025 and 2024 was 
+16.8
+% and 
+17.3
+%, respectively. The decrease in the effective tax rate was primarily due to an increase in windfall benefits from employee equity activity and an expense recorded in 2024 related to the sale of the Athlone Facility. The effective tax rates during the nine months ended September 30, 2025 and 2024 exceeded the Irish statutory tax rate of 
+12.5
+%, primarily due to non-deductible expenses and income that was taxable at rates higher than the Irish statutory tax rate.
+
+On July 4, 2025, the One Big Beautiful Bill Act (the “OBBBA”) was signed into law. This legislation permanently extends, with modifications, several individual, business, and international tax provisions originally enacted under the Tax Cuts and Jobs Act of 2017. As of September 30, 2025, the Company analyzed the impact of this legislation and determined that the OBBBA did not have a material impact on its effective tax rate for the current year.
+
+15. SEGMENT REPORTING
+Segment Information
+Following the adoption of ASU 2023-07, the Company is required to disclose significant segment expenses that are regularly provided to its CODM. 
+The Company’s CODM is periodically provided R&D expenses, selling and marketing expenses, and general and administrative expenses.
+ Other external R&D expenses are composed of general research and development expenses and other external projects. Other internal R&D expenses include allocation expenses, travel expenses, and fees, taxes and dues.
+
+20
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited) (Continued)
+
+The Company’s significant segment expenses are as follows:
+
+Three Months Ended
+
+Nine Months Ended
+
+September 30,
+
+September 30,
+
+(In thousands)
+
+2025
+
+2024
+
+2025
+
+2024
+
+REVENUES:
+
+Total revenue
+
+$
+
+394,185
+
+$
+
+378,143
+
+$
+
+1,091,352
+
+$
+
+1,127,646
+
+EXPENSES:
+
+Cost of goods manufactured and sold (exclusive of amortization of acquired intangible assets shown below)
+
+51,591
+
+63,099
+
+150,248
+
+183,215
+
+External R&D expenses:
+
+Development programs:
+
+Alixorexton
+
+25,812
+
+11,873
+
+67,461
+
+34,918
+
+LYBALVI
+
+4,759
+
+5,549
+
+13,661
+
+14,296
+
+Other external R&D expenses
+
+12,648
+
+8,552
+
+34,210
+
+27,358
+
+Total external R&D expenses
+
+43,219
+
+25,974
+
+115,332
+
+76,572
+
+Internal R&D expenses:
+
+Employee-related
+
+30,862
+
+26,844
+
+92,867
+
+87,624
+
+Occupancy
+
+3,241
+
+2,768
+
+9,696
+
+8,538
+
+Depreciation
+
+1,405
+
+1,440
+
+4,346
+
+4,243
+
+Other internal R&D expenses
+
+3,012
+
+2,866
+
+8,685
+
+10,175
+
+Total internal R&D expenses
+
+38,520
+
+33,918
+
+115,594
+
+110,580
+
+R&D expenses
+
+81,739
+
+59,892
+
+230,926
+
+187,152
+
+Selling, general and administrative expenses:
+
+Selling and marketing expense
+
+115,630
+
+102,043
+
+359,740
+
+347,327
+
+General and administrative expense
+
+56,143
+
+48,339
+
+154,586
+
+150,917
+
+Total selling, general and administrative expense
+
+171,773
+
+150,382
+
+514,326
+
+498,244
+
+Other segment income (expenses)
+(1)
+
+(
+6,321
+
+)
+
+(
+11,975
+
+)
+
+(
+3,529
+
+)
+
+(
+32,634
+
+)
+
+NET INCOME FROM CONTINUING OPERATIONS
+
+82,761
+
+92,795
+
+192,323
+
+226,401
+
+LOSS ON DISCONTINUED OPERATIONS, NET OF TAX
+
+—
+
+(
+414
+
+)
+
+—
+
+(
+5,834
+
+)
+
+NET INCOME
+
+$
+
+82,761
+
+$
+
+92,381
+
+$
+
+192,323
+
+$
+
+220,567
+
+1.
+“Other segment income (expenses)” during the three and nine months ended September 30, 2025 and 2024, includes “Amortization of acquired intangible assets”, “Other income, net” and “Income tax provision”. 
+16. COMMITMENTS AND CONTINGENT LIABILITIES
+Litigation
+From time to time, the Company may be subject to legal proceedings and claims in the ordinary course of business. On a quarterly basis, the Company reviews the status of each significant matter and assesses its potential financial exposure. If the potential loss from any claim, asserted or unasserted, or legal proceeding is considered probable and the amount can be reasonably estimated, the Company would accrue a liability for the estimated loss. Because of uncertainties related to claims and litigation, accruals are based on the Company’s best estimates, utilizing all available information. On a periodic basis, as additional information becomes available, or based on specific events such as the outcome of litigation or settlement of claims, the Company may reassess the potential liability related to these matters and may revise these estimates, which could result in material adverse adjustments to the Company’s operating results. At September 30, 2025
+, there were 
+no
+ potential material losses from claims, asserted or unasserted, or legal proceedings that the Company determined were probable of occurring. For claims that are reasonably possible, no estimable loss or range of loss can be made.
+
+21
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited) (Continued)
+
+INVEGA TRINZA ANDA Litigation
+In September 2020, Janssen Pharmaceutica, Janssen Pharmaceuticals, Inc., and Janssen Research & Development, LLC initiated a patent infringement lawsuit in the U.S. District Court for the District of New Jersey (the “NJ District Court”) against Mylan Laboratories Limited (“Mylan Labs”) and other Mylan entities following the filing by Mylan Labs of an abbreviated new drug application (“ANDA”) seeking approval from the U.S. Food and Drug Administration (“FDA”) to market a generic version of INVEGA TRINZA before the expiration of U.S. Patent No. 10,143,693 (the “’693 Patent”). Requested judicial remedies include recovery of litigation costs and injunctive relief. In May 2023, the NJ District Court issued an opinion in favor of the Janssen entities on the issues of infringement and validity of the ’693 Patent and the Mylan entities filed a notice of appeal of the decision. In March 2025, the U.S. Court of Appeals for the Federal Circuit (the “Federal Circuit Court”) issued a decision affirming the NJ District Court opinion and in May 2025, Mylan Labs filed a petition for panel rehearing or rehearing en banc, which was denied on July 1, 2025. The Company is not a party to this proceeding.
+VUMERITY ANDA Litigation
+
+In July 2023, Biogen Inc., Biogen Swiss Manufacturing GmbH and Alkermes Pharma Ireland Limited (“APIL”), a wholly-owned subsidiary of the Company, filed a patent infringement lawsuit in the U.S. District Court for the District of Delaware (the “DE District Court”) against Zydus Worldwide DMCC, Zydus Pharmaceuticals (USA) Inc. and Zydus Lifesciences Limited (collectively, “Zydus”) following the filing by Zydus of an ANDA seeking approval from the FDA to engage in the commercial manufacture, use or sale of a generic version of VUMERITY (diroximel fumarate) delayed-release capsules for oral use, 231 mg, before expiration of the Company’s U.S. Patent Nos. 8,669,281; 9,090,558; and 10,080,733 (the “VUMERITY patents”). The filing of the lawsuit triggered a stay of FDA approval of the ANDA for up to 30 months in accordance with the U.S. Drug Price Competition and Patent Term Restoration Act of 1984 (the “Hatch-Waxman Act”). On July 21, 2025, the parties entered into a confidential settlement agreement, pursuant to which Zydus was granted a license under the VUMERITY patents to engage in the commercial manufacture, use or sale of a generic version of VUMERITY in the United States beginning on an agreed date immediately prior to expiration of the latest to expire of the VUMERITY patents, or earlier under certain customary circumstances. In connection with the settlement agreement, the DE District Court dismissed the litigation pursuant to the parties’ stipulation of dismissal.
+LYBALVI ANDA Litigation
+On August 15, 2025, August 27, 2025 and September 5, 2025, APIL and Alkermes, Inc., two wholly-owned subsidiaries of the Company, filed a patent infringement lawsuit in the NJ District Court against each of Teva, Apotex, and MSN (each as defined herein), respectively, and on August 28, 2025, APIL and Alkermes, Inc. filed a patent infringement lawsuit in the DE District Court against Apotex. As used herein, Teva refers to Teva Pharmaceuticals, Inc., Apotex refers to Apotex Inc. and Apotex Corp., and MSN refers to MSN Laboratories Private Limited (“MSN Labs”), MSN Pharmaceuticals, Inc. and Novadoz Pharmaceuticals LLC. These lawsuits were filed following receipt of a “paragraph IV certification” notice from each of Teva, Apotex and MSN Labs regarding their respective filings of an ANDA with the FDA seeking approval to engage in the commercial manufacture, use or sale of a generic version of LYBALVI (olanzapine and samidorphan tablets, 5mg/10mg, 10mg/10mg, 15mg/10mg and 20mg/10mg) in the U.S. prior to the expiration of certain of the Company’s U.S. patents. The notices alleged that certain of the Company’s patents related to LYBALVI, with expiration dates between 2032 and 2041, are invalid, unenforceable and/or will not be infringed by the commercial manufacture, use or sale of the proposed generic products. The Company intends to vigorously defend its intellectual property. The filing of each lawsuit within 45 days of receipt of each of the respective notices triggered stays of FDA approval of each of the respective ANDAs for up to 30 months in accordance with the Hatch-Waxman Act. On August 20, 2025, APIL and Alkermes, Inc. amended the complaint in the lawsuit against Teva to include an additional patent.
+Antitrust Class Action Litigation
+On October 2, 2025, Value Drug Company filed a complaint asserting antitrust claims against Alkermes, Inc. and APIL in the U.S. District Court for the District of Massachusetts. The complaint was filed on behalf of a putative class of direct purchasers of VIVITROL and alleges that the Company’s U.S. Patent No. 7,919,499 related to VIVITROL was fraudulently obtained, improperly listed in the Orange Book, and wrongfully enforced, resulting in delayed market entry for generic forms of VIVITROL. The lawsuit seeks, among other things, unspecified money damages plus interest, reasonable attorneys’ fees and other costs. The Company intends to vigorously defend itself in this matter.
+
+22
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited) (Continued)
+
+Government Matters
+The Company has received a subpoena and civil investigative demands from U.S. state and federal governmental authorities. The Company is cooperating with the investigations.
+Product Liability and Other Legal Proceedings
+
+The Company is involved in litigation and other legal proceedings incidental to its normal business activities, including a product liability case alleging that the FDA-approved VIVITROL labeling was inadequate and that VIVITROL caused the individual to suffer from opioid overdose and death. The Company intends to vigorously defend itself in these matters.
+
+In addition, in January 2023, Acorda Therapeutics, Inc. (“Acorda”) filed a petition with the U.S. District Court for the Southern District of New York (the “NY Southern District Court”) asking the court to confirm in part and modify in part the final arbitral award rendered by an arbitration panel in October 2022 and, as part of the requested modification, seeking an additional approximately $
+66.0
+ million in damages. In August 2023, the NY Southern District Court confirmed the final arbitral award and declined to modify the final award to increase the damages awarded thereunder. In September 2023, Acorda filed a notice of appeal of the NY Southern District Court decision to the Federal Circuit Court. On July 25, 2025, the Federal Circuit Court transferred the appeal due to lack of jurisdiction to the U.S. Court of Appeals for the Second Circuit.
+Guarantees
+
+In connection with the Separation, the Company entered into an assignment and assumption of lease agreement (the “Assignment”) pursuant to which Alkermes, Inc., a wholly owned subsidiary of the Company, assigned to Mural Oncology, Inc. (“Mural US”), a subsidiary of Mural, an operating lease for approximately 
+180,000
+ square feet of corporate office space, administrative areas and laboratories located at 852 Winter Street in Waltham, Massachusetts (the “852 Winter Street Lease”), as described in more detail in Note 10, 
+Leases 
+in the “Notes to Consolidated Financial Statements” in the Annual Report. Although all of the rights, title and interest in, to and under the 852 Winter Street Lease were transferred to Mural US as of November 15, 2023 pursuant to the Assignment, the Company ratified and reaffirmed for the remainder of the lease term its guarantor obligations in respect of the lease under that certain Guaranty dated as of 
+May 16, 2014
+. This lease expires in 2026 and we do not expect its term to be extended. Upon completion of the Separation, the Assignment was accounted for as a termination of the original lease and the Company de-recognized the right-of-use asset and lease liability related to the 852 Winter Street Lease. At September 30, 2025, the fair value of the guarantee was 
+no
+t material to the Company.
+17. SUBSEQUENT EVENT
+
+On October 22, 2025 (the “Agreement Date”), the Company and Avadel Pharmaceuticals plc (“Avadel”) entered into a definitive transaction agreement (the “Transaction Agreement”), pursuant to which the Company has agreed to acquire the entire issued and to be issued ordinary share capital of Avadel (such proposed offer, the “Proposed Acquisition”), for $
+18.50
+ per ordinary share, nominal value $
+0.01
+ per share, of Avadel (each, an “Avadel Share”), payable in cash at closing (the “Cash Consideration”). In addition, the Company agreed to provide Avadel shareholders with a non-transferable contingent value right entitling holders to a potential additional cash payment of $
+1.50
+ per Avadel Share, contingent upon achievement of certain specified milestones, for a total potential consideration of $
+20.00
+ per Avadel Share. The Proposed Acquisition was recommended by the boards of directors of both Alkermes and Avadel and is expected to be effected by means of a court-sanctioned scheme of arrangement (the “Scheme”) under Irish law. The completion of the Proposed Acquisition is subject to customary conditions, including, among other things, approval by Avadel’s shareholders, the sanction of the Scheme by the Irish High Court, and the receipt of required antitrust clearances in the United States. The conditions to the completion of the Proposed Acquisition are set out in full in Appendix III to the announcement related to the Proposed Acquisition issued by the Company and Avadel pursuant to Rule 2.7 of the Irish Takeover Panel Act 1997, Takeover Rules, 2022 (the “Conditions Appendix”).
+
+The Transaction Agreement contains customary representations and warranties and customary covenants with respect to Alkermes and Avadel. The Transaction Agreement contains customary termination rights and may be abandoned at any time prior to the Effective Time (as defined in the Transaction Agreement) by mutual written consent of Alkermes and Avadel, subject to the consent of the Irish Takeover Panel. Avadel also has the right, prior to the receipt
+
+23
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited) (Continued)
+
+of the requisite Avadel shareholder approvals, to terminate the Transaction Agreement to accept a Company Superior Proposal (as defined in the Transaction Agreement) in certain circumstances, and Alkermes also has the right, prior to receipt of the requisite Avadel shareholder approvals, to terminate the Transaction Agreement if a Company Board Change of Recommendation (as defined in the Transaction Agreement) occurs. Subject to the satisfaction or waiver of all applicable closing conditions, the Company currently expects the Proposed Acquisition to be completed in the first quarter of 2026.
+
+In connection with the Proposed Acquisition, on the Agreement Date, the Company, as the TopCo Borrower, together with Alkermes, Inc., as the U.S. Borrower, entered into a bridge term loan credit agreement with JPMorgan Chase Bank, N.A., as Administrative Agent, Sole Lead Arranger and Sole Bookrunner, and the lenders party thereto (the “Bridge Credit Agreement”), which provides for a senior secured bridge term loan facility (the “Bridge Credit Facility”) in an aggregate principal amount of up to approximately $
+1.2
+ billion that is available to finance the payment of the Cash Consideration and fees and expenses related to the Proposed Acquisition. In addition, the Company placed approximately $
+700.0
+ million of its cash into an escrow account to finance the remainder of the consideration for the Proposed Acquisition. Loans under the Bridge Credit Facility will be available after the Agreement Date, subject to the satisfaction of certain conditions set forth in the Bridge Credit Agreement, and will mature on the date that is 364 days after the date on which the loans are funded under the Bridge Credit Facility. The commitments under the Bridge Credit Facility, unless previously terminated, terminate on the earlier of (i) the date on which all of the consideration payable in respect of the Proposed Acquisition has been paid in full without the making of any loans under the Bridge Credit Facility and (ii) the date on which a Mandatory Cancellation Event (as defined in the Bridge Credit Agreement) occurs or exists.
+
+24
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited) (Continued)
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion should be read in conjunction with the accompanying condensed consolidated financial statements and related notes beginning on page 
+5
+ in this Form 10-Q, and “Part II, Item 7—Management’s Discussion and Analysis of Financial Condition and Results of Operations” and the audited financial statements and notes thereto accompanying our Annual Report.
+Executive Summary
+Net income from continuing operations was $82.8 million and $192.3 million or $0.50 and $1.17 per ordinary share—basic and $0.49 and $1.14 per ordinary share—diluted, for the three and nine months ended September 30, 2025, respectively, compared to net income from continuing operations of $92.8 million and $226.4 million or $0.57 per and $1.36 ordinary share—basic and $0.56 and $1.33 per ordinary share—diluted, for the three and nine months ended September 30, 2024, respectively.
+The decrease in net income from continuing operations of $10.0 million during the three months ended September 30, 2025, as compared to the three months ended September 30, 2024, was primarily due to an increase of $31.7 million in total expenses, primarily due to increases in research and development expenses and selling, general and administrative expenses, partially offset by a decrease in cost of goods manufactured and sold. During the three months ended September 30, 2025, as compared to the three months ended September 30, 2024, total revenues increased by $16.0 million, primarily due to an increase in product sales, net, partially offset by a decrease in manufacturing and royalty revenue.
+
+The decrease in net income from continuing operations of $34.1 million during the nine months ended September 30, 2025, as compared to the nine months ended September 30, 2024, was primarily due to a decrease of $36.3 million, in revenues, primarily related to lower manufacturing and royalty revenues, partially offset by an increase in product sales, net. During the nine months ended September 30, 2025, as compared to the nine months ended September 30, 2024, total expenses increased by $25.8 million and income tax provision decreased by $8.7 million.
+
+These items are discussed in greater detail later in the “Results of Operations” section in this “Part I, Item 2—Management’s Discussion and Analysis of Financial Condition and Results of Operations” in this Form 10-Q.
+
+Business Update
+On October 22, 2025, we announced our entry into the Transaction Agreement, pursuant to which we agreed to acquire the entire issued and to be issued ordinary share capital of Avadel for a total potential consideration of up to $20.00 per Avadel Share, as described above. The completion of the Proposed Acquisition is subject to customary conditions, including, among other things, approval by Avadel’s shareholders, the sanction of the Scheme by the Irish High Court, and the receipt of required antitrust clearances in the United States, and may be terminated by either party under certain circumstances. Subject to the satisfaction or waiver of all applicable closing conditions, we currently expect the Proposed Acquisition to be completed in the first quarter of 2026. We expect to incur costs of approximately $15.0 million to $20.0 million in connection with the Proposed Acquisition during the fourth quarter of 2025.
+
+Products
+Marketed Products
+The key marketed products discussed below have generated, or are expected to generate, significant revenues for us. See the descriptions of the marketed products below and “Part I, Item 1A—Risk Factors” in our Annual Report and “Part II, Item 1A—Risk Factors” in this Form 10-Q for important factors that could adversely affect our marketed products. See the “Patents and Proprietary Rights” section in “Part I, Item 1—Business” in our Annual Report for information with respect to the IP protection for these marketed products.
+
+25
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited) (Continued)
+
+The following provides summary information regarding our proprietary products that we commercialize:
+
+Proprietary Products
+
+Product
+
+Indication(s)
+
+Territory
+
+Initiation or re-initiation of
+
+ARISTADA for the treatment of
+
+Schizophrenia
+
+U.S.
+
+Schizophrenia
+
+U.S.
+
+Schizophrenia;
+
+Bipolar I disorder
+
+U.S.
+
+Alcohol dependence;
+
+Opioid dependence
+
+U.S.
+
+26
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited) (Continued)
+
+The following provides summary information regarding certain key third-party products using our proprietary technologies under license and our key licensed product, that are commercialized by our licensees:
+
+Key Third-Party Products Using Our Proprietary Technologies
+
+Product
+
+Indication(s)
+
+Licensee
+
+Licensed Territory
+
+INVEGA SUSTENNA / XEPLION
+
+INVEGA SUSTENNA
+:
+Schizophrenia; Schizoaffective
+
+disorder
+
+XEPLION
+:
+Schizophrenia
+
+Janssen Pharmaceutica
+
+(together with Janssen Pharmaceuticals, Inc., Janssen International and their affiliates “Janssen”)
+
+Worldwide
+
+INVEGA TRINZA / TREVICTA
+
+Schizophrenia
+
+Janssen
+
+Worldwide
+
+INVEGA HAFYERA / BYANNLI
+
+Schizophrenia
+
+Janssen
+
+Worldwide
+
+Our Key Licensed Product
+
+Product
+
+Indication(s)
+
+Licensee
+
+Licensed Territory
+
+VUMERITY
+
+Multiple sclerosis
+
+Biogen
+
+Worldwide
+
+Proprietary Products
+
+We have developed and now commercialize products designed to help address the unmet needs of people living with opioid dependence, alcohol dependence, schizophrenia and bipolar I disorder. See the “Patents and Proprietary Rights” section in “Part I, Item 1—Business” in our Annual Report for information with respect to the IP protection for our proprietary products.
+
+ARISTADA and ARISTADA INITIO
+
+ARISTADA (aripiprazole lauroxil) is an extended-release intramuscular injectable suspension approved in the U.S. for the treatment of schizophrenia. ARISTADA utilizes our proprietary LinkeRx technology. ARISTADA is a prodrug; once in the body, ARISTADA is likely converted by enzyme-mediated hydrolysis to N-hydroxymethyl aripiprazole, which is then hydrolyzed to aripiprazole. ARISTADA is available in four dose strengths with once-monthly dosing options (441 mg, 662 mg and 882 mg), a six-week dosing option (882 mg) and a two-month dosing option (1064 mg). ARISTADA is packaged in a ready-to-use, pre-filled syringe product format. We exclusively manufacture and commercialize ARISTADA in the U.S.
+
+ARISTADA INITIO (aripiprazole lauroxil) leverages our proprietary LinkeRx and NanoCrystal technologies and provides an extended-release formulation of aripiprazole lauroxil in a smaller particle size compared to ARISTADA, thereby enabling faster dissolution and more rapid achievement of relevant levels of aripiprazole in the body. ARISTADA INITIO, combined with a single 30 mg dose of oral aripiprazole, is indicated for the initiation of ARISTADA when used for the treatment of schizophrenia in adults. The first ARISTADA dose may be administered on the same day as the ARISTADA INITIO regimen or up to 10 days thereafter. We exclusively manufacture and commercialize ARISTADA INITIO in the U.S.
+
+27
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited) (Continued)
+
+LYBALVI
+
+LYBALVI (olanzapine and samidorphan) is a once-daily, oral atypical antipsychotic drug approved in the U.S. for the treatment of adults with schizophrenia and for the treatment of adults with bipolar I disorder, as a maintenance monotherapy or for the acute treatment of manic or mixed episodes, as monotherapy or an adjunct to lithium or valproate. LYBALVI is a combination of olanzapine, an atypical antipsychotic, and samidorphan, an opioid antagonist, in a single bilayer tablet. LYBALVI is available in fixed dosage strengths composed of 10 mg of samidorphan and 5 mg, 10 mg, 15 mg or 20 mg of olanzapine. We exclusively manufacture and commercialize LYBALVI in the U.S.
+In August 2025, U.S. Patent No. 12,390,474 relating to LYBALVI was granted. This patent has claims to a formulation of a fixed dose of olanzapine and samidorphan and expires in 2041.
+For a discussion of legal proceedings related to LYBALVI, see Note 16, 
+Commitments and Contingent Liabilities 
+in the “Notes to Condensed Consolidated Financial Statements” in this Form 10-Q, and for information about risks relating to such legal proceedings, see “Part I, Item 1A—Risk Factors” in our Annual Report and specifically the section entitled “Uncertainty over IP in the biopharmaceutical industry has been the source of litigation and other legal proceedings, and we or our licensees may face claims against IP rights covering our products and competition from generic drug manufacturers.”
+VIVITROL
+VIVITROL (naltrexone for extended-release injectable suspension) is a once-monthly, non-narcotic, injectable medication approved in the U.S. for the treatment of alcohol dependence in patients able to abstain from alcohol in an outpatient setting prior to initiation of treatment with VIVITROL and for the prevention of relapse to opioid dependence, following opioid detoxification. VIVITROL uses our polymer-based microsphere injectable extended-release technology to deliver and maintain therapeutic medication levels in the body through one intramuscular injection every four weeks. We exclusively manufacture and commercialize VIVITROL in the U.S.
+For a discussion of legal proceedings related to VIVITROL, see Note 16, 
+Commitments and Contingent Liabilities 
+in the “Notes to Condensed Consolidated Financial Statements” in this Form 10-Q, and for information about risks relating to such legal proceedings, see “Part I, Item 1A—Risk Factors” in our Annual Report and specifically the sections entitled “Uncertainty over IP in the biopharmaceutical industry has been the source of litigation and other legal proceedings, and we or our licensees may face claims against IP rights covering our products and competition from generic drug manufacturers” and “Litigation or arbitration filed against Alkermes, including securities litigation, or actions (such as citizens petitions) filed against regulatory agencies in respect of our products, may result in financial losses, harm our reputation, divert management resources, negatively impact the approval of our products, or otherwise negatively impact our business.”
+Products Using Our Proprietary Technologies and Licensed Product
+We have licensed products to third parties for commercialization and have licensed our proprietary technologies to third parties to enable them to develop, commercialize and/or manufacture products. See the “Proprietary Technology Platforms” and “Patents and Proprietary Rights” sections in “Part I, Item 1—Business” in our Annual Report for information with respect to our proprietary technologies and the IP protection for these products. We receive royalties and/or manufacturing and other revenues from the commercialization of these products under our collaborative arrangements with these third parties. Such arrangements, among others, include the following:
+Products Using Our Proprietary Technologies
+
+INVEGA SUSTENNA/XEPLION, INVEGA TRINZA/TREVICTA and INVEGA HAFYERA/BYANNLI
+
+The long-acting INVEGA products are long-acting atypical antipsychotics owned and commercialized worldwide by Janssen. We believe that these products incorporate our technologies.
+
+INVEGA SUSTENNA is approved in the U.S. for the treatment of schizophrenia and for the treatment of schizoaffective disorder as either a monotherapy or adjunctive therapy. Paliperidone palmitate extended-release injectable suspension is approved in the European Union (“EU”) and other countries outside of the U.S. for the treatment of schizophrenia and is marketed and sold under the trade name XEPLION. INVEGA SUSTENNA/XEPLION is manufactured by Janssen.
+
+28
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited) (Continued)
+
+INVEGA TRINZA is approved in the U.S. for the treatment of schizophrenia in patients who have been adequately treated with INVEGA SUSTENNA for at least four months. TREVICTA is approved in the EU for the maintenance treatment of schizophrenia in adult patients who are clinically stable on XEPLION. INVEGA TRINZA/TREVICTA is manufactured by Janssen.
+
+INVEGA HAFYERA is approved in the U.S. for the treatment of schizophrenia in patients who have been adequately treated with INVEGA SUSTENNA for at least four months or INVEGA TRINZA for at least three months. BYANNLI is approved in the EU for the maintenance treatment of schizophrenia in adult patients who are clinically stable on XEPLION or TREVICTA. INVEGA HAFYERA/BYANNLI is manufactured by Janssen.
+
+For a discussion of legal proceedings related to certain of the patents covering INVEGA TRINZA, see Note 16, 
+Commitments and Contingent Liabilities
+ in the “Notes to Condensed Consolidated Financial Statements” in this Form 10-Q and for information about risks relating to such legal proceedings, see “Part I, Item 1A—Risk Factors” in our Annual Report and specifically the section entitled “Uncertainty over IP in the biopharmaceutical industry has been the source of litigation and other legal proceedings, and we or our licensees may face claims against IP rights covering our products and competition from generic drug manufacturers.”
+Licensed Product
+VUMERITY
+
+VUMERITY (diroximel fumarate) is a novel, oral fumarate with a distinct chemical structure that is approved in the U.S., the EU and several other countries for the treatment of relapsing forms of multiple sclerosis in adults, including clinically isolated syndrome, relapsing-remitting disease and active secondary progressive disease.
+Under our license and collaboration agreement with Biogen, Biogen holds the exclusive, worldwide license to develop and commercialize VUMERITY. For more information about the license and collaboration agreement with Biogen, see the “Collaborative Arrangements—Biogen” section in “Part I, Item 1—Business” in our Annual Report. For a discussion of legal proceedings related to certain of the patents covering VUMERITY, see Note 16, 
+Commitments and Contingent Liabilities 
+in the “Notes to Condensed Consolidated Financial Statements” in this Form 10-Q.
+Key Development Program
+Our R&D is focused on the development of innovative medicines in the field of neuroscience that are designed to address unmet patient needs. As part of our ongoing R&D efforts, we have devoted, and will continue to devote, significant resources to conducting preclinical work and clinical studies to advance the development of new pharmaceutical products. The discussion below highlights our current key development program. Drug development involves a high degree of risk and investment, and the status, timing and scope of our development programs are subject to change. Important factors that could adversely affect our drug development efforts are discussed in “Part I, Item 1A—Risk Factors” in our Annual Report and “Part II, Item 1A—Risk Factors” in this Form 10-Q. See the “Patents and Proprietary Rights” section in “Part I, Item 1—Business” in our Annual Report for information with respect to the IP protection for our key development program.
+Alixorexton (formerly referred to as ALKS 2680)
+Alixorexton is a novel, investigational, oral, selective orexin 2 receptor agonist in development as a once-daily treatment for narcolepsy type 1 (“NT1”), narcolepsy type 2 (“NT2”) and idiopathic hypersomnia (“IH”). Orexin, a neuropeptide produced in the lateral hypothalamus, is considered to be the master regulator of wakefulness due to its activation of multiple, downstream wake-promoting pathways that project widely throughout the brain. Targeting the orexin system may address excessive daytime sleepiness across hypersomnolence disorders, whether or not deficient orexin signaling is the underlying cause of disease. Once-daily oral administration of alixorexton was previously evaluated in a phase 1 study in healthy volunteers and patients with NT1, NT2 and IH and is currently being evaluated in phase 2 studies, including the recently completed Vibrance-1 study in patients with NT1, and the ongoing Vibrance-2 and Vibrance-3 studies in patients with NT2 and IH, respectively. In September 2025, we announced detailed safety and efficacy results from Vibrance-1 and that we are proceeding with plans for initiation of a phase 3 program in narcolepsy.
+
+29
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited) (Continued)
+
+Results of Operations
+
+Product Sales, Net
+Our product sales, net, consist of sales of VIVITROL, ARISTADA and ARISTADA INITIO, and LYBALVI, primarily to wholesalers, specialty distributors and pharmacies. The following table presents the adjustments deducted from product sales, gross to arrive at product sales, net, for sales of VIVITROL, ARISTADA and ARISTADA INITIO, and LYBALVI during the three and nine months ended September 30, 2025 and 2024:
+
+Three Months Ended
+
+Nine Months Ended
+
+September 30,
+
+September 30,
+
+(In millions, except for % of Sales)
+
+2025
+
+% of Sales
+
+2024
+
+% of Sales
+
+2025
+
+% of Sales
+
+2024
+
+% of Sales
+
+Product sales, gross
+
+$
+
+593.5
+
+100.0
+
+%
+
+$
+
+543.5
+
+100.0
+
+%
+
+$
+
+1,631.1
+
+100.0
+
+%
+
+$
+
+1,543.8
+
+100.0
+
+%
+
+Adjustments to product sales, gross:
+
+Medicaid rebates
+
+(113.3
+
+)
+
+(19.1
+
+)
+
+%
+
+(116.3
+
+)
+
+(21.4
+
+)
+
+%
+
+(312.8
+
+)
+
+(19.2
+
+)
+
+%
+
+(343.9
+
+)
+
+(22.3
+
+)
+
+%
+
+Chargebacks
+
+(71.9
+
+)
+
+(12.1
+
+)
+
+%
+
+(61.8
+
+)
+
+(11.4
+
+)
+
+%
+
+(190.2
+
+)
+
+(11.7
+
+)
+
+%
+
+(168.8
+
+)
+
+(10.9
+
+)
+
+%
+
+Product discounts
+
+(43.8
+
+)
+
+(7.4
+
+)
+
+%
+
+(39.9
+
+)
+
+(7.3
+
+)
+
+%
+
+(122.4
+
+)
+
+(7.5
+
+)
+
+%
+
+(112.6
+
+)
+
+(7.3
+
+)
+
+%
+
+Medicare Part D
+
+(18.4
+
+)
+
+(3.1
+
+)
+
+%
+
+(21.1
+
+)
+
+(3.9
+
+)
+
+%
+
+(56.6
+
+)
+
+(3.4
+
+)
+
+%
+
+(60.0
+
+)
+
+(3.9
+
+)
+
+%
+
+Other
+
+(28.7
+
+)
+
+(4.8
+
+)
+
+%
+
+(31.4
+
+)
+
+(5.8
+
+)
+
+%
+
+(79.9
+
+)
+
+(4.9
+
+)
+
+%
+
+(82.7
+
+)
+
+(5.4
+
+)
+
+%
+
+Total adjustments
+
+(276.1
+
+)
+
+(46.5
+
+)
+
+%
+
+(270.5
+
+)
+
+(49.8
+
+)
+
+%
+
+(761.9
+
+)
+
+(46.7
+
+)
+
+%
+
+(768.0
+
+)
+
+(49.8
+
+)
+
+%
+
+Product sales, net
+
+$
+
+317.4
+
+53.5
+
+%
+
+$
+
+273.0
+
+50.2
+
+%
+
+$
+
+869.2
+
+53.3
+
+%
+
+$
+
+775.8
+
+50.2
+
+%
+
+The increase in product sales, gross during the three months ended September 30, 2025, as compared to the three months ended September 30, 2024, was due to increases of 23%, 3% and 2% in the number of units sold for LYBALVI, ARISTADA/ARISTADA INITIO and VIVITROL, respectively, and a 3% price increase for each of these products that went into effect on January 1, 2025.
+
+The increase in product sales, gross during the nine months ended September 30, 2025, as compared to the nine months ended September 30, 2024, was primarily due to a 19% increase in the number of LYBALVI units sold and the 3% price increase for each of our proprietary products that went into effect on January 1, 2025. These increases were partially offset by 1% decreases in the number of units sold for each of VIVITROL and ARISTADA/ARISTADA INITIO.
+
+The decreases in Medicaid rebates, as a percentage of sales, during the three and nine months ended September 30, 2025, as compared to the three and nine months ended September 30, 2024, were primarily due to gross-to-net favorability as actual Medicaid rebates related to VIVITROL and ARISTADA/ARISTADA INITIO, were lower than original estimates by approximately $7.6 million and $25.3 million for VIVITROL during the three and nine months ended September 30, 2025, respectively, and by approximately $4.9 million and $12.1 million for ARISTADA/ARISTADA INITIO during the three and nine months ended September 30, 2025, respectively.
+
+The following table compares product sales, net earned during the three and nine months ended September 30, 2025 and 2024:
+
+Three Months Ended
+
+Nine Months Ended
+
+September 30,
+
+September 30,
+
+(In millions)
+
+2025
+
+2024
+
+Change
+
+2025
+
+2024
+
+Change
+
+VIVITROL
+
+$
+
+121.1
+
+$
+
+113.7
+
+$
+
+7.4
+
+$
+
+343.8
+
+$
+
+323.2
+
+$
+
+20.6
+
+ARISTADA and ARISTADA INITIO
+
+98.1
+
+84.7
+
+13.4
+
+272.8
+
+249.6
+
+23.2
+
+LYBALVI
+
+98.2
+
+74.7
+
+23.5
+
+252.6
+
+203.1
+
+49.5
+
+Product sales, net
+
+$
+
+317.4
+
+$
+
+273.0
+
+$
+
+44.3
+
+$
+
+869.2
+
+$
+
+775.8
+
+$
+
+93.3
+
+30
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited) (Continued)
+
+Manufacturing and Royalty Revenues
+The following table compares manufacturing and royalty revenues earned during the three and nine months ended September 30, 2025 and 2024:
+
+Three Months Ended
+
+Nine Months Ended
+
+September 30,
+
+September 30,
+
+(In millions)
+
+2025
+
+2024
+
+Change
+
+2025
+
+2024
+
+Change
+
+Manufacturing and royalty revenues:
+
+Long-acting INVEGA products
+
+$
+
+30.2
+
+$
+
+58.5
+
+$
+
+(28.3
+
+)
+
+$
+
+78.3
+
+$
+
+199.9
+
+$
+
+(121.6
+
+)
+
+VUMERITY
+
+35.6
+
+32.6
+
+3.0
+
+102.8
+
+99.1
+
+3.7
+
+RISPERDAL CONSTA
+
+3.8
+
+2.4
+
+1.4
+
+16.7
+
+8.7
+
+8.0
+
+Other
+
+7.2
+
+11.6
+
+(4.4
+
+)
+
+24.4
+
+44.1
+
+(19.7
+
+)
+
+Manufacturing and royalty revenues
+
+$
+
+76.8
+
+$
+
+105.1
+
+$
+
+(28.3
+
+)
+
+$
+
+222.2
+
+$
+
+351.8
+
+$
+
+(129.6
+
+)
+
+The decreases in royalty revenues related to the long-acting INVEGA products during the three and nine months ended September 30, 2025, as compared to the three and nine months ended September 30, 2024, were primarily due to the expiration of our royalty on net sales of INVEGA SUSTENNA in the U.S. in August 2024. Accordingly, royalty revenues from net sales of the long-acting INVEGA products have been, and we expect will continue to be, lower in 2025, as the royalty revenues related to U.S. net sales of INVEGA SUSTENNA comprised a significant portion of the overall royalty revenues from the long-acting INVEGA products. In addition, each of INVEGA SUSTENNA and INVEGA TRINZA is currently subject to Paragraph IV litigation in response to companies seeking to market generic versions of such product. Increased competition from new products or generic versions of any one or more of the long-acting INVEGA products may lead to reduced unit sales of the long-acting INVEGA products, including those not yet genericized, and increased pricing pressure. For a discussion of the legal proceedings related to INVEGA TRINZA, see Note 16, 
+Commitments and Contingent Liabilities
+ in the “Notes to Condensed Consolidated Financial Statements” in this Form 10-Q, and for information about risks relating to these legal proceedings, see “Part I, Item 1A—Risk Factors” in our Annual Report, and specifically the section entitled “Uncertainty over IP in the biopharmaceutical industry has been the source of litigation and other legal proceedings, and we or our licensees may face claims against IP rights covering our products and competition from generic drug manufacturers.”
+The increases in VUMERITY revenue during the three and nine months ended September 30, 2025, as compared to the three and nine months ended September 30, 2024, were due to increases of $8.3 million and $17.7 million, respectively, in royalty revenue, offset by decreases of $5.3 million and $14.0 million, respectively, in manufacturing revenue. The increases in VUMERITY royalty revenue were primarily due to increases in end-market sales of the product. The decreases in VUMERITY manufacturing revenue were primarily due to reductions in the number of batches manufactured for sale to Biogen.
+
+The increase in RISPERDAL CONSTA revenue during the nine months ended September 30, 2025, as compared to the nine months ended September 30, 2024, was due to an $8.2 million increase in manufacturing revenue, primarily due to an increase in the number of batches made available to Janssen for sale in the U.S., which has a higher selling price than product sold outside of the U.S. The decrease in Other manufacturing and royalty revenue during the three months ended September 30, 2025, as compared to the three months ended September 30, 2024, was primarily due to decreases in revenues related to certain of our legacy products. The decrease in Other manufacturing and royalty revenue during the nine months ended September 30, 2025, as compared to the nine months ended September 30, 2024, was primarily due to a $13.6 million decrease in revenue from FAMPYRA, as our manufacturing obligations for FAMPYRA concluded on December 31, 2024.
+Costs and Expenses
+Cost of Goods Manufactured and Sold
+
+Three Months Ended
+
+Nine Months Ended
+
+September 30,
+
+September 30,
+
+(In millions)
+
+2025
+
+2024
+
+Change
+
+2025
+
+2024
+
+Change
+
+Cost of goods manufactured and sold
+
+$
+
+51.6
+
+$
+
+63.1
+
+$
+
+(11.5
+
+)
+
+$
+
+150.2
+
+$
+
+183.2
+
+$
+
+(33.0
+
+)
+
+31
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited) (Continued)
+
+The decreases in the cost of goods manufactured and sold during the three and nine months ended September 30, 2025, as compared to the three and nine months ended September 30, 2024, were primarily related to decreases of $7.9 million and $28.7 million, respectively, in the cost of goods manufactured for certain legacy products following the sale of the Athlone Facility in May 2024 and decreases in the cost of goods sold for certain of our proprietary products during each period primarily due to decreases in costs related to out-of-specification batches and investigation costs. These decreases were partially offset by increases in the cost of goods sold for LYBALVI, ARISTADA/ARISTADA INITIO and VIVITROL during the three months ended September 30, 2025, as compared to the three months ended September 30, 2024, and an increase in the cost of goods sold for LYBALVI during the nine months ended September 30, 2025, as compared to the nine months ended September 30, 2024, due to increases in the number of units sold in each period, as discussed above.
+Research and Development Expenses
+For each of our R&D programs, we incur both external and internal expenses. External R&D expenses include fees for clinical and preclinical activities performed by contract research organizations, consulting fees, and costs related to laboratory services, the purchase of drug product materials and third-party manufacturing development activities. Internal R&D expenses include employee-related expenses, occupancy costs, depreciation and general overhead. We track external R&D expenses for each of our development programs; however, internal R&D expenses are not tracked by individual program as they can benefit multiple development programs or our products or technologies in general.
+
+The following table sets forth our external R&D expenses for the three and nine months ended September 30, 2025 and 2024 relating to our then-current development programs and our internal R&D expenses, listed by the nature of such expenses:
+
+Three Months Ended
+
+Nine Months Ended
+
+September 30,
+
+September 30,
+
+(In millions)
+
+2025
+
+2024
+
+Change
+
+2025
+
+2024
+
+Change
+
+External R&D expenses:
+
+Development programs:
+
+Alixorexton
+
+$
+
+25.8
+
+$
+
+11.9
+
+$
+
+13.9
+
+$
+
+67.5
+
+$
+
+34.9
+
+$
+
+32.6
+
+LYBALVI
+
+4.8
+
+5.5
+
+(0.7
+
+)
+
+13.7
+
+14.3
+
+(0.6
+
+)
+
+Other external R&D expenses
+
+12.6
+
+8.6
+
+4.0
+
+34.2
+
+27.4
+
+6.8
+
+Total external R&D expenses
+
+43.2
+
+26.0
+
+17.2
+
+115.4
+
+76.6
+
+38.8
+
+Internal R&D expenses:
+
+Employee-related
+
+30.9
+
+26.8
+
+4.1
+
+92.9
+
+87.6
+
+5.3
+
+Occupancy
+
+3.2
+
+2.7
+
+0.5
+
+9.7
+
+8.5
+
+1.2
+
+Depreciation
+
+1.4
+
+1.4
+
+—
+
+4.3
+
+4.2
+
+0.1
+
+Other
+
+3.0
+
+2.9
+
+0.1
+
+8.6
+
+10.2
+
+(1.6
+
+)
+
+Total internal R&D expenses
+
+38.5
+
+33.8
+
+4.7
+
+115.5
+
+110.5
+
+5.0
+
+Research and development expenses
+
+$
+
+81.7
+
+$
+
+59.8
+
+$
+
+21.9
+
+$
+
+230.9
+
+$
+
+187.1
+
+$
+
+43.8
+
+These amounts are not necessarily predictive of future R&D expenses. In an effort to allocate our spending most effectively, we continually evaluate our products under development based on the performance of such products in preclinical and/or clinical trials, our expectations regarding the likelihood of their regulatory approval and our view of their future potential commercial viability, among other factors.
+The increases in expenses related to alixorexton during the three and nine months ended September 30, 2025, as compared to the three and nine months ended September 30, 2024, were primarily due to increased spend related to the advancement of the development program for the product, including initiation of our Vibrance-3 phase 2 clinical study and costs related to our long-term extension study for the product. The increases in other external R&D expenses during the three and nine months ended September 30, 2025, as compared to the three and nine months ended September 30, 2024, were primarily due to activities associated with our preclinical development programs.
+
+The increases in employee-related expenses during the three and nine months ended September 30, 2025, as compared to the three and nine months ended September 30, 2024, were primarily due to increases in labor and benefits expense related to a 9% increase in R&D-related headcount.
+
+32
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited) (Continued)
+
+Selling, General and Administrative Expense
+
+Three Months Ended
+
+Nine Months Ended
+
+September 30,
+
+September 30,
+
+(In millions)
+
+2025
+
+2024
+
+Change
+
+2025
+
+2024
+
+Change
+
+Selling and marketing expense
+
+$
+
+115.6
+
+$
+
+102.1
+
+$
+
+13.5
+
+$
+
+359.7
+
+$
+
+347.4
+
+$
+
+12.3
+
+General and administrative expense
+
+56.2
+
+48.2
+
+8.0
+
+154.6
+
+150.8
+
+3.8
+
+Selling, general and administrative expense
+
+$
+
+171.8
+
+$
+
+150.3
+
+$
+
+21.5
+
+$
+
+514.3
+
+$
+
+498.2
+
+$
+
+16.1
+
+The increase in selling and marketing expense during the three months ended September 30, 2025, as compared to the three months ended September 30, 2024, was primarily due to increases of $11.4 million and $2.2 million in employee-related expenses and marketing expense, respectively. The increase in employee-related expenses was primarily due to a 14% increase in sales and marketing-related headcount. The increase in marketing expense was primarily due to support services related to field expansion during the period. The increase in selling and marketing expense during the nine months ended September 30, 2025, as compared to the nine months ended September 30, 2024, was primarily due to an increase of $23.5 million in employee-related expenses, primarily due to the increase in sales and marketing-related headcount, as previously noted, partially offset by a decrease of $11.1 million in marketing spend, primarily related to decreases in media spend for our proprietary products.
+
+The increase in general and administrative expense during the three months ended September 30, 2025, as compared to the three months ended September 30, 2024, was primarily due to a $3.4 million increase in employee-related expenses, primarily due to a 7% increase in general and administrative-related headcount, a $2.3 million increase in professional service fees and a $1.5 million increase in branded prescription drug fees. The increase in general and administrative expense during the nine months ended September 30, 2025, as compared to the nine months ended September 30, 2024, was primarily due to a $3.3 million increase in employee-related expenses, primarily due to the increase in general and administrative-related headcount, discussed above, and a $1.1 million increase in professional services fees.
+
+Other Income, Net
+
+Three Months Ended
+
+Nine Months Ended
+
+September 30,
+
+September 30,
+
+(In millions)
+
+2025
+
+2024
+
+Change
+
+2025
+
+2024
+
+Change
+
+Interest income
+
+$
+
+11.9
+
+$
+
+10.9
+
+$
+
+1.0
+
+$
+
+33.1
+
+$
+
+31.0
+
+$
+
+2.1
+
+Interest expense
+
+—
+
+(6.0
+
+)
+
+6.0
+
+—
+
+(17.9
+
+)
+
+17.9
+
+Other (expense) income, net
+
+(0.2
+
+)
+
+0.6
+
+(0.8
+
+)
+
+2.1
+
+2.8
+
+(0.7
+
+)
+
+Total other income, net
+
+$
+
+11.7
+
+$
+
+5.5
+
+$
+
+6.2
+
+$
+
+35.2
+
+$
+
+15.9
+
+$
+
+19.3
+
+Interest income consists of interest earned on our cash and available-for-sale investments. Interest expense consisted of interest incurred on our previously outstanding term loans (the “Former Term Loans”) that were scheduled to become due in 2026 under our former amended and restated credit agreement, which we prepaid in full and terminated in December 2024. See Note 12, 
+Long-Term Debt 
+in the “Notes to Consolidated Financial Statements” accompanying our Annual Report for additional information regarding our Former Term Loans.
+Income Tax Provision
+
+Three Months Ended
+
+Nine Months Ended
+
+September 30,
+
+September 30,
+
+(In millions)
+
+2025
+
+2024
+
+Change
+
+2025
+
+2024
+
+Change
+
+Income tax provision
+
+18.0
+
+17.4
+
+$
+
+0.6
+
+$
+
+38.8
+
+$
+
+47.5
+
+$
+
+(8.7
+
+)
+
+The income tax provisions in each of the three and nine months ended September 30, 2025, and 2024 were primarily attributable to taxes on income earned in Ireland.
+
+33
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited) (Continued)
+
+On July 4, 2025, the OBBBA was signed into law. This legislation permanently extends, with modifications, several individual, business, and international tax provisions originally enacted under the Tax Cuts and Jobs Act of 2017. As of September 30, 2025, we analyzed the impact of this legislation and determined that the OBBBA did not have a material impact on its effective tax rate for the current year. We expect that the provisions in the OBBBA will result in a material increase in cash flows provided by operating activities and a material decrease in net U.S. deferred tax assets over the next number of years.
+
+Liquidity and Financial Condition
+Our financial condition is summarized as follows:
+
+September 30, 2025
+
+December 31, 2024
+
+(In millions)
+
+U.S.
+
+Ireland
+
+Total
+
+U.S.
+
+Ireland
+
+Total
+
+Cash and cash equivalents
+
+$
+
+155.2
+
+$
+
+461.2
+
+$
+
+616.4
+
+$
+
+70.3
+
+$
+
+220.8
+
+$
+
+291.1
+
+Investments—short-term
+
+203.2
+
+291.5
+
+494.7
+
+203.6
+
+256.9
+
+460.5
+
+Investments—long-term
+
+4.8
+
+23.1
+
+27.9
+
+24.6
+
+48.5
+
+73.1
+
+Total cash and investments
+
+$
+
+363.2
+
+$
+
+775.8
+
+$
+
+1,139.0
+
+$
+
+298.5
+
+$
+
+526.2
+
+$
+
+824.7
+
+At September 30, 2025 our investments consisted of the following:
+
+Gross
+
+Amortized
+
+Unrealized
+
+Allowance for
+
+Estimated
+
+(In millions)
+
+Cost
+
+Gains
+
+Losses
+
+Credit Losses
+
+Fair Value
+
+Investments—short-term available-for-sale
+
+$
+
+492.4
+
+$
+
+2.3
+
+$
+
+—
+
+$
+
+—
+
+$
+
+494.7
+
+Investments—long-term available-for-sale
+
+27.8
+
+—
+
+—
+
+—
+
+27.8
+
+Investments—long-term held-to-maturity
+
+0.1
+
+—
+
+—
+
+—
+
+0.1
+
+Total
+
+$
+
+520.3
+
+$
+
+2.3
+
+$
+
+—
+
+$
+
+—
+
+$
+
+522.6
+
+Sources and Uses of Cash
+We generated $350.6 million and $248.7 million of cash from operating activities during the nine months ended September 30, 2025 and 2024, respectively. We expect that our existing cash, cash equivalents and investments will be sufficient to finance our anticipated working capital and other cash requirements, including capital expenditures, for not less than twelve months following the date from which our financial statements were issued. Subject to market conditions, interest rates and other factors, we may pursue opportunities to obtain financing in the future, including debt and equity offerings, corporate collaborations, bank borrowings, arrangements relating to assets or other financing methods or structures.
+Our investment objectives are, first, to preserve liquidity and conserve capital and, second, to generate investment income. We mitigate credit risk in our cash reserves by maintaining a well-diversified portfolio that limits the amount of investment exposure as to institution, maturity and investment type. Our available-for-sale investments consist primarily of short and long-term U.S. government and agency debt securities and corporate debt securities. Our held-to-maturity investments consist of investments that are held as collateral under certain letters of credit related to certain of our lease agreements.
+We classify available-for-sale investments in an unrealized loss position that do not mature within 12 months as long-term investments. We have the intent and ability to hold these investments until recovery, which may be at maturity, and it is more-likely-than-not that we would not be required to sell these securities before recovery of their amortized cost.
+
+In connection with the Proposed Acquisition, Alkermes plc, as the TopCo Borrower, together with Alkermes, Inc., as the U.S. Borrower, entered into the Bridge Credit Agreement, which provides for the Bridge Credit Facility in an aggregate principal amount of up to approximately $1.2 billion that is available to finance the payment of Cash Consideration and fees and expenses related to the Proposed Acquisition. In addition, we placed approximately $700.0 million of our cash into an escrow account to finance the remainder of the consideration for the Proposed Acquisition.
+We have no off-balance sheet arrangements that are reasonably likely to have a material effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures, or capital resources in the next 12 months.
+
+34
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited) (Continued)
+
+Information about our cash flows, by category, is presented in the accompanying condensed consolidated statements of cash flows. The discussion of our cash flows that follows does not include the impact of any adjustments to remove discontinued operations and is stated on a total company consolidated basis. The following table summarizes our cash flows for the nine months ended September 30, 2025 and 2024:
+
+Nine Months Ended
+
+September 30,
+
+(In millions)
+
+2025
+
+2024
+
+Cash and cash equivalents, beginning of period
+
+$
+
+291.1
+
+$
+
+457.5
+
+Cash flows provided by operating activities
+
+350.6
+
+248.7
+
+Cash flows used in investing activities
+
+(26.8
+
+)
+
+(97.4
+
+)
+
+Cash flows provided by (used in) financing activities
+
+1.5
+
+(212.5
+
+)
+
+Cash and cash equivalents, end of period
+
+$
+
+616.4
+
+$
+
+396.3
+
+Operating Activities
+
+Cash flows provided by operating activities represent the cash receipts and disbursements related to all of our activities other than investing and financing activities. Operating cash flow is derived by adjusting our net income for non-cash operating items such as depreciation, amortization and share-based compensation and changes in operating assets and liabilities, which reflect timing differences between the receipt and payment of cash associated with transactions and when they are recognized in our results of operations.
+Cash flows provided by operating activities for the nine months ended September 30, 2025 primarily consisted of $192.3 million of net income, adjusted for non-cash items, including $72.4 million of share-based compensation, $30.5 million in deferred income taxes, $23.3 million of depreciation and amortization and $27.7 million of changes in working capital.
+Cash flows provided by operating activities for the nine months ended September 30, 2024 primarily consisted of $220.6 million of net income, adjusted for non-cash items including $75.9 million of share-based compensation, $21.7 million of depreciation and amortization and $32.3 million of deferred income taxes, partially offset by changes in working capital of $105.1 million.
+Investing Activities
+
+Cash flows used in investing activities for the nine months ended September 30, 2025 were primarily due to the purchase of $40.4 million of property, plant and equipment, partially offset by $11.8 million in net sales of investments. Cash flows used in investing activities for the nine months ended September 30, 2024 were primarily due to $172.1 million in net purchases of investments and $23.7 million in the purchase of property, plant and equipment, partially offset by proceeds related to the sale of the Athlone Facility of approximately $97.9 million, which included a payment of approximately $91.0 million for the facility and certain related assets.
+Financing Activities
+
+Cash flows provided by financing activities for the nine months ended September 30, 2025 were due to $32.2 million of cash that we received upon exercises of employee stock options, offset by $30.8 million of employee taxes paid related to the net share settlement of equity awards. Cash flows used in financing activities for the nine months ended September 30, 2024 primarily related to $200.0 million (exclusive of any fees, commissions or other related expenses) used to repurchase our ordinary shares under the Repurchase Program and $29.3 million of employee taxes paid related to the net share settlement of equity awards, partially offset by $19.4 million of cash that we received upon exercises of employee stock options.
+
+35
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited) (Continued)
+
+Critical Accounting Estimates
+The discussion and analysis of our financial condition and results of operations is based on our financial statements, which have been prepared in accordance with GAAP. The preparation of these financial statements requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of our financial statements, and the reported amounts of revenues and expenses during the reporting period. Actual results may differ from these estimates under different conditions or using different assumptions.
+
+See the “Critical Accounting Estimates” section in “Part II, Item 7—Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our Annual Report for a discussion of our critical accounting estimates.
+
+New Accounting Standards
+See the “New Accounting Pronouncements” section in Note 2, 
+Summary of Significant Accounting Policies 
+in the “Notes to Condensed Consolidated Financial Statements” in this Form 10-Q for discussion of certain recent accounting standards applicable to us.
+
+Item 3. 
+Quantitative and Qualitati
+ve Disclosures About Market Risk
+Market risks related to our investment portfolio, and the ways we manage such risks, are summarized in “Part II, Item 7A—Quantitative and Qualitative Disclosures About Market Risk” in our Annual Report. We regularly review our marketable securities holdings and shift our investment holdings to those that best meet our investment objectives, which are to preserve capital, provide sufficient liquidity to satisfy operating requirements and generate investment income. Apart from such adjustments to our investment portfolio, there have been no material changes to our market risks since December 31, 2024, and we do not anticipate any near-term changes in the nature of our market risk exposures or in our management’s objectives and strategies with respect to managing such exposures.
+We are exposed to non-U.S. currency exchange risk related primarily to royalty revenues that we receive on certain of our products, partially offset by certain operating costs arising from expenses and payables in connection with our Irish operations that are settled predominantly in euro. These non-U.S. currency exchange rate risks are summarized in “Part II, Item 7A—Quantitative and Qualitative Disclosures About Market Risk” in our Annual Report. There has been no material change in our assessment of our sensitivity to non-U.S. currency exchange rate risk since December 31, 2024.
+Item 4. 
+Controls
+ and Procedures
+a) Evaluation of Disclosure Controls and Procedures
+Our management has evaluated, with the participation of our principal executive officer and principal financial officer, the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of September 30, 2025. Based upon that evaluation, our principal executive officer and principal financial officer each concluded that, as of the end of the period covered by this report, our disclosure controls and procedures were effective to provide reasonable assurance that (a) the information required to be disclosed by us in the reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms, and (b) such information is accumulated and communicated to our management, including our principal executive officer and principal financial officer, as appropriate, to allow timely decisions regarding required disclosure. In designing and evaluating our disclosure controls and procedures, our management recognized that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives, and our management necessarily was required to apply its judgment in evaluating the cost-benefit relationship of possible controls and procedures.
+b) Change in Internal Control Over Financial Reporting
+During the three months ended September 30, 2025, there have been no changes in our internal control over financial reporting that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+36
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited) (Continued)
+
+PART II. OTHER
+ INFORMATION
+Item 1.
+
+Legal
+ Proceedings
+For information regarding legal proceedings, see the discussion of legal proceedings in Note 16, 
+Commitments and Contingent Liabilities
+ in the “Notes to Condensed Consolidated Financial Statements” in this Form 10-Q, which discussion is incorporated into this Part II, Item 1 by reference.
+Item 1A. Ri
+sk Factors
+The below risk factors should be read in conjunction with the risk factors disclosed in “Part I, Item 1A—Risk Factors” of our Annual Report.
+We may not be able to complete the proposed strategic acquisition of Avadel on the timelines currently contemplated or at all, which could adversely affect our business and financial condition and the price of our ordinary shares.
+On October 22, 2025, we announced our entry into a definitive transaction agreement with Avadel pursuant to which we agreed to acquire the entire issued and to be issued ordinary share capital of Avadel for total potential cash consideration of up to $20.00 per Avadel Share, as described in this Form 10-Q. The completion of the Proposed Acquisition is subject to customary conditions, including, among other things, approval by Avadel’s shareholders, the sanction of the Scheme by the Irish High Court, and the receipt of required antitrust clearances in the United States, and may be terminated by either party under certain circumstances. Subject to the satisfaction or waiver of all applicable closing conditions, we currently expect the Proposed Acquisition to be completed in the first quarter of 2026; however, we may not be able to satisfy or waive the conditions to the closing of the Proposed Acquisition on the expected timelines or at all, or the agreement may be terminated under certain circumstances.
+The Proposed Acquisition may be difficult to complete for a number of reasons, including that we and Avadel may not be able to satisfy the conditions to closing. For example, we and/or Avadel, as applicable, may face difficulty and/or delays in obtaining the requisite shareholder approval, Irish High Court sanction or regulatory clearances in respect of the Proposed Acquisition on the anticipated timelines or at all. In addition, there may be unanticipated significant changes in transaction costs related to the Proposed Acquisition and/or unknown or inestimable liabilities and potential litigation that may arise in connection with the Proposed Acquisition. Further, competing offers may be made for Avadel, or the board of directors of Avadel may, in certain circumstances, change its recommendation regarding consummation of the Proposed Acquisition. The announcement of the Proposed Acquisition and the time and effort taken to consummate the Proposed Acquisition could result in disruption to the Company’s or Avadel’s respective businesses, including potential disruptions to certain third-party business and operational relationships that are important to Avadel’s business, or impacts on the ability of each of Alkermes and Avadel to attract and retain highly qualified management and key personnel. In addition, the Transaction Agreement in respect of the Proposed Acquisition contains customary termination rights that may be invoked in advance of completion of the Proposed Acquisition under certain circumstances. For any of these reasons, we may face difficulty in completing the Proposed Acquisition, and no assurance can be given as to whether we will complete the Proposed Acquisition on our anticipated timeline or at all, which could adversely affect our business strategy and financial planning and condition. Further, any potential negative reactions from the financial markets, whether as a result of the announcement of the Proposed Acquisition or any delay or failure in completing the Proposed Acquisition, could have a negative impact on our business and financial condition or the market price for our ordinary shares.
+Even if the proposed acquisition of Avadel is completed, we may fail to realize some or all of the anticipated benefits and synergies of the proposed acquisition or successfully integrate Avadel’s business, which could adversely affect our business and financial condition and the price of our ordinary shares.
+Even if the Proposed Acquisition is completed, the businesses of Alkermes and Avadel may not be effectively integrated and the anticipated operational, financial, strategic and other benefits and synergies of the Proposed Acquisition may not be achieved. These anticipated benefits and synergies are based on a number of assumptions and uncertainties, which may prove to be incorrect or incomplete. We may not be able to successfully integrate our and Avadel’s operations, and difficulties may arise relating to employee morale, such as the potential loss of key employees that may be difficult to replace, diversion of management’s attention from operation of the business, the failure to harmonize both companies’ corporate cultures, the disruption of each company’s ongoing businesses or inconsistencies in standards, controls, procedures and policies that adversely affect our or Avadel’s ability to maintain third-party
+
+37
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited) (Continued)
+
+relationships. In addition, there may be general economic, political, market and business conditions, or future exchange and interest rates, changes in tax laws, regulations, rates and policies, that could have a negative impact on Alkermes, Avadel or the combined organization following consummation of the Proposed Acquisition. In addition, Avadel’s product could be shown to be ineffective or unsafe, may prove difficult to manufacture be precluded from commercialization by the proprietary rights of third parties, or have unintended side effects, adverse reactions or incidents of misuse and we may not be able to continue to successfully commercialize Avadel’s product or support revenue growth from such product. Any of the foregoing may result in our not achieving the operational, financial, strategic and other benefits and synergies we anticipate realizing as a result of the Proposed Acquisition within the expected timeframe or at all, or they may take longer to realize or cost more than expected, and in each case, our business, results of operations and financial condition and/or the market price for our ordinary shares could be adversely affected.
+Our debt obligations could adversely affect our business and limit our ability to plan for or respond to changes in our business.
+In connection with the Proposed Acquisition, Alkermes plc and Alkermes, Inc. entered into the Bridge Credit Agreement, which provides for the Bridge Credit Facility in an aggregate principal amount of up to approximately $1.2 billion that is available to finance the payment of Cash Consideration and fees and expenses related to the Proposed Acquisition. While we expect to obtain permanent financing in lieu of utilizing funds available under the Bridge Credit Agreement, we cannot guarantee that we will obtain such permanent financing on terms that are acceptable to us or at all. If we are not successful in obtaining permanent financing due to market conditions or other factors and are required to utilize funds under the Bridge Credit Agreement, we will incur significantly higher borrowing costs than currently contemplated. In addition, the Bridge Credit Agreement requires the maintenance of certain leverage and coverage ratios, in each case, with the levels set forth in the Bridge Credit Agreement, as of the last day of any fiscal quarter ending after the date on which the loans under the Bridge Credit Facility are funded. In addition, the Bridge Credit Agreement contains customary affirmative and negative covenants, including limitations on indebtedness, liens, mergers, consolidations, sales of assets, investments, transactions with affiliates, restricted payments and sales and leasebacks. The Bridge Credit Agreement is guaranteed by certain of the Company’s subsidiaries and secured by a lien on substantially all of the assets of Alkermes plc, Alkermes, Inc. and their subsidiary guarantors. Our failure to comply with these restrictions or to make payments could lead to an event of default that could result in an acceleration of the indebtedness. Our future operating results may not be sufficient to ensure our ability to make our debt payments or to remedy any such default.
+
+C
+hanges in global trade or other policies, including tariffs or other restrictions imposed by the U.S. government or governments of other nations, could have an adverse effect on our business, results of operations, or financial condition.
+As a global biopharmaceutical company, changes in and uncertainties from global trade or other policies, including tariffs or other restrictions imposed by the U.S. government or governments of other nations, may have an adverse effect on us. For example, since April 2025, the U.S. government and certain other countries have imposed tariffs or negotiated trade agreements for tariffs on certain imports. Although some of these tariffs are temporarily paused, their impact has already been seen, and we expect will continue to be seen, in global markets. Our proprietary products are manufactured at our manufacturing facility in the U.S. and are sold exclusively in the U.S.; however, certain materials in our supply chain are sourced internationally and certain third-party products from which we derive revenue are manufactured outside the U.S. Our related costs, revenues and/or profits may be impacted to varying degrees by recent or future changes in global trade or other policies. In addition, the recent changes, tensions and uncertainties related to global trade policies have caused, and may continue to cause, significant volatility in global markets, including the market for our ordinary shares. The price of our ordinary shares has fluctuated significantly, and may continue to fluctuate, as a result of these and similar developments. The U.S. government has also indicated that it may impose a supplemental tariff on all pharmaceutical imports or take additional actions in respect of pharmaceutical companies incorporated outside of the U.S., which has caused, and may continue to cause, uncertainty as to the extent of the impacts of changes in global trade on the pharmaceutical industry as a whole and on our business. Additional changes to the policies of the U.S. or other nations that affect the geopolitical landscape or global trade, economic or market conditions, and other direct or indirect impacts of such policies, are uncertain and unpredictable, and could, in the future, have a material adverse effect on our business, results of operations, or financial condition and the market price of our ordinary shares.
+
+38
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited) (Continued)
+
+Item 2.
+
+Unregistered Sales of Equi
+ty Securities and Use of Proceeds
+The following table summarizes purchases of our ordinary shares made by or on behalf of us or any of our affiliated purchasers, as defined in Rule 10b-18(a)(3) under the Exchange Act, during the three months ended September 30, 2025:
+
+Period
+
+Total Number of Ordinary Shares Purchased
+(a)
+(1)
+
+Average Price Paid per Ordinary Share
+(b)
+
+Total Number of Ordinary Shares Purchased as Part of Publicly Announced Program
+(c)
+(2)
+
+Approximate Dollar Value (in millions) of Ordinary Shares that May Yet Be Purchased Under the Program 
+(d)
+(2)
+
+July 1, 2025 – July 31, 2025
+
+1,835
+
+$
+
+28.90
+
+—
+
+$
+
+200.0
+
+August 1, 2025 – August 31, 2025
+
+3,254
+
+26.62
+
+—
+
+200.0
+
+September 1, 2025 – September 30, 2025
+
+5,652
+
+29.68
+
+—
+
+200.0
+
+Totals
+
+10,741
+
+$
+
+28.62
+
+—
+
+(1)
+Consists of ordinary shares acquired during the three months ended September 30, 2025 to satisfy tax withholding obligations related to the vesting of equity awards.
+(2)
+In February 2024, we announced approval by our board of directors of the Repurchase Program, which authorized the repurchase of our ordinary shares in an aggregate amount of up to $400.0 million (exclusive of any fees, commissions or other expenses related to such repurchases) from time to time. The specific timing and amounts of repurchases under the Repurchase Program will depend on a variety of factors, including but not limited to ongoing assessments of our needs, alternative investment opportunities, the market price of our ordinary shares and general market conditions. The Repurchase Program has no set expiration date and may be suspended or discontinued at any time. 
+Item 5.
+
+Other
+ Information
+
+During the three months ended September 30, 2025, no officer (as defined in Rule 16a-1(f) under the Exchange Act) or director of the Company 
+adopted
+, 
+modified
+ or 
+terminated
+ any contract, instruction or written plan for the purchase or sale of the Company’s securities that is or was intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) under the Exchange Actor any trading plan not intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) under the Exchange Act.
+
+39
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited) (Continued)
+
+Item 6.
+
+Exhibits
+The following exhibits are filed or furnished as part of this Form 10-Q:
+EXHIBIT INDEX
+
+Exhibit No.
+
+Description of Exhibit
+
+  2.1 §
+
+Transaction Agreement, dated as of October 22, 2025 by and among Alkermes plc and Avadel Pharmaceuticals plc (incorporated by reference to Exhibit 2.1 to the Alkermes plc Current Report on Form 8-K (File No. 001-35299) filed on October 22, 2025).
+
+  2.2
+
+Appendix III to the Rule 2.7 Announcement, dated as of October 22, 2025 (Conditions Appendix) (incorporated by reference to Exhibit 2.2 to the Alkermes plc Current Report on Form 8-K (File No. 001-35299) filed on October 22, 2025).
+
+  10.1 #*§
+
+Authorized Generic Product Supply Agreement, dated September 9, 2025, by and between Alkermes Pharma Ireland Limited and Amneal Pharmaceuticals LLC.
+
+  10.2 †
+
+Form of Employment Agreement entered into by and between Alkermes, Inc. and Joshua Reed, (incorporated herein by reference to Exhibit 10.1 to the Alkermes plc Quarterly Report on Form 10-Q (File No. 011-35299), filed with the SEC on November 2, 2016).
+
+  10.3 #†
+
+Offer Letter, dated August 27, 2025, by and between Alkermes, Inc. and Joshua Reed.
+
+  10.4 §
+
+Bridge Credit Agreement, dated as of October 22, 2025 by and among Alkermes plc, Alkermes, Inc. and JPMorgan Chase Bank, N.A. (incorporated by reference to Exhibit 10.1 to the Alkermes plc Current Report on Form 8-K (File No. 001-35299) filed on October 22, 2025).
+
+  31.1 #
+
+Rule 13a-14(a)/15d-14(a) Certification.
+
+  31.2 #
+
+Rule 13a-14(a)/15d-14(a) Certification.
+
+  32.1 ‡
+
+Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+  101.SCH #
+
+Inline XBRL Taxonomy Extension Schema Document with Embedded Linkbase Documents.
+
+  104 #
+
+Cover Page Interactive Data File (formatted as Inline XBRL with applicable taxonomy extension information contained in Exhibit 101).
+
+# Filed herewith.
+‡ Furnished herewith.
+* Portions of this exhibit (indicated by “[**]”) have been omitted pursuant to Item 601(b) of Regulation S-K. The Company undertakes to furnish an unredacted copy of this exhibit upon request by the SEC.
+§ Schedules and similar attachments to this exhibit have been omitted pursuant to Item 601(a)(5) of Regulation S-K. The Company undertakes to furnish copies of any omitted schedules and similar attachments upon request by the SEC.
+† Indicates a management contract or any compensatory plan, contract or arrangement.
+
+40
+
+ALKERMES PLC AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS — (Unaudited) (Continued)
+
+SIGNA
+TURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ALKERMES PLC
+
+(Registrant)
+
+By:
+
+/s/ Richard F. Pops
+
+Richard F. Pops
+
+Chairman and Chief Executive Officer
+
+(Principal Executive Officer)
+
+By:
+
+/s/ Joshua Reed
+
+Joshua Reed
+
+Senior Vice President, Chief Financial Officer
+
+(Principal Financial Officer)
+
+Date: October 28, 2025
+
+41

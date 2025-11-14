@@ -1,0 +1,5968 @@
+ITEM 3. LEGAL PROCEEDINGS
+The information set forth in "Note 20. Commitments And Contingencies" in the “Notes to Consolidated Financial Statements” included in Part II, Item 8 of this Annual Report is incorporated herein by reference.
+ITEM 4. MINE SAFETY DISCLOSURES
+Not applicable.
+23
+PART II
+ITEM 5. MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+Market information
+Our common stock is quoted on the NASDAQ Global Select Market under the symbol “PEGA.”
+Holders
+As of January 31, 2025, we had 62 stockholders of record. 
+Dividends
+During 2024, 2023, and 2022, we paid a quarterly cash dividend of $0.03 per share of common stock. We expect to pay a quarterly cash dividend of $0.03 per share; however, the Board of Directors may terminate or modify this dividend program without prior notice.
+Issuer purchases of equity securities 
+(1)
+Common stock repurchased in the three months ended December 31, 2024:
+(in thousands, except per share amounts)
+Total Number 
+of Shares 
+Purchased
+ (2)
+Average Price 
+Paid per 
+Share 
+(2)
+Total Number 
+of Shares Purchased as Part of
+Publicly Announced Share 
+Repurchase Program
+Approximate Dollar 
+Value of Shares That 
+May Yet Be Purchased at Period
+End Under Publicly Announced
+Share Repurchased Programs
+October 1, 2024 - October 31, 2024
+158 
+$
+74.01 
+146 
+$
+287,492 
+November 1, 2024 - November 30, 2024
+237 
+$
+88.55 
+215 
+$
+268,356 
+December 1, 2024 - December 31, 2024
+321 
+$
+95.27 
+293 
+$
+240,443 
+Total
+716 
+$
+88.35 
+(1) For additional information, see "Stock Repurchase Program" in Item 7 of this Annual Report.
+(2) Shares withheld to cover the option exercise price and tax withholding obligations under the net settlement provisions of our stock compensation awards have been included in these amounts.
+24
+Stock performance graph and cumulative total stockholder return 
+(1)
+The following performance graph represents a comparison of the cumulative total stockholder return, assuming the reinvestment of dividends, for a $100 investment on December 31, 2019 in our common stock, the Total Return Index for the NASDAQ Composite, a broad market index, and the Standard & Poor’s (“S&P”) North American Technology Sector - Software Index™ (“S&P NA Tech Software”), a published industry index.
+December 31,
+2019
+2020
+2021
+2022
+2023
+2024
+Pegasystems Inc.
+$
+100.00 
+$
+167.49 
+$
+140.66 
+$
+43.19 
+$
+61.78 
+$
+117.99 
+NASDAQ Composite
+$
+100.00 
+$
+144.92 
+$
+177.06 
+$
+119.45 
+$
+172.77 
+$
+223.87 
+S&P NA Tech Software
+$
+100.00 
+$
+151.90 
+$
+175.13 
+$
+112.05 
+$
+178.86 
+$
+223.41 
+(1) The graph lines merely connect measurement dates and do not reflect fluctuations between those dates.
+ITEM 6. [RESERVED]
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+NON-GAAP MEASURES
+Our non-GAAP financial measures should only be read in conjunction with our consolidated financial statements prepared in accordance with GAAP. We believe that these measures help investors understand our core operating results and prospects, which is consistent with how management measures and forecasts our performance without the effect of often one-time charges and other items outside our normal operations. Management uses these measures to assess the performance of the company's operations and establish operational goals and incentives. They are not a substitute for financial measures prepared under U.S. GAAP. A reconciliation of GAAP and non-GAAP measures is located with each non-GAAP measure.
+25
+BUSINESS OVERVIEW
+We develop, market, license, host, and support enterprise software that helps organizations optimize decisions and processes in real-time so they can deliver outcomes that transform their business. Our powerful platform for enterprise AI decisioning and workflow automation enables the world’s leading brands and government agencies to hyper-personalize customer experiences, automate customer service, and streamline operations, mission-critical business processes, and workflows. With Pega, our clients can leverage our AI technology and scalable architecture to accelerate their digital transformation. In addition, our sales and client success teams, world-class partners, and clients are able to leverage Pega GenAI Blueprint
+TM
+ (“Blueprint”) to rapidly prototype and accelerate the development and deployment of applications quickly and collaboratively.
+Our target clients are Global 2000 organizations and government agencies that require solutions to distinguish themselves in the markets they serve. Our solutions achieve and facilitate differentiation by increasing business agility, driving growth, improving productivity, attracting and retaining customers, and reducing risk. Along with our partners, we deliver solutions tailored by industry.
+Performance metrics
+We use performance metrics to analyze and assess our overall performance, make operating decisions, and forecast and plan for future periods, including:
+Annual Contract Value (“ACV”) represents the annualized value of our active contracts as of the measurement date. The contract's total value is divided by its duration in years to calculate ACV. ACV is a performance measure that we believe provides useful information to our management and investors. 
+(Dollars in thousands)
+December 31, 2024
+December 31, 2023
+Change
+Constant Currency Change
+Pega Cloud
+$
+652,443 
+$
+552,998 
+$
+99,445 
+18 
+%
+21 
+%
+Maintenance
+291,807 
+324,091 
+(32,284)
+(10)
+%
+(8)
+%
+Subscription services
+944,250 
+877,089 
+67,161 
+8 
+%
+10 
+%
+Subscription license
+427,268 
+377,794 
+49,474 
+13 
+%
+14 
+%
+$
+1,371,518 
+$
+1,254,883 
+$
+116,635 
+9 
+%
+11 
+%
+Reconciliation of ACV and constant currency ACV
+(in millions, except percentages)
+December 31, 2023
+December 31, 2024
+1-Year Change
+ACV
+$
+1,255 
+$
+1,372 
+9 
+%
+Impact of changes in foreign exchange rates
+— 
+23 
+Constant currency ACV
+$
+1,255 
+$
+1,395 
+11 
+%
+Note: Constant currency ACV is calculated by applying the December 31, 2023 foreign exchange rates to all periods shown.
+26
+(Dollars in thousands)
+2024
+2023
+Cash provided by operating activities
+$
+345,926 
+$
+217,785 
+59 
+%
+Investment in property and equipment
+(7,712)
+(16,781)
+Free cash flow 
+(1)
+$
+338,214 
+$
+201,004 
+68 
+%
+Supplemental information
+ (2)
+Litigation settlement, net of recoveries
+$
+32,403 
+$
+— 
+Legal fees
+16,197 
+14,645 
+Restructuring
+5,252 
+29,401 
+Interest on convertible senior notes
+3,810 
+4,134 
+Other
+— 
+601 
+Income taxes
+82,317 
+11,664 
+$
+139,979 
+$
+60,445 
+(1) Our non-GAAP free cash flow is defined as cash provided by operating activities less investment in property and equipment. Investment in property and equipment fluctuates in amount and frequency and is significantly affected by the timing and size of investments in our facilities. We provide information on free cash flow to enable investors to assess our ability to generate cash without incurring additional external financings. This information is not a substitute for financial measures prepared under U.S. GAAP. 
+(2) The supplemental information discloses items that affect our cash flows and are considered by management not to be representative of our core business operations and ongoing operational performance.
+◦
+Litigation settlement, net of recoveries
+: Cost to settle litigation, net of insurance recoveries, arising from proceedings outside the ordinary course of business. See "Note 20. Commitments And Contingencies" in Item 8 of this Annual Report for further information. 
+◦
+Legal fees:
+ Legal and related fees arising from proceedings outside the ordinary course of business. 
+◦
+Restructuring:
+ Restructuring fluctuates in amount and frequency and is significantly affected by the timing and size of our restructuring activities.
+◦
+Interest on convertible senior notes
+: In February 2020, we issued convertible senior notes, due March 1, 2025, in a private placement. The convertible senior notes accrue interest at an annual rate of 0.75%, payable semi-annually in arrears on March 1 and September 1.
+◦
+Other:
+ Fees related to canceled in-person sales and marketing events.
+◦
+Income taxes
+: Direct income taxes paid net of refunds received.
+27
+Reconciliation of Backlog and Constant Currency Backlog (Non-GAAP)
+(in millions, except percentages)
+December 31, 2023
+December 31, 2024
+1-Year Growth Rate
+Backlog - GAAP
+$
+1,463
+
+$
+1,623
+
+11
+
+%
+Impact of changes in foreign exchange rates
+— 
+39 
+Constant currency backlog
+$
+1,463 
+$
+1,662 
+14 
+%
+
+Note: Constant currency Backlog is calculated by applying the December 31, 2023 foreign exchange rates to all periods shown.
+RESULTS OF OPERATIONS
+Revenue
+(Dollars in thousands)
+2024
+2023
+Change
+Pega Cloud
+$
+558,734 
+37 
+%
+$
+461,328 
+32 
+%
+$
+97,406 
+21 
+%
+Maintenance
+323,304 
+22 
+%
+331,856 
+24 
+%
+(8,552)
+(3)
+%
+Subscription services
+882,038 
+59 
+%
+793,184 
+56 
+%
+88,854 
+11 
+%
+Subscription license
+398,102 
+27 
+%
+407,625 
+28 
+%
+(9,523)
+(2)
+%
+Subscription
+1,280,140 
+86 
+%
+1,200,809 
+84 
+%
+79,331 
+7 
+%
+Perpetual license
+3,767 
+— 
+%
+10,101 
+1 
+%
+(6,334)
+(63)
+%
+Consulting
+213,273 
+14 
+%
+221,706 
+15 
+%
+(8,433)
+(4)
+%
+$
+1,497,180 
+100 
+%
+$
+1,432,616 
+100 
+%
+$
+64,564 
+5 
+%
+•
+The increase in Pega Cloud revenue in 2024 was primarily due to expanded adoption of Pega Cloud by our existing clients. 
+•
+The decrease in maintenance revenue in 2024 was primarily due to our clients’ shift to Pega Cloud-based offerings, which do not generally result in maintenance revenue.
+•
+The decrease in subscription license revenue in 2024 was primarily due to our clients’ shift to Pega Cloud-based offerings, and several large multi-year subscription license contracts recognized in revenue in 2023.
+•
+The decrease in perpetual license revenue in 2024 reflects our strategy of promoting subscription-based arrangements.
+•
+The decrease in consulting revenue in 2024 was primarily due to decreases in consultant billable hours.
+28
+Gross profit
+2024
+2023
+(Dollars in thousands)
+Gross Profit %
+Gross Profit %
+Change
+Pega Cloud
+$
+434,261 
+78 
+%
+$
+342,670 
+74 
+%
+$
+91,591 
+27 
+%
+Maintenance
+297,859 
+92 
+%
+306,264 
+92 
+%
+(8,405)
+(3)
+%
+Subscription services
+732,120 
+83 
+%
+648,934 
+82 
+%
+83,186 
+13 
+%
+Subscription license
+396,214 
+100 
+%
+405,019 
+99 
+%
+(8,805)
+(2)
+%
+Subscription
+1,128,334 
+88 
+%
+1,053,953 
+88 
+%
+74,381 
+7 
+%
+Perpetual license
+3,750 
+100 
+%
+10,034 
+99 
+%
+(6,284)
+(63)
+%
+Consulting
+(25,569)
+(12)
+%
+(9,854)
+(4)
+%
+(15,715)
+(159)
+%
+$
+1,106,515 
+74 
+%
+$
+1,054,133 
+74 
+%
+$
+52,382 
+5 
+%
+ The gross profit change in 2024 was primarily due to a shift in the revenue mix. Also contributing to the change was:
+•
+The increase in Pega Cloud gross profit percent in 2024 was primarily due to increased cost efficiency, primarily for hosting services and employee compensation and benefits, as Pega Cloud continues to grow and scale.
+•
+The decrease in consulting gross profit percent in 2024 was primarily due to a decrease in utilization rates.
+Operating expenses
+2024
+2023
+Change
+(Dollars in thousands)
+% of Revenue
+% of Revenue
+Selling and marketing
+$
+534,780 
+36 
+%
+$
+559,177 
+39 
+%
+$
+(24,397)
+(4)
+%
+Research and development
+$
+298,074 
+20 
+%
+$
+295,512 
+21 
+%
+$
+2,562 
+1 
+%
+General and administrative
+$
+112,848 
+8 
+%
+$
+96,743 
+7 
+%
+$
+16,105 
+17 
+%
+Litigation settlement, net of recoveries
+$
+32,403 
+2 
+%
+$
+— 
+— 
+%
+$
+32,403 
+*
+Restructuring
+$
+4,528 
+— 
+%
+$
+21,747 
+2 
+%
+$
+(17,219)
+(79)
+%
+* not meaningful 
+•
+The decrease in selling and marketing in 2024 was primarily due to a decrease in compensation and benefits of $27.8 million due to reduced headcount from the optimization of our go-to-market strategy. For additional information, see "Note 12. Restructuring" in Item 8 of this Annual Report.
+•
+The increase in general and administrative in 2024 was primarily due to an increase of $10.7 million in compensation and benefits including $4.8 million of stock based compensation expense associated with performance stock options granted in 2023 (see "Note 16. Stock-Based Compensation"
+) 
+and an increase of $4.8 million in legal fees and related expenses arising from legal proceedings outside the ordinary course of business. We expect to continue to incur additional costs for these proceedings. For additional information, see "Note 20. Commitments And Contingencies" in Item 8 of this Annual Report.
+•
+The restructuring in 2024 and 2023 was primarily due to our efforts to optimize our go-to-market organization and office space. For additional information, see "Note 12. Restructuring" in Item 8 of this Annual Report.
+Other income and expenses
+(Dollars in thousands)
+2024
+2023
+Change
+Foreign currency transaction (loss) gain
+$
+(912)
+$
+(5,242)
+$
+4,330 
+83 
+%
+Interest income
+25,779 
+9,259 
+16,520 
+178 
+%
+Interest expense
+(6,835)
+(6,876)
+41 
+1 
+%
+(Loss) on capped call transactions
+(663)
+(1,348)
+685 
+51 
+%
+Other income, net
+1,385 
+18,693 
+(17,308)
+(93)
+%
+$
+18,754 
+$
+14,486 
+$
+4,268 
+29 
+%
+•
+The change in foreign currency transaction (loss) gain in 2024 was primarily due to the impact of fluctuations in foreign currency exchange rates associated with foreign currency-denominated cash and receivables held by our subsidiary in the United Kingdom.
+•
+The increase in interest income in 2024 was primarily due to higher investment balances and higher interest rate yields.
+•
+The change in (loss) on capped call transactions in 2024 was due to fair value adjustments for our capped call transactions.
+•
+The decrease in other income, net in 2024, was due to a reduction of $7.4 million in the gain from repurchases of our convertible senior notes and a reduction of $10 million in the gain in the value of equity securities held in our venture investments portfolio. For additional information, see "Note 11. Debt" and "Note 13. Fair Value Measurements" in Item 8 of this Annual Report.
+29
+Provision for income taxes
+(Dollars in thousands)
+2024
+2023
+Provision for income taxes
+$
+43,447 
+$
+27,632 
+Effective income tax rate
+30 
+%
+29 
+%
+The effective income tax rate in 2024 was primarily driven by the valuation allowance on our deferred tax assets and tax expense in the U.S. and U.K., partially offset by available tax attributes. 
+On December 15, 2022, the European Union (EU) Member States formally adopted the EU’s Pillar Two Directive, which generally provides for a minimum effective tax rate of 15%, as established by the Organization for Economic Co-operation and Development (OECD) Pillar Two Framework that was supported by over 130 countries worldwide. The EU effective dates were January 1, 2024, and January 1, 2025, for different aspects of the directive. The impact of the Pillar Two Framework on the Company’s income tax provision in 2024 was not material. The Company is continuing to evaluate the potential impact of the Pillar Two Framework on future periods, pending legislative adoption by additional individual countries.
+LIQUIDITY AND CAPITAL RESOURCES
+(in thousands)
+2024
+2023
+Cash provided by (used in)
+Operating activities
+$
+345,926 
+$
+217,785 
+Investing activities
+(202,576)
+(50,750)
+Financing activities
+(30,214)
+(81,963)
+Effect of exchange rate changes on cash, cash equivalents, and restricted cash
+(4,434)
+2,701 
+Net increase in cash, cash equivalents, and restricted cash
+$
+108,702 
+$
+87,773 
+
+December 31,
+(in thousands)
+2024
+2023
+Held in U.S. entities
+$
+474,509 
+$
+263,453 
+Held in foreign entities
+265,464 
+159,885 
+Total cash, cash equivalents, and marketable securities
+739,973 
+423,338 
+Restricted cash included in other current assets
+98 
+— 
+Restricted cash included in other long-term assets
+4,328 
+2,925 
+Total cash, cash equivalents, marketable securities, and restricted cash
+$
+744,399 
+$
+426,263 
+We believe that our current cash, marketable securities, cash flow provided by operations, borrowing capacity, and ability to engage in capital market transactions will be sufficient to fund our operations, settlement of our convertible senior notes due on March 1, 2025, stock repurchases, and quarterly cash dividends for at least the next 12 months and to meet our known long-term cash requirements. Whether these resources are adequate to meet our liquidity needs beyond that period will depend on our future growth, operating results, and the investments needed to support our operations. We may utilize available funds or seek external financing if we require additional capital resources.
+If it becomes necessary or desirable to repatriate foreign funds, we may have to pay federal, state, and local income taxes as well as foreign withholding taxes upon repatriation. However, estimating the taxes we would have to pay is impracticable due to the complexity of income tax laws and regulations. For additional information, see risk factor "If it becomes necessary or desirable to repatriate our foreign cash balances to the United States, we may be subject to increased taxes, other restrictions, and limitations" in Item 1A of this Annual Report.
+Operating activities
+The change in cash provided by operating activities in 2024 was primarily due to growth in client collections and the impact of our cost-efficiency initiatives. For additional information, see "Note 12. Restructuring" in Item 8 of this Annual Report. We expect to continue to incur legal fees and related costs arising from proceedings outside the ordinary course of business. For additional information, see "Note 20. Commitments And Contingencies" in Item 8 of this Annual Report.
+Investing activities
+The change in cash (used in) investing activities in 2024 was primarily due to our increased investments in financial instruments and reduced investment in property and equipment as we optimized our office space.
+30
+Financing activities
+Debt financing
+In February 2020, we
+ issued $600 million in aggregate principal amount of convertible senior notes, which mature on March 1, 2025. In 2024, we paid $33.9 million to repurchase $34.4 million in aggregate principal amount of convertible senior notes. As of December 31, 2024, we had $468 million in aggregate principal amount of convertible senior notes outstanding due on March 1, 2025. For additional information, see "Note 11. Debt" in Item 8 of this Annual Report.
+In November 2019, and as since amended, we entered into a five-year $100 million senior secured revolving credit agreement (the “Credit Facility”) with PNC Bank, National Association. As of December 31, 2024 and December 31, 2023, we had $27.3 million in outstanding letters of credit under the Credit Facility, reducing available borrowing capacity, but no outstanding cash borrowings. For additional information, see "Note 11. Debt" in Item 8 of this Annual Report.
+Stock repurchase program
+Changes in the remaining stock repurchase authority:
+(in thousands)
+2024
+December 31, 2023
+$
+60,000 
+Authorizations 
+(1)
+250,000 
+Repurchases 
+(2)
+(69,557)
+December 31, 2024
+$
+240,443 
+(1) On April 23, 2024, the Company’s Board of Directors extended the expiration date of the share repurchase program from June 30, 2024 to June 30, 2025. On October 22, 2024, the Company’s Board of Directors further extended the expiration date of the share repurchase program from June 30, 2025 to December 31, 2025 and increased the authorized repurchases by $250 million to $310 million as of that date
+. 
+(2) All purchases under this program have been made on the open market.
+Common stock repurchases
+2024
+2023
+(in thousands)
+Shares
+Amount
+Shares
+Amount
+Repurchases paid
+809 
+$
+68,057 
+— 
+— 
+Repurchases unpaid at period end
+16 
+1,500
+— 
+— 
+Stock repurchase program
+825 
+69,557 
+— 
+— 
+Tax withholdings for net settlement of equity awards
+75 
+5,435 
+44 
+1,916 
+900 
+$
+74,992 
+44 
+$
+1,916 
+In 2024 and 2023, instead of receiving cash from the equity holders, we withheld shares with a value of $6.3 million and $1.2 million, respectively, for the exercise price of options. These amounts are not included in the table above.
+Dividends
+(in thousands)
+2024
+2023
+Dividend payments to stockholders
+$
+10,199 
+$
+9,964 
+We intend to pay a quarterly cash dividend of $0.03 per share. However, the Board of Directors may terminate or modify the dividend program without prior notice.
+Contractual obligations
+As of December 31, 2024, our contractual obligations were:
+Payments due by period
+(in thousands)
+2025
+2026
+2027
+2028
+2029 and thereafter
+Other
+Total
+Convertible senior notes 
+(1)
+$
+469,618 
+$
+— 
+$
+— 
+$
+— 
+$
+— 
+$
+— 
+$
+469,618 
+Purchase obligations
+ (2)
+134,631 
+150,178 
+165,000 
+28,242 
+1,003 
+— 
+479,054 
+Operating lease obligations
+18,106 
+15,404 
+13,972 
+13,367 
+34,277 
+— 
+95,126 
+Venture investment commitments 
+(3)
+500 
+500 
+— 
+— 
+— 
+— 
+1,000 
+Liability for uncertain tax positions 
+(4)
+— 
+— 
+— 
+— 
+— 
+15,956 
+15,956 
+$
+622,855 
+$
+166,082 
+$
+178,972 
+$
+41,609 
+$
+35,280 
+$
+15,956 
+$
+1,060,754 
+(1) Includes principal and interest. 
+(2) Represents the fixed amount owed for purchase obligations including software licenses, hosting services, and sales and marketing programs.
+(3) Represents the maximum funding under existing venture investment agreements. Our venture investment agreements generally allow us to withhold unpaid funds at our discretion.
+(4) We cannot reasonably estimate the timing of this cash outflow due to uncertainties in the timing of the effective settlement of tax positions.
+31
+A detailed discussion and analysis of the 2023 year-over-year changes can be found in "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations" of our Annual Report on Form 10-K for the year ended December 31, 2023.
+CRITICAL ACCOUNTING ESTIMATES AND SIGNIFICANT JUDGMENTS
+Management’s discussion and analysis of the financial condition and results of operations is based upon our consolidated financial statements, which have been prepared following accounting principles generally accepted in the U.S. and the rules and regulations of the U.S. Securities and Exchange Commission for annual financial reporting. Preparing these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. We base our estimates and judgments on historical experience, knowledge of current conditions, and beliefs about what could occur in the future, given the available information. 
+We believe that of our significant accounting policies, described in “Note 2. Significant Accounting Policies” in Item 8 of this Annual Report, the following accounting policies are most important to the portrayal of our financial condition and require the most subjective judgment. Accordingly, these are the policies we believe are the most critical to aid in fully understanding and evaluating our consolidated financial condition and results of operations. If actual results differ significantly from management’s estimates and projections, there could be a material effect on our financial statements.
+Revenue recognition
+Our client contracts typically contain promises by us to provide multiple products and services. Specifically, contracts associated with Pega Platform sales and other software applications, sold as licenses to use functional intellectual property or as a cloud-based solution, typically include consulting services. Determining whether such products and services within a client contract are considered distinct performance obligations that should be accounted for separately requires significant judgment. Accordingly, we review client contracts to identify all separate promises to transfer goods and services that would be considered performance obligations. Judgment is also required in determining whether an option to acquire additional products and services within a client contract represents a material right that the client would not receive without entering into that contract.
+A contract modification is a legally binding change to an existing contract’s scope, price, or both. Contract modifications are reviewed to determine whether they should be accounted for as part of the original contract or as a separate contract. This determination requires significant judgment, which could impact the timing of revenue recognition. We typically account for contract modifications prospectively as a separate contract. The additional performance obligation(s) in our contract modifications are generally distinct and priced at their stand-alone selling price.
+We allocate the transaction price to the distinct performance obligations, including options in contracts determined to represent a material right, based on each performance obligation's relative stand-alone selling price. Judgment is required in estimating stand-alone selling prices. We maximize the use of observable inputs by maintaining pricing analyses that consider our pricing policies, historical stand-alone sales when they exist, and historical renewal prices charged to clients. We have concluded that the stand-alone selling prices of certain performance obligations, specifically software licenses and Pega Cloud arrangements, are highly variable. In these instances, we estimate the stand-alone selling prices using the residual approach, which is determined based on the total transaction price minus the stand-alone selling price of other performance obligations promised in the contract. We update our stand-alone selling price analysis periodically, including a re-assessment of whether the residual approach used to determine the stand-alone selling prices for software licenses and Pega Cloud arrangements remains appropriate.
+Changes in the assumptions or judgments used in determining the performance obligations in client contracts and stand-alone selling prices could significantly impact the timing and amount of revenue we report in a particular period.
+For additional information see "Note 2. Significant Accounting Policies", "Note 4. Receivables, Contract Assets, And Deferred Revenue", and "Note 15. Revenue" in Item 8 of this Annual Report
+Goodwill impairment
+Our goodwill arises from our previous business acquisitions. 
+•
+Goodwill is tested for impairment at least annually or as circumstances indicate its value may no longer be recoverable.
+•
+We do not have any intangible assets with indefinite useful lives other than goodwill. 
+•
+We perform our annual goodwill impairment test as of November 30th. To assess if goodwill is impaired, we first perform a qualitative assessment to determine whether further impairment testing is necessary. If, based on the qualitative assessment, we consider it more-likely-than-not that our reporting unit's fair value is less than its carrying amount, we perform a quantitative impairment test. An excess of carrying value over fair value would indicate that goodwill may be impaired. 
+•
+We periodically reevaluate our business and have determined that we have one operating segment and one reporting unit. If our assumptions change in the future, we may be required to record impairment charges to reduce our goodwill's carrying value. Changes in the valuation of goodwill could materially impact our operating results and financial position.
+32
+As of December 31, 2024, we had $81.1 million of goodwill. Changes in the valuation of long-lived assets could materially impact our operating results and financial position. To date, there have been no impairments of goodwill.
+For additional information see "Note 2. Significant Accounting Policies" and "Note 7. Goodwill And Other Intangible Assets" in Item 8 of this Annual Report.
+Accounting for income taxes
+Significant judgment is required to determine our provision for income taxes and income tax assets and liabilities, including evaluating uncertainties in applying accounting principles and complex tax laws. Accordingly, changes in tax laws or our interpretation of tax laws and the resolution of any tax audits could significantly impact our financial statements.
+We regularly assess the need for a valuation allowance against our deferred tax assets. The future realization of our deferred tax assets ultimately depends on sufficient taxable income within the available carryback or carryforward periods. Changes in our valuation allowance impact income tax expense in the period of adjustment. Our deferred tax valuation allowance requires significant judgment and uncertainties, including assumptions about future taxable income based on historical and projected information. 
+We recognize deferred tax assets to the extent that we believe they are more likely than not to be realized. In making such a determination, we consider all available objective and verifiable negative and positive evidence, including future reversals of existing taxable temporary differences, projected future taxable income (including the impact of enacted legislation), tax-planning strategies and results of recent operations. The Company determined that the objectively and verifiable negative evidence outweighed the positive evidence, as such maintained a valuation allowance on our U.S. and U.K. deferred tax assets.
+We assess our income tax positions and record tax benefits based on management’s evaluation of the facts, circumstances, and information available at the reporting date. For those tax positions where it is more-likely-than-not that a tax benefit will be sustained, we record the largest amount of tax benefit with a greater than 50 percent likelihood of being realized upon ultimate settlement with a taxing authority having full knowledge of all relevant information. For those income tax positions where it is not more-likely-than-not that a tax benefit will be sustained, no tax benefit is recognized in the financial statements.
+As a global company, we use significant judgment to calculate and provide for income taxes in each of the tax jurisdictions in which we operate. In the ordinary course of our business, transactions and calculations occur whose ultimate tax outcome cannot be certain. Some of these uncertainties arise due to transfer pricing for transactions with our subsidiaries, the determination of tax nexus, and tax credit estimates. In addition, the calculation of acquired tax attributes and the associated limitations are complex. We estimate our exposure to unfavorable outcomes related to these uncertainties and the probability of such outcomes. 
+Although we believe our estimates are reasonable, there is no guarantee that the final tax outcome will not differ from what is reflected in our historical income tax provisions, returns, and accruals. Such differences, or changes in estimates relating to potential differences, could have a material impact on our income tax provision and operating results in the period such a determination is made.
+For additional information see "Note 2. Significant Accounting Policies" and "Note 18. Income Taxes" in Item 8 of this Annual Report.
+Loss Contingencies
+We are subject to various claims, including claims with customers and vendors, pending and potential legal actions for damages, investigations relating to governmental laws and regulations, and other matters arising out of the normal conduct of our business. When a loss is considered probable and reasonably estimable, we record a liability in the amount of our best estimate for the ultimate loss. However, the likelihood of a loss with respect to a particular contingency is often difficult to predict, and determining a meaningful estimate of the loss or a range of loss may not be practicable based on the information available and the potential effect of future events and decisions by third parties that will determine the ultimate resolution of the contingency. Moreover, it is common for such matters to be resolved over many years, during which time relevant developments and new information must be reevaluated at least quarterly to determine both the likelihood of potential loss and whether it is possible to reasonably estimate a range of possible loss. When a material loss is reasonably possible or probable, but a reasonable estimate cannot be made, disclosure of the proceeding is provided. Legal fees are recognized as incurred when the legal services are provided.
+We review all contingencies at least quarterly to determine whether the likelihood of loss has changed and to assess whether a reasonable estimate of the potential loss or range of the loss can be made. 
+See "Note 2. Significant Accounting Policies" and "Note 20. Commitments And Contingencies" in Item 8 of this Annual Report for additional information.
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Market risk is the risk of loss from adverse changes in financial market prices and rates.
+Foreign currency exposure
+Translation risk
+Our international operations’ operating expenses are primarily denominated in foreign currencies. However, our international sales are also primarily denominated in foreign currencies, partially offsetting our foreign currency exposure.
+33
+A hypothetical 10% strengthening in the U.S. dollar against other currencies would have resulted in the following:
+2024
+2023
+2022
+(Decrease) in revenue
+(4)
+%
+(4)
+%
+(3)
+%
+(Decrease) increase in net income
+(9)
+%
+(8)
+%
+2 
+%
+Remeasurement risk
+We incur transaction gains and losses from the remeasurement of monetary assets and liabilities denominated in currencies other than the functional currency of the entities in which they are recorded.
+We are primarily exposed to changes in foreign currency exchange rates associated with the Australian dollar, Euro, and U.S. dollar-denominated cash, cash equivalents, marketable securities, receivables, and intercompany balances held by our U.K. subsidiary, a British pound functional entity. 
+A hypothetical 10% strengthening in the British pound exchange rate in comparison to the Australian dollar, Euro, and U.S. dollar would have resulted in the following impact:
+(in thousands)
+December 31, 2024
+December 31, 2023
+December 31, 2022
+Foreign currency (loss)
+$
+(19,337)
+$
+(11,892)
+$
+(10,164)
+34
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Page
+Report of Independent Registered Public Accounting Firm (PCAOB ID No. 
+34
+)
+36
+Consolidated Balance Sheets as of December 31, 2024 and 2023
+38
+Consolidated Statements of Operations for the years ended December 31, 2024, 2023, and 2022
+39
+Consolidated Statements of Comprehensive Income (Loss) for the years ended December 31, 2024, 2023, and 2022
+40
+Consolidated Statements of Stockholders’ Equity for the years ended December 31, 2024, 2023, and 2022
+41
+Consolidated Statements of Cash Flows for the years ended December 31, 2024, 2023, and 2022
+42
+Notes to Consolidated Financial Statements
+44
+35
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the stockholders and the Board of Directors of Pegasystems Inc.
+Opinions on the Financial Statements and Internal Control over Financial Reporting
+We have audited the accompanying consolidated balance sheets of Pegasystems Inc. and subsidiaries (the "Company") as of December 31, 2024 and 2023, the related consolidated statements of operations, comprehensive income (loss), stockholders’ equity, and cash flows for each of the three years in the period ended December 31, 2024, and the related notes (collectively referred to as the “financial statements”). We also have audited the Company’s internal control over financial reporting as of December 31, 2024, based on criteria established in 
+Internal Control — Integrated Framework (2013) i
+ssued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO).
+In our opinion, the financial statements referred to above present fairly, in all material respects, the financial position of the Company as of December 31, 2024 and 2023, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2024, in conformity with accounting principles generally accepted in the United States of America. Also, in our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 31, 2024, based on criteria established in 
+Internal Control — Integrated Framework (2013)
+ issued by COSO. 
+Basis for Opinions
+The Company’s management is responsible for these financial statements, for maintaining effective internal control over financial reporting, and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management’s report on and changes in internal control over financial reporting. Our responsibility is to express an opinion on these financial statements and an opinion on the Company’s internal control over financial reporting based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud, and whether effective internal control over financial reporting was maintained in all material respects. 
+Our audits of the financial statements included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures to respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. Our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audits also included performing such other procedures as we considered necessary in the circumstances. We believe that our audits provide a reasonable basis for our opinions.
+Definition and Limitations of Internal Control over Financial Reporting
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements. 
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+Critical Audit Matter
+The critical audit matter communicated below is a matter arising from the current-period audit of the financial statements that was communicated or required to be communicated to the audit committee and that (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+Revenue Recognition - Software License Arrangements — Refer to Note 2 to the financial statements
+Critical Audit Matter Description
+The Company generates revenue from multiple sources, including software license revenue primarily derived from license sales of the Company’s Pega Platform and other software applications, maintenance revenue from client support, and services revenue primarily derived from cloud sales of the Company’s hosted Pega Platform and other software applications and consulting services. 
+The Company’s license and cloud contracts with clients (“arrangements”) often contain multiple performance obligations. These performance obligations may be included in the same contract or negotiated separately. Additionally, the Company enters into amendments to previously executed contracts which constitute contract modifications. Certain complex arrangements require that management performs a detailed analysis of the contractual terms and the application of more complex accounting guidance. Factors with potentially significant judgements include:
+•
+Identification of the complete client arrangement
+•
+Accounting treatment of contract modifications
+•
+Valuation and allocation of identified material rights
+•
+Allocation of arrangement consideration to bundled fixed price work orders
+Given the accounting complexity and the management judgment necessary to properly identify, classify, and account for performance obligations, auditing such estimates involved a high degree of auditor judgment when performing audit procedures and evaluating the license and cloud revenue arrangements.
+36
+How the Critical Audit Matter Was Addressed in the Audit
+Our audit procedures related to license and cloud revenue arrangements included the following, among others:
+•
+We tested the effectiveness of controls over revenue recognition, including those over the identification of performance obligations included in the transaction, accounting treatment of contract modifications, valuation and allocation of identified material rights, and allocation of arrangement consideration. 
+•
+We selected a sample of client arrangements, and performed the following: 
+◦
+Evaluated whether the Company properly identified the terms of the arrangements and considered all arrangement terms that may have an impact on revenue recognition.
+◦
+Evaluated whether the Company appropriately identified all performance obligations in the arrangement and whether the methodology to allocate the transaction price to the individual performance obligations was appropriately applied.
+◦
+Tested the accuracy of management’s calculation of revenue for each performance obligation by developing an expectation for the revenue to be recorded in the current period and comparing it to the Company’s recorded balances.
+◦
+Evaluated management’s assessment of any ongoing negotiations with clients and bundling with statements of work.
+◦
+Analyzed the proper accounting treatment for any contract modifications based on 1) whether the additional products and services are distinct from the products and services in the original arrangement, and 2) whether the amount of consideration expected for the added products and services reflects the stand-alone selling price of those products and services.
+◦
+Evaluated management’s determination of whether certain renewal clauses, additional product offers, or additional usage offers represent material rights included in the contract and whether they were properly valued based on the incremental discount provided and the probability of the right being exercised.
+◦
+For contracts with a performance obligation of bundled fixed price services, evaluated whether management reasonably estimated the number of hours that each project will require and independently recalculated the stand-alone selling price for each bundled fixed price service.
+◦
+Obtained evidence of delivery of the elements of the arrangement to the client. 
+/s/ 
+Deloitte & Touche LLP
+Boston, Massachusetts
+February 12, 2025 
+We have served as the Company's auditor since 2000.
+37
+PEGASYSTEMS INC.
+CONSOLIDATED BALANCE SHEETS
+(in thousands, except per share amounts)
+December 31, 2024
+December 31, 2023
+Assets
+Current assets:
+Cash and cash equivalents
+$
+337,103
+
+$
+229,902
+
+Marketable securities
+402,870
+
+193,436
+
+Total cash, cash equivalents, and marketable securities
+739,973
+
+423,338
+
+Accounts receivable, net
+305,468
+
+300,173
+
+Unbilled receivables, net
+173,085
+
+237,379
+
+Other current assets
+115,178
+
+68,137
+
+Total current assets
+1,333,704
+
+1,029,027
+
+Long-term unbilled receivables, net
+61,407
+
+85,402
+
+Goodwill
+81,113
+
+81,611
+
+Other long-term assets
+292,049
+
+314,696
+
+Total assets
+$
+1,768,273
+
+$
+1,510,736
+
+Liabilities and stockholders’ equity
+Current liabilities:
+Accounts payable
+$
+6,226
+
+$
+11,290
+
+Accrued expenses
+31,544
+
+39,941
+
+Accrued compensation and related expenses
+138,042
+
+126,640
+
+Deferred revenue
+423,910
+
+377,845
+
+Convertible senior notes, net
+467,470
+
+—
+
+Other current liabilities
+18,866
+
+21,343
+
+Total current liabilities
+1,086,058
+
+577,059
+
+Long-term convertible senior notes, net
+—
+
+499,368
+
+Long-term operating lease liabilities
+67,647
+
+66,901
+
+Other long-term liabilities
+29,088
+
+13,570
+
+Total liabilities
+1,182,793
+
+1,156,898
+
+Commitments and contingencies (Note 20)
+Stockholders’ equity:
+Preferred stock, $
+0.01
+ par value, 
+1,000
+ shares authorized; 
+none
+ issued
+—
+
+—
+
+Common stock, $
+0.01
+ par value, 
+200,000
+ shares authorized; 
+86,112
+ and 
+83,840
+ shares issued and outstanding as of December 31, 2024 and 2023, respectively
+861
+
+838
+
+Additional paid-in capital
+526,963
+
+379,584
+
+Retained earnings (accumulated deficit)
+87,901
+
+(
+8,705
+)
+Accumulated other comprehensive (loss)
+Net unrealized gain on available-for-sale securities, net of tax
+230
+
+669
+
+Foreign currency translation adjustments
+(
+30,475
+)
+(
+18,548
+)
+Total stockholders’ equity
+585,480
+
+353,838
+
+Total liabilities and stockholders’ equity
+$
+1,768,273
+
+$
+1,510,736
+
+See notes to consolidated financial statements.
+38
+PEGASYSTEMS INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(in thousands, except per share amounts)
+Year Ended December 31,
+2024
+2023
+2022
+Revenue
+Subscription services
+$
+882,038
+
+$
+793,184
+
+$
+701,835
+
+Subscription license
+398,102
+
+407,625
+
+366,063
+
+Consulting
+213,273
+
+221,706
+
+230,654
+
+Perpetual license
+3,767
+
+10,101
+
+19,293
+
+Total revenue
+1,497,180
+
+1,432,616
+
+1,317,845
+
+Cost of revenue
+Subscription services
+149,918
+
+144,250
+
+138,736
+
+Subscription license
+1,888
+
+2,606
+
+2,642
+
+Consulting
+238,842
+
+231,560
+
+227,082
+
+Perpetual license
+17
+
+67
+
+175
+
+Total cost of revenue
+390,665
+
+378,483
+
+368,635
+
+Gross profit
+1,106,515
+
+1,054,133
+
+949,210
+
+Operating expenses
+Selling and marketing
+534,780
+
+559,177
+
+624,789
+
+Research and development
+298,074
+
+295,512
+
+294,349
+
+General and administrative
+112,848
+
+96,743
+
+117,734
+
+Litigation settlement, net of recoveries
+32,403
+
+—
+
+—
+
+Restructuring
+4,528
+
+21,747
+
+21,743
+
+Total operating expenses
+982,633
+
+973,179
+
+1,058,615
+
+Income (loss) from operations
+123,882
+
+80,954
+
+(
+109,405
+)
+Foreign currency transaction (loss) gain
+(
+912
+)
+(
+5,242
+)
+4,560
+
+Interest income
+25,779
+
+9,259
+
+1,643
+
+Interest expense
+(
+6,835
+)
+(
+6,876
+)
+(
+7,792
+)
+(Loss) on capped call transactions
+(
+663
+)
+(
+1,348
+)
+(
+57,382
+)
+Other income, net
+1,385
+
+18,693
+
+6,579
+
+Income (loss) before provision for income taxes
+142,636
+
+95,440
+
+(
+161,797
+)
+Provision for income taxes
+43,447
+
+27,632
+
+183,785
+
+Net income (loss)
+$
+99,189
+
+$
+67,808
+
+$
+(
+345,582
+)
+Earnings (loss) per share
+Basic
+$
+1.16
+
+$
+0.82
+
+$
+(
+4.22
+)
+Diluted
+$
+1.11
+
+$
+0.73
+
+$
+(
+4.22
+)
+Weighted-average number of common shares outstanding
+Basic
+85,265
+
+83,162
+
+81,947
+
+Diluted
+89,634
+
+84,914
+
+81,947
+
+See notes to consolidated financial statements.
+39
+PEGASYSTEMS INC.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS)
+(in thousands)
+Year Ended December 31,
+2024
+2023
+2022
+Net income (loss)
+$
+99,189
+
+$
+67,808
+
+$
+(
+345,582
+)
+Other comprehensive (loss) income, net of tax
+Unrealized (loss) gain on available-for-sale securities
+(
+439
+)
+152
+
+(
+169
+)
+Foreign currency translation adjustments
+(
+11,927
+)
+5,039
+
+(
+15,913
+)
+Total other comprehensive (loss) income, net of tax
+(
+12,366
+)
+5,191
+
+(
+16,082
+)
+Comprehensive income (loss)
+$
+86,823
+
+$
+72,999
+
+$
+(
+361,664
+)
+See notes to consolidated financial statements.
+40
+PEGASYSTEMS INC.
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+(in thousands, except per share amounts)
+Common Stock
+Additional paid-in capital
+Retained earnings (accumulated deficit)
+Accumulated other comprehensive (loss)
+Total 
+stockholders’ equity
+Number 
+of shares
+Amount
+January 1, 2022
+81,712
+
+$
+817
+
+$
+145,810
+
+$
+276,449
+
+$
+(
+6,988
+)
+$
+416,088
+
+Repurchase of common stock
+(
+280
+)
+(
+2
+)
+(
+24,506
+)
+— 
+— 
+(
+24,508
+)
+Issuance of common stock for stock compensation plans
+754
+
+7
+
+(
+20,627
+)
+— 
+— 
+(
+20,620
+)
+Issuance of common stock under the employee stock purchase plan
+250
+
+2
+
+9,170
+
+— 
+— 
+9,172
+
+Stock-based compensation
+— 
+— 
+122,229
+
+— 
+— 
+122,229
+
+Cash dividends declared ($
+0.12
+ per share)
+— 
+— 
+(
+2,474
+)
+(
+7,380
+)
+— 
+(
+9,854
+)
+Other comprehensive (loss)
+— 
+— 
+— 
+— 
+(
+16,082
+)
+(
+16,082
+)
+Net (loss)
+— 
+— 
+— 
+(
+345,582
+)
+— 
+(
+345,582
+)
+December 31, 2022
+82,436
+
+$
+824
+
+$
+229,602
+
+$
+(
+76,513
+)
+$
+(
+23,070
+)
+$
+130,843
+
+Issuance of common stock for stock compensation plans
+1,212
+
+12
+
+8,893
+
+— 
+— 
+8,905
+
+Issuance of common stock under the employee stock purchase plan
+192
+
+2
+
+7,742
+
+— 
+— 
+7,744
+
+Stock-based compensation
+— 
+— 
+143,352
+
+— 
+— 
+143,352
+
+Cash dividends declared ($
+0.12
+ per share)
+— 
+— 
+(
+10,005
+)
+— 
+— 
+(
+10,005
+)
+Other comprehensive income
+— 
+— 
+— 
+— 
+5,191
+
+5,191
+
+Net income
+— 
+— 
+— 
+67,808
+
+— 
+67,808
+
+December 31, 2023
+83,840
+
+$
+838
+
+$
+379,584
+
+$
+(
+8,705
+)
+$
+(
+17,879
+)
+$
+353,838
+
+Repurchase of common stock
+(
+825
+)
+(
+8
+)
+(
+69,549
+)
+— 
+— 
+(
+69,557
+)
+Issuance of common stock for stock compensation plans
+2,985
+
+30
+
+75,186
+
+— 
+— 
+75,216
+
+Issuance of common stock under the employee stock purchase plan
+112
+
+1
+
+6,708
+
+— 
+— 
+6,709
+
+Stock-based compensation
+— 
+— 
+142,718
+
+— 
+— 
+142,718
+
+Cash dividends declared ($
+0.12
+ per share)
+— 
+— 
+(
+7,684
+)
+(
+2,583
+)
+— 
+(
+10,267
+)
+Other comprehensive (loss)
+— 
+— 
+— 
+— 
+(
+12,366
+)
+(
+12,366
+)
+Net income
+— 
+— 
+— 
+99,189
+
+— 
+99,189
+
+December 31, 2024
+86,112
+
+$
+861
+
+$
+526,963
+
+$
+87,901
+
+$
+(
+30,245
+)
+$
+585,480
+
+See notes to consolidated financial statements.
+41
+PEGASYSTEMS INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in thousands)
+Year Ended December 31,
+2024
+2023
+2022
+Operating activities
+Net income (loss)
+$
+99,189
+
+$
+67,808
+
+$
+(
+345,582
+)
+Adjustments to reconcile net income (loss) to cash provided by operating activities
+Stock-based compensation
+142,718
+
+143,352
+
+122,210
+
+Amortization of deferred commissions
+62,269
+
+59,461
+
+53,471
+
+Amortization of intangible assets and depreciation
+17,585
+
+18,746
+
+18,780
+
+Amortization of right-of-use lease assets
+17,842
+
+15,912
+
+15,940
+
+Foreign currency transaction loss (gain)
+912
+
+5,242
+
+(
+4,560
+)
+Loss on capped call transactions
+663
+
+1,348
+
+57,382
+
+Deferred income taxes
+(
+1,544
+)
+363
+
+168,890
+
+(Accretion) amortization of investments 
+(
+15,263
+)
+(
+3,302
+)
+1,972
+
+(Gain) on investments
+(
+869
+)
+(
+10,841
+)
+(
+6,578
+)
+(Gain) on repurchases of convertible senior notes
+(
+459
+)
+(
+7,855
+)
+—
+
+Other non-cash
+3,728
+
+5,557
+
+4,763
+
+Change in operating assets and liabilities:
+Accounts receivable, unbilled receivables, and contract assets
+79,034
+
+(
+57,602
+)
+(
+51,157
+)
+Other current assets
+(
+50,005
+)
+11,360
+
+(
+9,133
+)
+Other current liabilities
+(
+7,115
+)
+(
+8,777
+)
+529
+
+Deferred revenue
+48,360
+
+45,123
+
+62,578
+
+Deferred commissions
+(
+57,628
+)
+(
+44,529
+)
+(
+53,857
+)
+Other long-term assets and liabilities
+6,509
+
+(
+23,581
+)
+(
+13,312
+)
+Cash provided by operating activities
+345,926
+
+217,785
+
+22,336
+
+Investing activities
+Purchases of investments
+(
+559,365
+)
+(
+287,287
+)
+(
+41,015
+)
+Proceeds from maturities and called investments
+364,501
+
+242,593
+
+66,583
+
+Sales of investments
+—
+
+10,725
+
+23,808
+
+Payments for acquisitions, net of cash acquired
+—
+
+—
+
+(
+922
+)
+Investment in property and equipment
+(
+7,712
+)
+(
+16,781
+)
+(
+35,379
+)
+Cash (used in) provided by investing activities
+(
+202,576
+)
+(
+50,750
+)
+13,075
+
+Financing activities
+Repurchases of convertible senior notes
+(
+33,890
+)
+(
+88,989
+)
+—
+
+Dividend payments to stockholders
+(
+10,199
+)
+(
+9,964
+)
+(
+9,834
+)
+Proceeds from employee stock purchase plan
+6,709
+
+7,744
+
+9,172
+
+Proceeds from stock option exercises
+80,651
+
+10,821
+
+—
+
+Common stock repurchases for tax withholdings for net settlement of equity awards
+(
+5,435
+)
+(
+1,916
+)
+(
+20,620
+)
+Common stock repurchases under stock repurchase program
+(
+68,057
+)
+—
+
+(
+25,707
+)
+Other
+7
+
+341
+
+—
+
+Cash (used in) financing activities
+(
+30,214
+)
+(
+81,963
+)
+(
+46,989
+)
+Effect of exchange rate changes on cash, cash equivalents, and restricted cash
+(
+4,434
+)
+2,701
+
+(
+3,333
+)
+Net increase (decrease) in cash, cash equivalents and restricted cash
+108,702
+
+87,773
+
+(
+14,911
+)
+Cash, cash equivalents, and restricted cash, beginning of period
+232,827
+
+145,054
+
+159,965
+
+Cash, cash equivalents, and restricted cash, end of period
+$
+341,529
+
+$
+232,827
+
+$
+145,054
+
+Cash and cash equivalents
+$
+337,103
+
+$
+229,902
+
+$
+145,054
+
+Restricted cash included in other current assets
+98
+
+—
+
+—
+
+Restricted cash included in other long-term assets
+4,328
+
+2,925
+
+—
+
+Total cash, cash equivalents and restricted cash
+$
+341,529
+
+$
+232,827
+
+$
+145,054
+
+42
+Supplemental disclosures
+Interest paid on convertible notes
+$
+3,810
+
+$
+4,134
+
+$
+4,500
+
+Income taxes paid
+$
+82,317
+
+$
+11,664
+
+$
+7,645
+
+Non-cash investing and financing activity:
+Investment in property and equipment included in accounts payable and accrued liabilities
+$
+1,723
+
+$
+66
+
+$
+9,914
+
+Dividends payable
+$
+2,583
+
+$
+2,515
+
+$
+2,474
+
+See notes to consolidated financial statements.
+43
+PEGASYSTEMS INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+1. BASIS OF PRESENTATION
+Business
+The Company develops, markets, licenses, hosts, and supports enterprise software that helps organizations optimize decisions and processes in real-time. The Company’s platform for enterprise artificial intelligence (“AI”) decisioning and workflow automation enables clients to personalize customer experiences, automate customer service, and streamline operations, business processes, and workflows. The Company provides consulting, training, support, and hosting services to facilitate the use of its software.
+Management estimates and reporting
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America (“U.S.”) requires management to make estimates and judgments that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the periods presented. Actual results could differ from those estimates. Accounts with reported amounts based on significant estimates and judgments include, but are not limited to, revenue, unbilled receivables, deferred revenue, deferred income taxes, deferred commissions, income taxes payable, convertible senior notes, and goodwill.
+Principles of consolidation
+The Company’s consolidated financial statements reflect Pegasystems Inc. and subsidiaries in which the Company holds a controlling financial interest. All intercompany accounts and transactions were eliminated in consolidation.
+Reclassifications
+Certain prior period amounts reported in our consolidated financial statements and notes thereto have been reclassified to conform to the current year presentation. Such reclassifications did not affect total revenues, income (loss) from operations, or net income (loss).
+2. SIGNIFICANT ACCOUNTING POLICIES
+Revenue
+The Company’s revenue is primarily derived from:
+•
+Subscription services, composed of revenue from Pega Cloud and maintenance. Pega Cloud is the Company’s hosted Pega Platform and software applications. Maintenance revenue is earned from providing client support, software upgrades, and bug fixes or patches.
+•
+Subscription license, composed of revenue from term license arrangements for the Company’s Pega Platform and software applications. Term licenses represent functional intellectual property and are delivered separately from maintenance and services. 
+•
+Perpetual license, composed of revenue from perpetual license arrangements for the Company’s Pega Platform and software applications. Perpetual licenses represent functional intellectual property and are delivered separately from maintenance and services. 
+•
+Consulting, primarily related to new software license implementations, training, and reimbursable costs.
+Performance obligations
+The Company’s software license and Pega Cloud arrangements often contain multiple performance obligations. If a contract contains multiple performance obligations, the Company accounts for each distinct performance obligation separately. The transaction price is allocated to the separate performance obligations on a relative stand-alone selling price basis. Any discounts or expected potential future price concessions are considered when determining the total transaction price. The Company’s policy is to exclude sales and similar taxes collected from clients from the determination of transaction price.
+44
+The Company’s typical performance obligations are:
+Performance obligation
+How stand-alone selling price is typically determined
+When performance obligation is typically satisfied
+When payment is typically due
+Income statement line item
+Pega Cloud
+Residual approach
+Ratably over the term of the service (over time)
+Annually, or more frequently, over the term of the service
+Subscription services
+Term license
+Residual approach
+Upon transfer of control to the client, defined as when the client can use and benefit from the license (point in time)
+Annually, or more frequently, over the term of the license
+Subscription license
+Maintenance
+Consistent pricing relationship as a percentage of the related license and observable in stand-alone renewal transactions 
+(1)
+Ratably over the term of the maintenance (over time)
+Annually, or more frequently, over the term of the maintenance
+Subscription services
+Perpetual license
+Residual approach
+Upon transfer of control to the client, defined as when the client can use and benefit from the license (point in time)
+Effective date of the license
+Perpetual license
+Consulting
+- time and materials
+Observable hourly rate for time and materials-based services in similar geographies
+Based on hours incurred to date (over time)
+Monthly
+Consulting
+Consulting 
+- fixed price
+Observable hourly rate for time and materials-based services in similar geographies multiplied by estimated hours for the project
+Based on hours incurred as a percentage of total estimated hours (over time)
+As contract milestones are achieved
+Consulting
+(1) Technical support and software updates are considered distinct services but accounted for as a single performance obligation, as they have the same pattern of transfer to the client.
+The Company utilizes the residual approach for software license and Pega Cloud performance obligations since the selling price is highly variable and the stand-alone selling price is not discernible from past transactions or other observable evidence. Periodically, the Company reevaluates whether the residual approach remains appropriate. As required, the Company evaluates its residual approach estimate compared to all available observable data before concluding the estimate represents its stand-alone selling price.
+If the contract grants the client the option to acquire additional products or services, the Company assesses whether the option represents a material right to the client that the client would not receive without entering into that contract. Discounts on options to purchase additional products and services greater than discounts available to similar clients are accounted for as an additional performance obligation.
+During most of each client contract term, the amount invoiced is generally less than the amount of revenue recognized to date, primarily because we transfer control of the performance obligation related to the software license at the inception of the contract term. A significant portion of the total contract consideration is typically allocated to the license performance obligation. Therefore, the Company’s contracts often result in the recording of unbilled receivables and contract assets throughout most of the contract term. The Company records an unbilled receivable or contract asset when revenue recognized on a contract exceeds the billings. The Company recognizes an impairment on receivables and contract assets if, after contract inception, it becomes probable that payment is not collectible. The Company reviews receivables and contract assets on an individual basis for impairment.
+Variable consideration
+The Company’s arrangements can include variable fees, such as the option to purchase additional usage of a previously delivered software license. The Company may also provide pricing concessions to clients, a business practice that gives rise to variable fees. For variable fees arising from the client’s acquisition of additional usage of a previously delivered software license, the Company applies the sales and usage-based royalties guidance related to a license of intellectual property and recognizes the revenue in the period the underlying sale or usage occurs. The Company includes variable fees in the determination of total transaction price if it is not probable that a significant future reversal of revenue will occur. The Company uses the expected value or most likely value amount, whichever is more appropriate for specific circumstances, to estimate variable consideration, and the estimates are based on the level of historical price concessions offered to clients. The variable consideration related to pricing concessions and other forms of variable consideration, including usage-based fees, have not been material to the Company’s consolidated financial statements.
+Significant financing components
+The Company generally does not intend to provide financing to its clients, as financing arrangements are not contemplated as part of the negotiated terms of contracts between the Company and its clients. Although there may be an intervening period between the delivery of the license and the payment, typically in term license arrangements, the purpose of that timing difference is to align the client’s payment with the timing of the use of the software license or service.
+In certain circumstances, however, there are instances where revenue recognition timing differs from the timing of payment due to extended payment terms or fees that are non-proportional to the associated usage of software licenses. In these instances, the Company evaluates whether a significant financing component exists. This evaluation includes determining the difference between the consideration the client would have paid when the performance obligation was satisfied and the amount of consideration paid. Contracts that include a significant financing component are adjusted for the time value of money at the rate inherent in the contract, the client’s borrowing rate, or the Company’s incremental borrowing rate, depending upon the recipient of the financing. 
+During 2024, 2023, and 2022, significant financing components were not material.
+45
+Contract modifications
+The Company assesses contract modifications to determine:
+•
+if the additional products and services are distinct from the products and services in the original arrangement; and
+•
+if the amount of consideration expected for the added products and services reflects the stand-alone selling price of those products and services.
+A contract modification meeting both criteria is accounted for as a separate contract. If a contract modification does not meet both criteria, it is accounted for either:
+•
+on a prospective basis as a termination of the existing contract and the creation of a new contract; or
+•
+on a cumulative catch-up basis.
+Deferred commissions
+The Company recognizes an asset for the incremental costs of obtaining a client contract, primarily related to sales commissions. The Company expects to benefit from those costs for more than one year. Commissions earned upon the execution of initial contracts are allocated to each performance obligation within the contract and amortized according to the transfer of underlying goods and services within those contracts and expected renewals. The expected benefit period is determined based on the length of the client contracts, client attrition rates, the underlying technology lifecycle, and the competitive marketplace’s influence on the products and services sold. Deferred costs allocated to maintenance and deferred costs for Pega Cloud arrangements are amortized over an average expected benefit period of 
+4.5
+ years. Deferred costs allocated to software licenses, and any expected renewals of term software licenses within the 
+4.5
+ years expected benefit period, are amortized at the point in time control of the software license is transferred. Deferred costs allocated to consulting are amortized over a period consistent with the pattern of transfer of control for the related services. Commissions earned on contract amendments and renewals are allocated to each performance obligation within the contract and amortized over the contractual term.
+Financial instruments
+The principal financial instruments held by the Company consist of cash equivalents, marketable securities, receivables, capped call transactions, and accounts payable. The Company considers debt securities readily convertible to known amounts of cash with maturities of three months or less from the purchase date to be cash equivalents. Interest is recorded when earned. The Company’s investments are classified as available-for-sale and are carried at fair value. Unrealized gains and losses considered temporary are recorded as a component of accumulated other comprehensive (loss), net of related income taxes. The Company reviews all investments for reductions in fair value that are other-than-temporary. When such reductions occur, the investment cost is adjusted to fair value by recording a loss on investments in the consolidated statements of operations. Gains and losses on investments are calculated based on the specific investment.
+For additional information see "Note 4. Receivables, Contract Assets, And Deferred Revenue", "Note 11. Debt", and "Note 13. Fair Value Measurements".
+Property and equipment
+Property and equipment are recorded at cost. Depreciation and amortization are computed using the straight-line method over the estimated useful life of each asset, which are 
+three years
+ for computer equipment and 
+five years
+ for furniture and fixtures. Leasehold improvements are amortized over the lesser of the lease’s term or the useful life of the asset. Repairs and maintenance costs are expensed as incurred.
+Leases
+All of the Company’s leases are operating leases, primarily composed of office space leases. The Company accounts for a contract as a lease when it has the right to control the asset for a period of time while obtaining substantially all of the asset’s economic benefits. The Company determines the initial classification and measurement of its operating right of use assets and lease liabilities at the lease commencement date and thereafter if modified. Fixed lease costs are recognized on a straight-line basis over the lease term. Variable lease costs include payments required under leases for common area maintenance, real estate taxes, utilities, service charges, and other variable costs that are not reflected in the measurement of right of use assets and lease liabilities and are recognized in the period in which the obligation for those payments is incurred. The Company combines lease and non-lease components when determining lease costs for its office space leases. The lease liability includes lease payments related to options to extend or renew the lease term if the Company is reasonably certain it will exercise those options. The Company’s leases do not contain material residual value guarantees or restrictive covenants.
+Loss contingencies and legal costs
+The Company accrues loss contingencies when it is probable that a liability has been incurred and the amount of the loss can be reasonably estimated. 
+46
+Significant judgments are required to determine the probability and the range of the outcomes, and the estimates are based only on the information available to the Company at the time. Due to the inherent uncertainties involved in claims, legal proceedings, and in estimating the losses that may arise, actual outcomes may differ from the Company’s estimates. Contingencies deemed not probable, or for which losses were not estimable in one period, may become probable or losses may become estimable in later periods, which may have a material impact on the Company’s results of operations and financial position. As additional information becomes available, the Company reassesses the potential liability from pending claims and litigation and may revise its estimates. Regardless of the outcome, legal disputes can have a material effect on the Company because of defense and settlement costs, diversion of management resources and other factors. Legal costs are expensed as incurred.
+
+Internal-use software 
+The Company capitalizes and amortizes certain direct costs associated with computer software developed or purchased for internal use incurred during the application development stage. Costs related to preliminary project activities and post-implementation activities are expensed as incurred. The Company amortizes capitalized internal-use software on a straight-line basis over its estimated useful life, which is generally over 
+three
+ to 
+five years
+, commencing on the date the software is placed into service.
+
+Goodwill
+Goodwill represents the residual purchase price paid in a business combination after the fair value of all identified assets and liabilities have been recorded. Goodwill is not amortized. The Company has a single reporting unit.
+ The Company performed qualitative assessments as of November 30, 2024, 2023, and 2022, respectively, and concluded that there was no impairment since it was not more-likely-than-not that the fair value of its reporting unit was less than its carrying value. 
+Intangible and long-lived assets
+The Company’s intangible assets are amortized using the straight-line method over their estimated useful life. The Company evaluates its long-lived tangible and intangible assets for impairment whenever events or changes in circumstances indicate that such assets’ carrying amount may not be recoverable. Impairment is assessed by comparing the undiscounted cash flows expected to be generated by the long-lived tangible or intangible assets to their carrying value. If impairment exists, the Company calculates the impairment by comparing the carrying value to its fair value as determined by discounted expected cash flows.
+Cash equivalents
+Cash equivalents include money market funds and other investments with original maturities of three months or less.
+Restricted cash
+The Company records restricted cash amounts as a current asset on the consolidated balance sheets if the restriction expires in less than 12 months, or as a non-current asset if the restriction is greater than 12 months. If there is no minimum time frame during which the cash must remain restricted, the nature of the transactions related to the restriction determine the classification. Restricted cash primarily relates to amounts deposited to secure customer guarantees and various letters of credit.
+Business combinations
+The Company uses its estimates and assumptions to assign a fair value to the tangible and intangible assets acquired and liabilities assumed at the acquisition date. The Company’s estimates are inherently uncertain and subject to refinement. During the measurement period, which may be up to one year from the acquisition date, the Company may record adjustments to the fair value of these tangible and intangible assets acquired and liabilities assumed, with the corresponding offset to goodwill. In addition, uncertain tax positions and tax-related valuation allowances are initially established in connection with a business combination as of the acquisition date. The Company reevaluates these estimates and assumptions quarterly as new information arises and records any adjustments to the Company’s preliminary estimates to goodwill provided that the Company is within the measurement period. Upon the conclusion of the measurement period or final determination of the fair value of assets acquired or liabilities assumed, whichever comes first, any subsequent adjustments are recorded to the Company’s consolidated statements of operations.
+Research and development and software development costs
+Research and development costs are expensed as incurred. Capitalization of computer software developed for resale begins upon the establishment of technological feasibility, generally demonstrated by a working model or an operative version of the computer software product. Such costs have not been material to date, as technological feasibility is established within a short time frame from the software’s general availability.
+ As a result, 
+no
+ costs were capitalized in 2024, 2023, or 2022.
+47
+Stock-based compensation
+The Company recognizes stock-based compensation expense associated with equity awards based on the award’s fair value at the grant date. Stock-based compensation expense is adjusted each period for anticipated forfeitures. For service-based awards, stock-based compensation is recognized over the requisite service period, which is generally the vesting period. For performance-based awards, stock-based compensation expense is recognized over the longer of (a) the implicit service period for performance-metric achievement or (b) the requisite service period. During each reporting period, stock-based compensation expense is recorded based on expected achievement of performance targets. Changes in estimates of the expected achievement of performance targets that result in a change in the number of shares that are expected to vest are recognized on a cumulative catch-up basis during the reporting period in which the estimate changed.
+ See "Note 16. Stock-Based Compensation" for a discussion of the Company’s key assumptions when determining the fair value of its equity awards at the grant date.
+Foreign currency translation and remeasurement
+The translation of assets and liabilities for the Company’s subsidiaries with functional currencies other than the U.S. dollar are made at period-end exchange rates. Revenue and expense accounts are translated at the average exchange rates during the period transactions occur. The resulting translation adjustments are reflected in accumulated other comprehensive (loss). Realized and unrealized exchange gains or losses from transactions and remeasurement adjustments are reflected in foreign currency transaction gain (loss) in the accompanying consolidated statements of operations.
+Accounting for income taxes
+The Company uses the asset and liability method of accounting for income taxes. Under this method, deferred tax assets and liabilities are determined based on temporary differences between the financial statement and tax basis of assets and liabilities using enacted tax rates in effect for the year in which the differences are expected to reverse. The Company regularly assesses the need for a valuation allowance against its deferred tax assets. Future realization of the Company’s deferred tax assets ultimately depends on sufficient taxable income within the available carryback or carryforward periods. Taxable income sources include taxable income in prior carryback years, future reversals of existing taxable temporary differences, tax planning strategies, and projected future taxable income. The Company records a valuation allowance to reduce its deferred tax assets to an amount it believes is more-likely-than-not to be realized. Changes in the valuation allowance impact income tax expense in the period of adjustment. The Company recognizes excess tax benefits when realized, as a reduction of the provision for income taxes. 
+The Company assesses its income tax positions and records tax benefits based on management’s evaluation of the facts, circumstances, and information available at the reporting date. For those tax positions where it is more-likely-than-not that a tax benefit will be sustained, the Company records the largest amount of tax benefit with a greater than 50 percent likelihood of being realized upon ultimate settlement with a taxing authority having full knowledge of all relevant information. For those income tax positions where it is not more-likely-than-not that a tax benefit will be sustained, no tax benefit is recognized in the financial statements. The Company classifies liabilities for uncertain tax positions as non-current liabilities unless the uncertainty is expected to be resolved within one year. The Company classifies interest and penalties on uncertain tax positions as income tax expense.
+As a global company, significant judgment must be used to calculate and provide for income taxes in each of the tax jurisdictions in which it operates. In the ordinary course of the Company’s business, there are transactions and calculations undertaken whose ultimate tax outcome cannot be certain. Some of these uncertainties arise because of transfer pricing for transactions with the Company’s subsidiaries and nexus and tax credit estimates. In addition, the calculation of acquired tax attributes and the associated limitations are complex.
+For additional information, see "Note 18. Income Taxes".
+Advertising expense
+Advertising costs are expensed as incurred.
+ Advertising expenses were $
+4.7
+ million, $
+3.5
+ million, and $
+6.6
+ million during 2024, 2023, and 2022, respectively.
+Newly adopted accounting pronouncements
+Segment reporting
+In November 2023, the FASB issued ASU 2023-07,
+ Improvements to Reportable Segment Disclosures 
+(“ASU 2023-07”). The amendments in ASU 2023-07 are effective for all public entities for fiscal years beginning after December 15, 2023 and interim periods within fiscal years beginning after December 15, 2024. ASU 2023-07 did not change how a public entity identifies its operating segments, aggregates those operating segments, or applies the quantitative thresholds to determine its reportable segments. Under ASU 2023-07, public entities with a single reportable segment must apply all of the ASU’s disclosure requirements and the existing segment disclosure and reconciliation requirements in ASC 280 - Segment Reporting on an annual and interim basis. The Company implemented this ASU in 2024 and its impact was immaterial.
+Accounting pronouncements not yet effective
+Improvements to Income Tax Disclosures
+48
+In December 2023, the FASB issued ASU 2023-09
+, Income Taxes (Topic 740): Improvements to Income Tax Disclosures 
+(“ASU 2023-09”). ASU 2023-09 includes expanded income tax rate reconciliation disclosures, a disaggregation of income taxes paid, and other expanded disclosures. The ASU will be effective for the Company for the year ending December 31, 2025. The Company expects the adoption to result in disclosure changes only.
+Disaggregation of Income Statement Expenses
+In November 2024, the FASB issued ASU 2024-03
+, Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses 
+(ASU “2024-03”). Among other items, the requirements include expanded disclosures around employee compensation and selling expenses. ASU 2024-03 will be effective for the Company for the year ending December 31, 2027. The Company is still evaluating the impact of this new guidance on its consolidated financial statements but expect the adoption to result in disclosure changes only.
+3. MARKETABLE SECURITIES
+December 31, 2024
+December 31, 2023
+(in thousands)
+Amortized Cost
+Unrealized Gains
+Unrealized Losses
+Fair Value
+Amortized Cost
+Unrealized Gains
+Unrealized Losses
+Fair Value
+Government debt
+$
+11,851
+
+$
+1
+
+$
+(
+19
+)
+$
+11,833
+
+$
+11,471
+
+$
+33
+
+$
+(
+1
+)
+$
+11,503
+
+Corporate debt
+391,097
+
+63
+
+(
+123
+)
+391,037
+
+181,960
+
+200
+
+(
+227
+)
+181,933
+
+$
+402,948
+
+$
+64
+
+$
+(
+142
+)
+$
+402,870
+
+$
+193,431
+
+$
+233
+
+$
+(
+228
+)
+$
+193,436
+
+As of December 31, 2024, marketable securities’ maturities ranged from January 2025 to December 2027, with a weighted-average remaining maturity of 
+0.3
+ years.
+4. RECEIVABLES, CONTRACT ASSETS, AND DEFERRED REVENUE
+Receivables
+(in thousands)
+December 31, 2024
+December 31, 2023
+Accounts receivable, net
+$
+305,468
+
+$
+300,173
+
+Unbilled receivables, net
+173,085
+
+237,379
+
+Long-term unbilled receivables, net
+61,407
+
+85,402
+
+$
+539,960
+
+$
+622,954
+
+Unbilled receivables
+Unbilled receivables are client-committed amounts for which revenue recognition precedes billing. Billing is solely subject to the passage of time.
+Unbilled receivables by expected collection date:
+(Dollars in thousands)
+December 31, 2024
+1 year or less
+$
+173,085
+
+74
+
+%
+1-2 years
+43,341
+
+18
+
+%
+2-5 years
+18,066
+
+8
+
+%
+$
+234,492
+
+100
+
+%
+Unbilled receivables by contract effective date:
+(Dollars in thousands)
+December 31, 2024
+2024
+$
+137,027
+
+58
+
+%
+2023
+79,650
+
+35
+
+%
+2022
+10,357
+
+4
+
+%
+2021
+5,836
+
+2
+
+%
+2020 and prior
+1,622
+
+1
+
+%
+$
+234,492
+
+100
+
+%
+Major clients
+Clients that represented 10% or more of the Company’s total accounts receivable and unbilled receivables:
+December 31, 2024
+December 31, 2023
+Client A
+Accounts receivable
+20
+
+%
+*
+Unbilled receivables
+—
+
+%
+*
+Total receivables
+11
+
+%
+*
+49
+* Client accounted for less than 10% of receivables.
+Contract assets
+Contract assets are client-committed amounts for which revenue recognized exceeds the amount billed to the client, and billing is subject to conditions other than the passage of time, such as the completion of a related performance obligation.
+(in thousands)
+December 31, 2024
+December 31, 2023
+Contract assets 
+(1)
+$
+13,498
+
+$
+16,238
+
+Long-term contract assets 
+(2)
+18,321
+
+20,635
+
+$
+31,819
+
+$
+36,873
+
+(1) Included in other current assets.
+(2) Included in other long-term assets.
+Deferred revenue
+Deferred revenue consists of billings made and payments received in advance of revenue recognition.
+(in thousands)
+December 31, 2024
+December 31, 2023
+Deferred revenue
+$
+423,910
+
+$
+377,845
+
+Long-term deferred revenue 
+(1)
+2,121
+
+2,478
+
+$
+426,031
+
+$
+380,323
+
+ (1) Included in other long-term liabilities.
+The change in deferred revenue in 2024 was primarily due to new billings in advance of revenue recognition and $
+374.1
+ million of revenue recognized during the period included in deferred revenue as of December 31, 2023.
+5. DEFERRED COMMISSIONS 
+December 31,
+(in thousands)
+2024
+2023
+Deferred commissions 
+(1) 
+$
+105,405
+
+$
+114,119
+
+(1) Included in other long-term assets.
+(in thousands)
+2024
+2023
+2022
+Amortization of deferred commissions 
+(1)
+$
+62,269
+
+$
+59,461
+
+$
+53,471
+
+(1) Included in selling and marketing expenses.
+6. PROPERTY AND EQUIPMENT 
+(1)
+(in thousands)
+December 31,
+2024
+2023
+Leasehold improvements
+$
+51,932
+
+$
+62,787
+
+Computer equipment
+29,817
+
+31,144
+
+Furniture and fixtures
+4,603
+
+6,665
+
+Computer software purchased
+9,918
+
+10,060
+
+Computer software developed for internal use
+19,776
+
+19,470
+
+Fixed assets in progress
+5,038
+
+223
+
+121,084
+
+130,349
+
+Less: accumulated depreciation
+(
+79,278
+)
+(
+83,070
+)
+$
+41,806
+
+$
+47,279
+
+(1) Included in other long-term assets. 
+During 2024, $
+17.8
+ million of depreciated assets were disposed of, which primarily related to office closures.
+(in thousands)
+2024
+2023
+2022
+Depreciation expense
+$
+14,432
+
+$
+14,806
+
+$
+14,687
+
+50
+7. GOODWILL AND OTHER INTANGIBLE ASSETS
+Goodwill
+(in thousands)
+2024
+2023
+January 1,
+$
+81,611
+
+$
+81,399
+
+Currency translation adjustments
+(
+498
+)
+212
+
+December 31,
+$
+81,113
+
+$
+81,611
+
+Intangibles
+Intangible assets are recorded at cost and amortized using the straight-line method over their estimated useful lives:
+December 31, 2024
+(in thousands)
+Useful Lives
+Cost
+Accumulated Amortization
+Net Book Value 
+(1)
+Client-related
+4
+-
+10
+ years
+$
+63,107
+
+$
+(
+61,395
+)
+$
+1,712
+
+Technology
+2
+-
+10
+ years
+68,115
+
+(
+65,995
+)
+2,120
+
+Other
+1
+-
+5
+ years
+5,361
+
+(
+5,361
+)
+—
+
+$
+136,583
+
+$
+(
+132,751
+)
+$
+3,832
+
+(1)
+ Included in other long-term assets.
+December 31, 2023
+(in thousands)
+Useful Lives
+Cost
+Accumulated Amortization
+Net Book Value 
+(1)
+Client-related
+4
+-
+10
+ years
+$
+63,117
+
+$
+(
+60,035
+)
+$
+3,082
+
+Technology
+2
+-
+10
+ years
+68,138
+
+(
+64,218
+)
+3,920
+
+Other
+1
+-
+5
+ years
+5,361
+
+(
+5,361
+)
+—
+
+$
+136,616
+
+$
+(
+129,614
+)
+$
+7,002
+
+(1) 
+Included in other long-term assets.
+Future estimated intangible assets amortization:
+(in thousands)
+December 31, 2024
+2025
+$
+2,630
+
+2026
+874
+
+2027
+328
+
+$
+3,832
+
+Amortization of intangible assets: 
+(in thousands)
+2024
+2023
+2022
+Cost of revenue
+$
+1,783
+
+$
+2,570
+
+$
+2,723
+
+Selling and marketing
+1,370
+
+1,370
+
+1,370
+
+$
+3,153
+
+$
+3,940
+
+$
+4,093
+
+8. OTHER ASSETS AND LIABILITIES
+Other current assets
+(in thousands)
+December 31, 2024
+December 31, 2023
+Prepaid expenses
+$
+38,155
+
+$
+33,647
+
+Income tax receivables
+58,359
+
+4,804
+
+Contract assets
+13,498
+
+16,238
+
+Insurance receivable
+—
+
+1,954
+
+Indirect tax receivable
+2,488
+
+1,924
+
+Capped call transactions
+223
+
+—
+
+Restricted cash
+98
+
+—
+
+Other
+2,357
+
+9,570
+
+$
+115,178
+
+$
+68,137
+
+51
+Other long-term assets
+(in thousands)
+December 31, 2024
+December 31, 2023
+Deferred commissions
+$
+105,405
+
+$
+114,119
+
+Right of use assets
+62,429
+
+64,198
+
+Property and equipment
+41,806
+
+47,279
+
+Venture investments
+21,234
+
+19,450
+
+Contract assets
+18,321
+
+20,635
+
+Income tax receivables
+13,299
+
+20,633
+
+Intangible assets
+3,832
+
+7,002
+
+Capped call transactions
+—
+
+893
+
+Deferred income taxes
+4,268
+
+3,678
+
+Restricted cash
+4,328
+
+2,925
+
+Other
+17,127
+
+13,884
+
+$
+292,049
+
+$
+314,696
+
+Accrued expenses
+(in thousands)
+December 31, 2024
+December 31, 2023
+Cloud hosting
+$
+1,802
+
+$
+1,358
+
+Outside professional services
+10,639
+
+10,419
+
+Marketing and sales program
+2,150
+
+2,557
+
+Income and other taxes
+5,055
+
+15,428
+
+Employee related
+4,833
+
+4,486
+
+Repurchases of common stock unsettled
+1,500
+
+—
+
+Other
+5,565
+
+5,693
+
+$
+31,544
+
+$
+39,941
+
+Other current liabilities
+(in thousands)
+December 31, 2024
+December 31, 2023
+Operating lease liabilities
+$
+14,551
+
+$
+15,000
+
+Dividends payable
+2,583
+
+2,515
+
+Other
+1,732
+
+3,828
+
+$
+18,866
+
+$
+21,343
+
+Other long-term liabilities
+(in thousands)
+December 31, 2024
+December 31, 2023
+Deferred revenue
+$
+2,121
+
+$
+2,478
+
+Income taxes payable
+15,956
+
+859
+
+Other
+11,011
+
+10,233
+
+$
+29,088
+
+$
+13,570
+
+9. SEGMENT INFORMATION
+Operating segments are defined as components of an enterprise about which separate financial information is available that is evaluated regularly by the chief operating decision-maker (“CODM”) in deciding how to allocate resources and assess performance.
+The Company derives substantially all of its revenue from the sale and support of one group of similar products and services – software that provides case management, business process management, and real-time decisioning solutions to improve customer engagement and operational excellence in the enterprise applications market. To assess performance, the Company’s CODM, the Chief Executive Officer, reviews financial information on a consolidated basis. Therefore, the Company determined it has 
+one
+ operating segment and 
+one
+ reportable segment. The accounting policies of the Company’s operating segment are the same as those described in "Note 2. Significant Accounting Policies". The CODM uses consolidated net income (loss) to set financial performance targets, assess performance, and make expense allocation decisions.
+52
+(in thousands)
+2024
+2023
+2022
+Total revenue
+$
+1,497,180
+
+$
+1,432,616
+
+$
+1,317,845
+
+Total cost of revenue
+390,665
+
+378,483
+
+368,635
+
+Selling
+450,527
+
+474,405
+
+519,192
+
+Marketing
+84,253
+
+84,772
+
+105,597
+
+Research and development
+298,074
+
+295,512
+
+294,349
+
+General and administrative
+112,848
+
+96,743
+
+117,734
+
+Other segment items, net 
+(1)
+18,177
+
+7,261
+
+74,135
+
+Provision for income taxes
+43,447
+
+27,632
+
+183,785
+
+Net income (loss)
+$
+99,189
+
+$
+67,808
+
+$
+(
+345,582
+)
+(1) Includes Litigation settlement, net of recoveries, Restructuring, Foreign currency transaction (loss) gain, Interest income, Interest expense, (Loss) on capped call transactions, and Other income, net.
+Long-lived assets related to the Company’s U.S. and international operations consist of property and equipment, which are included in Other long-term assets in the Company’s consolidated balance sheet:
+(in thousands)
+December 31, 2024
+December 31, 2023
+U.S.
+$
+37,405
+
+89
+
+%
+$
+44,414
+
+94
+
+%
+International
+4,401
+
+11
+
+%
+2,865
+
+6
+
+%
+$
+41,806
+
+100
+
+%
+$
+47,279
+
+100
+
+%
+10. LEASES
+The Company leased office space beginning in March 2021 at One Main Street, Cambridge, Massachusetts to serve as its corporate headquarters (the “Cambridge office”). The 
+4.5
+ year lease includes a base rent of $
+2
+ million per year. In December 2024, the Company closed the Cambridge office and relocated its corporate headquarters to office space already leased in Waltham, Massachusetts (the “Waltham office”), effective January 1, 2025. The Company recorded a restructuring expense of $
+3.7
+ million as a result of closing the Cambridge office.
+The Waltham office is 
+131
+ thousand square feet of leased office space located at 225 Wyman Street, Waltham, Massachusetts. The lease term of 
+11
+ years began on August 1, 2021, with no rent due until August 1, 2022. The annual rent equals the base rent of approximately $
+6
+ million, with 
+3
+% annual increases, plus a portion of building operating costs and real estate taxes. In addition, the Company received an improvement allowance from the landlord of $
+11.8
+ million. 
+Expense
+(in thousands)
+2024
+2023
+2022
+Fixed lease costs
+$
+21,422
+
+$
+19,718
+
+$
+20,186
+
+Short-term lease costs
+1,746
+
+2,884
+
+3,356
+
+Variable lease costs
+6,901
+
+8,148
+
+3,894
+
+$
+30,069
+
+$
+30,750
+
+$
+27,436
+
+Right of use assets and lease liabilities
+(in thousands)
+December 31, 2024
+December 31, 2023
+Right of use assets 
+(1)
+$
+62,429
+
+$
+64,198
+
+Operating lease liabilities 
+(2)
+$
+14,551
+
+$
+15,000
+
+Long-term operating lease liabilities
+$
+67,647
+
+$
+66,901
+
+(1) Represents the Company’s right to use the leased asset during the lease term. Included in other long-term assets.
+(2) Included in other current liabilities.
+The weighted-average remaining lease term and discount rate for the Company’s leases were:
+December 31, 2024
+December 31, 2023
+Weighted-average remaining lease term
+6.2
+ years
+6.8
+ years
+Weighted-average discount rate 
+(1)
+4.8
+
+%
+4.0
+
+%
+(1) The rates implicit in the Company’s leases are not readily determinable. Therefore, the Company uses its incremental borrowing rate as the discount rate when measuring operating lease liabilities. The incremental borrowing rate represents an estimate of the interest rate the Company would incur to borrow an amount equal to the lease payments on a collateralized basis over the lease term in a similar economic environment.
+53
+Maturities of lease liabilities:
+(in thousands)
+December 31, 2024
+2025
+$
+18,106
+
+2026
+15,404
+
+2027
+13,972
+
+2028
+13,367
+
+2029
+10,742
+
+Thereafter
+23,535
+
+Total lease payments
+95,126
+
+Less: imputed interest 
+(1)
+(
+12,928
+)
+$
+82,198
+
+(1) Lease liabilities are measured at the present value of the remaining lease payments using a discount rate determined at lease commencement unless the discount rate is updated due to a lease reassessment event.
+Cash flow information
+(in thousands)
+2024
+2023
+Cash paid for operating leases, net of tenant improvement allowances
+$
+18,444
+
+$
+20,045
+
+Right of use assets recognized for new leases and amendments (non-cash)
+$
+16,682
+
+$
+1,460
+
+11. DEBT
+Convertible senior notes and capped calls
+Convertible senior notes
+In February 2020, the Company issued convertible senior notes (the "Notes") with an aggregate principal of $
+600
+ million, due March 1, 2025, in a private placement. No principal payments are due before maturity. The Notes accrue interest at an annual rate of 
+0.75
+%, payable semi-annually in arrears on March 1 and September 1, beginning September 1, 2020.
+In 2024 and 2023, the Company recognized gains of $
+0.5
+ million and $
+7.9
+ million in other income, net from repurchases of Notes representing $
+34.4
+ million and $
+97.7
+ million in aggregate principal amount, respectively.
+Conversion rights
+The conversion rate is 7.4045 shares of common stock per $1,000 principal amount of the Notes, representing an initial conversion price of $
+135.05
+ per share of common stock. The conversion rate will be adjusted upon certain events, including spin-offs, tender offers, exchange offers, and certain stockholder distributions. The Company will settle conversions by paying or delivering cash, shares of its common stock, or a combination of cash and shares of its common stock, at the Company’s election, based on the applicable conversion rate.
+Beginning on September 1, 2024, noteholders may convert their Notes at any time at their election. 
+Before September 1, 2024, noteholders could convert their Notes in the following circumstances:
+•
+During any calendar quarter beginning after June 30, 2020 (and only during such calendar quarter), if the last reported sale price per share of the Company’s common stock exceeds 
+130
+% of the conversion price for each of at least 
+20
+ trading days (whether or not consecutive) during the 
+30
+ consecutive trading days ending on, and including, the last trading day of the immediately preceding calendar quarter.
+•
+During the 
+five
+ consecutive business days immediately after any 
+five
+ consecutive trading day period (the “Measurement Period”), if the trading price per $1,000 principal amount of Notes for each trading day of the Measurement Period was less than 
+98
+% of the product of the last reported sale price per share of common stock on such trading day and the conversion rate on such trading day.
+•
+Upon certain corporate events or distributions or if the Company calls any Notes for redemption, noteholders may convert before the close of business on the business day immediately before the related redemption date (or, if the Company fails to pay the redemption price in full on the redemption date until the Company pays the redemption price).
+Repurchase rights
+On or after March 1, 2023 and on or before the 
+40
+th scheduled trading day immediately before the maturity date, the Company may redeem for cash all or part of the Notes at a repurchase price equal to 
+100
+% of the principal amount, plus accrued and unpaid interest, if the last reported sale price of the Company’s common stock exceeded 
+130
+% of the conversion price then in effect for at least 
+20
+ trading days (whether or not consecutive) during any 
+30
+ consecutive trading day period ending on, and including, the trading day immediately preceding the date on which the Company provides a redemption notice.
+If certain corporate events that constitute a “Fundamental Change” occur, each noteholder will have the right to require the Company to repurchase for cash all of such noteholder’s Notes, or any portion of the principal thereof that is equal to $1,000 or a multiple of $1,000, at a repurchase price equal to 
+100
+% of the principal amount thereof, plus accrued and unpaid interest. A Fundamental Change relates to mergers, changes in control of the Company, liquidation/dissolution of the Company, or the delisting of the Company’s common stock.
+54
+Carrying value of the Notes:
+(in thousands)
+December 31, 2024
+December 31, 2023
+Principal
+$
+467,864
+
+$
+502,270
+
+Unamortized issuance costs
+(
+394
+)
+(
+2,902
+)
+Convertible senior notes, net
+$
+467,470
+
+$
+499,368
+
+Interest expense related to the Notes:
+(in thousands)
+2024
+2023
+Contractual interest expense (
+0.75
+% coupon)
+$
+3,725
+
+$
+3,891
+
+Amortization of issuance costs
+2,451
+
+2,603
+
+$
+6,176
+
+$
+6,494
+
+The average interest rate on the Notes in 2024 and 2023 was 
+1.2
+%. 
+Future payments of principal and contractual interest:
+December 31, 2024
+(in thousands)
+Principal
+Interest
+Total
+2025
+$
+467,864
+
+$
+1,754
+
+$
+469,618
+
+$
+467,864
+
+$
+1,754
+
+$
+469,618
+
+Capped call transactions
+In February 2020, the Company entered into privately negotiated capped call transactions (the “Capped Call Transactions”) with certain financial institutions. The Capped Call Transactions initially covered approximately 
+4.4
+ million shares (representing the number of shares for which the Notes were initially convertible) of the Company’s common stock. In 2024, Capped Call Transactions covering approximately 
+0.3
+ million shares were settled for proceeds of $
+0.01
+ million. As of December 31, 2024, Capped Call Transactions covering approximately 
+3.5
+ million shares were outstanding.
+The Capped Call Transactions are expected to reduce common stock dilution and/or offset any potential cash payments the Company must make, other than for principal and interest, upon conversion of the Notes, with such reduction and/or offset subject to a cap of $
+196.44
+. The cap price of the Capped Call Transactions is subject to adjustment upon specified extraordinary events affecting the Company, including mergers and tender offers.
+The Capped Call Transactions are accounted for as derivative instruments and do not qualify for the Company’s own equity scope exception in ASC 815 since, in some cases of early settlement, the settlement value calculated following the governing documents may not represent a fair value measurement. The Capped Call Transactions are remeasured to fair value each reporting period, resulting in a non-operating gain or loss.
+Change in capped call transactions:
+(in thousands)
+2024
+2023
+January 1,
+$
+893
+
+$
+2,582
+
+Settlements
+(
+7
+)
+(
+341
+)
+Fair value adjustment
+(
+663
+)
+(
+1,348
+)
+December 31,
+$
+223
+
+$
+893
+
+Credit facility
+In November 2019, and as since amended, the Company entered into a 
+five-year
+ $
+100
+ million senior secured revolving credit agreement (the “Credit Facility”) with PNC Bank, National Association.
+
+The Company may use borrowings for general corporate purposes and to finance working capital needs. Subject to specific conditions and the agreement of the financial institutions lending the additional amount, the aggregate commitment may be increased to $
+200
+ million. The Credit Facility, as amended, contains customary covenants, including, but not limited to, those relating to additional indebtedness, liens, asset divestitures, and affiliate transactions. Beginning with the fiscal quarter ended March 31, 2024, the Company must maintain a maximum net consolidated leverage ratio of 
+3.5
+ to 1.0 (with a step-up for certain acquisitions) and a minimum consolidated interest coverage ratio of 
+3.5
+ to 1.0. Effective as of February 4, 2025, the Credit Facility was amended to extend the expiration date to February 4, 2027.
+As of December 31, 2024 and December 31, 2023, the Company had $
+27.3
+ million in outstanding letters of credit under the Credit Facility, reducing available borrowing capacity, but 
+no
+ outstanding cash borrowings.
+55
+12. RESTRUCTURING
+The Company has undertaken the following restructuring activities as it optimizes its go-to-market strategy and reassesses its office space needs:
+(in thousands)
+2024
+2023
+2022
+Employee severance and related benefits
+$
+(
+614
+)
+$
+18,721
+
+$
+18,549
+
+Office space reductions 
+(1)
+5,142
+
+3,026
+
+3,194
+
+$
+4,528
+
+$
+21,747
+
+$
+21,743
+
+(1) These primarily relate to non-cash operating lease adjustments.
+Restructuring activity:
+Accrued employee severance and related benefits:
+(in thousands)
+2024
+January 1,
+$
+8,095
+
+Costs incurred
+(
+614
+)
+Cash disbursements
+(
+5,252
+)
+Currency translation adjustments
+(
+229
+)
+December 31, 
+(1)
+$
+2,000
+
+(1) Included in accrued compensation and related expenses.
+13. FAIR VALUE MEASUREMENTS 
+Assets and liabilities measured at fair value on a recurring basis
+The Company records its cash equivalents, marketable securities, capped call transactions, and venture investments at fair value on a recurring basis. Fair value is an exit price, representing the amount that would be received from the sale of an asset or paid to transfer a liability in an orderly transaction between market participants based on assumptions that market participants would use in pricing an asset or liability. 
+As a basis for classifying the fair value measurements, a three-tier fair value hierarchy, which classifies the fair value measurements based on the inputs used in measuring fair value, was established as follows: 
+•
+Level 1 - observable inputs, such as quoted prices in active markets for identical assets or liabilities; 
+•
+Level 2 - significant other inputs that are observable either directly or indirectly; and 
+•
+Level 3 - significant unobservable inputs with little or no market data, which require the Company to develop its own assumptions.
+This hierarchy requires the Company to use observable market data when available and minimize unobservable inputs when determining fair value.
+The fair value of the Capped Call Transactions at the end of each reporting period is determined using a Black-Scholes option-pricing model. The valuation model uses various market-based inputs, including stock price, remaining contractual term, expected volatility, risk-free interest rate, and expected dividend yield. The Company applies judgment when determining expected volatility. The Company considers the underlying equity security’s historical and implied volatility levels. The Company’s venture investments are recorded at fair value based on multiple valuation methods, including observable public companies and transaction prices and unobservable inputs, including the volatility, rights, and obligations of the securities the Company holds.
+56
+Assets and liabilities measured at fair value on a recurring basis:
+December 31, 2024
+December 31, 2023
+(in thousands)
+Level 1
+Level 2
+Level 3
+Total
+Level 1
+Level 2
+Level 3
+Total
+Cash equivalents
+$
+5,318
+
+$
+148,926
+
+$
+—
+
+$
+154,244
+
+$
+54,357
+
+$
+—
+
+$
+—
+
+$
+54,357
+
+Marketable securities 
+$
+—
+
+$
+402,870
+
+$
+—
+
+$
+402,870
+
+$
+—
+
+$
+193,436
+
+$
+—
+
+$
+193,436
+
+Capped Call Transactions
+$
+—
+
+$
+223
+
+$
+—
+
+$
+223
+
+$
+—
+
+$
+893
+
+$
+—
+
+$
+893
+
+Venture investments 
+$
+—
+
+$
+—
+
+$
+21,234
+
+$
+21,234
+
+$
+—
+
+$
+—
+
+$
+19,450
+
+$
+19,450
+
+Changes in venture investments:
+(in thousands)
+2024
+2023
+January 1,
+$
+19,450
+
+$
+13,069
+
+New investments
+550
+
+400
+
+Sales of investments
+—
+
+(
+2,773
+)
+Changes in foreign exchange rates
+(
+32
+)
+129
+
+Changes in fair value:
+included in other income, net
+1,628
+
+10,886
+
+included in other comprehensive income
+(
+362
+)
+(
+2,261
+)
+December 31,
+$
+21,234
+
+$
+19,450
+
+The carrying value of certain financial instruments, including receivables and accounts payable, approximates fair value due to their short maturities.
+Fair value of the Notes
+The fair value of the Notes outstanding (including the embedded conversion feature) was $
+463.9
+ million as of December 31, 2024 and $
+466.5
+ million as of December 31, 2023. 
+The fair value was determined based on the Notes’ quoted price in an over-the-counter market on the last trading day of the reporting period and classified within Level 2 in the fair value hierarchy.
+Credit risk
+In addition to receivables, the Company is potentially subject to concentrations of credit risk from the Company’s cash, cash equivalents, and marketable securities. The Company’s cash and cash equivalents are generally held with large, diverse financial institutions worldwide to reduce the Company’s credit risk exposure. Investment policies have been implemented that limit purchases of marketable debt securities to investment-grade securities.
+14. STOCKHOLDERS’ EQUITY 
+Preferred stock
+The Company has 
+1
+ million authorized shares of preferred stock, $
+0.01
+ par value per share, of which 
+none
+ were issued and outstanding as of December 31, 2024. 
+The Board of Directors has the authority to issue the shares of preferred stock in one or more series, to establish the number of shares to be included in each series, and to determine the designation, powers, preferences, and rights of the shares of each series and the qualifications, limitations, or restrictions thereof, without any further vote or action by the stockholders. The issuance of preferred stock could decrease the earnings and assets available for distribution to holders of common stock and may have the effect of delaying, deferring, or defeating a change in control of the Company.
+Common stock
+The Company has 
+200
+ million authorized shares of common stock, $
+0.01
+ par value per share, of which 
+86.1
+ million were issued and outstanding as of December 31, 2024.
+Dividends declared
+2024
+2023
+2022
+Dividends declared (per share)
+$
+0.12
+
+$
+0.12
+
+$
+0.12
+
+Dividend payments to stockholders (in thousands)
+$
+10,199
+
+$
+9,964
+
+$
+9,834
+
+The Company paid a quarterly cash dividend of $
+0.03
+ per share in 2024, 2023, and 2022. In the future, the Board of Directors may terminate or modify the dividend program without prior notice.
+Stock repurchase program
+57
+On April 23, 2024, the Company’s Board of Directors extended the expiration date of the share repurchase program from June 30, 2024 to June 30, 2025. On October 22, 2024, the Company’s Board of Directors further extended the expiration date of the share repurchase program from June 30, 2025 to December 31, 2025 and increased the authorized repurchases by $
+250
+ million to $
+310
+ million as of that date. 
+Stock repurchase authorization activity:
+(in thousands)
+2024
+2023
+2022
+Shares
+Amount
+Shares
+Amount
+Shares
+Amount
+January 1,
+$
+60,000
+
+$
+58,075
+
+$
+22,583
+
+Authorizations 
+(1)
+250,000
+
+1,925
+
+60,000
+
+Repurchases paid 
+(2)
+(
+809
+)
+(
+68,057
+)
+—
+
+—
+
+(
+280
+)
+(
+24,508
+)
+Repurchases unpaid at period end 
+(2)
+(
+16
+)
+(
+1,500
+)
+—
+
+—
+
+—
+
+—
+
+December 31,
+$
+240,443
+
+$
+60,000
+
+$
+58,075
+
+(1) This represents increases in the repurchase authority made by th
+e Board of Directors.
+(2) Purchases under this program have been made on the open market.
+
+15. REVENUE
+Geographic revenue
+Revenues by geography are determined based on client location:
+(Dollars in thousands)
+2024
+2023
+2022
+U.S.
+$
+828,332
+
+55
+
+%
+$
+785,029
+
+55
+
+%
+$
+763,558
+
+57
+
+%
+Other Americas
+95,698
+
+6
+
+%
+85,149
+
+6
+
+%
+102,980
+
+8
+
+%
+United Kingdom (“U.K.”)
+157,830
+
+11
+
+%
+158,014
+
+11
+
+%
+115,793
+
+9
+
+%
+Europe (excluding U.K.), Middle East, and Africa 
+249,325
+
+17
+
+%
+242,303
+
+17
+
+%
+194,563
+
+15
+
+%
+Asia-Pacific
+165,995
+
+11
+
+%
+162,121
+
+11
+
+%
+140,951
+
+11
+
+%
+$
+1,497,180
+
+100
+
+%
+$
+1,432,616
+
+100
+
+%
+$
+1,317,845
+
+100
+
+%
+Revenue streams
+(in thousands)
+2024
+2023
+2022
+Pega Cloud
+$
+558,734
+
+$
+461,328
+
+$
+384,271
+
+Maintenance
+323,304
+
+331,856
+
+317,564
+
+Consulting
+213,273
+
+221,706
+
+230,654
+
+Revenue recognized over time
+1,095,311
+
+1,014,890
+
+932,489
+
+Subscription license
+398,102
+
+407,625
+
+366,063
+
+Perpetual license
+3,767
+
+10,101
+
+19,293
+
+Revenue recognized at a point in time
+401,869
+
+417,726
+
+385,356
+
+$
+1,497,180
+
+$
+1,432,616
+
+$
+1,317,845
+
+(in thousands)
+2024
+2023
+2022
+Pega Cloud
+$
+558,734
+
+$
+461,328
+
+$
+384,271
+
+Maintenance
+323,304
+
+331,856
+
+317,564
+
+Subscription services
+882,038
+
+793,184
+
+701,835
+
+Subscription license
+398,102
+
+407,625
+
+366,063
+
+Subscription
+1,280,140
+
+1,200,809
+
+1,067,898
+
+Consulting
+213,273
+
+221,706
+
+230,654
+
+Perpetual license
+3,767
+
+10,101
+
+19,293
+
+$
+1,497,180
+
+$
+1,432,616
+
+$
+1,317,845
+
+58
+Remaining performance obligations ("Backlog")
+Expected future revenue from existing non-cancellable contracts:
+As of December 31, 2024:
+(Dollars in thousands)
+Subscription services
+Subscription license
+Perpetual license
+Consulting
+Total
+Pega Cloud
+Maintenance
+1 year or less
+$
+525,133
+
+$
+230,866
+
+$
+88,880
+
+$
+317
+
+$
+50,519
+
+$
+895,715
+
+56
+
+%
+1-2 years
+328,234
+
+65,461
+
+10,874
+
+—
+
+3,297
+
+407,866
+
+25
+
+%
+2-3 years
+159,536
+
+24,598
+
+733
+
+—
+
+125
+
+184,992
+
+11
+
+%
+Greater than 3 years
+114,256
+
+19,935
+
+678
+
+—
+
+50
+
+134,919
+
+8
+
+%
+$
+1,127,159
+
+$
+340,860
+
+$
+101,165
+
+$
+317
+
+$
+53,991
+
+$
+1,623,492
+
+100
+
+%
+As of December 31, 2023:
+(Dollars in thousands)
+Subscription services
+Subscription license
+Perpetual license
+Consulting
+Total
+Pega Cloud
+Maintenance
+1 year or less
+$
+446,160
+
+$
+245,271
+
+$
+62,070
+
+$
+2,284
+
+$
+39,810
+
+$
+795,595
+
+54
+
+%
+1-2 years
+279,474
+
+67,720
+
+9,138
+
+443
+
+2,020
+
+358,795
+
+25
+
+%
+2-3 years
+144,453
+
+37,142
+
+9,789
+
+—
+
+2,896
+
+194,280
+
+13
+
+%
+Greater than 3 years
+90,177
+
+24,421
+
+100
+
+—
+
+—
+
+114,698
+
+8
+
+%
+$
+960,264
+
+$
+374,554
+
+$
+81,097
+
+$
+2,727
+
+$
+44,726
+
+$
+1,463,368
+
+100
+
+%
+16. STOCK-BASED COMPENSATION
+(in thousands)
+2024
+2023
+2022
+Cost of revenue
+$
+27,353
+
+$
+28,994
+
+$
+26,400
+
+Selling and marketing
+55,084
+
+57,675
+
+46,769
+
+Research and development
+29,838
+
+31,039
+
+29,266
+
+General and administrative
+30,443
+
+25,644
+
+19,775
+
+$
+142,718
+
+$
+143,352
+
+$
+122,210
+
+Income tax benefit
+$
+(
+1,799
+)
+$
+(
+2,187
+)
+$
+(
+1,881
+)
+The Company periodically grants employees stock options and restricted stock units (“RSUs”) and non-employee Directors common stock and stock options.
+In 2022, most of the Company’s stock based compensation arrangements vest over 
+five years
+, with 
+20
+% vesting after 
+one year
+ and the remaining 
+80
+% vesting quarterly over the remaining 
+four years
+. Beginning in 2023, most of the Company’s stock based compensation arrangements vest over 
+four years
+, with 
+25
+% vesting after one year and the remaining 
+75
+% vesting quarterly over the remaining 
+three years
+. The Company’s stock options have a term of 
+ten years
+. In 2024, the Company also granted 
+0.6
+ million performance stock options with a total grant date fair value of $
+13.9
+ million, which vest over 
+2
+ years based on the Company’s achievement of certain financial performance targets.
+The Company recognizes stock-based compensation using the accelerated attribution method, treating each vesting tranche as an individual grant. The stock-based compensation expense recognized during a period is based on the value of the awards that are expected to vest. Forfeitures are estimated at the time of grant and revised, if necessary, in subsequent periods if actual forfeitures differ from those estimates. Ultimately, the Company recognizes the actual expense over the vesting period only for the shares that vest. 
+Employees may elect to receive 
+50
+% of the employee’s target incentive compensation under the Company’s Corporate Incentive Compensation Plan (the “CICP”) in the form of RSUs instead of cash. If elected by an employee, the equity amount is equal in value on the grant date to 
+50
+% of the employee’s target incentive opportunity, based on the employee’s base salary. The number of RSUs granted is determined by dividing 
+50
+% of the employee’s target incentive opportunity by 
+85
+% of the closing price of the Company’s common stock on the grant date, less the present value of expected dividends during the vesting period. If elected, the award vests 
+100
+% on the following year’s CICP payout date. Vesting is conditioned upon the performance conditions of the CICP and on continued employment; if threshold funding does not occur, the RSUs will not vest. The Company considers vesting probable on the grant date and recognizes the associated stock-based compensation expense over the requisite service period beginning on the grant date and ending on the vesting date.
+59
+Historically, the Company has granted awards that allow for the settlement of vested stock options and RSUs on a net share basis (“net settled awards”). With net settled awards, the Company withholds shares to cover the exercise price (for stock options) and the minimum statutory tax withholding obligations (for stock options and RSUs) from the shares that would otherwise be issued upon exercise or settlement. In 2023, the Company moved to cashless settlement for most of its awards. Under cashless settlement, shares are automatically sold in the market at exercise (for stock options) or vest (for RSUs) to cover the exercise price (for stock options) and the minimum statutory tax withholding obligations (for stock options and RSUs).
+Stock-based compensation plans
+2004 Long-Term Incentive Plan (as amended and restated)
+In 2004, the Company adopted the 2004 Long-Term Incentive Plan (as amended and restated, the “2004 Plan”) to provide employees, non-employee Directors, and consultants with opportunities to purchase stock through incentive and non-qualified stock options. Subsequent amendments to the plan increased the number of shares authorized for issuance under the plan to 
+42
+ million, extended the term of the plan to 2030, and limited annual compensation to any non-employee Director to $
+0.5
+ million.
+As of December 31, 2024, 
+17.0
+ million shares were subject to outstanding options and stock-based awards under the 2004 Plan. 
+2006 Employee Stock Purchase Plan
+In 2006, the Company adopted the 2006 Employee Stock Purchase Plan (the “2006 ESPP”) under which employees may purchase common stock, at a price equal to at least 
+85
+% of the fair market value of the Company’s common stock on the lesser of the commencement date or completion date for offerings under the plan, or such higher price as the Company’s Board of Directors may establish from time to time. In October 2012, the Company’s Board of Directors amended the 2006 ESPP to continue until no shares remain. In 2023, the number of shares authorized for purchase under the 2006 ESPP was increased to 
+2
+ million. For 2024, 2023, and 2022, the Company’s Board of Directors set the purchase price at 
+85
+% of the fair market value on the completion date of the offering period. 
+(in thousands)
+2024
+2023
+2022
+Compensation expense from 2006 ESPP
+$
+1,184
+
+$
+1,367
+
+$
+1,614
+
+As of December 31, 2024, 
+1.1
+ million shares had been issued under the plan.
+Shares issued and available for issuance
+In 2024, the Company issued 
+3.0
+ million shares to its employees and directors under the Company’s stock-based compensation plans.
+As of December 31, 2024, there were 
+3.9
+ million shares available for issuance for future equity grants under the Company’s stock plans, consisting of 
+3.0
+ million shares under the 2004 Plan and 
+0.9
+ million shares under the 2006 ESPP.
+Grant activity
+Stock options
+The Company estimates the fair value of stock options using a Black-Scholes option-pricing model. Key inputs used to estimate the fair value of stock options include the exercise price of the award, expected term of the option, expected volatility of the Company’s common stock over the option’s expected term, risk-free interest rate over the option’s expected term, and the Company’s expected annual dividend yield. The exercise price for stock options is equal to the shares’ fair market value at the grant date.
+The following table summarizes the Company’s fair value assumptions for stock options:
+2024
+2023
+2022
+Weighted-average grant-date fair value
+$
+25.82
+
+$
+20.55
+
+$
+17.49
+
+Assumptions used in the Black-Scholes option-pricing model:
+Expected annual volatility 
+(1)
+49
+
+%
+48
+
+%
+42
+
+%
+Expected term in years 
+(2)
+3.9
+3.5
+3.9
+Risk-free interest rate
+ (3)
+4.2
+
+%
+4.2
+
+%
+3.4
+
+%
+Expected annual dividend yield 
+(4)
+0.2
+
+%
+0.1
+
+%
+0.1
+
+%
+(1) The expected annual volatility for each grant is determined based on the average of historic daily price changes of the Company’s common stock over a period, which approximates the expected option term.
+(2) The expected option term for each grant is determined based on the historical exercise behavior of employees and post-vesting employment termination behavior.
+(3) The risk-free interest rate is based on the yield of U.S. Treasury securities with a commensurate maturity with the expected option term at the time of grant.
+(4) The expected annual dividend yield is based on the weighted-average dividend yield assumptions used for options granted during the applicable period.
+60
+The following table summarizes the time-based vesting stock option activity under the Company’s stock option plans for 2024:
+Shares 
+(in thousands)
+Weighted-average Exercise Price
+Weighted-average Remaining Contractual Term (in years)
+Aggregate Intrinsic Value 
+(in thousands) 
+(1)
+Options outstanding as of January 1, 2024
+13,853
+
+$
+59.32
+
+Granted
+1,857
+
+62.90
+
+Exercised
+(
+1,937
+)
+43.94
+
+Forfeited
+(
+515
+)
+54.91
+
+Expired
+(
+284
+)
+90.16
+
+Options outstanding as of December 31, 2024
+12,974
+
+$
+61.63
+
+Vested and expected to vest as of December 31, 2024
+11,477
+
+$
+62.04
+
+6.7
+$
+391,228
+
+Exercisable as of December 31, 2024
+7,351
+
+$
+65.37
+
+5.8
+$
+232,270
+
+(1) The aggregate intrinsic value of stock options as of December 31, 2024 is based on the difference between the closing price of the Company’s stock of $
+93.20
+ and the exercise price of the applicable stock options.
+The aggregate intrinsic value of stock options exercised (i.e., the difference between the market price at exercise and the price paid by the employee at exercise) in 2024, 2023, and 2022 was $
+58.7
+ million, $
+6.2
+ million, and $
+15.6
+ million, respectively. As of December 31, 2024, the Company had unrecognized stock-based compensation expense related to the unvested portion of stock options of $
+35.2
+ million that is expected to be recognized as expense over a weighted-average period of 
+1.6
+ years.
+Performance stock options
+In 2023, the Company began awarding performance stock options. These performance stock options allow the holder to purchase a specified number of common stock shares at an exercise price equal to the shares' fair market value at the grant date. For the performance stock options granted in 2024, 
+25
+% can vest on the first anniversary of the grant date, and 
+75
+% can vest on the second anniversary of the grant date, based on the achievement of specific performance conditions for 2024 and 2025, respectively, including year over year growth in Annual Contract Value and Free Cash Flow Margin. The options expire 
+ten years
+ from the grant date.
+The following table summarizes the Company’s performance stock option activity for 2024:
+Shares 
+(in thousands)
+Weighted-average Exercise Price
+Weighted-average Remaining Contractual Term (in years)
+Aggregate Intrinsic Value 
+(in thousands) 
+(1)
+Performance options outstanding as of January 1, 2024
+886
+
+$
+47.27
+
+Granted
+566
+
+62.10
+
+Exercised
+(
+39
+)
+47.27
+
+Forfeited
+(
+23
+)
+53.86
+
+Performance options outstanding as of December 31, 2024
+1,390
+
+$
+53.20
+
+Vested and expected to vest as of December 31, 2024
+1,173
+
+$
+53.12
+
+8.6
+$
+47,001
+
+Exercisable as of December 31, 2024
+181
+
+$
+47.27
+
+8.2
+$
+8,304
+
+(1) The aggregate intrinsic value of stock options as of December 31, 2024 is based on the difference between the closing price of the Company’s stock of $
+93.20
+ and the exercise price of the applicable stock options.
+The aggregate intrinsic value of performance stock options exercised in 2024 and 2023 was $
+1.5
+ million and 
+none
+, respectively. As of December 31, 2024, the Company had unrecognized stock-based compensation expense related to the unvested portion of performance stock options of $
+11.0
+ million that is expected to be recognized as expense over a weighted-average period of 
+1
+ year.
+RSUs
+RSUs provide the recipient a right to receive a specified number of shares of the Company’s common stock upon vesting. The Company values its RSUs at the fair value of its common stock on the grant date, which is the closing price of its common stock on the grant date less the present value of expected dividends during the vesting period, as the recipient is not entitled to dividends during the requisite service period. RSU grants include units issued when employees elect to receive 
+50
+% of the employee’s target incentive compensation under the Company’s Corporate Incentive Compensation Plan (the “CICP”) in the form of RSUs instead of cash.
+61
+The weighted-average grant-date fair value for RSUs granted in 2024, 2023, and 2022 was $
+62.57
+, $
+46.57
+, and $
+74.50
+, respectively. 
+The following table summarizes the combined RSU activity for all grants, including the CICP, under the 2004 Plan for 2024:
+Shares 
+(in thousands)
+Weighted- Average Grant-Date 
+Fair Value
+Aggregate Intrinsic Value 
+(in thousands)
+Nonvested as of January 1, 2024
+2,616
+
+$
+64.85
+
+Granted
+1,366
+
+62.57
+
+Vested
+(
+1,160
+)
+67.39
+
+Forfeited
+(
+209
+)
+63.78
+
+Nonvested as of December 31, 2024
+2,613
+
+$
+64.21
+
+$
+243,516
+
+Expected to vest as of December 31, 2024
+1,962
+
+$
+63.39
+
+$
+182,854
+
+The fair value of RSUs vested in 2024, 2023, and 2022 was $
+78.2
+ million, $
+42.8
+ million, and $
+50.3
+ million, respectively. The aggregate intrinsic value of RSUs outstanding and expected to vest as of December 31, 2024 is based on the closing price of the Company’s stock of $
+93.20
+ as of December 31, 2024.
+As of December 31, 2024, the Company had $
+48.7
+ million of unrecognized stock-based compensation expense related to all unvested RSUs that is expected to be recognized as expense over a weighted-average period of 
+1.6
+ years.
+Common stock
+In 2024, the Company granted 
+0.01
+ million shares of common stock to Directors with a weighted-average grant-date fair value of $
+69.19
+ per share.
+17. EMPLOYEE BENEFIT PLANS 
+The Company sponsors defined contribution plans for qualifying employees, including a 401(k) plan in the United States to which the Company makes discretionary matching contributions. 
+Employee benefit plan expenses:
+(in thousands)
+2024
+2023
+2022
+U.S. 401(k) Plan
+$
+7,937
+
+$
+8,169
+
+$
+8,994
+
+International plans
+20,303
+
+21,256
+
+21,141
+
+$
+28,240
+
+$
+29,425
+
+$
+30,135
+
+18. INCOME TAXES
+The components of income (loss) before provision for income taxes are:
+(in thousands)
+2024
+2023
+2022
+Domestic
+$
+51,966
+
+$
+14,016
+
+$
+(
+185,820
+)
+Foreign
+90,670
+
+81,424
+
+24,023
+
+$
+142,636
+
+$
+95,440
+
+$
+(
+161,797
+)
+The components of provision for income taxes are:
+(in thousands)
+2024
+2023
+2022
+Current:
+Federal
+$
+22,941
+
+$
+7,827
+
+$
+3,920
+
+State
+7,503
+
+4,480
+
+775
+
+Foreign
+14,547
+
+14,962
+
+10,200
+
+Total current provision
+44,991
+
+27,269
+
+14,895
+
+Deferred:
+Federal
+—
+
+—
+
+149,028
+
+State
+—
+
+—
+
+20,704
+
+Foreign
+(
+1,544
+)
+363
+
+(
+842
+)
+Total deferred (benefit) provision
+(
+1,544
+)
+363
+
+168,890
+
+$
+43,447
+
+$
+27,632
+
+$
+183,785
+
+62
+A reconciliation of the U.S federal statutory tax rate and the Company’s effective tax rate:
+(in thousands)
+2024
+2023
+2022
+U.S. federal income taxes at statutory rates
+$
+29,954
+
+$
+20,042
+
+$
+(
+33,977
+)
+Valuation allowance
+(
+1,504
+)
+(
+19,272
+)
+188,258
+
+State income taxes, net of federal benefit and tax credits
+1,297
+
+4,117
+
+(
+2,433
+)
+Permanent differences
+786
+
+435
+
+11,561
+
+Federal research and experimentation credits
+(
+4,888
+)
+(
+3,709
+)
+(
+5,012
+)
+Tax effects of foreign activities
+(
+7,817
+)
+658
+
+3,770
+
+GILTI, FDII, and BEAT
+13,945
+
+14,022
+
+16,390
+
+Provision to return adjustments
+121
+
+(
+3,728
+)
+(
+6,317
+)
+Non-deductible compensation
+10,933
+
+6,818
+
+4,769
+
+Tax Reserves
+5,917
+
+1,850
+
+5,673
+
+Excess tax (benefits) / detriments related to share-based compensation
+(
+5,645
+)
+4,666
+
+1,563
+
+Impact of change in tax law
+—
+
+1,726
+
+(
+793
+)
+Other
+348
+
+7
+
+333
+
+$
+43,447
+
+$
+27,632
+
+$
+183,785
+
+The effective income tax rate in 2024 was primarily driven by the valuation allowance on our deferred tax assets and tax expense in the U.S. and U.K., partially offset by available tax attributes. 
+Deferred income taxes
+Significant components of net deferred tax assets and liabilities are:
+December 31,
+(in thousands)
+2024
+2023
+Deferred tax assets:
+Net operating loss carryforwards
+$
+72,089
+
+$
+84,656
+
+Accruals and reserves
+57,312
+
+41,323
+
+Software revenue
+454
+
+3,186
+
+Convertible senior notes
+355
+
+2,645
+
+Tax credit carryforwards
+10,441
+
+28,456
+
+Research and development capitalization
+75,289
+
+58,866
+
+Total deferred tax assets
+215,940
+
+219,132
+
+Valuation allowances
+(
+195,252
+)
+(
+196,901
+)
+Total net deferred tax assets
+20,688
+
+22,231
+
+Deferred tax liabilities:
+Capped call transactions
+(
+57
+)
+(
+223
+)
+Depreciation
+(
+3,663
+)
+(
+4,428
+)
+Intangibles
+(
+9,116
+)
+(
+11,979
+)
+Other, net
+(
+3,554
+)
+(
+2,782
+)
+Total deferred tax liabilities
+(
+16,390
+)
+(
+19,412
+)
+$
+4,298
+
+$
+2,819
+
+The Company recognizes deferred tax assets to the extent that it believes that these assets are more likely than not to be realized. Future realization of deferred tax assets ultimately depends on sufficient taxable income within the available carryback or carryforward periods. The Company’s deferred tax valuation allowance requires significant judgment and has uncertainties, including assumptions about future taxable income based on historical and projected information
+. 
+In assessing the Company’s ability to realize its net deferred tax assets, the Company considered various factors including future reversals of existing taxable temporary differences, projected future taxable income, tax planning strategies and recent financial results to determine whether it is more likely than not that some portion or all of its net deferred tax assets will not be realized. Based upon these factors, the Company has determined that the uncertainty regarding the realization of these assets is sufficient to warrant the need for a full valuation allowance against its net U.S. and U.K. deferred tax assets as of December 31, 2024. Accordingly, the Company maintained a valuation allowance of $
+195.3
+ million at December 31, 2024, a decrease of $
+1.6
+ million as a result of the operations of its entities throughout the year.
+Given the Company’s recent earnings, the Company believes that there is a reasonable possibility that in a future period sufficient positive evidence may become available to allow the Company to reach a conclusion that a substantial portion of the valuation allowance will no longer be needed. However, the exact timing and amount of the valuation allowance release are subject to significant judgement. Release of the valuation allowance would result in the recognition of certain deferred tax assets and a decrease to income tax expense for the period the release is recorded.
+63
+The Company had approximately $
+5.4
+ million and $
+8.8
+ million of post apportionment state net operating loss carryforwards, as of December 31, 2024 and 2023, respectively. The U.S. state losses expire at various times through 2044. Additionally, as of December 31, 2024, the Company had $
+10.4
+ million of state tax credit carryforwards. 
+The Company’s federal net operating loss carryforwards were approximately $
+14.2
+ million and $
+20.6
+ million at December 31, 2024 and 2023, respectively. These federal carryforward losses and state credits expire between 2025 and 2039, except for $
+1.2
+ million of federal net operating losses and $
+1
+ million of state credits, which have an unlimited carryforward period.
+The Company’s UK net operating loss carryforwards were approximately $
+147.9
+ million and $
+183.1
+ million at December 31, 2024 and 2023, respectively, which have indefinite carryforward periods.
+Uncertain tax benefits
+A rollforward of the Company’s gross unrecognized tax benefits is:
+(in thousands)
+2024
+2023
+2022
+Balance as of January 1,
+$
+30,655
+
+$
+19,746
+
+$
+17,584
+
+Additions for tax positions related to the current year
+7,316
+
+4,859
+
+1,706
+
+Additions for tax positions of prior years
+2,941
+
+7,921
+
+728
+
+Reductions for tax positions of prior years
+(
+3,026
+)
+(
+1,871
+)
+(
+272
+)
+Balance as of December 31,
+$
+37,886
+
+$
+30,655
+
+$
+19,746
+
+The total amount of accrued liabilities related to uncertain tax positions that would affect the Company's effective tax rate, if recognized, is $
+12.9
+ million as of December 31, 2024.
+Tax examinations
+The Company files federal and state income tax returns in the U.S. and various foreign jurisdictions. In the ordinary course of business, the Company and its subsidiaries are examined by various tax authorities, including the Internal Revenue Service in the U.S. As of December 31, 2024, the Company’s U.S. federal tax returns for the years 2014 through 2019 were under examination by the Internal Revenue Service. In addition, certain foreign jurisdictions are auditing the Company’s income tax returns for periods ranging from 2018 through 2022. The Company does not expect the results of these audits to have a material effect on the Company’s financial condition, results of operations, or cash flows. With few exceptions, the statute of limitations remains open in all jurisdictions for all tax years since 2018.
+19. EARNINGS (LOSS) PER SHARE
+Basic earnings (loss) per share is calculated using the weighted-average number of common shares outstanding during the period. Diluted earnings (loss) per share is calculated using the weighted-average number of common shares outstanding during the period, plus the dilutive effect of outstanding stock options, RSUs, and convertible senior notes.
+Calculation of earnings (loss) per share:
+(in thousands, except per share amounts)
+2024
+2023
+2022
+Net income (loss)
+$
+99,189
+
+$
+67,808
+
+$
+(
+345,582
+)
+Weighted-average common shares outstanding
+85,265
+
+83,162
+
+81,947
+
+Earnings (loss) per share, basic
+$
+1.16
+
+$
+0.82
+
+$
+(
+4.22
+)
+Net income (loss)
+$
+99,189
+
+$
+67,808
+
+$
+(
+345,582
+)
+Convertible senior notes - interest expense and settlement gains, net of tax
+(
+76
+)
+(
+5,528
+)
+—
+
+Numerator for diluted EPS 
+$
+99,113
+
+$
+62,280
+
+$
+(
+345,582
+)
+Weighted-average effect of dilutive securities:
+Convertible senior notes
+214
+
+235
+
+—
+
+Stock options
+2,710
+
+794
+
+—
+
+RSUs
+1,445
+
+723
+
+—
+
+Effect of dilutive securities
+4,369
+
+1,752
+
+—
+
+Weighted-average common shares outstanding, assuming dilution
+ (1) (2) (3)
+89,634
+
+84,914
+
+81,947
+
+Earnings per share, diluted
+$
+1.11
+
+$
+0.73
+
+$
+(
+4.22
+)
+Outstanding anti-dilutive stock options and RSUs 
+(4)
+148
+
+250
+
+3,367
+
+(1) All dilutive securities are excluded when their inclusion would be anti-dilutive.
+(2) The shares underlying the conversion options in the Company’s Notes are included using the if-converted method, if dilutive in the period. If the outstanding conversion options were fully exercised, the Company would issue approximately 
+3.5
+ million shares as of December 31, 2024. 
+64
+(3) The Company’s Capped Call Transactions represent the equivalent of approximately 
+3.5
+ million shares of the Company’s common stock (representing the number of shares for which the Notes are convertible) as of December 31, 2024. The Capped Call Transactions are expected to reduce common stock dilution and/or offset any potential cash payments the Company must make, other than for principal and interest, upon conversion of the Notes, with such reduction and/or offset subject to a cap of $
+196.44
+. The Capped Call Transactions are excluded from weighted-average common shares outstanding, assuming dilution, in all periods as their effect would be anti-dilutive.
+(4) Outstanding stock options and RSUs that were anti-dilutive under the treasury stock method in the period were excluded from the computation of diluted earnings per share. These awards may be dilutive in the future.
+20. COMMITMENTS AND CONTINGENCIES
+Commitments
+For additional information, see "Note 10. Leases".
+Legal proceedings
+In addition to the matters below, the Company is or may become involved in a variety of claims, demands, suits, investigations, and proceedings that arise from time to time relating to matters incidental to the ordinary course of the Company’s business, including actions concerning contracts, intellectual property, employment, benefits, and securities matters. Regardless of the outcome, legal disputes can have a material effect on the Company because of defense and settlement costs, diversion of management resources, and other factors. 
+In addition, as the Company is a party to ongoing litigation, it is at least reasonably possible that the Company’s estimates will change in the near term, and the effect may be material. The Company had 
+no
+ accrued losses for litigation for the below matters as of December 31, 2024 and December 31, 2023.
+Appian Corp. v. Pegasystems Inc. & Youyong Zou
+The Company is a defendant in litigation brought by Appian in the Circuit Court of Fairfax County, Virginia (the “Court”) titled Appian Corp. v. Pegasystems Inc. & Youyong Zou, No. 2020-07216 (Fairfax Cty. Ct.). On May 9, 2022, the jury rendered its verdict finding that the Company had misappropriated one or more of Appian’s trade secrets, that the Company had violated the Virginia Computer Crimes Act, and that the trade secret misappropriation was willful and malicious. The jury awarded damages of $
+2,036,860,045
+ for trade secret misappropriation and $
+1.00
+ for violating the Virginia Computer Crimes Act. On September 15, 2022, the circuit court of Fairfax County entered judgment of $
+2,060,479,287
+, consisting of the damages previously awarded by the jury plus attorneys’ fees and costs, and stating that the judgment is subject to post-judgment interest at a rate of 
+6.0
+% per annum, from the date of the jury verdict (May 9, 2022) as to the amount of the jury verdict and from September 15, 2022 as to the amount of the award of attorneys’ fees and costs. On September 15, 2022, the Company filed a notice of appeal from the judgment. On September 29, 2022, the circuit court of Fairfax County approved a $
+25,000,000
+ letter of credit obtained by the Company to secure the judgment and entered an order suspending the judgment during the pendency of the Company’s appeal. A panel of the Court of Appeals of Virginia heard oral arguments on November 15, 2023, and issued a written opinion on July 30, 2024. The Court of Appeals reversed the judgment on Appian’s Virginia Uniform Trade Secrets Act claim and ordered a new trial on that claim. Appian filed a petition for appeal with the Supreme Court of Virginia on August 29, 2024, and the Company filed a response to the petition on October 21, 2024. Under the Court’s rules, Appian is entitled to a 10-minute oral argument in support of its petition. The Supreme Court of Virginia has scheduled that argument for February 11, 2025. Although it is not possible to predict timing, the entirety of the appeals process could potentially take years to complete. The Company continues to believe that it did not misappropriate any alleged trade secrets and that its sales of the Company’s products at issue were not caused by, or the result of, any alleged misappropriation of trade secrets. The Company is unable to reasonably estimate possible damages because of, among other things, uncertainty as to the outcome of appellate proceedings and/or any potential new trial resulting from the appellate proceedings.
+PS Lit Recovery, LLC v. Pegasystems Inc., Alan Trefler, and Kenneth Stillwell and Eminence Fund Long Master, Ltd., Eminence Fund Master, Ltd., Eminence Fund II Master, LP, Eminence Partners Long II, LP, Eminence Fund Leveraged Master, Ltd., Eminence Partners, L.P., Eminence Partners II, L.P. v. Pegasystems Inc., Alan Trefler, and Kenneth Stillwell
+On December 4, 2024, the shareholders representing approximately 
+3
+% of the settlement class that opted out of the court approved settlement in the class action matter captioned City of Fort Lauderdale Police and Firefighters’ Retirement System, Individually and on Behalf of All Others Similarly Situated v. Pegasystems Inc., Alan Trefler, and Kenneth Stillwell (Case 1:22-cv-00578-LMB-IDD) (the “Class Action”) filed 
+two
+ lawsuits against the Company, the Company’s chief executive officer, and the Company’s chief operating and financial officer in the United States District Court for the District of Massachusetts. The first is captioned Eminence Fund Long Master, Ltd., Eminence Fund Master, Ltd., Eminence Fund II Master, LP, Eminence Partners Long II, LP, Eminence Fund Leveraged Master, Ltd., Eminence Partners, L.P., and Eminence Partners II, L.P. v. Pegasystems Inc., Alan Trefler, and Kenneth Stillwell (Case 1:24-cv-12999-WGY); the second is captioned PS Lit Recovery, LLC v. Pegasystems Inc., Alan Trefler, and Kenneth Stillwell (Case 1:24-cv-11220-WGY). The complaints, which are substantially similar, generally allege, among other things, that the defendants violated Section 10(b) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”) and Rule 10b-5 promulgated thereunder, and that the individual defendants violated Section 20(a) of the Exchange Act, in each case by allegedly making materially false and/or misleading statements, as well as allegedly failing to disclose material adverse facts about the Company’s business, operations, and prospects, which caused the Company’s securities to trade at artificially inflated prices. The complaints also assert claims for common law fraud and negligent misrepresentation, and seek unspecified damages. The defendants’ motion to dismiss is due ten business days following the court’s entry of the parties’ stipulation coordinating the cases, which the parties filed in the court on February 4, 2025. The Company is unable to reasonably estimate possible damages or a range of possible damages in these matters given the stage of the lawsuits and there being no specified quantum of damages sought in the complaints.
+65
+In re Pegasystems Inc., Derivative Litigation
+On November 21, 2022, a lawsuit was filed against the members of the Company’s board of directors, the Company’s chief operating and financial officer and the Company in the United States District Court for the District of Massachusetts, captioned Mary Larkin, derivatively on behalf of nominal defendant Pegasystems Inc. v. Peter Gyenes, Richard Jones, Christopher Lafond, Dianne Ledingham, Sharon Rowlands, Alan Trefler, Larry Weber, and Kenneth Stillwell, defendants, and Pegasystems Inc., nominal defendant (Case 1:22-cv-11985). The complaint generally alleges the defendants sold shares of the Company while in possession of material nonpublic information relating to (i) the litigation brought by Appian in the Circuit Court of Fairfax County, Virginia, described above, and (ii) alleged misconduct by Company employees alleged in that litigation. On April 28, 2023, a lawsuit was filed in the United States District Court for the District of Massachusetts by Dag Sagfors, derivatively on behalf of nominal defendant Pegasystems Inc., asserting breach of fiduciary duty and related claims relating to the Virginia Appian litigation against the same defendants as the Larkin lawsuit. On May 17, 2023, the 
+Larkin 
+and 
+Sagfors 
+cases were consolidated and a joint motion to stay the consolidated case is pending before the Court (“Consolidated Action”). The Company also has received confidential demand letters raising substantially the same allegations set forth in the foregoing derivative complaints. On April 12, 2023, the Company’s board of directors (other than Mr. Trefler, who recused himself), formed a committee consisting solely of independent directors, to review, analyze, and investigate the matters raised in the demands and to determine in good faith what actions (if any) are reasonably believed to be appropriate under similar circumstances and reasonably believed to be in the best interests of the Company in response to the demand letters On December 4, 2024, the defendants moved to dismiss the complaint in the Consolidated Action. On December 17, 2024, the plaintiffs moved to voluntarily dismiss the Consolidated Action, and the Court granted the motion on December 18, 2024.
+On February 7, 2025, the plaintiffs in the Consolidated Action filed a new complaint against the members of the Company’s board of directors, certain employees of the Company, and the Company in the United States District Court for the District of Massachusetts, captioned Mary Larkin and Dag Sagfors, derivatively on behalf of nominal defendant Pegasystems Inc. v. Alan Trefler, Peter Gyenes, Richard Jones, Christopher Lafond, Dianne Ledingham, Sharon Rowlands, Leon Trefler, Larry Weber, Kenneth Stillwell, Don Schuerman, Kerim Akgonul, and Benjamin Baril, defendants, and Pegasystems Inc., nominal defendant (Case 1:25-cv-10303). The complaint asserts against Defendants claims for breach of fiduciary duty, unjust enrichment, and violations of the Exchange Act relating to (i) the litigation brought by Appian in the Circuit Court of Fairfax County, Virginia, described above; (ii) alleged misconduct by Company employees alleged in that litigation; and the Class Action, described above. 
+On June 28, 2024, a lawsuit was filed against members of the Company’s board of directors, certain employees of the Company and the Company in the Business Litigation Section of the Superior Court in Suffolk County, Massachusetts, captioned John Dwyer and Ray Gerber, Plaintiffs, v. Alan Trefler, Peter Gyenes, Richard Jones, Christopher Lafond, Dianne Ledingham, Sharon Rowlands, Larry Weber, Leon Trefler, Don Schuerman, Kerim Akgonul, and Benjamin Baril, Defendants, and Pegasystems Inc., Nominal Defendant (Case 2484CV01734) (“Dwyer Action”). The complaint generally alleges the defendants breached their fiduciary duties in connection with alleged misconduct by Company employees alleged in the litigation brought by Appian in the Circuit Court of Fairfax County, Virginia, described above, and alleges damages from the approximately $
+2
+ billion verdict in the litigation brought by Appian in the Circuit Court of Fairfax County, Virginia, described above, the settlement of the Class Action, and litigation costs from various proceedings. On October 18, 2024 the defendants served a motion to dismiss the complaint, which the defendants then withdrew on November 26, 2024 pending resolution of whether this complaint and the other derivative actions would be consolidated in Superior Court in Suffolk County, Massachusetts.
+On November 22, 2024, a lawsuit was filed against members of the Company’s board of directors, certain employees of the Company and the Company in the Business Litigation Section of the Superior Court in Suffolk County, Massachusetts, captioned Jayne Birch and Robert Garfield, Plaintiffs, v. Alan Trefler, Peter Gyenes, Richard Jones, Christopher Lafond, Dianne Ledingham, Sharon Rowlands, Larry Weber, Leon Trefler, Kerim Akgonul, Don Schuerman, Leon Trefler, Douglas Kim, John Petronio, Benjamin Baril, and Kenneth Stillwell, Defendants, and Pegasystems Inc., Nominal Defendant (Case 2484CV03076-BLS-1) (“Birch Action”). The complaint generally alleges the defendants breached their fiduciary duties in connection with alleged misconduct by Company employees alleged in the litigation brought by Appian in the Circuit Court of Fairfax County, Virginia, described above, and alleges damages from the approximately $
+2
+ billion verdict in the litigation brought by Appian in the Circuit Court of Fairfax County, Virginia, described above, the settlement of the Class Action, and litigation costs from various proceedings. The parties agreed on November 26, 2024 to suspend indefinitely the deadlines for any response to the complaint pending resolution of whether this complaint and the other derivative actions would be consolidated in the Superior Court in Suffolk County, Massachusetts.
+On February 4, 2025, the parties to the Dwyer and Birch Actions filed a stipulation and proposed order in the Business Litigation Section of the Superior Court in Suffolk County, Massachusetts consolidating the two actions and setting a schedule for the filing of a consolidated complaint and any motion to dismiss. Pursuant to the stipulation, a consolidated complaint must be filed by March 18, 2025, and any motion to dismiss must be served by May 15, 2025. The court held a hearing on February 11, 2025, at which it indicated it would issue an order consolidating the Dwyer and Birch Actions and approving the schedule for the filing of a consolidated complaint and a motion to dismiss. The court scheduled a hearing on the motion to dismiss for September 4, 2025.
+The Company is unable to reasonably estimate possible damages or a range of possible damages in these matters given the stage of the lawsuits and there being no specified quantum of damages sought in the complaints.
+66
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+None.
+ITEM 9A. CONTROLS AND PROCEDURES 
+Evaluation of disclosure controls and procedures
+Our management, with the participation of our Chief Executive Officer (“CEO”) and Chief Financial Officer (“CFO”), evaluated the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act) as of December 31, 2024. In designing and evaluating our disclosure controls and procedures, our management recognized that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving their objectives, and our management necessarily applied its judgment in evaluating the cost-benefit relationship of possible controls and procedures. 
+Based on this evaluation, our CEO and CFO concluded that our disclosure controls and procedures were effective as of December 31, 2024. 
+Management’s report on and changes in internal control over financial reporting
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Rules 13a-15(f) and 15d-15(f) under the Securities Exchange Act. Under the supervision and with the participation of our management, including our CEO and CFO, we conducted an evaluation of the effectiveness of our internal control over financial reporting as of December 31, 2024 based on the framework in the updated 
+Internal Control — Integrated Framework (2013)
+ issued by the Committee of Sponsoring Organizations of the Treadway Commission (“COSO”) on May 14, 2013. 
+Based on this evaluation, management has concluded that (i) our internal control over financial reporting was effective as of December 31, 2024 and (ii) no change in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Securities Exchange Act) occurred during the quarter ended December 31, 2024 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+Deloitte & Touche LLP, our independent registered public accounting firm which also audited our consolidated financial statements, has issued an attestation report on our internal control over financial reporting, which is included in Item 8 “Financial Statements and Supplementary Data”. 
+ITEM 9B. OTHER INFORMATION
+Rule 10b5-1 and non-rule 10b5-1 
+trading arrangements
+On 
+November 6, 2024
+, 
+Alan Trefler
+, our 
+Chief Executive Officer
+, 
+entered
+ into a trading plan that provides for the sale of 
+630,000
+ shares of our common stock. The plan will terminate on 
+January 22, 2026
+, subject to early termination for certain specified events set forth in the plan.
+On 
+November 25, 2024
+, 
+Rifat Kerim Akgonul
+, our 
+Chief Product Officer
+, 
+entered
+ into a trading plan that provides for the sale of 
+18,000
+ shares of our common stock. The plan will terminate on 
+March 31, 2026
+, subject to early termination for certain specified events set forth in the plan.
+On 
+November 26, 2024
+, 
+Leon Trefler
+, our 
+Chief of Clients and Markets,
+
+entered
+ into a trading plan that provides for the sale of 
+8,198
+ shares of our common stock. The plan will terminate on 
+December 31, 2025
+, subject to early termination for certain specified events set forth in the plan.
+Proposed Stock Split
+On February 12, 2025, our Board approved a two-for-one forward stock split of our common stock, to be effected as a stock dividend. Effectiveness of the stock split is subject to approval by our stockholders at our June 17, 2025 annual meeting of stockholders of a proportionate increase in our authorized shares of common stock. Our financial results in this Annual Report do not include any impact of the stock split.
+Credit Facility
+Effective as of February 4, 2025, we entered into an amendment to our $100 million senior secured revolving credit agreement with PNC Bank, National Association which extends the expiration date of the Credit Facility to February 4, 2027. The description contained herein is qualified in its entirety by reference to the Amendment, a copy of which is filed as Exhibit 10.23 to this Annual Report on Form 10-K.
+ITEM 9C. DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS
+Not applicable.
+67
+PART III
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE
+Except as set forth below, information required by this item is incorporated herein by reference from the information contained in our proxy statement for our 2025 annual stockholders meeting (the “2025 proxy statement”) under the headings Executive Compensation, Election of Directors, Corporate Governance, Executive Officers, 
+Insider Trading Policies and Procedures
+, and Delinquent Section 16(a) Reports, which will be filed with the Securities and Exchange Commission within 120 days after the close of the fiscal year. 
+We have adopted a written code of conduct that applies to our Board of Directors and employees, including our principal executive officer, principal financial officer, principal accounting officer, and persons performing similar functions. A copy of our code of conduct can be found on our website, www.pega.com. We intend to satisfy the disclosure requirements under Item 5.05 of Form 8-K and the applicable NASDAQ Global Select Market rules by posting such information on our website.
+ITEM 11. EXECUTIVE COMPENSATION 
+The information required by this item is incorporated herein by reference from the information contained in the 2025 proxy statement under the headings “Director Compensation”, “Compensation Discussion and Analysis”, and “Executive Compensation” and is incorporated herein by reference.
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+The information required by this item is incorporated herein by reference from the information contained in the 2025 proxy statement under the headings “Executive Compensation”, “Equity Compensation Plan Information”, and “Security Ownership of Certain Beneficial Owners and Management”, and is incorporated herein by reference.
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+The information required by this item is incorporated herein by reference from the information contained in the 2025 proxy statement under the headings “Certain Relationships and Related Transactions” and “Determination of Independence” and is incorporated herein by reference.
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES
+The information required by this item is incorporated herein by reference from the information contained in the 2025 proxy statement under the heading “Independent Registered Public Accounting Firm Fees and Services” and is incorporated herein by reference.
+68
+PART IV
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+(a) The following are filed as part of this Annual Report:
+(1) Financial Statements
+The following consolidated financial statements are included in Item 8:
+Page
+Report of Independent Registered Public Accounting Firm
+36
+Consolidated Balance Sheets as of December 31, 2024 and 2023
+38
+Consolidated Statements of Operations for the years ended December 31, 2024, 2023, and 2022
+39
+Consolidated Statements of Comprehensive Income (Loss) for the years ended December 31, 2024, 2023, and 2022
+40
+Consolidated Statements of Stockholders’ Equity for the years ended December 31, 2024, 2023, and 2022
+41
+Consolidated Statements of Cash Flows for the years ended December 31, 2024, 2023, and 2022
+42
+(b) Exhibits
+Exhibit
+No.
+Description
+Incorporation by Reference
+Filed
+Herewith
+Form
+Location
+Filing Date
+3.1
+Restated Articles of Organization of the Registrant and Amendments thereto
+10-Q
+3.1
+11/4/14
+3.2
+Amended and Restated Bylaws of Pegasystems Inc
+8-K
+3.2
+6/15/20
+4.1
+Specimen Certificate Representing the Common Stock
+S-1
+4.1
+6/19/96
+4.2
+Indenture, dated as of February 24, 2020, between Pegasystems Inc. and U.S. Bank National Association, as trustee
+8-K
+4.1
+2/24/20
+4.3
+Form of certificate representing the 0.75% Convertible Senior Notes due 2025
+8-K
+Exhibit A to 4.1
+2/24/20
+4.4
+Description of Common Stock
+10-K
+4.2
+2/12/20
+10.1
+2004 Long-Term Incentive Plan (as amended and restated)
+++
+DEF 14A
+Appendix A to 2023 Proxy Statement
+4/28/23
+10.2
+Restricted Stock Unit Sub-Plan of the Registrant’s 2004 Long-Term Incentive Plan for French Participants
+++
+DEF 14A
+Appendix B to 2016 Proxy Statement
+4/18/16
+10.3
+2006 Employee Stock Purchase Plan, as amended on June 20, 2023
+++
+DEF 14A
+Appendix B to 2023 Proxy Statement
+4/28/23
+10.4
+Form of Employee Stock Option Agreement, as amended
+++
+10-Q
+10.3
+5/10/17
+10.5
+Form of Global Stock Option Agreement
+++
+10-K
+10.5
+2/17/21
+10.6
+Form of Restricted Stock Unit Agreement, as amended
+++
+10-Q
+10.4
+5/10/17
+10.7
+Form of Global Restricted Stock Unit Agreement
+++
+10-K
+10.7
+2/17/21
+10.8
+Form of Non-Employee Director Stock Option Agreement
+++
+10-Q
+10.2
+10/29/04
+10.9
+Form of Director Indemnification Agreement
+++
+8-K
+99.1
+4/11/05
+10.10
+Offer Letter between the Registrant and Kenneth Stillwell dated June 1, 2016
+++
+8-K
+99.1
+6/14/16
+10.11
+Offer Letter between the Registrant and John Higgins executed December 13, 2020
+++
+10-Q
+10.3
+4/26/23
+10.12
+C
+ompensation 
+P
+rogram for non-employee members of the Registrant
+’
+s B
+oard of Directors
+++
+X
+10.13
+202
+3
+ Section 16 Officers/FLT Member Corporate Incentive Compensation Plan
+++
+8-K
+99.1
+2/13/23
+10.14
+202
+4
+ Section 16 Officers/FLT Member Corporate Incentive Compensation Plan
+++
+8-K
+99.1
+2/12/24
+10.15
+Credit Agreement dated as of November 5, 2019 with PNC Bank, National Association
+10-Q
+10.1
+11/7/19
+10.16
+Amendment to Loan Documents, dated February 18, 2020, between Pegasystems Inc. and PNC Bank, National Association
+8-K
+10.3
+2/24/20
+10.17
+Amendment 2 to Loan Documents, dated July 22, 2020, between Pegasystems Inc. and PNC Bank, National Association
+10-Q
+10.2
+7/28/20
+69
+Exhibit
+No.
+Description
+Incorporation by Reference
+Filed
+Herewith
+Form
+Location
+Filing Date
+10.18**
+Amendment to Loan Documents, dated as of September 30, 2020, between Pegasystems Inc. and PNC Bank, National Association
+10-Q
+10.3
+10/28/20
+10.19
+Fourth Amendment to Loan Documents, dated as of March 31, 2022, between Pegasystems Inc. and PNC Bank, National Association
+10-Q
+10.1
+3/31/22
+10.20
+Fifth Amendment to Loan Documents, dated as of July 25, 2022, between Pegasystems Inc. and PNC Bank, National Association
+10-Q
+10.1
+7/27/22
+10.21
+Sixth Amendment to Loan Documents, dated as of March 31, 2023, between Pegasystems Inc. and PNC Bank, National Association
+10-Q
+10.1
+4/26/23
+10.22
+Seventh
+ Amendment to Loan Documents, dated as of 
+April 2
+3,
+ 202
+4
+, between Pegasystems Inc. and PNC Bank, National Association
+10-Q
+10.1
+4/24/24
+10.23
+Ei
+ghth
+ Amendment to Loan Documents, dated as of 
+Fe
+bruary 
+7
+, 2025
+
+a
+n
+d effect
+ive as of February 4, 2025
+, between Pegasystems Inc. and PNC Bank, National Association
+
+X
+10.24
+Fee Letter, dated as of March 31, 2023, for Senior Credit Facility
+10-Q
+10.2
+4/26/23
+10.25
+Form of Side Letter to Base Call Option Transaction
+10-Q
+10.1
+10/28/20
+10.26
+Form of Side Letter to Additional Call Option Transaction
+10-Q
+10.2
+10/28/20
+10.27
+Form of Confirmation of Base Call Option Transaction
+8-K
+10.1
+2/24/20
+10.28
+Form of Confirmation of Additional Call Option Transaction
+8-K
+10.2
+2/24/20
+10.29
+Sublease, dated March 31, 2021 for Office Space at One Main Street, Cambridge, MA
+10-Q
+10.1
+7/28/21
+10.30
+Lease between Pegasystems Inc. and 275 Wyman LLC**
+8-K
+10.1
+7/9/21
+19.1
+Pegasystems Inc. Insider Trading Policy
+X
+21.1
+Subsidiaries of the Registrant.
+X
+23.1
+Consent of Independent Registered Public Accounting Firm—Deloitte & Touche LLP.
+X
+31.1
+Certification pursuant to Exchange Act Rules 13a-14 and 15d-14 of the Chief Executive Officer.
+X
+31.2
+Certification pursuant to Exchange Act Rules 13a-14 and 15d-14 of the Chief Financial Officer.
+X
+32
+Certification pursuant to 18 U.S.C. Section 1350 of the Chief Executive Officer and the Chief Financial Officer.
++
+97.1
+Pegasystems Inc. Compensation Recovery Policy
+10-K
+97.1
+2/14/24
+101.INS
+Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
+X
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document.
+X
+101.CAL
+Inline XBRL Taxonomy Calculation Linkbase Document.
+X
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document.
+X
+101.LAB
+Inline XBRL Taxonomy Label Linkbase Document.
+X
+101.PRE
+Inline XBRL Taxonomy Presentation Linkbase Document.
+X
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+X
++ Indicates that the exhibit is being furnished with this report and is not filed as a part of it.
+++ Management contracts and compensatory plans or arrangements required to be filed pursuant to Item 15(b) of Form 10-K.
+** Certain portions of this exhibit are considered confidential and have been omitted as allowed under SEC rules and regulations
+(c) Financial Statement Schedules
+All financial statement schedules are omitted because the required information is not present or not present in sufficient amounts to require submission of the schedule or because the information is reflected in the consolidated financial statements or notes thereto. 
+ITEM 16. FORM 10-K SUMMARY
+Omitted at Registrant’s option.
+70
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this Annual Report on Form 10-K to be signed on its behalf by the undersigned, thereunto duly authorized.
+Pegasystems Inc.
+Date:
+February 12, 2025
+By:
+/s/ KENNETH STILLWELL
+Kenneth Stillwell
+Chief Operating Officer and Chief Financial Officer
+(Principal Financial Officer)
+Pursuant to the requirements of the Securities Exchange Act of 1934, this Annual Report on Form 10-K has been signed below on February 12, 2025 by the following persons on behalf of the Registrant and in the capacities indicated.
+Signature
+Title
+/s/ ALAN TREFLER
+Chairman and Chief Executive Officer
+(Principal Executive Officer)
+Alan Trefler
+/s/ KENNETH STILLWELL
+Chief Operating Officer and Chief Financial Officer
+Kenneth Stillwell
+(Principal Financial Officer)
+/s/ EFSTATHIOS KOUNINIS
+Chief Accounting Officer, Senior Vice President, and Treasurer
+(Principal Accounting Officer)
+Efstathios Kouninis
+/s/ ROHIT GHAI
+Director
+Rohit Ghai
+/s/ PETER GYENES
+Director
+Peter Gyenes
+/s/ RICHARD JONES
+Director
+Richard Jones
+/s/ CHRISTOPHER LAFOND
+Director
+Christopher Lafond
+/s/ DIANNE LEDINGHAM
+Director
+Dianne Ledingham
+/s/ SHARON ROWLANDS
+Director
+Sharon Rowlands
+/s/ LARRY WEBER
+Director
+
+Larry Weber
+71

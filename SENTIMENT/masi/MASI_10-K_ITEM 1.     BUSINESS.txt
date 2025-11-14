@@ -1,0 +1,939 @@
+ITEM 1.     BUSINESS
+Overview
+We are a global technology company dedicated to improving lives. We aim to accelerate our growth strategies by continuously innovating and prioritizing patient care with a lens toward value-creation initiatives, including our Board of Directors’ (Board) commitment to a strategic review of all business activities.
+1
+Table of 
+Contents
+Healthcare
+Our healthcare business develops, manufactures and markets a variety of noninvasive patient monitoring technologies, hospital automation
+®
+ and connectivity solutions, remote monitoring devices and consumer health products. Our healthcare products and patient monitoring solutions generally incorporate a monitor or circuit board, proprietary single-patient use or reusable sensors, software, cables and other services. We primarily sell our healthcare products to hospitals, emergency medical service (EMS) providers, home care providers, physician offices, veterinarians, long-term care facilities and consumers through our direct sales force, distributors and original equipment manufacturer (OEM) partners, such as GE Healthcare, Hillrom, Mindray, Philips, Physio-Control and Zoll, among others.
+Our core measurement technologies are our breakthrough Measure-through Motion and Low Perfusion
+™ 
+pulse oximetry, known as Masimo Signal Extraction Technology
+®
+ (SET
+®
+) pulse oximetry, and advanced rainbow
+®
+ Pulse CO-Oximetry parameters such as noninvasive hemoglobin (SpHb
+®
+), alongside many other modalities, including brain function monitoring, hemodynamic monitoring, regional oximetry, acoustic respiration rate monitoring, capnography and gas monitoring, nasal high-flow respiratory support therapy, patient position and activity tracking, neuromodulation technology, an opioid overdose prevention and alert solution, and telehealth solutions.
+Our measurement technologies are available on many types of devices, from bedside hospital monitors like the Root
+®
+ Patient Monitoring and Connectivity Hub, to various handheld and portable devices, and to the tetherless Radius PPG
+®
+, Radius VSM
+® 
+and Masimo SafetyNet
+® 
+remote patient surveillance solution. The Masimo Hospital Automation
+®
+
+Platform facilitates data integration, connectivity and interoperability through solutions like Patient SafetyNet
+™
+, Iris
+®
+, iSirona
+®
+, Replica
+®
+ and UniView
+®
+ to facilitate more efficient clinical workflows and to help clinicians provide the best possible care, both in-person and remotely. Leveraging our expertise in hospital-grade technologies, we have expanded our suite of products intended for use outside the hospital and products for home wellness to include Masimo Sleep
+™
+, a sleep quality solution; the Masimo Radius Tº
+® 
+wireless, a wireless wearable continuous thermometer; Radius PCG
+®
+, a wireless tetherless capnograph; the Masimo W1
+® 
+smart watch
+.
+ We have partnered with Qualcomm Technologies and Google to develop a next-generation smartwatch reference platform for OEMs building Wear OS by Google smartwatches.
+Non-healthcare
+On September 25, 2024, we announced that our Board remains committed to the previously announced review of alternatives
+for both our consumer audio and consumer healthcare businesses, and that our Board had engaged Centerview Partners and
+Morgan Stanley as financial advisors and Sullivan & Cromwell as a legal advisor. As of year-end, our non-healthcare consumer
+audio products business remained part of our continuing operations and as an important part of our broader ecosystem.
+Subsequently, the sales process has progressed in 2025, and the Sound United business will be classified as held-for-sale and will be reported in discontinued operations in the first quarter of 2025. See “
+Separation of Non-Healthcare Operations
+” under Part I, Item 1—“Business”
+ for additional details.
+2
+Table of 
+Contents
+Our Strategy
+We are an organization engineered to improve life and patient outcomes
+™
+. We exist for people who care, care about others, care about quality, care about precision and care about excellence. Our healthcare segment has a goal of improving lives by providing patient-centered solutions to healthcare providers, expanding outside of the hospital and into the home and delivering innovative, high-quality information to consumers. We beli
+eve that people and infrastructures are ready for actionable patient care outside of the hospital. 
+We deliver value to our customers and stockholders through:
+•
+our differentiated and clinically superior technologies;
+•
+our proven track record of innovation;
+•
+our customer-driven approach to product development;
+•
+our patient-centered product portfolio and pipeline that addresses the needs of healthcare professionals, patients, and consumers; and
+•
+our scaled and integrated platforms to continuously monitor and deliver health information and other data, applications and experiences.
+Some of our key strategic initiatives are summarized below:
+•
+continue to expand our market share across our product categories;
+•
+focus our engineering efforts on innovation and maintaining our technology leadership position;
+•
+allocate our research and development resources on projects that drive unmet patient needs;
+•
+enhance our long-term growth;
+•
+expand our connectivity platforms throughout the hospital, care facilities and into the home market;
+•
+utilize our existing customer base and OEM relationships to expand product offerings;
+•
+define and leverage shared Masimo product platforms to scale resources and connected technologies;
+•
+diversify products to ensure continued innovation;
+•
+refocus the sales, engineering and marketing infrastructure to drive future growth initiatives; 
+•
+increase efficiency and capacity through internal manufacturing capabilities combined with proven outsourced manufacturing partners;
+•
+continue cost reduction efforts through continuous value engineering;
+•
+grow our international presence through brand awareness and marketing;
+•
+supplement our internal growth and expand our product portfolio with strategic acquisitions, investments, licensing agreements and partnerships; and
+•
+drive an efficient capital structure and long-term shareholder returns.
+Our Technologies
+Conventional Pulse Oximetry 
+Pulse oximetry enables the noninvasive measurement of the oxygen saturation level of arterial blood (SpO
+2
+), which delivers oxygen to the body’s organs and tissues. Pulse oximetry also measures pulse rate (PR), which, when measured by electrocardiogram (ECG), is called heart rate. Pulse oximeters use sensors attached to an extremity, typically the fingertip or certain core body sites. These sensors contain two light-emitting diodes that transmit red and infrared light from one side of the extremity through the tissue to a photodetector on the other side of the extremity. The photodetector in the sensor measures the amount of red and infrared light absorbed by the tissue. A microprocessor then analyzes the changes in light absorption to provide a continuous, real-time measurement of the amount of oxygen in the patient’s arterial blood. Pulse oximeters typically give audio and visual alerts, or alarms, when the patient’s arterial blood oxygen saturation level or pulse rate falls outside of a user-designated range. As a result, clinicians have the opportunity to assess patients who may need immediate treatment to prevent the serious clinical consequences of hypoxemia, or low arterial blood oxygen saturation levels, and hyperoxemia, or high arterial blood oxygen levels.
+3
+Table of 
+Contents
+As one of the most common technologies used in and out of hospitals around the world, pulse oximetry has gained widespread clinical acceptance as a standard patient vital sign measurement because it can give clinicians a warning of possible hypoxemia or hyperoxemia. SpO
+2
+ monitoring of oxygen saturation is critical because hypoxemia can lead to a lack of oxygen in the body’s tissues, which can be toxic and result in organ damage or death. Pulse oximeters are used in a variety of critical care settings, including surgery, recovery rooms, intensive care units (ICUs), emergency departments and general care floors, as well as alternative care settings, such as long-term care facilities, physician offices and the home monitoring of patients with chronic conditions. Clinicians also use pulse oximeters to monitor oxygen saturation in premature babies to ensure that appropriate oxygen saturation levels are maintained.
+Conventional pulse oximetry has limitations that can reduce its effectiveness and the quality of patient care. In particular, when using conventional pulse oximetry, oxygen saturation measurements can be distorted by motion artifact, or patient movement, and low perfusion, or low arterial blood flow at the measurement site. Motion artifact can cause conventional pulse oximeters to inaccurately measure the arterial blood oxygen saturation level, due mainly to the effect of movement-induced pulsations of venous blood, which is at a lower oxygen saturation than arterial blood. Low perfusion can also cause conventional pulse oximeters to report inaccurate measurements or, in some cases, no measurement at all. In addition, conventional pulse oximeters cannot distinguish oxygenated hemoglobin from dyshemoglobin, including the most prevalent forms of dyshemoglobins, carboxyhemoglobin and methemoglobin. As a result, conventional pulse oximeters may report falsely high oxygen levels when these dyshemoglobins are present in the blood. Furthermore, conventional pulse oximetry readings can also be impacted by bright light and electrical interference caused by the presence of electrical surgical equipment. 
+The Masimo Difference - Masimo SET
+®
+ Pulse Oximetry
+Masimo SET
+®
+ was designed to overcome the primary limitations of conventional pulse oximetry by maintaining accuracy in the presence of motion artifact, low perfusion and weak signal-to-noise situations. Our Masimo SET
+®
+ platform, which became available to U.S. hospitals in 1998, is the basis of our pulse oximetry products, and we believe represented the first significant technological advancement in pulse oximetry since its invention in the early 1970s and introduction in the early 1980s. Masimo SET
+®
+
+utilizes five signal processing algorithms, four of which are proprietary, in parallel to deliver high sensitivity and specificity in the measurement of arterial blood oxygen saturation levels. Sensitivity is the ability to detect true alarms and specificity is the ability to avoid false alarms. One of our proprietary processing algorithms, Discrete Saturation Transform
+®
+, separates the signal from noise in real time through the use of adaptive filtering and an iterative sampling technique that tests each possible saturation value for validity. Masimo SET
+®
+ signal processing can therefore identify the venous blood and other “noise”, isolate them and extract the arterial signal.
+The performance of Masimo SET
+®
+ pulse oximetry has been evaluated in more than 100 independent studies and thousands of clinical evaluations. We believe that Masimo SET
+®
+ is trusted by clinicians to safely monitor in excess of approximately 200 million patients each year and has been chosen as the primary pulse oximeter technology used by all of the top ten hospitals according to the 2023-2024 
+U.S. News & World Report
+ Best Hospitals Honor Roll. Compared to conventional pulse oximeters, during patient motion and low perfusion, Masimo SET
+®
+ provides measurements when other pulse oximeters cannot, significantly reduces false alarms (improved specificity), and accurately detects true alarms (improved sensitivity). Despite pulse oximetry’s widespread use since the 1980s, it had not been shown to improve clinical outcomes before the introduction of Masimo SET
+®,.
+ which has been shown to help clinicians reduce severe retinopathy of prematurity neonates, improve CCHD screening in newborns, and, when used for continuous monitoring with Masimo Patient SafetyNet
+™
+ in post-surgical wards, reduce rapid response team activations, ICU transfers, and costs.
+Our pulse oximetry technology is contained on a circuit board which can be placed inside a standalone pulse oximetry monitor, placed inside OEM multiparameter monitors, or included as part of an external “Board-in-Cable” solution that is plugged into a port on an OEM or other device. All of these solutions, as well as most of our patient cables, use our proprietary single-patient-use or reusable sensors. We sell our products to end-users through our direct sales force and through certain distributors, as well as to our OEM partners, for incorporation into their products. In 2013, with the launch of iSpO2
+®
+, we began selling our pulse oximetry products in the consumer home wellness market. 
+To complement our Masimo SET
+®
+ platform, we have developed a wide range of proprietary single-patient-use (disposable) sensors, including untethered Radius PPG
+®
+, and multi-patient-use (reusable) sensors, cables and other accessories designed specifically to work with Masimo SET
+®
+ software and hardware. Our single-patient-use sensors offer several advantages over reusable sensors, including improved performance, cleanliness, increased comfort and greater reliability. Although our technology platforms operate solely with our proprietary sensor lines, our sensors have the capability to work with certain competitive pulse oximetry monitors through the use of adapter cables.
+Adhesive sensors are single-patient-use items, but the U.S. Food and Drug Administration (FDA) allows third parties to reprocess pulse oximetry sensors. In response to some hospitals’ requests to implement environmentally friendly products, we offer sensor reprocessing as well as sensor recycling programs. 
+4
+Table of 
+Contents
+Masimo rainbow
+
+SET
+®
+ Platform and Other Technology Solutions
+Since introducing Masimo SET
+®
+, we have continued to innovate by introducing noninvasive measurements that go beyond arterial blood oxygen saturation and pulse rate. Our Masimo rainbow SET
+®
+
+platform leverages our Masimo SET
+®
+ technology and incorporates licensed rainbow
+®
+ technology to enable real-time monitoring of additional noninvasive measurements. Our rainbow SET
+®
+ platform includes our rainbow SET
+®
+ Pulse CO-Oximetry products, which we believe are the first devices cleared by the FDA to noninvasively and continuously monitor additional hemoglobin species that were previously only measurable using intermittent invasive procedures using multiple wavelengths of light.
+In addition to SpO
+2
+, PR, perfusion index (Pi), Pleth Variability Index (PVi
+®
+), Rainbow
+®
+ Pleth Variability Index (RPVi
+™
+)
+
+and respiration rate from the pleth (RRp
+®
+), rainbow
+®
+ Pulse CO-Oximetry has the unique ability to measure and distinguish oxygenated hemoglobins from the dyshemoglobins that are incapable of transporting oxygen, carboxyhemoglobin (SpCO
+®
+) and methemoglobin (SpMet
+®
+). Besides the ability to measure SpCO
+®
+ and SpMet
+®
+, the Masimo rainbow SET
+®
+ platform also allows for the noninvasive and continuous monitoring of total hemoglobin concentration (SpHb
+®
+) as well as the monitoring of arterial oxygen saturation, in the presence of carboxyhemoglobin and methemoglobin, known as fractional arterial oxygen saturation (SpfO
+2
+™
+). Additionally, the rainbow SET
+®
+ platform also allows for the calculation of Oxygen Content (SpOC). SpfO
+2
+™
+ has received CE Marking, but is not currently available for sale in the U.S.
+We believe that Masimo rainbow
+®
+ Pulse CO-Oximetry products will become widely adopted for the noninvasive monitoring of these measurements in the future. We also believe that the addition of acoustic respiration rate (RRa
+®
+), using our rainbow Acoustic Monitoring
+®
+ technology, will strengthen the clinical demand for noninvasive and continuous monitoring using our rainbow
+®
+ platform, especially in the growing general floor market.
+Products with our MX circuit board contain our Masimo SET
+®
+ pulse oximetry technology as well as circuitry to support rainbow
+®
+ measurements. At the time of purchase, or at any time in the future, our customers and our OEMs’ customers have the option of purchasing additional rainbow
+®
+ software measurements, which allow such customers to incrementally expand their patient monitoring systems with a cost-effective solution. To date, over forty companies have released rainbow SET
+® 
+equipped products or announced rainbow
+®
+ integration plans.
+Following the introduction of our rainbow SET
+®
+ platform, we have continued to expand our technology offerings by introducing additional noninvasive measurements (such as Oxygen Reserve Index
+™
+ (ORi
+™
+), technologies, platforms and other solutions to create new market opportunities in both hospital and non-hospital care settings, as well as into home health and wellness settings, including the Masimo Hospital Automation
+®
+ Platform, along with other connectivity platforms and telehealth solutions, which are described in more detail below.
+The Masimo Hospital Automation
+®
+ Platform
+Patient SafetyNet
+™
+(1
+)
+, our patient surveillance, remote monitoring and clinician notification solution, works in concert with our bedside and ambulatory monitoring devices to facilitate the supplemental monitoring of the oxygen saturation, pulse rate, perfusion index, hemoglobin, methemoglobin and respiration rate of up to 200 patients simultaneously from a single server. Patient SafetyNet
+™
+ offers an intuitive and powerful user interface with trending, real-time waveform capability at a central station, as well as remote clinician notification via pager, voice-over-IP phone or smart-phones. Patient SafetyNet
+™
+ also features an Adaptive Connectivity Engine
+™ 
+(ACE
+™
+) that enables two-way, HL-7 based connectivity to clinical/hospital information systems. The ACE
+™
+ significantly reduces the time and complexity to integrate and validate custom HL-7 implementations, and demonstrates our commitment to innovation that automates patient care with open, scalable and standards-based connectivity architecture.
+Patient SafetyNet
+™
+ Series 5000
+,
+ along with Hospital Automation
+®
+ Connectivity, Iris Gateway
+®
+, Kite
+®
+, iSirona
+®
+, UniView
+®
+, UniView
+®
+: 60 and MyView
+®
+ through the Root
+®
+ patient monitoring and connectivity platform, offers a new level of interoperability designed to enhance clinician workflows and reduce the cost of care in a variety of hospital settings, including operating rooms and the general care floors. Patient SafetyNet
+™
+ Series 5000 with Iris
+®
+ ports enables Root
+®
+ to assimilate data from all devices connected to the patient, thereby acting as a comprehensive in-room patient monitor and connectivity hub. Alarms and alerts for all devices are seamlessly forwarded to the patient’s clinician and device data can be transferred to the patient’s electronic medical record (EMR). In an operating room setting, the patient-centric user interface of the Patient SafetyNet
+™
+ Series 5000 displays near real-time data from all devices with Kite
+®
+, providing a single unified dashboard of patient information.
+(1) 
+The use of the trademark Patient SafetyNet
+™
+ is under license from the University HealthSystem Consortium.
+5
+Table of 
+Contents
+Connectivity Platforms
+Despite medical technology advances, the lack of device communication and integration creates risks to patient safety in hospitals around the world. Without device interoperability, critical patient information can go unnoticed, leaving clinicians unaware and patients at risk. Existing approaches for device interoperability require separate hardware, software and/or network infrastructure, which can clutter the patient room, increase complexity, burden IT management and increase costs. To address these challenges, we introduced Iris
+®
+ connectivity in our Root
+®
+ patient monitoring and connectivity platform. iSirona
+®
+ and Iris
+®
+ connectivity enables multiple standalone third-party devices such as intravenous pumps (IV), ventilators, hospital beds and other patient monitors to connect through Root
+®
+, enabling display, notification and documentation to the EMR through Masimo Patient SafetyNet
+™
+. 
+The addition of Iris
+®
+ connectivity to Root
+®
+ and Patient SafetyNet
+™
+ provides multiple advantages to hospitals, such as allowing standalone device information to be remotely viewed at a Patient SafetyNet
+™
+ view station, transmitted through notification systems to clinicians regardless of location or sent to electronic health record systems. This may enhance patient assessment, clinical workflows and decision support. In addition, bringing data from disparate devices together facilitates more integrated patient care and provides a flexible and cost-effective platform, while avoiding installation of separate costly systems and potentially reducing costs by leveraging existing network infrastructure.
+ Telehealth Solutions
+In an effort to help clinicians and public health officials combat the COVID-19 pandemic, we developed the Masimo SafetyNet
+®
+ solution. The Masimo SafetyNet
+®
+ solution provides continuous tetherless pulse oximetry and respiration rate monitoring coupled with a patient surveillance platform. Masimo SafetyNet
+®
+
+solution is available worldwide. In partnership with Samsung Electronics America, Inc., the Masimo SafetyNet
+®
+ Patient App is available on select Samsung smartphones, pre-installed and pre-configured.
+Our Products and Markets 
+Noninvasive Monitoring Solutions:
+Circuit Boards and Modules
+(e.g., MX-7
+™
+, MX-5
+™
+, MSX
+™
+
+(shown below)
+)
+Our Masimo circuit boards perform all signal processing and other pulse oximetry functions incorporating the Masimo SET
+®
+, Masimo rainbow
+®
+ Pulse CO-Oximetry or rainbow Acoustic Monitoring
+®
+ technology with specific functionality or measurements. Our MX-7
+™
+ OEM circuit board is our latest and most advanced rainbow SET
+®
+ board, offering more efficient power utilization, and designed for integration into the more than 200 multi-parameter monitors available from our more than 90 OEM partners. The MX-7
+™
+ has the ability to support all 13 of Masimo’s SET
+®
+ pulse oximetry and rainbow
+®
+ Pulse CO-Oximetry measurements.
+Description:
+Use:
+Distribution Channel:
+• Signal processing apparatus for all Masimo technology platforms
+• Mainstream and sidestream capnography and gas monitoring
+• Incorporated and sold to OEM partners who incorporate our circuit boards into their patient monitoring systems
+6
+Table of 
+Contents
+Circuit Boards and Modules - (Continued)
+Description:
+Use:
+Distribution Channel:
+Monitors and Devices
+(e.g., Radical-7
+®
+,
+ Rad-G
+®
+ with Temperature 
+(shown below)
+)
+We offer a variety of continuous bedside monitoring and transport devices suitable for all patient populations. Fueled by clinically proven Masimo SET
+®
+ pulse oximetry and advanced rainbow
+®
+ Pulse CO-Oximetry and additional noninvasive monitoring technologies, these highly versatile and configurable monitors are designed to accommodate patient scenarios across the continuum of care, from high-acuity ICUs and surgical suites, to low-acuity general floors and recovery units, to long-term care facilities and beyond.
+Description:
+Use:
+Distribution Channel:
+• Bedside, handheld and wireless monitoring devices that incorporate Masimo SET
+®
+ with and without licensed Masimo rainbow SET
+®
+ technology, noninvasive blood pressure and capnography
+• Sold directly to end-users, through distributors and, in some cases, to our OEM partners who sell to end-users
+7
+Table of 
+Contents
+Monitors and Devices - 
+(Continued)
+Description:
+Use:
+Distribution Channel:
+• Rad-G
+®
+ with Temperature measures physiological parameters, including oxygen saturation (SpO2), pulse rate (PR), perfusion index (Pi), pleth variability index (PVi
+®
+), respiration rate from the pleth (RRp
+®
+), and temperature (Temp).
+Patient Monitoring and Connectivity Platform 
+(e.g., Radius VSM
+®
+)
+Radius VSM
+®
+ is a wearable vital signs monitoring platform that includes three single-use sensors: a chest patch, a blood pressure cuff, and a finger sensor. As an on-demand, connected, continuous vital signs monitoring platform, Radius VSM
+®
+ is designed to streamline workflows, reduce nurse burn-out and increase throughput. Radius VSM
+® 
+is intended for a range of care areas including: the waiting room, emergency room departments, critical care and ambulatory surgery centers.
+Description:
+Use:
+Distribution Channel:
+• Radius VSM
+®
+ monitors a wide range of measurements on a modular form; components can be customized based on each patient’s monitoring needs
+• Provides waveform and parameter trend data on its built-in multi touch LED display, allowing clinicians to stay informed about patient status while moving about with the patient
+• Sold directly to end-users and through distributors
+8
+Table of 
+Contents
+Patient Monitoring and Connectivity Platform - (Continued)
+Description:
+Use:
+Distribution Channel:
+• Radius VSM
+®
+
+       monitors a wide range of physiological measurements on a modular platform. Components can be quickly added or removed depending on each patient’s monitoring needs. Without any additional bedside equipment, network infrastructure, or tethered connections, Radius VSM integrates a variety of technologies, modules noninvasive sensors.
+• Sold directly to end-users and through distributors
+Patient Monitoring and Connectivity Platform 
+(e.g., Root
+® 
+with Radius VSM
+™
+, 
+Root
+®
+ with NIBP and Root
+®
+ with Next Generation SedLine
+®
+
+(shown below)
+)
+Our patient monitoring and connectivity platforms are expandable, customizable patient monitoring and connectivity hubs that integrate an array of technologies, devices and systems to provide multimodal monitoring and connectivity solutions in a single, clinician-centric platform. With plug-and-play expansion capabilities, clinicians can centralize patient monitoring by bringing together advanced rainbow SET
+®
+ Pulse CO-Oximetry, brain function monitoring, regional oximetry and capnography measurements on an easy-to-interpret, customizable display, empowering them with more information for making patient assessments. Further, acting as a central connectivity hub, with automated electronic charting of Masimo and third-party device data to patient data management systems (PDMS), the hub can help with manual data documentation.
+Description:
+Use:
+Distribution Channel:
+• Integrates noninvasive blood pressure (NIBP) and temperature
+• Connects third-party devices such as IV pumps, ventilators, beds and other patient monitors to automate data transfer to the EMR
+• Sold directly to end-users and through distributors
+9
+Table of 
+Contents
+Patient Monitoring and Connectivity Platform - (Continued)
+Description:
+Use:
+Distribution Channel:
+Sensors 
+(e.g. RD SedLine
+™
+, TFA-1
+®
+,
+ RD SET
+®
+, 
+RD rainbow SET
+®
+, O3
+®
+ Pediatric, RD rainbow Lite SET
+®
+, rainbow
+®
+ DCI
+®
+-Mini, Centroid
+®
+ and Radius PPG
+® 
+(shown below)
+)
+Our innovative noninvasive monitoring devices depend on reliable, high-quality sensors, cannulas, and accessories to capture the accurate, high-fidelity patient data trusted by clinicians all over the world. We offer a wide variety of these components, all manufactured to the highest standards, many in both single-patient-use and reusable configurations, to meet a broad spectrum of monitoring needs across all patient populations and care scenarios.
+Description:
+Use:
+Distribution Channel:
+• Extensive line of both single-patient, reusable and rainbow
+®
+ sensors
+• Patient cables, as well as adapter cables, that enable the use of our sensors on certain competitors’ monitors
+• Sold directly to end-users, through distributors and to OEM partners who sell to end-users
+• Extensive line of both single-patient, reusable and rainbow
+®
+ sensors
+• Sold directly to end-users, through distributors and to OEM partners who sell to end-users
+10
+Table of 
+Contents
+Sensors - (Continued)
+Description:
+Use:
+Distribution Channel:
+• Patient cables, as well as adapter cables, that enable the use of our sensors on certain competitors’ monitors
+• Sold directly to end-users, through distributors and to OEM partners who sell to end-users
+Capnography and Gas Monitoring
+(e.g., Rad-97
+®
+ with NomoLine
+®
+ Capnography, Root
+®
+ with Capnography, IRMA
+™
+ CO2, IRMA AX+ and EMMA
+®
+ (
+shown below
+)
+)
+We offer a complete portfolio of capnography and gas monitoring solutions, both sidestream and mainstream, to meet the challenges of ventilation and gas monitoring across care areas, from pre-hospital and in-hospital to transport, long-term care, home care and more. Solutions range from external “plug in and measure” gas analyzers, to bedside and handheld devices, to flexible, integrated OEM offerings.
+Description:
+Use:
+Distribution Channel:
+• Line of disposables to measure gas parameters using mainstream and sidestream capnography
+• Sold directly to end-users, through distributors and to OEM partners who sell to end-users
+11
+Table of 
+Contents
+Proprietary Measurements
+(e.g., SpHb
+®
+, SpCO
+®
+, SpMet
+®
+, PVi
+®
+, RRa
+®
+, RRp
+®
+, ORi
+™
+, 3D Alarms
+®
+ and Adaptive Threshold Alarm)
+Description:
+Use:
+Distribution Channel:
+• rainbow
+®
+ measurements and other proprietary features
+• Licensed directly to end-users and through OEM partners who sell to new and existing end-users
+Hospital Automation
+®
+ and Connectivity Suite
+(e.g., Iris
+®
+ Connectivity, Iris Gateway
+®
+, iSirona
+®
+, Patient SafetyNet
+™
+, UniView
+®
+, UniView: 60
+™
+, Replica
+®
+, Iris
+®
+
+Analytics, and Halo ION
+®
+
+(shown below)
+)
+As increasing amounts of patient information become available to clinicians, new opportunities to enhance the care experience for both the clinician and the patient abound. Our automation solutions are revolutionizing not only the kind of patient data that can be collected and moved through the continuum of care, but also how that information can empower clinicians to deliver superior, evidence-based care. 
+Our hospital automation integrates patient monitoring, driven by clinically proven SET
+®
+ pulse oximetry and rainbow
+®
+ Pulse CO-Oximetry, with sophisticated connectivity and interoperability solutions to seamlessly provide access to the most accurate, relevant patient data in the most helpful ways at the most important moments, improving workflow efficiencies and helping clinicians deliver the best care possible.
+Description:
+Use:
+Distribution Channel:
+• Software and hardware enables third-party devices to connect through Patient SafetyNet
+™
+ and to document data in the EMR
+• Sold directly to end-users
+12
+Table of 
+Contents
+Hospital Automation
+®
+ and Connectivity Suite - (Continued)
+Description:
+Use:
+Distribution Channel:
+13
+Table of 
+Contents
+Hospital Automation
+®
+ and Connectivity Suite - (Continued)
+Description:
+Use:
+Distribution Channel:
+14
+Table of 
+Contents
+Hospital Automation
+™
+ and Connectivity Suite - (Continued)
+Description:
+Use:
+Distribution Channel:
+• Network-linked, wired or wireless, multiple patient floor monitoring solutions
+• Standalone wireless alarm notification solutions
+• Sold directly to end-users
+• Connectivity hub for the aggregation and transmission of patient data to the EMR
+• Sold directly to end-users
+• Early warning indicator designed to identify possible sepsis in patients monitored remotely with Patient SafetyNet
+TM
+• Sold directly to end-users
+15
+Table of 
+Contents
+Minimally Invasive and Noninvasive Advanced Hemodynamic Monitoring Solutions
+(e.g., Masimo LiDCO
+®
+ Hemodynamic Monitoring system, Double Channel Pressure Transducer and Stimpod NMS450X Peripheral Nerve Stimulator
+(shown below)
+)
+The Masimo LidCO
+®
+ Hemodynamic monitoring system provides beat-to-beat advanced monitoring to support informed decision-making in high-acuity care areas like an operating room. This platform uses an already existing arterial line and blood pressure transducer to monitor hemodynamic parameters through the use of the PulseCO
+®
+ algorithm, which converts beat-to-beat blood pressure into its constituent parts, flow and resistance, which is scalable to each patient’s age, height and weight.
+Description:
+Use:
+Distribution Channel:
+•  High-acuity care areas like an operating room
+• Sold directly to end-users and through distributors
+•  High-acuity care areas like an operating room
+• Sold directly to end-users and through distributors
+Home Wellness and Remote Patient Monitoring Solutions to Extend Care from the Hospital to the Home
+(e.g., Masimo SafetyNet
+®
+, Radius T°
+®
+,
+
+MightySat
+®
+ with PVi
+®
+ and RRp
+®
+,
+ iSpO
+2
+®
+, 
+Bridge
+™
+, 
+and Masimo W1
+®
+
+with Sleep 
+(shown below)
+)
+Designed to help providers remotely manage patient care, Masimo SafetyNet
+®
+ is a secure, scalable, cloud-based patient management platform featuring clinical-grade spot-checking and continuous measurements, digital care pathways and remote patient surveillance. 
+Description:
+Use:
+Distribution Channel:
+• Patients receive a multi-day supply of disposable sensors or reusable devices, along with access to the Masimo SafetyNet
+®
+ mobile application
+• Sold directly to end-users and through distributors
+16
+Table of 
+Contents
+Home Wellness and Remote Patient Monitoring Solutions to Extend Care from the Hospital to the Home - (Continued)
+Description:
+Use:
+Distribution Channel:
+• Robust secure video conferencing to the remote patient management and connectivity platform to offer a comprehensive telehealth and telemonitoring solution
+• Sold directly to end-users and through distributors
+• Disposable thermometers, disposable fingertip sensors for sleep monitoring, fingertip pulse oximeter
+• Sold directly to consumers through the Masimo Personal Health website and through consumer retailers
+• Pulse oximeter cable and sensor for use with an iPhone, iPad, iPod touch and select Android smart phones
+• Sold directly to consumers through the Masimo Personal Health website and through consumer retailers
+• Provides real-time monitoring to identify the risk of opioid-induced respiratory depression, sends alerts to the patient and their emergency contacts, followed by an automated wellness call
+• Sold directly to consumers through the Masimo Personal Health website and through consumer retailers
+17
+Table of 
+Contents
+Home Wellness and Remote Patient Monitoring Solutions to Extend Care from the Hospital to the Home - (Continued)
+Description:
+Use:
+Distribution Channel:
+• To provide accurate personal health tracking of vitals, including SpO
+2
+, pulse rate and relative hydration along with recovery and sleep indexes
+• Sold directly to consumers through the Masimo Consumer and individual brand websites and through consumer retailers
+Willow Laboratories, Inc.
+Willow Laboratories, Inc. (Willow), formerly known as Cercacor Laboratories, Inc., is an independent entity spun-off from us to our stockholders in 1998. Joe Kiani, our former Chairman and Chief Executive Officer, is the Chairman and Chief Executive Officer of Willow. We are a party to a cross-licensing agreement with Willow (the Cross-Licensing Agreement), which governs each party’s rights to certain intellectual property held by the two companies.
+The following table outlines our rights under the Cross-Licensing Agreement relating to specific end-user markets and the related technology applications of specific measurements.
+End-User Markets
+Measurements
+Professional Caregiver and
+Alternate Care Market
+Patient and Pharmacist
+Vital Signs
+(1)
+Masimo
+(owns)
+Willow
+(non-exclusive license)
+Non-Vital Signs
+(2)
+Masimo
+(exclusive license)
+Willow
+(owns or exclusive license)
+______________
+(1)
+Vital signs measurements include, but are not limited to, SpO
+2
+, peripheral venous oxygen saturation, mixed venous oxygen saturation, fetal oximetry, sudden infant death syndrome, ECG, blood pressure (noninvasive blood pressure, invasive blood pressure and continuous noninvasive blood pressure), temperature, respiration rate, CO
+2
+, pulse rate, cardiac output, EEG, perfusion index, depth of anesthesia, cerebral oximetry, tissue oximetry and/or EMG, and associated features derived from these measurements, such as 3D alarm
+®
+, PVi
+®
+ and other features.
+(2)
+Non-vital signs measurements include the body fluid constituents other than vital signs measurements and include, but are not limited to, carbon monoxide, methemoglobin, blood glucose, hemoglobin and bilirubin.
+See 
+Note 
+3, “Related Party Transactions”, to our accompanying consolidated financial statements included in Part IV, Item 15(a) of this Annual Report on Form 10-K for additional information on our related party transactions with Willow.
+Government Regulation
+As a global technology company, we are subject to significant government regulation, compliance requirements, fees and costs, both in the U.S. and abroad. These regulatory requirements subject our products and our business to numerous risks that are specifically discussed within 
+“Risks Related to Our Regulatory Environment” under Part I, Item 1A
+—
+“Risk Factors”
+ within this Annual Report on Form 10-K. 
+Due to the breadth of some of these laws, it is possible that some of our current or future practices might be challenged. In addition, we may be required to alter one or more of our practices to remain in compliance with these laws. Evolving interpretations of current laws or the adoption of new laws or regulations could adversely affect many of the arrangements we have with customers and physicians. Some of these laws are broad and open to varying interpretation, increasing our compliance risk. A summary of certain critical aspects of our regulatory environment is included below.
+18
+Table of 
+Contents
+Product Clearance and Approval Requirements for Medical Devices
+Many of our healthcare products are regulated by numerous government agencies, the most significant of which are the U.S. FDA, the national authorities in the European Union (EU) and the United Kingdom (UK), and the Ministry of Health, Labour and Welfare of Japan. In addition, there are government agencies for other countries that regulate our healthcare products for their countries. These requirements vary substantially from country to country. These agencies require us to comply with laws that regulate our quality system, design, development, clinical testing, verification and validation testing, manufacture, packaging, labeling, storage, distribution, import, export, promotion, and adverse event reporting of many of our products.
+In the U.S., unless an exemption applies, each medical device that we wish to market in the U.S. must, generally, first receive from the FDA either 510(k) clearance, premarket approval (PMA), or a 
+de novo 
+classification grant. The appropriate process depends on the risk classification of the medical device. There are three classifications, from Class I (low risk) to Class III (high risk). For certain Class I and Class II medical devices, the FDA’s 510(k) clearance process can be used. It requires us to show that our new medical device is substantially equivalent to a legally marketed “predicate” medical device and can take from four to nine months, but may take longer. Class III medical devices require a PMA. The PMA process requires us to demonstrate through valid scientific evidence that there is reasonable assurance of safety and effectiveness of the device for its intended use. The PMA process is much more costly, lengthy and uncertain than the process of obtaining 510(k) clearance. Devices that have not been classified and cannot demonstrate substantial equivalence through the 510(k) process are automatically classified as Class III medical devices by statute, but for such devices that are low or moderate risk, the 
+de novo
+ classification process can be used. The 
+de novo
+ classification process authorizes the marketing of the device and also creates a new classification for the device type into Class I or Class II.
+
+The 
+de novo
+ process requires us to demonstrate the benefits and risks of the device to show that either general controls (for Class I) or general controls and special controls (for Class II) are sufficient to provide reasonable assurance of the safety and effectiveness of the device. 510(k), PMA and 
+de novo
+ submissions are subject to user fees. The majority of our current regulated medical products fit into Class II device types, requiring 510(k) clearance, while some have been deemed Class I devices or exempt from a 510(k) clearance.
+Most of our OEM partners are required to obtain clearance or approval of their devices that incorporate Masimo’s healthcare technologies, like Masimo SET
+®
+ technology, Masimo rainbow SET
+®
+ technology, Masimo Board-in-Cable technology, or that are used with Masimo’s sensors. We generally allow our OEM partners to cross-reference the 510(k) submission files from our cleared Masimo SET
+®
+ circuit boards, sensors, cables and notification systems.
+In the EU, medical devices are subject to Regulation (EU) No 2017/745 (EU MDR). Under the EU MDR, a medical device may only be placed on the market within the EU if it conforms to “General Safety and Performance Requirements,” has been assessed pursuant to an appropriate conformity assessment procedure and bears a CE Mark. Key General Safety and Performance Requirements entail the medical device’s achievement of its intended medical purpose for its intended population and supports its safe and effective use and that the clinical benefit outweighs the clinical risks. Each medical device that we wish to market in the EU must conform to these requirements. EU MDR provides risk categories for medical devices that range from Class I to Class III. A notified body must be involved in the review of the compliance of higher risk medical devices with the EU MDR and must also assess quality management systems. Individual countries within the EU also have their own notification or registration processes in order to import and distribute medical devices into and within their countries.
+The UK exited the EU on December 31, 2020 (Brexit). The UK continues to follow the prior EU medical device laws (as set out in Directive 93/42/EEC) but has amended its national medical device regulations to include a requirement that medical devices must be registered with the UK Medicines and Healthcare products Regulatory Agency (MHRA) before they are placed on the market in Great Britain (England, Scotland and Wales). Currently, the UK will accept a CE Marked medical device to be registered and placed on the Great Britain market; however, in the future, medical devices marketed in Great Britain will likely need to complete a UK-specific conformity assessment procedure, the details of which are currently subject to consultation, and bear a UKCA Mark. The UKCA Mark is not recognized outside of the UK. 
+Continuing FDA Regulation for Medical Devices
+Clinical trials involving medical devices in the U.S. are subject to FDA regulation. Among other requirements, clinical trial sponsors must comply with requirements related to informed consent, Institutional Review Board (IRB) approval, monitoring, reporting, record-keeping, labeling and promotion. If the study involves a significant risk device, the sponsor must obtain FDA approval of an investigational device exemption application in addition to IRB approval prior to beginning the study. Information regarding certain device clinical trials must also be submitted to a public database maintained by the National Institutes of Health. 
+19
+Table of 
+Contents
+After a device is approved and placed on the market, numerous regulatory requirements continue to apply. These regulatory requirements in the U.S. include, but are not limited to, the following: device listing and establishment registration; adherence to the Quality System Regulation (QSR) which requires stringent testing, control, documentation and other quality assurance procedures for the design, manufacture, storage and handling of devices; labeling requirements and FDA prohibitions against the promotion of off-label uses or indications; adverse event and device malfunction reporting; post-approval restrictions or conditions, including post-approval clinical trials or other required testing for certain devices; post-market surveillance requirements for certain devices; the FDA’s recall authority, whereby it can require the recall of products from the market; and requirements relating to voluntary corrections or removals. Device manufacturers are subject to announced and unannounced inspections by the FDA to evaluate compliance with these requirements.
+Failure to comply with applicable regulatory requirements, which are subject to new legislation and change, can result in enforcement action by the FDA, or other federal and state government agencies, which may include, but may not be limited to, any of the following sanctions or consequences: warning letters or untitled letters; fines, injunctions and civil penalties; recall, seizure or import holds of our products; operating restrictions, suspension or shutdown of production; refusing to issue certificates to foreign governments needed to export products for sale in other countries; refusing our request for 510(k) clearance or premarket approval of new or modified products; withdrawing premarket approvals that are already granted; and criminal prosecution.
+Advertising and Promotion of Medical Devices
+
+Advertising and promotion of medical devices in the U.S., in addition to being regulated by the FDA, are also regulated by the Federal Trade Commission (FTC) and by federal and state regulatory and enforcement authorities, including the Department of Justice, the Office of Inspector General of the Department of Health and Human Services (OIG), and various state attorneys general. Although physicians are permitted to use their medical judgment to use medical devices for indications other than those cleared or approved by the FDA, we may not promote our products for such “off-label” uses and can only market our products for cleared or approved uses. Other companies’ promotional activities for their FDA-regulated products have been the subject of DOJ and FTC enforcement actions brought under healthcare reimbursement laws and consumer protection statutes, respectively. DOJ and FTC enforcement actions often result in consent decrees that constrain future actions. In addition, under the federal Lanham Act and similar state laws, competitors and others can initiate litigation relating to advertising claims. Government agencies in the EU, UK, Japan and other countries and jurisdictions have similar regulations on the advertising and promotion of medical devices.
+Import and Export Requirements Applicable to Medical Devices
+
+To import a device into the U.S., the importer must file an entry notice and bond with the United States Bureau of Customs and Border Protection (CBP). All devices are subject to FDA examination before release from CBP. Any article that appears to be in violation of the Federal Food, Drug and Cosmetics Act (FDCA) may be refused admission and a notice of detention and hearing may be issued. If the FDA ultimately refuses admission, the CBP may issue a notice for redelivery and, if a company fails to redeliver the goods or otherwise satisfy CBP and the FDA with respect to their disposition, may assess liquidated damages for up to three times the value of the lot. The CBP also imposes its own regulatory requirements on the import of our products, including inspection and possible sanctions for noncompliance. 
+Medical device products exported from the U.S. are subject to forei
+gn countries’ import requirements and the exporting requirements of the FDA. In particular, international sales of medical devices manufactured in the U.S. that are not approved or cleared by the FDA for use in the U.S., or that are banned or deviate from lawful performance standards, are subject to FDA export requirements. 
+Foreign countries often require, among other things, a Certificate of Foreign Government (CFG) for export. To obtain a CFG, the device manufacturer must apply to the FDA. The FDA certifies that the product has been granted clearance or approval in the United States and that the manufacturing facilities were in compliance with the FDA’s QSR regulations at the time of the last FDA inspecti
+on.
+20
+Table of 
+Contents
+Anti-Kickback Regulations
+In the U.S., there are federal and state anti-kickback laws that generally prohibit the payment or receipt of kickbacks, bribes or other remuneration in exchange for the referral of patients or other health-related business. The Federal Anti-Kickback Statute (AKS) prohibits anyone from, among other things, knowingly and willfully offering, paying, soliciting or receiving any bribe, kickback or other remuneration intended to induce the referral of patients for, or the purchase, order or recommendation of, health care products and services reimbursed by a federal health care program, including Medicare and Medicaid. Recognizing that the federal anti-kickback law is broad and potentially applicable to many commonplace arrangements, Congress and the OIG have created statutory “exceptions” and regulatory “safe harbors”. Exceptions and safe harbors exist for a number of arrangements relevant to our healthcare business, including, among other things, payments to bona fide employees, certain discount and rebate arrangements, and certain payment arrangements involving Group Purchasing Organizations (GPOs).
+Although an arrangement that fits into one or more of these exceptions or safe harbors is immune from prosecution, arrangements that do not fit squarely within an exception or safe harbor do not necessarily violate the law, but the OIG or other government enforcement authorities may examine the practice to determine whether it involves the sorts of abuses that the statute was designed to combat. Violations of the AKS can result in significant penalties, including imprisonment, monetary fines and assessments, and exclusion from Medicare, Medicaid and other federal health care programs. Exclusion of a manufacturer, like us, would preclude any federal health care program from paying for its products. 
+In addition to the AKS, many states have their own laws that are analogous to the AKS, but may apply regardless of whether any federal or state health care program business is involved. Federal and state anti-kickback laws may affect our sales, marketing and promotional activities, educational programs, pricing and discount practices and policies, and relationships with health care providers by limiting the kinds of arrangements we may have with hospitals, alternate care market providers, GPOs, physicians, payers and others in a position to purchase or recommend our healthcare products.
+False Claims Laws and Fraud Statutes
+Federal and state false claims laws prohibit anyone from presenting, or causing to be presented, claims for payment to third-party payers that are false or fraudulent. The Federal Civil False Claims Act (FCA) imposes liability on any person or entity who, among other things, knowingly and willfully presents, or causes to be presented, a false or fraudulent claim for payment by a federal health care program, including Medicaid and Medicare. Some suits filed under the FCA, known as “qui tam” actions, are brought by a “whistleblower” or “relator” on behalf of the government and such individuals may share in any amounts paid by the entity to the government in fines or settlement. Manufacturers, like us, can be held liable under the FCA, even if they do not submit claims to the government, where they are found to have caused submission of false claims by, among other things, providing incorrect coding or billing advice about their products to customers that file claims, or by engaging in kickback arrangements or off-label promotion with customers that file claims. A number of states also have false claims laws, and some of these laws may apply to claims for items or services reimbursed under Medicaid and/or commercial insurance. Sanctions under these federal and state fraud and abuse laws may include civil monetary penalties and criminal fines, exclusion from government health care programs and imprisonment.
+The Health Insurance Portability and Accountability Act of 1996 (HIPAA) created new federal crimes, including health care fraud and false statements related to health care matters. The health care fraud statute prohibits, among other things, knowingly and willfully executing a scheme to defraud any health care benefit program, including those offered by private payers. The false statements statute prohibits, among other things, knowingly and willfully falsifying, concealing or covering up a material fact or making any materially false, fictitious or fraudulent statement in connection with the delivery of or payment for health care benefits, items or services. A violation of either statute is a felony and may result in fines, imprisonment and other significant penalties.
+Transparency Regulations
+The Physician Payment Sunshine Act (Sunshine Act), which was enacted by Congress as part of the Patient Protection and Affordable Care Act (ACA), requires medical device companies to track and publicly report, with limited exceptions, all payments and transfers of value to physicians, advance practice nurses, physician assistants, and teaching hospitals in the U.S. Companies are required to track payments made and to report such payments to the government by March 31 of each year. Several states have similar requirements. In addition to the burden of establishing processes for compliance, if we fail to provide these reports, or if the reports we provide are not accurate, we could be subject to significant penalties.
+21
+Table of 
+Contents
+Anti-Corruption Laws
+Our international operations are subject to the U.S. Foreign Corrupt Practices Act of 1977 (FCPA), the U.K. Bribery Act 2010 and other global anti-corruption laws. The FCPA and similar worldwide anti-bribery laws generally prohibit companies from directly or indirectly promising, offering, or giving anything of value to a non-U.S. official corruptly to influence the official for the purpose of gaining an improper advantage to assist in obtaining or retaining business. We interact with foreign officials because our business is regulated in every country where we operate, and in many countries outside of the U.S., we sell our products to government entities or to health care providers employed by the government who may be considered foreign officials. Failing to comply with the FCPA or any other applicable anti-corruption law could result in fines, penalties or other adverse consequences.
+Third-Party Reimbursement for Medical Devices
+Health care providers in the U.S., including hospitals, that purchase our healthcare products generally rely on third-party payers, including the Medicare and Medicaid programs and private payers, including indemnity insurers and managed care plans, to cover and reimburse all or part of the cost of our healthcare products and the procedures in which they are used. As a result, demand for our healthcare products is dependent in part on the coverage and reimbursement policies of these payers. No uniform coverage or reimbursement policy for medical technology exists among all third-party payers, and coverage and reimbursement can differ significantly from payer to payer. 
+Because a large percentage of our healthcare products are used by Medicare beneficiaries, Medicare’s coverage and reimbursement policies are particularly significant to our healthcare business. Generally, Medicare will cover a medical product or procedure when the product or procedure is included within a statutory benefit category and is reasonable and necessary for the diagnosis or treatment of an illness or injury, or to improve the functioning of a malformed body part. Even if the medical product or procedure is considered medically necessary and coverage is available, Medicare may place restrictions on the circumstances where it provides coverage. Because payments through the prospective payment system in both the hospital inpatient and outpatient settings are based on predetermined rates and may be less than a hospital’s actual costs in furnishing care, hospitals have incentives to lower their operating costs by utilizing products that will reduce the length of inpatient stays, decrease labor costs or otherwise lower their costs. If hospitals cannot obtain adequate coverage and reimbursement for our products, or the procedures in which they are used, we cannot be certain that they will purchase our products, despite the clinical benefits and opportunity for cost savings that we believe can be derived from their use.
+Our success with rainbow SET
+®
+ technologies in the U.S. market in settings of care with reimbursable monitoring procedures, such as hospital emergency departments, hospital clinical labs and physician offices, may largely depend on the ability of providers to receive reimbursement for such procedures. While private insurance payers often follow Medicare coverage and payment rates, we cannot be certain of this and, in many cases, cannot control the coverage or payment rates that private insurance payers put in place. 
+The adoption of certain of our healthcare products that are marketed and sold directly to end-user consumers, partially depends on the ability of consumers to have the cost of these products reimbursed by Medicare, Medicaid or their private health insurance provider. To date, these products are generally not covered by public or private payers and we do not intend to seek reimbursement for these products at this time.
+Our success in non-U.S. markets depends largely upon the availability of coverage and reimbursement from the third-party payers through which health care providers are paid in those markets. Health care payment systems in non-U.S. markets vary significantly by country, and include single-payer government managed systems, as well as systems in which private payers and government managed systems exist side-by-side. Our ability to achieve market acceptance or significant sales volume in international markets we enter will be dependent in large part on the availability of reimbursement for procedures performed using our products under health care payment systems in such markets. 
+Other U.S. and Foreign Regulation
+We must comply with numerous federal, state and local laws, as well as laws in other jurisdictions, relating to matters such as safe working conditions, manufacturing practices, environmental protection, fire hazard control and hazardous substance disposal. We may be required to incur significant costs to comply with these laws and regulations in the future. Unanticipated changes in existing regulatory requirements, adoption of new requirements and increased compliance costs could hurt our business, financial condition and results of operations.
+22
+Table of 
+Contents
+Data Privacy and Protection of Health and Other Personal Information 
+Both at the federal and state levels, the U.S. has increased legislative activity in connection with data privacy and data security. In addition to the California Privacy Rights Act (CPRA) which went into effect on January 1, 2023, a number of other states have passed comprehensive consumer privacy laws or have introduced related bills. On the federal level, an omnibus privacy bill (the American Data Privacy and Protection Act) was proposed and is currently under congressional review. If enacted, the law will dramatically increase oversight of how companies collect, use, and store the personal data. Federal agencies such as the FTC and the Securities and Exchange Commission (SEC) have increased their scrutiny and enforcement of how companies disclose their use of personal data to consumers, secure personal data, and report unauthorized disclosures of personal data. In particular, the FTC has issued statements that indicate increase in enforcement action against deceptive marketing practices that use cookies, pixels and other tracking tags to monitor consumer behavior. Moreover, there has been a similar increase in privacy-related class action litigation in connection with the use of consumers’ personal data.
+Internationally, in addition to the General Data Protection Regulation (GDPR) in Europe, other jurisdictions have adopted their own data privacy and protection laws. China, Canada, the Kingdom of Saudi Arabia, the UAE, Australia, Argentina and India have all passed new privacy and data protection laws. We have implemented, and continue to implement, procedures and processes to comply with these various laws and regulations. As international data privacy and protection laws continue to evolve, and as new regulations, interpretive guidance and enforcement information become available, we may incur incremental costs to modify our business practices to comply with these requirements. In addition, our internal control policies and procedures may not always protect us from reckless or criminal acts committed by third-parties, nation states, our employees or agents.
+Recently, we have seen a global rise in scrutiny and legislative activity in connection with data breaches of health information in medical devices. Data security related to medical devices has been a priority for us and will continue to be so as we strive to safeguard the health information of our device users and of our customers’ patients. We may be required to make costly system and device modifications to comply with privacy and security requirements. Our failure to comply may result in liability and adversely affect our business.
+Additionally, in the U.S., HIPAA applies to covered entities and extends to their business associates. Covered entities include many healthcare facilities that purchase and use our products. The HIPAA Privacy Rule restricts the use and disclosure of protected health information (PHI) and requires covered entities and their business associates to safeguard that information. The HIPAA Security Rule establishes detailed technical, administrative and physical requirements for safeguarding PHI transmitted or stored electronically. Although we are not a covered entity, we are sometimes deemed by our U.S. customers to be a business associate due to activities that we perform for or on behalf of covered entity customers. As business associates, we may be subject to many of the requirements of HIPAA and could be directly subject to HIPAA civil and criminal enforcement and the associated penalties for violation of the Privacy, Security and Breach Notification Rules. Moreover, even when we are not a business associate, healthcare facilities impose contractual limitations on the use and disclosure of their patients’ health information, and otherwise require additional safeguards to protect that information. These laws, as well as any new developing laws around health data, could create liability for us and increase our cost of doing business as well as increase costs associated with complying with these various laws both in the U.S. and globally. 
+Environmental Regulations
+We are subject to stringent international, federal, state and local laws relating to the protection of the environment, including those governing the use, handling and disposal of hazardous materials and wastes. Products that we sell in Europe are subject to regulation in EU markets under the Restriction of Hazardous Substances Directive (RoHS). RoHS prohibits companies from selling products that contain certain hazardous materials in EU member states. Other regulations which affect the product content, manufacturing, packaging and disposal of our products include, for example, the Registration, Evaluation, Authorization and Restriction of Chemical substances, the Waste Electrical and Electronic Equipment Directive, and the Directive on Packaging and Packaging Waste enacted in the EU which require the registration of and regulate the use of certain hazardous substances and chemicals in certain products we manufacture, and require the collection, reuse and recycling of waste product and packaging from certain products we manufacture. Similar legislation that has been or is in the process of being enacted in Japan, China, other foreign countries and various states of the U.S. may require us to re-design our products to ensure compliance with the applicable standards, for example by requiring the use of different types of materials or adding country specific product and/or packaging labeling. Any redesigns or alternative materials may detrimentally impact the performance of our products, add greater testing lead-times for product introductions, result in additional costs or have other similar negative effects.
+Future environmental laws may require us to alter our manufacturing processes, thereby increasing our manufacturing costs. We believe that our products and manufacturing processes at our facilities comply in all material respects with applicable environmental laws and worker health and safety laws; however, the risk of environmental liabilities cannot be completely eliminated.
+23
+Table of 
+Contents
+Markets
+Competitive Conditions
+We compete in many healthcare electronic markets across the globe. These markets are highly competitive and are characterized by continual change and improvements in technology. Many of our competitors have substantially greater financial resources, broader product portfolios and more aggressive advertising and marketing strategies and may be able to adapt to market preferences or consumer demands more rapidly than us. Competitors may develop superior products or products of similar quality for sale at the same or lower prices. Moreover, our products could be rendered obsolete by changes to industry standards or guidelines or advances in technology.
+Our primary competitor in the healthcare market is Medtronic plc, who currently holds a substantial share of the pulse oximetry market. In addition, large technology companies that have not historically operated in the healthcare or medical device space, such as Alphabet Inc. (Alphabet), Amazon, Apple Inc. (Apple), Samsung Electronics Co., Ltd. (Samsung) and others, have developed or may develop products and technologies that may compete with our current or future products and technologies in the consumer health and professional healthcare marketplaces. 
+We believe that the principal competitive factors in the markets in which we operate include:
+•
+brand recognition, perception of innovation abilities, and reputation;
+•
+product technology and innovation;
+•
+product quality and safety; 
+•
+quality, cost-effectiveness and price;
+•
+breadth of product lines, network of technology and content partners;
+•
+access to hospitals which are members of GPO and OEM partners;
+•
+access to integrated delivery networks, third party retailers, sales channels, e-commerce, distributors, retailers and omni-channel retailers; and
+•
+patent protection.
+Market Demand 
+We currently sell our healthcare products directly to hospitals and various distributors in the U.S. and around the world, including Europe, the Middle East and Asia Pacific, through our direct sales force. We sell our home wellness products through e-commerce internet sites such as 
+www.masimopersonalhealth.com
+,
+
+www.amazon.com
+
+and
+
+www.shopify.com
+.
+Our sales and marketing strategy for pulse oximetry has been, and will continue to be, focused on building end-user awareness of the clinical and cost-saving benefits of our technologies. Our healthcare sales representatives’ primary focus is to facilitate the conversion of competitor accounts to our Masimo SET
+®
+ pulse oximetry and rainbow SET
+®
+ Pulse CO-Oximetry products, to expand the use of Masimo SET
+®
+ and Patient SafetyNet
+™
+ on the general hospital floor and to create and expand the use of rainbow
+®
+ measurements in both critical care and non-critical care areas. In addition to sales representatives, we employ clinical specialists to work with our sales representatives to educate end-users on the benefits of Masimo SET
+®
+ and assist with the introduction and implementation of our technology and products to their sites.
+For the year ended December 28, 2024, one just-in-time healthcare distributor represented approximately 18.5% of our total healthcare revenue. This was the only customer that represented 10% or more of our healthcare revenue for the year ended December 28, 2024. Importantly, this distributor takes and fulfills orders from our direct healthcare customers, many of which have signed long-term sensor purchase agreements with us. If a specific just-in-time healthcare distributor is unable to fulfill these orders, the orders would be redirected to other healthcare distributors or fulfilled directly by us.
+Additionally, we sell certain of our healthcare products through our OEM partners who incorporate our technologies into their monitors and sometimes resell our sensors to their installed base. Our OEM agreements allow us to expand the availability of our technologies through the sales and distribution channels of each OEM partner. To facilitate clinician awareness of Masimo technologies, our OEM partners have generally agreed to place the applicable Masimo trademark prominently on their instruments.
+In order to facilitate our U.S. direct sales to hospitals, we have signed contracts with what we believe to be the five largest national GPOs in the U.S., based on the total volume of negotiated purchases. In return for the GPOs putting our healthcare products on contract, we have agreed to pay the GPOs a percentage of our healthcare revenue from their member hospitals. In 2024 and 2023, healthcare revenues from the sale of our pulse oximetry products to hospitals that are associated with GPOs amounted to $794.0 million and $678.1 million, respectively.
+24
+Table of 
+Contents
+Seasonality
+Our quarterly revenues for the healthcare and non-healthcare segments are influenced by many factors, including new product releases, acquisitions, regulatory approvals, holiday schedules, hospital census, the timing of influenza season, consumer discretionary spending, inflation, competitive pricing, adaption of new technologies and consumer loyalty, among other factors. 
+Our healthcare revenues in the third quarter of our fiscal years have generally historically represented a lower percentage of segment revenues due to the seasonality of the U.S., European and Japanese markets, where summer vacation schedules normally result in fewer medical procedures utilizing our healthcare products. 
+Our non-healthcare revenues in the fourth quarter of a fiscal year generally produce a higher percentage of our segment revenues than the other quarters of our fiscal year due to the holiday shopping season and our corresponding promotional activities. 
+Resources
+Intellectual Property
+We believe that in order to maintain a competitive advantage in the marketplace, we must develop and maintain protection of the proprietary aspects of our technology. The ownership of intellectual property rights is an important factor in our business. We rely on a combination of patents, trademarks, trade secrets, copyrights, know-how, continuing technological innovations, licensing opportunities, internet domain names and other intellectual property rights and measures to protect our intellectual property in the U.S. and a number of foreign countries.
+We have developed a diverse intellectual property portfolio internally, and through acquisitions and licensing, that covers many aspects of our product offerings. In aggregate, our intellectual property is of material importance to our business; however, we believe that no single intellectual property asset or license is material on its own to either segment of our business or to our business as a whole.
+Under the Cross-Licensing Agreement, we and Willow have agreed to allocate proprietary ownership of technology developed based on the functionality of the technology. We will have proprietary ownership, including ownership of all patents, copyrights and trade secrets, of all technology related to the noninvasive monitoring of vital signs measurements, and Willow will have proprietary ownership of all technology related to the noninvasive monitoring of non-vital signs measurements. 
+We have been issued hundreds of patents and trademarks and currently have hundreds of pending patent and trademark applications in the U.S. and abroad and continue to file for additional patent and trademark protection where appropriate and cost effective. We intend to hold these patents and trademarks as part of our strategy to protect and defend our technology and branding, including to protect and defend our company in patent‑related and trademark-related litigation. We believe that our intellectual property has significant value and is important to our brand‑building efforts and the marketing of our products and services. We cannot predict, however, whether steps taken by us to protect our proprietary rights will be adequate to prevent misappropriation of any of these rights. 
+Some of our competitors may seek to compete primarily through aggressive pricing and low-cost structures while infringing on our intellectual property. Third parties may also design around our proprietary rights, which may render our protected products less valuable if the design around is favorably received in the marketplace. Litigation may be necessary to enforce our intellectual property rights, to protect our trade secrets, to determine the validity and scope of the proprietary rights of others, or to defend against claims of infringement or invalidity, misappropriation, or other claims. There is no guarantee that we will prevail on our litigation claims against third parties and any such litigation could result in substantial costs and diversion of our resources. Moreover, any settlement of or adverse judgment resulting from such litigation could require us to obtain a license to continue to use the technology that is the subject of the claim, or otherwise restrict or prohibit our use of the technology. Any required licenses may not be available to us on acceptable terms, if at all. If we attempt to design around the technology at issue or to find another provider of suitable alternative technology to permit us to continue offering applicable software or product solutions, our continued supply of software or product solutions could be disrupted or our introduction of new or enhanced software or products could be significantly delayed.
+We seek to protect our trade secrets and proprietary know-how, in part, with confidentiality agreements with consultants, vendors and employees, although we cannot be certain that the agreements will not be breached or that we will have adequate remedies for any breach.
+There are risks related to our intellectual property rights. For further detail on these risks, see 
+“Risks Related to Our Intellectual Property” under Item 1A
+—
+“Risk Factors”
+ in this Annual Report on Form 10-K.
+25
+Table of 
+Contents
+Research and Product Development
+We believe that ongoing research and product development (R&D) efforts are essential to our success. Our R&D efforts focus on continuing to enhance our technical expertise toward our existing product portfolios, expanding our technological leadership in each of the markets we serve with new innovations, entering into strategic partnerships with third parties to fund the development of certain new technologies, driving growth in emerging markets and introducing new products necessary to maintain market superiority, while reducing the cost of care. In addition, we continue to collaborate with Willow on R&D activities related to advancing rainbow
+®
+ technology and other technologies. 
+Manufacturing
+Our strategy is to manufacture products in-house when it is efficient and cost-effective for us to do so. We manufacture products at facilities located in various countries throughout the world and maintain captive contract maquiladora operations for key healthcare components. For information related to our manufacturing facilities, refer to
+
+“

@@ -1,0 +1,445 @@
+Item 3.
+Legal Proceedings
+55
+Item 4.
+Mine Safety Disclosures
+55
+PART II
+Item 5.
+Market for the Registrant’s Common Equity and Related Matters
+56
+Item 6.
+[Reserved]
+57
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+57
+Item 7A.
+Quantitative and Qualitative Disclosures about Market Risk
+70
+Item 8.
+Financial Statements and Supplementary Data
+F-
+1
+Item 9.
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+76
+Item 9A.
+Controls and Procedures
+76
+Item 9B.
+Other Information
+79
+Item 9C.
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+79
+PART III
+Item 10.
+Directors, Executive Officers and Corporate Governance
+80
+Item 11.
+Executive Compensation
+83
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management
+92
+Item 13.
+Certain Relationships and Related Transactions, and Director Independence
+94
+Item 14.
+Principal Accountant Fees and Services
+95
+PART IV
+Item 15.
+Exhibits and Financial Statement Schedules
+97
+Item 16.
+Form 10-K Summary
+99
+i
+Table of Contents
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS 
+This annual report on Form 10-K (the “Annual Report”) contains “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Such statements include, but are not limited to, statements about our future results of operations and financial position, our operational performance, our anticipated growth and business strategy, our future capital expenditures and debt service obligations, the projected costs, prospects and plans and objectives of management for future operations, including regarding expected growth and demand for our batteries and energy storage solutions and introduction of new batteries and energy storage solutions, the adoption of such offerings by customers, our expectations relating to backlog, pipeline and contracted backlog, our ability to implement our remediation plan in connection with the material weakness in our internal control over financial reporting, current expectations relating to legal proceedings and anticipated impacts and benefits from the Inflation Reduction Act of 2022 as well as any other proposed or recently enacted legislation. In some cases, you may also identify forward-looking statements by words such as “anticipate,” “believe,” “continue,” “could,” 
+
+“estimate,” “expect,” “intend,” “may,” “might,” “objective,” “plan,” “project,” “predict,” “outlook” “should,” “will,” “would,” or the negative of these terms, or other comparable terminology intended to identify statements about the future. Such forward-looking statements are based upon the current beliefs and expectations of management and are inherently subject to significant business, economic and competitive uncertainties and contingencies, many of which are difficult to predict and generally beyond our control. Actual results and the timing of events may differ materially from the results anticipated in these forward-looking statements.
+In addition to factors identified elsewhere in this Annual Report, the following factors, among others, could cause actual results and the timing of events to differ materially from the anticipated results or other expectations expressed in the forward-looking statements:
+•
+our ability to remain a going concern;
+•
+risk that we may not be able to execute our growth strategies or achieve profitability;
+•
+risk that we may be unable to meet our future capital requirements and we may require additional capital to support our business growth, and this capital might not be available on acceptable terms, or at all;
+•
+potential difficulties in maintaining manufacturing capacity and establishing expected mass manufacturing capacity in the future;
+•
+risks relating to delays, disruptions and quality control problems in our manufacturing operations; 
+•
+restrictions in our existing and any future credit facilities;
+•
+risks of operations in China;
+•
+the effects of mechanics liens filed by contractors that we do not have sufficient funds to pay;
+•
+the effects of existing and future litigation;
+•
+changes in general economic conditions, including increases in interest rates and associated Federal Reserve policies, a potential economic recession, and the impact of inflation on our business;
+•
+changes in the highly competitive market in which we compete, including with respect to our competitive landscape, technology evolution or regulatory changes;
+•
+changes in availability and price of raw materials;
+•
+labor relations, including the ability to attract, hire and retain key employees and contract personnel;
+•
+heightened awareness of environmental issues and concern about global warming and climate change;
+•
+risk that we are unable to secure or protect our intellectual property;
+ii
+Table of Contents
+•
+risk that our customers or third-party suppliers are unable to meet their obligations fully or in a timely manner;
+•
+risks related to possible future reductions in pricing or order volume or loss of one or more of our significant customers;
+•
+risks relating to our status as a relatively low-volume purchaser as well as from supplier concentration and limited supplier capacity;
+•
+risk that our customers will adjust, cancel or suspend their orders for our products;
+•
+risks relating to our ability to attract new customers and retain existing customers;
+•
+risks related to our lengthy sales cycle for our products;
+•
+risk of product liability or regulatory lawsuits or proceedings relating to our products or services;
+•
+our ability to maintain and enhance our reputation and brand recognition;
+•
+the effectiveness of our information technology and operational technology systems and practices to detect and defend against evolving cyberattacks;
+•
+changing laws regarding cybersecurity and data privacy, and any cybersecurity threat or event;
+•
+the effects and associated cost of compliance with existing and future laws and governmental regulations, such as the IRA;
+•
+risks relating to whether renewable energy technologies are suitable for widespread adoption or if sufficient demand for our offerings does not develop or takes longer to develop than we anticipate; 
+•
+economic, financial and other impacts such as a pandemic, including global supply chain disruptions; and 
+•
+the impacts of geopolitical events, including the ongoing conflicts between Russia and Ukraine and in the Middle East.
+Actual results, performance or achievements may differ materially, and potentially adversely, from any forward-looking statements and the assumptions on which those forward-looking statements are based. There can be no assurance that the data contained herein is reflective of future performance to any degree. You are cautioned not to place undue reliance on forward-looking statements as a predictor of future performance as forward-looking statements are based on estimates and assumptions that are inherently subject to various significant risks, uncertainties and other factors, many of which are beyond our control.
+All information set forth herein speaks only as of the date hereof, and we disclaim any intention or obligation to update any forward-looking statements as a result of developments occurring after the date hereof except as may be required under applicable securities laws. Forecasts and estimates regarding our industry and end markets are based on sources we believe to be reliable, however, there can be no assurance these forecasts and estimates will prove accurate in whole or in part.
+All references to the “Company,” “we,” “us” or “our” refer to Microvast Holdings, Inc. and its consolidated subsidiaries other than certain historical information which refers to the business of Microvast prior to the consummation of the Business Combination.
+iii
+Table of Contents
+GLOSSARY
+Industry Specific Defined Terms
+•
+“Ah” refers to ampere hour; 
+•
+“°C” refers to degrees measured in Celsius;
+•
+“BMS” refers to the battery management system;
+•
+“ESS” refers to utility-scale energy storage systems;
+•
+“EV” refers to an electric vehicle; 
+•
+“FCG” refers to the full concentration gradient;
+•
+“GHG” refers to greenhouse gas;
+•
+“GWh” refers to gigawatt hours;
+•
+“KWh” refers to kilowatt-hour;
+•
+“LFP” refers to lithium iron phosphate;
+•
+“LTO” refers to lithium titanate oxide;
+•
+“MWh” refers to megawatt hours;
+•
+“NMC” refers to nickel manganese cobalt-based products generally;
+•
+“NMC-1” refers to nickel manganese cobalt version 1;
+•
+“NMC-2” refers to nickel manganese cobalt version 2;
+•
+“OEMs” refers to original equipment manufacturers;
+•
+“Wh/l” refers to watt hours per liter; and 
+•
+“Wh/kg” refers to watt hours per kilogram.
+General Defined Terms
+•
+"2012 Plan" refers to the Microvast Holdings, Inc. 2012 Share Incentive Plan; 
+•
+“2021 Plan” refers to the Microvast Holdings, Inc. 2021 Equity Incentive Plan;
+•
+"2022 Facility Agreement" refers to the loan facilities agreement entered into with a group of lenders led by a bank in China;
+•
+"2024 Director Compensation Policy" refers to the non-employee director compensation policy adopted by the Board on March 30, 2024;
+•
+"2024 LTI" refers to the 2024 long-term incentive awards approved pursuant to the 2021 Plan;
+•
+"AAA" refers to the American Arbitration Association;
+•
+“Annual Report” refers to this annual report for the year ended December 31, 2024 filed on Form 10-K;
+•
+“Annual RSUs” refers to an annual award of restricted stock units;
+•
+"ASC" refers to Accounting Standards Codifications;
+iv
+Table of Contents
+•
+"ASC 360" refers to the ASC titled "Property, Plant and Equipment";
+•
+"ASC 805" refers to the ASC titled "Business Combinations";
+•
+"ASU" refers to Accounting Standards Updates;
+•
+"ASU 2023-07" refers to the ASU titled "Improvements to Reportable Segment Disclosures";
+•
+"ASU 2023-09" refers to the ASU titled "Improvements to Income Tax Disclosures";
+•
+"Aurora" refers to Aurora Sheen Limited;
+•
+“Board” refers to the board of directors of Microvast Holdings, Inc.; 
+•
+“Business Combination” refers to the business combination pursuant to the Agreement and Plan of Merger dated February 1, 2021, between Tuscan, Microvast, Inc. and TSCN Merger Sub Inc.;
+•
+“CAC” refers to the Cyberspace Administration of China;
+•
+“CAP” refers to compensation actually paid;
+•
+"CDH Investment" refers to CDH Investment Management Company Limited;
+•
+"CEO" refers to our chief executive officer;
+•
+"CII" refers to critical information infrastructure;
+•
+"Circular 43" refers to the CSRC release titled "Trial Measures for the Administration of Overseas Issuance and Listing of Securities by Domestic Enterprises";
+•
+"Clarksville Property" refers to our property in Clarksville, Tennessee;
+•
+"Closing Date" refers to July 23, 2021, the date of the merger between Microvast, Inc. and Tuscan;
+•
+"CODM" refers to the Chief Operating Decision Makers of the Group;
+•
+"Company" refers to Microvast Holdings, Inc. and its subsidiaries;
+•
+"Consolidated Derivative Action" refers to the litigation captioned 
+In re Microvast Holdings, Inc. Derivative Litigation
+, Lead Case No. 4:24-cv-00372 (S.D. Tex.);
+•
+“COVID-19” refers to the coronavirus pandemic;
+•
+"CRO" refers to the PRC's Cybersecurity Review Office; 
+•
+“CSRC” refers to the China Securities Regulatory Commission;
+•
+"CRSU Modification" refers to the 2022 modification of the CRSUs under the 2021 Plan from cash settlement to share settlement; 
+•
+"CRSUs" refers to capped non-vested share units;
+•
+"DGCL" refers to Delaware General Corporation Law;
+•
+"Dinghui Equity" refers to Dinghui Equity Investment Management (Tianjin) Company Limited;
+•
+“DOE” refers to the U.S. Department of Energy;
+•
+“DOT” refers to the U.S. Department of Transportation;
+•
+"EarlyBird Capital" refers to EarlyBird Capital, Inc.;
+v
+Table of Contents
+•
+"EGC" refers to an Emerging Growth Company, as defined under the JOBS Act;
+•
+"EIT Law" refers to the PRC's Enterprise Income Tax law;
+•
+"Elective RSUs" refers to RSUs that may be granted to non-employee directors, other than Mr. Zheng, in lieu of their annual cash retainer and/or committee chair retainer; 
+•
+"Employment Agreement" refers to the written employee arrangement between the Company and Mr. Yang Wu; 
+
+•
+“EPA” refers to the U.S. Environmental Protection Agency;
+•
+“E.U.” refers to the European Union;
+•
+“Elective RSUs” refers to non-employee directors annual cash retainer;
+•
+“Escrow Agent” refers to Continental Stock Transfer & Trust Company as escrow agent;
+•
+"Escrow Agreement" refers to the Escrow Agreement between Tuscan, the Company, Continental Stock Transfer & Trust Company and the Tuscan Group;
+•
+"Evergreen" refers to Evergreen Ever Limited;
+•
+“Exchange Act” refers to the Securities Exchange Act of 1934, as amended;
+•
+"FASB Topic 718" refers to the Financial Account Standards Board ASC Topic 718, Compensation—Stock Compensation";
+•
+“FCPA” refers to the Foreign Corrupt Practices Act;
+•
+"FERC" refers to the Federal Energy Regulatory Commission;
+•
+"financial statements" refers to the Company's related consolidated statements of operations, comprehensive loss, changes in shareholders’ equity, and cash flows, for each of the three years in the period ended December 31, 2024, and the related notes and the schedule listed in Schedule I of this Annual Report on Form 10-K;
+•
+"First Amendment" refers to the First Amendment to the Loan Agreement entered into on March 17, 2025;
+•
+"First Earn-Out Target" refers to the date on which the last sale price of our common stock equals or exceeds $12.00 per share for any 20 trading days within any 30-trading day period following the closing of the Business Combination;
+•
+"Founders" refers to Stefan M. Selig, Richard O. Rieger, Amy Butte and Tuscan Holdings Acquisition LLC; 
+•
+“Founder Shares” refers to the 6,900,000 founder shares purchased by the Tuscan Group for a purchase price of $25,000 in connection with the IPO;
+•
+“G&A” refers to general and administrative;
+•
+“U.S. GAAP” refers to U.S. Generally Accepted Accounting Principles; 
+•
+"GITC" refers to information technology general controls;
+•
+"Griffin Holdings" refers to CDH Griffin Holdings Company Limited;
+•
+"HFCAA" refers to the Holding Foreign Companies Accountable Act of 2020;
+•
+"HF Holdings" refers to CDH China HF Holdings Company Limited;
+•
+“HMR” refers to the DOT’s Hazardous Materials Regulations;
+•
+"Hongwei" refers to our majority-owned subsidiary, Huzhou Hongwei New Energy Automobile Co., incorporated in Huzhou, PRC;
+vi
+Table of Contents
+•
+"IATA" refers to the International Air Transport Association;
+•
+"ICAO" refers to the International Civil Aviation Organization;
+•
+“ICE” refers to an internal combustion engine; 
+•
+“Investment Committee” refers to the members of the investment committee of New Trend;
+•
+“IPO” refers to Tuscan Holdings Corp.’s initial public offering;
+•
+“IRA” refers to the Inflation Reduction Act of 2022;
+•
+“IR Committee” refers to the investment and risk committee of Evergreen and Aurora;
+•
+"JOBS Act" refers to the Jumpstart Our Business Startups Act of 2012; 
+•
+"Loan Agreement" refers to the convertible loan agreement between the Company and Mr. Yang Wu; 
+•
+"Merger" refers to the business combination pursuant to the Agreement and Plan of Merger dated February 1, 2021, between Tuscan, Microvast, Inc. and TSCN Merger Sub Inc.;
+•
+"Merger Agreement" refers to the Agreement and Plan of Merger dated February 1, 2021, between Tuscan, Microvast, Inc. and TSCN Merger Sub Inc.;
+•
+“MV Energy” refers to our energy division incorporated in Colorado and headquartered in Tennessee, that designs, develops and manufactures battery energy storage systems;
+•
+"MV GmbH" refers to Microvast GmbH, our majority-owned subsidiary incorporated in Germany; 
+•
+“MPS” refers to Microvast Power Systems Co. Ltd., our majority-owned subsidiary incorporated in Huzhou, China;
+•
+"MP Solutions" refers to Microvast Power Solutions, Inc., our majority-owned subsidiary incorporated in Texas, U.S. 
+•
+"MPW" refers to Microvast Precision Works Co., Ltd;
+•
+“NASDAQ“ refers to the NASDAQ stock exchange;
+•
+“NEOs” refers to our named executive officers for the year ended December 31, 2024 as defined by the Securities Act;
+•
+"New Trend" refers to Hangzhou CDH New Trend Equity Investment Partnership (Limited Partnership);
+•
+"NHTE" refers to a New and High Tech Enterprise, as defined under PRC law;
+•
+"Non-PEO NEOs" refers to non-PEO named executive officers;
+•
+"notes" refers to bank acceptance notes;
+•
+“NPDES” refers to the EPA’s National Pollutant Discharge Elimination System; 
+•
+"OFAC" refers to the U.S. Department of Treasury's Office of Foreign Assets Control;
+•
+“OSHA” refers to the U.S. Occupational Safety and Health Administration; 
+•
+"OTTI" refers to an other-than-temporary-impairment, in the context of short-term held-to-maturity investments;
+•
+“PCAOB” refers to the Public Company Accounting Oversight Board;
+•
+"PEO" refers to our principal executive officer;
+vii
+Table of Contents
+•
+"PHMSA" refers to the U.S. DOT's Pipeline and Hazardous Materials Safety Administration;
+•
+"Piccadilly" refers to  Piccadilly, L.P.;
+•
+"PIK" refers to paid in kind;
+•
+"Pound" refers to the Great British Pound;
+•
+“PRC” refers to the People’s Republic of China;
+•
+"Private Warrants" refer to the private placement warrants issued to the Sponsor and EarlyBird Capital; 
+•
+“PSUs” refers to performance stock units;
+•
+"Public Warrants" refers to the publicly-traded warrants issued in connection with Tuscan's IPO;
+•
+"PURPA" refers to the Public Utility Regulatory Policies Act;
+•
+“R&D” refers to research and development;
+•
+“RMB" refers to Renminbi; 
+•
+“RSUs” refers to restricted stock units;
+•
+“SEC” refers to the U.S. Securities and Exchange Commission;
+•
+"Second Earn-Out Target" refers to the date on which the last sale price of our common stock equals or exceeds $15.00 per share for any 20 trading days within any 30-trading day period following the closing of the Business Combination;
+•
+“Securities Act” refers to the Securities Act of 1933, as amended;
+•
+"Schelling Action" refers to the litigation captioned 
+Schelling v. Microvast Holdings, Inc., 
+Case No. 4:23-cv-04565 (S.D. Tex.) (filed Dec. 5, 2023);
+•
+"SCT" refers to the summary compensation table;
+•
+"Shanghai Baifu" refers to CDH Shanghai Baifu Wealth Management Company;
+•
+"Shanghai Dinghui" refers to Shanghai Dinghui Pingxun Investment Partnership (LLP);
+•
+"SOFR" refers to to the Secured Overnight Financing Rate; 
+•
+"Sponsor" refers to Tuscan Holdings Acquisition LLC;
+•
+"SRC" refers to a smaller reporting company, as defined in the Exchange Act;
+•
+“Stockholders Agreement” refers to the agreement, entered into on July 23, 2021, by and among Microvast Holdings, Inc., Tuscan Holdings Acquisition LLC and Mr. Yang Wu; 
+•
+"Stock Incentive Plan" refers to the Microvast, Inc. Stock Incentive Plan;
+•
+“TCO” refers to the total cost of ownership;
+•
+“TSR” refers to total stockholder return;
+•
+“Tuscan Director” refers to Stephen Vogel as the director nominated by the Tuscan Group under the terms of the Stockholders Agreement;
+viii
+Table of Contents
+•
+“Tuscan” refers to Tuscan Holdings Corp, a Delaware corporation established in November 2018 for the purpose of effecting a merger, capital stock exchange, asset acquisition, stock purchase, reorganization, or similar business combination with one or more businesses;
+•
+“Tuscan Group” refers to Stefan M. Selig, Richard O. Rieger, Amy Butte and Tuscan Holdings Acquisition LLC;
+•
+“U.K.” refers to the United Kingdom;
+•
+“U.S.” refers to the United States of America;
+•
+"U.S. Dollar" refers to the United States Dollar;
+•
+"WARN Act" refers to the U.S. Worker Adjustment and Notification Act of 1988; 
+•
+"Warrants" refers to both the Public and Private Warrants;
+•
+“WFOE” or “wholly foreign owned enterprises” refers to a company incorporated in China and wholly-owned by one or more foreign investors; and
+•
+“Wu Directors” refers to the directors Yang Wu has nominated under the terms of the Stockholders Agreement, which currently include Yang Wu and Arthur Wong.
+ix
+Table of Contents
+PART I
