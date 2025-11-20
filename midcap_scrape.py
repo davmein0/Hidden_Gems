@@ -13,11 +13,14 @@ tickers = df_midcap["Ticker"].dropna().unique().tolist()
 print(f"Loaded {len(tickers)} tickers from {MIDCAP_FILE}")
 
 chrome_options = Options()
-chrome_options.add_argument("--headless=new")
 chrome_options.add_argument("--no-sandbox")
 chrome_options.add_argument("--disable-gpu")
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+def login_once(driver):
+    driver.get("https://stockanalysis.com/pro/")
+    input("press enter once logged in")
 
 def make_driver(): 
     return webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
@@ -68,11 +71,12 @@ def scrape_stockanalysis_tables(ticker, driver):
             df.to_csv(out_path, index=False, encoding="utf-8-sig")
             print(f"Saved {out_path} ({len(df)} rows, {len(headers)} cols)")
         except Exception as e:
-            print(f"   ⚠️ Error scraping {ticker} {name}: {e}")
+            print(f"Error scraping {ticker} {name}: {e}")
         time.sleep(random.uniform(3, 6))
 
 # make sure to run caffeinate before running (so that computer doesn't sleep)
 driver = make_driver()
+login_once(driver)
 for i, t in enumerate(tickers):
     company_dir = os.path.join(OUTPUT_DIR, t)
 

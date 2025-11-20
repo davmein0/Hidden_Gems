@@ -1,47 +1,49 @@
-﻿Period Ending,"Sep '25Sep 30, 2025","Dec '24Dec 31, 2024","Dec '23Dec 31, 2023","Dec '22Dec 31, 2022","Dec '21Dec 31, 2021","Dec '20Dec 31, 2020",2015 - 2019
-Revenue,"4,970","5,513","5,135","4,331","3,645","3,685",Upgrade
-Revenue Growth (YoY),-10.19%,7.36%,18.56%,18.82%,-1.08%,-29.34%,Upgrade
-Cost of Revenue,"3,405","3,605","3,395","3,020","2,716","2,750",Upgrade
-Gross Profit,"1,565","1,908","1,740","1,311",929,935,Upgrade
-"Selling, General & Admin",661,791,804,778,738,837,Upgrade
-Research & Development,114,123,112,90,85,97,Upgrade
-Other Operating Expenses,62,56,4,31,-10,45,Upgrade
-Operating Expenses,837,970,920,899,813,979,Upgrade
-Operating Income,728,938,820,412,116,-44,Upgrade
-Interest Expense,-143,-158,-182,-210,-280,-251,Upgrade
-Interest & Investment Income,48,56,59,31,20,-,Upgrade
-Currency Exchange Gain (Loss),-66,-66,-173,-,-,-,Upgrade
-Other Non Operating Income (Expenses),1,-31,-18,-95,-29,-62,Upgrade
-EBT Excluding Unusual Items,568,739,506,138,-173,-357,Upgrade
-Merger & Restructuring Charges,-43,-,-,-,-,-206,Upgrade
-Impairment of Goodwill,-,-,-,-,-,-239,Upgrade
-Gain (Loss) on Sale of Assets,70,-,-,-,-,12,Upgrade
-Asset Writedown,-,-,-,-,-,-814,Upgrade
-Other Unusual Items,-,-,-,-,-170,-210,Upgrade
-Pretax Income,595,739,506,138,-343,"-1,814",Upgrade
-Income Tax Expense,153,189,57,87,86,85,Upgrade
-Earnings From Continuing Operations,442,550,449,51,-429,"-1,899",Upgrade
-Minority Interest in Earnings,-37,-44,-32,-25,-21,-22,Upgrade
-Net Income,405,506,417,26,-450,"-1,921",Upgrade
-Net Income to Common,405,506,417,26,-450,"-1,921",Upgrade
-Net Income Growth,-24.16%,21.34%,1503.85%,-,-,-,Upgrade
-Shares Outstanding (Basic),72,73,72,71,70,70,Upgrade
-Shares Outstanding (Diluted),73,75,74,72,70,70,Upgrade
-Shares Change (YoY),-1.98%,1.77%,2.79%,2.29%,-,1601.49%,Upgrade
-EPS (Basic),5.59,6.93,5.80,0.37,-6.43,-27.44,Upgrade
-EPS (Diluted),5.52,6.75,5.66,0.36,-6.43,-27.44,Upgrade
-EPS Growth,-22.75%,19.26%,1472.22%,-,-,-,Upgrade
-Free Cash Flow,382,493,623,217,237,56,Upgrade
-Free Cash Flow Per Share,5.22,6.58,8.46,3.03,3.39,0.80,Upgrade
-Dividend Per Share,1.000,0.500,-,-,-,-,Upgrade
-Gross Margin,31.49%,34.61%,33.88%,30.27%,25.49%,25.37%,Upgrade
-Operating Margin,14.65%,17.01%,15.97%,9.51%,3.18%,-1.19%,Upgrade
-Profit Margin,8.15%,9.18%,8.12%,0.60%,-12.35%,-52.13%,Upgrade
-Free Cash Flow Margin,7.69%,8.94%,12.13%,5.01%,6.50%,1.52%,Upgrade
-EBITDA,"1,004","1,281","1,147",761,556,459,Upgrade
-EBITDA Margin,20.20%,23.24%,22.34%,17.57%,15.25%,12.46%,Upgrade
-D&A For EBITDA,276,343,327,349,440,503,Upgrade
-EBIT,728,938,820,412,116,-44,Upgrade
-EBIT Margin,14.65%,17.01%,15.97%,9.51%,3.18%,-1.19%,Upgrade
-Effective Tax Rate,25.71%,25.57%,11.27%,63.04%,-,-,Upgrade
-Revenue as Reported,"4,970","5,513","5,135","4,331","3,645","3,685",Upgrade
+﻿Period Ending,"Sep '25Sep 30, 2025","Dec '24Dec 31, 2024","Dec '23Dec 31, 2023","Dec '22Dec 31, 2022","Dec '21Dec 31, 2021","Dec '20Dec 31, 2020","Dec '19Dec 31, 2019","Dec '18Dec 31, 2018","Dec '17Dec 31, 2017","Dec '16Dec 31, 2016","Dec '15Dec 31, 2015"
+Revenue,"4,970","5,513","5,135","4,331","3,645","3,685","5,215","5,744","5,699","5,749","9,433"
+Revenue Growth (YoY),-10.19%,7.36%,18.56%,18.82%,-1.08%,-29.34%,-9.21%,0.79%,-0.87%,-39.05%,-36.74%
+Cost of Revenue,"3,405","3,605","3,395","3,020","2,716","2,750","4,178","4,514","5,429","5,408","8,021"
+Gross Profit,"1,565","1,908","1,740","1,311",929,935,"1,037","1,230",270,341,"1,412"
+"Selling, General & Admin",661,791,804,778,738,837,940,894,"1,034","1,103","1,580"
+Research & Development,114,123,112,90,85,97,143,139,158,159,231
+Other Operating Expenses,62,56,4,31,-10,45,68,29,195,80,63
+Operating Expenses,837,970,920,899,813,979,"1,173","1,062","1,387","1,342","1,874"
+Operating Income,728,938,820,412,116,-44,-136,168,"-1,117","-1,001",-462
+Interest Expense,-143,-158,-182,-210,-280,-251,-374,-614,-579,-499,-468
+Interest & Investment Income,48,56,59,31,20,-,-,-,-,-,-
+Currency Exchange Gain (Loss),-66,-66,-173,-,-,-,-14,-49,-25,-66,-187
+Other Non Operating Income (Expenses),1,-31,-18,-95,-29,-62,-12,24,118,11,21
+EBT Excluding Unusual Items,568,739,506,138,-173,-357,-536,-471,"-1,603","-1,555","-1,096"
+Merger & Restructuring Charges,-43,-,-,-,-,-206,-189,-126,-183,-588,-232
+Impairment of Goodwill,-,-,-,-,-,-239,-730,"-1,917",-,-,-
+Gain (Loss) on Sale of Investments,-,-,-,-,-,-,-,-,-,-,-25
+Gain (Loss) on Sale of Assets,70,-,-,-,-,12,112,-,96,-,-73
+Asset Writedown,-,-,-,-,-,-814,-152,-209,-966,-436,-638
+Legal Settlements,-,-,-,-,-,-,-,-,-,-220,-116
+Other Unusual Items,-,-,-,-,-170,-210,"5,299",-34,-,-78,84
+Pretax Income,595,739,506,138,-343,"-1,814","3,804","-2,757","-2,656","-2,877","-2,096"
+Income Tax Expense,153,189,57,87,86,85,144,34,137,496,-145
+Earnings From Continuing Operations,442,550,449,51,-429,"-1,899","3,660","-2,791","-2,793","-3,373","-1,951"
+Minority Interest in Earnings,-37,-44,-32,-25,-21,-22,-25,-20,-20,-19,-34
+Net Income,405,506,417,26,-450,"-1,921","3,635","-2,811","-2,813","-3,392","-1,985"
+Net Income to Common,405,506,417,26,-450,"-1,921","3,635","-2,811","-2,813","-3,392","-1,985"
+Net Income Growth,-24.16%,21.34%,1503.85%,-,-,-,-,-,-,-,-
+Shares Outstanding (Basic),72,73,72,71,70,70,4,1,1,1,1
+Shares Outstanding (Diluted),73,75,74,72,70,70,4,1,1,1,1
+Shares Change (YoY),-1.98%,1.77%,2.79%,2.29%,-,1601.49%,494.96%,0.71%,11.61%,13.86%,0.26%
+EPS (Basic),5.59,6.93,5.80,0.37,-6.43,-27.44,883.56,-4065.20,-4096.86,-5513.76,-3674.00
+EPS (Diluted),5.52,6.75,5.66,0.36,-6.43,-27.44,883.56,-4065.20,-4096.86,-5513.76,-3676.68
+EPS Growth,-22.75%,19.26%,1472.22%,-,-,-,-,-,-,-,-
+Free Cash Flow,382,493,623,217,237,56,-956,-459,-857,-508,33
+Free Cash Flow Per Share,5.22,6.58,8.46,3.03,3.39,0.80,-232.37,-663.79,-1248.14,-825.76,61.08
+Dividend Per Share,1.000,0.500,-,-,-,-,-,-,-,-,-
+Gross Margin,31.49%,34.61%,33.88%,30.27%,25.49%,25.37%,19.89%,21.41%,4.74%,5.93%,14.97%
+Operating Margin,14.65%,17.01%,15.97%,9.51%,3.18%,-1.19%,-2.61%,2.93%,-19.60%,-17.41%,-4.90%
+Profit Margin,8.15%,9.18%,8.12%,0.60%,-12.35%,-52.13%,69.70%,-48.94%,-49.36%,-59.00%,-21.04%
+Free Cash Flow Margin,7.69%,8.94%,12.13%,5.01%,6.50%,1.52%,-18.33%,-7.99%,-15.04%,-8.84%,0.35%
+EBITDA,"1,004","1,281","1,147",761,556,459,345,724,-316,-45,738
+EBITDA Margin,20.20%,23.24%,22.34%,17.57%,15.25%,12.46%,6.62%,12.60%,-5.54%,-0.78%,7.82%
+D&A For EBITDA,276,343,327,349,440,503,481,556,801,956,"1,200"
+EBIT,728,938,820,412,116,-44,-136,168,"-1,117","-1,001",-462
+EBIT Margin,14.65%,17.01%,15.97%,9.51%,3.18%,-1.19%,-2.61%,2.93%,-19.60%,-17.41%,-4.90%
+Effective Tax Rate,25.71%,25.57%,11.27%,63.04%,-,-,3.79%,-,-,-,-
+Revenue as Reported,"4,970","5,513","5,135","4,331","3,645","3,685","5,215","5,744","5,699","5,749","9,433"

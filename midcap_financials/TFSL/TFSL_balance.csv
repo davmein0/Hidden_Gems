@@ -1,46 +1,46 @@
-﻿Period Ending,"Sep '25Sep 30, 2025","Sep '24Sep 30, 2024","Sep '23Sep 30, 2023","Sep '22Sep 30, 2022","Sep '21Sep 30, 2021",2016 - 2020
-Cash & Equivalents,429.44,463.72,466.75,369.56,488.33,Upgrade
-Investment Securities,-,72.78,63.46,3.62,-,Upgrade
-Trading Asset Securities,-,0.4,0.01,-,0.53,Upgrade
-Mortgage-Backed Securities,520.66,453.48,444.87,454.29,421.78,Upgrade
-Total Investments,520.66,526.65,508.34,457.91,422.31,Upgrade
-Gross Loans,"15,738","15,392","15,243","14,330","12,622",Upgrade
-Allowance for Loan Losses,-74.24,-70,-77.32,-72.9,-64.29,Upgrade
-Other Adjustments to Gross Loans,-,-,-,-,-48.2,Upgrade
-Net Loans,"15,663","15,322","15,166","14,257","12,509",Upgrade
-"Property, Plant & Equipment",40.02,76.06,72.23,64.72,65.34,Upgrade
-Goodwill,-,9.73,9.73,-,9.73,Upgrade
-Loans Held for Sale,57.66,17.78,3.26,9.66,8.85,Upgrade
-Accrued Interest Receivable,62.55,59.4,53.91,40.26,31.11,Upgrade
-Long-Term Deferred Tax Assets,-,11.73,-,9.17,8.75,Upgrade
-Other Real Estate Owned & Foreclosed,1.92,0.17,1.44,1.19,0.29,Upgrade
-Other Long-Term Assets,445.63,375.01,389.48,368.06,350.93,Upgrade
-Total Assets,"17,457","17,091","16,918","15,790","14,057",Upgrade
-Accrued Expenses,101.96,51.66,54.03,41.01,45.21,Upgrade
-Interest Bearing Deposits,"10,447","8,888","8,594","8,185","8,298",Upgrade
-Institutional Deposits,-,"1,284",845.38,733.3,693.38,Upgrade
-Total Deposits,"10,447","10,172","9,439","8,919","8,992",Upgrade
-Short-Term Borrowings,248,"2,965","3,742","3,550","2,450",Upgrade
-Current Portion of Leases,-,5.5,5.48,4.95,5.13,Upgrade
-Accrued Interest Payable,-,23.19,10.36,2.24,1.85,Upgrade
-Long-Term Debt,30.33,28.75,29.81,"1,273",41.48,Upgrade
-"Federal Home Loan Bank Debt, Long-Term","4,622","1,828","1,532",-,641.82,Upgrade
-Long-Term Leases,-,12.81,12.73,10.82,13.33,Upgrade
-Long-Term Deferred Tax Liabilities,-,-,13.18,-,-,Upgrade
-Other Long-Term Liabilities,113.17,141.45,151.93,144.27,134.6,Upgrade
-Total Liabilities,"15,563","15,228","14,991","13,946","12,325",Upgrade
-Common Stock,3.32,3.32,3.32,3.32,3.32,Upgrade
-Additional Paid-In Capital,"1,758","1,754","1,755","1,751","1,747",Upgrade
-Retained Earnings,946.78,915.49,886.98,870.05,853.66,Upgrade
-Treasury Stock,-774.34,-772.2,-776.1,-771.99,-768.04,Upgrade
-Comprehensive Income & Other,-39.65,-38.36,58.13,-8.27,-103.55,Upgrade
-Shareholders' Equity,"1,894","1,863","1,927","1,844","1,732",Upgrade
-Total Liabilities & Equity,"17,457","17,091","16,918","15,790","14,057",Upgrade
-Total Debt,"4,901","4,840","5,322","4,839","3,152",Upgrade
-Net Cash (Debt),"-4,471","-4,376","-4,855","-4,470","-2,663",Upgrade
-Net Cash Per Share,-15.98,-15.68,-17.43,-16.04,-9.56,Upgrade
-Filing Date Shares Outstanding,278.76,278.44,277.65,277.27,277.19,Upgrade
-Total Common Shares Outstanding,278.76,278.44,277.65,277.44,277.19,Upgrade
-Book Value Per Share,6.79,6.69,6.94,6.65,6.25,Upgrade
-Tangible Book Value,"1,894","1,853","1,918","1,844","1,723",Upgrade
-Tangible Book Value Per Share,6.79,6.65,6.91,6.65,6.21,Upgrade
+﻿Period Ending,"Sep '25Sep 30, 2025","Sep '24Sep 30, 2024","Sep '23Sep 30, 2023","Sep '22Sep 30, 2022","Sep '21Sep 30, 2021","Sep '20Sep 30, 2020","Sep '19Sep 30, 2019","Sep '18Sep 30, 2018","Sep '17Sep 30, 2017","Sep '16Sep 30, 2016"
+Cash & Equivalents,429.44,463.72,466.75,369.56,488.33,498.03,275.14,269.78,268.22,231.24
+Investment Securities,-,72.78,63.46,3.62,-,-,-,3.97,-,-
+Trading Asset Securities,-,0.4,0.01,-,0.53,1.19,0.04,-,17.06,0.87
+Mortgage-Backed Securities,520.66,453.48,444.87,454.29,421.78,453.44,547.86,528,537.48,517.87
+Total Investments,520.66,526.65,508.34,457.91,422.31,454.63,547.91,531.97,554.54,518.74
+Gross Loans,"15,738","15,392","15,243","14,330","12,622","13,175","13,260","12,950","12,502","11,807"
+Allowance for Loan Losses,-74.24,-70,-77.32,-72.9,-64.29,-46.94,-38.91,-42.42,-48.95,-61.8
+Other Adjustments to Gross Loans,-,-,-,-,-48.2,-25.27,-25.74,-36.55,-34.1,-36.16
+Net Loans,"15,663","15,322","15,166","14,257","12,509","13,103","13,196","12,871","12,419","11,709"
+"Property, Plant & Equipment",40.02,76.06,72.23,64.72,65.34,62.38,61.58,63.4,60.88,61
+Goodwill,-,9.73,9.73,-,9.73,9.73,9.73,9.73,9.73,9.73
+Loans Held for Sale,57.66,17.78,3.26,9.66,8.85,36.87,3.67,0.66,0.35,4.69
+Accrued Interest Receivable,62.55,59.4,53.91,40.26,31.11,36.63,40.82,38.7,35.48,32.82
+Long-Term Deferred Tax Assets,-,11.73,-,9.17,8.75,2.74,4.55,1.88,15.99,26.07
+Other Real Estate Owned & Foreclosed,1.92,0.17,1.44,1.19,0.29,0.19,2.16,2.79,5.52,6.8
+Other Long-Term Assets,445.63,375.01,389.48,368.06,350.93,301.16,299.19,253.6,232.56,236.31
+Total Assets,"17,457","17,091","16,918","15,790","14,057","14,642","14,542","14,137","13,693","12,906"
+Accrued Expenses,101.96,51.66,54.03,41.01,45.21,49.11,40,31.15,42.16,50.85
+Interest Bearing Deposits,"10,447","8,888","8,594","8,185","8,298","5,808","5,593","5,332","5,464","5,661"
+Institutional Deposits,-,"1,284",845.38,733.3,693.38,"3,415","3,170","3,156","2,686","2,668"
+Total Deposits,"10,447","10,172","9,439","8,919","8,992","9,222","8,763","8,488","8,150","8,329"
+Short-Term Borrowings,248,"2,965","3,742","3,550","2,450","2,975","3,250","2,925","2,611","1,454"
+Current Portion of Leases,-,5.5,5.48,4.95,5.13,4.58,-,-,-,-
+Accrued Interest Payable,-,23.19,10.36,2.24,1.85,3.07,3.71,3.72,1.97,1.93
+Long-Term Debt,30.33,28.75,29.81,"1,273",41.48,45.9,32.91,31.49,35.77,49.4
+"Federal Home Loan Bank Debt, Long-Term","4,622","1,828","1,532",-,641.82,546.75,652.98,796.7,"1,061","1,268"
+Long-Term Leases,-,12.81,12.73,10.82,13.33,11.81,-,-,-,-
+Long-Term Deferred Tax Liabilities,-,-,13.18,-,-,-,-,-,-,-
+Other Long-Term Liabilities,113.17,141.45,151.93,144.27,134.6,111.54,103.33,103.01,100.45,92.31
+Total Liabilities,"15,563","15,228","14,991","13,946","12,325","12,970","12,846","12,379","12,003","11,246"
+Common Stock,3.32,3.32,3.32,3.32,3.32,3.32,3.32,3.32,3.32,3.32
+Additional Paid-In Capital,"1,758","1,754","1,755","1,751","1,747","1,743","1,734","1,727","1,723","1,717"
+Retained Earnings,946.78,915.49,886.98,870.05,853.66,865.51,837.66,807.89,760.07,698.93
+Treasury Stock,-774.34,-772.2,-776.1,-771.99,-768.04,-767.65,-764.59,-754.27,-735.53,-681.57
+Comprehensive Income & Other,-39.65,-38.36,58.13,-8.27,-103.55,-172.05,-113.8,-25.53,-60.58,-77.04
+Shareholders' Equity,"1,894","1,863","1,927","1,844","1,732","1,672","1,697","1,758","1,690","1,660"
+Total Liabilities & Equity,"17,457","17,091","16,918","15,790","14,057","14,642","14,542","14,137","13,693","12,906"
+Total Debt,"4,901","4,840","5,322","4,839","3,152","3,584","3,936","3,753","3,708","2,771"
+Net Cash (Debt),"-4,471","-4,376","-4,855","-4,470","-2,663","-3,085","-3,661","-3,483","-3,423","-2,539"
+Net Cash Per Share,-15.98,-15.68,-17.43,-16.04,-9.56,-11.10,-13.20,-12.56,-12.26,-8.95
+Filing Date Shares Outstanding,278.76,278.44,277.65,277.27,277.19,276.24,275.52,275.44,275.98,278.48
+Total Common Shares Outstanding,278.76,278.44,277.65,277.44,277.19,276.14,275.52,275.44,275.98,278.48
+Book Value Per Share,6.79,6.69,6.94,6.65,6.25,6.05,6.16,6.38,6.12,5.96
+Tangible Book Value,"1,894","1,853","1,918","1,844","1,723","1,662","1,687","1,749","1,680","1,651"
+Tangible Book Value Per Share,6.79,6.65,6.91,6.65,6.21,6.02,6.12,6.35,6.09,5.93

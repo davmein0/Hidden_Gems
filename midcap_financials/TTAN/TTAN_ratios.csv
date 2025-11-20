@@ -1,14 +1,14 @@
-﻿Period Ending,"Nov '25Nov 6, 2025","Jan '25Jan 31, 2025","Jan '24Jan 31, 2024","Jan '23Jan 31, 2023"
-Market Capitalization,"8,416","9,243",-,-
-Enterprise Value,"8,091","11,018",-,-
-Last Close Price,91.79,102.77,-,-
-PS Ratio,7.46,11.98,-,-
-PB Ratio,5.72,6.36,-,-
-P/TBV Ratio,20.33,25.82,-,-
-P/FCF Ratio,160.60,277.97,-,-
-P/OCF Ratio,148.15,249.46,-,-
-EV/Sales Ratio,9.34,14.27,-,-
-EV/FCF Ratio,154.62,331.33,-,-
+﻿Period Ending,"Nov '25Nov 13, 2025","Jan '25Jan 31, 2025","Jan '24Jan 31, 2024","Jan '23Jan 31, 2023"
+Market Capitalization,"8,272","9,243",-,-
+Enterprise Value,"7,958","11,018",-,-
+Last Close Price,88.99,102.77,-,-
+PS Ratio,7.23,11.98,-,-
+PB Ratio,5.55,6.36,-,-
+P/TBV Ratio,20.01,25.82,-,-
+P/FCF Ratio,158.06,277.97,-,-
+P/OCF Ratio,145.80,249.46,-,-
+EV/Sales Ratio,9.19,14.27,-,-
+EV/FCF Ratio,152.08,331.33,-,-
 Debt / Equity Ratio,0.11,0.11,0.21,0.21
 Debt / FCF Ratio,3.03,4.97,-,-
 Asset Turnover,0.53,0.47,0.39,-
@@ -17,6 +17,6 @@ Current Ratio,4.49,3.74,1.99,2.06
 Return on Equity (ROE),-17.33%,-18.35%,-16.50%,-
 Return on Assets (ROA),-9.57%,-8.57%,-7.05%,-
 Return on Capital (ROIC),-10.40%,-9.33%,-7.67%,-
-Earnings Yield,-3.80%,-2.59%,-,-
-FCF Yield,0.62%,0.36%,-,-
+Earnings Yield,-3.86%,-2.59%,-,-
+FCF Yield,0.63%,0.36%,-,-
 Buyback Yield / Dilution,-106.37%,-26.70%,-9.39%,-
