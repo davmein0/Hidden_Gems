@@ -1,43 +1,43 @@
-﻿Period Ending,"Jun '25Jun 30, 2025","Dec '24Dec 31, 2024","Dec '23Dec 31, 2023","Dec '22Dec 31, 2022","Dec '21Dec 31, 2021"
-Cash & Equivalents,"1,344",170.24,2.57,9.81,18.73
-Short-Term Investments,619.3,606.55,-,-,-
-Cash & Short-Term Investments,"2,086",776.78,2.57,9.81,18.73
-Cash Growth,506.35%,30093.31%,-73.77%,-47.64%,-
-Accounts Receivable,0.32,0.02,0.08,0.51,-
+﻿Period Ending,"Sep '25Sep 30, 2025","Dec '24Dec 31, 2024","Dec '23Dec 31, 2023","Dec '22Dec 31, 2022","Dec '21Dec 31, 2021"
+Cash & Equivalents,166.07,170.24,2.57,9.81,18.73
+Short-Term Investments,550.42,606.55,-,-,-
+Cash & Short-Term Investments,"1,304",776.78,2.57,9.81,18.73
+Cash Growth,93.79%,30093.31%,-73.77%,-47.64%,-
+Accounts Receivable,0.3,0.02,0.08,0.51,-
 Other Receivables,-,-,-,-,0.02
-Receivables,0.32,0.02,0.08,0.51,0.02
-Prepaid Expenses,10.85,7.46,0.33,0.33,0.43
-Total Current Assets,"3,097",784.26,2.98,10.64,19.19
-"Property, Plant & Equipment",7.02,7.78,0.38,0.59,0.06
+Receivables,0.3,0.02,0.08,0.51,0.02
+Prepaid Expenses,10.04,7.46,0.33,0.33,0.43
+Total Current Assets,"1,650",784.26,2.98,10.64,19.19
+"Property, Plant & Equipment",6.3,7.78,0.38,0.59,0.06
 Goodwill,120.88,120.88,-,-,-
-Other Intangible Assets,22.62,25.36,-,-,-
-Total Assets,"3,247",938.29,3.36,11.24,19.25
-Accounts Payable,5.18,1.48,0.87,0.27,0.81
-Accrued Expenses,12.29,8.17,0.73,-,-
-Current Portion of Long-Term Debt,4.97,4.78,41.82,4.12,-
-Current Portion of Leases,0.88,1.08,0.16,0.15,-
-Current Income Taxes Payable,-,0.73,-,-,-
-Current Unearned Revenue,-,1.01,4.41,-,-
-Other Current Liabilities,0.04,0.04,17.28,14.91,0.1
-Total Current Liabilities,23.35,17.3,65.28,19.45,0.91
-Long-Term Debt,939.33,4.84,3.53,-,2.09
-Long-Term Leases,2.14,2.56,0.2,0.36,-
+Other Intangible Assets,21.22,25.36,-,-,-
+Total Assets,"3,265",938.29,3.36,11.24,19.25
+Accounts Payable,7.7,1.48,0.87,0.27,0.81
+Accrued Expenses,12.12,8.17,0.73,-,-
+Current Portion of Long-Term Debt,4.69,4.78,41.82,4.12,-
+Current Portion of Leases,0.86,1.08,0.16,0.15,-
+Current Income Taxes Payable,0.01,0.73,-,-,-
+Current Unearned Revenue,0.02,1.01,4.41,-,-
+Other Current Liabilities,13.18,0.04,17.28,14.91,0.1
+Total Current Liabilities,38.57,17.3,65.28,19.45,0.91
+Long-Term Debt,946.08,4.84,3.53,-,2.09
+Long-Term Leases,1.93,2.56,0.2,0.36,-
 Other Long-Term Liabilities,-,-,1.12,-,75.36
-Total Liabilities,965.13,24.7,70.13,19.81,78.35
+Total Liabilities,986.98,24.7,70.13,19.81,78.35
 Common Stock,0.03,0.02,0.01,0,-
-Additional Paid-In Capital,"5,290","3,862",-,-,-
-Retained Earnings,"-2,997","-2,945",-66.77,-8.57,-59.1
-Treasury Stock,-11.16,-2.91,-,-,-
-Shareholders' Equity,"2,282",913.59,-66.76,-8.57,-59.1
-Total Liabilities & Equity,"3,247",938.29,3.36,11.24,19.25
-Total Debt,947.31,13.26,45.71,4.64,2.09
-Net Cash (Debt),"1,138",763.53,-43.14,5.17,16.65
-Net Cash Growth,231.71%,-,-,-68.93%,-
-Net Cash Per Share,5.16,4.50,-0.49,0.06,0.17
-Filing Date Shares Outstanding,277.07,220.07,176.7,100,100
-Total Common Shares Outstanding,276.89,220.66,100,100,100
-Working Capital,"3,073",766.96,-62.29,-8.81,18.28
-Book Value Per Share,8.24,4.14,-0.67,-0.09,-0.59
-Tangible Book Value,"2,138",767.34,-66.76,-8.57,-59.1
-Tangible Book Value Per Share,7.72,3.48,-0.67,-0.09,-0.59
-Machinery,5.74,5.19,0.16,0.15,0.07
+Additional Paid-In Capital,"5,347","3,862",-,-,-
+Retained Earnings,"-3,052","-2,945",-66.77,-8.57,-59.1
+Treasury Stock,-17.57,-2.91,-,-,-
+Shareholders' Equity,"2,278",913.59,-66.76,-8.57,-59.1
+Total Liabilities & Equity,"3,265",938.29,3.36,11.24,19.25
+Total Debt,953.56,13.26,45.71,4.64,2.09
+Net Cash (Debt),350.44,763.53,-43.14,5.17,16.65
+Net Cash Growth,-46.95%,-,-,-68.93%,-
+Net Cash Per Share,1.46,4.50,-0.49,0.06,0.17
+Filing Date Shares Outstanding,280,220.07,176.7,100,100
+Total Common Shares Outstanding,280,220.66,100,100,100
+Working Capital,"1,612",766.96,-62.29,-8.81,18.28
+Book Value Per Share,8.14,4.14,-0.67,-0.09,-0.59
+Tangible Book Value,"2,136",767.34,-66.76,-8.57,-59.1
+Tangible Book Value Per Share,7.63,3.48,-0.67,-0.09,-0.59
+Machinery,5.76,5.19,0.16,0.15,0.07
