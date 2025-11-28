@@ -1,53 +1,53 @@
-﻿Period Ending,"Jun '25Jun 30, 2025","Dec '24Dec 31, 2024","Dec '23Dec 31, 2023","Dec '22Dec 31, 2022","Dec '21Dec 31, 2021","Dec '20Dec 31, 2020",2019
-Cash & Equivalents,182.99,187.92,186.48,309.79,190.78,5.07,Upgrade
-Short-Term Investments,21.52,7.8,2.49,1.01,10.16,57.57,Upgrade
-Cash & Short-Term Investments,204.51,195.72,188.97,310.8,200.94,62.64,Upgrade
-Cash Growth,-13.07%,3.57%,-39.20%,54.67%,220.81%,320.17%,Upgrade
-Accounts Receivable,118.48,112.22,79.53,59.22,32.33,12.81,Upgrade
-Other Receivables,-,15.18,7.9,18.78,1.37,0.79,Upgrade
-Receivables,118.48,127.4,87.42,78,33.7,13.6,Upgrade
-Prepaid Expenses,15.65,7.56,6.72,7.09,3.35,0.41,Upgrade
-Restricted Cash,23.85,18.6,16.87,22.54,7,-,Upgrade
-Other Current Assets,-,2.21,3.42,1.38,1.55,0.33,Upgrade
-Total Current Assets,362.47,351.48,303.4,419.82,246.54,76.97,Upgrade
-"Property, Plant & Equipment",68.18,74.85,97.29,92.74,7.65,1.53,Upgrade
-Long-Term Investments,868.03,778.26,740.69,488.86,292.42,110.61,Upgrade
-Goodwill,22.9,23.06,10.95,-,-,-,Upgrade
-Other Intangible Assets,10.52,12.82,2.55,-,-,-,Upgrade
-Long-Term Accounts Receivable,30.71,29.18,34.18,38.77,19.21,11.17,Upgrade
-Long-Term Deferred Tax Assets,-,-,-,-,5.68,2.3,Upgrade
-Long-Term Deferred Charges,-,-,-,-,11.97,-,Upgrade
-Other Long-Term Assets,36.23,21.42,19.33,4.89,6.8,1.68,Upgrade
-Total Assets,"1,399","1,291","1,208","1,045",590.26,204.27,Upgrade
-Accounts Payable,9.19,6.99,1.29,1.74,11.58,0.58,Upgrade
-Accrued Expenses,33.19,16.33,10.35,14.48,15.19,2.74,Upgrade
-Current Portion of Long-Term Debt,183.17,126.83,37.69,61.83,-,-,Upgrade
-Current Portion of Leases,6.93,6.45,6.93,8.53,-,-,Upgrade
-Current Income Taxes Payable,15.3,9.86,0.46,6.42,-,-,Upgrade
-Other Current Liabilities,6.7,29.04,18.21,35.01,1.9,0.94,Upgrade
-Total Current Liabilities,254.47,195.49,74.93,128.02,28.67,4.27,Upgrade
-Long-Term Debt,544.46,516.92,324.03,92.8,37.91,-,Upgrade
-Long-Term Leases,29.15,30.61,43.94,49.1,-,-,Upgrade
-Long-Term Deferred Tax Liabilities,-,-,-,0.57,-,-,Upgrade
-Other Long-Term Liabilities,28.72,32.25,25.48,9.17,39.28,5.88,Upgrade
-Total Liabilities,856.81,775.28,468.38,279.66,105.86,10.15,Upgrade
-Common Stock,-,-,-,-,-,0,Upgrade
-Additional Paid-In Capital,"1,319","1,282","1,102",968.43,113.17,0.31,Upgrade
-Retained Earnings,-919.5,-944.04,-542.64,-414.2,-111.88,2.89,Upgrade
-Comprehensive Income & Other,-33.07,-11.49,0.44,-0.71,-,-,Upgrade
-Total Common Equity,366.75,326.49,559.72,553.52,1.29,3.2,Upgrade
-Minority Interest,101.23,115.06,106.03,211.9,176.06,84.95,Upgrade
-Shareholders' Equity,542.23,515.8,740,765.42,484.4,194.13,Upgrade
-Total Liabilities & Equity,"1,399","1,291","1,208","1,045",590.26,204.27,Upgrade
-Total Debt,763.71,680.81,412.58,212.26,37.91,-,Upgrade
-Net Cash (Debt),-559.21,-485.09,-223.62,98.54,163.04,62.64,Upgrade
-Net Cash Growth,-,-,-,-39.56%,160.29%,320.17%,Upgrade
-Net Cash Per Share,-7.46,-6.84,-3.72,2.58,10.02,3.63,Upgrade
-Filing Date Shares Outstanding,76.61,75.3,62.98,58.68,194.39,190.44,Upgrade
-Total Common Shares Outstanding,76.16,73.88,62.04,56.94,194.39,190.44,Upgrade
-Working Capital,108,155.99,228.48,291.8,217.86,72.71,Upgrade
-Book Value Per Share,4.82,4.42,9.02,9.72,0.01,0.02,Upgrade
-Tangible Book Value,333.33,290.61,546.23,553.52,1.29,3.2,Upgrade
-Tangible Book Value Per Share,4.38,3.93,8.80,9.72,0.01,0.02,Upgrade
-Machinery,-,92.09,67.34,38.28,8.2,1.58,Upgrade
-Leasehold Improvements,-,1.08,0.95,0.92,0.68,0.38,Upgrade
+﻿Period Ending,"Sep '25Sep 30, 2025","Dec '24Dec 31, 2024","Dec '23Dec 31, 2023","Dec '22Dec 31, 2022","Dec '21Dec 31, 2021","Dec '20Dec 31, 2020","Dec '19Dec 31, 2019"
+Cash & Equivalents,218.31,187.92,186.48,309.79,190.78,5.07,4.83
+Short-Term Investments,-,7.8,2.49,1.01,10.16,57.57,10.08
+Cash & Short-Term Investments,218.31,195.72,188.97,310.8,200.94,62.64,14.91
+Cash Growth,37.87%,3.57%,-39.20%,54.67%,220.81%,320.17%,-
+Accounts Receivable,154.98,112.22,79.53,59.22,32.33,12.81,4.27
+Other Receivables,-,15.18,7.9,18.78,1.37,0.79,-
+Receivables,154.98,127.4,87.42,78,33.7,13.6,4.27
+Prepaid Expenses,-,7.56,6.72,7.09,3.35,0.41,1.67
+Restricted Cash,46.45,18.6,16.87,22.54,7,-,0.05
+Other Current Assets,-,2.21,3.42,1.38,1.55,0.33,-
+Total Current Assets,419.74,351.48,303.4,419.82,246.54,76.97,20.89
+"Property, Plant & Equipment",64.57,74.85,97.29,92.74,7.65,1.53,0.73
+Long-Term Investments,902.58,778.26,740.69,488.86,292.42,110.61,37.01
+Goodwill,22.9,23.06,10.95,-,-,-,-
+Other Intangible Assets,9.09,12.82,2.55,-,-,-,-
+Long-Term Accounts Receivable,-,29.18,34.18,38.77,19.21,11.17,-
+Long-Term Deferred Tax Assets,-,-,-,-,5.68,2.3,-
+Long-Term Deferred Charges,-,-,-,-,11.97,-,-
+Other Long-Term Assets,36.48,21.42,19.33,4.89,6.8,1.68,-
+Total Assets,"1,455","1,291","1,208","1,045",590.26,204.27,58.63
+Accounts Payable,5.06,6.99,1.29,1.74,11.58,0.58,0.15
+Accrued Expenses,31.48,16.33,10.35,14.48,15.19,2.74,0.86
+Current Portion of Long-Term Debt,-,126.83,37.69,61.83,-,-,-
+Current Portion of Leases,2.46,6.45,6.93,8.53,-,-,-
+Current Income Taxes Payable,25.98,9.86,0.46,6.42,-,-,0.17
+Other Current Liabilities,17.12,29.04,18.21,35.01,1.9,0.94,0.45
+Total Current Liabilities,82.1,195.49,74.93,128.02,28.67,4.27,1.64
+Long-Term Debt,767.46,516.92,324.03,92.8,37.91,-,-
+Long-Term Leases,32.5,30.61,43.94,49.1,-,-,-
+Long-Term Deferred Tax Liabilities,-,-,-,0.57,-,-,-
+Other Long-Term Liabilities,7.38,32.25,25.48,9.17,39.28,5.88,-
+Total Liabilities,889.44,775.28,468.38,279.66,105.86,10.15,1.64
+Common Stock,-,-,-,-,-,0,0
+Additional Paid-In Capital,"1,381","1,282","1,102",968.43,113.17,0.31,0.16
+Retained Earnings,-896.95,-944.04,-542.64,-414.2,-111.88,2.89,-11.59
+Comprehensive Income & Other,-45.29,-11.49,0.44,-0.71,-,-,-
+Total Common Equity,438.3,326.49,559.72,553.52,1.29,3.2,-11.43
+Minority Interest,97.54,115.06,106.03,211.9,176.06,84.95,24.8
+Shareholders' Equity,565.94,515.8,740,765.42,484.4,194.13,56.99
+Total Liabilities & Equity,"1,455","1,291","1,208","1,045",590.26,204.27,58.63
+Total Debt,802.42,680.81,412.58,212.26,37.91,-,-
+Net Cash (Debt),-584.11,-485.09,-223.62,98.54,163.04,62.64,14.91
+Net Cash Growth,-,-,-,-39.56%,160.29%,320.17%,-
+Net Cash Per Share,-7.64,-6.84,-3.72,2.58,10.02,3.63,0.94
+Filing Date Shares Outstanding,80.4,75.3,62.98,58.68,194.39,190.44,15.84
+Total Common Shares Outstanding,80.13,73.88,62.04,56.94,194.39,190.44,15.84
+Working Capital,337.65,155.99,228.48,291.8,217.86,72.71,19.25
+Book Value Per Share,5.47,4.42,9.02,9.72,0.01,0.02,-0.72
+Tangible Book Value,406.3,290.61,546.23,553.52,1.29,3.2,-11.43
+Tangible Book Value Per Share,5.07,3.93,8.80,9.72,0.01,0.02,-0.72
+Machinery,-,92.09,67.34,38.28,8.2,1.58,0.56
+Leasehold Improvements,-,1.08,0.95,0.92,0.68,0.38,0.3

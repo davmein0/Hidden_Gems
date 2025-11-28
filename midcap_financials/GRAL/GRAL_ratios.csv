@@ -1,17 +1,18 @@
-﻿Period Ending,"Nov '25Nov 6, 2025","Dec '24Dec 31, 2024","Dec '23Dec 31, 2023","Jan '23Jan 1, 2023","Jan '22Jan 2, 2022","Dec '20Dec 31, 2020",2018 - 2019
-Market Capitalization,"2,886",600,-,-,-,-,Upgrade
-Enterprise Value,"2,345",-182,-,-,-,-,Upgrade
-Last Close Price,80.06,17.85,-,-,-,-,Upgrade
-PS Ratio,20.21,4.78,-,-,-,-,Upgrade
-PB Ratio,1.25,0.24,-,-,-,-,Upgrade
-P/TBV Ratio,7.31,1.23,-,-,-,-,Upgrade
-Debt / Equity Ratio,0.03,0.03,0.02,0.02,0.01,0.11,Upgrade
-Asset Turnover,0.05,0.04,0.02,0.01,0.00,-,Upgrade
-Quick Ratio,8.76,10.25,0.74,1.94,2.34,6.95,Upgrade
-Current Ratio,9.23,10.66,0.95,2.19,2.48,7.10,Upgrade
-Return on Equity (ROE),-17.68%,-65.92%,-35.35%,-76.71%,-24.97%,-56.13%,Upgrade
-Return on Assets (ROA),-11.81%,-13.19%,-11.01%,-6.32%,-6.68%,-29.47%,Upgrade
-Return on Capital (ROIC),-13.71%,-14.44%,-11.50%,-6.50%,-6.86%,-32.48%,Upgrade
-Earnings Yield,-15.35%,-337.96%,-,-,-,-,Upgrade
-FCF Yield,-12.88%,-97.10%,-,-,-,-,Upgrade
-Buyback Yield / Dilution,-9.20%,-2.74%,-,-,-,-9.39%,Upgrade
+﻿Period Ending,"Nov '25Nov 18, 2025","Dec '24Dec 31, 2024","Dec '23Dec 31, 2023","Jan '23Jan 1, 2023","Jan '22Jan 2, 2022","Dec '20Dec 31, 2020","Dec '19Dec 31, 2019","Dec '18Dec 31, 2018"
+Market Capitalization,"3,175",600,-,-,-,-,-,-
+Enterprise Value,"2,664",-182,-,-,-,-,-,-
+Last Close Price,84.94,17.85,-,-,-,-,-,-
+PS Ratio,20.94,4.78,-,-,-,-,-,-
+PB Ratio,1.37,0.24,-,-,-,-,-,-
+P/TBV Ratio,8.86,1.23,-,-,-,-,-,-
+Debt / Equity Ratio,0.03,0.03,0.02,0.02,0.01,0.11,0.08,0.00
+Asset Turnover,0.05,0.04,0.02,0.01,0.00,-,-,-
+Quick Ratio,7.19,10.25,0.74,1.94,2.34,6.95,12.12,8.65
+Current Ratio,7.61,10.66,0.95,2.19,2.48,7.10,12.41,8.76
+Return on Equity (ROE),-16.83%,-65.92%,-35.35%,-76.71%,-24.97%,-56.13%,-42.55%,-
+Return on Assets (ROA),-11.06%,-13.19%,-11.01%,-6.32%,-6.68%,-29.47%,-23.96%,-
+Return on Capital (ROIC),-12.76%,-14.44%,-11.50%,-6.50%,-6.86%,-32.48%,-26.50%,-
+Return on Capital Employed (ROCE),-20.10%,-25.00%,-20.80%,-15.50%,-5.80%,-50.80%,-42.90%,-46.30%
+Earnings Yield,-12.92%,-337.96%,-,-,-,-,-,-
+FCF Yield,-10.49%,-97.10%,-,-,-,-,-,-
+Buyback Yield / Dilution,-11.87%,-2.74%,-,-,-,-9.39%,0.95%,-

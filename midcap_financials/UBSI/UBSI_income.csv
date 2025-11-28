@@ -1,44 +1,44 @@
-﻿Period Ending,"Sep '25Sep 30, 2025","Dec '24Dec 31, 2024","Dec '23Dec 31, 2023","Dec '22Dec 31, 2022","Dec '21Dec 31, 2021","Dec '20Dec 31, 2020",2015 - 2019
-Interest Income on Loans,"1,432","1,303","1,203",864.58,-,721.83,Upgrade
-Interest Income on Investments,199.52,199.52,198.13,137.41,-,76.55,Upgrade
-Total Interest Income,"1,632","1,502","1,401","1,002",-,798.38,Upgrade
-Interest Paid on Deposits,533.27,539.81,391.09,80.24,-,78.58,Upgrade
-Interest Paid on Borrowings,51.25,51.25,90.3,25.32,-,30.03,Upgrade
-Total Interest Expense,584.52,591.05,481.4,105.56,-,108.61,Upgrade
-Net Interest Income,"1,047",911.07,919.92,896.43,-,689.77,Upgrade
-Net Interest Income Growth (YoY),15.32%,-0.96%,2.62%,-,-,19.35%,Upgrade
-Trust Income,19.84,19.45,18.32,17.22,-,13.9,Upgrade
-Mortgage Banking Activities,9.89,25.02,40.34,51.93,-,272.31,Upgrade
-Gain (Loss) on Sale of Assets,-,-,-,-,-,2.23,Upgrade
-Gain (Loss) on Sale of Investments,10.7,-7.72,-7.65,0.78,-,3.16,Upgrade
-Other Non-Interest Income,54.52,49.77,47.17,42.79,-,28.35,Upgrade
-Total Non-Interest Income,133.54,123.7,135.26,153.26,-,354.78,Upgrade
-Non-Interest Income Growth (YoY),4.28%,-8.55%,-11.75%,-,-,135.76%,Upgrade
-Revenues Before Loan Losses,"1,181","1,035","1,055","1,050",-,"1,045",Upgrade
-Provision for Loan Losses,53.78,25.15,31.15,18.82,-,106.56,Upgrade
-Revenue,"1,127","1,010","1,024","1,031",-,937.99,Upgrade
-Revenue Growth (YoY),11.50%,-1.41%,-0.66%,-,-,32.65%,Upgrade
-Salaries and Employee Benefits,287.69,276.11,266.71,278.47,-,317.55,Upgrade
-Occupancy Expenses,28.5,25.9,25.39,45.13,-,41.3,Upgrade
-Federal Deposit Insurance,17.49,19.74,30.38,11.99,-,10.13,Upgrade
-"Selling, General & Administrative",105.78,99.98,101.96,77.36,-,67.87,Upgrade
-Other Non-Interest Expense,131.35,122.8,134.49,139.3,-,123.84,Upgrade
-Total Non-Interest Expense,575.61,545.03,560.22,555.09,-,566.48,Upgrade
-EBT Excluding Unusual Items,551.46,464.58,463.81,475.78,-,371.51,Upgrade
-Asset Writedown,-,-,-,-,-,-1.38,Upgrade
-Other Unusual Items,-,-,-,-,-,-10.39,Upgrade
-Pretax Income,544.56,464.58,463.81,475.78,-,359.74,Upgrade
-Income Tax Expense,114.38,91.58,97.49,96.16,-,70.72,Upgrade
-Net Income,430.18,373,366.31,379.63,-,289.02,Upgrade
-Preferred Dividends & Other Adjustments,0.83,0.83,0.88,1,-,0.74,Upgrade
-Net Income to Common,429.35,372.16,365.43,378.62,-,288.28,Upgrade
-Net Income Growth,20.17%,1.82%,-3.51%,-,-,11.12%,Upgrade
-Basic Shares Outstanding,140,135,135,135,129,120,Upgrade
-Diluted Shares Outstanding,141,135,135,135,130,120,Upgrade
-Shares Change (YoY),4.05%,0.35%,-0.27%,4.33%,7.85%,17.91%,Upgrade
-EPS (Basic),3.06,2.76,2.72,2.81,-,2.40,Upgrade
-EPS (Diluted),3.05,2.75,2.71,2.80,-,2.40,Upgrade
-EPS Growth,15.26%,1.48%,-3.21%,-,-,-5.88%,Upgrade
-Dividend Per Share,1.480,1.480,1.450,1.440,1.410,1.400,Upgrade
-Dividend Growth,-,2.07%,0.69%,2.13%,0.71%,2.19%,Upgrade
-Effective Tax Rate,21.00%,19.71%,21.02%,20.21%,-,19.66%,Upgrade
+﻿Period Ending,"Sep '25Sep 30, 2025","Dec '24Dec 31, 2024","Dec '23Dec 31, 2023","Dec '22Dec 31, 2022","Dec '21Dec 31, 2021","Dec '20Dec 31, 2020","Dec '19Dec 31, 2019","Dec '18Dec 31, 2018","Dec '17Dec 31, 2017","Dec '16Dec 31, 2016","Dec '15Dec 31, 2015"
+Interest Income on Loans,"1,425","1,303","1,203",864.58,-,721.83,666.95,636.72,565.54,430.74,387.71
+Interest Income on Investments,207.33,199.52,198.13,137.41,-,76.55,95.61,81,58.27,39.6,35.92
+Total Interest Income,"1,632","1,502","1,401","1,002",-,798.38,762.56,717.72,623.81,470.34,423.63
+Interest Paid on Deposits,554.58,539.81,391.09,80.24,-,78.58,135.65,91.51,49.73,29.13,28.02
+Interest Paid on Borrowings,29.94,51.25,90.3,25.32,-,30.03,48.99,37.56,25.08,15.89,11.48
+Total Interest Expense,584.52,591.05,481.4,105.56,-,108.61,184.64,129.07,74.81,45.01,39.51
+Net Interest Income,"1,047",911.07,919.92,896.43,-,689.77,577.92,588.65,549,425.33,384.12
+Net Interest Income Growth (YoY),15.32%,-0.96%,2.62%,-,-,19.35%,-1.82%,7.22%,29.07%,10.73%,2.24%
+Trust Income,19.84,19.45,18.32,17.22,-,13.9,13.87,12.93,11.8,12.03,19.09
+Mortgage Banking Activities,9.89,25.02,40.34,51.93,-,272.31,76.95,58.11,58.91,3.45,2.51
+Gain (Loss) on Sale of Assets,-,-,-,-,-,2.23,-,2.76,-,-,-
+Gain (Loss) on Sale of Investments,10.7,-7.72,-7.65,0.78,-,3.16,0.18,-2.62,5.58,0.28,0.16
+Other Non-Interest Income,54.52,49.77,47.17,42.79,-,28.35,25.72,23.56,21.73,21.42,13.92
+Total Non-Interest Income,133.54,123.7,135.26,153.26,-,354.78,150.48,128.71,131.65,70.03,73.63
+Non-Interest Income Growth (YoY),4.28%,-8.55%,-11.75%,-,-,135.76%,16.91%,-2.23%,87.98%,-4.88%,-9.06%
+Revenues Before Loan Losses,"1,181","1,035","1,055","1,050",-,"1,045",728.41,717.36,680.64,495.36,457.75
+Provision for Loan Losses,53.78,25.15,31.15,18.82,-,106.56,21.31,22.01,28.41,24.51,22.57
+Revenue,"1,127","1,010","1,024","1,031",-,937.99,707.09,695.34,652.24,470.85,435.18
+Revenue Growth (YoY),11.50%,-1.41%,-0.66%,-,-,32.65%,1.69%,6.61%,38.52%,8.20%,0.10%
+Salaries and Employee Benefits,287.41,276.11,266.71,278.47,-,317.55,204.79,196.57,197.84,118.76,112.73
+Occupancy Expenses,28.97,25.9,25.39,45.13,-,41.3,34.85,36.46,39.07,11.29,24.3
+Federal Deposit Insurance,17.49,19.74,30.38,11.99,-,10.13,8.07,11.46,7.05,8.55,8.37
+"Selling, General & Administrative",105.62,99.98,101.96,77.36,-,67.87,46.44,46.36,39.62,44.79,30.5
+Other Non-Interest Expense,141.04,122.8,134.49,139.3,-,123.84,78.06,73.88,77.83,53.42,52.19
+Total Non-Interest Expense,581.05,545.03,560.22,555.09,-,566.48,377.55,368.18,367.41,242.65,231.69
+EBT Excluding Unusual Items,546.02,464.58,463.81,475.78,-,371.51,329.54,327.17,284.83,228.21,203.49
+Asset Writedown,-,-,-,-,-,-1.38,-,-,-,-,-
+Other Unusual Items,-,-,-,-,-,-10.39,-5.11,-,-,-,-
+Pretax Income,544.56,464.58,463.81,475.78,-,359.74,324.44,327.17,284.83,222.66,203.49
+Income Tax Expense,114.38,91.58,97.49,96.16,-,70.72,64.34,70.82,134.25,75.58,65.53
+Net Income,430.18,373,366.31,379.63,-,289.02,260.1,256.34,150.58,147.08,137.96
+Preferred Dividends & Other Adjustments,0.95,0.83,0.88,1,-,0.74,0.6,0.46,0.24,0.26,0.24
+Net Income to Common,429.23,372.16,365.43,378.62,-,288.28,259.5,255.88,150.34,146.83,137.72
+Net Income Growth,20.17%,1.82%,-3.51%,-,-,11.12%,1.47%,70.23%,2.38%,6.61%,6.21%
+Basic Shares Outstanding,140,135,135,135,129,120,102,104,98,74,69
+Diluted Shares Outstanding,141,135,135,135,130,120,102,104,98,74,70
+Shares Change (YoY),4.05%,0.35%,-0.27%,4.33%,7.85%,17.91%,-2.34%,6.55%,32.48%,6.13%,2.92%
+EPS (Basic),3.06,2.76,2.72,2.81,-,2.40,2.55,2.46,1.54,2.00,1.99
+EPS (Diluted),3.05,2.75,2.71,2.80,-,2.40,2.55,2.45,1.54,1.99,1.98
+EPS Growth,15.26%,1.48%,-3.21%,-,-,-5.88%,4.08%,59.09%,-22.61%,0.51%,3.13%
+Dividend Per Share,1.480,1.480,1.450,1.440,1.410,1.400,1.370,1.360,1.330,1.320,1.290
+Dividend Growth,-,2.07%,0.69%,2.13%,0.71%,2.19%,0.73%,2.26%,0.76%,2.33%,0.78%
+Effective Tax Rate,21.00%,19.71%,21.02%,20.21%,-,19.66%,19.83%,21.65%,47.13%,33.94%,32.20%

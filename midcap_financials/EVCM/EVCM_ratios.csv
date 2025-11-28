@@ -1,28 +1,28 @@
-﻿Period Ending,"Nov '25Nov 7, 2025","Dec '24Dec 31, 2024","Dec '23Dec 31, 2023","Dec '22Dec 31, 2022","Dec '21Dec 31, 2021","Dec '20Dec 31, 2020",2019
-Market Capitalization,"1,706","2,020","2,081","1,437","3,077",-,Upgrade
-Market Cap Growth,-11.83%,-2.92%,44.77%,-53.28%,-,-,Upgrade
-Enterprise Value,"2,519","2,472","2,527","1,886","3,366",-,Upgrade
-Last Close Price,11.59,11.01,11.03,7.44,15.75,-,Upgrade
-Forward PE,13.62,19.42,20.29,18.84,53.26,-,Upgrade
-PS Ratio,2.95,2.89,3.08,2.32,6.28,-,Upgrade
-PB Ratio,2.86,2.69,2.52,1.59,3.12,-,Upgrade
-P/FCF Ratio,15.40,18.09,20.49,23.10,89.50,-,Upgrade
-P/OCF Ratio,15.16,17.85,19.89,22.18,82.09,-,Upgrade
-PEG Ratio,0.98,0.90,0.82,0.72,1.33,-,Upgrade
-EV/Sales Ratio,3.51,3.54,3.74,3.04,6.87,-,Upgrade
-EV/EBITDA Ratio,20.24,20.73,24.03,24.92,42.64,-,Upgrade
-EV/EBIT Ratio,40.97,60.65,270.22,-,-,-,Upgrade
-EV/FCF Ratio,18.46,22.13,24.88,30.31,97.92,-,Upgrade
-Debt / Equity Ratio,0.72,0.73,0.68,0.60,0.55,1.35,Upgrade
-Debt / EBITDA Ratio,4.16,4.32,4.92,7.12,6.92,10.28,Upgrade
-Debt / FCF Ratio,3.85,4.89,5.52,8.67,15.89,13.17,Upgrade
-Asset Turnover,0.50,0.48,0.43,0.38,0.33,0.30,Upgrade
-Quick Ratio,1.34,1.71,1.31,1.46,1.41,1.51,Upgrade
-Current Ratio,2.02,1.97,1.54,1.72,1.66,1.66,Upgrade
-Return on Equity (ROE),-0.12%,-5.21%,-5.27%,-6.32%,-10.89%,-12.83%,Upgrade
-Return on Assets (ROA),2.69%,1.73%,0.38%,-1.13%,-0.78%,-0.36%,Upgrade
-Return on Capital (ROIC),2.98%,1.90%,0.41%,-1.23%,-0.85%,-0.40%,Upgrade
-Return on Capital Employed (ROCE),4.80%,3.10%,0.70%,-,-,-,Upgrade
-Earnings Yield,-0.03%,-2.03%,-2.19%,-4.16%,-2.66%,-,Upgrade
-FCF Yield,6.49%,5.53%,4.88%,4.33%,1.12%,-,Upgrade
-Buyback Yield / Dilution,1.87%,2.14%,2.92%,-65.22%,-182.50%,-53.85%,Upgrade
+﻿Period Ending,"Nov '25Nov 20, 2025","Dec '24Dec 31, 2024","Dec '23Dec 31, 2023","Dec '22Dec 31, 2022","Dec '21Dec 31, 2021","Dec '20Dec 31, 2020","Dec '19Dec 31, 2019"
+Market Capitalization,"1,462","2,020","2,081","1,437","3,077",-,-
+Market Cap Growth,-27.01%,-2.92%,44.77%,-53.28%,-,-,-
+Enterprise Value,"1,908","2,472","2,527","1,886","3,366",-,-
+Last Close Price,8.03,11.01,11.03,7.44,15.75,-,-
+Forward PE,11.80,19.42,20.29,18.84,53.26,-,-
+PS Ratio,2.04,2.89,3.08,2.32,6.28,-,-
+PB Ratio,1.98,2.69,2.52,1.59,3.12,-,-
+P/FCF Ratio,10.78,18.09,20.49,23.10,89.50,-,-
+P/OCF Ratio,10.61,17.85,19.89,22.18,82.09,-,-
+PEG Ratio,0.62,0.90,0.82,0.72,1.33,-,-
+EV/Sales Ratio,2.66,3.54,3.74,3.04,6.87,-,-
+EV/EBITDA Ratio,15.07,20.73,24.03,24.92,42.64,-,-
+EV/EBIT Ratio,30.78,60.65,270.22,-,-,-,-
+EV/FCF Ratio,13.99,22.13,24.88,30.31,97.92,-,-
+Debt / Equity Ratio,0.75,0.73,0.68,0.60,0.55,1.35,1.06
+Debt / EBITDA Ratio,4.09,4.32,4.92,7.12,6.92,10.28,-
+Debt / FCF Ratio,3.99,4.89,5.52,8.67,15.89,13.17,-
+Asset Turnover,0.50,0.48,0.43,0.38,0.33,0.30,-
+Quick Ratio,1.34,1.71,1.31,1.46,1.41,1.51,1.61
+Current Ratio,2.02,1.97,1.54,1.72,1.66,1.66,1.94
+Return on Equity (ROE),-0.12%,-5.21%,-5.27%,-6.32%,-10.89%,-12.83%,-
+Return on Assets (ROA),2.71%,1.73%,0.38%,-1.13%,-0.78%,-0.36%,-
+Return on Capital (ROIC),2.98%,1.90%,0.41%,-1.23%,-0.85%,-0.40%,-
+Return on Capital Employed (ROCE),4.80%,3.10%,0.70%,-2.00%,-1.20%,-0.50%,-6.20%
+Earnings Yield,-0.05%,-2.03%,-2.19%,-4.16%,-2.66%,-,-
+FCF Yield,9.27%,5.53%,4.88%,4.33%,1.12%,-,-
+Buyback Yield / Dilution,1.87%,2.14%,2.92%,-65.22%,-182.50%,-53.85%,-

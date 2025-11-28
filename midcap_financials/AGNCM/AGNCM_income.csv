@@ -1,29 +1,30 @@
-﻿Period Ending,"Sep '25Sep 30, 2025","Dec '24Dec 31, 2024","Dec '23Dec 31, 2023","Dec '22Dec 31, 2022","Dec '21Dec 31, 2021","Dec '20Dec 31, 2020",2015 - 2019
-Interest and Dividend Income,"3,435","2,949","2,041","1,590","1,361","1,519",Upgrade
-Total Interest Expense,"2,392","1,920","1,617","-3,852","-1,042","3,440",Upgrade
-Net Interest Income,"1,043","1,029",424,"5,442","2,403","-1,921",Upgrade
-Gain (Loss) on Sale of Investments,-228,"-1,073",111,"-6,711","-1,559","1,445",Upgrade
-Other Revenue,141,"1,017",-284,153,-7,303,Upgrade
-Revenue Before Loan Losses,956,973,251,"-1,116",837,-173,Upgrade
-Revenue,956,973,251,"-1,116",837,-173,Upgrade
-Revenue Growth (YoY),-24.07%,287.65%,-,-,-,-,Upgrade
-Salaries & Employee Benefits,79,74,62,41,54,56,Upgrade
-Other Operating Expenses,37.8,34.8,32.9,32,33.2,36.3,Upgrade
-Total Operating Expenses,118,110,96,74,88,93,Upgrade
-Operating Income,838,863,155,"-1,190",749,-266,Upgrade
-EBT Excluding Unusual Items,838,863,155,"-1,190",749,-266,Upgrade
-Pretax Income,838,863,155,"-1,190",749,-266,Upgrade
-Net Income,838,863,155,"-1,190",749,-266,Upgrade
-Preferred Dividends & Other Adjustments,151,132,123,105,100,96,Upgrade
-Net Income to Common,687,731,32,"-1,295",649,-362,Upgrade
-Net Income Growth,-27.32%,456.77%,-,-,-,-,Upgrade
-Shares Outstanding (Basic),968,783,618,537,528,552,Upgrade
-Shares Outstanding (Diluted),972,786,620,537,530,552,Upgrade
-Shares Change (YoY),32.44%,26.86%,15.38%,1.32%,-3.92%,1.88%,Upgrade
-EPS (Basic),0.71,0.93,0.05,-2.41,1.23,-0.66,Upgrade
-EPS (Diluted),0.70,0.93,0.05,-2.41,1.22,-0.66,Upgrade
-EPS Growth,-49.67%,1760.00%,-,-,-,-,Upgrade
-Dividend Per Share,1.440,1.440,1.440,1.440,1.440,1.560,Upgrade
-Dividend Growth,-,-,-,-,-7.69%,-22.00%,Upgrade
-Operating Margin,87.66%,88.70%,61.75%,-,89.49%,-,Upgrade
-Profit Margin,71.86%,75.13%,12.75%,-,77.54%,-,Upgrade
+﻿Period Ending,"Sep '25Sep 30, 2025","Dec '24Dec 31, 2024","Dec '23Dec 31, 2023","Dec '22Dec 31, 2022","Dec '21Dec 31, 2021","Dec '20Dec 31, 2020","Dec '19Dec 31, 2019","Dec '18Dec 31, 2018","Dec '17Dec 31, 2017","Dec '16Dec 31, 2016","Dec '15Dec 31, 2015"
+Interest and Dividend Income,"3,435","2,949","2,041","1,590","1,361","1,519","2,842","1,949","1,293","1,321","1,466"
+Total Interest Expense,"2,392","1,920","1,617","-3,852","-1,042","3,440","3,794",989,835,-354,935
+Net Interest Income,"1,043","1,029",424,"5,442","2,403","-1,921",-952,960,458,"1,675",531
+Gain (Loss) on Sale of Investments,-228,"-1,073",111,"-6,711","-1,559","1,445","2,402",-434,-134,103,-18
+Other Revenue,141,"1,017",-284,153,-7,303,-679,-351,504,"-1,058",-159
+Revenue Before Loan Losses,956,973,251,"-1,116",837,-173,771,229,844,728,354
+Revenue,956,973,251,"-1,116",837,-173,771,229,844,728,354
+Revenue Growth (YoY),-24.07%,287.65%,-,-,-,-,236.68%,-72.87%,15.93%,105.65%,-
+Salaries & Employee Benefits,79,74,62,41,54,56,47,45,42,19,-
+Cost of Services Provided,-,-,-,-,-,-,-,-,-,52,116
+Other Operating Expenses,37.8,34.8,32.9,32,33.2,36.3,35.5,27.5,30.5,24.3,22.3
+Total Operating Expenses,118,110,96,74,88,93,83,73,73,96,139
+Operating Income,838,863,155,"-1,190",749,-266,688,156,771,632,215
+EBT Excluding Unusual Items,838,863,155,"-1,190",749,-266,688,156,771,632,215
+Pretax Income,838,863,155,"-1,190",749,-266,688,129,771,623,215
+Net Income,838,863,155,"-1,190",749,-266,688,129,771,623,215
+Preferred Dividends & Other Adjustments,151,132,123,105,100,96,60,36,38,28,28
+Net Income to Common,687,731,32,"-1,295",649,-362,628,93,733,595,187
+Net Income Growth,-27.32%,456.77%,-,-,-,-,433.33%,-83.27%,23.76%,189.77%,-
+Shares Outstanding (Basic),968,783,618,537,528,552,541,441,359,332,349
+Shares Outstanding (Diluted),972,786,620,537,530,552,541,441,359,332,349
+Shares Change (YoY),32.44%,26.86%,15.38%,1.32%,-3.92%,1.88%,22.66%,23.05%,8.08%,-4.79%,-1.33%
+EPS (Basic),0.71,0.93,0.05,-2.41,1.23,-0.66,1.16,0.21,2.04,1.79,0.54
+EPS (Diluted),0.70,0.93,0.05,-2.41,1.22,-0.66,1.16,0.21,2.04,1.79,0.54
+EPS Growth,-49.67%,1760.00%,-,-,-,-,452.38%,-89.71%,13.97%,233.69%,-
+Dividend Per Share,1.440,1.440,1.440,1.440,1.440,1.560,2.000,2.160,2.160,2.300,2.480
+Dividend Growth,-,-,-,-,-7.69%,-22.00%,-7.41%,-,-6.09%,-7.26%,-4.98%
+Operating Margin,87.66%,88.70%,61.75%,-,89.49%,-,89.23%,68.12%,91.35%,86.81%,60.73%
+Profit Margin,71.86%,75.13%,12.75%,-,77.54%,-,81.45%,40.61%,86.85%,81.73%,52.83%
