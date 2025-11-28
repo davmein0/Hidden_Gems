@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hidden_gems"
+version = "0.0.1"
+description = "Hidden Gems stock research pipeline and model"
+readme = "README.md"
+requires-python = ">=3.8"
+
+[project.scripts]
+run-scrape = "scripts.run_scrape:main"
+run-train = "scripts.run_train:main"
+run-server = "scripts.run_server:main"

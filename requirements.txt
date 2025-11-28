@@ -2,11 +2,22 @@
 # Activate the virtual environment: .\.venv\Scripts\activate (Windows) or source ./venv/bin/activate (Mac/Linux)
 # 1. Update pip (if needed): pip install --upgrade pip 
 # 2. Install packages: pip install -r requirements.txt
+# Python 3.11 or higher is recommended
 
-beautifulsoup4==4.14.2
-pandas==2.3.3
-Requests==2.32.5
-selenium==4.38.0
-tqdm==4.67.1
-webdriver_manager==4.0.2
-yfinance==0.2.66
+beautifulsoup4>=4.14
+pandas>=2.0
+requests>=2.31
+selenium>=4.0
+tqdm>=4.60
+webdriver_manager>=4.0
+yfinance>=0.2
+scikit-learn>=1.3
+xgboost>=1.8
+matplotlib>=3.7
+python-dotenv>=1.0
+flask>=3.0
+flask-cors>=4.0
+joblib>=1.3
+pytest>=7.0
+black>=24.0
+ruff>=0.1
