@@ -1,0 +1,104 @@
+.dashboard-container {
+    display: grid;
+    grid-template-columns: 1.5fr 3fr 1.5fr; 
+    height: 100vh;
+    background: var(--bg-main);
+    color: var(--text-primary);
+  }
+  
+  /* ------------ LEFT PANEL: Watchlist ------------ */
+  
+  .watchlist-panel {
+    background: var(--bg-panel);
+    border-right: 1px solid var(--border-light);
+    padding: 20px;
+    overflow-y: auto;
+  }
+  
+  .watchlist-title {
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  
+  .watchlist-item {
+    background: var(--bg-card);
+    padding: 14px;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    transition: background 0.15s ease;
+    border: 1px solid var(--border-light);
+  }
+  
+  .watchlist-item:hover {
+    background: var(--bg-card-hover);
+  }
+  
+  .watchlist-ticker {
+    font-weight: 600;
+    font-size: 0.95rem;
+  }
+  
+  .watchlist-prob {
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+  }
+  
+  
+  /* ------------ CENTER PANEL: Midcap Grid ------------ */
+  
+  .midcap-grid {
+    background: var(--bg-main);
+    padding: 25px;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 16px;
+    overflow-y: auto;
+  }
+  
+  .company-tile {
+    background: var(--bg-card);
+    padding: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: 1px solid var(--border-light);
+    transition: all 0.15s ease;
+  }
+  
+  .company-tile:hover {
+    background: var(--bg-card-hover);
+    transform: translateY(-2px);
+  }
+  
+  .company-tile-name {
+    font-size: 0.8rem;
+    margin-top: 4px;
+    color: var(--text-secondary);
+  }
+  
+  
+  /* ------------ RIGHT PANEL: Analysis Panel ------------ */
+  
+  .analysis-panel {
+    background: var(--bg-panel);
+    border-left: 1px solid var(--border-light);
+    padding: 25px;
+    overflow-y: auto;
+  }
+  
+  .analysis-panel h2 {
+    margin-bottom: 8px;
+  }
+  
+  .analysis-panel pre {
+    background: var(--bg-card);
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 10px;
+    overflow-x: auto;
+    border: 1px solid var(--border-light);
+  }
+
+  
+  

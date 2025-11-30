@@ -1,0 +1,52 @@
+import React, { useEffect, useState } from "react";
+import axios from "axios";
+
+export default function Watchlist({ setSelectedTicker, setAnalysis }) {
+  const [tickers, setTickers] = useState([]);
+
+  useEffect(() => {
+    const load = async () => {
+      try {
+        const res = await axios.get("http://localhost:8000/watchlist/");
+        setTickers(res.data);
+      } catch (err) {
+        console.error(err);
+      }
+    };
+    load();
+  }, []);
+
+  const clickTicker = async (ticker) => {
+    setSelectedTicker(ticker);
+
+    try {
+      const feat = await axios.get(`http://localhost:8000/features/${ticker}`);
+      const pred = await axios.post("http://localhost:8000/predict/", {
+        ticker,
+        ...feat.data,
+      });
+      setAnalysis(pred.data);
+    } catch {
+      setAnalysis({ error: "Analysis failed" });
+    }
+  };
+
+  return (
+    <div>
+      <div className="watchlist-title">Top Undervalued (Model Ranking)</div>
+
+      {tickers.map((s) => (
+        <div
+          key={s.ticker}
+          className="watchlist-item"
+          onClick={() => clickTicker(s.ticker)}
+        >
+          <div className="watchlist-ticker">{s.ticker}</div>
+          <div className="watchlist-prob">
+            Prob: {(s.probability * 100).toFixed(1)}%
+          </div>
+        </div>
+      ))}
+    </div>
+  );
+}
