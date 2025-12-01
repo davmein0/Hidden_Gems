@@ -2,6 +2,32 @@
 
 An AI model that finds undervalued companies in the NASDAQ 500. We can determine key metrics for success for different industries (like stock data, industry tailwinds, market conditions, and news/political context), and compare that with current ratings or indicators of success, like stock prices. If time permits, we could create a dashboard web app, where users can input companies of their choice to determine their evaluation.
 
+The MVP consists of an web app that lets users select stocks in the NASDAQ stock exchange, and evaluates how undervalued the stock is. The web app relies on a pretrained XGBoost model, and we plan to add sentiment analysis and a high-level reasoning overview for each decision, if time allows.
+
+To run the frontend server, enter into the terminal:
+cd frontend
+npm -install
+npm run dev
+
+To run the backend server, run:
+cd backend
+
+# Create a virtual environment:
+
+python -m venv venv
+
+# Windows
+
+venv\Scripts\activate
+
+# Linux or Mac
+
+source venv/bin/activate
+
+pip install -r requirements.txt
+cd ..
+python -m backend.main
+
 <!-- TABLE OF CONTENTS (outline)-->
 <details>
   <summary>Table of Contents</summary>
