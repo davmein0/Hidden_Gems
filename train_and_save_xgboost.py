@@ -15,13 +15,43 @@ DATA_DIR = "./midcap_financials"
 
 # Define year pairs: (start_year, end_year, nasdaq_start, nasdaq_end)
 YEAR_CONFIGS = [
-    #TODO: add additional years when Lucky finishes scraping more data.
-    {
-        'start_year': '20',
-        'end_year': '21',
-        'nasdaq_start': 8952.88,  # Dec 31, 2020
-        'nasdaq_end': 15644.97    # Dec 31, 2021
-    },
+    # We found that only training the model on post-covid data yielded the best results
+    # {
+    #     'start_year': '15',
+    #     'end_year': '16',
+    #     'nasdaq_start': 5007.41,   # Dec 31, 2015
+    #     'nasdaq_end': 5383.12      # Dec 30, 2016
+    # },
+    # {
+    #     'start_year': '16',
+    #     'end_year': '17',
+    #     'nasdaq_start': 5383.12,   # Dec 30, 2016
+    #     'nasdaq_end': 6903.39      # Dec 29, 2017
+    # },
+    # {
+    #     'start_year': '17',
+    #     'end_year': '18',
+    #     'nasdaq_start': 6903.39,   # Dec 29, 2017
+    #     'nasdaq_end': 6635.28      # Dec 31, 2018
+    # },
+    # {
+    #     'start_year': '18',
+    #     'end_year': '19',
+    #     'nasdaq_start': 6635.28,   # Dec 31, 2018
+    #     'nasdaq_end': 8972.60      # Dec 31, 2019
+    # },
+    # {
+    #     'start_year': '19',
+    #     'end_year': '20',
+    #     'nasdaq_start': 8972.60,   # Dec 31, 2019
+    #     'nasdaq_end': 12888.28     # Dec 31, 2020
+    # },
+    # {
+    #     'start_year': '20',
+    #     'end_year': '21',
+    #     'nasdaq_start': 12888.28,  # Dec 31, 2020
+    #     'nasdaq_end': 15644.97    # Dec 31, 2021
+    # },
     {
         'start_year': '21',
         'end_year': '22',
@@ -56,6 +86,8 @@ def safe_to_float(x):
     try:
         x = str(x).strip().replace(",", "").replace("%", "")
         if x in ["-", "", "Upgrade"]:
+            return None
+        if float(x) == 0:
             return None
         return float(x)
     except ValueError:
