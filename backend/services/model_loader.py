@@ -1,6 +1,16 @@
 import pickle
 import json
+import joblib
+import xgboost as xgb
 from backend.core.config import MODEL_PATH, MODEL_CONFIG_PATH
+
+## Load model and save configuration: pickled XGBoost model not compatible with updated xgboost
+# with open(MODEL_PATH, "rb") as f:
+#     model = joblib.load(f)
+
+# booster = model.get_booster()
+
+# booster.save_model("xgboost_model.json")
 
 with open(MODEL_PATH, "rb") as f:
     model = pickle.load(f)
