@@ -100,5 +100,41 @@
     border: 1px solid var(--border-light);
   }
 
+  .fin-info {
+    margin-top: 1.2rem;
+    margin-bottom: 1.2rem;
+  }
   
+  /* Search bar container */
+.midcap-search-bar-wrapper {
+  width: 100%;
+  padding: 12px 0;
+  display: flex;
+  justify-content: center;
+  margin-top: 1.5rem;
+}
+
+/* Search input styling */
+.midcap-search-input {
+  width: 90%;
+  padding: 10px 14px;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  font-size: 14px;
+  background: #222;
+  color: #fff;
+}
+
+.midcap-search-input::placeholder {
+  color: #999;
+}
+
+/* No results message */
+.no-results {
+  color: #ccc;
+  padding: 20px;
+  text-align: center;
+  width: 100%;
+}
   

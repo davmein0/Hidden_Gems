@@ -8,7 +8,16 @@ export default function Watchlist({ setSelectedTicker, setAnalysis }) {
     const load = async () => {
       try {
         const res = await axios.get("http://localhost:8000/watchlist/");
-        setTickers(res.data);
+
+        // ✅ FILTER: only keep valid items
+        const valid = res.data.filter(
+          (s) =>
+            s &&
+            typeof s.probability === "number" &&
+            !Number.isNaN(s.probability)
+        );
+
+        setTickers(valid);
       } catch (err) {
         console.error(err);
       }
@@ -25,9 +34,16 @@ export default function Watchlist({ setSelectedTicker, setAnalysis }) {
         ticker,
         ...feat.data,
       });
+
+      // ❌ If prediction failed → completely hide analysis
+      if (pred.data.error || isNaN(pred.data.undervalued_probability)) {
+        setAnalysis(null);
+        return;
+      }
+
       setAnalysis(pred.data);
     } catch {
-      setAnalysis({ error: "Analysis failed" });
+      setAnalysis(null); // Hide card
     }
   };
 
