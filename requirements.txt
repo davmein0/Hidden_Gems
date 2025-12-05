@@ -13,3 +13,4 @@ yfinance==0.2.66
 transformers==4.57.1
 torch==2.9.1
 newsapi-python==0.2.7
+rapidFuzz==3.14.3

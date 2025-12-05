@@ -4,6 +4,7 @@ from transformers import pipeline
 import yfinance as yf
 from newsapi import NewsApiClient
 import pandas as pd
+from rapidfuzz import fuzz
 
 #news api key: d99e2ff45573499aab19b385224cf018
 
@@ -13,12 +14,14 @@ midcap_df = pd.read_csv("midcaps.csv")
 newsAPI = NewsApiClient(api_key='d99e2ff45573499aab19b385224cf018')
 pipe = pipeline("text-classification", model="ProsusAI/finbert")
 
-total_score = 0
-total_articles = 0
 
-for ticker in midcap_df["Ticker"]:
+
+for ticker, name in zip(midcap_df["Ticker"], midcap_df["Name"]):
   ticker = yf.Ticker(ticker)
   news = ticker.news
+
+  total_score = 0
+  total_articles = 0
 
   print(f"\n----Finding news for {ticker} ----")
 
@@ -29,11 +32,12 @@ for ticker in midcap_df["Ticker"]:
     content = article.get('content')
     title = content.get('title')
     summary = content.get('summary')
-    url = content.get('previewUrl') or 'No URL available'
+    #url = content.get('previewUrl') or 'No URL available'
 
     #skip for irrelevant articles
-    #if keyword not in summary.lower():
-      #continue
+    score = fuzz.partial_ratio(name, summary)
+    if score < 80:
+        continue
 
     #pull finBERT sentiment from article summary
     analysis = pipe(summary)[0]
