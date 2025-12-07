@@ -23,23 +23,14 @@ export default function MidcapGrid({ setSelectedTicker, setAnalysis }) {
     };
     loadMidcaps();
   }, []);
-
-  useEffect(() => {
-    const query = search.toLowerCase();
-    setFiltered(
-      companies.filter((c) => {
-        const t = c.Ticker.toLowerCase();
-        const n = (c.Name || "").toLowerCase();
-        return t.includes(query) || n.includes(query);
-      })
-    );
-  }, [search, companies]);
-
+ 
   const handleSelect = async (ticker) => {
     setSelectedTicker(ticker);
 
     try {
       const featRes = await axios.get(`http://localhost:8000/features/${ticker}`);
+      const features = featRes.data;
+
       const predRes = await axios.post("http://localhost:8000/predict/", {
         ticker,
         ...featRes.data,
@@ -55,7 +46,12 @@ export default function MidcapGrid({ setSelectedTicker, setAnalysis }) {
         return;
       }
 
-      setAnalysis(predRes.data);
+      const sentimentRes = await axios.get(
+        `http://localhost:8000/sentiment/${ticker}`
+      );
+      const sentiment = sentimentRes.data;
+
+      setAnalysis({ ...predRes.data, sentiment });
     } catch (err) {
       console.error("Prediction failed:", err);
       setAnalysis(null); // hide card, do NOT show "Prediction failed"

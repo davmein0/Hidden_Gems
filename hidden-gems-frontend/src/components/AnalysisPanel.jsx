@@ -16,15 +16,11 @@ export default function AnalysisPanel({ selectedTicker, analysis }) {
 
       <p><strong>Probability:</strong> {(analysis.undervalued_probability * 100).toFixed(2)}%</p>
       <p><strong>Category:</strong> {analysis.confidence_category}</p>
-      <p><strong>Recommendation:</strong> {analysis.recommendation}</p> 
+      <p><strong>Recommendation:</strong> {analysis.recommendation}</p>
+      <p><strong>Model Version:</strong> {analysis.model_version}</p>
 
-      <h3 className="fin-info">Financial Info</h3>
-      <div className="analysis-features">
-        <p><strong>Market Cap:</strong> {analysis.features.MarketCap}</p>
-        <p><strong>EV/EBITDA:</strong> {analysis.features.EV_EBITDA}</p>
-        <p><strong>FCF Yield:</strong> {analysis.features.FCF_Yield}</p>
-        <p><strong>PB Ratio:</strong> {analysis.features.PB_Ratio}</p>
-      </div>
+      <h3>Features</h3>
+      <pre>{JSON.stringify(analysis.features, null, 2)}</pre>
     </div>
   );
 }

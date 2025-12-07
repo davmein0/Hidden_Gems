@@ -34,13 +34,6 @@ export default function Watchlist({ setSelectedTicker, setAnalysis }) {
         ticker,
         ...feat.data,
       });
-
-      // ❌ If prediction failed → completely hide analysis
-      if (pred.data.error || isNaN(pred.data.undervalued_probability)) {
-        setAnalysis(null);
-        return;
-      }
-
       setAnalysis(pred.data);
     } catch {
       setAnalysis(null); // Hide card
