@@ -1,45 +1,55 @@
 from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel, Field
 import pandas as pd
+import math
 
 from backend.services.model_loader import get_model, get_feature_columns, get_model_version
 from backend.models.prediction import PredictionResponse
 
 router = APIRouter(prefix="/predict", tags=["predict"])
 
-# ---------------------------
-# Request body schema
-# ---------------------------
+
 class PredictRequest(BaseModel):
     ticker: str = Field(..., example="AAPL")
-    MarketCap: float
-    PE_Ratio: float
-    PB_Ratio: float
-    PS_Ratio: float
-    EV_EBITDA: float
-    ROE: float
-    FCF_Yield: float
-    Quick_Ratio: float
+    MarketCap: float | None = None
+    PE_Ratio: float | None = None
+    PB_Ratio: float | None = None
+    PS_Ratio: float | None = None
+    EV_EBITDA: float | None = None
+    ROE: float | None = None
+    FCF_Yield: float | None = None
+    Quick_Ratio: float | None = None
 
-# ---------------------------
-# POST /predict  (JSON input)
-# ---------------------------
+
+def sanitize(val):
+    """
+    Preserve missing values as NaN — XGBoost supports missing-handling natively.
+    """
+    try:
+        if val is None:
+            return float('nan')
+        if isinstance(val, float) and math.isnan(val):
+            return float('nan')
+        return float(val)
+    except:
+        return float('nan')
+
+
 @router.post("/", response_model=PredictionResponse)
 def predict_stock(request: PredictRequest):
     try:
         model = get_model()
         feature_columns = get_feature_columns()
 
-        # Convert request → DataFrame in correct feature order
-        df = pd.DataFrame({
-            col: [getattr(request, col)] for col in feature_columns
-        })
+        clean = {}
+        for col in feature_columns:
+            clean[col] = sanitize(getattr(request, col))
 
-        # Prediction
+        df = pd.DataFrame([clean])
+
         prob = float(model.predict_proba(df)[0][1])
         label = int(model.predict(df)[0])
 
-        # Confidence categories
         if prob < 0.3:
             category = "Likely Overvalued"
             rec = "AVOID"
@@ -60,7 +70,7 @@ def predict_stock(request: PredictRequest):
             confidence_category=category,
             recommendation=rec,
             model_version=get_model_version(),
-            features=df.iloc[0].to_dict()
+            features=clean
         )
 
     except Exception as e:
