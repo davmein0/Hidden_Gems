@@ -6,6 +6,7 @@ from backend.routers.midcaps import router as midcaps_router
 from backend.routers.search import router as search_router
 from backend.routers.watchlist import router as watchlist_router
 from backend.routers.features import router as features_router
+from backend.routers import predict, sentiment
 
 app = FastAPI(title="Hidden Gems Stock Analysis API", version="1.0")
 
@@ -22,6 +23,7 @@ app.include_router(midcaps_router)
 app.include_router(search_router)
 app.include_router(watchlist_router)
 app.include_router(features_router)
+app.include_router(sentiment.router)
 
 @app.get("/")
 def root():

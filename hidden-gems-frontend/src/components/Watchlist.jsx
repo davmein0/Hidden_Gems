@@ -25,7 +25,11 @@ export default function Watchlist({ setSelectedTicker, setAnalysis }) {
         ticker,
         ...feat.data,
       });
-      setAnalysis(pred.data);
+      const sentiment = await axios.get(
+        `http://localhost:8000/sentiment/${ticker}`
+      );
+      pred.data.sentiment = sentiment.data;
+      setAnalysis(pred.data, sentiment.data);
     } catch {
       setAnalysis({ error: "Analysis failed" });
     }

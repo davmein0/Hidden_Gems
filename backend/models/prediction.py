@@ -1,5 +1,5 @@
 from pydantic import BaseModel
-from typing import Dict
+from typing import Dict, Optional
 
 class PredictionResponse(BaseModel):
     ticker: str
@@ -9,3 +9,8 @@ class PredictionResponse(BaseModel):
     recommendation: str
     model_version: str
     features: Dict[str, float]
+
+    # NEW: separate finbert sentiment fields
+    finbert_polarity_avg: Optional[float] = None
+    finbert_count: Optional[int] = None
+    finbert_category: Optional[str] = None

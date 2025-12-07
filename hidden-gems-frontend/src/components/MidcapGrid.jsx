@@ -19,12 +19,14 @@ export default function MidcapGrid({ setSelectedTicker, setAnalysis }) {
     };
     loadMidcaps();
   }, []);
- 
+
   const handleSelect = async (ticker) => {
     setSelectedTicker(ticker);
 
     try {
-      const featRes = await axios.get(`http://localhost:8000/features/${ticker}`);
+      const featRes = await axios.get(
+        `http://localhost:8000/features/${ticker}`
+      );
       const features = featRes.data;
 
       const predRes = await axios.post("http://localhost:8000/predict/", {
@@ -32,7 +34,12 @@ export default function MidcapGrid({ setSelectedTicker, setAnalysis }) {
         ...features,
       });
 
-      setAnalysis(predRes.data);
+      const sentimentRes = await axios.get(
+        `http://localhost:8000/sentiment/${ticker}`
+      );
+      const sentiment = sentimentRes.data;
+
+      setAnalysis({ ...predRes.data, sentiment });
     } catch (err) {
       console.error("Prediction failed:", err);
       setAnalysis({ error: "Prediction failed" });
