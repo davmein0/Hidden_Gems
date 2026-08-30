@@ -1,16 +1,60 @@
-# React + Vite
+# Hidden Gems Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The active dashboard for [Hidden Gems](../README.md): a React 19 + Vite + Tailwind app for browsing mid-cap NASDAQ stocks, running undervaluation predictions, and reading the generated analysis.
 
-Currently, two official plugins are available:
+> The top-level `frontend/` directory is a deprecated prototype. All frontend work happens here.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Requirements
 
-## React Compiler
+- Node.js 18 or newer
+- The Hidden Gems backend running at `http://localhost:8000` (see the [root README](../README.md#backend-setup))
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Install
 
-## Expanding the ESLint configuration
+```bash
+npm install
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Run the dev server
+
+```bash
+npm run dev
+```
+
+Vite serves the app at `http://localhost:5173` with hot module replacement.
+
+## Build and preview
+
+```bash
+npm run build     # production build into dist/
+npm run preview   # serve the built output locally
+npm run lint      # eslint
+```
+
+## Backend connection
+
+The app talks to the FastAPI backend with `axios`, using the hard-coded base URL `http://localhost:8000`. The backend enables permissive CORS, so no proxy configuration is needed for local development. Endpoints used:
+
+| Endpoint                   | Used by                            |
+| -------------------------- | ---------------------------------- |
+| `GET /midcaps/`            | `components/MidcapGrid.jsx`        |
+| `GET /watchlist/`          | `components/Watchlist.jsx`         |
+| `GET /features/{ticker}`   | `MidcapGrid.jsx`, `Watchlist.jsx`  |
+| `POST /predict/`           | `MidcapGrid.jsx`, `Watchlist.jsx`  |
+| `GET /sentiment/{ticker}`  | `components/MidcapGrid.jsx`        |
+
+If the backend runs elsewhere, update the URLs in `src/components/`.
+
+## Structure
+
+```
+src/
+  App.jsx                 app shell
+  main.jsx                entrypoint
+  pages/Dashboard.jsx     composes the dashboard
+  components/
+    MidcapGrid.jsx        mid-cap universe grid with predictions
+    Watchlist.jsx         saved tickers
+    AnalysisPanel.jsx     detail view for the selected ticker
+  styles/, assets/
+```

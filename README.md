@@ -1,139 +1,213 @@
-# Hidden_Gems
+# Hidden Gems
 
-An AI model that finds undervalued companies in the NASDAQ 500. We can determine key metrics for success for different industries (like stock data, industry tailwinds, market conditions, and news/political context), and compare that with current ratings or indicators of success, like stock prices. If time permits, we could create a dashboard web app, where users can input companies of their choice to determine their evaluation.
+Hidden Gems is an AI-powered research tool that looks for undervalued mid-cap stocks listed on the NASDAQ exchange (roughly $2B–$10B market cap). It combines a pretrained XGBoost classifier over fundamental metrics, FinBERT sentiment scoring of recent news, and a multi-agent LLM system that produces an explainable written analysis for a ticker.
 
-The MVP consists of an web app that lets users select stocks in the NASDAQ stock exchange, and evaluates how undervalued the stock is. The web app relies on a pretrained XGBoost model, and we plan to add sentiment analysis and a high-level reasoning overview for each decision, if time allows.
+The system ships as a FastAPI backend that serves predictions, features, sentiment, and search over a mid-cap universe, plus a React dashboard where users browse mid-cap stocks, run a valuation prediction, and read the generated analysis.
 
-To run the frontend server, enter into the terminal:
-cd hidden-gems-frontend
-npm -install
-npm run dev
+## Table of Contents
 
-To run the backend server, run:
-cd backend
+- [Overview](#overview)
+- [Architecture](#architecture)
+  - [Backend API](#backend-api)
+  - [Multi-agent analysis](#multi-agent-analysis)
+  - [Models](#models)
+  - [Data pipeline](#data-pipeline)
+  - [Frontend](#frontend)
+  - [Active vs. legacy components](#active-vs-legacy-components)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Backend setup](#backend-setup)
+  - [Frontend setup](#frontend-setup)
+  - [Environment variables](#environment-variables)
+  - [Scraping and training](#scraping-and-training)
+- [Data Layout](#data-layout)
+- [Model Details](#model-details)
 
-# Create a virtual environment:
+## Overview
 
-python -m venv venv
+For a given ticker, Hidden Gems:
 
-# Windows
+1. Loads fundamental features (P/E, P/B, P/S, EV/EBITDA, ROE, FCF yield, quick ratio, market cap) from the scraped mid-cap dataset.
+2. Scores the ticker with the pretrained XGBoost classifier to estimate how likely it is to be undervalued, along with a confidence category.
+3. Computes FinBERT sentiment over recent news headlines for the ticker.
+4. Optionally runs a multi-agent LLM workflow (industry, management, product, and financials agents coordinated by a supervisor) to produce a structured written report.
 
-venv\Scripts\activate
+## Architecture
 
-# Linux or Mac
+### Backend API
 
-source venv/bin/activate
+The FastAPI application lives in `backend/main.py` and mounts these routers from `backend/routers/`:
 
-pip install -r requirements.txt
-cd ..
-uvicorn backend.main:app --reload --port 8000
+| Router      | Prefix       | Purpose                                                     |
+| ----------- | ------------ | ----------------------------------------------------------- |
+| `predict`   | `/predict`   | `POST` a ticker (plus optional feature overrides) and get an undervaluation probability, confidence category, and sentiment. |
+| `midcaps`   | `/midcaps`   | List the mid-cap universe used by the dashboard.             |
+| `search`    | `/search`    | Search the mid-cap universe by ticker or company name.       |
+| `watchlist` | `/watchlist` | Read the saved watchlist of tickers.                         |
+| `features`  | `/features`  | Return the raw fundamental features for a ticker.            |
+| `sentiment` | `/sentiment` | Return FinBERT news sentiment for a ticker.                  |
 
-<!-- TABLE OF CONTENTS (outline)-->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+Supporting code sits in `backend/services/` (model, feature, and sentiment loaders), `backend/models/` (Pydantic response schemas), and `backend/core/config.py` (paths to the model artifacts and mid-cap data).
 
-## XGBoost Fundamental Analysis Model
+Interactive API docs are available at `http://localhost:8000/docs` once the server is running.
 
-### Overview & Limitations
+### Multi-agent analysis
 
-This XGBoost classification model serves as the **fundamental analysis foundation** for our stock prediction system. It analyzes 10 key financial metrics (P/E, P/B, ROE, FCF Yield, etc.) to identify potentially undervalued mid-cap stocks.
+`backend/agents.py` defines a LlamaIndex ReAct multi-agent system on top of OpenAI models, with a SerpAPI web-search tool. Four specialist agents (industry, management, product, financials) are exposed as tools to a supervisor agent, which coordinates them into a single structured report for a ticker.
 
-**Important**: This model achieves **50% precision** on its own, which may seem low but is actually reasonable for fundamental-only stock prediction. Stock prices are driven by many factors beyond fundamentals—sentiment, momentum, news catalysts, and market psychology all play major roles that financial ratios cannot capture. Professional quant funds with far more resources typically achieve 55-65% precision on similar tasks.
+### Models
 
-### Current Performance
+- **XGBoost classifier** — serialized at `xgboost_model.pkl` with its feature list and version in `model_config.json`. See [Model Details](#model-details).
+- **FinBERT** (`ProsusAI/finbert`) — loaded through `transformers` in `backend/services/sentiment_loader.py` and applied to recent news headlines.
 
-- **ROC AUC**: 0.610 (meaningfully better than random)
-- **Training Data**: 414 ticker-year combinations (2021-2024)
-- **Calibration**: High-confidence picks (>0.7 probability) have a 50% success rate vs. 26% for low-confidence picks
+### Data pipeline
 
-The model excels at **ranking** stocks by fundamental quality but struggles to predict actual price movements on its own.
+`src/hidden_gems/scrape/pipeline.py` builds the dataset: it fetches the NASDAQ ticker list, filters to mid-caps by historical market cap, pulls fundamentals from Yahoo Finance, pulls 10-K filings via the SEC API, and merges everything into a single dataset. Training code lives in `src/hidden_gems/ml/train.py`. Both are driven by the CLI wrappers in `scripts/` (`run_scrape.py`, `run_train.py`, `generate_labels.py`).
 
-### Why This is a Foundation, Not the Final Product
+### Frontend
 
-This model is designed to work alongside **FinBERT sentiment analysis**:
+`hidden-gems-frontend/` is a React 19 + Vite + Tailwind dashboard. `src/pages/Dashboard.jsx` composes the `MidcapGrid`, `Watchlist`, and `AnalysisPanel` components, which call the backend with `axios` at `http://localhost:8000`.
 
-- **XGBoost**: Identifies fundamentally cheap, quality stocks
-- **FinBERT** (to be added): Detects positive sentiment and catalysts
-- **Combined**: Filters out "value traps" (cheap for a reason) and finds true opportunities
+### Active vs. legacy components
 
-By combining fundamental scores with sentiment analysis, we expect to push precision from 50% to **60-70%**, similar to professional quantitative strategies.
+| Path                        | Status                                                            |
+| --------------------------- | ----------------------------------------------------------------- |
+| `hidden-gems-frontend/`     | **Active** frontend.                                               |
+| `backend/`                  | **Active** FastAPI backend.                                        |
+| `frontend/`                 | Legacy React prototype, kept for reference only. Do not build on it. |
+| `train_and_save_xgboost.py` | Legacy Flask/training prototype, superseded by `src/hidden_gems/ml/train.py` and `scripts/run_train.py`. |
+| `midcap_scrape.py`, `sentiment_scrape.py`, `finBert_news.py` | Legacy top-level scripts, superseded by `src/hidden_gems/scrape/pipeline.py`. |
 
-### Key Takeaway
+## Getting Started
 
-Think of this as the "quality filter" that identifies financially sound, undervalued companies. The sentiment layer will then help us determine _when_ the market is ready to recognize that value.
+### Prerequisites
 
-## Developer Quick Start
+- Python 3.11 or newer
+- Node.js 18 or newer (for the frontend)
 
-1. Create and activate a virtual environment
+### Backend setup
 
-```powershell
+From the repository root:
+
+```bash
 python -m venv .venv
+```
+
+Activate the virtual environment:
+
+```bash
+# macOS / Linux
+source .venv/bin/activate
+
+# Windows (PowerShell)
 .\.venv\Scripts\activate
 ```
 
-2. Install dependencies
+Install dependencies and the local package:
 
-```powershell
+```bash
 pip install --upgrade pip
 pip install -r requirements.txt
 pip install -e .
 ```
 
-3. Set environment variables (see `.env.sample`)
-4. Run the scraper
+Run the API server from the repository root (not from `backend/`, so that the `backend.*` imports resolve):
 
-```powershell
-python -m scripts.run_scrape --date 2025-11-28 --limit 100
+```bash
+uvicorn backend.main:app --reload --port 8000
 ```
 
-5. Run training
+The API is then available at `http://localhost:8000`.
 
-```powershell
+### Frontend setup
+
+In a second terminal:
+
+```bash
+cd hidden-gems-frontend
+npm install
+npm run dev
+```
+
+Vite serves the dashboard at `http://localhost:5173` and expects the backend at `http://localhost:8000`.
+
+### Environment variables
+
+Copy `.env.sample` to `.env` and fill in your own keys:
+
+```bash
+cp .env.sample .env
+```
+
+| Variable                          | Used for                                            |
+| --------------------------------- | --------------------------------------------------- |
+| `SEC_API_KEY`                     | Fetching 10-K filings in the scrape pipeline.        |
+| `MIN_MARKET_CAP` / `MAX_MARKET_CAP` | Mid-cap universe bounds (defaults: $2B–$10B).      |
+| `YF_SLEEP`                        | Throttle between Yahoo Finance requests.             |
+| `OPENAI_KEY`                      | Multi-agent analysis in `backend/agents.py`.         |
+| `SERP_API_KEY`                    | Web search tool used by the agents.                  |
+
+Never commit your `.env` file.
+
+### Scraping and training
+
+```bash
+# Build a fresh dataset for a given as-of date
+python -m scripts.run_scrape --date 2025-11-28 --limit 100
+
+# Train the model
 python -m scripts.run_train
 ```
 
 For other developer tasks, see `pyproject.toml` and `scripts/`.
 
-## Data layout (relative paths)
+## Data Layout
 
 The project stores datasets and artifacts under a unified `data/` folder at the repo root:
 
-- `data/raw/` - raw CSVs, intermediate outputs from scrapers (e.g., `midcaps_YYYY-MM-DD.csv`, `financials_YYYY-MM-DD.csv`, `filings_YYYY-MM-DD.csv`).
-- `data/interim/` - merged/intermediate datasets generated by the pipeline (e.g., `merged_dataset_YYYY-MM-DD.csv`).
-- `data/processed/` - final processed datasets for ML or UI (e.g., `merged_combined.csv`, `labeled_from_merged.csv`).
-- `models/` - serialized models saved by training, e.g. `xgb_undervalued.pkl`.
+- `data/raw/` — raw CSVs, intermediate outputs from scrapers (e.g., `midcaps_YYYY-MM-DD.csv`, `financials_YYYY-MM-DD.csv`, `filings_YYYY-MM-DD.csv`).
+- `data/interim/` — merged/intermediate datasets generated by the pipeline (e.g., `merged_dataset_YYYY-MM-DD.csv`).
+- `data/processed/` — final processed datasets for ML or the UI (e.g., `merged_combined.csv`, `labeled_from_merged.csv`).
+- `models/` — serialized models saved by training, e.g. `xgb_undervalued.pkl`.
 
-Files are written by the pipeline using relative `data/` paths (via `hidden_gems.io` helpers). Use `scripts` wrappers or the package entrypoints to run operations and avoid writing to the repo root inadvertently.
+Files are written by the pipeline using relative `data/` paths (via `hidden_gems.io` helpers). Use the `scripts/` wrappers or the package entrypoints to run operations and avoid writing to the repo root inadvertently.
 
 Examples:
 
-```powershell
+```bash
 # Scrape using data/raw as destination
-python scripts\run_scrape.py --date 2025-11-28 --limit 100
+python scripts/run_scrape.py --date 2025-11-28 --limit 100
 
 # Use the pre-existing CSV under data/processed for training
-python scripts\run_train.py --dataset data\processed\labeled_from_merged.csv --model-path models\xgb_undervalued.pkl
+python scripts/run_train.py --dataset data/processed/labeled_from_merged.csv --model-path models/xgb_undervalued.pkl
 ```
 
+## Model Details
+
+### Overview and limitations
+
+The XGBoost classification model is the **fundamental analysis foundation** of the prediction system. It analyzes 10 key financial metrics (P/E, P/B, ROE, FCF yield, etc.) to identify potentially undervalued mid-cap stocks.
+
+**Important**: this model achieves **50% precision** on its own, which may seem low but is reasonable for fundamental-only stock prediction. Stock prices are driven by many factors beyond fundamentals — sentiment, momentum, news catalysts, and market psychology all play major roles that financial ratios cannot capture. Professional quant funds with far more resources typically achieve 55–65% precision on similar tasks.
+
+### Current performance
+
+- **ROC AUC**: 0.610 (meaningfully better than random)
+- **Training data**: 414 ticker-year combinations (2021–2024)
+- **Calibration**: high-confidence picks (>0.7 probability) have a 50% success rate vs. 26% for low-confidence picks
+
+The model excels at **ranking** stocks by fundamental quality but struggles to predict actual price movements on its own.
+
+### Why this is a foundation, not the final product
+
+The model is designed to work alongside **FinBERT sentiment analysis**:
+
+- **XGBoost**: identifies fundamentally cheap, quality stocks.
+- **FinBERT**: detects positive sentiment and catalysts.
+- **Combined**: filters out "value traps" (cheap for a reason) and finds true opportunities.
+
+By combining fundamental scores with sentiment analysis, we expect to push precision from 50% to **60–70%**, similar to professional quantitative strategies.
+
+### Key takeaway
+
+Think of the classifier as the "quality filter" that identifies financially sound, undervalued companies. The sentiment layer then helps determine _when_ the market is ready to recognize that value.
