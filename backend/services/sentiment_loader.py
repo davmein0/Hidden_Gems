@@ -1,5 +1,6 @@
 import os
 import logging
+import threading
 from typing import Dict, Optional, List
 from transformers import pipeline
 from newsapi import NewsApiClient
@@ -9,31 +10,28 @@ import yfinance as yf
 logger = logging.getLogger(__name__)
 
 _PIPELINE = None
+_PIPELINE_LOCK = threading.Lock()
 _NEWSAPI = None
-
-newsAPI = NewsApiClient(api_key='d99e2ff45573499aab19b385224cf018')
-pipe = pipeline("text-classification", model="ProsusAI/finbert")
+_NEWSAPI_LOCK = threading.Lock()
 
 def _get_pipeline():
-    if pipe:
-        return pipe
     global _PIPELINE
     if _PIPELINE is None:
-        model_name = os.environ.get("FINBERT_MODEL", "ProsusAI/finbert")
-        logger.info("Loading finBERT model: %s", model_name)
-        _PIPELINE = pipeline("text-classification", model=model_name)
+        with _PIPELINE_LOCK:
+            if _PIPELINE is None:
+                model_name = os.environ.get("FINBERT_MODEL", "ProsusAI/finbert")
+                logger.info("Loading finBERT model: %s", model_name)
+                _PIPELINE = pipeline("text-classification", model=model_name)
     return _PIPELINE
 
 def _get_newsapi():
-    if newsAPI:
-        return newsAPI
     global _NEWSAPI
     if _NEWSAPI is None:
-        key = os.environ.get("NEWSAPI_KEY")
-        if key:
-            _NEWSAPI = NewsApiClient(api_key=key)
-        else:
-            _NEWSAPI = None
+        with _NEWSAPI_LOCK:
+            if _NEWSAPI is None:
+                key = os.environ.get("NEWSAPI_KEY")
+                if key:
+                    _NEWSAPI = NewsApiClient(api_key=key)
     return _NEWSAPI
 
 def _fetch_articles(ticker: str, name: Optional[str], top_n: int = 10) -> List[Dict]:

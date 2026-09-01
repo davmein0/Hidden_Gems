@@ -138,7 +138,7 @@ Vite serves the dashboard at `http://localhost:5173` and expects the backend at 
 | `SEC_API_KEY`                       | 10-K filing fetches in `src/hidden_gems/scrape/pipeline.py`          | process environment        |
 | `MIN_MARKET_CAP` / `MAX_MARKET_CAP` | Mid-cap universe bounds (defaults: $2B–$10B)                        | process environment        |
 | `YF_SLEEP`                          | Throttle between Yahoo Finance requests (default `0.22`)            | process environment        |
-| `NEWSAPI_KEY`                       | News fetch for FinBERT sentiment (`backend/services/sentiment_loader.py`) | process environment  |
+| `NEWSAPI_KEY`                       | News fetch for FinBERT sentiment; falls back to Yahoo Finance news when unset (`backend/services/sentiment_loader.py`) | process environment |
 | `OPENAI_KEY`                        | Multi-agent analysis in `backend/agents.py`                          | `config.env`               |
 | `SERP_API_KEY`                      | Web search tool used by the agents                                   | `config.env`               |
 
@@ -159,13 +159,17 @@ Never commit your `.env` or `config.env` file.
 # Build a fresh dataset for a given as-of date (writes under data/raw and data/interim)
 python -m scripts.run_scrape --date 2025-11-28 --limit 100
 
-# Label a merged dataset and train on it (writes models/xgb_undervalued.pkl)
-python -m scripts.run_train --dataset data/processed/labeled_from_merged.csv
+# Heuristically label the merged dataset and train on it
+# (writes data/labeled_from_merged.csv, then models/xgb_undervalued.pkl)
+python -m scripts.run_train --labelgen
+
+# Or train on a dataset you already have
+python -m scripts.run_train --dataset path/to/labeled.csv
 ```
 
-With no `--dataset`, `scripts/run_train.py` falls back to the tiny `data/example.csv` sample, which is only useful as a smoke test.
+`--labelgen` labels the repo-root `merged_dataset.csv` with the prototype heuristic in `scripts/generate_labels.py`. With neither flag, `scripts/run_train.py` falls back to the tiny `data/example.csv` sample, which is only useful as a smoke test.
 
-**Retraining does not update the served model.** The API loads `xgboost_model.pkl` and `model_config.json` from the repo root (see `backend/core/config.py`), while training writes `models/xgb_undervalued.pkl`. To serve a newly trained model, copy it to the repo root as `xgboost_model.pkl` and update `model_config.json` so `feature_columns` and `model_version` match the model you trained.
+**Retraining does not update the served model, and the two are not currently interchangeable.** The API loads `xgboost_model.pkl` plus `model_config.json` from the repo root (see `backend/core/config.py`) and feeds it the fields declared on `PredictRequest` in `backend/routers/predict.py` (`MarketCap`, `PE_Ratio`, `PB_Ratio`, `PS_Ratio`, `EV_EBITDA`, `ROE`, `FCF_Yield`, `Quick_Ratio`). `src/hidden_gems/ml/train.py` trains on a different feature set (`MarketCap`, `PE_Ratio`, `PB_Ratio`, `DE_Ratio`, `FreeCashFlow`) and writes `models/xgb_undervalued.pkl`. Dropping that model in as `xgboost_model.pkl` would make every prediction fail, because `DE_Ratio` and `FreeCashFlow` are not request fields. Serving a retrained model therefore requires first aligning the trainer's features with the API contract (or extending `PredictRequest` and the feature loader), then copying the model to the repo root and updating `feature_columns` / `model_version` in `model_config.json`.
 
 For other developer tasks, see `pyproject.toml` and `scripts/`.
 
