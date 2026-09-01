@@ -6,7 +6,7 @@ The active dashboard for [Hidden Gems](../README.md): a React 19 + Vite + Tailwi
 
 ## Requirements
 
-- Node.js 18 or newer
+- Node.js `^20.19.0` or `>=22.12.0` (required by the pinned Vite 7 toolchain)
 - The Hidden Gems backend running at `http://localhost:8000` (see the [root README](../README.md#backend-setup))
 
 ## Install

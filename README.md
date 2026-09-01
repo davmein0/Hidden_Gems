@@ -83,7 +83,7 @@ Interactive API docs are available at `http://localhost:8000/docs` once the serv
 ### Prerequisites
 
 - Python 3.11 or newer
-- Node.js 18 or newer (for the frontend)
+- Node.js `^20.19.0` or `>=22.12.0` (required by the pinned Vite 7 toolchain)
 
 ### Backend setup
 
@@ -133,31 +133,39 @@ Vite serves the dashboard at `http://localhost:5173` and expects the backend at 
 
 ### Environment variables
 
-Copy `.env.sample` to `.env` and fill in your own keys:
+| Variable                            | Read by                                                            | Source file the code reads |
+| ----------------------------------- | ------------------------------------------------------------------ | -------------------------- |
+| `SEC_API_KEY`                       | 10-K filing fetches in `src/hidden_gems/scrape/pipeline.py`          | process environment        |
+| `MIN_MARKET_CAP` / `MAX_MARKET_CAP` | Mid-cap universe bounds (defaults: $2B–$10B)                        | process environment        |
+| `YF_SLEEP`                          | Throttle between Yahoo Finance requests (default `0.22`)            | process environment        |
+| `NEWSAPI_KEY`                       | News fetch for FinBERT sentiment (`backend/services/sentiment_loader.py`) | process environment  |
+| `OPENAI_KEY`                        | Multi-agent analysis in `backend/agents.py`                          | `config.env`               |
+| `SERP_API_KEY`                      | Web search tool used by the agents                                   | `config.env`               |
+
+Nothing in the codebase auto-loads a root `.env`, so copying `.env.sample` on its own has no effect. Export the pipeline/backend variables into your shell before running anything:
 
 ```bash
 cp .env.sample .env
+set -a && source .env && set +a
 ```
 
-| Variable                          | Used for                                            |
-| --------------------------------- | --------------------------------------------------- |
-| `SEC_API_KEY`                     | Fetching 10-K filings in the scrape pipeline.        |
-| `MIN_MARKET_CAP` / `MAX_MARKET_CAP` | Mid-cap universe bounds (defaults: $2B–$10B).      |
-| `YF_SLEEP`                        | Throttle between Yahoo Finance requests.             |
-| `OPENAI_KEY`                      | Multi-agent analysis in `backend/agents.py`.         |
-| `SERP_API_KEY`                    | Web search tool used by the agents.                  |
+The agents in `backend/agents.py` call `load_dotenv('config.env')`, so `OPENAI_KEY` and `SERP_API_KEY` must live in a `config.env` file in the directory you launch the process from (or be exported the same way).
 
-Never commit your `.env` file.
+Never commit your `.env` or `config.env` file.
 
 ### Scraping and training
 
 ```bash
-# Build a fresh dataset for a given as-of date
+# Build a fresh dataset for a given as-of date (writes under data/raw and data/interim)
 python -m scripts.run_scrape --date 2025-11-28 --limit 100
 
-# Train the model
-python -m scripts.run_train
+# Label a merged dataset and train on it (writes models/xgb_undervalued.pkl)
+python -m scripts.run_train --dataset data/processed/labeled_from_merged.csv
 ```
+
+With no `--dataset`, `scripts/run_train.py` falls back to the tiny `data/example.csv` sample, which is only useful as a smoke test.
+
+**Retraining does not update the served model.** The API loads `xgboost_model.pkl` and `model_config.json` from the repo root (see `backend/core/config.py`), while training writes `models/xgb_undervalued.pkl`. To serve a newly trained model, copy it to the repo root as `xgboost_model.pkl` and update `model_config.json` so `feature_columns` and `model_version` match the model you trained.
 
 For other developer tasks, see `pyproject.toml` and `scripts/`.
 
