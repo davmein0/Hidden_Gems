@@ -11,12 +11,7 @@ logger = logging.getLogger(__name__)
 _PIPELINE = None
 _NEWSAPI = None
 
-newsAPI = NewsApiClient(api_key='d99e2ff45573499aab19b385224cf018')
-pipe = pipeline("text-classification", model="ProsusAI/finbert")
-
 def _get_pipeline():
-    if pipe:
-        return pipe
     global _PIPELINE
     if _PIPELINE is None:
         model_name = os.environ.get("FINBERT_MODEL", "ProsusAI/finbert")
@@ -25,8 +20,6 @@ def _get_pipeline():
     return _PIPELINE
 
 def _get_newsapi():
-    if newsAPI:
-        return newsAPI
     global _NEWSAPI
     if _NEWSAPI is None:
         key = os.environ.get("NEWSAPI_KEY")
